@@ -17,7 +17,7 @@ c21_year = re.compile(r"2\s*0\s*[0-9]\s*[0-9]")
 class Issue:
     __slots__ = ['issue_no', 'match', 'year', 'anomalous', 'date']
 
-    def __init__(self, issue_no:int, match: re.Match, year:int, anomalous:bool):
+    def __init__(self, issue_no:int, match, year:int, anomalous:bool):
         self.issue_no = issue_no
         self.match = match
         self.year = year
@@ -42,12 +42,13 @@ class Issue:
                     return True
         return False
 
-    def parse_date(self):
+    def parse_date(self, preceding=""):
         if self.match is None:
             self.anomalous = True
             return
 
         string = self.match.string[:self.match.end()] # ends with the last year digit as we assume year always comes last
+        string = ''.join(preceding.split()) + string
         #TODO: instead of +1, give stricter limits?
         self.parse_attempt(string, range(0, self.match.start()+1))
 
@@ -85,8 +86,8 @@ class DateExtractor:
         for issue in issue_numbers:
             if issue == 1:
                 continue
-            if issue < 1611:
-                continue
+            #if issue < 1611:
+                #continue
             if not os.path.isdir(os.path.join(self.issues_root, str(issue))):
                 continue
 
@@ -109,7 +110,7 @@ class DateExtractor:
 
             self.extracted.append(extracted_issue)
 
-    def read_issue(self, issue_no: str, matcher: re.Pattern) -> Issue:
+    def read_issue(self, issue_no: str, matcher) -> Issue:
         issue_dir = os.path.join(self.issues_root, issue_no)
         page_files = os.listdir(issue_dir)
 
@@ -125,13 +126,17 @@ class DateExtractor:
                 content = p.read()
 
             # We assume dates are on the same line
-            for line in content.splitlines():
+            lines = content.splitlines()
+            for line_no, line in enumerate(lines):
                 matched = matcher.search(line)
                 if matched is not None:
                     year_num = line[matched.start():matched.end()]
                     year_num = ''.join(year_num.split())
                     ret = Issue(int(issue_no), matched, int(year_num), False)
-                    ret.parse_date()
+                    if line_no != 0:
+                        ret.parse_date(lines[line_no-1])
+                    else:
+                        ret.parse_date()
                     if ret.date is None:
                         continue
                     return ret
