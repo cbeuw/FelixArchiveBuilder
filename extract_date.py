@@ -3,7 +3,6 @@ import re
 import os
 import sys
 from dateutil import parser
-from operator import attrgetter
 from typing import *
 from datetime import date, datetime
 
@@ -24,21 +23,28 @@ class Issue:
         self.anomalous = anomalous
         self.date: date = None
 
-    def parse_attempt(self,string,index_range) -> bool:
+
+    # returns true if no further attempts need to be made
+    def parse_attempt(self, string, substr_max_left_index) -> bool:
         default_date = datetime(1,1,1,0,0,0,0)
-        for i in index_range:
+        for i in range(0,substr_max_left_index):
             try:
-                date = parser.parse(string[i:], default=default_date, dayfirst=True, yearfirst=False,
+                extracted_date = parser.parse(string[i:], default=default_date, dayfirst=True, yearfirst=False,
                                     ignoretz=True)
             except:
                 continue
             else:
-                if self.year != date.year:
+                if self.year != extracted_date.year:
                     continue
-                elif date.day == default_date.day:
-                    continue
+                elif extracted_date.day == default_date.day:
+                    if re.match(r"1|01", string[i:].replace(str(self.year), "")):
+                        self.date = extracted_date.date()
+                        self.anomalous = True
+                        return False
+                    else:
+                        continue
                 else:
-                    self.date = date.date()
+                    self.date = extracted_date.date()
                     return True
         return False
 
@@ -50,15 +56,17 @@ class Issue:
         string = self.match.string[:self.match.end()] # ends with the last year digit as we assume year always comes last
         string = ''.join(preceding.split()) + string
         #TODO: instead of +1, give stricter limits?
-        self.parse_attempt(string, range(0, self.match.start()+1))
+        if self.parse_attempt(string, self.match.start()+1):
+            return
 
         string_stripped = ''.join(string.split())
-        self.parse_attempt(string_stripped, range(0, len(string_stripped)-3))
+        if self.parse_attempt(string_stripped, len(string_stripped)-3):
+            return
 
         # parser doesn't like it when it's like 6thNOVEMBER1965
         string_stripped_defed = re.sub(r"st|nd|rd|th|ST|ND|RD|TH|[^0-9a-zA-Z]+", " ", string_stripped)
-
-        self.parse_attempt(string_stripped_defed, range(0, len(string_stripped_defed)-3))
+        if self.parse_attempt(string_stripped_defed, len(string_stripped_defed)-3):
+            return
 
         if self.date is None:
             print("Issue " + str(self.issue_no) + ": " + self.match.string)
@@ -75,19 +83,12 @@ class DateExtractor:
 
         self.extracted=[first]
 
-    def last_normal_issue(self) -> Issue:
-        for i in range(len(self.extracted) - 1, -1, -1):
-            if not self.extracted[i].anomalous:
-                return self.extracted[i]
-
     def extract(self):
         issue_dirs = os.listdir(self.issues_root)
         issue_numbers = sorted(list(map(int, issue_dirs)))
-        for issue in issue_numbers:
+        for index, issue in enumerate(issue_numbers):
             if issue == 1:
                 continue
-            #if issue < 1611:
-                #continue
             if not os.path.isdir(os.path.join(self.issues_root, str(issue))):
                 continue
 
@@ -97,18 +98,33 @@ class DateExtractor:
                 extracted_issue = self.read_issue(str(issue), c21_year)
             # if you are using this in the 22nd century, please don't
 
+            self.extracted.append(extracted_issue)
+            # Since match isn't None, extracted_issue.year isn't none, but date may be none
+            # Validation
+            last_normal = None
+            for j in range(index - 1, -1, -1):
+                if not self.extracted[j].anomalous:
+                    last_normal = self.extracted[j]
+                    break
+
             if extracted_issue.match is None:
-                self.extracted.append(extracted_issue)
+                extracted_issue.anomalous = True
                 continue
 
-            # If the issue with greater number is issued before the year the previous
-            # issue is published, mark it as anomalous
-            baseline = self.last_normal_issue()
-            assert extracted_issue.issue_no > baseline.issue_no
-            if extracted_issue.year < baseline.year:
+            if extracted_issue.year < last_normal.year:
+                extracted_issue.anomalous = True
+                continue
+
+            if extracted_issue.anomalous:
+                continue
+
+            if (extracted_issue.date - last_normal.date).days < 0:
+                extracted_issue.anomalous = True
+            elif extracted_issue.date > datetime.now().date():
+                extracted_issue.anomalous = True
+            elif extracted_issue.issue_no - last_normal.issue_no <= 2 and (extracted_issue.date - last_normal.date).days >= 5 * 30:
                 extracted_issue.anomalous = True
 
-            self.extracted.append(extracted_issue)
 
     def read_issue(self, issue_no: str, matcher) -> Issue:
         issue_dir = os.path.join(self.issues_root, issue_no)
@@ -145,17 +161,15 @@ class DateExtractor:
         # year not found
         return ret
 
-    def validate(self):
-        self.extracted.sort(key=attrgetter('issue_no'))
-
     def write_to_csv(self, filename):
         with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
-            fieldnames = ['issue', 'date', 'matched_line']
+            fieldnames = ['issue', 'date', 'anomalous', 'matched_line']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
             writer.writeheader()
             for issue in self.extracted:
                 writer.writerow({'issue': issue.issue_no, 'date': str(issue.date),
+                                 'anomalous': issue.anomalous,
                                  'matched_line': issue.match.string if issue.match is not None else ''})
 
 
@@ -163,4 +177,4 @@ if __name__ == "__main__":
     issues_root = sys.argv[1]
     extractor = DateExtractor(issues_root)
     extractor.extract()
-    extractor.write_to_csv("extracted3.csv")
+    extractor.write_to_csv("extracted4.csv")
