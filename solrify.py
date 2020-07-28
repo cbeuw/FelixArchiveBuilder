@@ -13,14 +13,16 @@ import string
 
 dates = defaultdict(str)
 words = open("words-by-frequency.txt").read().split()
-wordcost = dict((k, log((i+1)*log(len(words)))) for i,k in enumerate(words))
+wordcost = dict((k, log((i + 1) * log(len(words)))) for i, k in enumerate(words))
 maxword = max(len(x) for x in words)
 end_hyphen = re.compile(r" *- *$")
+quotes = set("\"“'’")
 extended_punctuation = string.punctuation + '“”’'
 punctuation = set(extended_punctuation)
 whitespace = set(string.whitespace)
 
 LAST_OCR = 1251
+
 
 def infer_spaces(s):
     """Uses dynamic programming to infer the location of spaces in a string
@@ -28,6 +30,7 @@ def infer_spaces(s):
 
     def normalise(x):
         return x.translate(str.maketrans('', '', extended_punctuation + string.digits + " ")).lower()
+
     # Find the best match for the i first characters, assuming cost has
     # been built for the i-1 first characters.
     # Returns a pair (match_cost, match_length).
@@ -52,44 +55,48 @@ def infer_spaces(s):
 
     return " ".join(reversed(out))
 
-def rebuild_words(content:str)->str:
-    def preserve(s):
-        if len(s) > 1:
+
+def preserve(s, min_length=2):
+    if s.isascii():
+        if len(s) >= min_length:
             if s[0].isupper():
                 # Preserve proper nouns
                 return True
             else:
-                return s.lower()in wordcost
+                return s.lower() in wordcost
         else:
             return False
+    else:
+        # preserve all special characters
+        return True
 
+
+def rebuild_words(content: str) -> str:
     parts = list(filter(None, re.split('(\W)', content)))
-    ret = ""
+    ret = []
     to_reconstruct = ""
     rebuilding = False
     for i, part in enumerate(parts):
         if preserve(part):
             if rebuilding:
                 rec_result = " ".join(map(infer_spaces, to_reconstruct.split()))
-                ret += rec_result + " "
+                ret.append(rec_result + " ")
                 to_reconstruct = ""
                 rebuilding = False
-            ret += part
+            ret.append(part)
             continue
         elif part in whitespace:
             if rebuilding:
-                #if (len(to_reconstruct) > 0 and to_reconstruct[-1] in punctuation) or (i < len(parts)-1 and parts[i+1] == '"' or parts[i+1] =="'"):
-                    #to_reconstruct += part
                 continue
             else:
-                ret += part
+                ret.append(part)
         elif part in punctuation:
             if rebuilding:
-                if part in set("\"“'’"):
+                if part in quotes:
                     # stop rebuilding when we get a quotation mark
-                    if i < len(parts)-1 and preserve(parts[i+1]):
+                    if i < len(parts) - 1 and preserve(parts[i + 1]):
                         rec_result = " ".join(map(infer_spaces, to_reconstruct.split()))
-                        ret += rec_result + " " + part
+                        ret.append(rec_result + " " + part)
                         to_reconstruct = ""
                         rebuilding = False
                     else:
@@ -98,44 +105,49 @@ def rebuild_words(content:str)->str:
                     to_reconstruct += part
                 continue
             else:
-                ret += part
+                ret.append(part)
         elif part.isdigit():
             if rebuilding:
                 to_reconstruct += part
             else:
-                ret += part
+                ret.append(part)
         else:
             to_reconstruct += part
             rebuilding = True
 
     if rebuilding:
         rec_result = infer_spaces(to_reconstruct)
-        ret += rec_result + " "
+        ret.append(rec_result + " ")
 
-    return ret
+    return ''.join(ret)
 
-def sanitise(content:str, rebuild: bool) -> str:
+
+def strip_hyphens(content: str) -> str:
     lines = content.splitlines(keepends=True)
     i = 0
     while i < len(lines):
         match = end_hyphen.search(lines[i])
-        if match and i < len(lines)-1:
+        if match and i < len(lines) - 1:
             rstripped = lines[i][:match.start()]
-            next_line = lines[i+1].lstrip()
+            next_line = lines[i + 1].lstrip()
             words = rstripped.split()
             next_line_words = next_line.split()
-            if len(words) > 0 and len(next_line) > 0 and ((words[-1] + next_line_words[0]).lower() in wordcost):
+            if len(words) > 0 and len(next_line) > 0 and (preserve(words[-1] + next_line_words[0], 3)):
                 lines[i] = rstripped
             else:
                 lines[i] = lines[i].rstrip()
         i += 1
 
-    joined = "".join(lines)
+    return "".join(lines)
 
+
+def sanitise(content: str, rebuild: bool) -> str:
+    dehyphened = strip_hyphens(content)
     if rebuild:
-        return rebuild_words(joined)
+        return rebuild_words(dehyphened)
     else:
-        return joined
+        return dehyphened
+
 
 def read_issue(issues_root: str, issue_no: str) -> List[dict]:
     documents = []
@@ -160,8 +172,11 @@ def read_issue(issues_root: str, issue_no: str) -> List[dict]:
         documents.append(document)
     return documents
 
+
 issues_root = sys.argv[1]
 output_dir = sys.argv[2]
+
+
 def process_issue(issue):
     if not os.path.isdir(os.path.join(issues_root, issue)):
         return
@@ -169,12 +184,6 @@ def process_issue(issue):
     with open(os.path.join(output_dir, issue + ".json"), 'w', encoding='utf-8') as f:
         json.dump(issue_content, f, indent=2)
 
-test="""At the l a s t m e e t i n g of the S.C.C. the r e p r e s e n t -
-a t i v e of the Chess Club proposed t h a t U n i o n C o u n c i l
-he s t r o n g l y recommended t o p e r m i t the C a p t a i n of the
-Chess Club t o award c o l o u r s t o d e s e r v i n g members of
-h i s team. The motion, a f t e r c o n s i d e r a b l e d i s c u s s -
-ion, was c a r r i e d nem.con."""
 
 if __name__ == "__main__":
     if os.path.isfile("felix_dates.csv"):
@@ -182,15 +191,14 @@ if __name__ == "__main__":
             reader = csv.DictReader(f)
             for row in reader:
                 if row['date'] != 'None':
-                    parsed_date = parser.parse(row['date'], ignoretz=True, dayfirst=True) # Unifying date format
+                    parsed_date = parser.parse(row['date'], ignoretz=True, dayfirst=True)  # Unifying date format
 
                     # solr's DateRangeField is more appropriate here because we are storing a
                     # date, not a point in time. But we can only use DatePointField because
                     # DateRangeField doesn't support sorting
                     # To store it as a DatePointField, we need to add in the time
-                    dates[row['issue_no']] = parsed_date.date().isoformat()+"T00:00:00Z"
+                    dates[row['issue_no']] = parsed_date.date().isoformat() + "T00:00:00Z"
 
-    """
     if platform.system() == "Linux" or platform.system() == "Darwin":
         # Unix
         # Unix's fork() behaviour allows us to share memory for objects like date, wordcost and
@@ -199,6 +207,10 @@ if __name__ == "__main__":
     else:
         # Windows
         # Unfortunately Window's memory model means that we can't easily multithread this
+        print("Warning: this script does not have parallelism support on Windows. This will run very slowly."
+              "Consider running this script on a Unix-like system, "
+              "like Windows Subsystem for Linux, or on a Linux or Mac machine."
+              "If that's not available, considering running this script on a Just-in-Time Python compiler,"
+              "such as PyPy, for better performance")
         list(map(process_issue, os.listdir(issues_root)))
-    """
-    print(sanitise(test, True))
+    #print(sanitise(test, True))
