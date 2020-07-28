@@ -30,13 +30,12 @@ c21_year = re.compile(r"2\s*0\s*[0-9]\s*[0-9]")
 class Issue:
     __slots__ = ['issue_no', 'match', 'year', 'anomalous', 'date']
 
-    def __init__(self, issue_no:int, match, year:int, anomalous:bool):
+    def __init__(self, issue_no: int, match, year: int, anomalous: bool):
         self.issue_no = issue_no
         self.match = match
         self.year = year
         self.anomalous = anomalous
         self.date: date = None
-
 
     # returns true if no further attempts need to be made
     def parse_attempt(self, string, substr_max_left_index) -> bool:
@@ -44,12 +43,12 @@ class Issue:
         # and we try to use dateutil.parser to parse substrings of string until we get a successful parse.
         # substrings are picked as string[0:], string[1:], string[2:] etc. until string[substr_max_left_index-1:]
         # where string[substr_max_left_index-1] is the first digit in the year number
-        default_date = datetime(1,1,1,0,0,0,0)
+        default_date = datetime(1, 1, 1, 0, 0, 0, 0)
         for i in range(0, substr_max_left_index):
             substring = string[i:]
             try:
                 extracted_date = parser.parse(substring, default=default_date, dayfirst=True, yearfirst=False,
-                                    ignoretz=True)
+                                              ignoretz=True)
             except:
                 continue
             else:
@@ -86,36 +85,37 @@ class Issue:
         string = self.match.string[:self.match.end()]
         string = ''.join(preceding.split()) + string
 
-        #TODO: instead of +1, give stricter limits?
+        # TODO: instead of +1, give stricter limits?
 
         # first, we try the matched line as-is
-        if self.parse_attempt(string, len(preceding)+self.match.start()+1):
+        if self.parse_attempt(string, len(preceding) + self.match.start() + 1):
             return
 
         # if failed, we strip all whitespace characters because it may be something like "1 M A R 1 9 6 9"
         string_stripped = ''.join(string.split())
-        if self.parse_attempt(string_stripped, len(string_stripped)-3):
+        if self.parse_attempt(string_stripped, len(string_stripped) - 3):
             return
 
         # parser doesn't like it when it's like 6thNOVEMBER1965
         string_stripped_defed = re.sub(r"st|nd|rd|th|ST|ND|RD|TH|[^0-9a-zA-Z]+", " ", string_stripped)
-        if self.parse_attempt(string_stripped_defed, len(string_stripped_defed)-3):
+        if self.parse_attempt(string_stripped_defed, len(string_stripped_defed) - 3):
             return
 
         if self.date is None:
-            print("Issue " + str(self.issue_no) + ": " + self.match.string)
             self.anomalous = True
+
 
 class DateExtractor:
     issues_root = ""
     extracted: List[Issue] = []
-    def __init__(self, issues_root:str):
+
+    def __init__(self, issues_root: str):
         self.issues_root = issues_root
         # we give a baseline here so that subsequent year incremental sanity check can be made
         first = Issue(1, c20_year.search('1949'), 1949, False)
-        first.date = date(1949,12,9)
+        first.date = date(1949, 12, 9)
 
-        self.extracted=[first]
+        self.extracted = [first]
 
     def extract(self):
         issue_dirs = os.listdir(self.issues_root)
@@ -128,6 +128,7 @@ class DateExtractor:
             if not os.path.isdir(os.path.join(self.issues_root, str(issue_no))):
                 continue
 
+            print("Extracting issue " + str(issue_no))
             if issue_no <= LAST_C20_ISSUE:
                 extracted_issue = self.read_issue(str(issue_no), c20_year)
             else:
@@ -147,7 +148,7 @@ class DateExtractor:
             # Validation
             last_normal = None
             # Find the last issue that isn't anomalous to do sanity checks on date
-            for j in range(len(self.extracted)-2, -1, -1):
+            for j in range(len(self.extracted) - 2, -1, -1):
                 if not self.extracted[j].anomalous:
                     last_normal = self.extracted[j]
                     break
@@ -164,9 +165,9 @@ class DateExtractor:
                 extracted_issue.anomalous = True
             # Gaps in publication is mostly due to holidays. Here we allow 150 days between
             # two (semi-)consecutive issues
-            elif extracted_issue.issue_no - last_normal.issue_no <= 2 and (extracted_issue.date - last_normal.date).days >= 5 * 30:
+            elif extracted_issue.issue_no - last_normal.issue_no <= 2 and (
+                    extracted_issue.date - last_normal.date).days >= 5 * 30:
                 extracted_issue.anomalous = True
-
 
     def read_issue(self, issue_no: str, matcher) -> Issue:
         issue_dir = os.path.join(self.issues_root, issue_no)
@@ -198,7 +199,7 @@ class DateExtractor:
                     # if the year number didn't appear on the first line, we give the previous line
                     # to parse_date in case the day of year is included on that line
                     if line_no != 0:
-                        ret.parse_date(lines[line_no-1])
+                        ret.parse_date(lines[line_no - 1])
                     else:
                         ret.parse_date()
                     if ret.date is None:
