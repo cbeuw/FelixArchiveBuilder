@@ -15,19 +15,28 @@ dates = defaultdict(str)
 words = open("words-by-frequency.txt").read().split()
 wordcost = dict((k, log((i + 1) * log(len(words)))) for i, k in enumerate(words))
 maxword = max(len(x) for x in words)
+
+# Matches hyphens at the ned of a line
 end_hyphen = re.compile(r" *- *$")
-quotes = set("\"“'’")
+
+# Possible OPENING quotation mark characters, includes unicode characters
+opening_quotes = set("\"“'’")
 extended_punctuation = string.punctuation + '“”’'
 punctuation = set(extended_punctuation)
 whitespace = set(string.whitespace)
 
+# This may NOT be the last issue before digitisation, as issue 1252-1298 are missing from the archive
 LAST_OCR = 1251
 
 
 def infer_spaces(s):
     """Uses dynamic programming to infer the location of spaces in a string
-    without spaces."""
+    without spaces.
 
+    Modified from https://stackoverflow.com/a/11642687
+    """
+
+    # Strip all punctuation, digits and whitespaces
     def normalise(x):
         return x.translate(str.maketrans('', '', extended_punctuation + string.digits + " ")).lower()
 
@@ -57,12 +66,16 @@ def infer_spaces(s):
 
 
 def preserve(s, min_length=2):
+    # test if a string should be preserved as-is
+    # all strings that contains non-ascii characters are preserved as-is
+    # all strings whose length is fewer than min_length is NOT preserved
     if s.isascii():
         if len(s) >= min_length:
             if s[0].isupper():
                 # Preserve proper nouns
                 return True
             else:
+                # Preserve a word if it's in the dictionary
                 return s.lower() in wordcost
         else:
             return False
@@ -70,8 +83,20 @@ def preserve(s, min_length=2):
         # preserve all special characters
         return True
 
-
+# This function handles the situation where extra spaces are inserted in the middle of a word
+# during the OCR process. This is especially problematic in earlier issues
+# e.g. a sentence may be scanned as "The q u i c k b r o w n fox j u m p s o v e r t h e l a z y do g"
+# sometimes punctuations are involved, too, like "I ' v e e a t e n" which is nasty
+#
+# The strategy here is to split the entire page's text into a list by whitespace characters (space, tab, linebreak etc),
+# And then we go through each substring. As soon as we meet a substring that shouldn't be preserved using the previous
+# function, is not a whitespace, punctuation or a digit, we enter the rebuilding process (if not already) and put that
+# substring into to_reconstruct.
+# we keep concatenating following parts into to_reconstruct, until we meed a preservable word or an opening quotation.
+# at which point we use infer_spaces algorithm to segment to_reconstruct, put the word-segmented substring into
+# return buffer, then start over again
 def rebuild_words(content: str) -> str:
+    # Splits on white space characters
     parts = list(filter(None, re.split('(\W)', content)))
     ret = []
     to_reconstruct = ""
@@ -92,7 +117,7 @@ def rebuild_words(content: str) -> str:
                 ret.append(part)
         elif part in punctuation:
             if rebuilding:
-                if part in quotes:
+                if part in opening_quotes:
                     # stop rebuilding when we get a quotation mark
                     if i < len(parts) - 1 and preserve(parts[i + 1]):
                         rec_result = " ".join(map(infer_spaces, to_reconstruct.split()))
@@ -213,4 +238,3 @@ if __name__ == "__main__":
               "If that's not available, considering running this script on a Just-in-Time Python compiler,"
               "such as PyPy, for better performance")
         list(map(process_issue, os.listdir(issues_root)))
-    #print(sanitise(test, True))
