@@ -1,0 +1,240 @@
+Game designers don’t need to be
+C++’ing in their sleep to get going,
+even though future success almost
+always means long nights of pro-
+gramming. Getting started can be
+simple if you’ve got some ideas, and
+you’re not expecting to emerge with
+the Next Big Thing straight away.
+The best way to start is often with
+modding. Source, the technology
+that powers Half-Life 2 and many
+other games, has a downloadable
+Development Kit (http://steam-
+powered.com) that allows you to
+tinker with and build all manner of
+creations.
+Half-Life 2 modifications are be-
+coming easier and easier to make,
+and there are plenty of projects that
+you can help out with online to gain
+some experience. GamesMod-
+ding (http://gamesmodding.com)
+wouldn’t be a bad place to start
+looking.
+If that all sounds a bit program-
+ming-heavy, Flash games can be
+easier to get to grips with. The soft-
+ware isn’t free, but you can down-
+load a free trial of Flash MX from
+Apple’s website (http://www.adobe.
+com/products). Flash games are
+everywhere on the internet thanks
+to their often bright visuals and
+portability.
+They’re also a good place to start
+if your art is stronger than your
+coding. Flash makes it easy to work
+with your graphics, and helps with
+coding interactions and movement.
+There’s a wealth of help online, as
+well - Adobe’s own website is just
+one of a host of development and
+tutorial hubs (http://www.adobe.
+com/devnet).
+If you’re a fan of point-and-click
+adventure games, then the best
+tool available is probably Adven-
+ture Game Studio (http://tinyurl.
+com/y723jk) which requires no pro-
+gramming knowledge at first, and Current Indie superstars: the classic 5 Days A Stranger, bottom, and the addictive Line Rider, top
+very little to do the more compli-
+cated things.
+AGS has spawned some popular
+conversions of old games such as
+King’s Quest as well as gems of its
+own, like 5 Days A Stranger. With
+some weak MS Paint skills, we
+made a two-puzzle game in a cou-
+ple of hours - with time and dedica-
+tion, the results can be impressive.
+But it can get even easier. If you
+want to get a feel for designing a
+whole package, but aren’t looking
+to churn out a CounterStrike beater
+just yet, Klik and Play (http://tiny-
+url.com/y24rwz ) offers a friendly
+development platform - for free.
+It’s very low-tech, and you’ll soon
+find yourself wanting something
+more powerful, but it’s a fun pack-
+age that quickly gives results back.
+It only takes an hour or so to bash
+out a platformer with the supplied
+libraries and tutorials.
+Simpler still is making your own
+text-based adventure game. All
+that’s required is a lot of time and
+someimagination-somethingthat’ll
+be needed anyway if you’re going
+to get into development. There’s a
+lot of kits to choose from, but Text-
+World (http://tinyurl.com/ujd4z) is
+a good start, having the added bo-
+nus of being free of charge.
+The important thing is to get out
+there and experiment. The first
+games you’ll make probably won’t
+be commercial quality, but getting
+your hands dirty is great experi-
+ence, and once you’ve started off
+you’ll find it easier to progress, to
+build teams, and to dedicate your-
+self to larger projects.
+Introversion, and many others,
+have shown that it’s possible, and
+most of the industry is looking at
+talented gamers for innovation in
+the next decade. That dream of de-
+signing might not be as far off as
+you think, if you give it a go...
+What now? The next steps for Indie wannabes
+sit up and take notice, which also
+probably explains why we’ve had so
+much exposure and coverage with
+our latest game, DEFCON.
+You recently gave a talk about
+independent games creation as a
+force for the future. Is this where
+innovation lies, in the hands of the
+developers? Or is it more in the
+hands of the publishers, and their
+willingness to take chances?
+I think innovation relies on both
+sides of the industry, a desire
+amongst developers to create
+unique titles and a willingness on
+the side of the publishers to take
+risks by taking them on. Independ-
+ents are often seen as the maver-
+icks of the game industry because
+they’re usually braver when it
+comes to trying something new, es-
+pecially if they self-publish and own
+their own IPs.
+At Introversion we don’t do any
+market research before we create a
+game; ideas just occur pretty ran-
+domly, inspired by something that
+interests us so it’s a pretty hap-
+hazard process. The trouble with
+the industry today is that publish-
+ers have a cookie cutter approach
+to making games; they look at the
+games already in the market, de-
+cide which ones seem to be sell-
+ing particularly well and then get
+a developer to make another spin-
+off. In this scenario, the developer
+has very little creative control and
+games are made purely with prof-
+its in mind so no wonder we end up
+with hundreds of identical first-per-
+son shooters!
+What made you decide to partner
+with Steam for the distribution of
+some of your games? Do you think
+this changed people’s perception
+of Introversion?
+Retail wasn’t really working out so
+well for us – Darwinia was gaining
+great reviews but this wasn’t really
+translating into particularly impres-
+sive sales. Part of that was perhaps
+due to the comparative inaccessi-
+bility of Darwinia when we first re-
+leased it; it was incredibly difficult
+to market because it was such a
+complicated game to explain.
+We adapted it quite a lot after its
+first release to make it more user-
+friendly, changing the gesture con-
+trol mechanism and making anoth-
+er demo which showed Darwinia
+off to its full potential. After these
+improvements were made, we
+managed to get a deal with Valve to
+launch on Steam and prospects be-
+came significantly brighter for the
+company after that.
+We sold more copies of Darwinia
+in the first 3 weeks of selling via
+Steam than we’d managed in the
+whole prior 6 month period selling
+via retail and our online store.
+Would Steam only work for grow-
+ing companies such as Introver-
+sion? Or do you see it as a plat-
+form for all levels of developers in
+the future? Could this be the sort
+of system that gives indie devel-
+opment a helping hand?
+Digital distribution channels such
+as Steam are ideal for independ-
+ents; not only do you get a higher
+return on your product but you’re
+also much more likely to have your
+game accepted for digital distribu-
+tion than for retail, especially if it’s
+an off-the-wall concept because the
+financial risks of releasing digitally
+are significantly lower. Digital dis-
+tribution is also ideally suited to the
+kind of smaller titles that independ-
+ents release – DEFCON was only 60
+Mb so, perfect for online download.
+Do you still have hope for the fu-
+ture of the industry? Has it still got
+life and invention left in it?
+I think the games industry has gone
+through a bit of a rough patch over
+the past few years but there does
+seem to have been a bit of a back-
+lash, certainly in the press, against
+some of the endless sequels and
+franchises. I don’t believe we would
+still be here doing what we do if
+there wasn’t at least a market for
+the kind of games we make and a
+desire to try something new.
+T
+om Arundel is the Fi-
+nancial Director of In-
+troversionSoftware,and
+one of the founders of
+the development house.
+Along with Mark Morris and Chris
+Delay, whom he met in his first year
+at Imperial College, London.
+Navigating PR, the world of inde-
+pendent publishing, and what hap-
+pens to the finances when projects
+overrun hasn’t been easy, and In-
+troversion’s balance between finan-
+cial gain and creative vision has al-
+lowed them to retain all of their IPs
+to this date.
+“When we finally got to see
+Chris’s game [Uplink] we realised
+it was good enough to sell; we gave
+up university beer for a couple of
+weeks, threw in £200 each and set
+up a store online.”
+A bitter sacrifice, but a good one.
+17
+felix
+Friday 19 January 2007
+GAMES games.felix@imperial.ac.uk
+“Post-Genre” game Darwinia. Post-Genre? Kill me now
+Focus on
+

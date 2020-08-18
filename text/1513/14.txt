@@ -1,0 +1,198 @@
+The once distinct lines between fact and science
+fiction are getting increasingly blurred almost
+on a daily basis. This month, it’s biology tak-
+ing the lead. The Wyss Institute, a department
+committed to Biologically Inspired Engineering
+at Harvard University, recently unveiled its first
+ever cellular robot. It could be little to no time
+before these miniature machines are flowing
+through your body as they look to be the big
+players in medicine for the future.
+Scientists in the US are currently develop-
+ing these DNA nanorobots. They are based on
+the concept of ‘DNA Origami,’ initially put
+forward by Paul Rothemund from Caltech in
+2006. By manipulating DNA, the usual, regular
+double helix structure is split down the middle,
+and then, using the specific bonding of the base
+pairs, turned into complex 2D or 3D forms by
+twisting DNA over itself in various ways.
+At the Wyss institute, they have managed to
+build complex structures using the split DNA
+strands, producing the microscopic models that
+can self-assemble quickly and be modified to
+execute specific tasks. In only six short years,
+DNA manipulation has gone from simple 2D
+structures to structures that could tour your
+bloodstream, seek out target cells, and even de-
+liver them a lethal blow to kill them completely.
+The nanorobot itself has a basic barrel struc-
+ture that splits laterally and is hinged by dou-
+ble stranded DNA motifs, which can recognize
+cell surface receptors – cellular nametags that
+indicate the type of cell. The molecule it can
+deliver is attached inside the barrel and once
+the double stranded motifs recognize the re-
+ceptors they bind to them, causing them to
+change shape, forcing the barrel to open and
+releasing the molecule. The binding of the re-
+ceptor to the nanorobot directly ensures speci-
+ficity so they only deliver to the cell they are
+designed to target.
+DNA nanorobots have displayed significant
+successes, recognising leukaemia cells out of
+a mixed cell sample, for example, showing the
+potential for them to be used to treat cancer
+in the future. Furthermore, they could do this
+without the damaging side effects of chemo-
+therapy and without killing healthy cells, as
+the nanorobots cannot recognise healthy cells
+if designed correctly.
+So what lies ahead for these petite pioneers
+of our blood vessels? At the minute, they are
+still being tested in vitro, and whether or not
+they work in living tissue is yet to be seen. One
+issue is that the body’s own defence mecha-
+nisms could eradicate the tiny machines before
+they even get to their target tissue; the liver has
+The nanorobots are coming
+Is it just me or do these look like hammocks?
+been found to clear them and they are suscep-
+tible to degradation by enzymes called nucle-
+ases, that destroy unwanted DNA strands as
+part of the cellular housekeeping process.
+However, if these issues are overcome, they
+could provide a level of target specificity and
+drug delivery efficiency that could never be
+achieved using conventional drugs, along with
+being the potential first steps to better cancer
+treatments. These tiny creations could be the
+basis of a new generation of therapeutic treat-
+ments, and could revolutionise how we use
+drugs in the future. It could only be a matter of
+time before your blood becomes one complex
+highway for these tiny tearaways.
+The origin of life on Earth is one of the most
+compelling questions in science today. Recent-
+ly, hydrothermal vents on the ocean floor have
+been cited as potential settings for this event.
+However, the Proceedings of the National
+Academy of Sciences has published a study led
+by Armen Mulkidjanian from the University of
+Osnabrück, Germany, arguing that the first life
+arose in pools of condensed vapour from geo-
+thermal vents on land.
+Nearly 4 billion years ago the ‘late heavy
+bombardment’ saw Earth’s surface pulverised
+by asteroids, leaving few rocks intact. This
+was bad luck for scientists, as the earliest life
+probably existed before then – so we will nev-
+er discover its fossils. Consequently, scientists
+are trying to picture those organisms from the
+biological, not fossil, record: finding features
+that all living cells share, because they prob-
+ably also occurred in our most ancient ances-
+tors, or ‘protocells’.
+The Canadian biochemist Archibald Macal-
+lum pointed out in 1926 that, while our blood
+resembles seawater, the insides of our cells do
+not. They contain much higher concentrations
+of certain metal ions and phosphate than are
+(or ever were) present in oceans, but less so-
+dium, which they constantly pump out. Our
+cells control these concentrations with ‘ion-
+tight’ membranes and transporter proteins,
+but protocells had not yet evolved these. Ions
+would have flowed through them and reached
+the same concentrations as in the surrounding
+water.
+Mulkidjanian’s team looked among the old-
+est, most conserved proteins in many organ-
+isms for those which require particular ions.
+They found that potassium and zinc are in-
+volved in the most ancient, basic processes,
+such as protein and DNA synthesis, while so-
+dium ions are not. Meanwhile, phosphate fills
+the backbone of every DNA molecule and is
+present on many proteins. These features of
+every modern cell were probably present in
+protocells too. However, no known or recon-
+structed marine environment has a high potas-
+sium-to-sodium ratio, making hydrothermal
+vents unpromising as potential cradles of life.
+The authors put forward an alternative set-
+ting for the beginning of life: pools formed
+of condensed steam from geothermal springs.
+When magma-heated water rises from deep
+underground, some evaporates, carrying with
+it lots of potassium, phosphate and zinc but
+very little sodium. It also contains organic
+molecules and ammonia, which cells can use
+for energy or synthesis. Additionally, the ex-
+uded sulphides probably solidified into porous
+structures that could protect protocells from
+the sun’s harmful UV rays.
+DOI: 10.1073/pnas.1117774109
+Eliot Barford
+FELIX
+Friday 02 March 2012
+14
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+Philippa Skett
+A research team from institutions around Eu-
+rope and Australia have published an article that
+comes to the mind-blowing conclusion that some
+large organisms still alive today can be thousands
+of years old.
+The group, led by Sophie Arnaud-Haond, con-
+centrated mainly on clonal organisms; organisms
+with the same genetic information branching from
+a single ancestor, such as fungi and plants. Previ-
+ously, species of fungi and angiosperms (flowering
+plants) were known to extend over a hundred me-
+tres and reach ages in the order of centuries. How-
+ever, their actual ages can vary widely depending
+on the size and number of samples taken as well
+as the location. The team also questioned why the
+distribution of samples was so closely correlated
+to the maximum size of the colony.
+By analysing the spatial cover of Posidonia oce-
+anica, a species of seagrass, Arnaud-Haond and
+her colleages attempted to estimate the potential
+age of the plant clone. Their findings showed that
+to reach a km-range spread via clonal growth only
+would relate to a minimum age of about 12,500
+years. When a similar method was used on two
+pairs of meadows in the Mediterranean, located
+7 km apart between Formentera and Ibiza and
+15 km apart around a cape in Formentera, the
+minimum age was placed between 80,000 and
+200,000 years, meaning the meadows originated
+during the late Pleistocene Epoch.
+However, the research team is uncertain; due
+to global rises in sea level during the last ice
+age (80,000 to 10,000 years ago), the meadows
+would have been at least 100m above sea level
+and being a marine plant, the clone would not
+have been able to survive. One possible solution
+is that the meadows were carried by glacial flows
+and split, being able to cover wider areas of land
+and affecting the validity of the method used to
+calculate age.
+Another factor the team noted was that the pop-
+ulation is falling rapidly, possibly due to human
+involvement. Given that it may have taken the
+meadow thousands of years to reach its current
+size, it may be unable to cope with the pressure
+put on it by human population.
+DOI: 10.1371/journal.pone.0030454
+Pavitar Singh Devgon
+World’s oldest living organism
+Origin of life may be geothermal pool
+Posidonia oceanica
+Wyss Institute, Harvard University
+

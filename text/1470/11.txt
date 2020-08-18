@@ -1,0 +1,206 @@
+FELIX Friday 22 October 2010 11
+SCIENCE
+‘Would you like to see my lab before
+you go?’We looked at each other, think-
+ing ‘hell yeah!’ The opportunity to see
+the inner workings of some of the most
+cutting-edge work taking place in optics
+is not lightly passed up. We were on the
+9th floor of the Blackett Laboratory to
+interview Chris Phillips, Professor of
+Experimental Solid State Physics and
+the Dean of the Faculty of Natural Sci-
+ences.
+Coming to Imperial to complete a PhD
+after finishing his undergraduate degree
+at Cambridge, Professor Phillips has
+been a member of the department since
+1979. Actually, that’s not strictly accu-
+rate, since his lack of confidence in his
+academic abilities led him to a stint as an
+engineer for the BBC. This was not to be
+a long-lived career as a year after leav-
+ing, he returned to Imperial as part of
+the nationwide ‘New Blood’ scheme de-
+signed to reinvigorate the then-stagnant
+world of academia.
+We were curious about his job de-
+scription as a Dean; as, it would seem,
+is the man himself. When asked, he said
+‘It’s a difficult role to define... I’m prob-
+ably still learning.’ As far as we could
+understand, the Deans are not part of
+the formal management structure, but
+are more of an independent informa-
+tion channel. Their concerns range from
+maintaining the high standards of fair-
+ness and equality integral to the college
+to the widespread dissatisfaction of the
+students. They also play a pivotal role in
+the promotions process.
+However, the reason we came to in-
+terview Professor Phillips was to find
+out more about his research. He and his
+team are experimenting with metama-
+terials, materials in which the structure
+at the microscopic level is engineered
+to give interesting macroscopic prop-
+erties. Applications of such materials,
+which rely on structural rather than
+compositional properties, include the
+much-lauded ‘invisibility cloak’. Cur-
+rent research is focusing on super lenses
+(no pun intended), lenses that use the
+properties of metamaterials to achieve
+a negative refractive index. The refrac-
+tive index of a material is the amount
+that light bends when entering it from
+another medium. Think of it like this;
+a fish underwater appears closer than it
+actually is, but if the water had a nega-
+tive refractive index, then the fish would
+appear to be floating above the surface.
+Materials such as these have, as of yet,
+only been theorised. Professor Philip’s
+team are approaching the problem from
+a quantum mechanical angle, using Sch-
+rodinger’s equation to calculate the elec-
+tron transitions. Other groups are using
+nanoelectronics attempting to produce
+the same effects.
+When we enter his lab, sidling ner-
+vously past the multiple warning signs
+and laser safety curtain, we are imme-
+diately confronted with a forest of in-
+struments (if the trees were bonsais).
+A crowded optics bench occupies the
+middle of the room, bristling with mi-
+crometers, trace lasers and very expen-
+sive sensors, including as a centrepiece a
+£60,000 infrared camera from a jet fight-
+er. This setup, balanced on old Vespa
+inner tubes, is used to work on mid-in-
+frared laser technology, the applications
+of which are not immediately obvious.
+However, the applications are even
+more promising than those of the super
+lens; the group are using the technology
+to take ‘chemical pictures’ of organic
+compounds. They hope that this will al-
+low for a more quantitative approach to
+tissue sample analysis. Instead of purely
+qualitative method, where pathologists
+make judgement calls on a sample under
+a microscope, the new methods would
+allow for a numerical output, which can
+then be compared to an index. The most
+obvious application would be in the di-
+agnosis of cancers. Prognoses and life
+expectancies could be given much more
+accurately.
+Imperial Profile: #1
+Professor Chris Phillips
+Solid State Physics
+An important point Professor Phillips
+impressed on us was the distinction be-
+tween the undergraduate phase of learn-
+ing and that in postgraduate research. As
+undergrads, we are merely consumers of
+knowledge; work is just work of no spe-
+cial importance. Postgraduate research,
+on the other hand, is a creative process
+that involves a large degree of personal
+exposure. When Professor Phillip’s stu-
+dents attend conferences, they have to
+stand up and defend their work, to the
+same degree as a poet their poem or
+an artist their painting. The work they
+are creating is not art, but the creativ-
+ity involved is undeniable when seeing
+the tangle of wires and the complex ar-
+rangement before us. A small shift, such
+as that caused by a finger, could set the
+team back by six months, we were told
+as Adam hastily removed himself from
+the vicinity.
+A common theme noticeable through-
+out the interview was Professor Phillips’
+passion for communicating the science
+he is involved with. ‘We are creating
+new knowledge, and what’s more, we
+are doing it at someone else’s expense.
+I feel we have a duty to give something
+back.’ He frequently gives lectures pro-
+moting science around the country and
+internationally, often including enter-
+taining spectacles such as live music
+and fire-breathing. In 2006 his group’s
+quantum optics research was selected to
+be put on display by the Royal Society.
+For two weeks they explained light, at-
+oms and quantum mechanics to young
+people, teachers and journalists.
+At the end of our meeting, we were
+left with the impression of a researcher
+devoted to both his work and making
+science accessible to all. It offered a tan-
+talising insight into the world that exists
+behind the locked lab doors and laser
+safety curtains of Imperial.
+Ilse Daly
+Adam Falk
+Genetic study shines light on asthma
+Imperial scientists may have finally un-
+locked the secrets behind schizophrenia.
+A disruption in brain signalling causes
+the severe mental illness and promises
+exciting possibilities for drug develop-
+ment.
+Chemicals in the brain known as neu-
+rotransmitters carry messages between
+nerve cells and are tightly regulated to
+ensure the correct signals are transmit-
+ted. A recent study by James Stone et
+al. has shown for the first time that the
+abnormally high level of dopamine in
+people with schizophrenia is due to a
+disruption in the regulation of another
+neurotransmitter; glutamate. Gluta-
+mate is produced in the hippocampus
+region of the brain and affects the ac-
+tivity of dopamine releasing cells in the
+stratum.
+Dopamine targeted drugs have previ-
+ously had limited success rates and se-
+rious negative side effects. Glutamate
+signalling can now become the new
+target for anti-physcotic drugs and many
+exciting drug candidates are already in
+the pipe-line. This cutting-edge re-
+search is bringing the possibility of a
+treatment for schizophrenia ever closer.
+Professor Chris Kennard, chair of the
+MRC Neuroscience and Mental Health
+Board, said: “Studies like these are help-
+ing to unravel the complex mechanisms
+of psychiatric illness and bring us a step
+closer to more effective, targeted drugs
+for patients with schizophrenia.”
+Schizophrenia affects around 1% of
+the population and is one of the most
+common and severe mental health ill-
+nesses but surprisingly little is known
+about its causes and hence treatment is
+limited. Previous work at Imperial into
+Schizophrenia has shown that music
+therapy can improve some of the symp-
+toms, but there is a great need for im-
+proved drug treatment. Possible causes
+include genetic pre-dispositions, brain
+damage during pregnancy, use of recre-
+ational drugs and stress. This greater
+understanding of what is going on will
+improve not only treatment but also di-
+agnosis of schizophrenia.
+Katie Tomlinson
+

@@ -1,0 +1,194 @@
+games.felix@imperial.ac.uk
+31
+Friday 9 May 2008 felix
+Games
+Last year’s event included Peter Molyneux and David Braben discussing the future of the industry, as well as a host of technical talks on AI and hardware. These people came
+Games and Media 2008 at Imperial
+Science meets Space Invaders, SHODAN and Sonic once again as the Imperial GaME Event returns
+You probably remember the glory days
+when E3 was essentially its own nation
+for the three days that it took over part
+of America. People came, people dis-
+covered everything that was going to
+happen in the next twelve months, and
+then people left again.
+Before you had the Internet, it was
+even more tantalising. You’d have to
+wait some time to learn what people
+had seen there, until the magazines
+began throwing exclamation marks on
+the covers and pictures that you hadn’t
+seen before. It was an exciting time.
+Some things change, and others stay
+the same. The Games and Media Event
+that Imperial plays host to each year
+is always a reminder that the world of
+gaming is branching out and making
+itself known elsewhere. It’s also a sign
+that adding science to something al-
+ways makes it more interesting.
+GaME is designed to bring together
+people from the gaming industry – and
+further afield – with people from the
+world of academia. The series of talks
+and presentations organized each year
+range from the light-hearted to the
+mathematical, and this year’s event
+looks to be no exception.
+You can check out the expected itin-
+erary to the right (“The Schedule So
+Far”) – although it is still provisional,
+the lineup already includes a wide array
+of industry coverage.
+The event, which falls on the 21st
+May this year, may clash with the exam
+timetables of some departments, but
+its home department – Computing –
+will be free of revision by then. The
+event isn’t designed to simply fill up
+space in the timetable with a few talks
+about maths, though.
+“By developing a good long-term re-
+lationship with interesting university
+research groups, a company can both
+tap into the research community, and
+sometimes also guide it towards inter-
+esting problems” explains Professor
+Paul Kelly, one of the event organisers,
+“[The] industry still needs in-house
+effort, to bridge the gap between re-
+search idea and usable technique, and
+to make good choices informed by re-
+search, about when and how.”
+The relationship between media in-
+dustries such as videogaming and re-
+search institutions becomes more and
+more important as technological inno-
+vation goes on. In particular, those with
+an analytical mind become in high de-
+mand, and so ‘dream’ jobs of working
+in industries that you used to dream of
+as a child, soon become more realistic
+when you attend events like this.
+Framestore, for example, is a graph-
+ics and visual effects studio with an
+Academy Award-winning past, and a
+future that includes franchises such as
+Narnia, Batman and James Bond. But
+if you gave up hope of working in the
+film industry after you failed your Art
+GCSE, this event could help show you
+that there are places there for scientists
+too.
+With previous events covering pro-
+gramming for the Playstation3, stories
+of success from previous Imperial stu-
+dents in the big, wide, world of gam-
+ing, and requests for your help build-
+ing games for the next generation, the
+event can be inspiring to gamers who
+never got into E3 before – which I’m
+fairly sure is most of us.
+The event is free to attend, but reg-
+istration is required on the website of
+the event, where you can also get up-
+to-date news on the lineup and the
+schedules.
+The event may also showcase some
+work from Imperial that has ramifi-
+cations for the industry – last year a
+wide range of presentations was seen:
+from facial recognition and graphics
+processing to massively-multiplayer
+online networking technologies.
+“It is Imperial’s mission to deliver
+scholarship, education and research.“
+Professor Kelly tells me. “It’s my be-
+lief this is a unique combination that
+makes universities very special.”
+Whether you’re undecided about
+your future with research or careers;
+interested in the technology that makes
+today’s games tick; or simply want to
+be in the same room as the guy who
+dressed Ian McKellen up in a polar
+bear suit, this year’s Games and Media
+Event is not to be missed.
+The Games and Media Event is
+scheduled for the 21st of May in
+Imperial’s Huxley building. For
+more information, surf to http://
+www.doc.ic.ac.uk/game
+While a lot of GaME’s lineup
+is still unconfirmed, a few an-
+nouncements have been made.
+First up is Paul Miller from Re-
+bellion – the development studio
+responsible for, amongst other
+things, Delta Force: Black Hawk
+Down and The Simpsons Game.
+He’ll be talking about artificial
+intelligence in games, and this
+one’s likely to be accessible even
+if you’ve never touched a compu-
+ter except to play games.
+A few industry-based talks
+have been scheduled
+from middleware
+developers such
+as Framestore, a
+company responsi-
+ble for creating computer-gener-
+ated graphics such as those seen
+powering everyone’s favourite
+Polar-bear King, Iorek of The
+Golden Compass fame.
+Their talk – Tools and Tech-
+niques for Visual Effects – should
+prove a fascinating insight into
+some of today’s cutting-edge
+visual work. Plus, hopefully, more
+clips of the bear.
+In a similar vein, graphics and
+lighting company Geomerics will
+be giving a talk on how academic
+research can be applied to indus-
+tries such as gaming and graph-
+ics – of particular interest to peo-
+ple who might be considering
+applying their scientific skills to
+the media industries, or indeed
+to the polar bear industry.
+For the more technologically-
+oriented, there are plenty of
+more meaty talks to be had too.
+Among the confirmed is Code-
+play’s Andrew Richards who’ll
+be discussing multi program-
+ming and some solutions that
+Codeplay have come up with.
+Codeplay’s work includes some
+incredible auto-par-
+allelising technolo-
+gies, so this is sure
+to be a worthwhile
+watch.
+And there's more – the head of
+Imperial's Software Performance
+Optimisation Group will be giv-
+ing a mind-expanding talk; co-
+founder of Games Workshop and
+all-round entrepreneur, Eidos' Ian
+Livingstone; and Kuju Studios'
+Adrian Hawkins will be talking
+about the industry skills shortage
+– and how you could plug it.
+With more confirmations still
+to come, your best bet to keep
+abreast is to visit http://www.
+doc.ic.ac.uk/game. You can also
+register for the event there, and
+look back on previous lineups.
+Michael Cook
+GaME 2008: The schedule so far...
+

@@ -1,0 +1,134 @@
+The S-Files
+°Boundanes
+°Darling buds of I
+D
+a
+y
+°6od in the machine
+Crossing the great divide
+CROSS DRESSING
+SPRING IS HERE
+BIRTH O F C H A O S
+This week the S-Files investigates interdisciplinary boundaries in sci-
+ence - and the consequences of crossing X over. We focus on one sci-
+entist [Robert dlay] who has successfully broken the mould and helped
+found a new science.
+In the past, science has been deterministic. It was thought that a set of lin-
+ear rules would eventually lead us to understand the world [a°b»eureha]. Science was
+straightforward, rigidly divided into disparate disciplines. Now, science trail blazers
+cross interdisciplinary boundaries and investigate non-linearity in subjects from
+economics to epidemiology. New disciplines in science are erupting [chaos, complexity
+and artificial life] on the strength of these changes, and their practitioners have a diverse
+set of backgrounds. Chaos is one such discipline.
+Robert (
+T
+l
+a
+y
+FRS, Trustee of
+Natural History
+Museum & Kew
+Gardens, Editor
+of the journal
+'Nature'.
+Crossing oner?
+"I started as a
+Chemical Engineer at Sydney University and
+became a professor in the Physics depart-
+ment. I gave a seminar at Imperial College
+[Silujood Park], and met lots of biologists
+there. They had formulated lots of interest-
+ing ecological questions...what's the relation
+between diversity and stability, what's the
+limits to niche-overlap and competitive simi-
+larity? Many of these questions were formu-
+lated in analytical hard°SCience terms but
+they lacked people with the background to
+solve them. So by accident I blundered into
+Ecology. Pure accident, no design, at a time
+when it was ripe for someone like myself."
+Hard us soft science?
+I'm in an unusually good position to talk
+about hard°soft science, having
+had a complete career in
+both.
+I think these dichotomies are
+by and large nonsense. They are artifacts in
+the minds of people who usually don't know
+what they're talking about. Training in
+Physics teaches you to see the world as a
+complicated place but with underlying sim-
+plicities. You try and identify the complicat-
+ed situation and ask "What are the things I
+think are really important?". You express
+that with precision, which usually means a
+mathematical model, then you test it against
+the world to see if your original assumptions
+were right. There's a great deal of soft science
+in Physics, a great deal of hard science in
+Biology. What I've done in Ecology is no dif-
+ferent from what I did in Physics: making
+mathematical metaphors to see where they
+lead me"
+hyperef
+03 James Gleick: science writer &
+editor, wrote Pulitzer Prize nominee
+'Chaos: Making a New Science'.
+\>) S-Files Winners (-:/
+Congratulations Paul de Cort. your plug and play potato wins this week's competition. You
+win a copy of "The Internet Golden Directory" (Donated by ICU Bookstore). Special com-
+mendation goes to the 'emasculator' and an artfully inscribed, obviously defunct keyboard.
+Competition
+In this week's fabulous competition we are giving away an extraordinary bit of computer
+hardware. Decorated with our exclusive 'S-Files' logo, it is a practical and stylish addition
+to any office or lab. The first person who wants the keyboard, can have it.
+M Credits Cditor-:NatashaLoder [isthatohGran?] Guru l.oieuj:Tim°Tash admf= Hilary Thanksdlarh
+When the 'butterfly effect' was discovered, long
+range weather forecasting was doomed. Small per-
+turbations in a non-linear system such as the
+atmosphere can multiply to have a huge overall
+effect; so a butterfly flying in Asia could cause a storm over
+Chicago. The implications of this effect weren't realised until a
+crucial paper was discovered by James Vorke, who coined the
+term ChaOS.
+Meanwhile, Robert ITIay was working on simple popu-
+lation models. An infamous story (recounted in Gleich S book
+£0) is that, intrigued by the effects of a growth parameter
+(lambda) on his model, he wrote the problem on a corridor
+blackboard for graduate students. "What the Christ happens uihen
+lambda gets bigger than the point of accumulation?", when the non-
+linear parameter (lambda) was low, his model settled to equilib-
+rium, while increasing lambda made the model oscillate
+between two values. These 'bifurcation sequences' continued to
+double as lambda increased, until a critical point - the point of
+accumulation - when the final system was maddeningly unpre-
+dictable. May was stumped. He offered $10 to anyone who
+could figure it out.
+"Nobody ever got the ten dollars. In 1973 I went to Maryland
+to give a seminar about population dynamics. I said 'I under-
+stand this (the bifurcations) but I don't understand what happens
+after the point of accumulation...'. James Vorke was in the audience
+and he had not understood the bifurcation sequences but he said "I
+know what happens next". Between us, we had the complete picture
+and we began to realise how extraordinarily important its implications
+were. Gradually we became aware of S or 6 other people who had
+known of the mathematical phenomenon, none of them with the
+slightest sense of what it all meant. As Jim Yorke was fond ofsaying,
+'we weren'tthefirst todiscoverchaos, we werethelast"
+May's most important contribution was his 'messian-
+ic' Nature paper, in which he urged that chaos should be
+taught as part of standard scientific education. Try as we might,
+we can't boil the world down to a set of linear equations.
+"The world mould be a better place if all
+students mere given a pocket calculator and
+encouraged to play with nonlinear equations"
+1
+8
+1
+1
+0
+1
+1
+9
+1 F E L I X HI
+

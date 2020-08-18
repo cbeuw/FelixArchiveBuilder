@@ -1,0 +1,208 @@
+BWWWAAAAAAAAAAAAAMM
+GAMES
+FRIDAY 21 JUNE 41
+Games Editor: Ross Webster
+games.felix@imperial.ac.uk
+GAMES SCIENCE
+GAMES... GAMES
+“Huh. Maxed out on oil again.” – Me,
+when playing Oil Rush. Oil Rush is an
+interesting take on the real time strat-
+egy genre. It is a naval strategy game
+that takes place in the future, where
+nuclear war has melted the polar ice
+caps leaving little habitable land on
+the planet. As such, many people live
+either on ships or on platforms that
+have been built in the sea.
+Strategy in the game focuses around
+claiming and holding platforms in the
+ocean. here are two main types of
+platforms: oil rigs and unit construc-
+tion platforms; the latter being further
+divided by which unit the platform
+provides. As such, the map is simply
+the placement of these platforms, the
+types of platforms, and small sections
+of land that block sea passage.
+Each oil rig will produce as much
+oil as it can, until the maximum of
+500 has been reached, and each unit
+construction platform will construct
+the relevant unit until the population
+limit has been reached. Note: it does
+not cost anything to produce units
+(presumably oil is the only resource
+that is limited, and no oil is needed to
+build these units).
+his is one of two methods that the
+designers have employed to attempt
+to eliminate micromanagement in the
+game. he other method is unit selec-
+tion – instead of selecting units indi-
+vidually the player selects a platform,
+combination of types of units, and
+then what percentage of them he/she
+wants. he game automatically choos-
+es the ‘best’ combination.
+Both of these methods are very ef-
+fective in completing their goal – the
+game is very much focused on the
+big picture. However, this does mean
+that the player loses control. What if
+you want to send the already weak-
+ened unit to get itself killed distract-
+ing the enemy while sending the one
+at full health to capture a platform?
+he game doesn’t know which attack
+the player cares more about, and thus
+may send bad combinations of units.
+here is another very important dif-
+ference between the two main types of
+platform, which is that oil rigs must be
+defended by units, whereas unit con-
+struction platforms can have towers
+built around them for defence (tow-
+ers cost oil, and are the main thing
+that you’ll use which do so). his leads
+to the main strategic choices in the
+game: how many units to leave behind
+whilst you send the rest to capture the
+remainder of the platforms.
+And herein lies the main problem
+with this game. Whilst fun, there is
+very little strategic gameplay to be
+found. I can quite easily beat the nor-
+mal AI simply by capturing and keep-
+ing two or three oil rigs, and then
+sending a large force to attack all of
+the unit construction platforms one
+by one. Some strategy is added by the
+fact that oil rigs cannot be defended,
+and there are also special powers
+that players can use (decrease enemy
+damage for x seconds, increase ar-
+mour, etc) which increase the strategy
+somewhat as well. In addition to this,
+the fact that no unit or tower can be
+healed and each take time to be rebuilt
+adds something to this.
+However, the fact remains that the
+most eﬀective strategy is simply to
+leave behind very few units and attack
+as fast as possible.
+here are two factions presented
+at the beginning of the campaign (ef-
+fectively rebels and empire), but by
+the looks of things, these factions are
+entirely identical in terms of units and
+abilities – they exist in the game world
+purely to allow plot hooks. his is
+somewhat disappointing, as most real
+time strategy games give at least three
+factions all of which play diﬀerently,
+look diﬀerent and have a variety of
+sub-strategies, such as Starcraft or the
+Command and Conquer series. his
+may have been done simply because
+Oil Rush is quite diﬀerent strategically
+from most other games in this genre,
+however.
+he music and graphics are both
+high quality and very appropriate for
+the game. In particular, the plane and
+ship models are really very detailed.
+he main campaign is very eﬀective at
+taking you through the main unit types
+and strategies, though it does feel a bit
+like a very long tutorial. hings never
+really pick up. In addition to this there
+is simply a ﬁxed set of missions as op-
+posed to, like in Dawn of War: Soul-
+storm (I was trying to forget about that
+expansion. Curse you! – Games Ed.), a
+series of missions where the outcome
+of the last eﬀects the next. Or Rome:
+Total War where there is a large scale
+campaign map as a turn based strat-
+egy game followed by individual real
+time battles. he addition of this kind
+of campaign would add a great deal to
+the replayability of this game.
+Overall, I quite enjoyed this game
+but I don’t think it would have been
+the cost if I’d have bought it at full
+price. Oil Rush is available from Steam
+or Desura now for £12.99, but I’d ad-
+vise you to wait for the next Steam sale
+if you want to get it.
+Sanchit Sharma
+Oil, oil everywhere...
+GAMES SPORT
+Cave Johnson
+Hello exploitable summer test subjects,
+Cave Johnson here.
+I expect that some of you missed me,
+and to be fair, who wouldn’t? After those
+children at Black Mesa realised it was
+me waging incendiary citrus warfare
+against them, I’ve had to lie low for a bit.
+Whilst we were away, the UROP
+students that we kidnapped however,
+thought up another new method for
+generating inﬁnite energy. his time,
+there’s less of the screaming, and none
+of the paperwork to ﬁll out. he down-
+side is that is quite ineﬃcient, for an in-
+ﬁnite energy source, and we’re running
+out of intact UROP students to devise
+any improvements.
+So, I’m extending a special oﬀer to the
+bored, fully-limbed students of Imperi-
+al. Over the summer, your Department’s
+test associates will be running evalua-
+tion centres, to gauge your potential for
+this project. If you feel like helping ad-
+vance our knowledge of human electro-
+chemistry, and won’t have anyone who’ll
+come looking for you if you don’t return,
+pick up a form from your Departmental
+Representative.
+Alternatively, if any of you feel like
+you’re not getting enough iron in your
+diet, we’ve got a new testing opportu-
+nity, just for you. You’ll be reimbursed
+for your time, and if we still haven’t ﬁxed
+the solidiﬁcation by then, your family
+will be able to turn your remains into
+a great looking garden ornament. I say
+great-looking, but it will be your molten
+likeness, so remember to hold a heroic
+pose, when the lab boys turn on the ma-
+chines. Get your hustle on! Cave out.
+GAMES BUSINESS
+Andrew Ryan
+Dear readers, let me ask you a ques-
+tion, to ponder during your upcoming
+summer break. Do you not all feel the
+drive to make your mark in the world?
+We are all people. We are all born of
+equal chance. Yet why, when given the
+opportunity, are there those who look
+to ‘game the system’ – those who try
+so hard to do so little?
+I can understand thievery and brib-
+ery, just as well as intellect and cal-
+lused hands. Yet, these paradoxical
+ﬁgures who are prevalent in all layers
+of our society, all the halls of our gov-
+ernments, and all the vestries of our
+religions elude me.
+Why not work towards goals? What
+is life, if not a journey towards an ever-
+greater target? Are the parasites truly
+happy with such a sedentary lifestyle,
+that will leave their façade bloated, but
+their mind, withered within?
+The summer all fears
+

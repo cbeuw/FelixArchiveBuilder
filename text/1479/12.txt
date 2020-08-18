@@ -1,0 +1,150 @@
+TECHNOLOGY
+Technology Editors: Samuel Gibbs
+Feroz Salam
+technology.felix@imperial.ac.uk
+With the introduction of the Motorola Atrix
+at CES, we saw a modern implementation of
+the “One Device to Rule them All” paradigm.
+Smartphones have reached a state where they
+encompass our phone, media player, casual web
+browser and camera, all to a level that is more
+than acceptable to the average user. The Atrix
+takes this to the next level with its laptop dock
+accessory, potentially making it our primary
+computer on top of everything else.
+This contrasts to the way that the majority of
+the technology industry seems to be heading.
+With Internet speeds and accessibility improv-
+ing at such a fast rate this past decade, the con-
+cept of “the cloud” has been on everybody’s
+lips. Services like Dropbox and Apple’s iDisk,
+as well as the idea of home servers, have made
+it possible to have several devices all linked
+up to one source of data. We see this at Impe-
+rial every day. Wherever I am, on whatever
+campus, I know I can log in to any computer
+and see the same desktop screen I always see.
+Moreover, I can VPN in from home and have
+access to any file I have stored on their system.
+Google are currently the ones spearheading
+the cloud concept. With services like Google
+Docs and Google Calendar, should anyone
+decide to steal all my gadgets, I know that all
+that work and all those appointments are safely
+stored on our future overlord’s servers. Soon,
+we will see this taken to the extreme with
+Chrome OS. The principle behind this new
+browser-based operating system is that any-
+one can log into any machine with an Internet
+connection and be taken to their own account.
+All of their applications, Internet history, book-
+marks, themes, documents, etc, are presented
+to them in the same way as their home comput-
+er. While this seems like a drastically new ap-
+Free App of the Week
+iOS - Google Places for iPhone
+Google Places lets you search for and rate places to
+go, all with the ‘Hotpot’ personal recommendation
+engine. Data is a bit out of date, but one to watch.
+As with all things Android, integration with the core
+apps is easy. Places has been built directly into the
+Google Maps app for instant access.
+Android - Google Maps with Places
+The Motorola Atrix 4G
+Versus the Cloud
+Chris Fonseka
+Facebook was forced to beat a hasty retreat
+over the previous week as plans to allow third
+party access to user phone numbers and ad-
+dresses caused strong concerns among se-
+curity experts, even before the feature was
+fully rolled out. Less than 72 hours after a blog
+post announced the new capabilities, anoth-
+er posting was made stating that the capabili-
+ties were ‘temporarily on hold’ until required
+changes were made to the system.
+As a repository of one of the largest collec-
+tions of personal information that has ever
+existed, Facebook is no stranger to privacy
+controversies, with at least one major issue
+blighting the company every year. Yet for
+a company that prefers to plough through
+Facebook in address privacy u-turn
+Feroz Salam
+proach to how we use computers, in reality it’s
+a recycling of ideas. In the days of the main-
+frame system, thin clients would connect to a
+central computer system for everything, acting
+as a simple terminal. Of course this now out-
+dated technology relied on wired connections,
+but with technologies like 3G making the inter-
+net far more accessible everywhere you go, it’s
+a concept that is getting increasingly feasible
+on the move. Therefore, the idea of a thin cli-
+ent connecting to, and pulling all information
+from, a server has morphed into what we see in
+cloud computing today.
+The other approach is lot less of a stretch of
+the imagination, at the moment. The technolo-
+gy we see every day involves: 32GB of storage
+on components the size of a thumbnail, laptops
+that are more powerful than 1980s supercom-
+puters, and other laptops that are lighter than
+the majority of textbooks available at the Cen-
+tral Library. CES revealed the future of mobile
+devices. One that involves multi-core proces-
+sors, super-fast WiFi and 4G Internet connec-
+tivity, plus phenomenal graphics performance,
+all housed in a pocketable device, which we can
+take with us everywhere. The big question is: at
+what point does this one small device meet the
+universal functional needs of the majority.
+These two very different approaches to
+how we use computers both come with draw-
+backs, but as with all other fields of technol-
+ogy, there’s no telling how magical they could
+become in the near future. What I really like
+about this outlook is the fact that it is us that ul-
+timately benefits, regardless of which method
+dominates. Whether it’s in your pocket or in the
+cloud, all your data will soon be wherever you
+want it to be.
+its problems by simply refusing to acknowl-
+edge that they exist, the quick reaction and
+retraction mark a paradigm shift towards PR
+friendly policy.
+In Facebook’s vision of this mobile-friendly
+future, users could use their mobiles to access
+up-to-the-minute deals while shopping or eat-
+ing out, while shops could benefit from having
+direct contact with customers who shop regu-
+larly at their stores, instead of having to route
+their ads through Facebook.
+While an advertiser’s dream tool, such
+open access poses a huge number of privacy
+concerns. Facebook already suffers from a
+sizeable data mining problem as profiteer-
+ing devlopers attempt to gain access to user
+data under the guise of providing some other
+service, and it’s not a stretch to imagine the
+trouble this would cause if they were allowed
+to reach you at home or at work.
+The problem with the Facebook develop-
+ment system is the ease by which a developer
+can start distributing an application. Face-
+book only requires developers confirm their
+phone numbers or their credit card details,
+after which they can publish any number of
+applications. This is different to the system at
+Apple, for example, where developers have
+their code vetted before it enters the market.
+Facebook’s reversal suggests that if they do
+launch a revised version, users might be in
+much more control of when and where they
+may be contacted by developers. Yet it again
+brings up the question of whether users under-
+stand what they sign up for on the Internet, and
+if they do, whether they really care.
+FELIX
+12 Friday 21 JANUARY 2011
+

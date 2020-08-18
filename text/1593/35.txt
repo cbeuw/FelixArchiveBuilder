@@ -1,0 +1,190 @@
+35 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+31.10.2014
+Puzzles Editor Michael Faggetter
+Puzzles
+fsudoku@imperial.ac.uk
+Issue 1582’s
+solutions
+Benedict Cumberbox
+Nonogram			 		 Stephen Ball
+Acrostic Grid
+Quick Crossword
+FUCWIT
+Send in a scanned copy of your completed puzzles to
+fsudoku@imperial.ac.uk.
+Points are awarded for each correct solution.
+Bonus points (in brackets) are awarded to the first
+correct answer!
+Leaderboard
+Sadly, the FUCWIT Leaderboard is still enjoying its
+Christmas break and hasn’t bothered to check its
+emails.
+Check back next week for the updated scores, and
+remember to submitt your solutions for this week’s
+puzzles.
+Points avaliable this week:
+Quick Crossword 3 points (+2)
+Word Search		 2 points (+1)
+Nonogram 2 points (+1)
+Word Search
+ROMANSCH
+AFRIKAANS
+FARSI
+FORTRAN
+SIOUX
+XHOSA
+LATIN
+LOZI
+GEEZ
+ARABIC
+OSAGE
+ENGLISH
+CATALAN
+CHEROKEE
+JAVA
+AVAR
+ARMENIAN
+ITALIAN
+IDO
+SWAHILI
+EWE
+MALTESE
+MANX
+INCA
+HACK
+HURON
+HINDI
+CASTILIAN
+CORNISH
+TATAR
+DUTCH
+GREEK
+GAELIC
+SCOTS
+THAI
+KOREAN
+SWEDISH
+MOTU
+ALBANIAN
+SERBO-CROAT
+SAMOAN
+VOLAPUK
+VIETNAMESE
+LAO
+CZECH
+FAEROESE
+MANDARIN
+YORUBA
+CREOLE
+CURRY
+HAUSA
+MAORI
+BASQUE
+LADIN
+TWI
+CHAM
+NAGA
+ERIE
+CHEYENNE
+ALEUT
+PHOENICIAN
+UTE
+PROTO-INDO-
+EUROPEAN
+IGBO
+KHMER
+CHINESE
+ETRUSCAN
+GERMAN
+ANGLO-SAXON
+ALGOL
+HERERO
+ERSE
+BRETON
+HEBREW
+ZULU
+LUO
+FRENCH
+PORTUGUESE
+TAMIL
+SANSKRIT
+COBOL
+URDU
+LANGUE D’OC
+PERL
+FILIPINO
+WINNEBAGO
+INTERLINGUA
+EFIK
+BURMESE
+GOSU
+The remaining
+letters spell out
+RHYMING
+SLANG
+1: LAME (MEAL)
+2: IDEAS (ASIDE)
+3: MEANLY (NAMELY)
+4: ORDAINS (INROADS)
+5: UNDERFED
+(REFUNDED)
+6: SEND-OFF (OFFENDS)
+7: INSURE (URSINE)
+8: NAKED (KNEAD)
+9: EARL (REAL)
+LIMOUSINE
+—————————————————
+|W A F|O E K|S N L|
+|K L E|S N W|A F O|
+|O N S|F L A|K E W|
+—————————————————
+|E W K|A S N|L O F|
+|F O L|W K E|N A S|
+|A S N|L F O|W K E|
+—————————————————
+|S K W|E A F|O L N|
+|L F A|N O S|E W K|
+|N E O|K W L|F S A|
+—————————————————
+Suduko
+Triple Word
+Missing Letter: O
+Words: Rainbow, Stepover, Elastico
+Link: Football Skill Moves
+2 2 4
+2 2 4 1 2 2 2 5 4
+2 3 2 1 4 5 5 5 4 5 5 5 5 2 3 9 6 3 2 2 1
+3 3 3 3 2 2 2 2 2 5 4 3 2 2 5 4 1 7 2 2 1 3 3 3 2 1 2 1
+7 4 5 2 2 7 7 8 7 4 2 4 5 5 5 8 8 1 2 4 7 4 4 5 2 5 3 5
+26 4 8 10 7 18 10 3 4 7 8 8 8 8 8 8 8 7 9 14 1 1 11 18 19 18 17 16 15 26
+6 18
+5 4 13 1
+2 6 9 2
+1 2 6 3 5 3
+1 10 3 4 2 3
+1 8 3 4 2
+1 9 6 2
+18 6 1 1
+18 4 4 1
+4 7 2 3 1
+3 4 6 3 2 2 1
+2 5 3 3 1
+2 7 4 2 2 7
+2 7 4 3 7
+1 7 2 5 7
+1 10 8 7
+1 19 8
+1 1 2 13 8
+1 2 11 8
+1 1 3 9 9
+1 2 3 2 9
+1 2 3 8 2 9
+1 2 2 9 1 9
+4 2 10 1 9
+4 2 10 1 9
+4 2 10 1 9
+3 2 10 1 7
+2 2 9 3 5
+1 8 3
+0
+

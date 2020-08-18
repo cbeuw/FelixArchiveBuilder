@@ -1,0 +1,73 @@
+Puzzled Packed Christmas Special!
+Welcome to the double spread Ulysses, with plenty of puzzles
+for you to try over the vacation, if you're not too busy with
+reports to write or if you haven't overdone the festivities. Some
+of the puzzles are difficult and are marked with a dagger and
+are worth £5 each, donated, as ever, by Mend-a-Bike of Park
+Walk, just off Fulham Road. The unmarked ones are purely for
+your entertainment. Thanks to all those who have tried any of
+the puzzles. Many thanks to Achilles, Nick Williams, Olympus,
+Rev and Anatoly for their puzzles and ideas, and special thanks
+to Mend-a-Bike, without whose generosity there would be no
+puzzles column. Good luck, everyone, for the last time this
+term, and Merry Christmas to you all.
+Solutions to the FELIX Office by 1:00pm on the first
+Wednesday of term, please.
+Here's a long division puzzle with only one
+digit. Fill in the blank spaces to obtain the
+unique solution.
+If you've been trying the University Prize
+Crossword, you might like to have a go at
+these. They are some of my favourite cryptic
+crossword clues.
+1. Gegs (9, 4)
+2. I J K L M N (5)
+3. World Cup team produces duster (6, 6)
+4. (5, 3, 1, 4)
+5. Yob—in need of remedial attention (8,
+3)
+t
+Solution
+The Triangular Duel
+The key to this puzzle was in working out the
+best strategies for each of the gunmen. A's
+best strategy is to shoot at B first, B's best
+strategy is to shoot at A first, if C shoots at B,
+and hits, then he's dead, and if C shoots at A
+and hits, he stands only 20% chance of
+shooting again,so C's best strategy is to
+intentionally miss until either A or B is dead,
+and then he stands a 50% chance of winning.
+If you work out all possible series of events,
+the probabilities of each are:
+A 3
+/1 0
+B %5
+C*%|
+So the poorest shot has the best chance of
+winning, and in fact his probability of winning
+is greater than his accuracy. Nine correct
+solutions for this one, and the winner was J
+Bryson of Chem Eng 3, who can collect his
+cheque from the FELIX Office any time.
+Many thanks to Olympus for that brain-
+teaser. ^
+The Square-Wheeled Bicycle
+This is an adaptation of an Oxbridge en-
+trance question shown to me by my friend
+Rev, and is a chance for all the Oxbridge
+rejects to show that they were wrong not to
+take you.
+I was down at Mend-a-Bike's garage the
+other day, and they had just finished their
+Christmas party. One of the workers there
+had had rather too much to drink, and was
+busy trying to knock one of the bikes back
+into shape. When he had finished, the wheels
+of the bike were square, but he was too drunk
+to notice and left the bike to be sold. If the
+wheels are equal size, in synchronism and the
+bike rolls with constant horizontal velocity,
+how fast can it go before its wheels start to
+leave the ground?
+

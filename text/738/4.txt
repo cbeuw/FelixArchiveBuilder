@@ -1,0 +1,160 @@
+The Week In Science
+Time Out Meets Tomorrow's World
+New Anti-Cancer
+Therapies By
+The 1990's?
+British biotechnology
+company Celltech has
+announced an agreement with
+the Cyanamid Chemical .group
+to develop new anti-cancer
+therapies.
+The problem with chemical
+therapies for cancer is that the
+drugs used are often
+extremely toxic. The dose
+required to kill the cancer
+cells would also be sufficient
+to kill the patient-rather
+counterproductive.
+What is required is some
+way of getting large quantities
+of cytotoxic agents (drugs to
+suppress cell reproduction) to
+the tumour, without circulating
+throughout the body.
+This is where monoclonal
+antibodies (mabs) come in.
+Antibodies are part of the
+body's defence system. They
+bind selectively to organisms
+that 'invade' the body. To
+exploit the specificity of
+antibodies, large quantities of
+single, pure antibodies,
+directed against a single
+invader, are required. This is
+what mabs are.
+The Celltech cancer therapy
+is based on selection mabs
+that are specific for cancer
+cells, and then using the mabs
+to carry drugs to the tumour.
+In theory you could then
+administer large dose of quite
+toxic drugs, without serious
+side effects. Already,
+radioisotopes are being
+directed into tumours using
+mabs, to image the tumour,
+and show it size and shape.
+But a limitation of mabs so
+far has been their load-
+carrying capacity. When they
+are load with enough drug to
+kill the cancer cells , they have
+tended to breakup before
+reaching the target-depositing
+their toxic load where it isn't
+wanted
+Celltech's approach will be
+to identify and isolate the
+smallest part of the mab that
+still retains specificity for
+cancer cells and then
+genetically engineer these
+fragments with strong bonds
+to the drug.
+The initial application is
+likely to be in cancer of the
+colon, breast and stomach;
+areas that are dfficult to treat
+using conventional therapy.
+Celltech expects its mabs to
+be able to carry imaging
+agents to cancer cells by the
+early 1990s, and therapeutic
+agents soon after.
+The Eye Research Insititue
+Baltimore, US has developed
+an alternative to controversial
+irritancy tests on live animals.
+For 40 years, the household
+products and cosmetics
+industries have used the
+Oraize test, an eye irritancy
+assay performed on albino
+rabbits. The new test differs in
+that it is done on living cells in
+vitro. Corneal epithelial cells
+are wounded mechanically,
+stained, and then time-lapse
+photography monitors the rate
+of wound closure. If toxic
+chemicals are introduced, the
+rate of healing slows down,
+providing a measure of the
+degree of toxicity. This is not
+only more socially acceptable
+than the Draize test, it is also
+more reliable, says the
+Institute. Changes on surface
+of the eye in vivo are difficult
+to measure quantitiatively.
+Saved?
+Galactic Recession
+A survey designed to improve
+the way astronomers calculate
+the distance to elliptical
+galaxies has shown large-
+scale bulk motions among the
+galaxies.
+The survey, conducted by
+seven astronomers from
+all,over the world, covered 390
+elliptical galaxies. It was
+successful in establishing a
+new distance scale for
+ellipticals, accurate to 23
+percent which is quite good
+for cosmologists who are quite
+pleased if they get the right
+sign, never mind the
+magnitude.
+Having found out the
+distance, they then used the
+Hubble law to determine how
+fast the galaxies were
+receding from the Earth by
+cosmic expansion. They then
+subtracted that quantity from
+the observed recession
+velocity determined by the
+galaxy's redshift. The
+remainder is purely local
+motion that indicates how the
+galaxy is behaving to its
+neighbours.
+But these local velocities are
+still relative to the velocity of
+the Earth. To see how galaxies
+are moving relative to the
+Universe, the group next
+subtracted the Earth's velocity
+relative to the 3K cosmic
+background radiation, 600
+km/s.
+The result was a bit
+surprising. Clusters and
+superclusters of galaxies are
+streaming though the universe
+at about 700 km/s. The
+streaming movement appears
+to be in the direction of the
+Hydra Centaurus supercluster
+which is moving itself. Is there
+some huge undiscovered mass
+on the other side? We'll have
+to wait and see.
+4 Friday 2 May FELIX
+

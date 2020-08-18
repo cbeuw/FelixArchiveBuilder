@@ -1,0 +1,219 @@
+FELIX
+30
+SPORT
+Sports Editors: Jovan Nedic
+David Wilson
+sport.felix@imperial.ac.uk
+Friday 13 MAY 2011
+Felix Sports League
+sponsored by
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1210 607 603 5.00
+2 Fencing M1 10 10 0 0 1229 919 310 5.00
+3 Table Tennis M2 11 11 0 0 156 31 125 5.00
+4 Water Polo W1 8 7 1 0 102 24 78 4.63
+5 Volleyball M1 11 10 0 1 22 4 18 4.18
+6 Volleyball W1 11 10 0 1 21 4 17 4.18
+7 Basketball M1 12 10 0 2 917 735 182 3.50
+8 ICSM Netball W1 12 10 0 2 493 312 181 3.50
+9 Lacrosse M1 11 9 0 2 154 85 69 3.36
+10 Tennis M1 12 9 1 2 84 60 24 3.25
+11 Table Tennis M1 12 9 1 2 84 60 14 3.25
+12 Basketball W1 9 7 0 2 464 348 116 3.00
+13 Netball W1 13 10 0 3 546 367 179 2.92
+14 Squash W1 11 8 0 3 31 12 19 2.55
+15 Hockey M1 12 8 1 3 46 25 21 2.50
+16 Rugby M1 14 10 0 4 344 191 153 2.43
+17 Hockey W1 13 9 0 4 67 24 43 2.23
+18 Lacrosse W1 9 6 0 3 110 64 46 2.00
+19 Table Tennis W1 6 4 0 2 20 10 10 2.00
+20 ICSM Football M1 9 5 1 3 28 18 10 1.67
+21 ICSM Hockey W1 20 10 3 7 54 48 6 1.40
+22 ICSM Rugby M3 10 6 0 4 252 266 -14 1.40
+23 Football M1 13 7 1 5 34 20 14 1.31
+24 Badminton W1 13 7 1 5 44 60 -16 1.31
+25 Hockey M2 12 5 3 4 22 26 -4 1.25
+26 Football W1 7 4 0 3 19 19 0 1.14
+27 Tennis W1 7 4 0 3 42 42 0 1.14
+28 ICSM Hockey M3 7 4 0 3 11 27 -16 1.14
+29 Netball W3 9 5 0 4 291 217 74 1.00
+30 Hockey M3 11 4 3 4 17 13 4 0.91
+31 Badminton M1 11 4 3 4 44 44 0 0.91
+32 Fencing M2 10 5 0 4 1122 1128 -6 0.90
+33 ICSM Hockey M1 10 5 0 5 25 20 5 0.50
+34 Netball W2 12 6 0 6 445 483 -38 0.50
+35 Badminton M2 10 4 1 5 43 37 6 0.20
+36 ICSM Hockey M2 11 3 3 5 19 29 -10 0.09
+37 ICSM Netball W2 11 5 0 6 341 360 -19 0.09
+38 Squash M4 6 2 1 3 8 7 1 0.00
+39 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+40 ICSM Football M3 0 0 0 0 0 0 0 0.00
+41 Lacrosse W2 0 0 0 0 0 0 0 0.00
+42 ICSM Football M2 5 2 0 3 14 16 -2 -0.40
+43 Fencing W2 10 4 0 6 1142 1170 -28 -0.40
+44 Fencing M3 10 4 0 6 1146 1201 -55 -0.40
+45 Football M3 11 3 2 6 22 30 -8 -0.45
+46 ICSM Badminton W1 9 2 2 5 32 46 -14 -0.67
+47 ICSM Badminton M1 10 3 1 6 24 56 -32 -0.70
+48 Squash M3 9 3 0 6 17 26 -9 -1.00
+49 Tennis M2 10 2 2 6 40 79 -39 -1.00
+50 Hockey W2 12 3 1 8 13 41 -28 -1.25
+51 ICSM Rugby M1 11 2 1 8 144 427 -283 -1.82
+52 Water Polo M1 3 0 1 2 23 30 -7 -2.00
+53 ICSM Rugby M2 12 2 1 9 200 438 -238 -2.00
+54 Rugby M2 14 3 0 11 194 356 -162 -2.07
+55 ICSM Hockey W3 5 1 0 4 4 17 -13 -2.20
+56 ICSM Hockey W2 10 2 0 8 21 42 -21 -2.20
+57 Rugby M3 10 2 0 8 71 357 -286 -2.20
+58 Hockey M4 11 2 0 9 15 32 -17 -2.36
+59 ICSM Badminton M2 6 1 0 5 16 32 -16 -2.50
+60 Squash M2 12 2 0 10 16 44 -28 -2.50
+61 Rugby M4 8 1 0 7 59 325 -266 -2.88
+62 Football M2 12 1 0 11 14 36 -22 -3.25
+63 Squash M1 7 0 0 7 5 30 -25 -4.00
+64 ICSM Netball W3 9 0 0 9 186 352 -166 -4.00
+65 ICSM Netball W3 7 0 0 7 134 257 -123 -4.00
+were all hoping that Henry and the team could
+really build on this first result and start work-
+ing together as a three. However, although the
+team did manage to play better in the second
+chukka, Exeter were an extremely strong team
+(actually they narrowly missed out in the final)
+and were just too much for the lads. Still, all in
+all a 50% record wasn’t a bad first day for the
+novices and after a long wait while the nov-
+ices got a headstart on the beer the Lower In-
+termediate team had their first match, sending
+Nottingham packing with a sound 5-1 thrash-
+ing; Thijs putting away one lovely shot under
+his ponies neck and two text book taps along
+the wall while Alex got two lucky shots from
+range, one from around the halfway line. Jon
+came out with a duck but had been playing a
+great game linking up with both other players
+and interfering with the opposition’s offensive.
+Pretty happy with ourselves those of us that
+weren’t getting our shouting fix or (in Huey
+the Hedgehog’s case) hibernating headed to
+the pub for another night of socialising. Again,
+a huge crowd managed to congregate at a local
+pub (with proper West Country cider) for a few
+pints and it wasn’t long until we’d blagged our-
+selves an invite down to have dinner with the
+Exeter lot who turned out to be quite an ami-
+able bunch after beating us. I’m not sure any
+of us realised that we would be heading basi-
+cally all the way to Exeter for the meal but free
+sausage and mash is free sausage and mash so
+none of us were complaining. Well, not until
+Henry got sucked into a game of fives and end-
+ed up having to down two glasses of wine in a
+row. The usually quite sensible Henry earned
+the title of ‘English Drunkard’ that evening,
+which was further reinforced by his unsuccess-
+ful attempt to jump into bed upon our eventual
+return to the hotel. Unfortunately his double
+vision meant he jumped at the wrong bed and
+got some pretty impressive carpet burn the fol-
+lowing morning. As it turns out, polo is a dan-
+gerous sport.
+With another early start and rumours of a
+tactical chunder by one of the Novices that
+morning I don’t think anyone was in quite the
+right frame of mind for their chukka against
+Nottingham and the girls in green took full
+advantage of our slight greenness around the
+gills hitting home a bit of revenge after their
+lower intermediate teams trouncing. Our Low-
+er Intermediate team, with somewhat longer
+to recover, were well up for our traditional
+grudge match against ULU that afternoon and
+the relatively amicable relationship we’d had
+with them on Thursday night was put on hold
+until the end of our chukka. This was one of the
+closest matches I’ve played and we were per-
+haps a little lucky to squeeze out a 2-1 lead af-
+ter a couple of fouls were committed against us
+and then hold it under a lot of pressure until the
+buzzer went leaving us progressing to the two
+chukka final against our new friends Exeter.
+With an old friend arriving that day to play
+in the alumni tournament we had a pretty de-
+cent crowd when it came to the party that eve-
+ning. All of us gathered in one hotel room for
+drinks and dinner before heading away, with
+Huey (presumably stocking up for winter)
+managing to have dinner once before leaving
+the polo ground and then a huge lamb shank in
+our room as well! The party is always amus-
+ing and with several hundred students there the
+bouncy castle generally doesn’t manage to last
+that long, however the inflatable assault course
+and bungee run provided much amusement
+and the beat-boxing, acoustic trio on stage
+were surprisingly good for an event organised
+by a club.
+Sunday saw the Novices first up once again
+with a battle to regain some pride on their hands
+and to win their last chukka. A final change of
+horse left Henry with one last chance to find
+his perfect steed, though with Sverré claim-
+ing he thought he was going to vom off the
+side of his mount I have to say I wasn’t con-
+fident the guys would play at their best. Still,
+I was very glad to be proved wrong and the
+team played the best polo I’ve ever seen from
+them. Henry finally found his confidence and,
+without speeding up a great deal, was finally
+able to stop worrying about the beast between
+his legs (*snigger*) and start concentrating on
+the playing the ball (*snigger more*), getting
+several impressive runs down the wall. Huey
+again played the most physical game I’ve ever
+seen from the normally quiet player and Sverré
+managed to overcome his nausea to cover the
+gaps between the two players both in attack
+and defence. Overall they dominated the girls
+from Harper Adams and came away with a
+good victory to top off their weekend.
+Then it was down to the Lower Intermediate
+team. Could we pull of the biggest victory ICU
+Riding and Polo have seen to date or would
+Exeter continue to storm ahead to victory as
+they had done in the previous rounds. Things
+didn’t look good in the first few minutes as Ex-
+eter got off to an early lead while we took a
+while to really get motoring. Their best player,
+Francois, really seemed to have us pegged at
+the beginning but we managed to claw our way
+back into things toward the end of the first half.
+With only a short break before the second we
+stayed on or close to our horses and chatted
+about how to try to counter their play realis-
+ing that we needed to be better at maintaining
+possession and being quicker on the turn both
+in support of each other and to get the defen-
+sive plays working better. In the second half
+we really hung in there, never really manag-
+ing to get ahead but not falling further behind
+either. A few fouls not spotted by the umpire
+might have helped us close the gap but when
+the buzzer went we couldn’t be disappointed
+at losing to such a strong team and, despite be-
+ing about ready to collapse we were the first to
+congratulate Exeter on a tournament well won
+with a loud call for three cheers.
+All in all this February was the best tourna-
+ment I’ve been to yet and we were all happy
+to bring home a little glassware for Riding and
+Polo. Even if it did say ‘Runners Up’ on it.
+ICU Riding and Polo heads
+to the Arena Polo Nationals
+... Continued from back page
+Ed Phillips Images
+“Henry [...] was finally
+able to stop worrying
+about the beast between
+his legs”
+

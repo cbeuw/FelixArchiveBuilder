@@ -1,0 +1,135 @@
+•A special offer for I
+Imperial students
+from D
+Denis Smyth
+•Driving Standards Agency (D
+DSA)
+Accredited I
+Instructor
+•Mock Test E
+Examiner
+To make inquiries and book lessons,
+call 07808 610 898
+Driving Lessons For Imperial Students
+“Denis is a fantastic teacher and knows how to get people from completely
+inexperienced and utterly hopeless driving up to the standard to pass their test.
+He is always calm and his comments are constructive; his knowledge of London
+and his knack of engineering driving routes that test the learner make the lessons
+more than worth it. Since I have met him he has shown a great desire to offer
+cheaper lessons to Imperial students and with the backing of other students
+I am more than happy to support him”
+- Alex Kendall, IC Union President 2010-11
+5 Driving Lessons
+for £95
+NEWS
+FELIX Friday 17 february 2012 5
+Nominations for the Union’s ‘Big Elec-
+tions’ opened on Monday 13 February
+with students able to put themselves for-
+ward as candidates for departmental and
+sabbatical positions. The site’s look and
+feel has been radically changed from
+previous elections, and the voting sta-
+tistics have reportedly been revamped.
+The decision to make the elections
+different came from the central services
+manager and marketing departments in
+the union, who believe the change will
+increase turnout even more. The new
+logo and redesign was used to improve
+usability and rid the elections website
+of the previously used grey and green
+colour scheme, bringing the site in line
+with imperialcollegeunion.org and eAc-
+tivities. Union Systems Administrator
+and RCSU Vice President (Operations)
+Paul Beaumont worked with Jonathan
+Kim, responsible for many web projects
+including FelixOnline, to produce the
+new website’s features.
+When the 2011 Sabbatical and Stu-
+dent Trustee elections opened, the site
+crashed due to high demand, causing all
+other resources on the server to become
+temporarily unavailable. This was due
+to the marketing and elections systems
+being on the same server which hosts
+clubs’ and societies’ webpages, Dou-
+gal. The union has four servers: Pinky,
+Perky, Dougal and Heeps, of which
+Beaumont is in charge of the latter two.
+Steps have been taken to ensure such
+a crash does not happen this time, with
+the voting website being moved to the
+Perky server in order to restrict access
+to union staff only and prevent high de-
+mand taking down other vital resources.
+The Big Elections include faculty
+and departmental positions all under
+one system. As a result, all positions
+are shown in one list and can be hard to
+navigate. Beaumont told Felix that this
+was due to “there being one overseeing
+returning officer” and that “things will
+change once nominations close”. It is a
+constitutional requirement that the list of
+all positions is shown, and Union Presi-
+dent Scott Heath’s interpretation of the
+constitution has resulted in the display
+of the number of seconders a candidate
+has being capped at the maximum of 20.
+The statistics website will go live
+around the weekend before voting
+opens, and a number of technical (as
+well as aesthetic) improvements have
+been made. For instance, the stats will
+now be pushed to clients from the server
+rather than the browser frequently pull-
+ing data, reducing load and the poten-
+tial of crashing. When the nominations
+website went live and the Union adver-
+tised that they were open, the site was
+still not accepting logins to the elections
+system. Beaumont explained that “the
+server was tested for a fortnight and its
+time had gone out of sync by twenty
+minutes in that period”, adding that “it’s
+fine now since the server is safe and se-
+cure in one of the College’s datacenters,
+and the server has been set to autosync
+time”, assuring it will never go wrong
+again.
+The official Twitter hashtag for the
+elections is #voteicu, which started to
+receive use around the same time as
+Deputy President (Education) Jason
+Parmar tweeted that the hashtag of the
+week should be #loveyourrep for Rep
+Week. On the suggestion of a hashtag
+war, Beaumont explained that he be-
+lieves “the Union’s tweeting as much
+for the elections as it is for rep week,
+and the reps have had more of a physi-
+cal presence across campus”. He added
+that the “elections will get physical in a
+couple of weeks”.
+The electronic ballot box for voting
+has also been improved, with candi-
+dates’ manifestos and pictures being
+displayed on the voting screen, shuffled
+for fairness. A brief explanation of the
+Single Transferable Vote (STV) system
+is also provided, and the list of sec-
+onders (constitutionally made public)
+may be used in the marketing website.
+Beaumont told Felix that he is “happy
+with how the system’s been received”
+and that he thinks “everyone’s taken it
+well”.
+Alexander Karapetian
+Nominations open for Union Big Elections
+“Elections will get
+physical in a couple
+of weeks”
+Philip Kent
+

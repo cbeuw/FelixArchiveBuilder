@@ -1,0 +1,148 @@
+22
+HACKING IN PROGRESS
+COMPUTING 3 October 1997
+jacking On [Progress
+A Festival of Sorts
+Hacking in Progress 1997, a
+computer hacking festival of sorts,
+was held over three days this sum-
+mer at a campsite outside
+Amsterdam in the Netherlands.
+Incorporating the largest out-
+doors non-military network in the
+world, with a total of 1,598 com-
+puters, 2,523 attendeese, a 100
+Mbit network backbone, a 6 Mbit
+microwave Internet link and 1
+tombstone of a certain Bill Gates,
+the conference was a great suc-
+cess.
+Lectures included computer
+security problems, as well as cryp-
+tography, as well as emerging stan-
+dards for the Internet, such as IPv6
+and the World Wide Conferencing
+Network (the successor to !RCv2).
+The festival included a "hack
+the computer" contest, which
+degenerated into "hack any com-
+puter", mine included.
+Note that hacking in the sense
+of the festival is more like the old
+meaning of hacking; being very
+knowledgable about computers.
+The event will be held again in
+four years, and is currently going
+under the name of "Hacking At
+Large 2001" (HAL2001 ;-). Check
+out the HIP97 website,
+http://www.hip97.nl/
+Leon Brocard
+BUBBLE GUM - THE GAMES SECTION COMING SOON
+Actua Golf 2 (playstation)
+Gremlin Interactive • * I
+/ 2
+Computer golf games are pret-
+ty standard these days, with the
+game play based on timing the golf
+swing against a swing-o-meter. So
+what have the programmers put in
+this game to make it different?
+Running commentaries, water
+reflections, new sceneries and a
+motion capture facility so that you
+can show all your friends that hole
+in one.
+Commentary seems to be the
+in thing to add to sports games
+these days, Actua Golf 2 adds
+nothing new except for an interest-
+ing mixed commentary from Peter
+Alliss and Alex Hay (who?). During
+the initial learning stages of the
+game the commentary became
+tiresome and was unsympathetic.
+After being repeatedly told how
+pathetic my shots were it was very
+tempting to switch it off and I'm
+not talking about the sound.
+Actua Golf 2 has plenty of
+options to keep any avid golf fan
+happy. Much of the guess work
+can be taken out of the game, as
+your computer caddy automatical-
+ly gives you the most ideal club
+and the ball's trajectory can be
+indicated by means of an arc.
+If you are a golf fan, this is the
+only golf game you should buy, the
+original Actua Golf was a huge suc-
+cess last year and with 6 new
+courses you can't really go wrong.
+Magpie
+Press Releases
+In the Pipeline
+This summers ECTS trade show
+at Olympia prooved that the games
+industry is definitely not running
+out of steam. Sony is having an
+excellent year in terms of sales and
+they showed it by splashing out on
+the whole of the west wing of
+Olympia. Over a hundred
+PlayStations donned the arena,
+with Namco's coin-op conversion
+of Time Crisis and the most unusu-
+al Parappa the Rapper mixing but-
+ton tapping with rap music, suiting
+a whole range of games prefer-
+ences. The game play seems limit-
+ed to tapping the control pad at
+the right time but with corny rap
+lyrics and characters such as a mar-
+tial arts instructure with an onion
+for a head, had me rolling around
+in laughter. Watch out for Final
+Fantasy VII, in japan this rpg
+became the fastest selling game
+ever, while helping to furthur boost
+Playstation sales.
+Eidos was another big player
+this year, and Tomb Raider resuced
+Eidos from the depths of dispair
+last year. This year's launch of
+Tomb Raider 2 (released this
+November) was hyped with a look
+alike Lara Croft with associated sil-
+icone implants and timberlands.
+Well with the number vultures,
+oops I mean photographers around
+her it just goes to show that sex
+appeal sells and sells well.
+Nintendo has taken much flack
+over it's use over expenisve solid
+state storage cartridges in their
+almost new N64. Goldeneye for
+the N64 is a James Bond film tie-in,
+its Doom style corridor action will
+have N64 owners pleased, the big,
+bright, happy smiley graphics of
+the Mario series can make anyone
+feel slightly nausious after a while.
+Starfox, due for release next
+month, was on show with the addi-
+tional rumble pack. This pack con-
+nects to the controller and vibrates
+when the console detects a colli-
+sion or a hit, it may sound like
+another gimmick to drain your bank
+account but it does add another
+dimension to game interaction.
+Magpie
+Watch Out For...
+Psygnosis: G-Police is to be
+enhanced with Intel's Accelerated
+Graphics Port interface.
+Westwood Studio: Bladerunner,
+send in the clones.
+

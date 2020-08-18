@@ -1,0 +1,262 @@
+32
+TECHNOLOGY
+Technology Editor Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 04 DECEMBER 2009
+GET
+You’ve read what we’ve got to say. If you’ve got a passion for
+technology and have got something to say then get involved!
+Email us at: technology.felix@imperial.ac.uk
+If it’s something decent you might even end up in felix one week.
+Welcome to the World
+of Tomorrow....
+Technology Editor Samuel Gibbs takes a quick look back in the
+annals of history to what 1949 gave the world of technology
+Tablet Crunched
+no more
+T
+his week saw one of my most
+anticipated devices of 2009-
+2010 go the way of the Dodo
+just before release. I’m talk-
+ing about the CrunchPad, Michael
+Arrington’s attempt to create an inter-
+net tablet built around a 10.2” touch
+screen and the Intel Atom processor.
+The promise of a couch-friendly touch
+screen tablet for around the $300
+mark was pretty tempting. Up until
+now, prototypes and mock-ups have
+all looked great with Arrington hop-
+ing to unveil the CrunchPad for mass
+production this week. News came two
+days before the official launch that
+a fall-out between TechCrunch and
+their manufacturing partner has put
+the kibosh on the CrunchPad.
+A post on TechCrunch said that
+Fusion Garage, the manufacturer of
+the fabled device, had decided to go
+it alone and make the device without
+TechCrunch. As Arrington put it so
+succinctly, it’s like:
+‘...Foxconn, who build the iPhone,
+notifying Apple a couple of days before
+launch that they’d be moving ahead
+and selling the iPhone directly without
+any involvement from Apple.
+’
+The problem for Fusion Garage is
+that both it and CrunchPad, the team
+from TechCrunch, own the intellectual
+property behind the internet tablet. So,
+however they proceed, it’s eventually
+going to be the Court’s decision as to
+whether this hotly-anticipated device
+ever makes it to market. The irony here
+is that Arrington is no stranger to IP
+battles and infringement, as he’s will-
+ing to publish any and all leaked data
+and information, as he aptly showed
+with posts containing Twitter’s busi-
+ness model and their plans to monetise
+the free service.
+In other news this week, Google
+has killed off development of Gears
+now that HTML 5 is making head-
+way. Google’s plan for Gears was to
+introduce the concept of rich, offline
+web apps like Google Docs, Wave and
+Gmail and force adoption of a standard
+that did away with the need for plug-
+ins like HTML 5. Now that its mission
+is complete, Gears will cease develop-
+ment but be maintained for the near
+future, as more and more browsers be-
+come HTML 5-compliant.
+Talking about web apps, Facebook
+this week decided to do away with re-
+gional networks in an effort to bolster
+user privacy. It also made changes to
+many of its privacy settings to help
+protect its 350m users.
+SamuelGibbs Technology Editor
+T
+T
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week in Tech has flown by as
+we head into December and the inevi-
+table Christmas rush. This week we’ve
+had the good, the bad and the down-
+right ugly rear their heads in the world
+of consumer technology.
+In a break from tradition we’ll start
+with the bad. Virgin Media announced
+this week that it would be doing some
+snooping into 40% of its custom-
+ers’ traffic using a technology called
+CView, which conducts Deep Packet
+Inspection (DPI) in an effort to deter-
+mine the rate of music piracy across its
+network. Yes that’s right, Virgin is go-
+ing to examine everything that goes to
+and from your computer if you happen
+to be in the 40%. What does this really
+mean? Well if you’re pirating music
+across an unencrypted network like
+BitTorrent, VM will know and what
+they’ll do about it is unknown. Virgin
+are set to launch a music service in
+conjunction with Universal and their
+official line is that they want to gauge
+piracy levels. I don’t know about you,
+but piracy or not, I don’t want people
+snooping at everything I do or send
+across the Internet including email,
+IM, Waves and surfing.
+about the ugly? Are you living off
+Daddy’s trust fund or have recently
+come into a load of money? Do you
+have £1.92m burning a hole in your
+pocket? Well I’ve got just the thing for
+you. How about a solid gold iPhone
+encrusted with 136 flawless diamonds
+just in the front bezel? The iPhone 3GS
+supreme features a very rare, single
+cut, 7.1 carat diamond for a home but-
+ton and 53 flawless diamonds making
+up the Apple logo on the back. Nice.
+On with the good with more Apple
+rumours this week. Apple names its
+hardware via strict numerical num-
+bering system, a single generation
+number followed by a decimal itera-
+tion number. An iPhone identified as
+3,1 has been spotted by a software
+analytics program operating in the San
+I
+f you’ve got this far into felix
+this week you should know by
+now that it’s our 60th birthday.
+To commemorate the rather
+fine achievement of 60 years
+in print, we’re going to take you back
+to 1949, sixty years in the past, to see
+what technology was like in our first
+year in print.
+Technology, if you can call it that,
+was very different back then as you
+can imagine. Computers had only just
+started to make moves within the in-
+stitutions of learning whilst Microsoft,
+Apple and other behemoths of the 21st
+century era weren’t even a twinkle in a
+lucky man’s eye.
+1949, apart from giving us household
+names such as Sigourney Weaver and
+Arsene Wenger, also debuted some im-
+pressive tech for the time. January 17th
+saw the first VW Beetle roll into New
+York to a decidedly lacklustre recep-
+tion. Despite VW’s best efforts, only
+two 1949 models were sold in the US
+that year. A bad start, but it wasn’t all
+bad as the Beetle was set to become
+the greatest automobile phenomenon
+circumnavigation of the globe in their
+Boeing B-50 Superfortress bomber,
+voyage. The British-designed de Havil-
+land Comet was the first-ever com-
+mercial jet to reach full-scale produc-
+tion. The early Comet models suffered
+from catastrophic metal fatigue, not
+something you would want travelling
+at several hundred miles an hour, and
+had to be withdrawn from service for
+a redesign resulting in the Comet 4 se-
+ries. Derivatives of the Comet are still
+in service today including the Nimrod
+MRA4 which is set to see the RAF out
+until the 2020’s.
+August 29th 1949 saw the Soviet
+Union test its first atomic bomb code-
+named Joe 1, which borrowed heavily
+from the plutonium bomb dropped on
+Nagasaki in 1945 by the US.
+SamuelGibbs Technology Editor Francisco area. The current iPhone
+3GS carries an iPhone 2,1 identifier
+and it was spotted in much the same
+way in testing in October 2008, eight
+months before it’s eventual release.
+What does this mean? Well, we already
+knew Apple was likely to release a new
+iPhone in just over 6 months time, but
+the 3,1 identifier indicates that Apple
+will consider this a major hardware re-
+fresh. Whether this means a move to a
+PA Semi ARM chip, an OLED screen
+or a forward facing camera for mobile
+iChat is anyone’s guess.
+Speaking of video calling, Fring
+brought one-way video calling to the
+iPhone this week with an app update.
+While one-way video is not particular-
+ly useful, given hardware limitations,
+it’s better than nothing right?
+in American history.
+March 2nd 1949 saw the first ever
+non-stop around-the-world flight by
+the aptly-named Lucky Lady II. It took
+Captain James Gallagher and his crew
+of 14 just under four days to make the
+with four in-air refuelings on the way.
+On May 23rd 1949, EDSAC, the first
+stored-program computer, kicked into
+life at Cambridge’s Mathematical Lab-
+oratory. Consisting of mercury delay
+lines for memory and derated vacuum
+tubes for logic, with data inputted via
+5-hole punched tape and outputting via
+a teleprinter it certainly didn’t resemble
+the modern PC. The EDSAC, however,
+came packed with something rather
+special. It shipped with the world’s
+first, albeit rather primitive, assembler,
+which it could be argued was the start
+of the global software industry that we
+know and love today. Another British
+technological first, like the Internet,
+without which we wouldn’t have many
+of things we couldn’t live without today.
+June 8th 1949 saw the publication
+of one of science fiction’s most cele-
+brated and culturally significant books
+of all time, George Orwell’s Nineteen
+Eighty-Four. The book told of a soci-
+ety under total control from the top,
+where independent thought was re-
+moved and its people suppressed. It
+also introduced the idea of Big Brother,
+watching your every move, something
+we’re moving closer and closer to in to-
+day’s society.
+Another truly revolutionary first that
+took place in 1949 on July 27th was the
+first ever jet-powered airliner’s maiden
+More from the military, the first of
+the 20mm M61 Vulcan Gatling gun
+prototypes was produced and tested
+in 1949. Various derivatives of the
+impressive Vulcan cannon as it was
+known are still used in almost all fixed-
+wing military aircraft today. The M61
+also gave birth to the M134, which
+you’ll probably know by the name
+Minigun. Yes, that’s right, that hulking
+massive gun that the Governor of Cali-
+fornia had to be strapped to the floor
+to fire freehand in Terminator 2.
+1949, the year that gave us Big Broth-
+er, felix and the jet airliner.
+Well that’s the bad out the way, how
+

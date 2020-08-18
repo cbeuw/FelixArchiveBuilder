@@ -1,0 +1,279 @@
+3
+NEWS
+Editors: Aemun Reza,
+Nida Mahmud,
+Philippa Skett
+news.felix@imperial.ac.uk
+FRIDAY 15 NOV
+Zain Rizvi
+News Reporter
+£20.1 million
+donation creates
+Imperial’s Brevan
+Howard Centre
+B
+revan Howard - the third
+largest hedgefund in the
+world, has made a historic
+£20.1 million donation
+towards the set up of ‘The
+Brevan Howard Centre’ at Imperial
+College London. The centre is set to
+be “one of the most important centres
+for ﬁnancial research in the world”
+according to Mervyn King (former
+governor of the Bank of England) and
+will be based in Imperial’s renowned
+business school.
+Professor Franklin Allen and
+Professor Douglas Gale, two of the
+world’s leading experts on ﬁnancial
+crisis and market contagion (The
+spread of economic crisis/boom via
+small ﬁnancial institutions) are set to
+lead the centre, leaving their previous
+posts in the US where they were based
+at top universities. The professors
+have been hailed as “two of the giants
+of modern banking and corporate
+ﬁnance.” by Kenneth Rogoﬀ, Professor
+of Economics at Harvard University,
+and Alan Howard, (founder of Brevan
+Howard) an Imperial alumnus, as
+well as the man behind the donation,
+is hoping that “under Franklin and
+Douglas’ leadership, the Brevan
+Howard Centre will be perhaps the
+world’s most important locus for
+studying these [ﬁnancial] issues.”
+Professor Allen himself, has said
+that Brevan Howard’s donation has
+“created the opportunity to set up
+a ﬁnance centre that will be second
+to none in the world.” And together
+with Professor Gale, he plans “for
+the research produced at the Brevan
+Howard Centre to have a direct
+and positive inﬂuence on ﬁnancial
+policymakers and practitioners.”
+Professor Gale also added that
+“Although the Business School is
+relatively young, it has made rapid
+progress and I am conﬁdent that it can
+attain the global stature that Imperial
+College has in the natural sciences,
+engineering and medicine. Thanks
+to the generosity of Alan Howard in
+funding the Centre, we have already
+taken a big step toward that goal.”
+As you may have deduced by now,
+this centre will eﬀectively play a part
+in determining the future of both the
+US and UK economies, and therefore
+it is no surprise that this initiative has
+been met with praise from oﬃcials
+from both sides of the Atlantic.
+Former US Treasury Secretary Larry
+Summers has made assurances that
+it will “make our ﬁnancial system
+work better and make ﬁnancial policy
+much wiser”. London Mayor Boris
+Johnson hardly seemed to be able to
+contain his excitement, commenting
+that: “Great scholars and thinkers are
+intrinsically linked to the success of
+our city, and having convinced these
+two world leading minds to move
+here will help Imperial College further
+cement London’s position as the
+world’s intellectual capital.” - Sounds
+good to us Boris!
+Therefore, not only has Imperial
+once again asserted its dominance on
+the world stage of leading institutions,
+the college has also adopted a hands
+on approach to addressing the key
+issues that are confronting society
+today. The success of this approach has
+been exempliﬁed by the high graduate
+employment rates that Imperial
+produces time and time again, and the
+launch of the Brevan Howard Centre
+is just another step in cementing
+Imperial’s global reputation.
+Seedcamp is known as ‘the Harvard
+of Startup Accelerators’, and widely
+regarded as the top Accelerator
+in Europe. On top of their regular
+activities, they also run Seedhack a
+hackathon (where coders, designers
+and other startup-y types get together
+and ‘hack’ cool products together
+over a weekend). Last weekend was
+Seedhack 4.0, with the theme of
+‘remixing content’. They worked to
+get a lot of data providers at the event,
+and we were spoilt for choice! From
+the BBC’s realtime news data hose,
+through to Nokia’s music service and
+lots of image providers (including
+Getty, the photo source for all
+newspapers), we had it covered!
+The mostly Imperial team,
+comprised of Ben Miles, Florian
+Rathgeber, Aeneas Wiener and
+Thomas Lim joined forces with
+three other entrants. Our work with
+Imperial Create Lab and ICSaaS
+meant we have the creative and
+technical skills to execute on a cool
+idea. The concept of balanced news is
+one which we liked; there are always
+two sides to a story, but when reading
+articles on the internet, it is all too
+easy to get an unbalanced view.
+Our hack pulled in realtime
+news stories from the BBC News
+Labs experimental ‘Juicer’ API. We
+analysed the content with sentiment
+analysis to ﬁgure out which ‘side’ of
+the story it was about. Articles are
+augmented with various associations
+to people, places, oganisations, events
+etc., which we used to query for
+related articles. With more sentiment
+analysis, we could work out the article
+with views most diﬀerent to the
+ﬁrst one analysed. At this point, we
+analysed any Tweets which had been
+shared with the URL to the article
+in it. We measured the sentiment
+(both for positivity or negativity, and
+strength of view) of all tweets, and
+the aggregate scores were factored
+in to how we displayed articles on
+the page. We named it Oppozeit, as
+we combined the zeitgeist nature of
+many news aggregation tools, whilst
+showing the opposing sides of an
+argument.
+Articles were rendered side by
+side (the two ‘opposing’ articles in
+question), with the proportion of the
+page given to each one being based
+on which articles were getting the
+most vocal support on Twitter. The
+background colour was based on how
+strong opinion and language was in
+the article itself, with a darker shade
+indicating strong language. The image
+backdrop was pulled from Getty, with
+the articles ‘key words’ (also provided
+by the BBC ‘Juicer’ service) being
+provided as search terms.
+All in all, we felt it was an impressive
+hack considering the time frame!
+We were delighted that Seedcamp
+decided to announce us as winners of
+Seedhack 4.0! Some hackathons have
+impressive prizes– over £1000 in cash,
+a trip to the US are some we’ve come
+across (but sadly not won) recently.
+Seedhack tops it all though– a Star
+Trek Enterprise Pizza cutter. The
+Enterprise does of course represent
+the cutting edge of Innovation, so what
+better way to cut pizza at hackathons
+and when working at a startup? We
+look forward to our next Hackathon,
+but in the mean time check out our
+live demo: oppozeit.me and stay
+tuned as we develop our hack!
+Speedcamp
+announce winners
+of SpeedHack 4. 0
+Thomas Lim
+Writer
+wardens have raised a possible legal
+issue surrounding the changes. The
+frequency of the cleaning service is
+one of the terms and conditions of
+the Accommodation License that
+all halls’ residents have to agree to
+before they can accept an oﬀer of
+accommodation. As mentioned in at
+the start of this year’s contract, College
+Accommodation Licence (2013
+-2014), the licence contains legally
+binding obligations that apply to
+students. However, this year’s licence
+still states in Section 4 (Cleaning)
+that “At all accommodation with
+the exception of Xenia all kitchen,
+reception and other communal areas
+will be cleaned daily, Monday to
+Friday, and study bedrooms will be
+cleaned fortnightly...”
+The disparity between the contract
+signed by every student in College
+accommodation and the cleaning
+services provided by College has
+caused some concern in the halls’
+population. Several halls’ residents
+have sent in complaints to Campus
+Services regarding what they consider
+to be a breach in contract, to which the
+department replied, “…We do reserve
+the right to vary the frequencies in
+order to avoid having to increase our
+running (and therefore rental) costs.”
+However, this does conﬂict with the
+initial response we received from
+Campus Services (see above) where
+they state that cleaning service levels
+are not considered when calculating
+student rents. Felix looks forward to
+their clariﬁcation on this issue.
+Last year’s Union President and
+current sub-warden Paul Beaumont
+sent a letter of complaint (in a personal
+capacity) to the Rector, Provost,
+College Secretary, and Associate
+Provost (Institutional Aﬀairs) this
+week, in which he stated, “Although
+the licence reserves eight other
+rights to vary the contract, altering
+the frequency of cleaning is not one.
+An organisation cannot (or should
+not – even if it reserves the right to)
+vary a contract except under extreme
+circumstances. ‘Re-tendering’ and
+altering the provision to save money
+(but not passing on this saving to the
+customer) is not, in my or in any of
+the residents I’ve spoken to views, an
+extreme circumstance.”
+Felix has asked Campus Services
+to respond to a few questions, asking
+to have more information about
+the feedback process they used to
+solicit student feedback, as well as
+the number of the respondents who
+preferred monthly cleaning. We’re
+also hoping to be told more about the
+decision process and how they plan to
+operate for the rest of the year.
+However, we are aware that Campus
+Services will be reviewing the cleaning
+provision in the near future, especially
+for areas where the level of cleaning in
+inadequate, with a view to increasing
+the level of cleaning in these areas
+(i.e. kitchens used by large numbers
+of students). We have also heard that
+they have provided some cleaning
+materials for students to use and we
+look forward to further developments.
+continued from page 1...
+OPPOZEIT
+

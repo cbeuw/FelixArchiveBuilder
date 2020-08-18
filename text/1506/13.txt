@@ -1,0 +1,257 @@
+This moves us
+a step closer to
+understanding how
+the universe is held
+together
+”
+e is held
+e is held
+“
+This mo
+This mo
+Over the Christmas holidays, CERN’s
+Large Hadron Collider (LHC) in Ge-
+neva reported its first particle discovery
+since opening in 2009. Named Chi_b
+(3P), the particle was recorded by AT-
+LAS, one of four detectors within the
+LHC, and is a more excited state of the
+Chi particle.
+Chi particles are part of a family of
+mesons called quarkonia, whose con-
+stituents include a quark and their own
+antiquark. The Chi_b (3P) particle is an
+example of bottomonium, made up of a
+bottom (or beauty) quark and a bottom
+antiquark.
+The particle was discovered by re-
+searchers from the University of Bir-
+mingham and Lancaster University,
+who analysed data from the ATLAS
+detector and published their findings on
+22 December. James Walder, a research
+associate from Lancaster who worked
+on the analysis, said that the particle
+“was predicted by many theorists but
+was not observed at previous experi-
+ments.”
+Professor Roger Jones, Head of the
+Lancaster ATLAS group, said “while
+people are rightly interested in the
+Higgs boson, which we believe gives
+particles their mass and may have start-
+ed to reveal itself, a lot of the mass of
+everyday objects comes from the strong
+interaction we are investigating using
+the Chi_b (3P).”
+“The better we understand the strong
+force, the more we understand a large
+part of the data that we see, which is
+quite often the background to the more
+exciting things we are looking for, like
+the Higgs”, he added.
+Professor Paul Newman, from the
+University of Birmingham said that the
+discovery of this particle is a “testament
+to the very successful running of the
+collider in 2011 and to the superb un-
+derstanding of our detector which has
+been achieved by the ATLAS collabora-
+tion already.”
+Other, less excited states of Chi par-
+ticles were observed 25 years ago, and
+new measurements continue to test the-
+oretical calculations of the forces that
+act on fundamental particles. Dr Mir-
+iam Watson commented that this will
+LHC finds its first new particle
+“move us a step closer to understanding
+how the universe is held together.”
+Dr Jad Marrouche, an Imperial re-
+searcher working on the Compact Muon
+Solenoid (CMS) experiment, another
+detector at the LHC, told Felix: “this is
+yet another validation of the predictive
+power of our theories. However, it’s not
+the discovery we were all hoping for in
+2011 – there is still one more particle
+the Standard Model predicts which we
+haven’t conclusively discovered yet,
+Yes, you read right: time cloak. But
+what is this mysterious device? Well, it
+works to conceal an event in time. This
+is not just science fiction; experiments
+and investigations have been carried
+out to show that such a cloak might ac-
+tually be a possibility.
+Now before you get too many wild
+ideas, let me preface this article by
+saying that there is no garment that
+allows you to escape from even the
+worst lectures.
+Imagine a spatial cloak which ren-
+ders what is inside invisible. Most
+ideas concerning this use the refraction
+of light and bend light around a spa-
+tial region using lenses with negative
+refractive indices, to make it appear
+undetectable.
+Instead of diffracting and refracting
+light, the time lenses affect its disper-
+sion. For an event to be detected in
+time or space, you need to change,
+manipulate or somehow alter a parcel
+of light. When we view an object on
+the table, what we are seeing is all the
+light reflected off its surface. Just as a
+spatial cloak warps light around space,
+the time lens will similarly affect light
+and not allow it to reflect of the region.
+To achieve this, Moti Fridman and
+his research team at Cornell Universi-
+ty accelerated the front of the incident
+light and delayed its rear part.
+A split time lens creates a “frequency
+chirp” which is interpreted as separat-
+ing the red and blue parts of the spec-
+tral wave and delaying them. A sin-
+gle-mode fibre further delays higher
+wavelengths while speeding up shorter
+wavelengths with respect to the initial
+beam. There comes a point where the
+region is fully isolated. The process is
+then reversed so that the regular wave
+is detected and it is unnoticeable that
+the wave has been changed at all.
+The best visualisation I can give
+is to imagine a sheet of light coming
+towards the zone, which has different
+wavelengths being sped up and slowed
+down so the light bends around the re-
+gion, analogously to an invisible spa-
+tial lensing effect.
+Whether or not you can imagine
+it – as with the case of most mod-
+ern high level physics, even Richard
+Feynman said “I think I can safely say
+that nobody understands quantum me-
+chanics” – Fridman’s team was able
+to experiment using the method and
+Have you seen my time cloak?
+Pavitar Devgon
+Alexander Karapetian
+but 2012 will hopefully be that year.”
+The LHC continues to fill gaps in
+the Standard Model of particle phys-
+ics and leads the search for the Higgs
+Boson. It was closed for the Christmas
+holidays and will resume running fol-
+lowing a submission of various papers
+this month regarding the latest Higgs
+analysis data showcased at their sci-
+entific update and press conference on
+December 13.
+arXiv:1112.5154v1
+showed that the lens actually can mask
+an event to a high degree.
+The experiment was set up so a
+1569nm light pulse interacted with a
+non-linear fibre, producing a 1539nm
+signal. The 1539nm signal was clearly
+observed when the cloak was turned
+off, however once activated, the cloak
+reduced the amplitude to noise levels.
+While the time cloak is not 100%
+efficient, it did conceal the majority
+of the fibre, reducing the amplitude
+by more than 10 times. To greater in-
+crease efficiency, the ‘temporal gap’
+can be widened by exaggerating the
+dispersion of light between the split
+time lenses. There is a trade-off here
+though as the effects of third-order
+dispersion arise and interferes with the
+experiment, reducing efficiency.
+While these experiments do provide
+strong evidence that we should con-
+tinue research into this field, they are
+just the beginning and it will still be a
+long time before you can weave your
+own time cloak from tachyon hairs and
+use it to escape from bad lectures. In
+the mean time, we will just have to risk
+being seen.
+DOI: 10.1038/nature10695
+Leap second
+announced
+Philip Kent
+Astronomers and engineers at the Inter-
+national Earth Rotation and Reference
+Systems Service (IERS) Earth Orienta-
+tion Centre recently announced that a
+leap second will be applied at the end
+of June this year. Leap seconds are in-
+troduced by the IERS to make up for
+inaccuracies in timekeeping, made
+as a result of the slowdown of the
+Earth’s rotation. This additional sec-
+ond means that June 30 will last until
+23:59:60UTC, instead of ending at the
+end of the 59th second. As this is during
+British Summer Time, the change will
+be applied at 1AM, and will be marked
+by a 7th ‘pip’ from the BBC’s time sig-
+nal.
+Coordinated Universal Time, or UTC,
+is the measure of time from which all
+time zones are offsets of, and is derived
+from an international network of atomic
+clocks. While this leads to an incredibly
+accurate measurement of time, it fails to
+account for the decrease in the speed of
+the Earth’s rotation. This decrease is as
+a result of the circulation of currents in
+the atmosphere and oceans, as well as
+due to lunar pull.
+UT1, an alternative measure of uni-
+versal time, is instead based on the
+rotation of the Earth against the Sun,
+making it a more accurate form of
+GMT. This does take into account the
+slowdown, though having days of non-
+constant length is inconvenient so UT1
+is not in general use. As the slowdown
+is accounted for, UT1 is more accurate
+than UTC, and so there is a difference
+between this ‘accurate’ measurement
+and UTC’s ‘convenient’ one.
+This difference can become prob-
+lematic, so the IERS have the option of
+introducing leap seconds at the end of
+June and December. These seconds are
+applied so that the difference between
+UT1 and UTC never exceeds 0.9 sec-
+onds. To date, there have been 25 leap
+seconds applied to UTC, the most re-
+cent being at the very end of 2008.
+The future of the leap second is un-
+certain, with a proposal by the UN In-
+ternational Telecommunication Union
+to abolish them. If there is approval by
+members of the ITU in a conference lat-
+er this year, then no more leap seconds
+would be applied from 2017.
+Whilst this is unlikely to be an issue
+for most – watches, for example, are
+unlikely to be accurate to the second
+– systems that update their time auto-
+matically (such as via the Rugby Time
+Signal or NTP) will be automatically
+corrected.
+Still the best way to escape from truly awful lectures
+The ATLAS detector where the new particle (not pictured) was found
+Want to write for Felix
+Science? Email us!
+SCIENCE
+FELIX Friday 13 january 2012 13
+

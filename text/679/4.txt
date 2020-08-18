@@ -1,0 +1,343 @@
+CFEATURE: FEATURED
+Imperial College is to have a new electronic telephone system to
+replace both the present internal and external systems. The new
+exchange is presently being installed and should become opera-
+tional on Saturday 1 September. The new system will offer a wide
+range of facilities, many of which will be available to users by
+means of special codes.
+At present the College has two entirely separate
+telephone systems for internal and external calls.
+The former uses an automatic exchange with
+extension-to-extension dialling for 2600 exten-
+sions, whilst the latter requires that one of the 1400
+extensions is manually connected to an external
+line by the operator each time a call is made.
+This situation requires that each user has two
+telephones, each with a different number. This
+means twice as many instruments and connecting
+lines to be maintained. The totally manual nature
+of the external exchange means that a large number
+of operators (up to ten) are required for busy
+periods, whilst it is not possible to make external
+calls at all when the switchboard is unmanned.
+In addition both systems are old and increasingly
+prone to breakdowns. The internal system was
+installed 25 years ago and is obsolete so spare parts
+are very difficult to obtain. The external exchange
+was bought second-hand 15 years ago—it is
+believed the Science Museum are interested in
+having it (as an exhibit!) when the College has
+finished with it.
+The new exchange will utilize the existing wiring
+of the present internal exchange, reconnected to the
+new equipment. The system, a Northern Telecoms
+SL1 exchange, is all-electronic. This means that the
+network is controlled by a computer, rather than
+circuit wiring as in a conventional exchange. The
+system's software controls the switching of calls
+and the various facilities which are available. The
+range of facilities can be modified simply by
+changing the software.
+The Changeover
+All the 2600 extensions on the existing internal
+system will be on the new system, unless the
+department concerned has not asked for an
+extension to be retained. On the changeover day, 1
+September, all telephones will have new numbers,
+which will be arranged in departmental groups.
+This means that of the four figure number, the first
+two indicate the department whilst the last two will
+usually be consecutive with others in the same sub-
+group or section of the department. A new tele-
+phone directory will, of course, be issued before the
+change of numbers takes place, as will new card-
+board number discs for dial centres.
+After its introduction the new system will
+operate in parallel with the present external
+exchange for about two weeks. During this time it
+will only be able to make internal calls. On the 15
+September the old external switchboard will shut-
+down as the new system will become able to make
+external calls. This will complete the changeover to
+a single-instrument system with extension-to-
+extension dialling and automatic access to external
+lines. Operators will only be required to answer and
+direct incoming calls since external lines will be
+available to authorized extensions by dialling a
+two-figure code.
+Initially the present internal instruments will still
+be in place, but of the 1400 extensions which will be
+able to make external calls 1000 will soon be
+equipped with modern push-button Statesman
+instruments. As a preparation for this some offices
+have already had British Telecom plugs fitted so the
+new instruments will simply be delivered and
+plugged in after the changeover. These will replace
+some of the very old instruments on the present
+internal system, and in due course the remaining
+museum-pieces will be replaced with newer dial
+phones.
+Restrictions on External Calls
+There will be no restrictions on internal calls—any
+extension can dial any other at any time. External
+calls will, however, be strictly controlled. There will
+be five categories of instrument (see table 1) each
+with different access to external lines. In addition
+an extension may have time restrictions on the
+making of external calls on College business. The
+different categories of extension do not indicate a
+physical difference—the software controlling the
+system contains instructions about the type of call
+each extension can make, and the times it can make
+them. The category of each extension is decided by
+the department concerned, and can be changed if
+required simply by re-programming the system.
+One other restriction will be on certain barred
+numbers which it will not possible to dial on the
+public exchange. These numbers are programmed
+into the system and cover such things as recorded
+information services. Nor will it be possible to dial
+100 for the operator on the public exchange, since
+this would allow calls not permitted by the Col-
+lege's restrictions to be placed through the ope-
+rator. Directory enquiries will still be available,
+however.
+Personal calls can be made by the user of any
+extension able to make external calls. A different
+two-figure code will be dialled, and each month a
+bill for every such extension will be produced by
+the system and sent to the extension user. The
+restrictions on calls will not apply to personal calls,
+since the College will not be paying for them.
+Incoming Calls
+These will be routed through the operator as at
+present. Since the new switchboard will have only
+incoming calls to handle it will have only half as
+many operator positions as the old one.
+Incoming external calls will be indicated by a
+different ringing tone to internal calls, so it will be
+possible to tell if your caller is in College or not. If
+the extension requested by the incoming caller is
+busy with an internal call a tone will sound to
+inform the user that an incoming call is waiting. He
+can then speak to this call whilst holding the
+existing call, and then switch between the two, by
+the recall button. (Not all phones will befitted with
+a recall button initially.)
+Nearly all phones will be able to receive incoming
+external calls, even if they cannot make outgoing
+ones. The only exceptions will be phones in 'public'
+places such as corridors, lecture theatres, etc.
+Safeguards against abuse
+The new exchange, being a computer, offers
+extensive safeguards to prevent abuse of the
+system. Each month the head of each department
+or administrative section will be sent a statement
+with the total amount spent on external calls by
+each extension in that department. Academic
+departments will be responsible for their own
+phone bills to encourage them to keep a close watch
+for any abuse.
+If the head of department suspects abuse of any
+extension he can ask the exchange supervisor for
+full information on all calls dialled from it,
+including all numbers dialled, duration and cost.
+This information is all stored by the exchange every
+time a call is made but is not normally used, partly
+because of the enormous volume of such data. It is
+only available to heads of department on request.
+TELEPHONES
+- t h e n e w s y s t e m -
+Pictured above: the new
+Statesman instrument.
+Above right: one of the oldest
+phones still in use in the
+College.
+Special Deal
+Until recently it was thought the College would
+have to manage with its present telephone systems
+for several more years due to financial stringency.
+This was despite the urgency of the situation, with
+increased unreliability as the struggle to keep the
+old equipment working intensified. A special deal
+was negotiated with British Telecom, however, to
+supply one of the latest state-of-the-art exchanges
+on very favourable terms, at a cost of less than £ 1 m.
+This has been possible because of the prestige
+that BT attach to supplying the College's new
+system. It is expected that they will use the College
+as a showpiece to promote the system throughout
+the world. This should have the additional benefit
+from the College's point of view in that BT should
+be especially anxious to get it working properly. As
+Peter Burridge, the College's Telephone Engineer,
+admits the system will be well tested at 1C—no
+doubt numerous bright-sparks will soon be
+attempting all sorts of new tricks with what is after
+all a computer with 2600 terminals. If it can survive
+and work well here it must surely be a world-beater!
+Class Restrictions
+Unrestricted—can make local,
+trunk and international calls.
+Semi-restricted—-can make
+local and trunk calls only.
+Semi-restricted—can make
+local calls only.
+Restricted—cannot make any
+outgoing calls, but can receive
+incoming calls.
+E Fully restricted—cannot make
+outgoing or receive incoming
+incoming calls—for internal use
+only.
+All extensions except class E can receive
+any type of incoming calls, during the hours
+when the switchboard is manned.
+In addition to the above restrictions there
+may be time restrictions, eg calls may be
+barred between 9:00am and 1:00pm, at the
+discretion of the department.
+Table 1
+Special Numbers
+Emergency 999
+(Fire, Police, Ambulance)
+Health Service 3333
+General College Information 4444
+Telephone Faults 5555
+Maintenance 6666
+(Normal Hours)
+Maintenance 7777
+(Outside normal hours)
+Telephone Information 3430
+Nightline 6789
+Facilities available
+The facilities available are of two types: those
+requiring pre-arrangement with the telephone
+exchange; and those accessed by dialling special
+codes. The codes for the latter type are listed in
+Table 2. Each facility available is described below.
+Note that the availability of some facilities will be
+restricted.
+Features Requiring Pre-Arrangement
+1. Group Call Pick-Up—This allows any user
+within a pre-arranged group of extensions to
+answer a call to any other extension within the
+group, by dialling a code. This will be useful if
+several extensions are together in one large office.
+2. Call Pick-Up—Certain authorized extensions
+will be able to answer a call directed to any other
+extension which is ringing, by dialling a code fol-
+lowed by the extension number.
+3. Hunting—If an extension within a pre-arranged
+group is engaged, any call to that extension is
+automatically routed to the next free extension in
+the group. Can be used to route calls to a deputy or
+a secretary when the head of a section is busy.
+4. Call Forward—No Answer—Similar to hunting,
+but operates if an extension is not answered within
+a fixed time, when the call is transferred to a second
+pre-arranged extension.
+5. Do Not Disturb—The switchboard operator can
+make an extension appear busy to incoming calls,
+whilst calls can still be made from the extension.
+Will not be widely available!
+6. Intrusion—Use of this code by specially
+authorized extensions will enable them to intrude
+on an established call. The system sounds a 'warn
+tone' to the parties in the established call. Use of
+this facility will be very restricted!
+Features Accessed by Use of Codes
+1. Access to Other Systems—Direct dialling to the
+Silwood Park and Southside/Linstead systems will
+still be available, but different codes will be used.
+Access will also be available to the College Travel
+Agents, but the direct line to Senate House will no
+longer be available.
+2. Ring Back—If a number rung is busy the caller
+can, by dialling a code, request the system to com-
+plete the connection as soon as it becomes free,
+when both phones will ring simultaneously. This
+can also be used if there is no reply to a call—the
+system completes the connection as soon as the
+called extension is used and subsequently becomes
+free (which indicates the user has returned to his
+office). Such requests can be cancelled by use of a
+second code, and automatically lapse after eight
+hours.
+3. Short Codes—These are lists of frequently
+dialled external numbers which are represented by
+three figure codes published in the College tele-
+phone directory. To use one dial the facility code,
+followed by the short code. Users with secretarial
+feature phones can have their own list of short
+codes.
+4. Call Forward—If a user will be away from their
+office they can forward all calls to any other
+extension by dialling a code and the extension
+number. The request can be cancelled by a code
+dialled at the user's extension, or by a different code
+at the remote extension.
+5. Transfer, Enquiry, or Conference—Whilst
+speaking to a caller, on an internal or external call,
+a user can by operating the recall button hold the
+call and dial a third extension to transfer the call, to
+make an enquiry or to set up a conference. It is
+possible to set up a conference between up to six
+people, one of whom can be an external caller.
+6. Broker's Call—Similar to Transfer, etc., but
+after operating the recall button a code is dialled
+which prevents the call on hold hearing the conver-
+sation between the broker and the third extension.
+The held call can be internal or external.
+7. Save—Use of the Save code stores the last
+number dialled if an extension or external number
+is busy, or not answered (external calls only). The
+number is re-dialled by dialling the code again.
+8. Alarm Call—By entering a code followed by a
+time in 24 hour clock a user will receive an alarm
+call at the time specified.
+Notes:
+1. During the early part of next term demonstra-
+tions of the new system will be held. For students,
+these will be at 12:00noon and 2:00pm on Monday
+15 to Wednesday 17 October in the Great Hall. A
+video describing the new system will be shown in
+the Sherfield foyer after the changeover.
+2. If problems are experienced then the operator
+can be contacted by dialling 0, or recalled during a
+call by using the recall button and 0. There will be a
+special number for enquiries about use of the tele-
+phone system, 3430.
+Recall buttons will already be fitted to all new
+instruments issued and they will be fitted to existing
+instruments in due course. Until one is fitted faci-
+lities requiring its use will not be available to that
+extension.
+Facility Code
+Operator 0
+Recall Operator RO
+Exchange line(personal calls) 91 (or # where fitted)
+Exchange line (College calls) 92 (or * where fitted)
+Access to College Travel Agent's switchboard 93
+Access to Southside/Linstead system 94 followed by staircase no.
+Access to Silwood Park system 96 followed by Silwood ext no
+Transfer call, Enquiry call or Conference R. followed by ext. no.
+Ring Back R11
+Cancel Ring Back 21
+Individual Short Code (feature phones only) 12, followed by code
+Common Short Code 23, followed by code
+Call Pick-Up 13. followed by ext. no.
+Group Call Pick-Up (in pre-arranged groups only).... 27
+Call Forward 14, followed by ext. no.
+Cancel Call Forward R24
+Cancel Call Forward from remote extension R25, followed by ext. no.
+Broker's Call R17, followed by ext. no
+Save Number R18
+Alarm Call 26, followed by time in 24hr
+clock
+R - Recall Button
+Note: Where R appears, the facility shown will be available only to those phones witha
+Recall button fitted.
+Table 2
+Friday 17 August 1964
+

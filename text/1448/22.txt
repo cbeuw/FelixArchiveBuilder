@@ -1,0 +1,291 @@
+22
+TECHNOLOGY
+Technology Editor Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 11 DECEMBER 2009
+Gadget gifts to make
+your Christmas break
+A couple of great gadget gift ideas for the tech-crazed in all of us
+Turkey, booze
+and gadgets
+W
+hat does Google hate
+more than adblockers?
+Slow web browsing of
+course, and that’s what
+Google has been targeting with its
+recent round of services. Google’s as-
+sault on the slow web kicked off with
+the now ubiquitous Chrome, which
+this week made its way in beta form to
+OSX and Linux, joining Windows.
+Next up in the onslaught was the
+announcement of SPDY, a replace-
+ment for HTTP that is meant to speed
+up webpage delivery by two-fold. For
+those not in the know, HTTP is the
+standard that allows webservers and
+your browser to talk to each other.
+It’s an interesting development for
+sure, everyone likes more speed and
+Google’s proposing an implementation
+where HTTP and SPDY work side-by-
+side. Will this be a Google Chrome-
+only enhancement? I don’t know but
+one day you might just be typing spdy:
+instead of http: into your address bar.
+Google wasn’t done however with
+just the computer server interconnect;
+its next target was the DNS. Google
+unveiled its public DNS service which
+it claims can speed up your browsing
+experience by using Google’s index-
+ing power. A DNS acts like an address
+book by matching the alphabetic char-
+acters you type into your address bar
+as a URL to the IP address of the web-
+server you’re trying to reach. Normally,
+this service is provided by your ISP or
+company servers and operates totally
+transparently meaning you’ll probably
+never notice it. Sometimes, your ISP
+will change the ‘page not found’ mes-
+sage to something they provide; Virgin
+Media for instance does this as another
+way to serve you ads.
+Google reckons that due to its expan-
+sive knowledge of the world’s websites
+thanks to its indexing and crawling
+of every website on the planet for the
+last decade, its DNS service is not only
+much more comprehensive, but also
+faster than your ISPs. Sounds great in
+theory; after all, the faster you can turn
+your URL into an IP address the faster
+you can pull down a webpage - but is it
+any use in the real world?
+Recent offhand testing by myself as
+well as others around the web have
+shown that Google’s public DNS is at
+least as fast as your ISPs. Whether it’s
+actually any faster is pretty difficult
+to determine, thanks to all the vari-
+ance produced by differing connection
+speeds, pings and traffic loads. You
+might find Google will resolve that
+URL for you faster than your ISP at
+peak times, so perhaps it’s worth try-
+ing out on a case-by-case basis.
+You might ask why Google is do-
+ing all this just to speed up your web
+browsing experience; what’s in it for
+them? Well, Google being the world’s
+largest online advertising service
+makes its money by getting eyeballs
+on ads. It’s done this through qual-
+ity search and all the other services it
+provides such as Gmail and Gdocs.
+By speeding up the web experience of
+your general internet user, you can get
+them more and more hooked onto the
+internet. You can serve them more ad-
+verts faster and keep your advertisers
+paying more by providing better and
+better targeting of their adverts. It’s all
+about ads and money, not some higher
+purpose.
+This term saw the felix technology
+section brought to you by myself, Sam-
+uel Gibbs, along with Feroz Salam
+and Simon Worthington, Technology
+Reporters with guest articles from Ben
+Smith, felix Photographer. If you think
+you’ve got what it takes to write arti-
+cles for the felix Technology section
+and want to join a growing team, then
+send me an email to:
+technology.felix@imperial.ac.uk
+SamuelGibbs Technology Editor
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+It’s almost Christmas and everyone is
+waiting with baited breath to see what
+the Christmas gadget of choice is going
+to be. My money is on the iPod Touch
+or the iPhone, but I wish it was the
+Printer Toaster.
+Yes, you read that right; the Printer
+Toaster toasts your bread, one slice at
+a time, using a bread feeder mimicking
+an ink jet printer. Genius.
+Technology at large is predominant-
+ly built around visual interaction, but
+what happens if you’re blind? Braille
+isn’t exactly easy to create dynamically
+but the Squibble pocketable Braille
+interface aims to change that. Using
+779 ultrasonic motors to push illu-
+minated caps against a silicon over-
+lay, the Squibble allows phones and
+other Bluetooth-enabled devices to
+be controlled using Braille letters and
+other easy-to-understand icons. The
+pocket-friendly device even has audio
+feedback and a grip that allows you
+to read the Braille without having to
+put it down, unlike some other Braille
+readers.
+OK, so hybrid cars like the Prius are
+pretty dull. They might help you save
+the environment - even that’s debat-
+able - but why can’t you have a car that
+doesn’t look like a box on wheels whilst
+you’re at it? Well, Capstone might just
+answer your prayers with the CMT-
+380 hybrid supercar.
+Looking like a cross between a Cor-
+vett and the Batmobile, the 380 boasts
+impressive specs. How does 0-60MPH
+in 3.9 seconds grab you? That’s not
+all either, as it’s got a top speed of
+150MPH and an 80 mile cruise range
+on just battery power. The most un-
+conventional aspect of the Capstone
+has to be the diesel microturbine in the
+back, rather than a conventional inter-
+nal combustion engine. So what’s the
+catch? How about a $200,000 asking
+price? Not exactly student-friendly, but
+if anyone has a rich parent with money
+to burn and the Earth to save, maybe
+suggest they buy you one to cruise
+about London in.
+Fusion Garage, the manufactur-
+ing partner of Michael Arrington’s
+CrunchPad has unveiled what they’re
+I
+t’s that time of year again, yes it’s
+Christmas! The time for family
+gatherings, gorging on rich food,
+sloshing it down with lots of drink
+and passing out in front of the telly.
+OK, so not everyone loves a Christ-
+mas like the Royal Family, but I can
+guarantee that pretty much everyone
+loves presents and what makes a better
+present than a gadget?
+It’s not even just the tech-enthused
+that love a good gadget at Christmas
+either. Your sister, your Mother or even
+your Dad probably got something like
+an iPod for Christmas at one stage or
+another and while they might not see
+it, that’s a gadget!
+So to mark the occasion, we here in
+the tech section thought we’d put our
+heads together and come up with our
+favourite gadgets for Christmas.
+OK, so Simon’s not the biggest of
+Apple fanboys on the whole, but even
+he can recognise a top-quality piece of
+SamuelGibbs Technology Editor calling the Joojoo. Yeah, it’s a stupid
+name, but the device itself has some
+real potential. According to Fusion
+Garage, the device which is essentially
+a web browser tablet was already un-
+derway before Arrington stuck his oar
+in. Whether that’s the case is anyone’s
+guess, but the Joojoo runs a UNIX-
+based custom OS, weighs just over
+1kg and wields a 12.1” capacitive touch
+screen. With a 9 seconds boot time,
+4GB SSD, WiFi, an accelerometer and
+about 5 hours surfing time per charge,
+it all sounds good until you hit the
+price: $499. Ouch. Pre-orders are be-
+ing taken from December 11th, but at
+roughly £308, I can’t see it being as big
+a hit as the Arrington-promised price
+of about $300. I’ll stick with my Dell
+Mini 10 hackintosh, thanks.
+vironment bespoke to the mini-mar-
+vel, but can be programmed from your
+choice of Windows, Linux or Mac.
+The Arduino comes in several shapes
+and sizes down to the smallest of the
+bunch, the Nano. Each board can be
+programmed to operate on its own, or
+in communication with another com-
+puter. The little board can also be kit-
+ted out with a whole host of sensors
+and can react with lights, motors and
+actuators giving scope for all sorts of
+nifty home-made gadgetry.
+If you fancy your hand at a bit of sol-
+dering, you can build the board your-
+self, or if you’re more of an instant grat-
+ification type, buy it pre-assembled.
+You’re only limited by your imagi-
+nation, but here’s a few examples to
+show you just what can be done with
+the Arduino. How about Guitar Hero
+with giant sensors that you have to hit
+with footballs? Or a trippy laser harp
+for the ultimate show? Or even a self-
+balancing Segway-like robot?
+If you need more inspiration, check
+out the top 40 best Arduino projects
+here from HacknMod: http://bit.ly/
+felixtech.
+OK, so you may not want to pull your
+finger out and have to make something
+out of your presents so how about Si-
+mon’s suggestion of an iPhone 3GS?
+First up we’ve got Feroz’s sugges-
+tion of the Arduino. The little beauty
+pictured above is an open-source elec-
+tronics platform and while it may not
+look like much, is the perfect tinker’s
+toy. Bursting with potential, the plat-
+form couples easy-to-use hardware
+and software to enable you to create
+things you otherwise wouldn’t have the
+skill or the time to do. The microcon-
+troller on the Arduino is programmed
+using a language and development en-
+As for me, well, my perfect Christ-
+mas gadget has to be the Philips 21:9.
+I don’t know about you, but I love films
+and there’s simply nothing on the mar-
+ket that can beat the in-home cinema
+experience of the Philips 21:9, the only
+Full HD TV that matches the ratio of
+the big screen. No more black bars top
+and bottom and 56” to boot; the per-
+fect accompaniment to that fancy Blu-
+ray player you’ve got. The only quibble
+has to be the £3000 asking price, but
+it’s Christmas, right?
+technology when he sees it. Sure, the
+iPhone may not be the market leader
+from a hardware perspective and many
+phones now have better touch screens
+and better reliability ratings, but the
+killer which still makes others jealous
+is the App Store.
+The quantity and variety of apps
+available really blows everything else
+away. The apps help transform the
+iPhone from a flashy phone and mu-
+sic player combo into an indispensable
+tool kit. Where else can you instant
+message a friend and then flip over to
+the complete works of Shakespeare?
+Where else can you identify any song
+just by a few beats and then solve some
+truly solid integration calculations?
+And where else can you do it with a
+well-built and glossy interface that
+ties the whole experience together?
+Nowhere else, and that’s why it’s the
+number one this Christmas.
+

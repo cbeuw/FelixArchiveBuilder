@@ -1,0 +1,244 @@
+SCIENCE
+FRIDAY, 19TH
+JANUARY, 2018 FELIX
+science.felix@imperial.ac.uk
+14
+Organoids are Nature’s
+method of the year
+Are robots the future of
+tissue regeneration?
+SCIENCE
+Alisha May
+Science Writer
+SCIENCE
+Caroline Wolfe
+Science Writer
+F
+or almost a
+decade, research-
+ers have been
+investigating the
+possibility of using stem
+cells to form organoids:
+t h r e e - d i m e n s i o n a l ,
+multicellular assemblies
+that mimic the structure
+and function of organs.
+Organoid models have
+now been established
+for multiple organs,
+including the brain, liver,
+and kidney, using adult
+or pluripotent stem cells.
+More primitive tissues,
+for example the optic-cup,
+have also been established
+as organoids, opening up
+new avenues for the study
+of eye formation.
+Developmental biol-
+ogist Yoshiki Sasai and
+his group established this
+optic-cup organoid from a
+three-dimensional culture
+of mouse embryonic
+stem cell aggregates. This
+stem-cell derived retinal
+epithelium was observed
+to spontaneously form
+epithelial vesicles, the
+flexible distal portion of
+which folded inward to
+form a shape resonant
+with the embryonic optic
+cup. It is an excellent
+example of how organoid
+development often
+strongly resembles natural
+embryonic development
+in vivo, giving researchers
+the opportunity to study
+developmental processes
+and organogenesis (the
+development of organs).
+Some methods for gen-
+erating organoids from
+embryonic stem cells
+involve providing cells
+with minimum differen-
+tiation information and
+enabling them to self-or-
+ganise. Other methods
+provide stem cells with
+signalling that is known
+to result in the differen-
+tiation into specific cells
+types. Regardless of the
+method employed, the
+resulting organoids can
+be used to increase our
+understanding of human
+processes and develop-
+ment, including disease.
+Organoids are especially
+useful for the study of
+genetic disorders that
+exert their malignancy
+in utero, and do not have
+accurate animal models.
+Cerebral organoids were
+recently used to model
+aspects of lissencephaly,
+a brain disorder in which
+the brain itself does not
+exhibit the usual folds
+seen in the cerebral cortex.
+This research identified
+a mitotic defect in glia,
+a cell type important in
+human cortical develop-
+ment.
+While being an
+incredibly useful tool,
+organoids are far from
+the perfect models for
+study. A significant issue
+that arises from the use
+of in vitro organoids is
+the lack of a vasculature
+to sustain growth and
+development of organoids
+past foetal stages. It is not
+yet possible to introduce
+functional blood vessels
+into petri dish organoids,
+and current research is
+only able to link organoids
+to a circulatory system by
+transplanting them into
+live animals. Perhaps in
+the future, more complex
+in vitro organoids will
+arise, with researchers
+eventually being able to
+grow entire human organs.
+T
+he applications of
+robots span many
+disciplines – far
+beyond what
+one might see on BBC’s
+Robot Wars. Robots
+themselves have long had
+several applications in the
+medical field, but only
+recently have research-
+ers demonstrated the
+effectiveness of their use
+for tissue regeneration.
+At Boston’s Children’s
+Hospital, researchers con-
+ducted a proof-of-concept
+study using a tissue-re-
+generating robot on the
+oesophagi of five pigs.
+The robot consists of two
+motorised rings and an
+external control unit; as
+it is only attached to the
+oesophagus, it does not
+affect other organs. The
+motorised attachments, in
+the form of rings sutured
+to both ends of the oesoph-
+agus, place traction forces
+on the tube via a control
+unit external to the body.
+The magnitude of traction
+forces can be adjusted
+using this programmable
+control unit, and the robot
+pulls the oesophagus in
+both directions either with
+more or less force. A skin-
+like barrier surrounds the
+device to protect the mo-
+torised unit from various
+bodily fluids. It is widely
+known that mechanical
+forces and mechanotrans-
+duction in cells play an
+important role in tissue
+growth, and this robot
+looks to take advantage of
+that knowledge.
+During this study,
+researchers increased the
+ring separation distance
+by 2.5mm each day, in all
+five pigs for either eight or
+nine days. This separation
+strained the oesophagus,
+and therefore induced me-
+chanical forces. After the
+2.5mm separation each
+day, the mechanical forces
+on the oesophagi were
+measured. Following ring
+separation, these forces
+immediately increased
+proportionally to the
+separation distance, and
+exponentially decayed in
+the day following sepa-
+ration, indicating tissue
+proliferation. The oe-
+sophagi lengthened with
+increasing ring separation
+distance, as the circumfer-
+ence and thickness of the
+muscular layer surround-
+ing the oesophagi were
+maintained, showing that
+lengthening, as opposed
+to stretching, was indeed
+occurring. On average,
+the pig oesophagi length-
+ened by 77%. This result
+is ground-breaking, as
+the right amount of force
+needed to be applied to
+tissue to promote growth
+is as of yet unknown.
+In vivo tissue engineer-
+ing is typically done using
+cell-seeded scaffolds,
+which induce cell prolif-
+eration, but may fail due
+to lag-time of vascularisa-
+tion or the hosts immune
+response. Robotic
+implants for tissue re-
+generation mitigate these
+challenges. Due to this
+novel tissue-generating
+robot, oesophageal atresia
+and short bowel syndrome
+– two conditions that
+are usually birth defects
+which cause years of
+discomfort – may have
+found their cure. This
+novel application is a
+potential replacement
+for otherwise invasive,
+risky surgeries with long
+recovery periods. The
+team plans to next test the
+device on large animal
+models before moving
+on to clinical trials in the
+future.
+“Siri, find me a picture of science” // CC
+An intestinal organoid, viewed under a microscope // Wikimedia
+

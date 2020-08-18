@@ -1,0 +1,393 @@
+ISSUE 1688
+FELIX
+TECH
+FRIDAY, 9TH
+MARCH, 2018 FELIX
+tecfelix@imperial.ac.uk TECH tecfelix@imperial.ac.uk
+18 19
+Amazon’s latest purchase – a ‘smart’ doorbell
+“Understan-
+dably there
+were many
+concerns
+raised about
+this service”
+R
+e c e n t l y ,
+Amazon, an
+American elec-
+troniccommerce
+and cloud-computing
+company, bought US firm
+Ring for more than $1
+billion. The firm produces
+high-tech doorbells that
+records live videos of the
+customer’s doorstep and
+sends it to their smart-
+phone. Ring hopes that
+working with Amazon
+will allow it to further
+develop home security
+products. It was founded
+in 2012 and has more than
+2,000 employees, about
+a million customers and
+estimated sales of $155
+million according to the
+Los Angeles Times.
+At the end of last year,
+Amazon launched a new
+service in the U.S. called
+Amazon Key, which has
+a smartlock and an app
+that will allow users to let
+package deliveries into
+their homes remotely. The
+idea behind this was to
+remove the need to wait
+for couriers that would
+deliver anytime between
+a set of hours during the
+day. It could also be used
+to give permanent access
+to family members inside
+the house, removing the
+need to hide a spare key
+under a doormat or inside
+a potted plant. Installing
+the Amazon Key by a
+certified provider is free.
+If you were to install the
+Amazon Key, this is how
+a typical delivery would
+look: the delivery person
+scans a barcode on the
+package when they reach
+your house. Amazon’s
+server then sends you a
+notification that a delivery
+is about to take place and
+simultaneously turns the
+camera on. The courier
+sends a signal that unlocks
+the door, puts the package
+inside and sends another
+signal to lock the door.
+The server then notifies
+you about the delivery and
+sets up a bank account
+with a fake ID, waits for
+the day when you are
+out and Amazon has a
+lot of deliveries, gains
+access into your house
+and steals your valuables?
+This might sound far-
+fetched but there have
+been instances in the past
+where people went the
+extra mile to successfully
+steal something. Needless
+to say, many people are
+hesitant about using this
+service.
+Since then, Amazon
+started looking into ways
+to ensure the safety and
+privacy of its customers
+using the Amazon Key,
+along with ways to
+improve the smartlock
+itself. One way is by
+buying Ring, which
+owned the smart doorbell
+technology. The doorbell
+takes a live video of
+customers’ doorsteps and
+sends the videos to their
+smartphones. Amazon
+hopes that this will help
+customers trust their new
+service by ensuring the
+safety and security of their
+homes.
+Baird Equity Research
+analyst Colin Sebastian
+said: “As Amazon moves
+are watching a live video
+of the delivery instead of
+one sent after the delivery
+is over.
+The downside of this
+is that the doorbell only
+sends a video of people’s
+doorsteps, and not the
+inside of the house. While
+this ensures that the occu-
+pants have privacy within
+their house should the
+system be hacked, it also
+means that the customers
+won’t know much about
+what is going on just
+inside their house during
+the time that their door
+is opened by the delivery
+person. All they would
+know is the duration of
+the delivery.
+Also, in terms of
+ensuring security in
+homes, the doorbell isn’t
+really useful for house
+owners with pets. In the
+case of pets escaping, the
+doorbell can’t take pre-
+ventive action against this
+event – it would simply
+record it and inform the
+owner about the event.
+Ring’s‘smart’doorbell // Creative Commons
+TECH
+Krithika Balaji
+Tech Writer
+“The company
+has a long
+way to go in
+addressing the
+concerns of its
+customers”
+Amazon recently acquired a small firm called Ring in the hopes of raising people’s trust in the Amazon Key service.
+“The doorbell
+takes a live
+video of the
+customers’
+doorsteps…”
+sends you the recorded
+video.
+Understandably, there
+were many concerns
+raised about this service.
+For starters, what would
+happen if you have pets
+that were able to run away
+when the delivery person
+opens the door? What
+about planned thievery,
+where the delivery person
+more aggressively into the
+grocery delivery space ...
+we believe smart security
+devices will be an im-
+portant factor in driving
+user adoption.” When
+smart doorbells are im-
+plemented, one advantage
+could be that customers
+can take action against
+the delivery person if the
+duration of the delivery is
+suspiciously long, as they
+Acquiring Ring is a step
+in the right direction for
+Amazon but the company
+still has a long way to go
+in addressing the various
+concerns of its customers
+in an effective manner.
+The company will have
+to provide evidence that
+the Amazon Key won’t
+be a tool for malicious
+opportunists or planned
+thievery before more cus-
+tomers can start trusting
+and using this service.
+Applications of blockchain technology
+TECH
+Hubert Kaluzny
+Tech Writer
+X
+but on the
+blockchain”,
+has become
+as much of a
+technological mantra as
+“Uber but for X” in these
+recent months. Apart
+from the sharp peaks and
+shallow troughs of the
+price of cryptocurrencies
+produced by a mutual
+belief of value, is there
+any practical use of block-
+chain technology?
+Smart contracts are
+being used in blockchains
+to allow the execution
+of programs, and these
+programs run on all partic-
+ipating nodes of a block-
+chain network. Of course,
+implementations of these
+smart contracts differ as
+different cryptocurrencies
+have different purposes.
+Ethereum is well known
+for using an almost Turing
+complete language, only
+limited by an individual’s
+balance. This wildly free
+platform has allowed the
+development of several
+applications, ranging
+from virtual gambling
+casinos, crowdfunding
+platforms and digital
+rights management to
+something as superfluous
+intact to increase security
+and privacy. The one
+limitation of this technol-
+ogy is the low-bandwidth
+connections being used
+network as traffic from
+the game made up 15% of
+transactions at peak times.
+Should you be worried
+about virtual cats? Cryp-
+toKitties has shown us
+there are problems with
+the current networks in
+place; perhaps it wasn’t
+the killer application
+we wanted, but one we
+needed. Current ‘cryp-
+to-giants’ need to invest
+more in infrastructure
+to ensure people who
+are getting introduced to
+these new ecosystems
+have the means to do so.
+Apart from the Ethereum
+network, there are several
+other interesting projects
+in the world of block-
+chains. Storj uses block-
+chains to connect people
+who want to rent out drive
+space to people who are
+willing to lease it, using
+end-to-end encryption to
+facilitate this. They use
+a blockchain to keep a
+track of file permissions
+and which chunks of
+files are where, as they
+are never stored fully
+the technology allows
+a distributed ledger to
+exist containing all your
+health information shared
+between doctors, hospi-
+tals and clinics ensuring
+no loss of information
+as you change health
+providers. This is a huge
+change from the system
+previously in place, where
+patients would have to
+remember things like all
+the different medicine
+they have been prescribed
+or present hand-written
+notes on scrunched up
+pieces of paper. MedCoins
+would then be able to be
+used as payment between
+patients and doctors, for
+services such as video call
+consultations where the
+consulting doctor is able
+to see all your medical
+history, or allow you to
+sell your health data to
+research companies in
+return for MedCoins.
+Blockchains have
+several utilities; they
+allow us to operate
+without supervision from
+governments or author-
+ities, they can be used to
+ensure a single correct
+account of events is kept
+between all parties, and
+can execute pre-defined
+actions under immutable
+terms. The place which
+we are at with blockchain
+technology is one that
+resembles the days of the
+early internet, with tech-
+nological pioneers already
+working on ‘Web 3.0’.
+There are many challeng-
+es that we are to overcome
+before we can utilise this
+technology in a meaning-
+ful way. Currently there
+are a lot of projects out
+there that are using the
+current popularity trend
+in blockchain technology
+rather than attempting to
+make anything of value.
+At the moment you’re
+unlikely to be use any
+blockchains, however
+with the development of
+new applications they
+may become much more
+widespread.
+Why you should be wary of tech’s latest buzzword.
+Blockchains have seemingly been discussed everywhere, but is our attention justified?// Creative Commons
+“‘X but on the
+blockchain’
+has become
+something of a
+technological
+mantra”
+“Ethereum is
+well-known
+for using an
+almost Turing
+complete
+language”
+as CryptoKitties. Cryp-
+toKitties allows you to
+spend some Ethereum in
+exchange for virtual cats,
+each of which is unique
+and able to be bred and
+traded. The popularity of
+this game in December of
+last year managed to slow
+down the entire Ethereum
+for peer-to-peer connec-
+tions, as maintaining and
+building infrastructure for
+a large scale distributed
+system like this would
+prove extremely difficult.
+During the last Imperial
+Blockchain Forum hosted
+by the Imperial Centre of
+Сryptocurrency Research
+and Engineering, Sinan
+Belhawi from MedCoin
+presented his use of
+a blockchain in the
+medical industry. Firstly,
+

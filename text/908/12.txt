@@ -1,0 +1,197 @@
+Liz Warren, ex-Felix Hack and current Deputy Editor of 'The British
+Journal of Healthcare Computing' reports on the state of the...
+FEATURES
+The NHS reforms have been in operation
+for three months and it is already clear
+that they are not proving successful. The
+reasons for this are complicated and are
+not only a function of the reforms
+themselves, but also the speed with which
+they have been implemented and the
+failure of the systems that have been
+devised to support them.
+The reforms combine a number of
+ideas, perhaps too many. There is an
+attempt, building on work that was
+carried out prior to the reforms being
+introduced, to improve the management
+of the resources within the NHS. The
+Resource Management Initiative came
+into being in 1986 when six pilot sites
+were established, and is concerned with
+all the resources used by the NHS, such
+as nurses, clinicians, laboratory services,
+drugs, beds and even the finance
+department. The initiative aims "to allow
+total and individual patient care (and its
+quality) to be planned, delivered and
+costed more effectively" (Ian Mills,
+Director of Resource Management, NHS
+Management Executive, February 1989).
+The NHS has for some time controlled
+and planned its functional costs (such as
+nursing or laboratory services) and has
+had a good idea of the total costs of
+particular disciplines, such as geriatrics or
+orthopaedics, within a hospital. From this,
+it has calculated an average cost for
+treating each patient, but this takes no
+account of the complexity of different
+cases. It has only been within the last
+couple of years that the NHS has been
+able to find out how much a hip
+replacement operation using one
+technique costs compared to using
+another technique.
+Clearly any industry that ran itself on
+the basis of not knowing how much more
+its cost to make one product rather than
+another would have soon found itself out
+of business. While the views that "there is
+an infinite demand for free healthcare in
+this country" and that "the NHS is a cash-
+limited service" both oversimplify the
+position, it is true that we could spend an
+ever increasing amount of money on
+healthcare, by trying to achieve a perfect
+state of health for the entire population,
+and that, even if we turned over the
+entire gross national product to the NHS,
+we would still run out of money at some
+point. The resource management
+initiative tries to offer some kind of
+measure of 'treatment effectiveness' by
+looking at the different resources used to
+try and treat different cases.
+This scenario often causes people to
+throw up their hands in horror in the
+belief that patients will now only be
+cured if the treatment is deemed 'cost-
+effective' or will receive poorer quality of
+care because it is cheaper. This is not
+entirely true, and the NHS Management
+Executive, which has day-to-day
+operational control of the NHS (as distinct
+from the Department of Health)
+recognised this in the statement by lan
+Mills quoted above which mentions
+quality. Another strand of the reforms is
+'clinical audit'. There is no clear definition
+of clinical or medical audit, but it involves
+looking at different aspects of the
+patient's treatment and evaluating their
+effectiveness in terms such as recovery of
+function (for example, mobility in a
+broken arm which has been set and then
+treated with physiotherapy).
+In fact, audit has become rather a buzz
+word in the NHS and the NationalAudit
+Office and the Audit Commission are
+carrying out a series of studies in the
+NHS on the effectiveness of many of its
+organizational structures, such as supplies
+and pathology services. Sadly, most of
+these reports have been, at their most
+kind, scathing.
+The third strand of the reforms, and the
+one which has caused most controversy,
+is the 'internal market'. This divides the
+NHS into 'provider' organisations, which
+offer services such as particular
+operations, and 'purchasers', who buy
+these services for the population they
+must supply with healthcare. The
+purchasers mainly consist of district
+health authorities, which serve a local
+population, together with fundholding
+GPs, who control their own purchasing
+budget to buy healthcare for the patients
+on their list rather than simply expecting
+the district to pick up the cost of referrals
+as in the traditional system.
+Purchasers may also include hospitals
+that decide not to provide a particular
+services themselves (for example, a
+specialty such as orthopaedics) and
+instead subcontract another hospital to
+provide those services for them. Amongst
+the providers are the Trust hospitals,
+which have been given self-governing
+status, independent from the DHA in
+whose district they lie. The Trust
+hospitals have been one of the major
+sources of political argument, especially
+the allegations after the Monmouth by-
+election that Labour 'lied' during that
+campaign by describing the Trust
+hospitals as having 'opted out'.
+Purchasers and providers draw up
+contracts between them agreeing the type
+of service to be supplied (such as a hip
+replacement), the number, the cost of
+each operation and levels of service, such
+as maximum waiting time for an
+operation. Here the concepts of resource
+management, clinical audit and
+contracting meet, since it is clearly
+necessary for providers to be able to cost
+each type of operation and prove its
+effectiveness so that purchasers can
+balance price and quality in placing their
+contracts.
+Here is the first area in which the
+reforms have foundered. Despite the
+resource management initiative, and
+despite the fact that the NHS
+Management Executive were forced to
+roll out the project to all the acute
+hospitals in England before the pilots
+were finished or evaluated (a move which
+has been highly criticized by the team
+from Brunei University which evaluated
+the pilots), most providers still have little
+idea what their services cost them and
+what to charge for them. To avoid
+complete confusion, the Department of
+Health also effectively ordered districts to
+continue to place contracts with those
+providers who had historically served
+them. Thus the internal market has been
+'fixed' in its first year, a move which sits
+oddly with this government's policy of
+free marketeering.
+The avowed intention of these free
+marketeers was that "the money would
+follow the patient". Yet, unless the district
+in which the patient lives has a contract
+with the hospital to which the GP wishes
+to refer them, they can no longer be
+referred there. The truth of the matter is
+that "the patient follows the contract".
+This is the case even with fundholding
+GPs, since they too must make contracts
+and are not as free to "shop around" as
+the government would like us to believe.
+The reforms also appear to have taken
+no thought for the problems of paying for
+patients who fall ill when away from
+home and are treated by GPs or hospitals
+outside their own district. In London,
+especially, this is likely to cause a major
+headache.
+At the beginning of this article, it was
+suggested that the failure of the reforms
+was not only due to problems inherent in
+the underlying philosophy and errors
+thrown up in the formulation of policy
+and strategy from that philosophy, but
+also a result of the speed with which they
+were put in place. This haste has given
+little time for trials to be carried out, and
+has not allowed the lessons learnt in
+those trials to be incorporated in the
+national scheme. It has also allowed
+insufficient time for the systems
+supporting the reforms to be developed,
+put in place and tested. This is
+

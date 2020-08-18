@@ -1,0 +1,208 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 9
+05.06.2015
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Josh Emden investigates the results of Califronia’s 1.3GW energy storage target
+California’s Bullseye
+Unlike coal, oil and gas,
+electricity is very easy to
+transport but very difficult
+to store. In most modern power
+systems, most electricity actually
+comes from coal or gas power stations
+so this isn’t a problem. In other
+words, you combine the storability of
+coal and gas with the transportability
+of electricity.
+But what happens when you have to
+stop using these fuels because of CO2
+constraints and replace them with
+renewables that generate electricity
+intermittently, depending on whether
+the sun is shining or the wind is
+blowing? In steps energy storage.
+At a fundamental level, energy
+storage absorbs excess electricity
+when there’s too much on the grid
+and releases it when demand from
+consumers outstrips supply. In
+essence, it’s a very useful way to
+‘firm up’ renewables and make them
+behave more like power stations that
+can produce electricity all the time.
+As the world begins to wake up to
+the need to decarbonise their power
+systems, energy storage is beginning
+to play an ever bigger role.
+California Dreaming
+One of the most important regions
+that has started to recognise this value
+is California. The State has proven
+to be a hub of innovation for the
+technology, with companies like Tesla
+recently moving into the domestic
+energy storage industry with their
+shiny new Powerwall.
+Largely though, this recognition
+of energy storage is about
+accommodating intermittent
+renewables onto the grid, driven by a
+‘Renewable Portfolio Standard’ that
+requires 33% of electricity sales to
+come from renewables by 2020.
+As a result, in October 2013, the
+State set utilities a target of installing
+enough energy storage to provide
+1.3GW of power by 2020, enough to
+power 1 million homes.
+Target Acquired
+As we’ve already mentioned,
+energy storage is incredibly useful
+at making renewable generation
+more reliable. At the same time,
+some storage technologies like
+battery storage have traditionally
+been seen as too expensive. Indeed,
+many organisations, including the
+International Energy Agency (IEA),
+have acknowledged that costs must
+be reduced for these technologies to
+become commercially attractive.
+In 2013 however, the California
+Public Utilities Commission
+(CPUC) challenged this position by
+performing a series of cost-benefit
+analyses finding that, ‘the majority of
+cases returned benefit-to-cost ratios
+of greater than one, and the majority
+of cases returned breakeven capital
+cost of energy storage’.
+These evaluations were key in
+leading to California’s target, with
+wider implications that ‘energy
+storage’ and ‘cost-effectiveness’
+were now being mentioned in the
+same breath beyond discussions in
+academic circles.
+So Far so Good?
+Happier still, according to one
+source from the California Energy
+Commission, the target will almost
+certainly be met on time. Indeed,
+recent studies have shown that the
+US energy storage industry was worth
+around $2 billion last year, with much
+of this coming from California.
+Going even further, as part of the
+1.3GW target, utility companies have
+a series of mini-targets that require
+them to procure a certain amount
+of storage year. For example, one
+utility, Southern California Edison
+(SCE), was required to procure
+50MW worth of storage for 2014.
+However, when SCE began tendering
+for projects, it received over 500
+proposals and instead decided to
+procure over 250MWworth of energy
+storage.
+Such examples are not uncommon,
+with California’s Independent System
+Operator (CAISO) reporting last
+year that the number of proposals
+for energy storage in fact amounted
+to around 2.1GW, well above the
+original target. While these projects
+ultimately still have to be built,
+and not all may be approved, the
+indications from the market certainly
+sounds overwhelmingly positive.
+This is perhaps embodied most
+recently by the boundless enthusiasm
+and innovation shown by Tesla, who
+recently revealed their new Lithium-
+ion battery storage for domestic and
+commercial properties. Combine this
+with the construction of their new
+‘Gigafactory’ – purpose-built to drive
+down the cost of battery technology –
+and the prospects for energy storage
+look very good indeed.
+Fortune Favours the Cheap
+There are of course some small
+caveats. For one thing, the term
+energy storage is actually rather
+broad, encompassing a range of
+different technologies suitable to
+different types of applications beyond
+just accommodating renewables.
+Necessarily, these different
+technologies also have a range of
+different costs associated with them.
+Whilst this is not inherently a bad
+thing, there is perhaps a risk that
+those more innovative technologies
+whose capital costs are higher (and
+don’t have companies like Tesla
+driving them downwards) will get
+edged out of the market by a target
+which demands cost-effectiveness.
+An often cited example is that of
+‘metal-air’ batteries that use a solid,
+rather than aqueous, membrane to
+offer a higher energy density. Though
+the technology is more innovative,
+it is commercially immature. A
+target with a deadline for project
+completion by 2024 simply may not
+have the patience required to see if
+such a technology could grow up.
+More than an Experiment
+With that said, the storage target in
+California still seems to be a fairly
+unqualified success. So much so in
+fact, that a Texan utility, Oncor, has
+recently been considering investing
+a whopping $5.2 billion into 5GW
+of energy storage. Whilst policy
+enthusiasm in the UK might be more
+sluggish, industry groups like the
+Electricity Storage Network (ESN)
+are now campaigning for a target of
+2GW by 2020, based on California’s
+experience.
+The term ‘emerging’ market is
+often used pejoratively to describe
+interesting technologies that are
+unlikely to reach any meaningful
+level of commercialisation. For many
+years, energy storage has been given
+such a label. In light of California’s
+sustained success, one might now say
+it has well and truly emerged.
+Wind turbines in California. Energy storage could be crucial in allowing renewables to replace fossil fuels Photo: Wikimedia
+Commons
+"The
+storage
+target in
+California
+still seems
+to be a
+fairly
+unqualified
+success."
+"California
+set utilities
+a target of
+installing
+1.3GW of
+energy
+storage
+by 2020,
+enough
+to power
+1 million
+homes."
+

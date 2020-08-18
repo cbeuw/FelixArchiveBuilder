@@ -1,0 +1,202 @@
+science.felix@imperial.ac.uk
+6 felix Friday 23 November 2007
+Science
+Science Editor – Ed Henley
+The zodiacal light appears as a conical glow low on the horizon, and is visible around dawn and dusk. Look out for it when you’re not in London
+Brian May’s lecture: not too dusty
+A black hole may have no hair, but an-
+other type of star, lecturing on zodiacal
+dust in the Great Hall last Wednes-
+day, was a tad more hirsute. Yes, Brian
+May, Imperial’s most stellar son (as far
+as rock goes anyway) had brought his
+flowing locks back to college, to tell a
+sold-out crowd of alumni about the
+subject of his recently-awarded Ph.D.
+– apparently one of the first awarded
+by Imperial rather than the University
+of London.
+Many of you will know that the
+Queen guitarist went to Imperial, and
+will have heard about the award, but
+may have assumed that it was a mere
+honorary degree, of the sort bestowed
+like popcorn on the great and the good.
+Certainly not so in this case – May had
+in fact come very close to completing
+his Ph.D. 30 odd years ago, before fame
+and fortune beckoned and he threw
+in the towel. But not irrevocably – he
+retained an interest in astronomy,
+formally rekindled in 2006 with the
+publication of “Bang! The Complete
+History of the Universe” (reviewed in
+these pages just over a year ago), which
+he wrote with Patrick Moore and Chris
+Lintott.
+Whilst promoting the book, he men-
+tioned he was interested in revisiting
+his thesis work, an aside which was
+picked up by Imperial’s Prof. Michael
+Rowan Robinson, who suggested May
+return to Imperial to complete the
+original thesis under him. But this was
+to be no easy ride – Rowan-Robinson,
+testified to May’s 3 a.m. emails com-
+plaining that completing his thesis was
+“killing [him]” – a hallmark of any true
+degree. And he underwent a gruelling
+viva at the end, his examiners scruti-
+nising his work for 6 hours, to make
+sure it was up to scratch. No, this was
+no sham; May had to sweat to get this
+qualification.
+Presumably quite literally at times
+– back in the 70s, May and his fellow
+scientists conducted their investiga-
+tion in a hut which, though rather ba-
+sic, had an enviable location: a sunny
+mountaintop in Tenerife. A picture
+of a younger May, next to his equip-
+ment and sporting a tan several shades
+darker than that normally seen on as-
+trophysicists made this author wish his
+Felix went along to hear the Queen guitarist on zodiacal dust, the subject of his recently-awarded Ph.D.
+research was based in sunnier climes.
+Yet to see zodiacal light, May ex-
+plained that one in fact needs to ob-
+serve when the sun is just out of sight:
+right before dawn, or straight after
+dusk. It appears low on the horizon,
+and takes the form of a conical or el-
+liptical glow, with its axis in the dawn-
+dusk plane. At its best, it can appar-
+ently be very bright, far more so that
+the brightest regions of the Milky Way.
+Early (recorded) observations include
+an ostensible sighting by Omar Khay-
+yam, and an indubitable one by Cas-
+sini, who correctly attributed it due
+to dust orbiting the sun, mostly in the
+solar system plane, and closer in than
+the Earth. The light which scatters off
+this cloud of dust means it is visible in
+the night sky, at the times previously
+mentioned. At those times, an observ-
+er can look towards the centre of the
+solar system without direct sunlight
+drowning out the light reflected from
+the dust.
+Interest in zodiacal dust apparently
+dwindled somewhat while May was
+out of the field (purely coincidentally,
+he claimed), but has been invigorated
+in recent years by the discovery of
+similar dust clouds around other stars,
+as these clouds hold vital clues for how
+planetary systems develop, and hence
+may have implications for the presence
+of exoplanets around these stars, and
+even life itself.
+Fortunately, this was not the question
+May had set out to investigate initially,
+nor did he change course – as Prof.
+Rowan-Robinson pointed out, catch-
+ing up with 30 years of literature is no
+mean feat, even if one remains within
+the narrow confines of a thesis topic.
+Instead, May stayed with his original
+work, studying the motion and nature
+of the zodiacal dust around our own
+star.
+This involved studying a very small
+part of the reflected solar spectrum
+– a “line” or narrow frequency band
+of light, due to magnesium – using a
+sophisticated device known as a Fabry-
+Perot interferometer. Using a mirror
+arrangement known as a coelostat to
+track the zodiacal light and reflect it
+into the interferometer, May and his
+colleagues could measure the wave-
+length of the magnesium line in this
+light. By studying the difference be-
+tween the measured wavelength and a
+reference value measured in the labo-
+ratory, they were able to determine
+the speed of the dust. Light which had
+scattered off dust moving away from
+Earth was Doppler-shifted towards the
+“redder” part of the spectrum, whilst it
+appeared bluer if the dust was moving
+towards Earth.
+In such a way, May was able to ex-
+amine whether the dust was moving in
+a prograde orbit – in the same direc-
+tion around the sun as the Earth – or
+a retrograde orbit, counter to Earth’s
+motion. Furthermore, by looking for
+asymmetries in the motion found in the
+dawn and dusk observations, he could
+also look for evidence of a bulk flow
+relative to the solar system – say due
+to our motion through the interstellar
+medium, the cloud of material which
+our solar system ploughs through due
+to its orbit within our galaxy.
+As with any Ph.D., the devil appeared
+to be in the detail, and more specifi-
+cally in the details of work published
+by others in the field, as some of these
+disagreed with May’s findings. Nev-
+ertheless, his observations appeared
+to agree with a plausible theoretical
+curve, and with enough previous liter-
+ature, that his examiners were satisfied
+by his conclusions: that a large propor-
+tion of the dust, which (as the name
+suggests) is predominantly composed
+of small particles, is in a prograde or-
+bit, and that furthermore, there may be
+some evidence for an interstellar flow.
+May seems content to call it a day
+there, and who can blame him? Re-
+turning to a field 30 years on and suc-
+cessfully completing Ph.D.-calibre
+research is cause enough to hang up
+ones’ laurels. Yet May retains a keen
+interest in the area, and looks for-
+ward to the immensely detailed view
+of the zodiacal dust which IRAS, a
+space-based infrared telescope, should
+shortly be providing. Much work has
+already been done in this wavelength
+range, as zodiacal light has typically
+been seen as light pollution interfering
+with the study of more distant objects.
+However IRAS’ contribution may help
+explain the origin of the dust which is
+thought to arise, amongst other caus-
+es, from collisions between asteroids,
+and comets shedding their outer lay-
+ers. May noted that a good example
+of the latter was comet Holmes, which
+recently graced our skies with a celes-
+tial fireworks display, suddenly bright-
+ening a million-fold as it blew off its
+outer layers, for no apparent reason.
+Who knows, maybe somewhere in the
+world, a budding musician saw this
+and set down one instrument to pick
+up another, one more suited to study-
+ing the music of the spheres.
+Edmund Henley
+Science Editor
+Many thanks to Emma Jones for
+all her invaluable help
+“Catching up
+with 30 years of
+literature is no
+mean feat”
+More than one string to his... guitar? That’s Dr. Brian May to you son
+

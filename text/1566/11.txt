@@ -1,0 +1,222 @@
+11
+FRIDAY 31 JAN
+FelixScience
+@Scifelix
+SCIENCE
+Do you want brains with that?
+Anand Jagatia takes a look at prions, the bad behaving proteins
+mars.nasa.gov
+P
+rions (rhymes with
+“neons”) are really
+interesting proteins.
+They can also be
+very dangerous. The
+name is a derivative of the words
+“PROtein” and “INfectious”, and
+as the etymology suggests, they
+cause a group of infectious illnesses,
+called “transmissible spongiform
+encephalopathies” (TSEs).
+Encephalopathies are diseases of the
+brain, and spongiform comes from
+the fact that over time, tiny holes
+appear throughout the cortex of the
+victim – just like you’d see in a sponge.
+Prion diseases are degenerative
+and always fatal. Probably the most
+famous example is the bovine variant,
+BSE, or “mad cow disease”. The UK
+epidemic of the disease, which began
+in 1986 and led to a ten year ban on
+the selling of British beef, was the
+result of feeding cattle the mashed
+remains of other slaughtered animals
+(including bones, brains and spinal
+cords). The feeding practices led to
+the spread of prions from infected
+to healthy animals and accelerated
+transmission of the disease.
+Human forms of TSE come in
+several varieties. In rare cases,
+mutations of the gene for prion
+protein may cause disease, but the
+majority of the time it is exposure to
+infectious prions is to blame. “Kuru”,
+a disease endemic to tribal areas of
+Papua New Guinea, is probably the
+condition with the most gruesome
+history – it is believed that the spread
+of the disease among the Fore tribe
+was due to the cannabilistic funeral
+rights practised by its members. The
+incidence of infection was found to be
+much higher in women and children,
+who were generally given the less
+desirable body parts to eat, including
+the brain, where most of the prion
+matter is concentrated.
+Misfolded prions are also extremely
+stable and can’t be destroyed by heat,
+so cooking meat doesn’t prevent
+infection. Despite claims of the UK
+government during the BSE crisis
+that infected beef was completely safe
+to eat, there have been 175 reported
+cases of the human form of the
+disease in the UK since the ban. Most
+of these cases are thought to be linked
+to consumption of beef infected with
+prions.
+Scientifically, the puzzling thing
+aboutprionsisthewaytheyreplicate.
+Not all prions are infectious – the
+normal kind is found in many cells
+throughout the body, especially the
+cell membranes of neurons. But
+prions can also exist in a misfolded
+state, and this is the kind that leads
+to disease.
+According to the popular scientific
+view, infectious prions can act as a
+scaffold for normal prions to misfold
+themselves, and this chain reaction
+causes the infection to spread
+throughout the brain.
+Once misfolded prions are formed,
+they clump together in big chains
+called amyloid fibres, which are toxic
+to cells and cause them to die. The
+prionhypothesisisstillcontroversial,
+because all other infectious agents,
+(like viruses) need RNA or DNA
+to replicate themselves, but it does
+seem that prions can be infectious
+without containing any genetic
+material.
+Todate,therehasbeenlittleheadway
+in explaining how all this might
+happen. Recently though, scientists
+from the Prion Biology Laboratory in
+Italy have made promising progress.
+Last week, the group published a
+paper in the Journal of the American
+Chemical Society, outlining how
+they used small proteins, called
+nanobodies, to stabilise misfolded
+prions and then used X-rays to explore
+their structure.
+For the first time, their research
+sheds some light onto the early stages
+in the mechanism of prion misfolding,
+which might be the first steps to
+understanding how these peculiar
+proteins are so deadly.
+These prions may look pretty, but they can be deadly too
+Ancient traces of water found on Mars
+James Bezer
+Science Writer
+F
+or a vehicle designed to
+last just 7 earth weeks,
+Opportunity has done
+remarkably well. Ten years
+to the day since the rover
+first landed on the surface of Mars,
+its new analysis of some of the
+oldest rocks ever found there show
+environments potentially suitable for
+life were around on the planet much
+earlier than we previously thought.
+The samples, estimated at over
+4 billion years old, contained clay
+minerals, rich in iron and aluminium,
+that suggest the red planet may have
+been much warmer and wetter in the
+very distant past.
+According to the mission’s Deputy
+Principal Investigator Ray Arvidson:
+“these rocks are older than any we
+examined earlier in the mission,
+and they reveal more favourable
+conditions for microbial life than
+any evidence previously examined by
+Opportunity.”
+Since it landed in a crater on the
+Meridiani plains on January 25 2004,
+Opportunity has sent 170,000 images
+back to earth, alongside data from its
+two spectrometers, which can analyse
+the chemical composition of soil
+and air samples. Its many significant
+discoveries include the first meteorite
+ever seen on another planet, and soil
+layers similar to structures on Earth
+that appear to have been caused by
+the movement of wind and water in
+the distant past. It has also performed
+a detailed analysis of the Martian
+atmosphere through tracing of argon
+gas.
+Opportunity has travelled 25 miles
+from its original landing site to the
+Endeavour crater, where its most
+recent results have come from. Its
+path has been guided by data from
+the Mars Reconnaissance Orbiter, a
+NASA satellite that can take highly
+detailed photographs of the planet’s
+surface.
+Opportunity is one of a number
+of craft currently analysing the
+environment on Mars. Its larger
+cousin Curiosity, which landed in
+Gale crater in July 2012, has already
+made significant discoveries. In
+December last year, it encountered
+evidence of a huge lake that existed
+around 3.5 billion years ago. Much
+like Opportunity’s recent discovery,
+the water had a neutral pH, and
+contained key elements vital for life
+on Earth, such as carbon, nitrogen and
+phosphorus, potentially making it an
+ideal place for microbes to live. The
+discovery prompted John Grotzinger,
+project scientist for Curiosity, to
+describe parts of Mars as “extremely
+Earthlike”.
+Sofarthough,whilemanypotentially
+habitable environments have been
+found on the planet, no complex
+organic molecules – the building
+blocks of life on earth – have yet been
+detected. Such a discovery could
+provide the first direct suggestion that
+some forms of life may have existed
+there in the past: one of the key aims
+of Mars exploration.
+Nobody knows how much longer
+Opportunity has left until its systems
+begin to stop working. Its twin, Spirit,
+which landed around the same time,
+stoppedsendingbackinformationfour
+years ago. Intense dust storms and
+huge temperature fluctuations make
+Mars an inhospitable location for any
+piece of technology. Many electrical
+components have stopped working,
+and one of its wheels is broken. But
+despite this, Opportunity’s condition
+has deteriorated relatively little
+recently, and it is fully expected to
+keep going for another few years yet.
+“There’s more good stuff ahead,” said
+Steve Squyres, Opportunity’s principal
+investigator. “We’re examining a rock
+right in front of the rover that’s unlike
+anything we’ve seen before. Mars
+keeps surprising us, just like the very
+first week of the mission.”
+The Mars Opportunity rover has surpassed all expectations
+

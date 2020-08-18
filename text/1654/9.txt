@@ -1,0 +1,187 @@
+12 felixonline.co.uk/science felix.science@ic.ac.uk Friday 17 January 2017
+felix S C I E N C E
+Ipsita Herlekar explains how fruit flies have been found to use logical reasoning when choosing
+partners
+A
+new study has
+discovered
+that fruit flies
+(Drosophila
+melano-
+gaster), unlike
+many of us make rational
+decisions while choosing
+partners.
+Experiments were con-
+ducted by scientists from the
+University of British Columbia
+and University of Washing-
+ton, where, individual male
+flies were given the choice
+of choosing between two
+females as their mates. Male
+fruit flies were paired with
+10 different females flies of
+different genetic strains. With
+as many as 2700 trials using
+different combination of male
+and female fruit flies, it was
+found that males were able to
+pick out females that are most
+likely to produce the maxi-
+mum amount of offspring.
+The males were also found
+to be consistent in their
+choices, choosing females
+ranking higher in the hier-
+archy over the others. For
+example; if female fruit fly
+A is the highest in rank, fol-
+lowed by B, C, D and so on,
+males, when given a choice
+between A and B, always
+chose A. Similarly when given
+a choice between B and C,
+the males chose B. The rank-
+ing ranking of a female fruit
+fly relates to the amount of
+offspring it is able to produce.
+Similar experiments were
+conducted but, after impair-
+ing either the sense of smell
+or the sight of the male fruit
+flies, their mate choosing
+pattern remained unchanged.
+However, when both their
+Choosing mates using logic
+Lizzie Riach gives an overview of new robotic technology designed to help keep the heart beating
+after heart failure
+A
+so-called ‘soft
+robot’ has
+been invented
+to help keep
+the human
+heart beating.
+Developed by researchers
+from Harvard University and
+Boston Children’s Hospital,
+the robot fits around the heart
+and helps it pump blood. This
+could mean a significantly
+higher quality of life for peo-
+ple that have survived heart
+attacks but suffer from heart
+failure, a growing popula-
+tion in this day and age. The
+robot itself does not come into
+direct contact with the blood,
+reducing potential risks such
+as blood clotting. Instead, the
+heart is encased in a sleeve
+which mimics the outer layers
+of cardiovascular tissue,
+allowing the material to act
+in a similar way to the heart
+within it.
+Around 41 million people
+suffer from heart failure
+worldwide, which is termed
+as ‘the inability to pump suffi-
+cient blood to the body’. Up
+until now, the only option for
+people with severe cases has
+been heart transplants, but
+donors are thin on the ground
+and many die whilst on the
+waiting list. Previous devices
+to help heart function, known
+as ‘ventricular assist devices’
+(VADs) are limited, and are
+used mainly as life-prolonging
+therapy. VADs work by inter-
+acting with valves to increase
+blood flow, whilst patients
+have to take blood-thinning
+medications. Despite this,
+clots often occur and cause
+severe problems in up to 20%
+of patients.
+This new soft robot is
+comprised of a silicon sleeve
+that takes inspiration from the
+heart itself and is designed
+to simply enhance heart
+function by closely mimicking
+it. There have already been
+in vivo results on a pig heart.
+The robot itself is customiz-
+able depending on which
+side of the heart is weaker
+and therefore needs more
+help to pump blood. Despite
+problems such as inflam-
+mation at the device-tissue
+interface, these preliminary
+tests look promising. In the
+current model, the device is a
+tethered implantable system
+that uses wall-compressed
+air supply to allow the robot
+to work. Future models will
+either have to be made
+smaller or, like other devices,
+be worn around the waist of
+the patient. A lot more testing
+on live models and in animals
+with chronic heart failure
+\\ The robot does
+not come into direct
+contact with the
+blood, reducing the
+risk of blood clots \\
+Wearing your heart in your sleeve
+will have to be tested to look
+at the long-term effects of
+wearing this heart-saving
+sleeve, as well as finding new
+ways to attach it to the heart
+tissue (the current methods
+are not good for long-term
+implantation).
+This is an exciting step in
+the field of applied robotics.
+It looks like robots that can
+easily interact with and mimic
+tissues is the future could
+have a firm future within the
+medical world. Perhaps one
+day it’ll be the norm to have
+robotically-enhanced tissues
+keeping us alive?
+eyesight and sense of smell
+were impaired, the males
+failed to detect the ranking
+hierarchy in females, leading
+the scientists to conclude that
+the choices made earlier were
+based on a combination of
+visual and olfactory cues.
+Making decisions based
+on logic has always been
+associated as a trait unique
+to humans. This study turns
+out to be among the first of
+its kind, providing evidence
+that some species besides
+humans may also be capable
+of rational decision making.
+processes.
+\\ Ellen Roche/Harvard SEAS
+\\ More testing
+will have to be
+done to look at
+long-term effects of
+implantation \\
+\\ stoppestinfo
+

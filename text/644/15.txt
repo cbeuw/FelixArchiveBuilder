@@ -1,0 +1,192 @@
+Anything For A Choired Life
+What a hard time musical organisers are going
+to have next week in Primelia College! The
+Wind Band are doing the '1821' Concert on the
+steps outside the Queen's Arms on Tuesday,
+the orchestra are doing a concert on
+Wednesday and on Friday the Choir take over
+the Great Hall.
+The Wind Band ex-committee (Dune U
+Verymuch, Chris Taltipps and Mike Entucky-
+home) have decided that putting out more
+than twenty-five chairs is too much for them,
+so on the Queens Lawn, 25 chairs will be put
+out in a 5x5 square.
+Here comes the difficulty: the choir, headed
+by Erich von Braun, and the orchestra, led by
+Rich T Biscuit, will, between them, be sending
+a party of four people to listen to the concert.
+The people from the choir only sit on high
+chairs, while the orchestra members only sit in
+armchairs. In the traditionally over-organised
+style of Music Society, the party have been
+told that they must sit in a 2x2 square, in a
+certain pre-set seating arrangement, and the
+Wind Band have been told that this 2x2
+arrangement of seats must appear in their 5x5
+arrangement of seats. Unfortunately, no-one
+has told the Wind Band how many choir or
+orchestra members there are (eg they could be
+all choir, three choir, one orchestra etc), and
+certainly not what the 2x2 seating arrange-
+ment is (ie for three orchestra and one choir
+member, there are four different arrange-
+ments).
+Fortunately the committee have found an
+arrangement of armchairs and high chairs so
+that, no matter what the party is, they can be
+sat down without moving any chairs.
+Can you give a sample pattern that will
+suffice?
+Solutions, comments, criticisms to me at the
+FELIX Office by Wednesday, 1:00pm. £5 from
+Mend-a-Bike for a randomly selected entry.
+Last Week's Solution
+Bombed Out
+The maximum number of garlands needed is
+10. Its necessity is shown in the two diagrams
+(the second of which was shown by the great
+algebraist Sylvester), and its sufficiency was
+shown by the argument submitted by Elizabeth
+Berry, a physics PG, but since the argument is
+rather tedious, I don't propose to write it out
+here.
+The winner this week was Tim Pigden from
+Man Sci, who can collect his £5 prize from the
+FELIX Office after 1:30pm on Monday.
+A Slice of the Pi
+In this week's Footnotes, there is no puzzle; I
+shall simply suggest a definition, and a few
+deductions, then suggest a few questions, and
+print anything interesting that comes up.
+A definition of pi for a polygon could be:
+pi = Perimeter
+width
+where the width of the polygon is defined as
+the greatest distance between two points on
+the perimeter. This definition works best for
+convex polygons (ones for which all interior
+angles are less than 180°).
+Consider a triangle sides a, b, c, with a the
+largest of the three. The greatest distance
+between any two points is clearly the longest
+side so:
+pi = a + b + c
+a
+Therefore, for a triangle, pi ranges from
+2 (b + c = a) to 3 (a = b = c).
+What can you say about four sided
+polygons? What shape polygon maximises
+pi? Is there a general rule for the maximum
+value of pi (eg for maximal pi for a polygon
+of n sides (call it say pin, is it true that
+pin is always greater or always less than
+pin-l)?
+Tell me about pi!
+WMKABOVT-
+100KSH
+by MtMe Optics Inc.
+The process of lithography was invented by
+Aloys Senefelder in 1798: the artist uses a
+grease crayon, or liquid grease, to apply an
+image to a granular surface—originally
+Bavarian limestone, now more often an alloy
+plate. The surface is then dampened and
+inked: the dampened surface rejects the ink,
+but the greasy image retains it and carries it, in
+turn, to a sheet of paper. Commercial
+lithography developed during the 19th century.
+By the 1880s it was common practice to photo-
+sensitise a lithographic plate and transfer an
+image to the plate by light, through a half-tone
+screen. Offset lithography was achieved by
+1900: the image is transferred from a curved
+metal plate to a rubber blanket and then to a
+sheet of paper. The rotary principle not only
+speeds up production but enables the image to
+be set down the right way round on the plate,
+rather than reversed as in the direct process.
+Original versus Reproduction
+The jargon term is 'offset-litho', as in FELIX, as.
+in glossy magazines, as in posters and book
+illustrations. There is no technical reason why
+these should not be 'original' prints—the
+reason is the snobbish desire of the print
+market to perpetuate art patronage as an
+esoteric pursuit open only to a moneyed elite.
+As a result the offset process is outlawed as a
+fine art medium, a mystique has grown up
+around 'originality', and a reproduction is
+assumed to be, at best, a mediocre version of
+the artist's original concept. And so it may be,
+falsifying colour, tone and texture, but equally
+an original drawing or watercolour may be
+reproduced so faithfully (either manually or
+photographically) that the facsimile could be
+mistaken for the original: by limiting the edition
+and signing the prints, the price of the
+reproduction sky-rockets from a few £s up into
+two or three figures.
+Prints Framed or Unframed
+The above is neither Walkabout or Looksee,
+but prompted by my excursion to 'The Roster
+Shop' (168 Fulham Road, open six days a
+week) and 'Zella 9' (2 Park Walk, open seven
+days a week until 9:00pm) on the same
+afternoon.
+Zella 9 has, and I quote, 'the largest (and
+nicest) collection of limited edition prints in
+London'. Their prices are from £4 (for postage-
+stamp-sized etchings) to around £100. Some
+are very fine: Tully Crook's 'Beyond the
+Plantations' silkscreen is of tropical vegetation
+in disconcertingly untropical, swimming pool
+colours which emphasise the dreamlike quality
+of the scene; Rosamund Jones' etching of a
+golden cockerel is a delicately traced flash of
+ochre feathers. They also sell picture
+postcards (21p each) of Ronald Searle's manic-
+depressive and amorous cats—offset-litho
+from ink, watercolour and pencil original.
+At the Poster Shop the posters on sale are
+mostly advertising exhibitions held in
+European or American art galleries. Prices
+start around £3 and rise well into two figures.
+These prints are unsigned and do not qualify
+as 'originals'.
+Does this reduce their artistic appeal? Is a
+Bresson photo on a poster advertising an
+exhibition of Bresson photos any less 'good'
+than a signed copy on Kodak paper? And what
+if the poster is framed, rather than pasted on a
+hoarding?...like Zella 9, the Poster Shop offers
+a framing service. The moral seems to be, buy
+what you enjoy—if the kick of a signature or
+rarity value adds to the pleasure of ownership,
+be prepared to pay for these.
+Meet Henry and Caroline
+As you ponder, investigate what else this part
+of the Fulham Road has to offer.
+The Pan Paperback Bookshop also sells
+Picadors and Penguins; its open until 10:00pm.
+Find fresh tomato and mozzarella salad (50p
+for a small tub) and umpteen different kinds of
+Italian salami, at Luigi's Delicatessen. Splurge
+at Midnight Blue on a peppermint-green,
+stonewashed denim jacket (£35), or be
+extrovert in 'Midnight Blue' jeans—pink or red
+or orange or yellow...through to violet, at £15 a
+pair. Indulge in mouth-watering patisseries at
+le Boulevard or discover chocolaf
+e croissants
+(28p each) at Summers' bakery, where the
+shelves overflow with poppy-seed loaves and
+Danish pastries. This is Sloane Ranger
+country, with prices to match, but the quality
+of goods is high and the delights of people-
+watching huge!
+FELIX is published by the Editor for and on behalf of Imperial College Union Publications Board, and is printed by the
+Tel. 01-589 S i l l Ext 1048 or Internal 2881 Editor: Martin S Taylor; Business Manager: Peter A Rodgers. Adverti
+Union Print Unit, Prince Consort Road, London SW7 2BB.
+sing Manager: Nick Thexton. Copyright FELIX 1983
+

@@ -1,0 +1,269 @@
+The winner of Slitherlink 1,396 was
+Hringur Gretarsson. Congratula-
+tions-of-ultimate-super-win to you!
+Pat yourself on the back and get on
+with this week’s now. We’ll give a
+prize out in the summer. The more
+entries, the better your chances.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+sudoku.felix@imperial.ac.uk
+41
+Friday 22 February 2008 felix
+Fun & Games
+Slitherlink 1,397
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,396 solution
+3
+0
+x
+x
+x
+x
+3 1 3 2
+www.tevong.co.uk
+Adlib by Tevong You
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“Sanjay Bilakhia, where is the
+money to feed our children Pinky,
+Po and Veejay? We’re running out
+of cottage cheese!”
+“Whoever texts the catfone is a
+bit of a weirdo to be honest. The
+average IQ of these people must be
+about 44. Collectively.
+”
+“Gilbert Dougherty is a 20 year old
+pregnant irishman with a fetish 4
+underage witches. Show me your
+wand!”
+“Oh hai, how you doin’ Felix?”
+“Halp. I’m trapped in the phone
+and I’m having to use iron filings
+and a magnet to communicate
+with you.
+”
+Wordoku 1,397
+A
+K
+P
+R
+C
+H
+T
+O
+W
+C
+T
+R
+O
+W
+P
+K
+A
+H
+O
+W
+H
+T
+K
+A
+R
+P
+C
+T
+P
+C
+H
+O
+K
+A
+W
+R
+H
+O
+W
+A
+T
+R
+C
+K
+P
+K
+R
+A
+W
+P
+C
+H
+T
+O
+W
+H
+O
+K
+R
+T
+P
+C
+A
+R
+C
+K
+P
+A
+O
+W
+H
+T
+P
+A
+T
+C
+H
+W
+O
+R
+K
+1,396 Solution
+F
+I
+L
+N
+F
+N
+U
+A
+L
+F
+E
+I
+T
+U
+E
+I
+F
+L
+T
+I
+E
+M
+N
+A
+L
+E
+T
+T
+I
+A
+N
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters.Onceyou’vecompletedthe
+puzzle, there is a hidden phrase to
+find. Email answers to sudoku.
+felix@imperial.ac.uk.
+The winner of Wordoku 1,396
+is Sofia Vatti. Two on the
+bounce. The hidden phrase was:
+PATCHWORK. Keep those
+entries coming in.
+0
+1
+3
+2
+1
+3
+3
+2
+3
+3
+2
+3
+2
+2
+3 0
+3
+3
+3 3
+1
+3
+1 2 3 3
+0 2 2 2
+2 1 2
+2
+1 2
+3
+3
+2 2 2
+2
+2
+2
+2
+2
+2
+3
+3 1
+3 1
+0
+3
+1
+0
+3
+2
+2
+2
+0 3
+1
+3
+2
+1
+3
+1
+3
+2
+2
+2
+3 2 2
+

@@ -1,0 +1,145 @@
+feature medicine
+changes in their magnetic field. The sen-
+sors measure both vital signs and indica-
+tors of psychological state, such as sighs.
+The data can be sent via the Internet to a
+doctor who can adjust medications
+according to fluctuations.
+However, Nexan of Alpharetta, Georgia,
+has invented smart monitoring without
+wiring clothes. Its sensors - which look
+like an elaborately bent paper clip -
+adheres to a patient's chest and radios
+data to a storage device up to fifteen
+metres away. Electrodes in the sensor
+measure respiration and contraction of
+the heart.
+The interface between flesh and silicon
+is evolving quickly. I quote one of the
+visionaries Mario Ferrari, who said, "the
+child is not born yet, but at least we have
+the marriage."
+David Ross in the September 2001
+Technology Review stated that every year
+approximately more than 50,000
+Americans with diabetes must undergo
+foot or leg amputations. In many of these
+cases, poor blood circulation is the villain.
+Imagine, then, having socks with built-in
+pressure sensors that would alert you to
+put your feet up for a while.
+Smart socks are just one example of the
+growing push to make high-tech home
+medical devices a part of our everyday
+lives.
+Wouldn't it be wonderful to have a per-
+sonal futuristic jogging suit, like a second
+skin, with interfaces to the inside and the
+outside? From the outside your jogging
+suit monitors the weather and terrain,
+while on the inside your bio-physiological
+state is detected. The suit can analyze
+your movement, and advise on the dura-
+tion and intensity of the exercise, accord-
+ing to your personalized training pro-
+gramme, stored on a smart card. When
+your suit 'notices' that you are getting
+tired, it can encourage you to go on, or it
+can immediately adapt the training
+scheme for the next days, and if neces-
+sary make the 999 call to the doctor.
+Most of these first-generation gadgets
+grab data on vital signs and then radio
+the information back to a home health sta-
+tion or a receiver connected to the PC.
+Now physicians and engineers at a hand-
+ful of universities and start-ups are push-
+ing the technology even further. Their
+goal is to harness new materials and
+powerful microelectronics to make
+devices that are even more intelligent and
+self contained to make not only data
+11 IIH
+hi-
+«f M I S
+Mi*!!**
+Ms#:rysi»iqf<ffc
+'LifeShirt'
+reporters but preventive aids that detect
+dangerous medical conditions.
+Researchers at Andersen Consulting's
+Centre for Strategic Technology Research
+are redefining the concept of 'personal'
+computing by bringing the Internet into
+the bathroom with the Online Medicine
+Cabinet (OMC).
+The O M C is a computerized bathroom
+cabinet that greets you, checks your
+blood pressure, communicates with your
+health care provider and reminds you to
+take your medicines on time. It combines
+special sensor technology, embedded
+computers and the Internet to create
+what Andersen calls a "situated portal."
+The O M C integrates technologies such as
+face recognition, voice synthesis, flat
+panel displays and smart labels. On
+entering the bathroom the computer initi-
+tt
+The doctor can
+poke at the computer
+screen w i t h the
+pointer and w o u l d
+feel in his finger that
+he is actually touch-
+ing it
+ates a dialogue by greeting the person
+through voice technology. Special sensors
+detect when a medicine bottle is lifted out
+of the cabinet and when the supplies are
+running low. If a refill is required, the
+O M C generates an email request to the
+pharmacy. A n d using smart labels, it
+warns if you pick up the wrong medica-
+tion. Sounds too good to be true, but this
+kind of technology is available.
+2002 marks a decade of accomplish-
+ments in the field of interactive computer
+based technology - virtual reality - for use
+in medicine.
+One such example: nowadays when
+doctors perform an abdominal examina-
+tion on a patient, they have to rely on their
+hands to do much of the guesswork.
+Tender livers, pea-sized tumors, and
+swollen spleens are often diagnosed this
+way, and followed up with high-resolution
+scans that take precise recordings of the
+size and location of those bumps and
+lumps.
+A new virtual reality glove being devel-
+oped by researchers at the State
+University of New York at Buffalo promis-
+es to change that.
+The information will be transmitted to
+the second doctor through a haptic feed-
+back device; a small, transportable robot
+that fits on a user's hand like a thimble.
+The robot allows a user to manipulate an
+image on a computer screen and feel the
+physical results of that virtual manipula-
+tion. The doctor can poke at the computer
+screen with the pointer and would feel in
+his finger that he is actually touching it.
+Future health care delivery will rely on
+an aggressive, preventive model that is
+vastly different from the reactive, episodic
+model utilised today. Individuals will
+assume a more active role in their care.
+Medical systems, including home health
+systems, will exhibit collective intelli-
+gence of individual devices.
+One way or the other, our daily lives will
+depend on computing at many levels.
+This is just the beginning...
+

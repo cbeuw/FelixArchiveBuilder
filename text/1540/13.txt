@@ -1,0 +1,141 @@
+Electricity and Bubbles
+SCIENCE
+You met the DeskJet, now meet the DrugJet
+Philip Kent Science Editor
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+13
+FRIDAY 15 FEBRUARY
+Everyone has heard of the inkjet print-
+er, you probably have one yourself.
+However, one application of the ven-
+erable oﬃce supply you haven’t heard
+of is printing drugs, recently devel-
+oped at the UCL School of Pharmacy.
+An inkjet printer works by deliv-
+ering small droplets of ink onto the
+page, controlled via an electrical sig-
+nal. In most inkjet printers a thermal
+technique is used: heat vapourizes
+ink, which is then delivered onto the
+page and dried. A mixture of the col-
+ours (and black) are used to produce
+the desired output on page.
+In this development, the same ther-
+mal process has been used to deliver
+the drug carbamazepine, a medication
+often prescribed to people suﬀering
+from epilepsy.
+he original synthetic method for
+this drug involves delivery of a tiny
+amount of the drug. When deposited,
+the drug evaporates and crystallises
+almost immediately, producing the
+desired compound.
+In this new technique, the same
+method is used, but an inkjet printer
+is used to precisely control drug deliv-
+ery. his makes use of the ﬁne control
+that inkjet cartridges have when de-
+ploying ink, with many inkjet printers
+capable of printing to 1,200 dpi.
+he main advantage of using print-
+ers is their ease of conversion to print-
+ing drugs, which also has the desirable
+quality of being cheap to do. A good
+quantity of crystallisation has also
+been reported, with even better yields
+lowing bubbles from
+soapy water has been a
+favourite past time for
+all of us. Struggling as
+we try to catch them be-
+fore the breeze takes them higher and
+higher provided us with hours of de-
+light. We never gave a thought to the
+physics behind it, because, well, that
+would ruin the fun.
+Bubbles usually do not last for too
+long, and if we had restrained our-
+selves enough, we would have seen
+them pulled back under gravity by
+their own weight. It’s true, bubbles
+do have a mass (a very small one at
+that). Bubbles are a good example of
+nanoﬂuids; ﬂuids with a thickness of
+the order of nanometres. Research has
+been going on in the area of microﬂu-
+ids and nanoﬂuids, with the challenge
+of driving ﬂows through ever smaller
+channels.
+A research group from the Univer-
+sity of Lyon have looked into the elec-
+trokinetic properties of soft, deform-
+able nanoﬂuids, with some surprising
+results. Soap ﬁlms were the ﬂuid of
+choice for the team because they are
+easy to produce, nanometres thick
+and are a perfect balance between liq-
+uid pressure and surface tension. he
+experiment consisted of balancing a
+cylinder of the ﬂuid between two plat-
+inum coated glass electrodes. he ﬁlm
+is protected from evaporation by her-
+metically sealing in a water saturated
+atmosphere.
+Applying a small potential diﬀer-
+ence between the closely spaced elec-
+trodes (5.5mm) caused a large electric
+ﬁeld to be created within the bubble,
+altering its thickness and ﬂow rate.
+Before passing a current through it,
+the ﬁlm’s thickness and conductance
+is recorded, and once energised, the
+conductance to a plateau after around
+100s, due to the conducting surface
+becoming saturated. his provided a
+calibration method to infer the thick-
+ness of the ﬂuid from its conductivity.
+he second stage was to swap the
+AC supply for a constant DC one, in
+the same direction as gravity. he re-
+sult was a net movement of ﬂuid from
+bottom to top, against the pull of grav-
+ity, a phenomenon known as electro-
+osmosis. Interestingly, a change in col-
+our in the bubble was observed when
+the electric ﬁeld was changed rapidly,
+as the ﬁlm’s walls fattened quickly. By
+solving the resulting equations, taking
+into account gravitational, electrical
+and viscous forces, the team conclud-
+ed that the thickness of the bubble is
+formed in equilibrium from the elec-
+tricity and capillary suction. he team
+also note: “Adapting this study to a real
+foam structure with ﬁlms, nodes, and
+plateau borders is a great challenge in
+order to use this phenomenon in real
+systems.”
+So, spare a thought for this sub-
+tle balancing act next time you see a
+lonely bubble ﬂoating in the sky.
+Pavitar Devgon asks what ever could go wrong...
+B
+This bubble is brought to you through
+the power of electricity... or printing
+being achieved when multiple passes
+have been used.
+his development is not completely
+without its ﬂaws, however, with cer-
+tain solvents having the potential to
+wreck havoc with the cartridge ma-
+terial. Common solvents used, water
+and water/ethanol mixtures, are ﬁne,
+The new drug baron? Stringer
+Bell better watch out...
+however other commonly used sol-
+vents may cause more trouble.
+DOI: 10.1039/c2ce26519b
+

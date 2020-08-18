@@ -1,0 +1,117 @@
+8 Feature Felix • 6 December 1999
+David Potter: Is The Whole
+World in his Palm?
+Whilst no-one was looking,
+IC graduate David Potter
+built up a global computing
+and communications empire.
+So, how did he do that?
+David Potter should be a household name. If
+not a household name, then at least his name
+should be recognised by every member of
+Imperial College. There are few computer
+moguls who head world beating companies
+that spark less instant recognition. Those in the
+know recognise his achievements, as is shown
+by the fact that he sits on several government
+technology committees. Bill Gates also has a
+few things to say about him. In fact, in a memo
+cited in the recent Microsoft antitrust case Bill
+Gates singled out not Oracle, not Sun
+Microsystems, not AOL, but Psion as one of the
+greatest threats to Microsoft's global business.
+If I were to tell you that David Potter founded
+and is the Chairman of Psion Group, then the
+bells of recognition would ring. Depending on
+your vintage you would probably think first of
+the Psion Personal Organiser, the world's first
+handheld computer, or the massive selling
+Psion 3 series.
+You might be surprised to learn that he did
+his PhD at Imperial and even lectured here for a
+time, his particular area of interest being non-
+linear mathematical physics. What is really
+intriguing is thus the way in which he made the
+transition from academic to mogul - after all, his
+company is competing against some of the
+biggest high tech companies in the world and
+winning. So it was a privilege to have the oppor-
+tunity to interview him and hear his story to find
+out why he thinks he has achieved what he has.
+Background
+David Potter did his PhD at Imperial from
+1 967-1 970. His research interest was in math-
+ematical physics, especially dealing in plasma
+physics and all aspects of non-linear problems.
+In the course of his work he began using com-
+puter simulations of complex physical phe-
+nomena, in which he developed a reputation.
+He was on the staff here at Imperial, and you
+can even find his book on Computational
+Physics in the library. Aspects of this area of
+physics later lead onto Chaos Theory.
+The Two Strands
+Even during his teenage years there were two
+particular strands of thought that interested
+him. Firstly, science and the way things work
+(following a family tradition - his grandfather
+was an academic). His other area of interest
+was in business.
+A Smarter Investor
+He became involved in stock market invest-
+ment and research into smaller companies
+after the huge stock market crash of 1 974. He
+thought that the valuations were 'ludicrous'
+and bought into the market with his savings.
+He was very lucky and he did very well. It was
+this that allowed him to set up the capital base
+of what is now the Psion Group. It did some-
+thing else for him as well: It taught him a lot
+about business and the way companies should
+be run. At around this time Intel released their
+8008 and 8080 microprocessors. Because of
+the success of his business interests, he decid-
+ed that he didn't want to spend all his life as an
+academic.
+"When the microchip came along in the mid-
+dle seventies, I thought that this was going to
+have a huge impact on the world, and I want-
+ed to participate in that."
+Doctor of Strategy
+In 1980 with a very small base (initially just
+himself and about £1 00 000 of capital that he
+had made himself) he set up as Psion. This is a
+big step for anyone to make - he had no pre-
+vious management experience, no staff, and
+no income, just himself and his bright idea. He
+had to start generating revenue and fast. How
+did he do it? He targeted software publishing
+on the microcomputer market, for computers
+like the ZX-80, the Acorn Atom, and the Apple
+II. You have to remember that at this time it
+was a tiny cottage industry. He began to make
+money out of that, and in the first year he reg-
+istered a turnover of £120 000 and profits of
+£12 000.
+It was not very much, but during the course
+of that year he could see that the market was
+going to expand a lot, so he then began to
+bring in development people - some of whom
+were from IC. One of them was Charles
+Davies, who was a research assistant at Impe-
+rial, and subsequently he became the lead
+architect in a number of key software products
+and operating system components. However,
+Potter and his ex-IC staff didn't take any Intel-
+lectual Product Rights (IPR) from IC. All they
+took were their skills and applied them to a dif-
+ferent area. By the end of the first year, Psion
+began to develop software.
+"In the history of Psion, software has always
+been the root of the company. We're particu-
+larly known for our palm tops and Organisers
+and so on. The real driver behind all that, all
+through, has been microcomputer software.
+Frankly, we are one of the best companies in
+the world at doing that, in different areas."
+

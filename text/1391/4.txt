@@ -1,0 +1,271 @@
+science.felix@imperial.ac.uk
+4 felix Friday 11 January 2008
+Science
+Science Editor – Ed Henley
+Monopolar disorder for Maxwell II
+B = 0. This equation,
+one of Maxwell’s Famous
+Four, is writ in stone for
+many physicists, who of-
+ten remember it as being
+equivalent to the statement “there are
+no magnetic monopoles”. However, a
+recent letter to Nature verges on the
+iconoclastic, as it suggests that monop-
+oles may in fact be found in a type of
+magnetic material known as spin ice.
+To understand what a monopole
+means, and tackling what Castelnovo
+et al. have found, it’s worth having a
+closer look at the equation above. This
+states that the divergence of the mag-
+netic field is zero, meaning that isolat-
+ed sources (or sinks) of magnetic field
+do not exist – they must always come
+in pairs, a source and a sink. In day-to-
+day language, this tells you that a mag-
+net always has a north and a south pole
+– it isn’t possible to find a magnet with
+only a north (or south) pole.
+If one imagines a box around an or-
+dinary magnet, the number of mag-
+netic field lines coming out of the box
+from the north pole of the magnet will
+be exactly balanced by the number of
+field lines entering the box and going
+to the south pole. Attempts to break
+this magnet and separate the two poles
+will be thwarted. Where the break oc-
+curs, a new pair of poles will be cre-
+ated, leading to two smaller magnets,
+each with a north and a south pole.
+The total number of field lines emerg-
+ing from the original box (or indeed
+from smaller boxes around each of the
+smaller magnets) will still be zero. This
+inability to separate the sources and
+sinks of magnetic field – effectively
+positive and negative magnetic charge
+– is in contrast to the sources and sinks
+of electric field, electrons and protons,
+which can be isolated. Indeed, the first
+of Maxwell’s equations tells you this –
+the divergence of the electric field is
+non-zero; the total number of electric
+field lines coming out of a box enclos-
+ing electric charge is proportional to
+the amount of charge in the box.
+However, although monopoles ap-
+pear to be absent at all scales from
+the macroscopic to the subatomic, the
+statement that they do not exist is ex-
+perimental – they have never been ob-
+served. Yet some theories, such as the
+Grand Unified Theories (GUT) which
+try to link all the forces in nature, pre-
+dict that they should exist. Accord-
+ingly, various experiments have been
+run to try to look for them, but thus
+far have borne little in the way of fruit,
+certainly nothing universally believed.
+Magnetic monopoles, if they exist, ap-
+pear to be exceedingly rare.
+Yet, the observant reader may ask, if
+one puts two smaller magnets end-to-
+end, the adjacent north and south pole
+Classically forbidden, magnetic monopoles may in fact be allowed in certain types of "spin ice". Pretty cool...
+cancel, leaving the north and south
+poles at the further ends. If one contin-
+ues to add magnets to each end, creat-
+ing a string of dipoles (north and south
+pole pairs), does one not get a magnet
+long enough that locally (imagine a
+small box almost encompassing each
+end) one effectively has a monopole
+at each end of the string? It turns out
+that separating the monopoles by add-
+ing dipoles in this fashion requires en-
+ergy. Castelnovo et al. point out that in
+a vacuum, one has to expend a lot to
+conjure up the required dipoles in be-
+tween, and even in an ordinary magnet
+(effectively made up of many dipoles,
+predominantly aligned in one direc-
+tion), one has to expend energy form-
+ing domain walls (boundaries separat-
+ing regions of perfectly aligned dipoles)
+along the length of the string.
+A team of researchers from the Uni-
+versities of Warwick, Edinburgh, Dun-
+dee and the Czech Republic’s Institute
+of Biophysics have discovered a new
+light-activated platinum-based com-
+pound that is 80 times more powerful
+than similar cancer treatments.
+While commonly used platinum-
+based anticancer compounds such
+as cisplatin are successful cytotoxic
+agents - they are poisonous to cells -
+their use is limited due to the frequent
+development of resistance to treatment
+and side-effects. Such side-effects arise
+when healthy tissues are killed along-
+side the cancer cells. Light-activated
+cancer therapy offers the potential for
+doctors to target treatments at tumours
+with great precision and is already used
+with some success for the treatment of
+non-melanoma skin cancers and other
+cancers such as tumors of the brain,
+lung and bladder.
+The team, headed by Professor Pe-
+ter Sadler at Warwick, has shown that
+the compound, also known by the
+catchy name of “trans, trans, trans-
+[Pt(N3)2(OH)2(NH3)(py)]”, is highly
+stable and non-toxic if left in the dark.
+But if light falls on it, it becomes much
+less stable and highly toxic to cancer
+cells. In fact, in tests conducted on
+various human cancer cell lines, once
+activated by exposure to UV light the
+compound was 13-80 times more cyto-
+toxic than cisplatin and was also able to
+kill cisplatin-resistant cancer cells.
+What makes this compound remark-
+able is its high stability in the dark
+(important for a photochemothera-
+peutic agent as this allows it to reach
+target sites before photoactivation) and
+unique mechanism of action, which
+enables it to kill cancer cells resistant
+to other drugs. Professor Peter Sadler
+said of their discovery: “Light activa-
+tion provides its massive toxic power
+and also allows treatment to be tar-
+geted much more accurately against
+cancer cells.”
+The compound has the potential for
+use in the treatment of surface cancers.
+Patients would be treated in a darkened
+environment with light directed at the
+cancer cells containing the compound,
+thus activating the compound and se-
+lectively killing those cells. Normal
+cells exposed to the compound would
+be protected by keeping the patient
+in darkness until the compound has
+passed out of the patient.
+Speaking to the Guardian, Josephine
+Querido, of Cancer Research UK, said:
+“Developing treatments that attack
+cancer cells but leave healthy tissue
+unharmed is the holy grail of cancer
+research.”
+Professor Martin Glennie, of South-
+ampton University, said the approach
+was promising, but was more cautious
+about its life-saving potential. “It is
+very rarely the primary cancer that kills
+you. Usually it’s the cancers that form
+after it spreads, because they get to the
+lungs, or the brain and everywhere else.
+It’s impossible to target those because
+often you don’t know where they are.”
+Nevertheless, although in the earliest
+stages of development, the research-
+ers are hopeful that in a few years their
+compound will offer a glimmer of hope
+to some cancer patients.
+In summary, in order to separate a
+pair of monopoles to infinity (a sce-
+nario in which each end of the string
+could certainly be considered locally
+as a monopole), one would require an
+infinite amount of energy. Since this is
+energy is not available, the energy cost
+of creating a string means it can only
+reach a finite length (about a thou-
+sandth of a millimetre in an ordinary
+magnet) – the monopoles at each end
+are “confined”.
+However, the authors, led by Clau-
+dio Castelnovo from Oxford’s Rudolf
+Peierls Centre for Theoretical Phys-
+ics, have shown that in certain types
+of spin-ice, it is theoretically possible
+to create dipole strings of any length
+– the energy cost does not diverge to
+infinity as the string is lengthened, so
+deconfined monopoles are possible.
+These spin-ice compounds, which
+contain the rare-earth elements Dys-
+prosium and Holmium (10 points to
+the reader who’s ever heard of these
+before) have a unique structure, which
+lead to a residual disorder in the di-
+poles at very low temperatures, where
+normal ferromagnetic materials are or-
+dered. This structure imposes an “ice
+rule”, governing the orientation of the
+dipoles at each vertex of the structure
+– 2 pairs of dipoles must point into
+the dipole, and 2 out. Local violations
+can occur (3 in at one vertex) provided
+they are balanced (by 3 out at a neigh-
+bouring vertex). These imbalances are
+not monopoles in the classical sense of
+fundamental particles with a net mag-
+netic charge, being instead examples of
+what is known as an emergent quasip-
+article – effective particles which arise
+due to the bulk interactions within
+elements of a system, and which act
+as if they were real particles. Notably,
+Castelnovo et al have shown that they
+exhibit a phase-change, going from a
+monopole gas to a liquid, behaviour
+which may explain the residual disor-
+der in spin ices at low temperatures.
+These spin ices exhibit many other
+interesting properties: amongst oth-
+ers, the monopoles have a tuneable
+magnetic charge, and are a rare exam-
+ple of what is known as “fractionalisa-
+tion” in 3 dimensions. Oleg Tcherny-
+shyov, reviewing the letter in the same
+Nature issue, notes that the only other
+example which comes close is the frac-
+tional quantum Hall effect, which is
+has only been confirmed in 2 dimen-
+sional systems. And these monopoles
+may turn out to be of practical interest
+too: Tchernyshyov notes that though
+spin ice will not be able to sustain a di-
+rect current of magnetic monopoles, it
+may be possible to generate an alter-
+nating magnetic current, and that if
+work progresses on directly detecting
+and manipulating monopoles, as Cas-
+telnovo et al. hope, technologies such
+as atomic-scale magnetic memories
+may be in the offing.
+Artificial spin ice, apparently. Looks a bit like that Easter Egg in the old version of Excel. Happy days...
+Competition Winners
+Congratulations to the winners of last term’s competition! Ben-
+jamin Lux, from Electrical Engineering, walked off with the 6-month
+New Scientist subscription, while Heather Jackson (Materials) and
+Jessica Lo (Maths) got some New Scientist books & USB sticks.
+Thanks to all others who took part. In case you were wondering,
+correct answers were: 1-B, 2-C, 3-A, 4-C, 5-A, 6-B, 7-A.
+Sally Leon
+Light: the last thing a cancer cell containing the new compound sees
+A shot in the dark? New light-activated anti-cancer compound offers more
+Δ Edmund Henley
+Science Editor
+GILBERTO
+MORANDO
+AND
+CRISTIANO
+NISOLI
+

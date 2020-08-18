@@ -1,0 +1,125 @@
+The Student Newspaper of Imperial College
+6 December 1999: Issue 1160
+Fibre failure threatens staff salaries
+GARETH M O R G A N
+A hardware failure on Wednesday
+24 November caused chaos with
+Imperial College's payroll. Part-
+time and casual staff were facing
+no pay when the finance comput-
+er system crashed.
+The payroll system runs on
+two computers: one in the Sher-
+field building and one in the Cen-
+tre for Computing Services in the
+Mechanical Engineering building.
+The system is designed to survive
+a fire or other disaster at either
+location. The two nodes are con-
+tinuously mirrored, and linked by
+fibre optic cable. The connectors
+to this cable failed, causing both
+computers to go down simulta-
+neously.
+The issue of a system failure if
+the cable failed had been raised
+when the system was installed,
+but the link was not backed up,
+due to the cost of installing a par-
+allel fibre optic cable. This is the
+first time since the system was
+installed that it has failed, but fur-
+ther failures may convince Col-
+lege to install a second cable.
+The system was offline for
+most of Wednesday and Thurs-
+day, but was recovered at around
+5.00pm Thursday evening, in
+time to print pay cheques on
+Thursday night, allowing the
+cheques to be distributed as nor-
+mal on Friday. The BACS
+(Bankers' Automatic Credit Sys-
+tem) direct credit payments to
+employees' bank accounts were
+delayed, however, with payment
+being credited on Monday 29
+November instead of the previous
+Friday.
+Among those affected were
+around 250 students who work
+part-time for the Union or for
+College as bar staff, demonstra-
+tors and others who are paid on a
+weekly basis. Other affected staff
+were cleaners and a few techni-
+cians, according to Malcolm
+Aldridge, Controller of Financial
+Services for the South Kensington
+campus.
+Mr Aldridge said that the inci-
+dent was "a tragedy" but com-
+mended the finance office staff,
+who had worked late on Thursday
+25 November to ensure that staff
+were paid as soon as was possi-
+ble.
+Guilds Union on trial over abandoned bathtub
+JIM G E A C H
+City and Guilds Union, in the form
+of their president, is facing discipli-
+nary action over events following the
+Field Cup. After the Rag event,
+numerous items including a bath-
+tub, a toilet, and a tree were left in
+the corner of Beit Quad. The action
+is being taken because of the mess
+left in the Quad, and, more impor-
+tantly, health and safety issues.
+An ICU source said that the
+Guilds Union was "in the process of
+having these removed" when,
+"before even deciding to give a for-
+mal warning", ICU President Tasha
+Newton ordered that the Guilds
+Union should be taken straight to a
+disciplinary. Contrarily, according to
+Ms Newton, the Guilds Union were
+regularly told to remove the items for
+Dinesh facing the wrath of ICU
+two months since the Field Cup took
+place at the end of Fresher's Week.
+After the items were still not
+removed, disciplinary action was
+decided to be taken. Despite this,
+our source insists that "Previously
+Photo:Archive
+there had been 2 verbal requests
+(not warnings) from the Deputy Pres-
+ident (Clubs & Societies)". Then, out
+of the blue, Ms Newton informed the
+Guilds President of her decision.
+Regarding health and safety,
+The ICU Source stated "this mess is
+actually no different to the rest of the
+state of the Quad" and went on to
+say that "if you look at the bottle bins
+next to the bike rails at the front of
+Beit, you will realise there are bigger
+Heath & Safety issues than a bath
+tub".
+Information from the Source
+suggests "the final 'real' decision to
+take CGCU to a disciplinary was
+raised in a 'behind closed doors'
+ICU Exec (where the Guilds Presi-
+dent was not present), by which time
+the tub and everything else had been
+removed".
+The ICU Source concludes "ICU
+has been abusing its disciplinary
+power - there are even rumours that
+there is a sweepstake being run of
+how many disciplinaries they in get
+in a week."
+

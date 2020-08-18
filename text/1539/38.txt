@@ -1,0 +1,196 @@
+TECHNOLOGY
+Technology Editor: Jason Parmar
+Maximilian Eggl
+technology.felix@imperial.ac.uk
+FRIDAY 08 FEBRUARY 39
+Love for Android Fragmentation
+ThebaneandboonofAndroid,theworld’sbiggestmobileecosystem
+The big F word in the Android world:
+fragmentation.
+This is the word that Android scep-
+tics and users both decry and hate. It
+is both the bane and boon of Android.
+When Google made Android open
+source, it created a whole new set of
+problems and opportunities for users.
+Android handset makers have cre-
+ated a whole plethora of devices, rang-
+ing from the low end to the highest
+end like the coveted Samsung Galaxy
+S3, for example. These devices across
+the whole range of price points have
+helped catapult Android to being the
+number one smartphone operating
+system worldwide. However it has
+also caused numerous problems,
+both for software developers
+and the handset manufactur-
+ers. Software developers ﬁnd
+it hard to develop for the
+huge range of devices and
+handset manufacturers
+have been notorious
+in their slow speed
+in the updating of
+Android phone’s
+software. Save for
+Nexus line of
+devices bless-
+ed by Goog-
+le, it is hard
+to ﬁnd any
+d e v i c e
+o u t
+there
+with
+the
+latest version of Android within a
+few months of its release by Google.
+This is because manufacturers tend
+to move on to their next product very
+quickly after they have released them,
+reducing their commercial interests in
+continual support for older devices.
+But Android is also open source.
+And the open source community has
+risen up to the challenge of updat-
+ing phones that have long since been
+abandoned by the manufacturers.
+Bring forth Cyanogenmod.
+Cyanogenmod is an “aftermarket
+ﬁrmware” for phones that is built en-
+tirely from the source code of Android
+released by Google. Cyanogenmod
+supports a whole range of devices. It
+is the saviour of users who are unable
+to upgrade t h e i r
+phones
+l o n g
+a b a n -
+doned by
+their manu-
+f a c t u r e r s ,
+and savour
+the latest ver-
+sion of the An-
+droid OS. It can
+literally bring a
+fresh breath of new
+life to their ailing
+phones. It is also an
+opportunity for users
+who dislike the skins and
+customisations that their
+phone manufacturers have slapped
+onto the phone to use something that
+has less bloat.
+Inspired by Cyanogenmod, many
+other developers have began their
+own projects that seek to bring more
+radical new features to Android. Pro-
+jects such as Paranoid Android bring
+about very innovative features like
+“pie control” and diﬀerent “modes”
+to the phones. Projects such as these
+have once again proven that open
+source projects can bring about highly
+innovative outcomes. The tenacity of
+developers in supporting many devic-
+es that have long been ditched by the
+commercial entities is probably one of
+the best outcome that can come out of
+Android being open source.
+It is hard to
+find any de-
+vice out there
+with the lat-
+est version of
+Android
+The dynam-
+ics between
+h a r d w a r e
+manufacturers
+creating too
+many devices
+and develop-
+ers making
+aftermarket
+ﬁrmware for
+phones create
+a very unique
+c o n s i d e r a -
+tion for buy-
+ers seeking to
+buy Android
+devices. One
+might ask “will
+my phone be
+widely sup-
+ported by
+d e v e l o p e r s
+so that I can
+have the best
+selection of
+aftermarket
+f i r m w a r e ? ”
+G e n e r a l l y ,
+phones in the
+Nexus series
+enjoy the most
+amount of de-
+veloper’s at-
+tention. while
+historically,
+phones by
+HTC have also
+been widely
+s u p p o r t e d .
+S a m s u n g ,
+however, is
+notorious for
+their lack of
+documenta-
+tion for the
+chips used in
+their phones.
+On the other
+end of the
+s p e c t r u m ,
+Sony has been
+tireless in en-
+c o u r a g i n g
+developers to
+develop for
+their devices
+by release
+source code,
+for example.
+It is an inter-
+esting consideration for phone buy-
+ers, possibly unique to Android at the
+moment. It can only be beneﬁcial to
+phone manufacturers if they support
+the developer community.
+Open source software has always
+played a massive role in the software
+community. The most popular kernel,
+Linux, is open source. When con-
+trasted to the extremely closed nature
+Yong Wen ChuaTechnology Writer
+Instant reply,YAY! No more awkward texts to the wrong people you never wanted to see
+of the iPhone, it is extremely easy to
+see how being open source has both
+harmed and beneﬁtted Android. I
+would argue that the beneﬁts that be-
+ing open source has brought Android
+greatly outweigh the problems of frag-
+mentation. Being open is the way for-
+ward, and it is with this great foresight
+that Google ﬁrst made Android open
+source from the get go.
+Techhead?
+Yes?
+Write for us:
+tech.felix@imperial.
+ac.uk
+

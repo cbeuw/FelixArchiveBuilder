@@ -1,0 +1,395 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 15
+06.10.2014
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+14 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+06.10.2014
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Learning in lectures whilst sleeping – a dream come true?
+UTSAV RADIA
+SCIENCE WRITER
+What you missed this summer in science
+This guy's balance is no match for his musical skills Photo: Tumblr
+James Bezer covers the latest research from Imperial and beyond
+As you put in your personal
+statement, ever since you were born,
+you’ve had a deep and passionate
+curiosity about the intriguing
+wonders of science. Why not put this
+to good use by writing for Felix?
+If you’re desperate to tell the world
+about your views on fracking, or a
+fascinating new discovery in algebraic
+topology, drop us an email and we’ll
+add you to our mailing list. We’re
+always looking for new contributors,
+and as you’re currently reading this,
+you’ve definitely shown more than
+enough enthusiasm to make you
+eligible to write for us.
+Here are a few pieces of new
+research to entertain you in the brief
+lull between joining tea society [surely
+you mean Felix membership? –ed] and
+engaging in some responsible binge
+drinking with your new best friends.
+A group at Cornell have once
+again confirmed our suspicions that
+quantum mechanics is really weird.
+In their paper, published in Nature,
+they showed how it’s possible to make
+an image of an object using light that
+had never been anywhere near it.
+They created pairs of entangled
+photons by passing a laser beam
+through a crystal, and sent one
+towards the object (a picture of a cat,
+in an homage to Erwin Schrödinger)
+and the other towards a detector.
+Because the properties of two
+entangled particles are intricately
+related, they could see what had
+happened to one by analysing the
+other.
+As the two sets of photons can
+have different wavelengths, this
+technique could be used to create
+images of delicate objects that would
+be damaged by conventional imaging
+techniques. Undetectable photons
+of very low energy could be passed
+through the object, while high energy
+ones hit the detector and actually
+generate the image.
+Experiments on mice conducted at
+Imperial have shown that inhaling
+Xenon gas could limit the extent of
+brain damage after a serious head
+injury.
+In the hours after a major impact,
+neurological damage continues to
+progress, with these secondary effects
+often causing more harm than the
+initial event. Unfortunately, there
+are currently no drugs available to
+prevent this.
+Injured mice treated with Xenon, a
+noble gas which also has anaesthetic
+properties, demonstrated fewer long
+term difficulties with movement and
+balance than those in the control
+group. The research builds on
+previous experiments that showed
+Xenon had beneficial effects on
+injured brain cells in the lab.
+The group’s findings, published in
+the journal Critical Care Research, may
+lead the way to future clinical trials in
+human patients.
+The 24th First Annual Ig Nobel
+prize ceremony was held in
+September to showcase research that
+“first makes you laugh, then makes
+you think”. Among the winners of
+the prestigious award (accompanied
+by 10 trillion Zimbabwean dollars in
+prize money) was a group of Czech
+scientists, who discovered that dogs
+prefer to align their bodies with the
+earth’s magnetic field, but only when
+they urinate and defecate. This is the
+first time that magnetic sensitivity
+has been confirmed in dogs.
+Other recipients include a group
+from the USA and India, who
+demonstrated that packing the
+nose with cured pork is an effective
+treatment for severe nosebleeds, and
+a team from Italy, who showed that
+looking at beautiful paintings can
+reduce a person’s experience of pain.
+The nutrition prize went to a
+group of Spanish researchers for
+their delightfully titled paper:
+“Characterization of Lactic Acid
+Bacteria Isolated from Infant
+Faeces as Potential Probiotic Starter
+Cultures for Fermented Sausages.”
+It seems that between the
+sensationalist science this summer
+Scientists at the University of
+Cambridge and the Ecole Normale
+Superieure Paris working on a joint
+research project have discovered
+a new phenomenon of the human
+brain: the ability to perform
+automated tasks even whilst the
+subject is unconscious.
+The study, led by Dr Sid Kouider
+and published in Current Biology,
+showed that subjects were able
+to classify words during sleep,
+suggesting the human brain may
+be more active than we previously
+thought during sleep. Scientists
+recorded the electroencephalogram
+(EEG) – a procedure that tracks
+and records the electrical activity
+of the brain as wave patterns – of
+the participants whilst awake and
+asked them to classify spoken words
+(e.g. Dog, Stamp) as either animals
+or objects by means of pressing
+a button (right hand for animals
+and left hand for objects). The
+procedure made it possible for the
+research team to compute lateralized
+response preparations (LRPs), which
+are a neural marker of response
+and preparation, by mapping each
+category of words to a specific part of
+activity in the brain.
+The participants were placed in
+an environment that would allow
+them to fall asleep (a dark room,
+in a reclining chair with their eyes
+closed) but at the same time ensured
+that they were engaged with the task
+(listening to repetitions of the same
+set of words with an interval of 6-9
+seconds between words). However, the
+set of words was changed during sleep
+to ensure whether the responses were
+based on the meaning of the word
+itself as opposed to reactivation of a
+stimulus-response association that
+may have been established when the
+participants were awake.
+On comparison, the EEG patterns
+computed whilst participants were
+completely motionless and unaware
+showed considerable similarity to
+when participants were awake. This
+highlighted that the same regions
+of the brain were active (albeit more
+slowly) when the study subjects were
+listening to a different set of words
+whilst asleep.
+Dr Sid Kouider, from Ecole
+Normale Superieure in Paris who
+led the study, mentioned how this
+study shows “the sleeping brain can
+be far more ‘active’... than one would
+imagine... [and] this explains some
+everyday life experiences such as our
+sensitivity to our name in our sleep,
+or to the... sound of our alarm clock,
+compared to equally loud but less
+relevant sounds”.
+However, he also added that (in his
+view) only tasks which can become
+automated may be maintained in
+sleep, others will stop as sleep takes
+over. So for now at least, it seems like
+a while before we’re cramming our
+lectures in our sleep the week before
+exams.
+Nevertheless, their research has
+paved the way for further studies
+into the processing capacities of the
+human brain during slumber.
+that you may have been fortunate
+to miss, there were some of these
+abstract but exciting endeavours. We
+cover all science stories from silly
+to serious, and if you want to give
+science writing a go, do get in touch
+with us!
+Imperial professor to lead Ebola vaccine trial
+Potective gear worn by those who are treating ebola patients Photo: UNICEF
+Cécile Borkhataria on the race to develop a drug for the deadly disease
+The current Ebola outbreak in West
+Africa, which began in March 2014,
+has afflicted Guinea, Sierra Leone,
+Liberia, Nigeria, and recently, Senegal.
+The death toll has now surpassed
+2800, with the total number of cases
+numbering 5864. The severity of this
+outbreak is unprecedented; the virus
+first surfaced in Congo in 1976, where
+only 318 cases were reported at the
+time.
+The outbreak has spurred on a great
+deal of aid efforts from international
+health care organisations, with the
+likes of Medecins Sans Frontieres
+setting up temporary health centres in
+the afflicted countries to safely treat
+Ebola patients.
+Currently, there is no known cure
+for Ebola. The virus, which exists in
+five strains, four of which can infect
+humans, is transmitted by exchange
+of bodily fluids, and it is thought
+that the practice of washing the dead
+in rural areas has contributed to the
+rapid spread of the disease.
+Patients are usually given
+supportive treatment, including
+balancing fluids and electrolytes,
+as well as procoagulants to prevent
+bleeding, and antibiotics to treat
+secondary bacterial infections.
+With the outbreak growing in
+severity, there has been a frenzy
+of efforts to develop a cure for
+the deadly disease. A number of
+pharmaceutical companies are
+developing vaccines for the virus,
+including promising candidates from
+Tekmira Pharmaceuticals, Canadian
+based NewLink Genetics and Inovio
+Pharmaceuticals.
+The most advanced vaccine
+candidate is arguably produced
+by Glaxo Smith Kline (GSK) and
+consists of a T-cell based chimpanzee
+adenovirus. GSK’s vaccine is the
+first to have started human clinical
+trials and it has already been shown
+to protect against the virus in
+chimpanzees. The vaccine has been
+tested on humans in the US and the
+UK, with the next arm of trials set to
+take place in Mali and the Gambia.
+The Wellcome Trust, the Medical
+Research Council and the UK
+Department for International
+Development has donated a £2.8
+million grant towards the efforts,
+which has allowed a team led by
+Professor Adrian Hill, Oxford
+University, to test the vaccine in the
+UK, and will help towards testing the
+vaccine in the Gambia.
+One of our very own, Professor
+Beate Kampmann from the
+Department of Paediatrics at Imperial
+College London, is set to run the
+Gambia arm of the trial. She is an
+expert in infection and immunity
+topics and has already had extensive
+experience running vaccination trials
+in the Gambia for polio, meningitis
+and other diseases.
+Said Professor Kampmann on
+the trial, ‘The big advantage of
+fast-tracking such an important
+development is that the funding
+becomes available more readily.”
+The trial will recruit 40 healthy
+volunteers in the Gambia. Professor
+Kampmann has said that testing the
+vaccine in West Africa is vital, as this
+will take into account differences
+between West African and European
+populations with respect to the safety
+Freshers’ Flu: the science behind the sniffles and snot
+LAUREN RATCLIFFE
+SECTION EDITOR
+Freshers’ Week for most is a time
+full of new experiences, stepping
+out of your usual comfort zone and
+meeting more new people than you
+could hope to remember. There are
+very few instances in your life that
+you will speak to as many strangers
+in such a short period of time,
+turning awkward conversations
+into friendships and introducing
+yourself so many times that you start
+to wonder who you are anymore. So
+with your luggage unpacked and the
+excitement building, you hold many
+expectations for the week to come.
+However, the anticipated roller-
+coaster adventure that is your first
+few weeks at University is also likely
+to bring with it Freshers’ Flu.
+You have probably heard it
+described as nothing more than a
+glorified hangover. Don’t be fooled.
+Freshers’ flu is real, and there is a
+90%chance you will get it. Despite
+its name, Freshers’ Flu is a blanket
+term to describe a bad cold rather
+than flu itself; symptoms range from
+person to person but usually include
+a beautiful mix of coughing, sneezing,
+headaches and a temperature.
+So what causes this onslaught of
+bed-ridden freshers? During the first
+few weeks of university you meet
+hundreds of new people from across
+the globe. As good as your immune
+system is, after being bombarded
+with such a vast collection of foreign
+invading pathogens, it is more than
+likely to encounter one you are not
+already immune to.
+On top of this, moving away from
+home and taking those first steps
+to independence alongside so many
+strangers can put a lot of stress on
+your body and mind. Not to mention
+the binge drinking, fast-food eating
+and general unruly behaviour!
+If you get struck down, my advice is
+to rest – this may be the last genuine
+excuse to miss a lecture, so enjoy it
+and let your body adjust to the new
+environment. Don’t feel you need
+to arm yourself with facemasks and
+an NBC suit, instead, if you feel
+unwell perhaps skip the partying and
+boogying for one night.
+A sore throat and headache are
+nothing you can’t handle after some
+fresh lemon and honey tea alongside
+a good night’s sleep. Vitamin C tablets
+also work a treat – Berocca tablets are
+my personal favourite cold-busting
+cure, and great for hangovers too!
+Don’t forget to register with Imperial
+Healthcare Centre and make a visit if
+you feel your symptoms persist.
+It’s common year on year for
+lecture halls and library study rooms
+alike to bear the ultimate burden of
+Freshers’ Flu: collective coughing.
+However you will find that as the
+term progresses, the noise will
+quieten down, the germs will stop
+spreading and you can proceed once
+more to hear your lecturer instead of
+the moans and groans of the invalids
+around you. Just beware for next year,
+when the new Freshers arrive!
+and efficacy of the vaccine.
+Professor Kampmann envisages
+that the Gambia trials will start in
+October, once her team has received
+regulatory approval. It is hoped that
+all trials can be finished by the end of
+this year. This ambitious timeline will
+depend on many factors, but some
+comfort can be taken in knowing that
+research efforts are well underway.
+Only time will tell if GSK’s promising
+vaccine will win the race in developing
+an Ebola vaccine.
+

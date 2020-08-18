@@ -1,0 +1,384 @@
+www.felixonline.co.uk
+Felix
+Thursday 2 December 2004
+4
+Science science.felix@ic.ac.uk
+“Who of us would not be glad
+to lift the veil behind which
+the future lies hidden; to cast
+a glance at the next advanc-
+es of our science and at the
+secrets of its development
+during future centuries?”
+Thus David Hilbert opened
+his address to the second
+International Congress of
+Mathematicians in Paris
+on 8 August 1900, before
+announcing his seminal list
+of 23 problems. Much of the
+mathematical research in the
+20th century has been influ-
+enced by this list of unsolved
+problems, as both successful
+and unsuccessful attempts
+at solutions have yielded a
+number of important discov-
+eries on the way.
+To commemorate the occa-
+sion and provide a suitable
+launch for mathematics into
+a new century and a new mil-
+lennium, one hundred years
+later, the newly-formed Clay
+Mathematics Institute (CMI)
+of Cambridge, MA, devised
+its own list of old nuts that
+have yet to be cracked and
+formally announced it at the
+Collège de France in Paris
+on 24 May 2000 in a lecture
+entitled “The Importance of
+Mathematics”. While to some
+the latter might sound like
+an obvious oxymoron, there
+are some circumstances sur-
+rounding this list of problems
+which indicate that this is not
+just mathematics for math-
+ematics’ sake.
+For one, the founder and
+sponsor of the CMI is not
+himself a mathematician, nor
+did he read maths at uni-
+versity. Landon T Clay is a
+Boston businessman who
+believes maths research is
+underfunded and would like
+to see a wider dissemination
+of mathematical knowledge.
+Then, there is also the attrac-
+tive price tag of $1,000,000
+attached to each of the seven
+problems to be won by the
+first person to demonstrate
+a correct solution. So if you
+thought maths couldn’t make
+you rich and famous, think
+again!
+The list of problems itself
+has been carefully selected to
+include not only the most dif-
+ficult ones, but also the ones
+whose solutions would have a
+relevance to areas of mathe-
+matics and the other scienc-
+es beyond the one in which
+the problem was originally
+for-mulated, hopefully lead-
+ing to further serendipitous
+discoveries en route. Thus,
+far from being formal exer-
+cises, the seven prize prob-
+lems are widely considered
+the most important problems
+in mathematics.
+In an extended feature, I
+propose to look at each of the
+seven so-called millennium
+problems in a non-special-
+ist manner and explain its
+significance, while conveying
+some of the excitement con-
+tained in the mathematical
+concepts behind it. The first
+problem we consider is the P
+vs NP problem, notorious for
+the plethora of false proofs it
+regularly attracts.
+P = NP?
+Despite a rather unassuming
+name, the P vs. NP prob-
+lem is, in a way, the problem
+of all problems. Originating
+in the field of computational
+complexity theory, it is essen-
+tially concerned with how
+easy it is to solve problems
+on a computer, or, put more
+cynically, whether computers
+will eventually replace math-
+ematicians. Indeed, were this
+problem to be solved in the
+affirmative, it is most likely
+that a computer could furnish
+the proofs to the remaining
+six millennium problems.
+So what do the symbols P
+and NP actually mean and
+why is their (in)equality so
+difficult to ascertain?
+P and NP are just two of
+the many classes in complex-
+ity theory used to distinguish
+between the difficulty of prob-
+lems. Generally speaking,
+problems that are in P are
+easy to solve, while problems
+in NP are difficult to solve, but
+significantly, given an answer
+to an NP problem, it is easy to
+verify whether it is indeed a
+solution. For example, many
+of the problems involved in
+data processing, such as sort-
+ing information or searching
+and re-trieving, are instances
+of P-type problems. Formally,
+P stands for polynomial time,
+which means that the number
+of steps required to obtain a
+solution can be expressed as
+a polynomial in the length of
+the input.
+On the other hand, there
+are data-processing prob-
+lems that are not so easy.
+Consider, for instance, the
+‘floppy-disk-packing’ problem
+which asks whether, given a
+number of floppy disks and
+a number of computer files,
+it is possible to copy all the
+files to the floppy disks. For
+small numbers of disks and
+files, it is straightforward
+to give an answer: you just
+go through all the possible
+combinations. However, if
+large numbers are involved,
+it quickly becomes very diffi-
+cult to solve: the possibilities
+are simply too many. At the
+same time, given a particu-
+lar answer, you can reason-
+ably easily check whether it
+is indeed a correct answer.
+This is an example of an NP-
+type problem. Formally, NP
+stands for non-deterministic
+polynomial time and includes
+the problems whose answers
+can be checked in polynomial
+time, given the right informa-
+tion.
+However, the ‘floppy-disk
+packing’ problem is not just
+any NP problem. It is in fact
+an NP-complete problem,
+which means that all other
+NP problems can be reduced
+to it. This includes some inter-
+esting examples, such as the
+problem of prime factorisa-
+tion, which is in NP but is not
+known to be NP-complete.
+Before you get too excited,
+let me point out that there
+are actually quite a few NP-
+complete problems, so there
+is nothing special about our
+floppy disk example. In fact,
+there are a number of popu-
+lar games that can be formu-
+lated as NP-complete prob-
+lems, among them checkers,
+crossword puzzle generation,
+and even Minesweeper!
+Let us recall the actual
+problem: is P equal to NP?
+In other words, if the solu-
+tions to a problem are easy to
+verify, is it possible that the
+answers can be easy to com-
+pute as well? It turns out that
+this is a very difficult ques-
+tion to answer either way.
+Whether one is trying to
+prove or disprove the above
+proposition, the class of NP-
+complete problems turns out
+to be crucial. For, if trying
+to prove P=NP
+, it would suf-
+fice to show that there is a
+method which can be used to
+solve one of the NP-complete
+problems in polynomial time
+(remember, an NP-complete
+problem is such that all other
+NP problems can be reduced
+to it). Conversely, if trying
+to disprove P=NP
+, it would
+suffice to demonstrate that
+a certain NP-complete prob-
+lem is not solvable in polyno-
+mial time (one way to do this
+would be by showing that the
+least time the problem could
+be solved in is super-polyno-
+mial).
+Although this may sound
+like a fairly abstract prob-
+lem, an affirmative proof
+would have potentially stun-
+ning practical consequences.
+Hundreds of NP-complete
+problems are known, many
+of them related to schedul-
+ing and routing problems
+with industrial importance.
+For example, there is a prob-
+lem concerning the fitting
+of oddly shaped items into
+a knapsack, which is closely
+associated with the question
+of placing components on a
+circuit board, while the prob-
+lem of constructing a work-
+ing timetable for a school so
+that teachers and students
+are never in two places at the
+same time is similar to the
+problem of placing pilots in
+an airline.
+Perhaps more importantly,
+however, there is the prob-
+lem of factorising large num-
+bers, which lies at the heart
+of modern cryptography.
+The codes routinely used to
+secure worldwide financial
+transactions are complexity-
+theory based and, in particu-
+lar, the proof of their secu-
+rity assumes P is not equal
+to NP
+. Were it to be proven
+that P does equal NP
+, current
+ciphers could become obso-
+lete overnight.
+Despite such potentially
+destructive consequences,
+there are some of a more
+positive nature. For exam-
+ple, as mentioned earlier, an
+affirmative solution to the
+problem will allow a compu-
+ter to find a formal proof to
+any mathematical theorem,
+provided it has a proof of rea-
+sonable length. More strik-
+ingly, it is thought that this
+may be applied to other areas
+of creative human endeav-
+our, such as designing planes,
+creating physical theories or
+even composing music, as in
+each case what is ultimately
+required is an efficient meth-
+od for recognising a good
+result. Finding such meth-
+ods is one of the fundamental
+problems in artificial intel-
+ligence, whose resolution
+would be aided by a proof of
+the P vs NP question.
+With such momentous
+implications, it is unsurpris-
+ing that many people are
+interested in finding a solu-
+tion to this particular mil-
+lennium problem. Indeed, an
+astonishing number of papers
+are regularly published pur-
+porting to have found a proof.
+However, ever since the prob-
+lem was initially formulated
+in the 1970s, there has been
+no success, whatever the line
+of attack. This has prompted
+speculations that the prob-
+lem may be unsolvable after
+all and, in particular, Gödel’s
+incompleteness theorem has
+been invoked. In other words,
+it has been suggested that
+under our current mathemat-
+ical framework of assump-
+tions it is not possible to
+prove whether P = NP
+. Some
+have accordingly proposed
+that ‘P not equal to NP’ (for
+that is what most complex-
+ity theorists believe to be the
+case) be established as a new
+assumption.
+Over time, the fact that a
+proof definitively settling the
+question one way or the other
+has failed to materialise, has
+lent a somewhat metaphysi-
+cal aura to the problem. In
+complexity theory circles,
+whether P equals NP has
+become a matter of belief
+rather than a matter of estab-
+lished fact. When and if the
+problem is finally resolved
+(and there is little indication
+of this happening in the fore-
+seeable future), it is bound to
+affect the way we do science.
+Perhaps the picture is not
+so gloomy though: remember,
+all you have to do to solve the
+problem and win the prize is
+solve the equivalent NP-com-
+plete Minesweeper problem,
+which boils down to demon-
+strating an efficient algorithm
+for playing Minesweeper per-
+fectly (without unnecessary
+guesses)!
+Why do the unsolved problems of maths matter?
+In the first of a series of articles, Alex Antonov considers the significance of the toughest problems
+in mathematics. The P=NP problem is one of the most important of these
+“...there is also the
+attractive price tag of
+$1,000,000 attached
+to each of the seven
+problems...”
+“...an affirmative
+proof would have
+potentially stunning
+consequences”
+“Indeed were this
+problem to be solved it
+is most likely to
+furnish the proofs to
+the remaining six
+millennium problems”
+Minesweeper: we’ve all played it, but did you know that it can be formulated as an NP
+complete problem, the solution of which would have widespread ramifications?
+“...this has prompted
+speculation that the
+problem may be unsolv-
+able, and in particular,
+Godel’s incomplete-
+ness theorem has been
+invoked”
+

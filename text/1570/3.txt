@@ -1,0 +1,244 @@
+3
+FRIDAY 28 FEB
+NEWS
+Editors: Nida
+Mahmud, Maciej
+Matuszewski, Aamna
+Mohdin, Aemun Reza
+news.felix@imperial.ac.uk
+FreshHairdressers
+Sponsored Editorial
+Student Discounts At
+T
+he Imperial College
+Healthcare Trust, which
+runs five London hospitals
+including St Mary’s
+and Charing Cross. has
+announced the appointment of a
+new Chief Executive. High profile
+Australian healthcare administrator
+Dr Tracey Batten will take up
+the position at the start of April.
+This follows the resignation last
+October of Mark Davies, who was
+widely credited with making large
+improvements to the Trust’s financial
+situation. The post of interim Chief
+Executive has since been jointly held
+by former medical director Professor
+Nick Cheshire and former chief
+financial officer Bill Shields.
+Dr Batten attained a medical
+doctorate from the University
+of Melbourne. She practiced
+medicine at both the Aberdeen
+Royal Infirmary and Bart’s Hospital
+London. She later gained Master’s
+degrees in Healthcare Management
+and Business Administration from
+the University of New South Wales
+and Harvard. She has extensive
+experience of running large medical
+organisations –having been head
+of dental services in the Australian
+state of Victoria, later moving on
+to run the Eastern Health group
+of hospitals. Her latest position
+was Chief Executive of St Vincent’s
+Health Australia. With some 16,000
+staff and a budget of £1 billion, it is
+the largest non-for-profit healthcare
+and research organisation in the
+country. A recent survey showed
+that, during her tenure, over two
+thirds of St Vincent’s staff agreed that
+it was “a truly great place to work”.
+Sir Richard Sykes, chairman of
+the Trust, said that the Trust had
+“conducted an exhaustive, global
+search for our new chief executive”
+and that he was confident that it
+had “found the kind of aspirational
+and inspirational leader we were
+looking for”. He praised Br Batten
+abilities, saying: “She has a strong
+record of clinical and managerial
+leadership and the organisational
+transformation she achieved at St
+Vincent’s Health was particularly
+impressive. I have always felt that
+Maciej Matuszewski
+News Editor
+Imperial Healthcare NHS Trust
+appoints new chief executive
+clinicians should be closely involved
+in the management and leadership
+of NHS Trusts but the best clinical
+leadership comes from those with
+both clinical and managerial skills
+and experience. Tracey Batten is
+such a leader.”
+This was a view shared by Professor
+Dermot Kelleher, Dean of the Faculty
+of Medicine at Imperial College
+London, who said that he believed
+that “Tracey Batten will bring an
+outstanding record of professional
+achievement, exceptional leadership
+skills and new perspectives to this
+crucial job”.
+Dr Batten will lead the Trust at a
+time of change as it completes its
+application to become a Foundation
+Trust. This will give it autonomy
+from the Department of Health,
+giving members of the Trust greater
+freedom in determining its policy.
+Dr Batten indicated that she was up
+to the new job, saying: “The prospect
+of leading one of England’s largest
+and most prestigious NHS Trusts
+is both an honour and an exciting
+challenge. I hope to bring fresh
+ideas from another public health
+system and to help Imperial College
+Healthcare NHS Trust complete its
+journey towards Foundation Trust
+status. I am deeply committed to
+ensuring not only the very best
+clinical outcomes for patients but
+that their wider experience of the
+healthcare system is the very best
+too. I look forward to meeting
+my new colleagues and our many
+patients in the near future.”
+“[Dr Batten]
+has a strong
+record of clinical
+and mangerial
+leadership and
+the organisational
+transformation
+she achieved at St
+Vincent’s Health
+was ... impressive.”
+J
+ohn Downey, 62, was
+a main suspect for the
+murder of four soldiers by
+the IRA (Provisional Irish
+Republican Army) and has
+now been let free due to a police error
+that gave him effective immunity.
+The Hyde Park and Regent Park
+bombings occurred in 1982 and
+resulted in the deaths of 11 military
+personnel, four in Hyde Park and
+seven in Regent’s Park. John Downey
+had been wanted for over 30 years and
+was finally arrested at Gatwick Airport
+in May of last year for his apparent
+role in the Hyde Park bombings.
+However, it was found that John
+Downey would not be prosecuted
+after it emerged that he was given
+a ‘letter of assurance’ that gave him
+effective immunity from prosecution.
+This was one of 187 letters send out by
+the Government in 2007 as part of a
+deal struck for the Northern Ireland
+peace settlement.
+These letters were given to ‘on the
+run’ IRA suspects who had fled abroad
+and wanted to return to Northern
+Ireland and was wrongly sent to Mr
+Downey because of a ‘catastrophic
+failure’ by the police who failed to
+notice a warrant for his arrest was still
+outstanding for the bombings.
+Although this letter was discovered
+six years ago, the police continued
+with the prosecution and now the
+collapse of the case means that it is
+highly unlikely that anyone will be
+prosecuted over the bombings. Mr
+Justice Sweeny threw out the case
+after ruling that the letter of assurance
+still stood even though it was sent to
+the wrong person.
+Relatives of the murdered soldiers
+said they were ‘devastatingly let
+down’ and placed blame on the Police
+Service of Northern Ireland, who
+knew that Mr Downey was wanted
+over the Hyde Park bomb but did not
+notify the authorities.
+Peter Robinson, the Northern
+Ireland First Minister, said Mr
+Downey had been handed “a get out
+of jail free card” and urged an appeal
+against the decision.
+Key IRA suspect of the Hyde Park
+bombings walks free on a police
+‘blunder’
+Aemun Reza
+News Editor
+GPU using WebGL and is done mainly
+on the user’s computer. We also have
+a server written in Go on Google App
+Engine that caches requests to the
+various services we used (TFL, Yelp),
+so that we don’t produce too much
+traffic. Static information (such as
+crime data) was precomputed and
+downloaded for the whole of London,
+which took surprisingly little space.”
+The LivMap app is available at
+http://livmap.appspot.com although
+it might not work on at a reasonable
+speed on all computers.
+Students from St. Andrews’ took
+second place with ‘Streamy’, a
+crowdsourced journalism website
+tgat allows users to broadcast current
+events to viewers through their
+browser.
+Third place went to another team
+of Imperial computing students
+including: James Carr, Ben Chin,
+Ainsley Escorce-Jones, the creators
+of GitSquad. The concept of
+GitSquad is a portal that bridges
+the gap between learning how to
+... continued from page 1
+livmap.appspot.com
+program and contributing to open
+source projects. The web application
+provides an environment where
+experienced developers can interact
+with newcomers to the programming
+community.
+GitSquad was created with the
+python based Django framework,
+using a Redis database, the Celery
+messaging queue with a Redis broker
+and the online Pusher messaging
+service.
+The ‘Pebble’ prize was won by
+the ‘ReachHome’ team from King’s
+College London who created an
+app for the Pebble smart watch that
+informs the user of the exact time
+they will be expected to walk through
+their front door, based on live public
+transport data.
+The event was judged by a panel of
+experts from Codecademy (an online
+learning platform for programming),
+Facebook, Tech City, Student
+Upstarts, Index Ventures and Steer.
+me and organised by students from
+King’s to promote the importance of
+technology and software.
+

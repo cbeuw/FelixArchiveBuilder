@@ -1,0 +1,526 @@
+sudoku.felix@imperial.ac.uk Fun & Games
+The winner of Slitherlink 1,405 was
+Hringur Gretarsson yet again! Hold
+on, that’s actually not true. No one
+actually entered this week! Please
+enter. My life isn’t worth living oth-
+erwise. We’ll give a prize out in the
+summer.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+Slitherlink 1,406
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,405 solution
+3
+0
+x
+x
+x
+x
+1
+3
+2
+1
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“ Can whoever finds it funny to
+draw penis’ in the girls library
+toilets get a life! Plus I’m sure yours
+aren’t that big!”
+“‘Slagology: The study of the widely
+misrepresented culture of sexual
+and pseudo-sexual transgression
+within the modern western civilisa-
+tions’ by V. Sri... the official story
+on the sexploits and mishaps of the
+world’s most unlikely womaniser...
+“Lol i shared a bed wiv 2 girls last
+night. Now im bak in tolworth
+waitin 4 community service. Lol.
+Life...
+”
+“So... like, hey boss, how goes it. I’m
+doin plnty of work here. Not just
+textin into my favourite service for
+free sex acts... honest”
+Wordoku 1,406
+T
+B
+R
+A
+Y
+N
+I
+L
+H
+N
+L
+I
+B
+H
+T
+Y
+A
+R
+H
+Y
+A
+L
+R
+I
+T
+B
+N
+B
+H
+L
+I
+T
+R
+N
+Y
+A
+I
+A
+T
+N
+B
+Y
+H
+R
+L
+Y
+R
+N
+H
+L
+A
+B
+I
+T
+L
+T
+H
+Y
+A
+B
+R
+N
+I
+A
+N
+Y
+R
+I
+H
+L
+T
+B
+R
+I
+B
+T
+N
+L
+A
+H
+Y
+1,405 Solution
+S
+G
+E
+B
+O
+M
+E
+S
+O
+S
+G
+A
+B
+N
+B
+N
+G
+N
+E
+A
+N
+M
+E
+N
+M
+O
+G
+E
+A
+S
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters. Once you’ve completed
+the puzzle, there is a hidden word
+to find. Email answers to sudoku.
+felix@imperial.ac.uk.
+The winner of Wordoku 1,405
+was Dave Man. Congratulations!
+The hidden word was:
+LABYRINTH. Keep those entries
+coming in.
+2 3
+2 3
+2
+3
+1
+2 1
+2
+2
+2
+3
+2
+1
+3 3
+3 2 2
+1
+2
+3
+2
+3 3 3
+2
+2
+2
+2 2
+2
+1
+2
+2
+1
+3
+1
+1
+3
+1
+2
+29
+Friday 6 June 2008 felix
+1
+2
+2
+2
+1
+2 3
+0
+2 2
+0 3
+1
+2
+3
+2
+3
+2
+2 3
+1 2
+1
+1
+3 1
+3
+3
+0
+2
+2
+3
+3 2 2
+2
+2 1
+3
+2
+2
+1 1 2 2 3 3 4 4 5 6 5 6
+7 8
+9 9 10
+10 11
+11
+12 13
+13 14 14 16
+15 16 17 18
+18 19 20
+20 21 22 23
+21 22 24 24
+25 26
+26 27
+27 28
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,406
+C
+A
+L
+P
+E
+L
+E
+L
+L
+W
+P
+W
+O
+A
+N
+E
+I
+E
+E
+D
+H
+I
+D
+E
+A
+L
+S
+T
+E
+A
+D
+O
+R
+N
+S
+A
+T
+P
+H
+I
+V
+T
+U
+O
+A
+F
+T
+E
+R
+M
+A
+E
+E
+A
+R
+T
+L
+R
+I
+Y
+G
+L
+A
+N
+E
+T
+E
+C
+O
+U
+P
+H
+A
+L
+T
+E
+L
+O
+P
+O
+C
+P
+S
+U
+P
+A
+D
+D
+S
+C
+L
+U
+K
+E
+W
+A
+R
+A
+M
+H
+T
+M
+U
+B
+I
+A
+E
+A
+G
+B
+R
+O
+M
+O
+R
+O
+N
+T
+D
+C
+E
+V
+I
+T
+N
+O
+N
+D
+R
+A
+J
+N
+R
+C
+E
+B
+U
+L
+L
+E
+T
+D
+O
+C
+H
+R
+S
+N
+E
+F
+O
+S
+M
+N
+E
+E
+H
+E
+A
+D
+E
+R
+R
+E
+A
+S
+E
+R R S C H E E R L E A D E R M
+E S
+Solution to Crossword 1,405
+F A R T H I N G E C L I N I C
+O P O T T E A M E O I N N
+S
+O
+I
+2 2
+ACROSS
+7 Tears through fabric prices (9)
+8 English rugby goal makes an
+appearance (5)
+10 Superlatively vulgar coat of arms
+contains donkey (8)
+11 X (6)
+12 Tie not the way it sounds (4)
+13 Doorway delight (8)
+15 Initial word? (7)
+17 Invention permits father to camp
+on spithead (7)
+20 Beach sport expert sinks first, then
+rises to the top (8)
+22 Southern bum cheek (4)
+25 Prevents development of acrobatic
+manoeuvres (6)
+26 Religious leaders have an ultimate
+drive to practice (8)
+27 Make hints back and forth (5)
+28 Interestingly sly, albeit like an
+animal (9)
+DOWN
+1 Frame a learned man in church (5)
+2 Subject a child to logical thought
+(6)
+3 Records attempt to make a woven
+cloth (8)
+4 Gods tied up atheist’s perverted
+soul (7)
+5 Grow without difficulty after
+incredible start (8)
+6 Try sweet after releasing spore (9)
+9 Sweet and sour? (4)
+14 Excused for giving up whilst having
+performed (9)
+16 Crimes of middle-men (6)
+18 Tease the demented art lover (8)
+19 Confused prude follows us to
+seized throne (7)
+21 1/sect (4)
+23 Hush before a man reveals himself
+to be a witch doctor (6)
+24 Song title in hand for church hymn
+(5)
+Official congratulations to Alexander
+Mettrick, and unofficial congratula-
+tions to the various Felix members of
+staff who came up with the right an-
+swers. If the Sports Editor can do it,
+people, so can you.
+Good luck this week; a busy schedule
+means that some of the clues may be
+a little looser than I would otherwise
+prefer. Enjoy.
+Enoch
+

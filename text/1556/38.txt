@@ -1,0 +1,222 @@
+38 FRIDAY 18 OCT
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+NSA: Peeling the skin off TOR
+Osama Awara
+Technology Editor
+The NSA known for its privacy
+breaching of internet users across
+the globe has been found ‘peeling’
+the encryption that Tor provides
+for its users’ information sent
+online, in order to gain access to
+sensitive information. Tor is a piece
+of software, ironically funded by the
+US government, which enables the
+anonymity of its users surﬁng the
+web, posting on forums and general
+internet communication; a great way
+to aid journalists or even the average
+person in countries that prohibit
+certain sites and topics of discussion.
+The methods the NSA has indulged
+itself in, in order to circumvent a
+variety of NET encryptions, are
+arguably controversial. Hacking
+into private companies in order
+to steal their server’s encryptions
+is one example. Another as stated
+by the New York Times involves
+collaborating with tech companies
+to build in backdoors in computing
+systems and covertly introducing
+weaknesses in encryption standards.
+Get rich quick, Youtube style!
+Layer by layer, the controversy surrounding the NSA increases!
+All of you spend a signiﬁcant amount
+of your life on YouTube, be it watching
+handy tutorial videos, lets-plays,
+music videos and/or videos of cute-
+ass kittens (the last being the most
+time intensive). However have you
+ever wondered why some of these
+Youtubers, more often than not just
+average Joe’s, actually do it? Yes of
+course they are all kind, considerate
+people who really just want to
+entertain you, but apart from that
+have you ever thought, what’s in it for
+them? Cash. Cold, hard cash. YouTube
+makes money from ads, and so that
+they encourage more clicks/views,
+they need to share some of the loot.
+Now I know exactly what you are
+thinking. You are sitting there reading
+this, munching on your sandwhich/
+homemade pasta, wanting some of
+that glorious dough. Well in fact that
+is not hard as long as you follow this
+absolutely patented fail safe acme
+cashtube plan!
+Firstly, make yourself an account.
+Without an account you will not be
+able to upload any videos, get on to
+that. Now think of a creative name
+that will stick in peoples minds as
+well as perhaps describing what
+you do. Therefore don’t call yourself
+Ramalama-dingdong unless you plan
+to talk about bells or report on the
+Dalai Lama.
+Next you will need to come up with
+original content. Trust me the people
+who repost other peoples content
+will never get to the upper echelons
+of youtube aristocracy. Think of
+something that no one has done
+before. It can be funny (usually the
+best), serious or something
+totally weird. It doesn’t really matter,
+as long as its new and you are good
+at it! However if you do not have any
+ideas, usually putting up videos of
+your kittens or puppies doing cute
+stuﬀ is a good start. If you do not own
+any pet, you can always try remixing
+nyan cat!
+Once you have a certain amount of
+subscribers (500) is a good number,
+and are churning out good content
+on a weekly basis, you should start
+thinking about becoming a youtube
+partner. With this program the money
+can start rolling in. Depending on your
+popularity and/or viewing numbers
+(which are usually very closely related)
+it. The NSA justiﬁed its actions by
+claiming that it only targets criminals
+such as terrorists and human
+traﬃckers. It is without a doubt that
+certain shady individuals may use
+Tor or other such online utilities, but
+claiming that the NSA ‘….collects
+only those communications that it
+is authorized by law to collect for
+valid foreign intelligence,’ as they
+said in a statement to the Guardian,
+has been proven to be untrue.
+It’s common knowledge now that
+the NSA spies on individuals and
+organizations that have nothing to do
+with crime. Take Brazilian Oil Giant
+Petrobras as an example; they’ve
+you can get anywhere between $2.5 to
+$7 per 1,000 views. While this does
+not sound like much, it can certainly
+add up.
+So wow, now you are a up and
+coming youtube celebrity. The cash
+ain’t the only beneﬁt that will come
+your way. If you are a gamer, you may
+get free games etc., if you do comedy,
+you may get oﬀered a movie role (niga
+higa) or if you sing....oh wait, thats
+Justin Bieber. Actually please don’t
+sing.
+However on a serious note, more
+than being interested in making
+This all may seem like a far-fetched
+conspiracy theory but as more and
+more revelations on the NSA’s privacy
+breaching activities comes to surface,
+it seems they would do anything to
+get their hands on sensitive material.
+Tor, formally known as ‘The Onion
+Router’, works by layering signals
+sent online with encryption, these
+‘coated’ signals are then sent through
+a random path through a network
+of routers which in turn, each peel
+oﬀ a layer of encryption until the
+signal has reached its destination.
+This method prevents any one of the
+routers from having access to all the
+encryptions at once hence the signal
+can’t be tracked back to its original
+sender. Unfortunately for the NSA
+this method of ‘anonymisation’ has
+foxed their hackers as they stated
+themselves through documents
+leaked by Edward Snowden, ‘…de-
+anonymize a very small fraction of
+users.’ In a way this is great for a Tor
+developer, personally if I was one of
+them I’d have a big grin on my face.
+When it comes to tackling Tor, the
+NSA has no reservations, from
+utilizing ﬂaws in one of the Mozilla
+Firefox versions to directing user
+traﬃc to their NSA operated servers
+in order to degrade the service to
+reduce the number of people using
+The News Bubble
+Maximilian Eggl
+Yong Wen Chua
+Osama Awara
+Technology Editors
+General news from around the tech world, so you can keep up to
+datewith thenewest,wierdestandmostfuturisticthingsaround
+Maybe color ainʼt so good after all
+Snaphack, saving one pic at a time
+If you are a fan of the photo messaging app you should be slightly
+concerned. The advantage of using snapchat is that your innocent photos
+and videos (or maybe not so innocent ;-)) are deleted within a set time
+after being viewed. However with the release of Snaphack this deletion
+process can be stopped without the knowledge of the sender. This app,
+currently available in the apple App store. Should worry all those of you
+who are sending pictures that they actually want deleted!
+Apple’s iPhone 5C, the colourful variant of their new generation has not
+sold as well as their more expensive featured ﬁlled brother the 5S. In fact
+some statistics suggest that the plastic phone is being outsold almost 2 to
+1. This has lead Apple to cut orders of their slightly cheaper model. The
+fact that the 5C does not really oﬀer any diﬀerence apart from the exterior
+to the 5, may explain this disappointing trend in sales.
+Maximilian Eggl
+Technology Editor
+recently invested in $9.5 Billion for
+security alone after their experience
+with NSA’s cyber-espionage.
+In a statement by a representative
+of the EFF (Electronic Frontier
+Foundation) and previously a funder
+of the Tor product, Cindy John says,
+‘Of course the government should
+get to go after bad guys, but they
+shouldn’t be able to break the security
+and trust promises of the internet
+to do that.’ Indeed the US and any
+other country for that matter should
+have the right to defend itself from
+cyber-attacks or malicious users of
+the web, however the methods used
+should at the very least be regulated.
+money (where you could just go into
+banking like most imperialites do),
+youtube is a platform to put yourself
+out there and give you the chance to
+earn a living with what you really love
+to do. While this may be a very hard
+thing to do for us socially impaired
+students, once you have gotten over
+the trolls and jerks that the internet
+seems to spawn en masse, it can be an
+extremely positive experience.
+Now I am oﬀ to repost that totally
+hilarious college humour video on my
+totally successful youtube channel,
+Peace out!
+

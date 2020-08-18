@@ -1,0 +1,205 @@
+FELIX 9
+SCIENCE
+Friday 17 june 2011
+Earlier this year, the Collider Detector
+at Fermilab (CDF) collaboration tenta-
+tively put forward new results suggest-
+ing that they had observed a new, un-
+predicted particle. A month later they
+published more results that seemed to
+reinforce the earlier data. But last week
+the DZero collaboration, also at Fermi-
+lab, announced that they had tried to
+find the same particle – and failed.
+DZero and CDF each have their own
+detector at Tevatron, a proton-antipro-
+ton collider at Fermilab in Batavia,
+Illinois. The detectors are physically
+different, so data collection and analy-
+sis for each happens separately, giving
+independent results.
+The events of interest in this case oc-
+cur when a proton and antiproton col-
+lide and produce a W boson – a type
+of force particle that mediates weak
+interactions between fundamental
+particles and two jets of other parti-
+cles. The rate at which this interaction
+should occur can be calculated using
+the standard model of particle physics.
+When the CDF looked at the data from
+a bunch of events they found that the
+rate at which a W boson was produced
+with two jets was higher than predicted
+by the standard model. This created a
+bump in the energy distribution of the
+two jets.
+One way to explain this bump is
+that a particle, with a mass that corre-
+sponds to the energy of the bump, was
+created during the collisions. But no
+known particle has the correct mass,
+so the bump seemed to indicate that
+a new, unpredicted particle had been
+found. The statistical significance of
+the result was just below that needed
+to claim a genuine discovery.
+However, when the DZero collabo-
+ration tried to replicate the CDF’s re-
+sults they saw no bump, meaning no
+extra events and no new particles.
+DZero has submitted a paper to the
+journal Physical Review Letters de-
+tailing its findings, and the group held
+a seminar last Friday to announce the
+result before publishing a preprint of
+the paper online.
+Since the DZero and CDF experi-
+ments were set up they have published
+around 500 papers between them
+and have only disagreed a handful of
+times. This time, the odds seemed to
+Collaborations clash at Tevatron
+Kelly Oakes
+Protons and anti-protons are collided in the Tevatron collider at Fermilab
+L
+ike recovering alcoholics
+everywhere, Britain has
+woken up to the declara-
+tion of droughts in sev-
+eral parts of the Kingdom.
+Queendom. Whatever it is – it is dry.
+It is also the first half of June after a
+stinking cold winter. It is tempting to
+strike up something British and indig-
+nant about why the weather is what it
+is and how exacerbating, inexplicable or
+inconvenient it is. Although British, I
+am also a scientist and am going to take
+that perspective.
+Suspiciously, or perhaps not, cli-
+mate change scientists have yet to be
+questioned publically about this. This
+might seem reasonable in some con-
+texts: questioning them as though they
+are any more responsible for climate
+change than the rest of us is unreason-
+able. So far water companies and the
+Department for the Environment have
+been bullied about it on the BBC’s To-
+day programme, but that is only really
+about short-term measures for human
+water consumption. What about the
+more serious long-term aspects?
+The IPCC and others have published
+data suggesting that the changes to our
+atmosphere will result in an increase in
+the average temperature of the Earth.
+Why does it always rain on me?
+This makes sense given what we know
+about the physical behaviour of meth-
+ane and carbon dioxide. Although the
+mean temperature is predicted too im-
+perceptibly to the average person (0.5
+°C), there will be a decrease in cold
+weather and an increase in the number
+of hot periods. This is mathematically
+rational too. However, we were told that
+Britain’s climate would become warmer
+and wetter. Of course, warmer makes
+sense but that hardly reconciles with the
+fact that we’ve just had the coldest win-
+ter in years.
+The wetter climate is also ponder-
+able. How is this so? We have flood-
+ing in parts of the country that have not
+seen such weather conditions before,
+but how often these places have wit-
+nessed flooding throughout their entire
+history is not clear. It is slightly hard to
+work out what this means. First, me-
+teorologists seem to tout the idea that
+how wet something is is entirely de-
+termined by how often water is poured
+onto it by natural means. This means
+that places like Antarctica (made of
+ice – for the time being anyway) and
+the Atacama desert next to the Pacific
+Ocean are amongst the driest on the
+planet. So, does wetter mean wetter or
+watered?
+We are in drought before spring is
+even (legally) over – that rather rails
+against wetness, either by being poured
+on or by being wet.
+I do not doubt that the climate is
+changing – it is a certainty even based
+on the chemistry alone. But are we los-
+ing sight of it all just a bit? Apart from
+a 0.5 °C increase in temperature which
+is common knowledge, the glaciologi-
+cal definition of ‘ice age’ means we are
+in the middle of one at the moment. We
+are also in the middle of a mass-extinc-
+tion event. In Earth’s history the oceans
+have been filled with water-soluble iron
+oxides and there have been tropical for-
+ests at the poles.
+So how seriously do we take this? It
+is a crying shame that the blue whale,
+the largest animal ever to have lived
+on the Earth, will be extinct in the next
+couple of thousand years because whal-
+ing has reduced numbers and thus the
+genetic diversity to 1% of what it was
+even 500 years ago. The opposite point
+is that evolution cannot stand still. Like
+language, politics and even reality tel-
+evision, it has to change and move. The
+loss of amazing and boring species alike
+makes room for new ones. It is sad that
+the dinosaurs disappeared, but without
+that happening, there would have been
+no room for the blue whale or us, come
+to that.
+be stacked against the CDF – the Large
+Hadron Collider (LHC) at CERN also
+checked its data to see if any particle
+shows up with the mass expected, but
+found nothing.
+Tevatron is due to shut down in Sep-
+tember, as the LHC begins to overtake
+it, but data analysis will continue be-
+yond the shutdown. A task force con-
+sisting of members of both the DZero
+and CDF collaborations, as well as
+theoretical physicists from Fermi-
+lab, has already been set up to coor-
+dinate a study of the two analyses. A
+spokesperson for the DZero collabora-
+tion told the journal Nature that they
+should already have more than enough
+data to resolve the conflict.
+Several theory papers that try to
+explain the CDF results had already
+been submitted to the online preprint
+server arXiv before DZero announced
+their take on the findings. Even if the
+bump does prove to be a fluke, there
+are many reasons to look for physics
+beyond that provided by the standard
+model of particle physics. Any new
+result would be added to a long list of
+motivations for theorists to crack on
+with developing new models.
+xxx
+Rain drops keen falling on my head, but we’re still having a drought. Very confusing...
+It’s not because you
+lied when you were
+seventeen. Sam
+Furse discusses
+Britain’s recent
+drought, floods and
+the plight of the blue
+whale
+

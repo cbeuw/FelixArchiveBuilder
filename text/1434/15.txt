@@ -1,0 +1,499 @@
+How to play:
+It’s quite simple, all numbers are in a
+cell and must be surrounded with a
+corresponding number of lines. Lines
+cannot split and there can only be one
+continuous line. Any cells with no
+numbers can have any number of lines.
+Look at the solution above for help.
+Slitherlink 1,434
+Wordoku 1,434
+1,433 Solution
+O
+G
+B
+R
+N
+A
+I
+H
+D
+A
+D
+H
+I
+D
+G
+O
+N
+R
+I
+R
+N
+O
+B
+H
+G
+B
+A
+G
+N
+D
+A
+R
+O
+H
+I
+B
+R
+A
+O
+B
+H
+I
+N
+D
+G
+H
+B
+I
+D
+G
+N
+R
+A
+L
+N
+O
+A
+G
+I
+D
+B
+R
+H
+D
+H
+R
+N
+O
+B
+A
+G
+I
+B
+I
+G
+H
+A
+R
+D
+O
+N
+I’m already getting bored of writ-
+ing their name in the box, but
+yes, MÖchten sie mein Man-
+schaft were the winners of wor-
+doku too. They managed to get a
+BIG HARDON whilst doing this,
+good on you lads!
+Scribble box
+TEXT US! OR
+WE WON’T FEED
+THE CAT!
+“ “The job isnt difficult” why can’t
+you pull a pint then Khadim. Shut
+it.
+”
+“In regard to the centrefold, tits of
+gtfo.
+”
+“After reading about yet another
+RSM fail, is it becoming obvious
+to anyone that their place in this
+university is becoming untenable!”
+“To the chinese girl who came back
+form mexico a couple of weeks
+back and went to the library feeling
+rough! Fuck you! Regards from
+anyone with a brain not dedicated
+to solving algebraic problems or
+sucking of big hairy men in asian
+fetish porn flics!”
+“For kiran...my love... Everytime i
+try to talk to you my mouth goes
+dry...I love you! I want to be with
+you...Hari xx”
+Going Underground
+Wow, even when we throw in some sta-
+tions at the end of the line, you guys still
+come back with the answers. Nice! Well
+MÖchten sie mein Manschaft were
+the first team to get Buckhurst Hill as
+the correct answer. Sorry Shotgun, you
+were a close second!
+A B C D E F G H I J K L M N O
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+P Q R S T U V W X Y Z
+16 17 18 19 20 21 22 23 24 25 26
+B A N K
+2 1 14 11
+28
+= 2+1+14+11=28. Job done.
+So which London tube station sums to 134?
+This week’s Cat Phone:
+_ _ _ _ _
+Each letter in the alphabet is assigned a
+value, 1-26 (see table) and when added
+together for a specific word the sum
+equals the total shown. All you have to
+do is scan and send the Underground
+station that is hidden each week to su-
+doku.felix@imperial.ac.uk
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers
+with letters. Complete the puzzle
+and then send the whole grid to
+sudoku.felix@imperial.ac.uk.
+You will not get credit for just the
+word alone. It’s not an anagram.
+Mentalist Maze...
+I like how people are finding ingeniuos
+ways of solving this little brain
+tickler. The felix team really like what
+Giramundu does to solve the solution,
+however, he was beaten by Alistair
+Larsson who also said that Nick Jones
+was shit. This thing is quite difficult,
+maybe we should offer double points?
+1,433 Solution
+It’s them again folks, MÖchten sie
+mein Manschaft were this weeks
+winners of the slitherlink. We have a
+particularly tricky one this week which
+should tickle your brain a bit!
+_
+134
+=
+_ _ _
+Nonogram 1,434
+How to play:
+Nonograms are logic puzzles in which cells
+in a grid have to be coloured or left blank ac-
+cording to numbers at the side of the grid.
+The numbers measure how many unbroken
+lines or filled-in squares there are in any given
+row or column. Look at the solution for help.
+Non of you listened to our orders alst week,
+because MÖchten sie mein Manscaft were
+the winners of the nonogram yet again. But
+I can say that everyone is getting quicker at
+getting the solutions sent in, so lets see how
+well you do with this one.
+07849 190 043
+_
+1,433 Solution
+_
+A
+N
+L
+C
+T
+C
+I
+T
+L
+B
+C
+I
+T
+B
+B
+A
+A
+N
+I
+L
+N
+C
+L
+U
+B
+L
+R
+B
+A
+I
+28 felix Friday 29 May 2009
+sudoku.felix@imperial.ac.uk
+Fun & Games
+3
+1
+1
+2 2 2
+2
+2
+2
+3 2
+2 1
+1
+2
+3
+3
+2
+3
+3
+2
+3 3
+3 0 2
+3
+0 2
+3 1
+3 2
+2
+1
+2
+1
+3
+2 3
+2
+2
+2
+2
+2
+2
+1
+2
+3
+2
+3
+3
+2
+2
+2
+1
+2
+3 2
+1 3
+1
+3 2 2 3
+2 1
+2 2 3
+3 2
+3
+2
+2
+3
+3 1
+3
+3 2 3
+2
+2
+1
+1
+4
+4 5
+3 3 2
+3 4
+3 6
+3 3
+2 1
+2
+7 7 5 4
+1
+1
+1
+3
+1 6
+1
+3 6 4
+6
+2 3
+1 1 3
+4
+3
+3
+1 3
+3 2
+4 3
+5 3
+3
+1
+1
+3
+2
+4
+3
+2
+1
+1 3 4
+6
+2 7 7
+Putting the cat out to dry
+hangman.felix@imperial.ac.uk
+Hangman
+Black hole found in
+Union finance offices
+A
+llegedly... After months
+(minutes) of investiga-
+tion the Hangman team
+has made a shocking dis-
+covery that will likely (or
+not at all) shake the Union to its very
+core. The Union Finance Offices, situ-
+ated in the North-East corner of Beit
+Quad, are currently hosting a black
+hole.
+The body, first hypothised in 1783
+is at the time of writing three metres
+in diameter and growing fast. Sir Rob-
+ert Pinkelson, Head of Black Hole re-
+search in the Geology Department has
+labelled the discovery ‘astonishing’.
+“The Pinkelson black hole is the first
+black hole of its size to be discovered on
+Earth. From an experimental point of
+view, it could offer a ton of information
+before it destroys the Earth completely,
+exterminating mankind with it.”
+The news has come as a shock to
+Union finance staff but some have ex-
+pressed relief, Miss Tyworth had this
+to say: “Stuff kept going missing, in-
+voices, cheques, payment slips, it was
+all very embarrassing. But now obvi-
+ously there’s an explanation, it was the
+Tyworth black hole all along!”
+The future remains uncertain for
+staff in the Finance Office. Union
+President Jenny Morgan has refused to
+give the staff leave while the black hole
+crisis is addressed and due to a lack of
+space in the Union, has been unable
+to move the finance office elsewhere,
+“There simply isn’t anywhere to put
+them and the Union finance work can’t
+simply grind to a halt. I don’t mean to
+be unkind, but they’ll have to put up
+with the Morgan black hole until a bet-
+ter solution can be devised.”
+The College have seized on this dis-
+covery as another reason for the Union
+to hand over the running of it’s financ-
+es, to the College Finance Department.
+The Head of the College Finance De-
+partment, Baron Von Steam-a-lot, had
+this to say to Hangman. “It’s obvious
+that the Union can’t keep a hold of
+it’s finances. They aren’t efficient at
+processing payments, they can’t keep
+a track of what money has gone where
+and as this latest depacle highlights,
+their finances are full of black holes!
+I’m just glad the Steam-a-lot black hole
+was spotted so quickly before more
+damage could be done!”
+As the argument ensues the black
+hole continues to grow at an alarming
+rate, with no valid solutions at present.
+Hangman’s correspondent at CERN
+has told us that scientists there are
+privately pleased about the black hole,
+with one commenting, “I told you it
+wouldn’t be us!!!”
+(At least if the world ended, I wouldn’t
+have to stay up all night de-shitifying
+your page Hangman! -Ed)
+The black hole has made going for lunch just that little bit harder
+In wake of catering scandal, douchebag felix
+reporters... still eat at Union
+A
+llegedly... Last week, the
+felix news team (tossers)
+issued a damning verdict
+on the state of catering in
+the Union. They showed
+that most students were unhappy with
+the quality of food and the quality of
+service; skillfully delivering their mes-
+sage with the question “Would you eat
+from this?”.
+The Hangman team isn’t sure how
+most students responded to this ques-
+tion (or whether they asked “No, who
+the fuck eats out of a chip fryer?”) but
+we do know how the felix news team
+(tossers) answered.
+Jovan Nedic (Editor-in-Little Chef),
+Kadhim Shubber (Who shot the
+Deputy Editor) and Dan Wan (Editor-
+erect) have all been spotted eating at
+the Union since their ‘bold’ expose of
+the Union’s catering. The Hangman’s
+‘food-from-a-distance’ expert told
+us that they enjoyed a slightly over
+Imperial’s
+apartheid regime
+under attack
+A
+llegedly... In a stunning
+blow to the credibility
+of the apartheid regime
+at Imperial College Lon-
+don, Labour MP Diane
+Abbott has sparked a fresh debate on
+the science university’s policy of dis-
+criminating against black and minority
+students.
+At a Westminster Hall debate on
+the 20th of May, Ms Abbott (Winner
+of the Spectator Speech award 2008),
+bravely declared (or might not have)
+that “there is an unspoken apartheid at
+Imperial, as a member of this House,
+my conscience cannot let this injustice
+remain unspoken any longer!”
+Hangman’s Parliamentary affairs
+correspondent (co-conspirator) said
+that the House rose to triumphant
+applause, with one MP commenting,
+“Tears swelled up in my eyes, possibly
+the most emotive speech given in this
+House’s history.”
+Her comments were less warmly re-
+cieved at Imperial College, where the
+Rector, Sir Roy Anderson, is reported
+to have dropped his monocle into his
+tea on hearing the news.
+In a formal statement, after his fa-
+mous temper had subsided, Sir Roy
+called Ms Abbott’s speech “A careless
+and dishonest slander on the reputa-
+tion of Imperial College.” He rejected
+the label ‘apartheid’ and blamed (or he
+might not have) the smallness of Impe-
+rial’s black population on the failure
+of black applicants to meet Imperial’s
+entry requirements, citing the work of
+biologist James D. Watson.
+Inspired by Ms Abbott’s speech,
+protestors have begun to congregate
+outside the Houses of Parliament,
+pledging to remain until the govern-
+ment cuts its links with Imperial. Join-
+ing, among others, the Tamil protes-
+tors already there, this move looks
+certain to make Parliament Square the
+most densely populated area on Earth.
+Dan Wan you naughty boy,
+put the archives down!
+29
+Friday 29 May 2009 felix
+done chicken and chips dish with two
+sachets of salt but on Tuesday they
+chowed down on half a plate of pasta
+bolognaise that was three days off; no
+salt was used.
+See if you can spot Hangman and Angry Geek having a pint!
+

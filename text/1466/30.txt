@@ -1,0 +1,243 @@
+31
+felix
+coffee.felix@imperial.ac.uk COFFEE BREAK
+FRIDAY 18 JUNE 2010
+FUCWIT
+The Cool Kids and Fergal 40 Points
+Harry Potter Trio 284 Points
+Matthew Colvin 266 Points
+The Tough Brets 215 Points
+GLT 158 Points
+Sheryl 276 Points
+Individuals:
+Individuals:
+Teams:
+Teams:
+League Table
+4 1 1 1 1 3 6
+1 1 1 1 1 1 5
+6 1 1 1 1 1 1
+1 1 1 1 1 3 1
+1 1 1 2 1 1 1
+1 1 1 1
+13 1 1 1 1
+1 1 1 1 3 2 1 1
+1 1 1 1 1 3 1 1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+1
+4
+1
+5
+1
+1
+2
+4
+1
+6
+1
+1
+1
+4
+1
+1 1 1 1 1 1 2
+The best of LOLcatz
+So this is it. The final felix of
+this academic year. And the
+big news is the free iPods,
+and who won what! ‘Oh my
+fucking God I can’t wait’ I
+hear you cry. Well look to the
+left and you can see the final
+scores. Yes Sheryl you are a
+WINNER, and Harry Potter
+Trio YOU TOO. I know, men-
+tal. Come to felix office to
+ask about those iPod nanos!
+No points available for this
+issue’s puzzles but you can
+still submit your solutions for
+confirmation up until midday
+next Friday. Go crazy.
+Submissions go to:
+felix.sudoku@imperial.ac.uk
+1 1 1 3 6 1
+1 1 1 1 7
+1 1 1 1 8 1
+1 1 1 1 8 1 1
+2 1 1 1 8 1 1
+1
+1
+3
+4
+1
+5
+1
+1
+2
+1
+7
+2
+3
+1
+1
+3
+1
+1
+5
+1
+1
+5
+1
+1
+5
+1
+1
+1
+6
+1
+3
+7
+2
+1
+8
+2
+1
+1
+1
+2
+1
+4
+2
+2
+1
+1
+1
+3
+5
+2
+O
+O
+Nonogram 1,466
+How to play:
+The numbers at the side represent the size and
+order of blocks in each column and row. There
+must be at least one space between each block.
+e.g. 3 5 (in a row 10 cells long) could mean:
+or
+or
+Hence it is immediately determinable that the
+following cells can be shaded:
+In a similar manner it is possible to identify definite
+spaces (here represented as Os).
+As you may have noticed some shaded cells and
+definite spaces have been provided for you in
+the grid. These particular cells have 180degree
+symmetry with other cells in the grid. However the
+complete solution does not, so it’s recommended
+you fill in the corresponding cells before you begin.
+Solution image designed by an anonymous
+contributor and nonogrammed by the Puzzle
+Captain. Solutions can be submitted for
+confirmation until midday next Friday.
+Yesterday, I met five members of the orchestra in the bar, and
+spoke to them for quite a while. When I got home, my memory, for
+some reason, was a bit hazy.
+I met them again today.
+‘Would I be right if I said that John plays the trombone, Katy plays
+the violin, Louise plays the oboe, Mike plays the clarinet and Nigel
+plays the cello?’
+‘No,’ they said, ‘but you’ve remembered our names correctly, and
+our instruments.’
+‘In that case, would I be right if I said that John plays the violin,
+Katy plays the oboe, Louise plays the clarinet, Mike plays the
+trombone and Nigel plays the cello?’
+‘That’s closer, but not right.’
+‘Would I be right if I said that John plays the oboe, Katy plays the
+cello, Louise plays the clarinet, Mike plays the violin and Nigel
+plays the trombone?’
+That’s closer still, but not right. Louise doesn’t play the clarinet or
+the cello.’
+Who plays what?
+Relic 1,466
+1 3 3
+2
+3
+2
+1
+1
+1
+3
+1
+1 2
+3
+2
+1
+2
+3
+2
+3
+0
+1 2 2 2
+3
+1 2 1 2
+3
+2 2 2
+1 2 2
+1
+0
+2
+3
+1 1
+2
+2
+Slitherlink 1,466
+How to play:
+The numbers in
+the cells represent
+how many lines
+surround it. Draw
+a single continuous
+line in the grid
+that satisfies all
+the numbers, does
+not cross itself and
+forms a closed loop.
+Beginner Tips:
+Every node may
+only have 0 or 2
+lines connecting
+to it (it’s part of
+the loop or it isn’t).
+Place a small mark
+between nodes that
+cannot connect.
+To the right is a puzzle designed by
+1983/1984 felix’s very own Puzzle God
+(not actual title), Ulysses.
+Below is a puzzle that was submitted to
+him by a maths fresher, Neil Thornton,
+in the subsequent issue.
+x x 8 x x
+x x x ) x x x x x x x x
+x x x
+x x x x
+x x x
+x x x x
+x x x x
+

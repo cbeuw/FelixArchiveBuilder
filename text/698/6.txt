@@ -1,0 +1,81 @@
+LFEATURE
+Tech 2000
+I M P E R I A L C O L L E G E
+\ l 8 8 5 / I M P E R I A L C O L L E G E \ 1985 (
+/- I:ni{ineerim> for
+Weal tli
+\
+After months of planning, the JCR exhibition Teen 2000
+was opened by the Prime Minister on Wednesday.
+With one full day of Tech 2000 left, FELIX takes a look at
+just a few of the more interesting and unusual exhibits.
+Electrical Engineering
+Skeletal maturity from X-rays A
+system has been developed to assist
+physicians in treating growth related
+disorders by analysing X-rays and
+relating them to the skeletal maturity
+of the patient. The system identifies
+each bone in a digitised X-ray and
+makes a maturity assessment based
+on the maturity of the individual
+bones.
+Very large scale integration
+The three exhibits on this topic
+illustrate its importance. VLSI
+i n v o l v e s g e t t i n g m i l l i o n s of
+transistors on a chip. Design on this
+sub-micron scale is so complex that
+computers are used to assist.
+Computing
+British Nationality Act
+When faced with legislation as
+complex as the British Nationality
+Act, a computer program is the
+obvious answer. Work is being done
+in expressing the Act as a program in
+logic which can be 'interrogated' to
+determine its application in a
+particular case.
+Heart disease
+A total contrast is the use of
+computers to detect heart disease
+early. Signal processing technology
+can be used to resolve the complex
+patterns of body surface electro-
+cardiograms.
+Kobler Unit
+Most robots are blind. The 'Wisard'
+image recognition system seeks to
+put this right. The device on display
+can distinguish between a smile and
+frown on the person sitting in front its
+camera.
+Aeronautical Engineering
+Wind tunnel
+Increasing fuel costs make the
+aerodynamics of vehicle design
+much more important. A new wind
+tunnel, specifically designed for
+testing road vehicles, has just been
+completed in the Aero Department.
+The test section measures 5 x 10x30
+feet and the tunnel is controlled by a
+dedicated computer which also
+processes the results.
+Mechanical Engineering
+Design engineering
+The Mech Eng department runs a
+joint p o s t g r a d u a t e c o u r s e in
+industrial design with the Royal
+College of Art. The fruit of one
+student's work is illustrated in the
+covered motorcycle.
+Artificial joints
+T h e b i o n i c s s e c t i o n of t h e
+department is busy developing
+artificial joints, ligaments and
+tendons. The exhibits outline the
+progress of an elbow joint project.
+FELIX
+

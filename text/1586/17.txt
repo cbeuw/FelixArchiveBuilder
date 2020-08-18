@@ -1,0 +1,257 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 17
+31.10.2014
+FELIX
+technology.felix@imperial.ac.uk Tech Editors Jamie Dutton & Osama Awara
+Microsoft hope 3 is the magic number
+The Windows Surface Pro 3 Photo: amongstgeeks.com
+Osama Awara reviews the newest member of the Surface family
+Wearable technology – watch this space
+Welcome to Felix
+Technology... Again!
+Osama Awara
+TECH EDITOR
+Hello there! I’m Osama Awara,the editor who last
+year brought you the technology murder list series
+with his partner in crime Maximillian Eggl.For my
+second year as tech editor,get ready for more reviews
+on the latest tech products and top ten tech lists that
+will leave you questioning whether that iPhone 6 you
+bought was a bent idea.
+If you are interested in writing an article for tech,as
+a one off or on a regular basis,just send your articles
+to me or Jamie via technology.felix@imperial.ac.uk.
+We will make sure your articles are up and running
+for the next issue; any positive reviews on Apple
+products will be marked as‘junk’.
+All jokes aside,please do not hesitate to contact us
+about any ideas you have for an upcoming article.
+"Expect
+frame rates
+that would
+leave you
+feeling like
+you're
+gaming on
+a flipbook."
+The third generation of
+Windows tablets, or Lablets
+as I like to call them, have
+been released by Microsoft. They
+claim that the Surface Pro 3 is not
+only a tablet, but a laptop as well,
+potentially replacing both of those
+devices in your home. After owning
+one for several weeks, I can honestly
+back Microsoft on this one. I have
+not touched my old laptop since the
+purchase; it is currently sitting in a
+bedroom drawer collecting dust.
+The beautiful thing about this
+device is how seamlessly you can
+interchange between using it as a
+tablet and a laptop. For instance, as
+I write this article I am in desktop
+mode tapping away at the keyboard,
+whilst being able to touch anywhere
+on the screen to select anything from
+the Word 2013 and Google Chrome
+icons to the volume adjustment icon.
+However, by selling the attachable
+keyboard separately Microsoft has,
+in my opinion, shot itself in the foot,
+appearing to be like the [video games
+developer] EA of the tech world. I
+purchased my Surface Pro 3 with the
+core i5 processor and a 256 GB solid
+state drive for a relatively hefty price
+in Canada. The keyboard sold for
+$150 (Canadian dollars that is) which
+is around £80 – an unreasonable
+extra charge considering the initial
+price of the system (around £830).
+However, in terms of ergonomics the
+keyboard works well and is backlit.
+Most of the Surface Pro 3s come
+with 256GB of memory which is not
+a lot if you are planning to properly
+use your device as a laptop. It is
+compensated by the fact that this
+device is solid state (free of moving
+mechanical parts), meaning that
+your Surface Pro will have much
+faster loading speeds compared to
+traditional hard drives which run
+on rotating magnetic discs. Also,
+if you’re planning to game on this
+device, you will certainly fill up your
+memory quickly.
+On the topic of gaming, the Surface
+Pro is very decent for a tablet but if
+you are planning to run hardcore
+games such as Battlefield, expect
+frame rates that would leave you
+feeling like you’re gaming on a
+flipbook; the integrated graphics card
+just won’t be able to handle it.
+The tablet has multiple degrees of
+positioning due to the flap on the rear
+of the device; this gives the Surface
+Pro 3 several different modes of use.
+If you want the device to work as
+a laptop you would position the flap
+so that the screen is vertical with a
+slight slant. If you are in a lecture and
+want to take notes with the Surface
+Pro stylus, you can position the flap
+such that the screen is positioned
+horizontally with a slight vertical
+slant – the perfect position to write.
+The stylus does a good job at writing
+and although your handwriting with
+a pen won’t be mimicked, you will
+still get reasonable results.
+Overall, am I satisfied with the
+Surface Pro 3? It definitely checks
+both the boxes that a tablet and
+laptop should, running everything
+Tech-companies want to expand
+their product portfolio outside
+of smartphones, and with iPad
+and tablet sales falling quarter after
+quarter and all the variety in screen
+sizes pretty much exhausted, where
+do they go from here?
+For some, the answer to that
+question seems to be wearable
+technology. The market is still in its
+infancy, but sales have tripled in the
+last year and are predicted to rise
+to 250 million devices sold in 2018.
+Apple Watch is certainly next year’s
+device to have but with a market as
+big as this it’s anyone’s game.
+Companies like Samsung and
+Pebble have been rushing to lead the
+pack; even Google entered the game
+just 3 months ago, but with the Apple
+Watch imminent for the start of 2015
+and Microsoft rumoured to release
+its own wearable this holiday season,
+things are certainly heating up.
+Just 3 million smart-bands and
+smartwatches have sold all over
+the world up until now – while
+companies are still struggling to hit
+the right combination of usability,
+‘comfortability’, longevity and
+most importantly design. With our
+lives already surrounded by and so
+dependent on our devices, the most
+difficult hurdle manufacturers
+are facing is actually convincing
+consumers that we need another one.
+One company who seem to have
+found the recipe for success is Pebble.
+Before any of the big boys were even
+thinking about making a smartwatch,
+Pebble was already breaking
+crowdfunding records with its own
+extremely simplified smartwatch.
+It managed to raise 10 million
+dollars and take 85,000 orders on
+Kickstarter with just a low resolution
+black and white LCD display, a simple
+plastic design and a price tag of £79.
+The company has reported that
+more than 400,000 units have been
+moved since January 2013, which is
+impressive considering how young
+the company is.
+The Pebble was successful but not
+revolutionary, its sensible features
+and low price tag appealing mostly to
+the tech-savvy niche market without
+it ever really going mainstream.
+Shortly after, Samsung came along
+with the Galaxy Gear, a smartwatch
+which tried to do too much without
+really getting any of it right.
+Samsung’s first smartwatch cost a
+ridiculous £299 and it left behind a
+lot of displeased tech-reviewers. But
+since then the company has managed
+to release a total of 6 smartwatches
+in just 2 years. Sales numbers are not
+very clear but Samsung seems to be
+heading up the wearables market
+with more than 800,000 total units
+sold, a minuscule number when put
+in perspective with Samsung’s other
+device sales. The Korean company’s
+latest effort, the Galaxy Gear S, is
+able to act as a standalone device
+working independently of a phone.
+However, it does not support Android
+Wear making it only compatible with
+Samsung phones.
+Similarly, Sony has released several
+wearables but none of them have
+managed to cause a real stir in the
+market, mostly because they offered
+only Sony handset support.
+Android Wear seems to be the only
+solution to these compatibility issues.
+One of its most interesting features is
+from Microsoft Office and Netflix
+to standard apps downloaded from
+the store. It certainly would come in
+handy to any student and it also fits
+neatly in your bag like a textbook.
+The main problem is its price
+which stands alongside elite gaming
+laptop brands such as Alienware or an
+ASUS Gaming Powerhouse. You can
+expect to be set back £1400 with the
+keyboard if you are going to make a
+purchase in the UK.
+Surface Pro 3s come at similar
+prices to Apple Macs, but I would
+definitely recommend the Surface
+Pro 3 as the must-have device for
+students over Macs, simply because
+of its touch screen and laptop/tablet
+interchangeability that the Apple
+devices lack.
+"It
+definitely
+checks both
+the boxes a
+tablet and
+laptop
+should."
+its support of round displays giving
+manufacturers the opportunity
+to produce some gorgeous and
+inconspicuous wristwear. LG has
+the sleek G Watch R on the pipeline,
+while Motorola’s Moto 360 has
+been on sale for over a month, even
+selling out at one point. It is the first
+device to have a round display, and it
+has almost no bezels making for an
+incredibly attractive design.
+Wearable devices are not going
+to be hidden away in consumers’
+pockets, they are going to be strapped
+on our wrists, worn on our faces,
+hung around our necks, increasingly
+interconnecting with our lives and
+more importantly representing who
+we are. If manufacturers want the
+smartwatch to be the next big thing
+they need to be thinking much less
+like the tech industry and a little
+more like the fashion industry.
+CHRYSOSTOMOS MELI
+TECH WRITER
+

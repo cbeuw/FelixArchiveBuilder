@@ -1,0 +1,229 @@
+TECH
+FELIX
+tecfelix@imperial.ac.uk
+TECH
+FRIDAY, 22ND
+NOVEMBER, 2019
+technology.felix@imperial.ac.uk
+32
+The Huawei Ban
+Surviving the Android Market Without Google Services
+TECH
+Sudarshan Sreeram
+Tech Writer
+“Eerie and
+unsettling
+to know that
+someone
+somewhere is
+listening in on
+you”
+S
+ci-fi based movies
+and television
+series often show a
+person or a group
+of people in their mid to
+late 20s cut off power to
+an entire city by hacking
+into a power grid or steal
+data from a ‘target’ by
+hacking their internet
+connected devices. A
+well-known example of
+this is CW’s “The Flash”,
+where satellites, commu-
+nication systems, data
+centres, power grids, and
+security equipment are
+hacked into on a regular
+basis. Another example,
+well known in the gaming
+community, is Watchdogs,
+a game where you can
+trigger explosives, control
+traffic lights, hack bank
+accounts and personal
+information, and even
+jam cellphone networks
+all through a few taps on
+a smartphone. This may
+seem thrilling, dramatic,
+or even ‘awesome’ at
+times in context of the
+series, video game, or
+movie, but it is, in actuali-
+ty, a very serious concern.
+With data being the
+world’s most valuable
+resource, it’s no surprise
+that there has been a huge
+surge in the number of
+cyber attacks all around
+the world over the past
+decade. Even the new
+Disney+ service, which
+These examples show
+how even the biggest of
+companies are susceptible
+to malicious attacks and
+why cyber security plays
+a critical role as we head
+into the future.
+In the past year, you
+might have noticed a lot
+of companies place an
+increased emphasis on
+the privacy and security
+of their users’ personal
+data. From Apple intro-
+ducing its secure “Sign
+in with Apple” feature
+to Facebook announcing
+“The Future is Private” at
+its annual F8 conference
+in May, it’s clear that
+companies are, in some
+ways, trying (and often
+failing) to protect their
+users’ data from theft.
+Oftentimes, companies
+themselves exploit the
+personal data of their
+user base to ‘improve’
+the customer experience.
+A more recent example
+of this is Amazon’s ad-
+mittance of using human
+staff to analyse and
+grade short recordings
+of users’ interaction with
+Alexa, Amazon’s virtual
+assistant. These human
+generated reports are used
+to improve the speech
+recognition and natural
+language processing
+capabilities of Alexa as a
+platform. Amazon claims
+that the recordings cannot
+be traced back to the user
+and that there are strict
+measures in place to
+safeguard privacy, but it’s
+still eerie and unsettling
+to know deep down that
+someone somewhere is
+listening in on you.
+On a much larger scale,
+more than people, gov-
+ernments possess highly
+sensitive, classified infor-
+mation and have to ensure
+that their facilities follow
+strict security protocols to
+avoid being tapped into
+by the wrong people. This
+brings cyber-warfare, or
+large scale digital attacks
+between different nations,
+into the story. With coun-
+tries around the world
+accumulating a massive
+amount of intelligence
+on each other, it’s only
+a matter of time before
+one of them uses it for
+economic benefit through
+means of hacking or
+blackmail.
+In addition, if these
+attacks are used to disrupt
+military activities or to
+accumulate strategic in-
+formation on a country’s
+assets or plans, then it
+could prove fatal when
+used in physical warfare.
+Thus, to protect civilians
+and to ensure peace,
+governments around
+the world have taken
+several cautious security
+measures to safeguard
+their confidential infor-
+mation.
+One such measure was
+U.S. President Donald J.
+Trump’s move to ban U.S.
+based companies from
+working with Huawei
+through a national
+security order. Huawei,
+the Chinese telecom giant
+and one of the world’s
+largest smartphone
+manufacturers took a
+hefty blow following the
+order as it was cut-off
+from Google’s android
+platform and services
+ecosystem. This, in fact,
+meant that Huawei was
+cut at its knees just when it
+reached the top of the tech
+market. In effect, the tech
+community seemed as if
+it lost a valuable player in
+the smartphone space.
+Huawei caters to all
+three groups of the smart-
+phone market: high-end or
+flagship, mid-range, and
+budget (through its sub-
+brand Honor). Without
+further major software
+updates from Google, this
+ban effectively affects
+consumers in all three
+categories. However, the
+US government has eased
+restrictions, so US-based
+businesses are allowed to
+continue their operations
+with Huawei to abate the
+disruption on consumers
+using Huawei’s widely
+distributed products.
+So, where did this all
+start? Well, with Facebook
+granting it special access
+to user data and Vodafone
+finding hidden backdoors
+in its telecom equipment,
+Huawei has been contro-
+versial figure with regards
+to its security and privacy
+measures. In addition, the
+CIA’s claim that Huawei
+is funded by Chinese
+“Data is the
+world’s most
+valuable
+resource”
+launched under a week
+ago, saw its user base
+hacked within a few days
+of launch. Furthermore,
+in 2011, Sony’s playsta-
+tion network was hacked,
+and the personal data (in-
+cluding credit card infor-
+mation) of more than 77
+million users was leaked.
+This cost Sony more than
+15 million dollars in com-
+pensation and legal fees.
+Technology Being Used To Spy On People // Matthew Henry - Unsplash
+Cyber Warfare Operators // US Department of Defense
+

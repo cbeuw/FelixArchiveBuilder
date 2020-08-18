@@ -1,0 +1,321 @@
+PUZZLES
+Wordoku
+Generic Solution
+So, we couldn’t drop the Wordoku
+could we? Where else do you get
+a PORNFEAST or KNOBJUICE?
+Nowhere, that’s where. Well,
+expect the usual mix of solely
+childish words that will make
+you chuckle inside. Wordoku is
+identical to Sudoku; we’ve just re-
+placed numbers with letters. Com-
+plete the puzzle and then send
+the whole grid to puzzles.felix@
+imperial.ac.uk. You will not get
+credit for just the word alone. It’s
+not an anagram.
+Scribble box
+E
+N
+I
+S
+P
+S
+R
+D
+E
+N
+I
+R
+S
+E
+A
+I
+S
+P
+H
+A
+P
+S
+D
+H
+P
+R
+P
+R
+E
+S
+S
+A
+E
+R
+O
+N
+P
+T
+F
+O
+R
+P
+F
+T
+A
+S
+N
+E
+T
+N
+F
+E
+S
+P
+R
+O
+A
+R
+T
+O
+S
+N
+F
+E
+A
+P
+A
+P
+S
+T
+E
+R
+N
+F
+O
+F
+E
+N
+A
+P
+O
+T
+R
+S
+E
+S
+A
+O
+R
+T
+F
+P
+N
+N
+F
+T
+P
+A
+S
+O
+E
+R
+P
+O
+R
+N
+F
+E
+A
+S
+T
+Going underground
+This was a great invention from last
+year, combining maths, local knowledge
+and a great way to waste time into one
+easily understandable format. Often in
+the past, this game gets cocked up, but
+do not despair all will change this year.
+It’s an easy one this week.
+B A N K
+2 1 14 11
+28
+= 2+1+14+11=28. Job done.
+So which London tube station sums to 127?
+_ _ _ _
+Each letter in the alphabet is assigned a
+value, 1-26 (see table) and when added
+together for a specific word the sum
+equals the total shown. All you have to
+do is scan and send the Underground
+station that is hidden each week to
+puzzles.felix@imperial.ac.uk
+127
+=
+_ _ _ _
+_ _
+A B C D E F G H I J K L M N O
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+P Q R S T U
+16 17 18 19 20 21
+_
+Nonogram
+These are Nonograms. They are beyond me,
+but some people manage to do them, and bet-
+ter still get them correct!
+How to play:
+Nonograms are logic puzzles in which cells in
+a grid have to be coloured or left blank accord-
+ing to numbers at the side of the grid.
+The numbers measure how many unbroken
+lines or filled-in squares there are in any given
+row or column. Look at the solution for help.
+Generic Solution
+1 6
+3 5
+3 4
+3 3
+2 3
+2
+3 1
+5
+3
+3
+5
+2
+4
+3
+3
+4 3
+3
+3
+1 6 5 5 2 1
+5 2
+7
+2 3
+2 6
+5 2
+3 1
+4 1
+3 1
+1
+2
+4
+1
+5
+1
+5
+5
+2 5
+2
+1
+1
+1 7
+5
+1
+3
+1
+Mentalist maze...
+FELIX Friday 08 October 2010 37
+1 3
+3
+2
+3
+2
+2
+3
+2 3
+2
+3
+2
+1
+2
+3
+1 0
+3
+1
+3 2
+3
+2
+2
+1 2
+3
+2
+1
+2
+3
+3
+1
+1
+Slitherlink
+ZOMG. It’s slitherlink y’all. You love it,
+your mates love it, even your gran loves
+this mental, mind fuck of a puzzle. I’ve
+even seen the lecturers do them in their
+spare time. No jokes...
+If you’ve ever played minesweeper,
+then you should be able to understand
+this puzzle. The number in each box
+represents the number of lines that can
+exist around it. Lines can never cross!
+In the end, you will end up with a closed
+loop. Just have a look at the same in the
+next column.
+2 3
+3
+2 1
+1
+3
+2
+2 2
+2
+3
+2
+1
+2 1
+1
+3
+1
+1
+3
+1
+3
+2
+2
+2
+1
+3
+3 3
+2 1
+1 2 3
+2 2
+2 2 1
+1
+1
+1
+1
+2
+1
+1 3 1 2
+2
+2
+Send your answers to puzzles.felix@imperial.ac.uk
+You’re in your Friday afternoon lecture,
+trying to understand how rotors and sta-
+tors work. You give up. But wait, what’s
+this? An entire page with loads of puz-
+zles that you can sink your teeth into to
+pass the time. Boredom problem solved.
+But you still have to figure out a way of
+opening the paper without the lecturer
+noticing this. What to do? You realise
+that the puzzle page is on the right, so
+you can just slide it out with minimal
+noise! BOOM! Now to just figure out
+how to do the bloody slitherlink...
+If you guys do figure these things out,
+send us your answers to win points, and
+we all know that points mean prizes!
+Oh hai
+FUCWITS
+puzzles.felix@imperial.ac.uk
+Puzzles Editor: Felix needs a Puzzles Editor, email if you’re interested
+

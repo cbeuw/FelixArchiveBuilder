@@ -1,0 +1,73 @@
+34 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+Puzzles Editor Kingshuk Dasadhikari
+Puzzles
+fsudoku@imperial.ac.uk
+17.10.2014
+Nonogram Cat Sudoku
+Acrostic Grid by Paul G.
+Each row and column must consist of a series of shaded and unshaded boxes.The number
+of shaded boxes is mentioned beside and above each row and column (e.g.1,2,...might
+mean some unshaded boxes,1 shaded box,some more unshaded,2 shaded,and so on).
+Solve the puzzle to reveal a pretty picture or a coded message.
+The solutions to each pair of clues are anagrams of one another,but
+only one of them belongs in the grid.When the correct solutions from
+each pair have all been entered,the first column will give the name of a
+museum.
+Just like a normal Sudoku,but with cats instead of numbers.You might say the cat had
+9 lives,in fact! Each row,column,and 3 by 3 square must contain every one of the cat’s 9
+postures.Good luck,and happy doodling!
+Acrostic Grid Clues:
+1.Degree || Form of“to be”
+2.Belgian town || Snake
+3.Footwear || Water pipe
+4.Leaves out || Slightly wet
+5.Inventor || Legally positioned in
+sport
+6.Decapod || Reinforce
+7.Approximation || Most substan-
+tial
+8.Fruit || South American
+9.Condition of being temporary
+|| Fruit
+Crossword by Jamie D. & Ben H.
+Crossword Clues:
+Across:
+1. Quality related to being talkative (10)
+6. Chelsea striker,1996-2003 (4)
+9. Belgian City (5)
+10. ___Rodgers,producer and recent
+Daft Punk collaborator (4)
+11. Male Deer (4)
+13. Nationality of 800m runner David
+Rudisha (6)
+14. French word for‘love’(5)
+17. Capable of being set on fire (9)
+19. Get____,2008 Steve Carell film (5)
+20. Excrete waste from the body (5)
+21. Large Town in Yorkshire (9)
+23. Country in West Africa (6-6)
+27. Central area of a (e.g.) church (4)
+28. 2014 Nobel Peace Prize Winner (6)
+29. Acronymic rock band from Birming-
+ham (3)
+30. ____Current–resultant of a moving
+or varying magnetic field (4)
+31.(e.g.Boxer) Without loss (10)
+Down:
+1. ____Porter,Tony Award winner for Kiss Me,Kate (4)
+2. The first man to ever die (according to The Bible) (4)
+3. US term for a see-saw (6-6)
+4. First name of the 2014 Great British Bake Off winner (5)
+5. Shining brightly,radiant (9)
+7. Therapeutic manipulation of the muscles and bones (10)
+8. Step-by-step procedures for calculations or problem-solving (10)
+12.Body parts where the tympanic membranes are found (4)
+15.Vector operator,the act of turning your eyes away from each other (10)
+16.Not aided or assisted (10)
+18.Colloquial term for a silly or stupid person (9)
+22.Give out,emit (6)
+24.Main character from the Metal Gear Solid video game franchise (5)
+25.Halls of residence at Imperial College (4)
+26.The____,main enemy of The Thunderbirds (4)
+Last Week’s
+

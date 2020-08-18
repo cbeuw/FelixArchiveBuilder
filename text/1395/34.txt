@@ -1,0 +1,199 @@
+felix@imperial.ac.uk
+35
+Friday 8 February 2008 felix
+Technology
+Headlines we
+couldn’t fit in
+US Army switches
+to Linux
+Vista SP1 released
+to developers
+BitTorrent admin
+given police bail
+UK DNS servers
+converted to IPv6
+Mobiles don’t
+cause brain cancer
+France has new
+super fast train
+Pirate Bay hit with
+legal action
+3D holographic
+cinema a reality
+European ISS
+module ready to go
+Intel produce chip
+with 2 billion
+transistors
+eBay bans negative
+feedback
+Middle East loses
+the WWW
+Time Warner splits
+up AOL
+Another toy to play with
+Andrew Slater finally went out and bought the iPod touch so we can get a review
+The MS Surface surfaces
+James Finnerty explains the talk about Microsoft’s overlooked product
+M
+icrosoft first an-
+nounced their “Sur-
+face” product around
+a year ago. To give
+you an idea of exactly
+what it offers it combines a set of ex-
+isting technologies to vastly improve
+customer experience in a broad range
+of locations.
+In essence it is a a touchscreen com-
+puter that is embedded in the surface
+of the table. This alone is nothing new
+but the features which have been at-
+tached to this interface are what re-
+ally makes it shine. Using RFID ( Radio
+Frequency Identification ) the surface
+can detect devices which have been
+laid on it such as cameras, phones and
+even credit cards.
+A good example of the final use of
+the system which has been demon-
+strated by Microsoft is a new way to
+pay for meals or drinks in a restau-
+rant. Say at the end of a meal with a
+group of friends you normally have the
+tricky process of splitting the bill be-
+tween you, with Surface this problem
+is eradicated. All of you put your RFID
+enabled credit/debit cards on the sur-
+face and the waiter can make the bill
+pop up on the display. Each member
+of the party can then simply drag the
+items they purchased from the bill to
+their card and they are then charged
+appropriately.
+A new and interesting development
+to the Surface family is the confirma-
+tion that a version designed specifically
+for home is in the works. Some uses for
+this are fantastic. As you may or may
+not know the Microsoft Zune allows
+people to share music between their
+Zunes for free but the tracks delete
+themselves after 28 days. This proc-
+ess of sharing is not always a very user
+friendly experience and once again the
+Surface comes to the rescue. With your
+Surface in your living room you and
+your accomplice can place your Zune's
+on the device and then drag files back
+and forth.
+I think that if this product becomes
+mainstream in public places it could be
+a big breakthrough. This level of user
+experience has always been Apple's
+thing and realistic competition in this
+market could be fantastic for us as end
+users. So Microsoft may start to make
+our lives easier for once.
+Aww look at that, social computing. Why must companies fill their ads with lies
+You must by sick of seeing this thing by now
+W
+hen my Creative
+Zen, a trusty MP3
+player that sur-
+vived more than its
+fair share of abuse,
+died I decided to move up in the
+world. £256 later i have my replace-
+ment, a shiny new 16GB iPod Touch,
+but is it worth the money?
+After getting over the fact that i now
+own an Apple product I have to admit
+that I have fallen in love with the sleek
+design on the iTouch. Measuring 110
+x 61.8 x 8 mm it's a thin and portable
+device powered by a 412 Mhz ARM
+processor and a large 128MB of RAM.
+It comes with the standard iPod grime-
+attracting metalic back and a flat glass
+front comprised of a 3.5” screen and a
+single home button. Fitting perfectly
+in the palm of your hand and weigh-
+ing a tiny 120g it's a highly “ooh, shiny”
+device.
+It would be easy to go on about the
+design of the iTouch, however there is
+so much more to this device, namely
+the interface. The iTouch uses a multi-
+touch sensitive glass screen atop a gor-
+geous 480x320 display. With vibrant
+colours and a high number of pixels per
+inch (163 dpi) it's incredibly sharp and
+clear. The device is perfect for video
+podcasting, able to show widescreen
+footage without a hitch. Unfortunately
+you are limited to Apple's favourite for-
+mats (MPEG, h.264, Quicktime Mov),
+so no native DivX support.
+Apple have clearly spent a large
+amount of research on the iTouch as
+the navigation is seamless and intuitive
+with out-of-the-box usability. The mu-
+sic library is fast and simple to navigate,
+with the optional glitsy iTunes-style
+coverflow, utilising the touch screen
+to flick through the library in a more
+natural manner. Scrolling through
+your music library is quick, easy and a
+pleasure compared to the Zen's click-
+wheel interface.
+Now the iTouch is more than an MP4
+player due to the cloning of its close
+relative, the iPhone. Inheriting WiFi
+connectivity, along with the design and
+interface, the iTouch is an amazingly
+powerful portable internet device. The
+built in Safari web browser renders
+pages with the iTouch's screen size in
+mind and the touch screen interface
+provides the best web browsing ex-
+perience i've used for some time. The
+onscreen keyboard is incredibly accu-
+rate, with dictionary based corrections
+for typos, gestures for zooming and
+the ability to correctly identify the link
+you're attempting to click. However,
+without the iPhone's ability to use the
+mobile network, the iTouch is limited
+to internet browsing in range of a Wifi
+hotspot, although the university wire-
+less network is a perfect substitute.
+The iTouch packs one last punch in
+its inventory to make it a highly ad-
+vanced portable media device, appli-
+cations. The current version in stores
+(1.1.3) comes pre-loaded with Google
+Maps, Mail, Youtube, stocks, as well as
+having an entire online web application
+site. These extend the iTouch's func-
+tionality far beyond anything currently
+competing on the market and with the
+release of the SDK around the corner
+(allowing home programmers to create
+their own applications) the iTouch has
+limitless potential.
+A hefty pricetag does detract from
+the iTouch's appeal, although there is
+an 8GB version for £199 and a 32GB
+version announced on Monday for
+those that have a huge media collec-
+tion. The functionality of this device
+keeps giving, yet it is limited when
+not within range of a wireless access
+point. The iTouch is perfect within the
+University's free wireless network, al-
+though i would recommend potential
+buyers to weigh up whether they will
+be using everything the iTouch has to
+offer.
+

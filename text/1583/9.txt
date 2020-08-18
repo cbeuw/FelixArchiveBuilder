@@ -1,0 +1,179 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 2
+06.10.2014
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Greater access to drug trial data announced
+Simulated Photo: Creative Commons
+Emma Wills sees whether new European rules go far enough
+Imperial research sheds light on cancer gene
+UTSAV RADIA
+SCIENCE WRITER
+This month, the European
+Medicines Agency has
+announced its policy to make
+open access all clinical trial data
+given to it from 2015 onwards. The
+Agency decides which medicines can
+go on sale in countries in the EU,
+and at first look, this policy seems
+completely sensible.
+Clinical trials need to be analysed
+and available for researchers
+and doctors, to let us know if the
+medicines we use actually work. It
+may come as a surprise then, that
+around 50%of all the trial data for
+medicines currently in use has not
+been published. This figure comes
+from a systematic review done by
+the NHS NIHR Health Technology
+Assessment Programme in 2010,
+and also found that trials with
+positive results are twice as likely to
+be published as those with negative
+results.
+In this way, drug companies can
+hide trials that demonstrate nasty
+side-effects and that their medicines
+may not always work effectively,
+leading to disastrous results for
+patients.
+However, the EMA’s policy has
+been criticised by Members of
+the European parliament and
+the AllTrials campaign, which is
+dedicated to getting trial results
+published, for not going far enough.
+As it will apply only after 2015, it
+will not make a difference for the
+vast majority of the drugs currently
+in use, most of which came onto the
+market more than ten years ago.
+The terms of use of EMA’s
+policy that must be signed up to by
+researchers also includes a statement
+that allows trial sponsors to take
+legal action against them if they
+are suspected of misusing the data.
+According to the AllTrials campaign
+this introduces a significant risk of
+researchers “being made vulnerable
+to protracted legal battles with large
+companies which will introduce a
+new and unpredictable risk of high
+legal costs into routine academic
+work”.
+Researchers at Imperial have
+taken pictures to show
+how a protein made by the
+gene BRCA2, which has long been
+implicated in the development of
+many types of cancer (including breast,
+ovarian and prostate), works to repair
+damaged DNA.
+Around 1 in 1000 people in the UK
+can potentially harbour a mutated
+form of the BRCA2 gene, with the
+lifetime risk of breast cancer for
+women with BRCA2 mutations being
+40-85%, compared to 12%for women
+in the general population who do not
+have the mutated form of BRCA1 or
+BRCA2.
+BRCA2, a tumour suppressor gene,
+was first identified by scientists
+funded by Cancer Research UK in the
+1990s. Since then, we have known how
+the gene helps to prevent cells from
+growing and dividing too rapidly in
+an uncontrolled manner. BRCA2
+does this by producing a protein
+(the BRCA2 protein) that is directly
+involved in the repair of damaged or
+faulty DNA. The BRCA2 protein is
+also known to interact with proteins
+produced from several other genes,
+most notably RAD51 and PALB2
+genes, to mend breaks in DNA. Such
+breaks in the DNA could be due to
+natural causes (such as environmental
+exposures) or artificial causes
+(medical imaging or nuclear radiation
+exposure); but, by helping repair of
+the DNA the BRCA2 gene plays an
+important role in maintaining fidelity
+of a cell’s genetic information.
+The research project led by
+Professor Xiaodong Zhang, from the
+Department of Medicine at Imperial,
+and Dr Stephen West, from Cancer
+Research UK London Research
+Institute, has used electron microscopy
+and protein purification to reveal the
+structure of the BRCA2 protein and
+show how it interacts with the RAD51
+protein and DNA.
+The study unveils that the 3,418
+amino acid BRCA2 protein facilitates
+the nucleation of RAD51 filaments
+at multiple sites on single-stranded
+DNA. Furthermore, 3D electron
+microscopy reconstructions also
+reveal how the BRCA2 protein exists
+On top of this, the information in
+the reports is not as transparent as it
+appears—the EMA still reserve the
+right to take out any information that
+could be of “confidential commercial
+importance” to pharmaceutical
+companies, and not indicate where or
+what information has been removed,
+potentially leaving it open to the kind
+of concealment seen in the lack of
+publication of negative results.
+Despite these shortcomings, the
+policy is at least a significant step
+forward by a major organisation to
+shift focus onto more open-access
+clinical data. This current version
+has also come a long way since
+it was initially proposed earlier
+this year, with a ridiculous caveat
+that researchers would not be able
+to annotate, print off, save, copy
+or share any of the information
+contained in these, sometimes
+thousands of pages long documents.
+Although many pharmaceutical
+companies are nervous about this
+increased transparency, some are
+actually for it — GlaxoSmithKline, for
+instance have said “the more eyes on
+our data the better for us”. Hopefully
+the success of this policy will lead to
+more transparency in the future.
+Simulated image of the BRCA2
+protein Photo: Wiki Commons
+as a dimer and two oppositely oriented
+sets of RAD51 molecules bind to this
+dimer; this complex then searches out
+matching strands of DNA in order to
+repair the break. This gives us a better
+idea of how exactly the homologous-
+recombination repair works and also
+opens new pathways for possible
+further research as well.
+Professor Zhang, co-leader of the
+study, explained how “this study
+improves our understanding of a
+fundamental cause of cancer [and]
+gives us a platform to design new
+experiments to probe its mechanism
+in greater detail.” Hopefully, we
+are not far off from translating this
+knowledge into tangible benefits for
+patients.
+DOI: 10.1038/nsmb.2899
+

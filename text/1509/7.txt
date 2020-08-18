@@ -1,0 +1,195 @@
+advantage of the speed and efficiency
+gains to harness the raw power of the
+integrated circuit and GPU.
+If Physics is to be considered the ap-
+plication of Mathematics to the Uni-
+verse, frequently giving us answers
+to life’s questions, then Computing is
+the application of Mathematics to the
+virtual Universe. For instance, creating
+a perfect sphere is impossible in the
+C
+omputer Science is an
+often misunderstood aca-
+demic topic. Many peo-
+ple outside the field do
+not perceive the breadth
+and depth of research material that’s
+pumped out daily and how it affects
+our everyday lives. To observe its pro-
+found effect in the real world, we must
+first examine the theoretical. There are
+a variety of problems which are fa-
+mous in mathematics. The Millennium
+Prize Problems and Hilbert’s Problems
+are collections of such unsolved prob-
+lems selected by the Clay Mathemat-
+ics Institute and mathematician David
+Hilbert. The former are noted for their
+million-dollar prize for the first veri-
+fied solution to any one of the seven
+problems, six of which remain un-
+solved at the time of writing.
+Why should the average person care
+about finding solutions to them? First,
+we must realise their real world appli-
+cations. While some high profile fields
+are largely saturated in terms of re-
+search progress, Computer Science has
+taken an opposite path and the field is
+increasingly gaining momentum, with
+discoveries emerging due to break-
+throughs in logic and theoretical com-
+putational systems and mathematics.
+A core component in electronic cir-
+cuits is the transistor. The number of
+transistors within computer proces-
+sor chips have increased over time
+roughly according to Moore’s Law,
+allowing for greater processing power.
+This law states the number of transis-
+tors will double every 18 months and
+eventually reach a limit. This limit is
+frequently extended, and consumers
+continue to see improvements yearly.
+This greater processing power is not
+limited to consumer use, however, and
+research institutes have begun to take
+physical realm, though such perfect
+elements are digitally representable.
+This expressive property has opened
+the door to new methods of analysis
+with machines, using them as an aid
+to solving existing research problems.
+For instance, a quantum mechanical
+system described to us by Physics is
+best explored by a quantum computer,
+a machine which is capable of operat-
+ing on the same physical levels as the
+very realm researchers are attempting
+to understand.
+The Riemann Hypothesis, consid-
+ered one of the most important prob-
+lems in pure mathematics (Borwein
+et al. 2008), involves the distribution
+of the prime numbers. The hypoth-
+esis states that the solutions to the
+Riemann-Zeta function lie on a critical
+line. While no proof yet exists, the first
+ten trillion values have been verified
+by distributed supercomputing efforts.
+While an underlying pattern appears
+plausible, this Hilbert Problem remains
+unproven. The unpredictable nature
+of the prime numbers has been put to
+use in the RSA (Rivest, Shamir and
+Adleman, MIT, 1978) cryptographic
+algorithm. This system, considered
+currently unbreakable due to techni-
+cal infeasibility, provides digital secu-
+rity with primes. Banks, websites and
+governments worldwide have adopted
+RSA and it is a common means of dis-
+tributing an encryption key. A brute
+force search would need to test possi-
+ble primes to break this, but since there
+is no reliable way of determining the
+next prime, computers may take years
+to perform this operation, rendering
+this method impractical. A proof of the
+Riemann Hypothesis, however, may
+provide a means of determining a pat-
+tern and breaking RSA.
+Brute force guessing of standard
+passwords is also impractical. We are
+all currently encouraged to create case-
+sensitive alphanumeric passwords. The
+problem with checking every possibili-
+ty lies not with verification; a computer
+can easily identify whether two pieces
+of text are equal. It lies with first ob-
+taining the solution to compare. Some
+techniques search through dictionary
+entries, allowing quicker identification
+of common passwords.
+Another Millennium Prize Problem,
+touted the most important unsolved
+problem in Computer Science, P vs NP
+(Cook, 1971) revolves around this con-
+cept. It asks the question of whether a
+problem having quick machine verifi-
+able solutions means those solutions
+can also be found quickly. Problems of
+the latter are classified P, while those
+that are hard to compute are NP. In the
+case of guessing passwords, it becomes
+apparent that verification is a P prob-
+lem (easy) while searching for the cor-
+rect password is NP (hard).
+The world currently assumes P not to
+be equal to NP, as well as most Com-
+puter Scientists (Gasarch, 2002) agree-
+ing, while majority of security systems
+rely on this assumption. A claimed
+proof of P=NP (Deolalikar, 2010) was
+later shown to be incorrect, though
+the possibility raised many concerns
+for security. The implications would
+be far-reaching for society. A cor-
+rect proof either way will have great
+impact, since the solution to P vs NP
+intrinsically links to solutions of the
+other Problems. If P=NP, not only will
+a new era of cryptography need to be
+abruptly ushered in, but NP-hard prob-
+lems within countless other fields such
+as Biology (genome sequencing, pro-
+tein structure prediction) and Physics
+(simulations) would become easier.
+The effects of solutions on society’s
+widely used systems cannot be ig-
+nored. They would pave the way to a
+once-distant future, with consequences
+such as the rise of new, future-proof
+technologies resistant to P=NP attacks,
+leading to better consumer systems.
+A hail of advancements in knowledge
+would be made, with improvements
+to society’s quality of life due to sig-
+nificant improvements to Biology,
+Medicine and other fields. Perelman,
+responsible for solving the Poincaré
+Conjecture (involving the characteris-
+tics of spheres in higher dimensions)
+remarked: “Where technology creates
+new machines and devices, Mathemat-
+ics creates their analogues – logical
+methods for analysis in any field of
+science. Every Mathematical theory, if
+it’s strong, will sooner or later find an
+application.” (Perelman, 2003)
+As researchers move on to prov-
+ing the next unsolved theorem armed
+with potent approaches and technol-
+ogy from Computer Science, the lay-
+people of society would truly revel in
+the consequences of such discoveries,
+and would therefore benefit the most
+overall.
+Adapted from a winning submission to
+the RCSU Science Challenge 2011.
+Does Computer Science hold the answer?
+Alexander Karapetian on computing and important mathematical problems
+A plot of the Riemann-Zeta function over the Complex Plane. Trippy. And pretty. Am I on drugs?
+Number of transistors per die within processors over time
+“Every mathematical
+theory... will sooner
+or later find an ap-
+plication.”
+IEEE
+FEATURE
+FELIX Friday 03 february 2012 7
+features.felix@gmail.com
+Features Editors: Katy Bettany
+Stephen Smith
+

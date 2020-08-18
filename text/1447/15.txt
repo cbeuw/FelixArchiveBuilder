@@ -1,0 +1,151 @@
+11
+felix FRIDAY 04 DECEMBER 2009
+science.felix@imperial.ac.uk SCIENCE
+One of the key postulates of Einstein’s
+theory of special relativity is that the
+speed of light in a vacuum is constant.
+This means that whatever the energy
+of the photons making up the ray of
+light, its speed is always the same. It’s
+called Lorentz invariance, and it’s been
+on trial once again, courtesy of the Fer-
+mi Large Area Telescope (LAT) Col-
+laboration. In a paper published in Na-
+ture last month, Abdo and colleagues
+at the collaboration analysed the light
+coming from a distant and fleeting
+gamma ray burst to try and pick up any
+variation in the speed of its photons –
+and found no variation, at least down
+to a limit. Gamma-ray bursts (GRBs)
+are believed to be released during su-
+pernovae and are the brightest events
+occurring in the universe – despite the
+fact that most of them are billions of
+light years away from Earth. The radia-
+tion emitted during a GRB is extremely
+intense, typically releasing as much en-
+ergy in a few seconds as the Sun will
+in its entire lifetime. They are good
+candidates for measuring a variation
+in light speed due to the cosmologi-
+cal distances the light has to travel to
+reach us – even tiny variations in pho-
+ton speed are amplified enough to be
+revealed in the sharp features of the
+light curve emitted during the burst.
+Researchers at the Fermi LAT Col-
+laboration were alerted to a particular-
+ly interesting gamma-ray burst after it
+was picked up by both the Large Area
+Special relativity is
+put to the test
+Telescope and the Gamma-ray Burst
+Monitor, which are aboard the Fermi
+Gamma-ray Space Telescope. This
+telescope is a joint project between
+NASA, the US Department of Energy
+and government agencies in France,
+Germany, Italy, Japan and Sweden, and
+is currently in low Earth orbit. A pho-
+ton, with an energy of 31GeV, emitted
+less than a second after the start of the
+burst was singled out and used to find
+a limit for the variation of the speed
+of light. In special relativity this limit
+should not exist, as there is no length
+at which the Lorentz invariance should
+be broken. However, some theoreti-
+cal physicists think that at very small
+lengths it could in fact be violated. In
+order to formulate a “theory of every-
+thing”, they are attempting to reconcile
+gravitational effects with quantum me-
+chanics and create a theory of quantum
+gravity. According to these theories, at
+the Planck scale (lengths of approxi-
+mately 1.63 x 10-34 cm) quantum me-
+chanics should interact with gravity,
+influencing the nature of space-time
+and so changing the speed of light. In
+the research conducted by the Fermi
+LAT Collaboration, however, Lorentz
+invariance was found by two independ-
+ent methods to hold true down to the
+Planck length divided by 1.2. This is a
+blow to some quantum gravity theories
+that require the fabric of space-time to
+be altered on small scales. While this
+may be bad news for some modern day
+physicists, it’s good news for Einstein –
+after over 100 years, his theory of spe-
+cial relativity still stands.
+Kelly Oakes Science Reporter
+Artists impression of a gamma ray burst detected by the Fermi telescope.
+Photons from gamma ray bursts have called
+into question the Lorentz invariance
+This week marks the 109th Nobel Prize
+award ceremony. In line with the 60th
+anniversary of felix, we take a look at
+the people who received the award for
+scientific achievement back in 1949.
+Physics - Hideki Yukawa:
+After graduating from Kyoto university
+in 1926, Yukawa became particularly
+interested in the theory of elementary
+particles. In 1935 he published a paper
+on meson theory and proton-neutron
+interactions. He received the Nobel
+Prize for Physics ‘for his prediction of
+the existence of mesons on the basis of
+theoretical work on nuclear forces’ after
+the discovery in 1947 of his theorised
+pion by Cecil Powell, Guiseppe Occhia-
+lini and Cesar Lattes.
+Chemistry - William Giauque:
+After gaining a PhD in Chemistry (with
+a minor in Physics) from the University
+of California in 1922, Giauque initially
+had plans to become an engineer but
+developed an interest in research un-
+der Prof. Gilbert N Lewis (famous for
+the discovery of the covalent bond).
+Much of his research was dedicated to
+demonstrating the third law of ther-
+modynamics as a basic law and devel-
+oping methods by which temperatures
+below 1 Kelvin may be observed. Ac-
+cordingly, he was awarded the Nobel
+Prize for Chemistry ‘for his contribu-
+tions in the field of chemical thermo-
+dynamics, particularly concerning the
+behaviour of substances at extremely
+low temperatures.’
+Physiology or Medicine - Walter
+Hess and Egas Moniz
+Walter Hess received his medical de-
+gree from the University of Zurich in
+1906 and trained an ophthalmologist
+before turning to research. He started
+to map the parts of the diencephalon
+region of the brain following on from
+his initial interest in blood flow and
+respiration. He received half of the No-
+bel Prize for Physiology or Medicine
+‘for the discovery of the functional or-
+ganisation of the interbrain as a coor-
+dinator of the activities of the internal
+organs.’
+Egas Moniz studied medicine at the
+University of Coimbra before training
+as a neurologist. After a brief career in
+politics, he returned to medicine and
+in 1927 developed cerebral angiogra-
+phy, a method allowing blood vessels in
+the brain to be visualised. He received
+half the Nobel Prize ‘for his discovery
+of the therapeutic value of leucotomy
+[lobotomy] in certain psychoses’.
+Nobel Prize winners of 1949
+Brigette Atkins Science Editor
+

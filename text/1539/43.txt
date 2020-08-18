@@ -1,0 +1,366 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 08 FEBRUARY
+44
+Double Crossword
+2
+2
+2
+2 2
+2
+2 2 2
+2
+2
+2
+2
+2 2
+2 2
+2
+2
+2
+2
+2 2
+2
+2 2
+1
+1
+1
+1
+1
+1
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+0
+0
+3
+3
+Slitherlink
+Ophis
+Draw a single closed loop by
+vertically and horizontally
+joining the dots so that the
+numbered squares are sur-
+rounded by the correspond-
+ing number of lines, but no
+diagonals please. It has nev-
+er happened, but you never
+FUCWIT
+League Table
+Hashi Connect all the is-
+lands with bridges so
+that you can get from
+any island to any
+other one. There are
+restrictions, though:
+the bridges have to
+be either vertical or
+horizonal and they
+must not intersect.
+You can have up to
+two bridges between
+any two islands and,
+last but not least,
+each island must
+have exactly as many
+bridges stemming
+from it as the number
+on it.
+TEAMS
+Requiem for a Bean 28
+Sexy Beasts 15
+G.A.Y.S. 4
+I ate all your bees 4
+INDIVIDUALS
+Wael Aljeshi 22
+Yufan Zhao 21
+Helix 17
+M-Soup 15
+Tan Wei Jie 4
+Send your answers to puzzles.
+felix@imperial.ac.uk.
+QUICK CLUES
+Across
+1. Academic institution (8,7)
+9. Pointed part of weapon (9)
+10. Nincompoop (5)
+11. Opposing force in physics (8)
+12. Turned to liquid (6)
+14. Type of sword (4)
+15. Payment in full (10)
+18. Type of verse (10)
+19. District of London (4)
+21. Branch of physics (6)
+23. Laziness (8)
+25. Under the duvet (2, 3)
+26. Make ornamental improvements
+to a park (9)
+27. Insensitivity (15)
+Down
+1. Person who revolts against a gov-
+ernment (15)
+2. Widespread (9)
+3. Scarceness (6)
+4. Device for measuring wind speed (10)
+5. Extra section at the end of book (4)
+6. Literate (8)
+7. Something that happens (5)
+8. Promptness (15)
+13. Act of being present (10)
+16. Free someone from blame (9)
+17. TV programme presented by Anne
+Robinson (8)
+20. Playing against, in sport (6)
+22. Social prohibition (5)
+24. Excess (4)
+CRYPTIC CLUES
+Across
+1. Eager police mill about where you
+study (8,7)
+9. Pierce has brains to be pioneer (9)
+10. Dimwit stows Europe in even
+places (5)
+11. Response to Rancine plays (8)
+12. Girl and boy like cheese on toast? (6)
+14. First of elm planks enterprising
+employee used for fencing (4)
+15. Colony let test confusion overwhelm
+soldiers (10)
+18. FInally inspect sheep trapped in rock
+- it has four fet (10)
+19. Consequently prostitute may be
+found here? (4)
+21. Operation Titanium gets Lewes
+behind bars for fixed amounts (6)
+23. Eric by loch, doing nothing (8)
+25. Where to find flower - rose? Not if
+still here! (2, 3)
+26. Painting Den Pascal composed (9)
+27. Should not as much nitrogen
+captiured by Nazi guards mean lack of
+consideration? (15)
+Down
+1. Rebel runs riot, incites chaos (15)
+2. Popular vicar has father round before
+Easter (9)
+3. Equivalence of currencies with rupees
+for pence is something very unusual (6)
+4. Film fish gathered in a hospital room,
+as wind instrument... (10)
+5. ...a medic set up gives final piece of
+music (4)
+6. Knowing lots about the arts, allow
+little Edward to hug the Queen (8)
+7. First lady books gig (5)
+8. Quick nature trips around centre of
+Odessa take us in (15)
+13. TIme for news on prom turnout (10)
+16. Old flame on drug charge let off (9)
+17. Monitor eye shadow (8)
+20. Poetry we hear America is against (6)
+22. Thanks to catcall, it’s forbidden (5)
+24. Stuff belly with lamb starter (4)
+1 1
+3 2 3
+3 1 1 3 3
+2
+1 2
+4
+6
+4 5
+2 2 2 2
+4
+4
+2 5
+3 3
+4 3
+3 3
+2 3 2
+2 2
+2 2
+2 2
+2 1
+3
+1 3 2
+
+
+ 
+
+     
+        
+        
+        
+        
+        
+        
+        
+        
+2
+6
+6
+4
+4
+6
+4
+2
+2
+6
+4 6 0 7 8 5 4 4
+Fill the cells with a
+continuousline(the
+“snake”) that does
+not pass through a
+cell twice, doesn’t
+intersect with itself,
+and passes through
+all white boxes. The
+numbers show you
+how many times
+the snake turns in
+the corresponding
+row or column. The
+snake enters and
+exits the grid at the
+shown points (and
+only those points).
+There’s a hint to get
+you started.
+with thanks to Paolo Giaccone
+A tricky bit of magic
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+
+Last week’s crossword
+The numbers in each row and col-
+umn show you how many groups
+of black squares are in a row or
+column, as well as how many
+black squares each group consists
+of. Filling in the grid produces a
+pretty picture, which in turn pro-
+duces points if you send it in.
+

@@ -1,0 +1,112 @@
+26 felix Friday 16 February 2007
+PUZZLES sudoku.felix@imperial.ac.uk
+Spiritualise neo-rectify puzzle time
+Alex says: “Creating subheads for this page is the pinnacle of pointlessness. Just say: ‘here’s more puzzles.’”
+Hell
+5
+3
+1
+2
+4
+1
+2
+7
+6
+8
+9
+7
+4
+5
+5
+2
+9
+6
+3
+2
+5
+1
+8
+7
+3
+4
+1
+3
+8
+6
+5
+7
+8
+1
+9
+3
+1
+3
+7
+5
+2
+1
+6
+4
+7
+4
+2
+8
+3
+1
+6
+5
+9
+8
+2
+5
+5
+4
+6
+8
+Limbo
+Another
+world
+Sudoku mania! Kakuro – round 6
+The numbers indicate the sum of the dig-
+its in the row or column indicated. For
+example, the square with 7 and 11 in it
+means “the numbers you write in the row
+below must add up to 7, and the numbers
+in the row across must add up to 11”. You
+may use each number only once within a
+row of cells (called a ‘run’), like sudoku.
+Any spare cells are available for the de-
+piction of romantic dinners for two in a
+silhouette style.
+Hexadoku V – Kowabunga
+4
+7
+6
+9
+1
+1
+5
+9
+2
+4
+1
+7
+1
+6
+5
+5
+9
+8
+3
+4
+7
+9
+6
+7
+1
+6
+2
+8
+3
+4
+

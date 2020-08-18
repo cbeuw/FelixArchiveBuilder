@@ -1,0 +1,192 @@
+A
+t first they thought that the
+experiment had gone awry.
+They’d spent years studying
+silicon compounds and thought
+they knew what to expect. But
+this compound was different. It was unstable,
+seemingly unpredictable – constantly shifting
+between electronic states. This compound was
+misbehaving.
+“We were puzzled,” remembers Professor
+Tony Kenyon, head of the Photonic Materi-
+als Laboratory at University College London.
+“The immediate thought was that there was
+something wrong. I had a new PhD student, so
+I gave him some samples and said: ‘go and find
+out what the problem is’.”
+That student was Adnan Mehonic, and he
+was about to tell his supervisor something
+very surprising. “He came back to me and said,
+they’re not unstable, they’re programmable.”
+And did the professor believe him? “I looked
+at Adnan’s evidence and thought: that’s real.
+This is a really exciting prospect.”
+What Professor Kenyon’s team had inadver-
+tently created was an electronic component
+that could not only vary its resistance, but also
+“remember” its last resistive state. Silicon ox-
+ide is usually an electronic insulator, but the
+team believe that the “extra” atoms within
+their compound move around when exposed to
+an electric field, forming conductive filaments.
+By altering the voltage, resistance can be con-
+tinuously varied, creating a special type of
+electronic switch. Their compound, it seemed,
+was a memory-resistor – a memristor.
+The memristor’s existence was first postulat-
+ed in 1971, but scientists long struggled to turn
+Sweet, sweet serendipity
+FELIX
+Friday 08 june 2012
+8
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+“”
+If you find yourself
+competing against
+silicon, don’t.
+These days we are overwhelmed with clever tech-
+nology. From the wonders of the iPad to the practi-
+cality of satellite navigation. There are few areas of
+our lives that are not enhanced by technology, so
+it is hard to imagine how it could develop further.
+But, surprisingly, the answer may be in nature – in
+bacteria, to be precise.
+A research group at Leeds University have been
+working with magnet-making bacteria and their find-
+ings may provide a step towards producing more
+cost-effective and environmentally-friendly electron-
+ics in the future.
+In nature, these bacteria have been observed to
+‘eat’ iron to create a surface of magnets, similar to
+those found in computer hard drives. “No one really
+knows why they make them, but it seems to help
+them line up along the magnetic field allowing them
+to find their ‘happy place’, where they can can ac-
+cess food and oxygen,” explains doctoral student,
+Joanna Galloway, lead author of the study.
+The bacteria used in this research were identi-
+fied originally in 1975, however this is the first time
+they’ve been successfully grown in the lab. “They
+live in really niche, narrow environments so they’re
+quite difficult to actually grow in a lab and study
+properly,” says Galloway.
+The team have been working on a ‘bottom-up’
+approach to create these environmentally-friendly
+computers. This is where components are left to
+assemble themselves into a pattern, compared
+to the ‘top-down’ approach of technology produc-
+tion where desired patterns are etched out from a
+surface. The benefits are cost friendly too. “Rather
+than having to use expensive equipment each time,
+if you maintain the right conditions you can get the
+materials to assemble themselves. Also, the tech-
+nique doesn’t require horrible chemicals or high
+temperatures so its very cost effective,” explains
+Galloway.
+Currently the researchers are working with tem-
+peratures of 80ºC to develop these magnetic par-
+ticles but now they are working on testing their
+effectiveness at room temperature. They will also
+be trying out different magnetic proteins to assess
+their ability to store and retain information like a
+computer.
+Despite this research being in its early stages, it
+is possible that we could witness the beginnings of
+a biological computer in most of our lifetimes, “in
+15 years time, you wouldn’t have a whole bacte-
+rial computer but prototype components for it could
+possibly be templated using this process.”
+I wonder if Apple will catch on to this...ePad any-
+one?!
+Julia Robinson
+Magnet-making bacteria,
+assemble!
+theory into practice. Then, in 2008, IT-giant
+Hewlett-Packard announced the creation of the
+world’s first memristor – and with it, a type of
+electronic memory a hundred-times faster and
+a thousand-times more efficient than its com-
+petitors. Unfortunately for HP, this titanium-
+based compound, like the variations that have
+followed, was both expensive to produce and
+unviable in ambient conditions.
+The UCL device is neither of these things. It
+is also made of silicon, the element quite liter-
+ally at the core of global electronics. There’s a
+saying in the industry, says Professor Kenyon:
+“If you find yourself competing against sili-
+con, don’t.” His team have stuck to this max-
+im, making it relatively easy to assimilate their
+component into existing silicon technology, be
+it microchips, processors, or even satellites.
+Which explains why industry has taken such
+an interest. According to Professor Kenyon,
+discussions are underway with several leading
+companies and the new technology could hit
+the market in as little as three years, “if we’re
+lucky.” An apt disclaimer from a scientist who
+knows the value of a little bit of good luck.
+Victoria Charlton on a surprising discovery and a resisitor that remembers
+It is a truth universally acknowledged that glob-
+al warming is a bad thing. Icebergs are melting,
+seas are rising and holidays to the Maldives
+may become relegated to wistful anecdotes of
+the iPod generation. However for species such
+as the Aricia agestis or Brown Argus butterfly,
+warmer autumns such as the one the UK experi-
+enced in 2011 are providing an opportunity for
+them to spread their wings and multiply.
+Research at the University of York showed
+that rather than constraining the habitat of the
+butterfly, the warmer climate in recent years has
+changed the diet of the Brown Argus, allowing
+caterpillar development to take place in much
+more northerly locations than ever before.
+“While it [the Brown Argus] was previously
+restricted to using Rockrose, it’s now been
+able to incorporate Geranium species into its
+diet – and we don’t think its been an evolution-
+ary switch,” says Rachel Pateman, lead author
+of the study. Rachel and her team believe that
+the butterflies have always had the capacity to
+complete their life cycle using the widespread
+Geranium species, but only when the weather
+is warmer. Now that climate change has in-
+creased summer temperatures, the Brown Ar-
+gus can use this common species to lay their
+eggs in more geographically distinct areas.
+The data, collected by volunteers from the
+UK charity Butterfly Conservation and pub-
+lished in the journal Science, highlights the
+disparity between the traditional view of cli-
+mate change as a catastrophic problem and
+the finer details of its effects. However the au-
+thors of the study are careful to highlight that
+the Brown Argus is just one positive result in
+a plethora of data. “There’ll be winners and
+losers from climate change,” says Rachel Pate-
+man. And it isn’t just other species that may
+be threatened from the effects of a warmer cli-
+mate. The Brown Argus has only been studied
+in the UK so far. “We don’t know what’s go-
+ing on in other parts of its range, because its
+distributed throughout Europe and through to
+Butterflies get boost from climate
+NorthAfrica, so it might be that in those places
+its getting too warm for it and its doing badly
+there,” Rachel cautions.
+The issue of global warming is set to stir up
+interesting findings and debate in the future.
+While rising temperatures are good news for
+the Brown Argus butterfly, it is important to
+remember those species that may not get their
+day in the sun.
+Helen Wilkes
+Brown Argus butterfly is one species that has benefited from climate change
+Jim Asher
+

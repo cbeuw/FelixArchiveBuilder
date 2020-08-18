@@ -1,0 +1,283 @@
+28 felix Friday 18 January 2008
+The CES 2008 tech roundup
+Samir Talwar and Andrew Slater will let you know the good, bad and ugly of CES
+J
+anuary is a good month for geeks,
+and last week’s Consumer Elec-
+tronics Show (CES ‘08) in Las
+Vegas proves why. This is the
+time where manufacturers get to
+show off the next year’s worth of gor-
+geous gadgets for you to get ready to
+blow some of that hard-earned cash
+on – don’t forget to thank the Student
+Loans Company for helping you out
+there. It’s not just computer stuff, ei-
+ther: in fact, the focus this year was on
+bigger, better and thinner TVs. That’s
+not all, of course: we’ve got everything
+from radio to robots lurking within the
+next few paragraphs. Read on, and try
+not to pass out with pleasure.
+First things first: the beginning of the
+end for the long-running format war
+may be near, with first Warner Bros.
+and now possibly Universal jump-
+ing ship and switching exclusively to
+Blu-Ray over HD-DVD movies. Even
+Microsoft, a staunch HD-DVD sup-
+porter, has jumped on the bandwagon
+and hinted they might be releasing a
+Blu-Ray drive for their Xbox 360. Of
+course, this is all irrelevant, as faster
+and faster broadband speeds mean
+we’ll all be streaming beautiful HD
+movies straight to our telly boxes by
+next year if the industry gets its act
+together.
+Speaking of the almighty soul-sucker,
+CES had a lot of them. Just about eve-
+ryone important was invited, and they
+had a lot of kit to show off. Panasonic
+have made the biggest plasma screen
+ever, weighing in at 150 inches of pure
+viewing pleasure, and no one cared,
+because they didn’t have anywhere to
+put it. Perhaps more useful is Pioneer’s
+new TV: at less than a centimetre
+thick, this one’s prepared for true wall-
+mounting goodness.
+Companies seem to be bored with
+plasma and LCD, and are searching
+for more fancy acronyms to dazzle
+you while they steal your credit card.
+Mitsubishi have decided lasers are far
+better looking than mere LCDs... and
+y’know what? They’re right. Lasers de-
+liver unparalleled colour vibrancy, en-
+hancing your already fantastic viewing
+experience – screw food, your new 50-
+inch flat screen was worth every penny
+– and making your favourite cartoons
+look even more colourful than before.
+Meanwhile, Samsung have swung to-
+wards OLED, creating a 31-inch dis-
+play that saps almost no power in com-
+parison to the behemoth you have in
+your parent’s living room.
+And my personal favourite: LG-
+Philips’ frickin’ awesome e-paper tech-
+nology, which allows changing imagery
+(updates about ten times a minute, but
+that should improve) on a flexible sur-
+face. It’s backlit too, which while horri-
+ble for games and the like, is perfect for
+reading that book you always manage
+to leave on your pillow before setting
+off for uni.
+USB, those three letters that we over-
+look every day, have a new member of
+the family on the way. The standard
+that freed us from the limitations of
+the Serial port and provided us with
+a single type of connector for almost
+any device has transformed the world
+of computer peripherals into a sim-
+ple case of “does your PC have a USB
+port?” has released USB 3 upon us. By
+utilising the plastic block that prevents
+USB devices being inserted incorrectly
+they’ve managed to sneak in a pair of
+optical connectors. This boosts USB
+up to a massive 4.8 Gbps – a ten-fold
+increase – whilst letting you use your
+archaic printer and old-school iPod
+without worrying about slowing up
+your new Blu-Ray reader/burner/
+toaster.
+By now, the weak will have drifted
+off in pursuit of less gadget-oriented
+articles, assuming that a university of
+science has anything else to talk about.
+Nevertheless, they have been culled,
+and I shall reward the faithful with
+C
+ongratulations on suc-
+cessfully obtaining a copy
+of this week’s umbrella.
+Don’t despair – it may
+seem less than useful, but
+with the right application of origami
+principles, it may just serve.
+This is the first editorial I’ve written
+so bear with me as I summarize what
+went on this week and what articles we
+have for you to enjoy; or skim over -
+you ingrates.
+Two massive events took place in the
+gadget world with a whole host of toys
+that we could preview. In fact we were
+so spoilt for choice that we decided to
+do two big articles covering each of the
+two events and then give you a little
+run down of the stuff we missed.
+The first event is the annual Con-
+sumer Electronics Show, held in Las
+Vegas, which is where all the technol-
+ogy manufacturers show off what their
+investors have put millions of their
+hard earned dollars into. The spec-
+trum of cutting-edge stuff is as wide
+as ever; covering new technology in
+laptops, television, audio equipment,
+robotics and practically anything you
+could dream of. Samir and Andrew
+have teamed up to cover some of the
+principal releases from the show.
+Now the second event of the week
+was the fabled Macworld where Steve
+Jobs stepped up with yet another black
+polo neck shirt and a keynote speech
+full of goodies for all the Mac fanboys
+and -girls. Will there be another major
+product? Who knows, but I’ve covered
+as much I can of his content-packed
+speech.
+On a slightly less important note,
+Sony announced that the production
+cost of a PS3 has halved since release,
+so who knows; we may get lucky and
+see another price drop or a new 80GB+
+model appear at a reasonable price.
+Maybe I should nip down to town and
+trade my elite in for a PS3? Life forces
+such hard decisions on us.
+Doesn’t sound like a bad start to a
+new year – it’s just a shame Christmas
+has gone, to be honest. We should start
+to see all of these new products seep
+into the public domain over the next
+six months so we can then cover them
+from a much more accurate prospec-
+tive, rather than all this guesswork all
+but the most prestigious of us have
+been attempting.
+In the works for the next issue we
+hope to have a big collection of reviews
+on some of the top-end mobile phones
+many people are sporting these days
+– and no, it won’t just be an iPhone
+review. All I now have to do is track
+down a bunch of very specific expen-
+sive phones, in a building full of people
+living on student loans – it should be
+interesting, to say the least.
+If you would like to get involved with
+putting together articles for this sec-
+tion then use the email address at the
+top of this page and they will, hope-
+fully, get sent to the right place.
+So without any more waffle I’ll let you
+read about whatever breakthroughs
+from CES that Samir and Andrew have
+chosen to let you know about, or you
+can skip it and read my fantastically
+fact-filled Apple article.
+P.S. No one’s reading this far anyway.
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+I hate to pose this question, but do consumers really need a 150” television?
+everyone’s favourite electronic play-
+thing: robots.
+With countless booths dedicated to
+them, CES was packed with the first
+wave of our eventual overlords. And
+while they’re not at the level of Skynet,
+the displays of artificial intelligence in
+almost all of them was astounding –
+clearly, AI isn’t just a pipe dream.
+First off is iRobiQ, which does...
+everything. Well, not the chores, but
+it’ll take care of you, monitoring your
+health, your home while you’re away,
+the weather, your interests, and even
+the news. It’s fully customisable, with
+a monthly plan that lets you sign up
+for just the services you want. Add
+this to a Roomba hoover bot and have
+the pizza guy on speed-dial and you’ll
+never have to get up again... except to
+play with your new Comprehensive
+Robot. Built of Lego components by
+your overworked fingers, it does pretty
+much everything you’d expect an over-
+priced toy to do: talk nonsensically,
+wander the halls, acting as a hazard for
+small children, and pretend to sympa-
+thise with your lack of cash following
+its purchase – it’s a steal at only $869!
+Of course, if you want to go all-out,
+there’s always Sunny, NOAA’s weather
+bot. He sings, he dances (that one’s a
+lie... but the previous one isn’t) and he
+knows a lot about the weather. What’s
+impressive, assuming what we saw was
+all autonomous and there was no man
+behind the curtain, was the responsive-
+ness and coherency of the artificial in-
+telligence powering the bot. Replies to
+questions felt natural and usually deliv-
+ered the right answer, with a bit more
+thrown in for good measure. There
+were a couple of slips, but the imper-
+fections imply it’s actually processing
+the conversation itself, rather than the
+hidden human.
+I know it seems like it, but CES isn’t
+all big technology – there’s actually
+some very simple ideas demoed there
+too. For example, the Slacker Personal
+Radio – a portable music player that
+helps you discover new talent by sim-
+ply letting you vote on songs, and then
+recommending you new ones based
+on your tastes. This is similar to the
+Pandora music service, which provides
+the same service through your web
+browser. Unfortunately, both of these
+are available only to our friends across
+the pond, most Stateside companies
+can’t be bothered to branch out to un-
+civilised realms such as our beloved
+United Kingdom. Perhaps it’s best
+we’re not the same as our American
+brothers, however. Gizmodo proved
+this when they decided to get one of
+their reporters a lifetime ban using a
+simple device known as TV-B-Gone,
+which unsurprisingly is rather good at
+turning off TVs. As TVs were arguably
+the highlight of the entire event, booth
+owners were unsurprisingly irritated,
+and while some took it in stride, others
+didn’t see the funny side. It could be ar-
+gued it was all in good taste if it wasn’t
+for them switching off the big screen
+during presentations, disrupting the
+event and wasting everyone’s time.
+Pranks are awesome...when they’re
+well thought out.
+Thankfully, the rest of the entire five-
+day tech-fest went off without a hitch.
+Too many gadgets, gizmos and gor-
+geous booth-babes to count resulted in
+enormous amounts of drool from the
+mouths of thousands of nerds, scatter-
+ing the floor and causing an immense
+amount of work for the clean-up team.
+Apparently, that’s all part of the fun
+that is CES.
+James Finnerty
+Technology Editor
+

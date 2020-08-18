@@ -1,0 +1,225 @@
+ISSUE 1669
+FELIX
+GAMES games.felix@imperial.ac.uk
+39
+GAMES
+FRIDAY, 27TH
+SEPTEMBER, 2019 FELIX
+games.felix@imperial.ac.uk
+39
+GAMES
+FELIX
+games.felix@imperial.ac.uk
+39
+Google Stadia and Chill: What Does the Future Hold
+Hereisanoverviewoftheupandcomingworldofvideo
+gamestreaming.ThinkNetflix,butinsteadofstreaming
+videos you are streaming games, meaning you don’t
+need a crazy powerful PC; all you need is a fast internet
+connection. What are the positives and negatives? will
+it flourish in the current market? With further insight
+into the Google Stadia and whether it can achieve the
+level of success it needs to thrive.
+GAMES
+Freddie Ugo
+Games Editor
+“Unlike TV and
+film, streaming
+video games is
+not just a one-
+way street.”
+I
+n the last decade, we
+have started to see
+different forms of
+media shift towards
+a ‘cloud-based’ market.
+A customer does not need
+to own the media they
+consume but instead can
+stream it online (with the
+caveat of a required steady
+internet connection).
+This has been unarguably
+successful within both
+the music and film/series
+industry, with the recent
+explosion of services
+such as Spotify, Netflix,
+Amazon Prime, Apple
+TV+ and Disney+ just to
+name a small fraction of
+the current market. So, the
+question is, will this work
+for video games? Well…
+that depends on a few
+factors.
+How Does It Work?
+Unlike TV and film,
+streaming video games is
+not just a one-way street.
+When a video game is
+streamed to a computer,
+phone or tablet, the servers
+responsible for sending
+the game information to
+you must also receive
+your controller inputs at
+the same time. This means
+that there is a lot more
+that could go wrong and
+most importantly a much
+faster internet connection
+is required.
+The Internet Issue
+In the world of game
+streaming, Google Stadia
+has recently come under
+the spotlight with a
+mixed response. During
+E3 this year we learnt a
+lot more about Stadia’s
+tech requirements. The
+bare minimum internet
+speed required is 10Mbps,
+which for some is already
+an issue. To play 4k at
+60 FPS, you are going
+to need a hefty 35Mbps.
+Now I don’t know about
+you guys but personally,
+my budget student WiFi
+does not let me play at
+4k so the benefit of being
+able to play on my phone
+or tablet (a major selling
+point of Stadia) is virtual-
+ly non-existent.
+Even with an ethernet
+connection and fast
+enough internet to com-
+fortably stream games,
+many countries put data
+caps on a household’s
+monthly internet usage.
+Playing games on max
+settings will mean you are
+spending around 16Gb
+per hour. With the typical
+data caps, this allots
+you about 20 hours of
+gameplay a month. “But
+that’s plenty of time!”
+I hear you cry through
+the pages. That may be
+plenty for some but if we
+consider all the Netflix
+usage and “Lo-fi hip hop
+beats to chill/ study to” we
+all know and love, then
+it will be closer to half
+that in reality. 10 hours
+a month is completely
+unreasonable when many
+people easily game that
+much in a single week…
+and just the mention of ra-
+tioning my Netflix usage
+is already giving my free
+time shivers.
+The Money Problem
+So not only do we have
+issues with the internet,
+but another growing
+issue is the dividing up
+of the market. Before
+streaming, you could
+play most games with a
+Nintendo console and one
+of the other big 3 (minus
+with OnLive, there was
+no issue with what games
+you could play with a
+wide variety of options
+and only one subscription
+payment you had to worry
+about.
+But now, everyone
+seems to be jumping
+at the chance to stream
+games. Google Stadia,
+Nvidia GeForce Now,
+PlayStation Now and
+upcoming: Project xCloud
+and EA’s “Project Atlas”
+are all options, and that’s
+not even mentioning
+the plethora of smaller
+companies. Firstly, think
+of my poor wallet that is
+already being emptied by
+the Netflixes and Spotifies
+of this world. Now if I
+want to experience all the
+exclusive options from
+these companies, I will
+have to divvy out even
+more cash for the dreaded
+monthly subscription.
+This is made worse by the
+potential for even more
+exclusive content with
+Google Stadia already
+confirmed to have many
+exclusives coming to its
+service.
+Although there are
+many negatives to this
+new gaming model, let us
+ponder the positives that
+come out from streaming
+games.
+Potential Positives
+Firstly, it is important
+to mention that it is by no
+means necessary to stream
+games in order to keep up
+with the hottest things in
+gaming. The exclusives
+which ARE coming out
+are not the big-budget
+titles from decades-old
+franchises that everybody
+loves, Orcs Must Die 3
+(yeah me neither) being
+the biggest one. So, if
+you are not yet ready for
+a streaming filled future
+you do not have to be …
+yet.
+The biggest positive
+aspect of video game
+streaming is that no
+longer do you have to
+An infographic of the required internet speeds and respective qualities for Stadia // Tech Crunch
+“Now if I
+want to
+experience all
+the exclusive
+options
+from these
+companies,
+I will have to
+divvy out even
+more cash for
+the dreaded
+monthly
+subscription..”
+obvious exclusives). It
+meant that there was a
+choice you had to make,
+but nothing major. When
+cloud-based video game
+streaming started (albeit
+very shakily) in 2010
+

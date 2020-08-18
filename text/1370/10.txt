@@ -1,0 +1,157 @@
+10 felix Friday 26 January 2007
+SCIENCE science.felix@imperial.ac.uk
+Chemical warfare – biobricking it
+As developments in synthetic biology advance, should we concern ourselves with potential bioterrorism?
+“Synthetic biology is like genetic
+engineering on steroids,” says Dr
+Doreen Stabinsky of Greenpeace
+International. Although the first in-
+ternational conference on synthetic
+biology occurred as recently as
+2005, the field has already attracted
+a lot of outside attention. Synthetic
+biologists talk of the advantages
+their discipline promises to bring.
+Greenpeace and others worry that
+the science is too dangerous. The
+future of synthetic biology rests on
+whether the public decides that the
+benefits outweigh the costs. And
+the battle for the public’s hearts
+and minds has already begun.
+At the heart of synthetic biology
+are ‘biobricks’. Each biobrick reli-
+ably performs a function, be it as
+a generator, a terminator, or any-
+thing in between. By connecting a
+number of these biobricks together,
+and inserting them into the genome
+of living cells, synthetic biologists
+can produce an organism that car-
+ries out a specific function. The
+potential applications are numer-
+ous: living organisms designed to
+produce medicines cheaply, manu-
+facture biofuels, even dispose of un-
+wanted industrial waste.
+That’s the theory, anyway: until
+recently synthetic biology was con-
+fined largely to the page. That has
+now changed. In November last
+year, synthetic biologists, includ-
+ing a team from Imperial, met in
+Boston to mark the culmination of
+iGEM 2006, an international syn-
+thetic biology competition. “The
+big thing that happened [in Boston]
+was that the central question, ‘can
+you build biological systems from
+standard parts?’ got a resounding
+‘yes’,” says James Brown, a syn-
+thetic biology PhD student at the
+University of Cambridge and an
+ambassador for iGEM. “The fact
+that stuff works now is a really big
+deal,” he continues.
+Many of the competing teams had
+advanced beyond the theoretical
+stage and succeeded in producing
+practical working models. Most im-
+pressively, those working models
+were the results of just a few weeks’
+work over the summer holiday. This
+highlights one of the major advan-
+tages of the new science. Little
+expertise is needed to produce so-
+phisticated systems. Biobricks are
+glorified Lego blocks. The manner
+in which each biobrick work is un-
+important; the researcher needs
+only to stick them together. This is
+plug-and-play science.
+But it is precisely this advantage
+that is the cause of so much con-
+cern elsewhere. In 2005, synthetic
+biologists managed to reconstruct
+Krystyna Larkham
+Science Editor
+the 1918 ‘flu virus from its DNA. Re-
+search using the reconstructed vi-
+rus will inform any strategy to fight
+avian ‘flu. The latest promising re-
+sults were published in Nature last
+week. Ultimately, millions could be
+saved from the effects of a global
+‘flu pandemic, but at the cost of
+resurrecting one of the most lethal
+viruses on record. And, as Jamie
+Shreeve commented in the New
+York Times last year, “The wonder,
+and for some the fear, is that they
+could [resurrect the virus] with so
+little effort or expense.” The con-
+cern is that bioterrorists might
+also desire to construct deadly
+pathogens along the lines of Span-
+ish ‘flu. Synthetic biology could
+provide them with the means to do
+so, without the need for specialist
+knowledge.
+“Synthetic biologists do scare
+people,” James Brown admits. “We
+should be willing to talk about that
+and stand up and be responsible.”
+And to their credit, this is exactly
+what the synthetic biologists are do-
+ing. An entire day of a recent seven-
+ty-two hour conference (‘Synthetic
+Biology 2.0’) was set aside to debate
+ethics. The result was the adop-
+tion of a code of self-governance to
+guard against malpractice, similar
+to that adopted by the pioneering
+genetic engineers in the 1970s.
+“It’s a very open science. We’re
+trying to steer clear of any images
+of ‘mad scientists’ creeping around
+in a cave, to avoid attack by jour-
+nalists,” says Matthieu Bultelle, a
+member of Imperial’s iGEM team.
+But is this self-regulation enough?
+Some are not so sure: a host of or-
+ganisations, including Greenpeace,
+tried to discourage scientists from
+signing the self-governance docu-
+ment (which, in any case, is a vol-
+untary code) arguing that what is
+needed is official regulation by na-
+tional government. They worry that
+scientists acting alone will be un-
+able to regulate such a potentially
+sensitive field.
+The debate continues. A recent
+report by the Sloan Foundation is
+the latest to address synthetic biol-
+ogy. Interestingly, the Sloan Report
+was commissioned by the scientists
+themselves rather than by worried
+campaign groups. Evidently the
+synthetic biologists are not pre-
+pared to surrender the PR initia-
+tive just yet. Instead they are steel-
+ing themselves for the moment that
+synthetic biology registers on the
+public radar.
+It is the response that the sci-
+ence receives in the wider commu-
+nity which will determine its future.
+And, according to James Brown,
+the scientists are ready for the
+fight: “We want public debate. We
+want the world to know about this
+because it’s so important. I genu-
+inely believe synthetic biology is
+going to have a big impact.”
+An H5N1 influenza carrier – not so cute after all. However, can biobricks help prevent this guy from slaughter and the next global pandemic?
+Greenpeace activists, possibly campaigning against the dangers of synthetic biology
+

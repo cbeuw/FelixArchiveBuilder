@@ -1,0 +1,55 @@
+(Amandeep, left)
+Cardigan,
+Topshop, £15
+Smock top,
+Topshop, £15
+Skirt,
+Urban Outfitters, £30
+Belt,
+Charity shop, £2
+Ribbed tights,
+New Look, £4
+Shoes,
+Topshop, £15
+(Melissa, left)
+Dress,
+H&M, £15
+Hoodie,
+Urban Oufitters, £5
+Jelly Shoes,
+Urban Outtiffers, £10
+Necklaces,
+All Topshop, £10
+Bag,
+Topshop, £20
+(Christine, right)
+Knit top,
+Unknown
+¾ Trousers,
+Topshop, £10
+Tights,
+Camden, £4
+Pacman belt,
+Camden, £8
+Scarf,
+Mum’s
+Bag,
+Online, £3
+fashion.felix@imperial.ac.uk
+29
+Friday 9 May 2008 felix
+Fashion
+(Phil, right)
+T-Shirt,
+Gap, £25
+Blue cardigan,
+Diesel, £80
+Red skinny jeans,
+Uniqlo, £20
+Tan Jacket,
+Zara, £Unknown
+Brown shoes,
+Kurt Geiger, £80
+Melissa, Physics, 1st Year Christine, Physics, 1st Year
+Amandeep, Physics, 2nd Year Phil, Chemistry, 1st Year
+

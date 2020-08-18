@@ -1,0 +1,484 @@
+Explaining the Future book launched at UCL
+“Technical
+people are
+both busy and
+smart. I didn’t
+need to labour
+the point, and
+so kept the
+book at under
+200 pages”
+O
+n Monday
+March 4th,
+Dr. Sunny
+Bains from
+the Department of
+Biochemical Engineering
+launched her new book
+Explaining the Future:
+How to Research, Analyze
+and Report on Emerging
+Technologies, published
+by Oxford University
+Press. The book – written
+for engineers, physical
+scientists, consultants,
+and investors – focuses
+on the how to determine
+and communicate the
+impact of new processes,
+systems, and devices.
+The event itself was
+attended by more than
+70 people from across
+London and the South
+East, including UCL staff
+and students, working
+engineers and consult-
+ants, tech journalists and
+editors, and academics
+from other universities.
+According to Bains,
+one of the reasons she
+wrote the book was
+because she couldn’t find
+one to assign her students.
+Bains remarked, “there
+were lots of books writing
+reports on communication
+and a few on research,”
+she explained, “but I
+couldn’t find anything on
+how to figure out whether
+or not a technology was
+vapourware. By putting
+all three of these elements
+together in one short book,
+I realized I could make a
+real contribution.”
+The book starts with a
+chapter on the questions
+to answer when thinking
+about whether a new tech-
+nologyislikelytosucceed,
+followed by chapters on
+various different types
+of sources – from online
+journals to conferences to
+press releases – and how
+trustworthy they are likely
+to be. Chapter 4 focuses
+on analysis and provides
+a step-by-step process
+for working through
+applications and potential
+solutions.
+The focus then shifts to
+communication, thinking
+through the audience, its
+motivation, and the level
+of explanation needed.
+In Chapter 6, Bains
+works through the tech-
+nical argument, a simple
+formula that can be used
+for almost any applied
+science or engineering
+development, as well as
+other layers of structure
+like introductions and
+conclusions. The last
+chapter explains how to
+retain the audience’s trust
+by providing the right kind
+of evidence and signposts.
+There is also a case
+study (related to neuro-
+morphic engineering and
+machine intelligence)
+where Bains works
+through all the elements
+covered in the formal
+chapters of the book. She
+explains in detail how she
+approached the research
+process and then includes
+a final write-up at the end.
+“It sounds like a lot,”
+says Bains, “but I recog-
+nise that technical people
+are both busy and smart.
+That meant I could say
+what I needed to without
+labouring the point, and
+so to keep the book to
+under 200 pages.”
+Bains is a Principal
+Teaching Fellow and
+teaches hundreds of
+students across various
+engineering departments,
+chemistry, natural
+sciences, and BaSc.
+In particular, she has
+modules on Technical
+Journalism for students
+at all levels, where she
+teaches all of the skills
+covered in the book.
+Bains worked as a tech
+journalist for more than
+two years herself, writing
+for publications including
+The Economist, Science,
+Wired, EE Times, Laser
+Focus World, and many
+others.
+According to Bains,
+she has learned a huge
+amount from teaching,
+“Knowing how to do
+something is one thing,
+but knowing how to teach
+it is something else. It’s
+taken me a long time to
+be able to incorporate
+all of the questions and
+feedback I’ve had from
+students over the years so
+that I can explain how to
+communicate in a simple
+and transparent way. I
+couldn’t have written this
+book without them.”
+As well as teaching,
+Bains is the Editorial
+Director of Engineering
+Inspiration, a mostly-cu-
+rated website that brings
+together the best technical
+news from around the web
+and tags it so that users
+can find what they’re
+looking for and customize
+it to their interests.
+Sunny Bains talks about her new book, Explaining the Future, at the launch on Monday night // Dr Sunny Bains
+ISSUE 1718
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+10
+SCIENCE
+Rosie Dutt
+Science Editor
+Dinosaurs were thriving before asteroid strike that
+wiped them out
+SCIENCE
+Henry Alman
+Science Editor
+A
+new analysis
+has posited that
+dinosaurs were
+unaffected by
+long-term climate changes
+and flourished before their
+sudden demise by asteroid
+strike.
+Scientists largely agree
+that an asteroid impact,
+possibly coupled with
+intense volcanic activity,
+wiped out the dinosaurs at
+the end of the Cretaceous
+period 66 million years
+ago.
+However, there is
+debate about whether di-
+nosaurs were flourishing
+before this, or whether
+they had been in decline
+due to long-term changes
+in climate over millions of
+years.
+Previously, researchers
+used the fossil record
+and some mathematical
+predictions to suggest di-
+nosaurs may have already
+been in decline, with the
+number and diversity of
+species falling before the
+asteroid impact.
+Now, in a new analysis
+that models the changing
+environment and dinosaur
+species distribution
+in North America, re-
+searchers from Imperial
+College London, Uni-
+versity College London
+and University of Bristol
+have shown that dinosaurs
+were likely not in decline
+before the meteorite.
+Lead researcher Ales-
+sandro Chiarenza, a PhD
+student in the Department
+of Earth Science and Engi-
+neering at Imperial, said:
+“Dinosaurs were likely
+not doomed to extinction
+until the end of the Creta-
+ceous, when the asteroid
+hit, declaring the end of
+their reign and leaving
+the planet to animals like
+mammals, lizards and a
+minor group of surviving
+dinosaurs: birds.
+“The results of our
+study suggest that dino-
+saurs as a whole were ad-
+aptable animals, capable
+of coping with the envi-
+ronmental changes and
+climatic fluctuations that
+happened during the last
+few million years of the
+Late Cretaceous. Climate
+change over prolonged
+time scales did not cause
+a long-term decline of
+dinosaurs through the last
+stages of this period.”
+The study, published in
+Nature Communications,
+shows how the changing
+conditions for fossilisation
+means previous analyses
+have underestimated the
+number of species at the
+end of the Cretaceous.
+The team focused
+their study on North
+America, where many
+Late Cretaceous dinosaurs
+are preserved, such as
+Tyrannosaurus rex and
+Triceratops. During this
+period, the continent was
+split in two by a large
+inland sea. In the western
+half there was a steady
+supply of sediment from
+the newly forming Rocky
+Mountains, which created
+perfect conditions for
+fossilising dinosaurs once
+they died. The eastern
+half of the continent was
+instead characterised by
+conditions far less suitable
+for fossilisation.
+This means that far
+more dinosaur fossils
+are found in the western
+half, and it is this fossil
+record that is often used to
+suggest dinosaurs were in
+decline for the few million
+years before the asteroid
+strike.
+Co-author Dr. Philip
+Mannion, from University
+College London, com-
+mented: “Most of what
+we know about Late Cre-
+taceous North American
+dinosaurs comes from an
+area smaller than one-
+third of the present-day
+continent, and yet we
+know that dinosaurs
+roamed all across North
+America, from Alaska to
+New Jersey and down to
+Mexico.”
+Instead of using this
+known record exclusively,
+the team employed ‘eco-
+logical niche modelling’.
+This approach models
+which environmental
+conditions, such as tem-
+perature and rainfall, each
+species needs to survive.
+The team then mapped
+where these conditions
+would occur both across
+the continent and over
+time. This allowed them
+to create a picture of
+where groups of dinosaur
+species could survive as
+conditions changed, rather
+than just where their
+fossils had been found.
+The team found
+habitats that could support
+a range of dinosaur groups
+were actually more wide-
+spread at the end of the
+Cretaceous, but that these
+were in areas less likely to
+preserve fossils.
+Furthermore, these
+potentially dinosaur-rich
+areas were smaller
+wherever they occurred,
+again reducing the like-
+lihood of finding a fossil
+from each of these areas.
+This, the researchers
+claim, is what initially led
+to the misinterpretation
+that dinosaurs were on the
+decline.
+SCIENCE
+FRIDAY, 15TH
+MARCH, 2019 FELIX
+science.felix@imperial.ac.uk
+11
+New hepatitis C cases down by almost 70% in HIV
+positive men in London
+SCIENCE
+Henry Alman
+Science Editor
+N
+ew cases of
+hepatitis C
+amongst HIV
+positive men
+in London have fallen
+by nearly 70 per cent in
+recent years. The new
+analysis of data from three
+clinics in London found
+256 men were diagnosed
+between 2013-2018. New
+infections peaked at 17 for
+every 1000 people studied
+in 2015 and fell to six by
+2018.
+The researchers
+behind the study, from
+the Imperial College
+Academic Health Science
+Centre, believe that
+regular screening and
+improved access to new
+treatments have contrib-
+uted to greatly reducing
+the transmission of the in-
+fection. They also believe
+that if this progress can be
+maintained London will
+be on track to achieve
+the targets set out by the
+British HIV Association
+to eliminate Hepatitis C in
+HIV patients by 2021.
+The results were pre-
+sented at The Conference
+on Retroviruses and
+Opportunistic Infections,
+a major HIV conference
+in Seattle, on Wednesday
+6 March.
+Professor Graham
+Cooke, NIHR Professor
+of Infectious Diseases at
+Imperial College London
+and co-author of the
+paper, said:
+“The results from our
+study should give us great
+encouragement as we try
+to eliminate hepatitis C.
+There is a risk that these
+gains might be reversed if
+we can’t retreat patients
+and we hope that soon this
+might be possible through
+NHS services.”
+People with HIV who
+get hepatitis C are more
+at risk of the disease
+progressing and they have
+a higher risk of cirrhosis
+and liver cancer. Hepatitis
+C is the leading cause of
+serious illness and death
+in people who are HIV/
+hepatitis C co-infected,
+attributing to six percent
+of all deaths.
+Despite this, under
+current guidelines those
+recently infected with
+hepatitis C have to wait
+six months before they
+can access DAA treatment
+– a recently-developed
+treatment which is highly
+effective in 90% of
+patients. Also, if a patient
+is reinfected with hepatitis
+C they are not eligible for
+a second course of DAA,
+potentially increasing the
+risk of transmission.
+The researchers suggest
+that more screening,
+wider prescribing of hep-
+atitis C therapies such as
+DAA tablets, and earlier
+treatment of acute cases
+have led to a decline in
+acute hepatitis C cases.
+However, the reduction
+of cases still falls short
+of the World Health Or-
+ganisation’s target of 90
+per cent and reinfections
+remain high. The team
+believe that there is an
+on-going need to promote
+risk reduction and design
+appropriate screening
+policies for HIV positive
+men.
+The team is expanding
+the study network to other
+centres with the ambition
+of collecting data nation-
+ally.
+“Hepatitis C
+is the leading
+cause of death
+in people
+who are HIV/
+hepatitis C co-
+infected”
+“Dinosaurs as
+a whole were
+adaptable
+animals,
+capable of
+coping with
+environmental
+changes and
+climactic
+fluctuations”
+

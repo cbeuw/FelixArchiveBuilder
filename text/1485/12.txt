@@ -1,0 +1,147 @@
+TECHNOLOGY
+Technology Editors: Samuel Gibbs
+Feroz Salam
+technology.felix@imperial.ac.uk
+Two burglaries and a case of vehicle crime –
+not your an average night out in a rough part
+of London, but a description of the crime in
+my street in the last month according to the po-
+lice’s latest initiative, www.police.uk. The site,
+which allows you to enter a postcode and re-
+trieve detailed crime statistics for the area, has
+been a massive success, receiving 400m hits in
+the two months it’s been online.
+The site is a coordinated effort by various
+government departments and has been hailed
+by ministers as a step towards greater transpar-
+ency with regards to the working of your local
+police force. In addition to providing a local-
+ised crime map, it also offers local police force
+information and a list of events being held by
+the police in the area.
+The site throws up little in the way of surpris-
+es; the Imperial-infested and expensive south-
+west of London is remarkably safe. Albertopo-
+lis itself is devoid of any crime, with the worst
+you should be expected to endure is a case or
+two of the one-fits-all ‘anti-social behaviour’,
+something that you’re probably used to at Im-
+perial in any case.
+The site has been surprisingly divisive, how-
+ever, with many people questioning the point
+in releasing crime data for individual streets.
+Beyond the voyeuristic pleasure of scouring
+some of London’s seedier neighbourhoods,
+there is little that the information offers that
+wasn’t publicly available a few months ago,
+and almost no functionality apart from it either.
+While it’s certainly healthy fuel for paranoia,
+there is also little you can do to get involved
+beyond staring at you screen; there is no way to
+provide feedback or suggestions to your local
+police force through the site.
+This lack of apparent purpose has led many
+to question whether the government really had
+to spend £300,000 on the project. Software ar-
+chitect Rob West took it upon himself to churn
+out a virtually identical website on the evening
+of the site’s launch, managing it in roughly 8
+Free App of the Week
+iOS - Opera Mini
+With O2 and others blocking sites, now’s the time to
+start using a proxy based browser. Fast, even over
+rubbish 3G signal, Opera does the job in a pinch.
+Android’s got the choice of two Opera incantations,
+Mini and Mobile. Mobile for when you want a full
+browser, Mini for when your signal is pants.
+Android - Opera Mini/Mobile
+Crime on your street mapped
+Feroz Salam
+Silicon cases have been a dime-a-dozen ever
+since the original iPod. When you get to the
+iPhone 4, those same soft silicon cases haven’t
+really evolved very much. Sure they have cut
+outs now so you can access the buttons and the
+ports, but they’re still pretty poor.
+The Cygnett SecondSkin for the iPhone 4
+is no different. It’s a quick and easy fit silicon
+case that can be had in a variety of colours. In
+an attempt to differentiate it from the £2 eBay-
+specials, Cygnett have included a screen pro-
+tector in the package as a welcome extra.
+The SecondSkin is marketed as having a
+‘soft, talky touch feel’ and while it’s slightly
+less tacky than your average silicon case, it still
+suffers from the age old problem of pocket jam
+Rubberise your iPhone 4 with SecondSkin
+Samuel Gibbs
+hours.
+Supporters of the site are overwhelmingly
+positive about it’s performance however, and
+the numbers seem to agree that whatever the
+reason, the website has managed to tap into our
+natural curiosity. It is hoped that the effort will
+put pressure on local police forces to deal with
+crime better, and allow residents to lobby for a
+better presence in more troubled areas.
+The site is just the latest measure in the gov-
+ernment’s continuing effort to bring data and
+transparency in their dealings to the public.
+Driven by the central hub of data.gov.uk, da-
+tasets released to the public include the ‘Com-
+pendium on Motorcycling Statistics’ and the
+‘Survey of Vegetables and Flowers’. The idea
+is to bring accountability to the government’s
+actions as well as allowing interested parties to
+analyse and present the data in ways the gov-
+ernment may not have thought of.
+Despite some very interesting figures hav-
+ing come out of the release of the data, there
+are still many questions regarding privacy that
+have yet to be answered. The government con-
+tracts a large amount of work out to private
+companies, and it’s a matter of debate whether
+they are required to be as transparent.
+The government doesn’t have a great track
+record so far when it comes to opening up
+data to developers either. TfL’s London Un-
+derground API (which should allow users to
+create websites and apps for phones) is noto-
+riously unreliable. Its basic functionality has
+been withdrawn unexpectedly multiple times
+over the last few years, much to the chagrin
+of developers who depend on it for their apps.
+With the police.uk website going down on the
+day of its launch as well, it’s clear that while
+transparency may be the order of the day, it’s
+meaningless if the data is stuck on a server in a
+back office in central London.
+Head on over to the crime map to stare in hor-
+ror at the nearest case of violent crime; I per-
+sonally find the Compendium of Motorcycling
+Statistics gets me off faster.
+as there’s simply too much friction. As a conse-
+quence, if you’re wearing jeans, it can be pretty
+difficult to get your phone out of your pocket
+when it rings, and when you do it’ll be covered
+in fluff and dust.
+The SecondSkin isn’t as tightly fitting as you
+might like either, and can come off in a loose
+pocket, or bag. It’ll also let a load of dust and
+pocket debris get under the case, something
+that Apple’s worried is scratching and weaken-
+ing the back glass of the iPhone 4. You can’t
+really get round that when you want a form-fit-
+ting case on your phone, but being a bit tighter
+and closer fitting could help.
+For about £15 it’s not a bad case. It offers de-
+cent, if a bit thin, protection, while access to the
+buttons and ports is decent. It’s not that it’s a
+bad case, it’s just not great or cheap.
+“The site throws up little
+in the way of surprises”
+12
+What? You mean South Kensington isn’t a den of vice and crime?
+FELIX
+Friday 11 MARCH 2011
+

@@ -1,0 +1,182 @@
+C C H I
+Bombed Out
+With all the brouhaha over the Greenham
+Common human chain over Easter, some of
+you may not have noticed the human chain in
+Beit Quad, protesting about the cruise missiles
+to be sited on the Queens Lawn (see
+FEELSICK). The lady in charge of operations,
+Lady Ugly Wasteland, decided, in her position
+as a Peace Artist, to have everyone holding
+garlands.
+A grid is marked out in the quad, and
+everyone is to stand on one of the vertices of
+the grid. Whenever three people are standing
+"equally spaced in a straight line, they are given
+a garland to hold. No more than three people
+can stand in a straight line, nor can three
+people stand in a straight line if they are not
+equally spaced. At first the entire complement
+of People In Social Services Under Protest
+(eight of them) stood in the formation shown,
+and between them carried seven garlands.
+Later, when the President of IC Union, Steel
+Goolies, came out to talk to them, the nine of
+them stood in a new formation; what is the
+maximum number of garlands they need?
+Solutions, comments, criticisms to me at the
+FELIX Office by Wednesday, 11:00pm. £5
+from Mend-aBike for a randomly selected
+entry.
+Last week's solutions
+Part the first
+Quite a few people entered this, but I soon
+realised the error of my ways—people, upon
+seeing' a puzzle like this, sent in vast tracts of
+algebraic calculations. All I needed was a
+sensible diagram!
+Assume, without loss of generality, that the
+pond is one unit in radius. The man in the
+centre of the pond, can row at the same
+angular velocity as the man on the outside can I
+run, at a radius of one quarter. Inside this
+smaller circle, the man can row at a faster!
+angular velocity than the man on the outside,,
+and can thus reach the position shown (the'
+man in the rowing boat is marked B; the man j
+on the land is L). From here, by making a dash
+for it, the man in the boat can reach a point
+diametrically opposite the man on the land in a
+distance 3
+/ 4 (and thus in time -;
+4). the man on
+the land reaching that point distancert"away,
+in time T\ U which is greater than ;
+4 .
+Of the seven entries, the randomly chosen
+winner was N Gorsia of Maths 1 who can
+collect his £5 cheque from the FELIX Office
+after 1:30pm on Monday.
+Part the Second
+Well, this is a bit complicated. Take the
+following argument: 'Once the boatperson has
+established a strategy, it is pointless for the
+man on the land to reverse direction, since the
+boatperson can reflect his strategy or carry on
+the same one, whichever gives him the greater
+advantage'. Accepted? Well, just accept it for
+this issue.
+Now consider the boatperson's path takes
+him from a point on the inner circle B, to a
+point on the land B' (we start on the inner
+circle since this is the largest radius from which
+we can be sure that the boatperson can be
+diametrically opposite the landman). The path
+taken by the boatperson is clearly a straight
+line; this is the shortest path between the two
+points. Produce a tangent from B to the inner
+circle, which cuts the larger circle into two
+pieces, X and Y. To reach any point in Y, the
+boatperson clearly has to cut into the inner
+circle; when he again reaches the edge of this
+inner circle, he will be in the same position as
+before, or in a worse position, since the man
+on the outside can then turn round and be
+closer to the boatperson.
+The point of destination of the boatperson
+therefore lies in X.
+Now we require calculus. Look at the
+following diagram:
+L represents the starting position of the man
+on the land.
+P is the tangent from B produced.
+O is the centre of the pond.
+B and B' as before.
+The man on the land starts running
+anticlockwise. The minimal distance from the
+point L will reach to B' (A, say) is' given by
+A = L'B' —R.BB'
+where R is the ratio of the speeds, and L'B' is
+taken around the circumference of the circle.
+If o is the angle B'OB, then, using the cosine
+rule,
+BB' = J\ •+ r2
+— 2rcoso'
+where r is the radius of the pond, =
+1 (say)
+L'B' = n + 0
+Let D (the D-operator) represent differenti-
+ation with respect to a.
+D(BB') = (r.sinoVBB-
+So D(A) = l—(sin0)/(BB')
+=1—sinB
+> 0
+for 6 > rr/2
+Thus B will obtain the greatest advantage by
+going along a tangent to the inner circle. The
+maximum ratio of speeds can then be found.
+This solution is slightly simplified, and leaves
+many problems, some trivial, some more
+difficult. What is the best solution if the man on
+the land changes direction? What do you do if
+he oscillates infinitely?
+Anyway, my thanks to Dr Pretzel for such a
+great puzzle and congratulations to Ken
+Morison, Chem Eng PG, who was the only
+person to even come close to the solution.
+Cue for a puzzle
+And now the moment you've all been waiting
+for. I'm not sure how valid the first two
+solutions are, not being too well acquainted
+with the game of snooker, but I am assured
+that they are well within the rules.
+1. The highest break possible is 162 and is
+achieved thus: you give away, without having
+potted a single red, 159 points. Your opponent
+then gives away a foul worth 4 points, but
+makes it a foul snooker. You then pot any
+colour as a free ball, then the black, then a
+normal 147 break (all reds with blacks, all
+colours). The score is then 159 all, with you on
+a 155 break. The black is then respotted,
+which you pot first shot, to give yourself a
+break of 162.
+2. The lowest total score with all the balls
+down is 31 points; this is achieved by putting all
+15 reds down in one shot, and putting the
+white down in the same shot, which is a foul
+shot, giving away four points. The colours are
+then potted, a total of 31 points.
+3. Finally, a break of eight points in which
+the yellow (worth two points) goes down four
+times is; your opponent gives away a foul,
+giving you a free ball. You pot the yellow (one
+point), follow it with a colour—the yellow
+(three points), then pot the last red on the
+table (four points). The colour you then pot
+is—believe it or not—the yellow, followed by
+the first of the colours to go down, the yellow
+(eight points).
+Port-Passing Pranks
+The seating arrangement was:
+Reisenschein
+Admiral Z Gunter Schutzem Asst
+Heidensieck Di Van Zoom Asst
+Gunter Schutzem Admiral Z Asst
+Di Van Zoom [Heidensieck Asst
+Reisenschein passed the port to his left
+(clockwise). Hence, Di Van Zoom purloined
+the port, and three people hadn't any, viz
+Gunter, Heidensieck and the Admiral.
+Of the two people who entered this puzzle,
+R Tan of Chem Eng 2 was selected as the
+winner, and can collect his £5 from the FELIX
+Office after Monday 1:30pm.
+]
+FELIX is published by the Editor for and on behalf of Impen
+Tel 01-589 5111 Ext 1048 or Internal 2881 Editor: Martin
+al College Union Publications Board, and is printed by the Unio
+S Taylor; Business Manager: Peter A Rodgers: Advertising
+n Print Unit, Prince Consort Road, London SW7 2BB.
+Manager: Nick Thexton. Copyright FELIX 1983
+

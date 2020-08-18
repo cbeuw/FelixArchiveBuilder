@@ -1,0 +1,160 @@
+I
+designed a game once. It was
+called “Warbug: Ants of Des-
+tiny”, partly because subtitles
+were in fashion at the time,
+but mostly because I was
+nine and it sounded right. It was
+a sizzling blend of Command and
+Conquer and SimAnt, with a twist
+of primary school humour and the
+kind of plot that a straight-to-Dis-
+ney-Channel movie would be proud
+of. One day, I promised myself, that
+game would get made.
+A decade on, and I’ve still not
+had use for my promotional clock
+designs (with clockwork thorax
+action!tm
+). In fact, I’m beginning
+to wonder whether I ever will, not
+least because the market for insect-
+based isometric strategy games is
+smaller than I thought, but also be-
+cause the games industry can seem
+pretty daunting for One Man and
+His Keyboard.
+The picture does generally seem
+to be a dark one – production costs
+are soaring, and demand for com-
+plex graphical systems is huge. In
+short, you need to spend money to
+make money – and it’s the kind of
+money that your average Indie de-
+veloper doesn’t have.
+But hope hasn’t been given up yet
+– in fact, it could be the best time
+yet to break into a fast-expand-
+ing industry. That’s the message
+that’s been given by a collection
+of supporters and success stories
+from the Indie scene, in a series
+of internet addresses under the
+title “So You Want To Be An Indie
+Developer?”
+The posts ranged from the light-
+hearted to the serious, all of them
+offering tips and advice on breaking
+into a competitive, yet rewarding
+industry. One of the contributors
+Would.You.Like.To.Make.A.Game?
+Michael Cook asks if it’s too late to break into indie game development and Introversion answer
+Simplicity In Blue – Introversion’s post-apocalyptic strategy game DEFCON is their third game and an example of their pure design philosophy. It’s also unsettlingly foreboding
+to the group was Introversion, the
+self-titled “last of the bedroom cod-
+ers”, and acclaimed breakthrough
+coders of Uplink, Darwinia and
+DEFCON.
+“Publishers often have a cookie
+cutter approach to making game
+... so no wonder we end up with
+hundreds of identical first-person
+shooters.” explains Tom Arundel
+in a news post on their website,
+“That’s where the independent
+steps in.”
+It’s true that good design isn’t
+something that money makes
+easier – and talent in that respect
+will always play well with gamers.
+“Keep it simple.” Tom says, “Don’t
+feel you have to compete with the
+bigger developers ... in photore-
+alistic graphics and physics, you
+can’t.”
+Introversion’s latest work, DE-
+FCON, is a testament to simple
+design, and it’s this cut-down, at-
+mospheric feel that won over the
+gaming world again. Tom spoke to
+Felix about Introversion’s rise to
+fame, and the reality of the future of
+Indie development.
+Towards the end of Tom’s post in
+the “Indie Developer” news piece,
+he mentions the freedom given by
+independent development. But the
+last piece of advice is perhaps the
+most important – “the only way
+you’ll ever be able to make the
+games milling around in your head,
+is by becoming an indie developer.”
+Whether you’re optimistic about
+the future, or don’t think you’d have
+a chance, the only way to find out
+is to get out there and start coding,
+and there’s no time like the present.
+But don’t think you can take Warbug
+away from me. We’re going places.
+Onwards to the interview:
+The original team has been to-
+gether for almost ten years now.
+What was the defining moment in
+the rise of Introversion?
+I think without a doubt, winning
+three awards at this year’s Inde-
+pendent Games Festival for Dar-
+winia was the biggest highlight
+yet for Introversion. We had really
+struggled during the development
+of Darwinia, the project over-ran by
+over a year, so financially we weren’t
+in great shape, and morale was also
+running pretty low in the company
+by this point. Those awards finally
+made all the blood, sweat and tears
+seem worth it and it’s amazing how
+much that event has positively re-
+defined this year for us. We gained
+an enormous amount of exposure
+and credibility off the back of those
+awards and opportunities are pop-
+ping up even now which I think are
+as a direct result of IGF.
+Where did you find you struggled
+most? Did the biggest challenges
+lie with competing in terms of
+manpower or technology, or was
+the difficulty more in terms of get-
+ting noticed, getting seen?
+To be honest, I think really a mix-
+ture of both. There are massive
+logistical issues to solve when you
+set up a computer games com-
+pany in terms of financing and ob-
+taining enough resources to get
+started. Generally speaking, one
+of the biggest issues is you don’t
+have the time or the manpower to
+attempt certain types of games. It
+also means we struggle to produce
+content; for example a number of
+reviews said that Darwinia was too
+short but it had taken us 3 years to
+produce a game with 10 levels!
+The second major issue is that
+publishers aren’t really interested
+– that’s the bottom line and it can
+be a real struggle to get yourselves
+noticed and taken seriously. When
+Darwinia released, we were big
+enough to self publish in the UK,
+but the US market is around ten
+times larger and we just didn’t have
+the staff. It took a success story like
+the Darwinia launch on Steam and
+winning at IGF for publishers to
+16 felix Friday 19 January 2007
+GAMES games.felix@imperial.ac.uk
+Speaks for itself really, doesn’t it?
+

@@ -1,0 +1,219 @@
+Want to write for
+Felix Science?
+Email us:
+science.felix@
+imperial.ac.uk
+SCIENCE
+FELIX Friday 17 February 2012 9
+Little leaps to the end of Malaria
+Eliot Barford on the small things that could add up to getting rid of malaria for good
+My body
+clock and I
+Tim Arbabzadah
+How many times have you ended
+up staring at Facebook at 3am on a
+Monday? If you’re me, the answer is
+too many to count. A lot of people
+out there have trouble keeping their
+sleeping pattern in check. It can be
+very detrimental to your life (and
+really annoying). It seems my body
+clock just wants to troll me con-
+stantly, smugly making me stumble
+bleary eyed out of bed after too little
+sleep. The recent freezing weather
+doesn’t help. It makes the warm con-
+fines of the covers look incredibly
+appealing.
+A new study led by Imperial sci-
+entists has found a link between dia-
+betes and a person’s body clock. To
+be less cryptically vague, the study
+found a link between the gene MTN-
+R1B and type 2 diabetes. MTNR1B
+codes for MT2, a receptor for the
+hormone melatonin. Melatonin regu-
+lates the sleeping cycle and also the
+release of insulin, which is what reg-
+ulates the level of sugar in the blood.
+The postulation is that mutations in
+the MT2 gene could disrupt both the
+sleeping cycle and the release of in-
+sulin. Thus, people with the muta-
+tions will not be able to control their
+blood sugar level correctly. Therein
+lies the link between the MT2 gene
+and diabetes and explains the con-
+nection between two seemingly un-
+connected things. A person carrying
+these mutations will not definitely
+develop type 2 diabetes, but the risk
+that they do, compared to someone
+without said mutations, is increased.
+The study looked at 7,632 Euro-
+peans and included 2,186 individu-
+als with type 2 diabetes. In total, the
+MT2 gene can have forty mutations;
+all were tested to see what the ef-
+fect would be. Four of these, which
+are, luckily, very rare, were found
+to completely stop the melatonin
+from binding to MT2. These highly
+increased the risk of type 2 diabetes
+developing.
+The hope is that this discovery
+and mechanistic link can be used to
+gauge the diabetes risk of an indi-
+vidual and tailor medical treatments
+to their needs, a small step towards
+personalised medicine.
+Wikipedia
+A
+t the start of this month,
+a statistical analysis
+published in The Lan-
+cet claimed that deaths
+due to malaria world-
+wide are almost twice as high as was
+thought – 1.24 million in 2010 rather
+than 655,000, as estimated by the World
+Health Organisation (WHO). While
+there is controversy over the study’s
+methodology, its implications for the
+international malaria eradication drive
+are troubling – the WHO also estimated
+that 216 million people became ill with
+malaria in 2010. Fortunately, these are
+not the only large numbers associated
+with the disease: annually, US$2 billion
+is contributed for malaria control mea-
+sures, and over US$600m for research
+and development to fight it. Progress
+is being made, and funnily enough, it
+tends to involve much smaller things.
+Two recent advances have illustrated
+how the tiniest things can make the
+greatest difference.
+Around 50 antimalarial drugs are in
+development right now. The pace is
+high because researchers are trying to
+find replacements for artemisinin, the
+principle malaria treatment worldwide,
+before it is rendered useless by spread-
+ing resistance. In January, an Ameri-
+can group at Washington University
+in Missouri solved the structure of an
+enzyme, a protein which catalyses a re-
+action, that is needed by every parasitic
+cell to grow. It provides an example of
+how exploiting the subtle differences
+between our cells and malaria parasites
+may allow us to cure the disease.
+Plasmodium, the microbe that causes
+malaria, is a protozoan and therefore
+part of a separate kingdom of life to
+animals and plants. However, its bio-
+chemistry shares some peculiar features
+with plants due to an ancient evolution-
+ary event in which it took on an alga as
+an “endosymbiont”, a permanent resi-
+dent of its cells, similarly to the way in
+which plant cells acquired their photo-
+synthetic chloroplasts. The relic of this
+alga, known as the apicoplast, performs
+certain chemical reactions for the para-
+site very unlike those done by our cells.
+Cell membranes are made of mol-
+ecules called phospholipids such as
+phosphatidylcholine, which the parasite
+must synthesise to grow and divide. It
+does this in the apicoplast via a plant-
+like chemical pathway subtly different
+from our own, which includes a step
+that never happens in our cells. The
+Washington group’s protein is respon-
+sible for this reaction. The team has
+worked out its exact structure and is try-
+ing to explain its activity at the atomic
+level. If someone can use this informa-
+tion to develop a drug that blocks it,
+malaria parasites could be killed with
+no harm to patients – the most difficult
+challenge to overcome in development
+of new treatments.
+Drugs are essential to cure people in-
+fected with malaria, but eradication is a
+fantasy unless a vaccine to prevent in-
+fection is developed. A vaccine called
+RTS,S has shown promise, as reported
+in Felix on November 4 last year. How-
+ever, RTS,S is not very effective com-
+pared to other vaccines and its protec-
+tion may not last long. It will save the
+lives of many children under five, who
+suffer over 80% of deaths from malaria,
+but better vaccines will be needed to
+stop the disease spreading entirely.
+In December, a team based at Oxford
+University demonstrated a new vaccine
+target in rabbits. They exploited a weak-
+ness in the parasite’s infective strategy
+revealed only in November by a group
+at the Sanger Institute in Cambridge.
+Malaria parasites multiply by invading
+and parasitising red blood cells (RBCs),
+and until recently it was thought that
+they used such numerous ways of gain-
+ing entry that no one method was used
+by every strain. The Sanger group test-
+ed several strains and discovered that
+every one needed a particular RBC pro-
+tein to get its foot in the door, a protein
+called basigin.
+Basigin’s exact function remains un-
+known, and scientists originally rec-
+ognised it only as the determinant of a
+rare blood group, Ok-, found in a hand-
+ful of Japanese families. Nonetheless,
+a parasite protein called PfRh5 binds
+to basigin and is somehow crucial for
+invasion. The Oxford group produced
+a vaccine by incorporating PfRh5 into
+a virus and used it on rabbits, who de-
+veloped immunity. The antibodies in
+their blood prevented all parasite strains
+from infecting blood cells.
+This leap forward was unexpected.
+Malaria is a successful disease precisely
+because it works so hard to avoid be-
+ing recognised by our adaptive immune
+system. PfEMP1 protein, the main pro-
+tein to which we do become immune,
+comes in 60 different versions so that
+the parasite can repeatedly change be-
+tween them before the body can elimi-
+nate it. People who live where malaria
+is common become infected many
+times during their lives, never develop-
+ing full immunity, because Plasmodium
+is so adept at evading our defences.
+However, in rabbits, a vaccine grant-
+ed immunity to PfRh5, of which there
+is only one copy. Why? PfRh5 seems to
+have escaped natural selection for vari-
+ation because the immune system does
+not normally ‘see’ it. The reason why
+remains unknown, though it may be be-
+cause it is only released by the parasite
+at the moment of invasion, straight into
+the unlucky RBC. This is important be-
+cause it may mean that all Plasmodium
+strains rely wholly on PfRh5 to infect
+our blood. By ‘showing’ it to the im-
+mune system with a vaccination, pro-
+tection far greater than that from RTS,S
+could be achieved – perhaps enough to
+thwart malaria for good.
+A very high magnification micrograph of maternal malaria
+Sleeping like a log...
+

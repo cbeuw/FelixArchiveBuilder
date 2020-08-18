@@ -1,0 +1,250 @@
+science.felix@imperial.ac.uk
+17
+Friday 20 June 2008 felix
+Science
+Premium Bonds, a post-war savings
+mechanism launched by Harold Mac-
+millan in 1956, owed much of their
+popularity to a monthly draw, which
+won some lucky bond owners cash
+prizes – up to a hefty £1000. At the
+heart of these draws lay ERNIE 1, a
+random number generator used to se-
+lect the winning bonds. ERNIE was at
+the cutting edge of technology at the
+time; on its own this would probably
+have earned it a place on permanent
+display at the Science Museum. But, as
+I discovered when I went along there to
+speak to Tilly Blyth, Curator of Com-
+puting, that's only part of the reason
+ERNIE's won this accolade...
+So what is a random number
+generator?
+It’s a machine that generates random
+numbers! There are different kinds of
+random numbers – there are pseudo-
+random numbers and there are true
+random numbers – a true random
+number generator uses a real, physical
+event to generate the random num-
+bers – it’s not using software, so it can’t
+be programmed or interfered with.
+ERNIE 1 used the movement of elec-
+trons in a gas diode to create the ran-
+dom numbers.
+Tell me more…
+Well, ERNIE 1 didn’t use just one ran-
+dom number generator to create a ran-
+dom number – it actually used two,
+using one to generate another, creating
+a “doubly random number”, if such a
+thing exists! This was just in case one
+of the diodes wasn’t truly random –
+this way, there was a backup.
+So, today’s computers use pseu-
+do-random number generators…
+Not necessarily – not all machines do
+– there are microprocessors that exist
+today that have a true random number
+generator within them – one of the
+things we’re showing in the display is a
+VIA C7 processor which has a random
+number generator within the hardware
+of the chip. Again, that’s using varia-
+tions of the electrons across the chip
+to generate the random numbers– a
+physical process, not software.
+You mentioned earlier there were
+some precursors to ERNIE…
+Yes, GCHQ developed something
+called the “Donald Ducks” – random
+number generators which were used
+for cryptography, but we don’t know
+much about them – there are a cou-
+ple of early computer people who do
+know a little bit, but there’s not a lot of
+information.
+Because we’ve lost the techni-
+cians over time, or because it’s
+secret?
+I think because it was GCHQ, it was
+fairly secret at the time – a lot of that
+information’s now been released into
+the National Archives, but nobody’s
+really done that much research into it.
+I see National Savings and Insur-
+ance (NS&I) have a new ERNIE
+now – ERNIE 4. Does it still use a
+physical random number genera-
+tor to choose the winning bonds?
+Yes, it’s absolutely crucial that it’s still
+a physical random number generator
+– they couldn’t use a pseudo-random
+number generator because it could
+be influenced by an individual: if it’s
+programmable then somebody who
+knows how to how to manipulate
+that program could. It’s absolutely at
+the heart of what premium bonds are
+about to make sure that they can’t be
+tampered with. So yes, ERNIE 4 uses
+physical processes to generate its ran-
+dom numbers. It’s not neon gas diodes,
+ERNIE 1: Nice little earner, one careful owner
+The NS&I's much-loved physical random number generator will soon be on display at the Science Museum
+1. 'Supermac' Macmillan, promoting the premium savings bonds 2. ERNIE, an
+unhackable random number generator, was used to choose winning bonds 3. It
+duly became an integral part of the advertising strategy for these popular bonds
+What a year – from the gruesome minutiae of Inca sacrifices to the unexpected correlation between strippers' ovulation cycles and their tips; from the unpublicised dangers of St. John's
+Wort to DNA strands hunting each other down electrostatically – to my mind, the science pages have covered an astonishing breadth of topics. None of this would be possible without
+the sterling work from so many contributors: you know who you are. Nor could it be done without the copy editors, who play an all-too-often unacknowledged, but crucial role. Or in-
+deed the rest of the Felix crew: I dread to think what the basement would be like without you all. Foremost, however, thanks to Tomo, for expert guidance, and deep reserves of patience,
+and humour, in the face of a weekly barrage of brainless InDesign questions. And for running one of the best Felices I've seen – it's been great to have been part of it.
+Have a great summer everyone! Edmund
+Edmund Henley
+Science Editor
+like ERNIE 1, though – it uses a silicon-
+based chip from Intel.
+One of the press release pho-
+tos, showing ERNIE 1’s launch,
+showed a certain Ernest Marples.
+Did the ERNIE acronym come
+from him?
+I don’t think so – none of the origi-
+nal engineers can remember how the
+ERNIE name came about. But I don’t
+think it came from Marples – he was
+Postmaster General, and was there at
+the launch, but not whilst ERNIE was
+being developed. But he later became
+the minister for transport in fact –
+he’s the person who gave us parking
+meters. So he gave us two wonderful
+things – premium bonds and parking
+meters. I think it turned out that pre-
+mium bonds were much more popular
+though!
+Ernie seemed to have been very
+popular at the time – “he” was on
+some of the premium bond ad-
+verts. Was that the intention – to
+put this machine which couldn’t
+be tampered with at the heart of
+the campaign?
+I think so, if you go back to the way
+people were thinking in the 1950s, this
+was a really innovative machine. You
+have the very early computers, like Co-
+lossus, but nobody’s heard of Colossus,
+the LEO 1 computer, the first compu-
+ter to be used in a commercial environ-
+ment. It was really early days for the
+British computing industry – we really
+were front-runners at this point: we
+created the first programmed compu-
+ter – the “Manchester baby” as it was
+then known; and the EDSAC computer
+at Cambridge – we really were at the
+cutting edge of this technology. But
+this was the first time that a govern-
+ment department was relying on an
+electronic machine. So it becomes very
+important for people to back that, be-
+lieve in it: you need to have the public
+trust in the ability of these “electronic
+brains”, as they then called them, to do
+something like this, that’s truly ran-
+dom. So I think part of it was about
+marketing ERNIE in the right way,
+and making sure that people felt posi-
+tively about the machine, and about
+the scheme in general. Because there
+was some concern whether the bonds
+scheme was a good idea, whether the
+it was demoralising – turning us into a
+nation of gamblers. It seems odd today,
+when we’ve got the National Lottery,
+but at that time it was really seen to be
+moral decline! Now it’s about super-
+casinos, but then it was whether we
+could even have a bond scheme, run by
+the government , where you could get
+your stake back at any time – it’s not
+the same as betting on the horses, or
+on the lottery.
+I see that ERNIE used a combina-
+tion of valves, transistors and
+printed circuits. Were there many
+other computers which existed at
+this interface between valve and
+transistor technology, using both?
+There were a few, there’s the Pegasus
+computer that you can see on display
+next to ERNIE – that used both. They
+were both buit at the time when there
+was a shift over from valves – transis-
+tors were a lot faster, so there was a
+clear benefit to using them. Pegasus
+is interesting, as it was used to check
+whether ERNIE was truly random
+– mathematicians were called in to
+check ERNIE’s output, using Pegasus
+to do the statistical analysis. So it’s nice
+that we’ve got Pegasus on display next
+to Ernie – they’re both machines from
+1956-57, looking at the period when
+the technology changed.
+Given how difficult it is to get
+valves these days, does ERNIE
+still work?
+It doesn’t, no – I wouldn’t like to plug
+it in! Mainly because of the wiring –
+when ERNIE was given to us by the
+NS&I wires had to be cut to take it into
+sections and it would be a big job to re-
+wire it. We did look at if we could get
+ERNIE working again on gallery, but
+we saw that realistically it would take
+at least three years of work. I’d still like
+to get ERNIE working, but it raises all
+sorts of questions about the nature of
+museums – especially with computing
+technology. Should we show objects
+as they were originally, or we should
+replace components, and put in new
+parts, not the originals, to show them
+working?
+You want a historical object…
+Yes, you do, so that people can do re-
+search. Questions might be asked in
+200 years as to what were the transis-
+tors like in 1953. If they were based
+on the modern day counterparts you
+couldn’t do that work.
+And what was the cultural impact
+of ERNIE and the other “electron-
+ic brains”. Can you track it down?
+Well, if you look at computers in cul-
+tural terms, their impact is huge. If
+you think about films, like Bladerun-
+ner, or Terminator, they reflect how
+we felt about computers at the time. In
+many ways ERNIE is a cultural signa-
+ture of its time – ERNIE 1 was a very
+grey, solid state machine. By the time
+ERNIE 2 was launched 16 years later, it
+was purple and gold, with lace curtains
+covering the tape reels – it was based
+on the Goldfinger/James Bond films,
+and represented a completely different
+way of looking at technology and our
+future. And by the time you get to 16
+years after that you’re seeing a machine
+which has more of a Saturday Night
+game-show feel. It’s nice to look at
+ERNIE as a cultural signature as much
+as a technological innovation!
+ERNIE 1 will be on display at the
+Science Museum from 26th June
+

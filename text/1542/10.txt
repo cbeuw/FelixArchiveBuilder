@@ -1,0 +1,266 @@
+FEATURES
+Features Editors: Stephen Smith,
+Caroline Wood
+felix@imperial.ac.uk
+FRIDAY 01 MARCH
+10
+A problem of perception
+‘d like to perform a small ex-
+periment. Picture a scientist in
+your mind. Now answer this:
+what gender is your scientist?
+What colour is their skin? I’d
+hazard a guess that a large number of
+you pictured a white male. Mine has a
+beard too – and he’s scrunched over
+a desk in a solitary room, calculating
+something. His clothes are scruﬀy,
+and he clearly doesn’t care over-much
+about his appearance.
+We all have mental preconceptions.
+Of people, of jobs, and of the way life
+is in general. It’s not really possible to
+get away from that. Nor would the lack
+of them be desirable – how would we
+begin to think about anything without
+somewhere to start from? We can’t re-
+member the properties of everything
+individually so we have to categorise
+and just remember ‘if it’s in this cat-
+egory it has these properties’.
+As scientists, we like to think of our-
+selves as objective and rational. It’s
+what we strive for. But we are humans
+like everyone else, and sometimes our
+irrationality gets the better of us. A re-
+cent study [1] looked into the hiring of
+lab assistants, aiming to determine if
+there was any gender bias in the way
+that science departments viewed the
+relative competence of male and fe-
+male applicants. hey created a group
+of fake applications, containing the
+same content, but randomly assigned
+the names as male or female. he dif-
+ferences were striking: on average,
+men were consistently judged as being
+‘more competent’, and oﬀered higher
+starting salaries (by about $3500) than
+women.
+But this wasn’t a case of ‘misogy-
+nistic old men’ putting women down.
+he study found that the gender, and
+indeed age, of the academic judging
+the candidates had no signiﬁcant ef-
+fect. In other words, women were just
+as likely as men to rate female candi-
+dates as ‘less competent’. Curiously,
+despite not oﬀering them the job as
+frequently, both also consistently
+rated female candidates as more ‘like-
+able’: given that the CVs were identi-
+cal, it would seem that this hints at yet
+another false preconception, though
+in this case working against men.
+Recently, within the Department
+of Physics, a group of students have
+started meeting to talk about these
+issues, and questions much wider
+than that: are there fewer people from
+ethnic minorities than there ought to
+be? What is life like for disabled peo-
+ple who want to pursue science? For
+the purposes of this article, I’m going
+to focus on women in physics in par-
+ticular, though much of this extends
+to other sciences and engineering
+equally well.
+here is strong evidence that far
+fewer women go on to do physics re-
+search than in other sciences. In 2006,
+only 14.78% of PhD students from the
+‘Top 50’ departments (as rated by the
+National Science Foundation) were fe-
+male [2]. his compared with 33.42%
+and 45.89% for Chemistry and Biology
+respectively.
+First of all, why should we care?
+Many arguments have been proposed
+to explain this. I will address some of
+them here, and hopefully convince you
+that this is worth thinking carefully
+about. One argument that is frequent-
+ly encountered concerns the relative
+ability of males and females in phys-
+ics. Intelligence is tricky to deﬁne, but
+if we focus on performance in areas
+relevant to mathematical disciplines
+such as physics, then some research
+shows that despite there being no dif-
+ference in the average ability between
+genders, males exhibit a greater vari-
+ance. If you picture a normal distribu-
+tion, you can see that a consequence
+of this is that there are signiﬁcantly
+more males with very high ability (and
+also very low) than there are females.
+One ﬁgure puts this at twice as many
+males as females in the top 1% [3].
+Does this explain the situation? Let’s
+leave aside issues of whether the data
+is applicable and assume that it is for
+the moment (this is a complicated
+area – the diﬀerence in variability has
+been shown to be diﬀerent, and even
+reversed, in diﬀerent cultures, for ex-
+ample [4]). A very crude comparison
+of ‘2:1 male:female ratio in the top
+1%’ with the 14.78% female PhD stu-
+dents’ might hint that this isn’t suﬃ-
+cient. More importantly, however, it
+has been shown that women are less
+likely to want to pursue careers in sci-
+ence, independent of their ability [5].
+his in itself tells us that a diﬀerence
+in variability cannot explain the lack
+of women.
+Which brings us to the second
+point. Perhaps women just aren’t
+as likely to want to study physics as
+much as men? his is an interesting
+one, because it is probably true, but
+really just re-states the question –
+why don’t more women want to study
+physics? he assumption behind this
+argument seems to be that women are
+intrinsically less interested in phys-
+ics. However, there is some evidence
+that can be interpreted as suggesting
+that girls are put oﬀ physics at an early
+age. A recent study by the Institute of
+Physics [6] found that girls educated
+in single-sex schools were up to twice
+as likely to study physics at A-Level:
+an eﬀect which persisted even taking
+into account social background and
+type of school. What is it about be-
+ing educated around boys that makes
+girls less interested in physics? I don’t
+have an answer to that, but this seems
+to me to undermine the idea that girls
+are ‘innately’ less interested, and sug-
+gests that something is putting them
+oﬀ.
+Finally, I’ve also heard it suggested
+that the eﬀect is a hang-over from the
+days when people were less conscious
+of gender equality, and that it will
+take time for more women to get into
+physics. It’s certainly true that we’ve
+made a lot of progress over the last
+few decades, but there are problems
+with this line of reasoning. he ﬁrst is
+that recent data doesn’t support this.
+If it were the case, we would expect
+to see more women in the early stages
+of their academic careers, but in 2006
+the National Science Foundation’s
+ﬁgures for the percentage of female
+‘Assistant Professors’ at the ‘Top 50’
+departments were 11.15% and 21.47%
+for physics and chemistry respectively
+[2]. So even if things have improved,
+it would appear that physics has not
+improved as much as other subjects.
+Now that I’ve raised some objec-
+tions to these ob-
+jections, I’d like to
+talk about why this
+matters so much
+to me. I began this
+article by talking
+about unconscious
+perceptions and
+this, I believe, is the
+root of the problem
+facing physics. I be-
+lieve this because I
+know for a fact that
+I hold these percep-
+tions as much as
+anyone else.
+I ﬁrst noticed this
+when one of my lec-
+turers told us about
+the work of Emmy
+Noether. For those
+who aren’t famil-
+iar with her work,
+Emmy Noether
+is best known for
+‘Noether’s heo-
+rem’, a mathemati-
+cal formulation of
+the link between
+conservation laws
+and symmetries
+in nature. It is a
+beautiful idea, and
+underlies much of
+modern physics. In her day, Noether
+had to ﬁght to be accepted among
+academics, and at one time could only
+lecture unoﬃcially under the name
+of her colleague David Hilbert. How-
+ever, what struck me is that when I
+ﬁrst heard about ‘Noether’s heorem’,
+I assumed ‘Noether’ must be a man.
+Statistically, this was a reasonable as-
+sumption. But what bothered me was
+that I was surprised when I learnt that
+she was not. Why should I have been
+surprised? Is it because I don’t regard
+women as capable of being as com-
+petent as men? I wasn’t consciously
+aware of believing that. Counter-in-
+tuitively, however, research has shown
+that those who most care about be-
+lieving they are objective are in fact
+more likely to harbour biases [7].
+If we are capable of being biased
+without even realising it, then how
+much discrimination is going on un-
+der our noses without even being no-
+ticed? Playing a blame-game and cry-
+ing ‘misogynist conspiracy’ will not
+help with this. Awareness will. hink-
+ing about these issues rather than
+hoping they will just go away is the
+only way to combat our unconscious
+perceptions. I’ve made a lot of points
+here, and there is so much more to say.
+If you think I am wrong then I invite
+you to tear my arguments to pieces.
+At least we’ll both be thinking about
+it, and I’ll have achieved my goal.
+he author would like to thank the
+Equal Opportunities Group for the
+many vibrant discussions which in-
+spired this article, and in particular
+Soﬁa Qvarfort and Apostolia Tasoudi
+for their advice, critique, and encour-
+agement of this particular project.
+Stephen Stopyra explores the gender imbalance in physics
+I
+References
+[1] C. A. Moss-Racusin, J. F. Dovidio, V. L. Brescoll, M. J. Graham and J. Handelsman, “Science faculty’s subtle gender biases favor,” PNAS, p. vol. 109 no. 41 pgs 16474–16479, 2012.
+[2] J. Handelsman, N. Cantor, M. Carnes, D. Denton, E. Fine, B. Grosz, V. Hinshaw, C. Marrett, S. Rosser, D. Shalala and J. Sheridan, “More Women in Science,” Science, vol. 309, 2005.
+[3] J. Valla and S. J. Ceci, “Can Sex Diﬀerences in Science Be Tied to the Long Reach of Prenatal Hormones? Brain Organisation heory, Digit Ratio (2D/4D) and Sex Diﬀerences in Preferences and Cogni-
+tion,” Perspect Psychol Sci., vol. 6(2), pp. 134-136, 2011.
+[4] A. Feingold, “Gender diﬀerences in variability in intellectual abilities: A cross-cultural perspective,” Sex Roles, vol. 30, no. 1-2, pp. 81-92, 1994.
+[5] Y. Xie and K. A. Shauman, Women in Science: Career Processes and Outcomes, Harvard University Press, 2005.
+[6] Institute of Physics, “It’s Diﬀerent for Girls: he Inﬂuence of Schools,” 2012.
+[7] E. L. Uhlmann and G. L. Cohen, ““I think it, therefore it’s true”: Eﬀects of self-perceived objectivity on hiring discrimination,” Organizational Behavior and Human Decision Processes, vol. 104, no. 2, pp.
+207-223, 2007.
+Aaniya Ahmed
+

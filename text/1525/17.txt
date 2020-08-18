@@ -1,0 +1,177 @@
+SCIENCE
+Unexpected science at the Imperial Fringe
+ImperialCollegedescribetheFringe
+as “a series of public events exploring
+the unexpected side of science”, and
+like the Edinburgh Fringe, and other
+events with this name, there is a focus
+on the stranger side the ﬁeld it covers;
+in this instance, academic research.
+The Imperial Fringe is part of
+the new Imperial Festival, which
+launched last year with a two-day
+show of what Imperial College does,
+aimed at the general public. The Im-
+perial Fringe, however, has a slightly
+diﬀerent remit, looking at speciﬁc
+scientiﬁc topics inspired by research
+currently being undertaken by Impe-
+rial researchers.
+Fringe events appear to be monthly,
+with events for both this and next
+month announced, though dates
+for future talks up to and including
+March have also been given.
+Topics for the events currently
+include the study of how the brain
+works and fear, as well as another on
+bones and the latest ‘groundbreaking’
+research currently being undertaken
+by Imperial researchers in this area.
+Attendance is free and is open to
+students, staﬀ, and the general pub-
+lic, and no registration is necessary. A
+pay bar is open all evening.
+More information can be found on
+the Imperial website, at http://www3.
+imperial.ac.uk/festival/fringe.
+Philip Kent Science Editor
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+17
+FRIDAY 5 OCTOBER
+Solar cells get a boost
+Scientists at the University of Cali-
+fornia Santa Barbara have developed
+an improved method of generating
+solar electricity. Rather than making
+use of the photoelectric eﬀect, this
+newly designed solar cell generates
+electricity while splitting water into
+oxygen and hydrogen gas. In the past,
+the main diﬃculty in building such
+cells has been ﬁnding a catalyst that
+isn’t simply oxidised by the highly re-
+active molecular oxygen involved in
+the process. Recent developments in
+the ﬁeld of cobalt-based catalysts have
+now made them a more feasible alter-
+native.
+The cell makes use of a phenom-
+enon known as surface plasmon
+resonance (SPR), which is the reso-
+nant oscillation of valence electrons
+in a solid when it is hit by photons of
+the electrons’ natural frequency. The
+main beneﬁt of SPR is that the energy
+can be built up gradually, as each in-
+cident photon of a suﬃciently similar
+frequency contributes. This is not the
+case in cells using the photoelectric
+eﬀect, where only high-frequency
+photons (in the UV range) have any
+eﬀect – the energy of lower frequen-
+cy photons is wasted. In SPR, the
+amount of energy generated is simply
+proportional to the intensity of inci-
+dent light.
+Plasmons are best excited by pho-
+tons in the visible spectrum. This is
+another advantage over photovoltaic
+cells, which can only use photons in
+the UV spectrum; the Earth’s atmos-
+phere is an excellent absorber of UV
+light, which is good news for our skin,
+but inconvenient for any method of
+generating electricity which relies
+on UV photons. Visible photons are
+much more abundant on the Earth’s
+surface. The fact that visible photons
+have a lower frequency and thus less
+energy to give would decrease the
+system’s eﬃciency, as three or four
+photons are needed to release a single
+electron, but this is more than made
+up for by the increased number of us-
+able photons.
+Usually, the diﬃculty in using SPR
+to generate electricity is doing so
+without damping the oscillating mo-
+tion to the point of uselessness. The
+device designed by the group of sci-
+entists solves this issue by using tita-
+nium oxide-capped gold electrodes.
+These rods are only 90 nm in diam-
+eter; an array of them is then connect-
+ed to the platinum counterelectrode
+(where hydrogen is evolved). The
+small size of the rods limits the extent
+of the plasmon’s motion, reﬂecting it
+back onto its own path, creating an in-
+terference pattern, which in turn gen-
+erates a stronger electric ﬁeld, causing
+the electrons to pile up towards the
+ends of the rods. The titanium oxide
+at each end acts as an electrical insu-
+lator, which seems counterintuitive
+at ﬁrst, but turns out to be an excel-
+lent way of regulating the amount
+of energy released from the surface
+plasmon. Only electrons of very high
+energy manage to tunnel through its
+structure, and these are then used
+to generate current, while the bulk
+of electrons remain, and continue to
+power the SPR process.
+The “holes” left behind by these
+high-energy electrons act like positive
+charges, being transferred through
+the cobalt-based catalyst wrapped
+around the centre of the rods, and
+used to combine oxygen radicals into
+oxygen gas, completing the reaction.
+One aspect of the process is yet to
+be explained by any involved parties.
+After being exposed to a light source,
+the generated current density jumps
+to some high value, as expected.
+However, instead of plateauing very
+quickly, it then proceeds to slowly in-
+crease by another third of the original
+value. None of the physical processes
+involved should take more than a few
+seconds, and yet the current density
+continues to change for much longer
+than this. Further investigation is thus
+necessary to fully explain the phe-
+nomena involved.
+DOI: 10.1021/nl302796f
+Annina Sartor Writer
+ACS Publications
+Peak absorbance around natural
+light increases efficiency
+Take a look at the stranger side of research at a new monthly event
+Imperial College London
+UPCOMING EVENTS
+Thursday 25 October 18:00 – 21:00
+South Kensington Campus
+The science behind our fears: From mad scientists to brain eating zombies, Hal-
+loween is steeped in the weird and wonderful world of science. This event takes a
+playful glimpse at the science behind our fears, from brains to pandemics via the
+science of sleep and a Zombie apocalypse.
+Monday 29 November 18:00 – 21:00
+South Kensington Campus
+Cutting close to the bone: Bones, whether fractured, polished or fused, used as
+a cultural symbol, supplier of stem cell, harbingers of joint disease or builder of
+tooth palace, form the very building blocks of being human. Meet those at the
+forefront of bone research and take a journey beneath your skin to the skeletons
+in your closet.
+“Iamincrediblyexcitedthatthey
+have used my hair style to name
+a festival” – Tim Arbabzadah,
+Editor-in-Chief
+OY, YOU RIGHT THERE READING THIS. WRITE FOR
+US... please
+Send it all in to: science.felix@imperial.ac.uk
+

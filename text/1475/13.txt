@@ -1,0 +1,219 @@
+FELIX 13
+SCIENCE
+Friday 26 November 2010
+acts on a pre-existing pool of substrate,
+yielding an output signal several orders
+of magnitude faster.
+Catechol (2,3)-dioxygenase (C23O)
+is the protein product of the XylE gene.
+It originates from Pseudomonas pu-
+tida and is active as a homotetramer of
+C23O monomers. The enzyme naturally
+catalyses the conversion of a colourless
+substrate (catechol) into a bright yellow
+product (2-hydroxymuconic semialde-
+hyde) within seconds of substrate addi-
+tion.
+Modifying the XylE gene by fusing
+it to the GFP gene, they obtained GFPs
+fused to the N-terminus of C23O mono-
+mers. By allosteric inhibition, GFP pre-
+vents the C23O monomers from tetra-
+merising; they hence remain inactive in
+the cytoplasm.
+The fusion gene construct reveals the
+James Goldsack
+Space-time
+cloaking
+possibility
+“Light normally slows
+down as it enters
+a material, but it is
+possible to manipu-
+late...so that some
+parts speed up”
+Scientists at Imperial College have de-
+veloped a metamaterial that allows the
+manipulation of the speed of light as it
+passes over an object, ‘cloaking’ the ob-
+ject’s movement, according to a paper in
+the Journal of Optics.
+Previously, a team led by Professor
+Sir John Pendry showed how an opti-
+cal invisibility cloak was viable. Now,
+a team led by Professor Martin McCall
+has mathematically extended this idea to
+one that conceals events.
+“Light normally slows down as it
+enters a material, but it is theoretically
+possible to manipulate the light rays so
+that some parts speed up and others slow
+down,” says Prof. McCall, from the De-
+partment of Physics.
+The leading half of the light speeds up
+and arrives before an event, whilst the
+trailing half is made to lag behind and
+arrives too late. The result is that for a
+brief period the event is not illuminated
+and escapes detection.
+Such a space-time cloak would open
+up a temporary corridor through which
+energy, information, and matter could be
+manipulated or transported undetected.
+While this technology in practice is
+still science fiction, there are many se-
+rious applications for the new research.
+Co-author Dr Paul Kinsler developed a
+proof of concept design using custom-
+ised optical fibres, which would enable
+researchers to use the event cloak in sig-
+nal processing and computing.
+One of the greatest difficulties faced
+by the team was how to speed up the
+transmitted data without violating the
+laws of relativity. The researchers de-
+vised a clever material whose properties
+varied in both space and time, allowing
+the cloak to be formed.
+“We’re sure that there are many other
+possibilities opened up by our introduc-
+tion of the concept of the spacetime
+cloak,’ says Prof. McCall, “but as it’s
+still theoretical at this stage we still need
+to work out the concrete details for our
+proposed applications.”
+secret of the output module’s inducibil-
+ity: the GFP gene is fused to the XylE
+gene through a protein sequence rec-
+ognised and cleaved by TEV protease.
+Thus, when TEV is present in the cell,
+the GFP is cleaved off from its C23O
+monomer and the free monomers can
+tetramerise.
+TEV protease is a natural viral prote-
+ase. In the system, ComE transcription
+factors bind to their native ComCDE
+promoter upstream from the TEV prote-
+ase gene. Since ComE is activated only
+when CSP1 is cleaved, TEV protease is
+only transcribed and translated upon de-
+tection of the Schistosoma parasite.
+The TEV gene has high cleavage site
+specificity and a relatively low molecu-
+lar weight (242 amino-acids) resulting in
+a relatively quick synthesis of the gene-
+product. TEV protease would then act
+upon a pre-existing pool of the inactive
+GFP-C23O substrate in the cell. Being
+relatively fast, it has a high turnover rate
+of substrate molecules. This is the first
+amplification step, making the response
+exponential over time instead of linear.
+The activated C23O is itself an enzyme
+with a high turnover rate, meaning that
+colourless catechol molecules would be
+converted to yellow coloured products
+very fast. This second amplification step
+makes the response hyper-exponential.
+The IC team also ran a series of school
+workshops based on NTDs. “Bridging
+the gap between academics and cap-
+turing the wider public’s attention can
+achieve so much”, says the team. The
+iGEMers even developed a software
+toolkit that can be run autonomously
+and customised to the desired input. By
+changing the protease recognition site
+New anti-psychotic
+drugs in pipeline
+Schizophrenia could be caused by ab-
+normal levels of neurotransmitters do-
+pamine and glutamate, according to new
+research carried out at Imperial College
+London.
+Researchers found evidence that glu-
+tamate-releasing cells in the hippocam-
+pus influence the activity of dopamine-
+releasing cells, which in turn are linked
+with causing psychosis.
+The Medical Research Council funded
+the research and the team scanned the
+brains of 16 people at-risk for psychosis
+and 12 healthy volunteers, to measure
+levels of dopamine and glutamate.
+A correlation was found between the
+glutamate levels in the hippocampus and
+the dopamine levels in the brain.
+This is strong evidence that there
+could be a link between glutamate and
+psychosis in many patients.
+Current medication used to treat
+schizophrenia blocks the effects of do-
+pamine in the brain and can have seri-
+ous side effects. Some side effects are
+bad enough to stop the patient taking the
+medication.
+This research suggests that drugs that
+interfere with glutamate signals in the
+brain may be able to prevent psychotic
+symptoms in schizophrenia sufferers,
+hopefully with less negative side effects.
+James Goldsack
+Light and death for
+hospital superbugs
+A new technology that uses light beams
+to kill bacteria could be used in hospitals
+to stop the spread of MRSA and other
+antibiotic resistant bugs, say scientists
+from the University of Strathclyde.
+The technology, known as HINS light,
+uses visible light wavelengths to excite
+molecules within bacteria, producing
+highly reactive chemicals which are
+lethal to bacteria yet mild enough to
+be completely harmless to patients and
+staff.
+Professor Scott MacGregor, Dean of
+the Faculty of Engineering, said “HINS-
+light is a safe treatment that can be eas-
+ily automated to provide continuous
+disinfection of wards and other areas of
+the clinical environment. The pervasive
+nature of light permits the treatment of
+air and all visible surfaces, regardless of
+accessibility.”
+The team are hopeful the new technol-
+ogy could become the foundation for a
+hospital-wide decontamination system,
+by using the HINS light alongside tradi-
+tional hospital lighting.
+Clinical trials at Glasgow Royal In-
+firmary have shown that the HINS light
+provided significantly greater reduc-
+tions of bacterial pathogens in the hospi-
+tal environment than could be achieved
+by cleaning and disinfection alone.
+Charlie Harvey
+Washing your hands is also rumoured to work...
+Brain scans enabled researchers to look at the mechanisms involved
+on the linker of the surface protein, any
+protease could be detected.
+The team now hopes their system
+will come to good practical use. The
+biochemical reaction in itself is “in the
+box”; the skills and protocol are there for
+having it rapidly synthesised and ready
+to go. Now it needs to be incorporated
+into a clever device for use on the ter-
+rain. The team have envisioned a test-
+tube like reservoir with the transgenic
+B. subtilis colony at the bottom and a
+lid with a stick attached. The user would
+unscrew the lid and dip the stick into the
+water to be tested. The stick contains a
+foamy coat containing skin lipids which
+attracts cercariae in the water if present.
+They will release elastases, thus causing
+a reaction! Yellow product or not yellow
+product..?
+

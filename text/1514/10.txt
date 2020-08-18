@@ -1,0 +1,208 @@
+Tips & Hacks
+Bring on some Raspberry Pi
+While we were all busy watching the Union Elec-
+tions Hustings, it turns out Apple was simultane-
+ously revealing “the new iPad”. That’s right – at
+the time of going to print there is no mention of
+the official name of Apple’s new tablet. Both iPad
+3 and iPad HD have been touted, but the speakers
+consistently referred to the latest device as “the/
+this new iPad”. Strange, but on to the actual thing
+itself. Some of the rumours did come true, with
+the new iPad sporting a retina display weighing
+in at 2048 x 1536 (that’s 3.1 million pixels), and
+a better camera that now allows you to record in
+full HD. Other specifications include a quad-core
+A5X chip, 4G compatibility (which is perhaps more
+exciting for our American cousins), and ten hours
+of battery life (nine if using 4G). Interestingly, the
+iPad 2 will remain on sale, but at $100 cheaper
+– further out-pricing the tablet’s struggling com-
+petitors. In other news, Apple also announced the
+new Apple TV, supporting 1080p and featuring a
+slicker interface, but no word of an Apple smart
+TV.
+T
+he web is changing. Sites such as
+Facebook and Twitter keep you
+hooked by constantly updating in
+real-time any activity that hap-
+pens in your social network. This
+is incredibly powerful and last year the Union
+used this to create the incredibly successful re-
+al-time voting statistics page. Along with a lot
+of people, I was glued to the page during elec-
+tion week, transfixed by the moving bars and
+animated numbers that were constantly chang-
+ing as students placed their votes. Technically
+however, it was a far from perfect system that
+caused the entire union server to grind to a halt.
+This year Paul Beaumont came to me with the
+suggestion that I have a go at improving it, and
+I would like to share some thoughts on how the
+technology behind the new system is shaping
+today’s world wide web.
+Traditionally, websites have been a very
+simple affair. Servers, essentially large com-
+puters, sit in some dark damp basement wait-
+ing for someone to browse to the site that they
+host and, when this happy event occurs, pres-
+ent to the browser all the information that it
+needs to display the site. Once this is finished
+the relationship between the browser and the
+server ends until the browser navigates to an-
+other page. This system works very well and
+is all that static websites, such as Wikipedia,
+BBC News and Felix Online, need. However
+web developers wanted more. They wanted
+websites to be more dynamic. They wanted the
+website to update with new content without us-
+ers having to continually click the refresh but-
+ton. In short they didn’t want the relationship
+between browser and server to end once the
+site is displayed.
+One solution is to use JavaScript. JavaScript
+is a scripting language that all modern brows-
+ers support and is almost universally used to
+provide a more interactive and dynamic ex-
+perience for users. It can also be used to fetch
+information from the server through a group of
+technologies collectively called AJAX. This al-
+lowed developers to fake a real-time connection
+by making a browser regularly ask the server
+for new information and so keep the page up
+to date without refreshing. This is the system
+that the previous elections stats website used,
+and although it works it has its problems. First
+of all it doesn’t change anything about how the
+server is operating since the JavaScript is sim-
+ply doing what an overzealous user could be
+doing by refreshing the page manually all the
+time. Secondly it can result in lots of unneces-
+sary requests as the data may not have changed
+since the last request. Finally, and more practi-
+cally, once this is set up the developer has no
+control about when the user will request this
+data and so with a large enough active users,
+requests will come in all the time. This can be
+The power behind the web
+FELIX
+Friday 09 march 2012
+10
+technology.felix@imperial.ac.uk
+Technology Editors: Chris Bowers
+Feroz Salam
+TECHNOLOGY
+got this far then you probably want to know
+how it was done). We are using some cutting
+edge technologies that make it even easier to
+implement real-time connections – specifically
+Node.js and Socket.io. Node.js is a new server
+side platform that runs JavaScript on the server
+using Google’s V8 runtime engine (it powers
+Chrome) and it is blazing fast! It is completely
+asynchronous, lightweight and currently the
+darling of the web development community. I
+could go into Node.js a lot more, but that will
+have to be a topic for another article. Socket.
+io is where the magic happens. As it states on
+its website “It’s care-free real-time 100% in Ja-
+vaScript”. Since WebSockets aren’t supported
+by all browsers (I’m looking at you Internet
+Explorer) to enable real-time communication
+we need to fall back to older technologies.
+Socket.io does this all for us by supporting all
+browsers from IE 5.5 onwards, while giving a
+consistent development interface. Essentially it
+lets us forget about trying to support old brows-
+ers and just concentrate on writing cool appli-
+cations. Together, Node.js and Socket.io, allow
+us to very quickly implement an interactive
+and real-time experience for the Union stats.
+As a small test of how it all might work, a
+small box was added to the sidebar that shows
+how many candidates are standing and how
+many seconders there are. This is updated (us-
+ing Node.js and Socket.io) every second and so
+far everything seems to be running smoothly!
+At all times the server, not the browser, is in
+control of how often the statistics are updated
+and this means that there is only one request
+at a time (from the server) as opposed to mul-
+tiple requests from different browsers. In the
+unlikely event that the server is overloaded, I
+can dive in and change the frequency at which
+it updates to prevent a recurrence of last year’s
+crash.
+WebSockets, and the advent of the real-time
+web, are a fundamental change in how the web
+works. Instead of sites being static and entirely
+dependant on user interaction to update, they
+can now just sit there and new information is
+fed directly to them. It makes things like on-
+line chat trivial and sites such as Facebook and
+Twitter even more addictive. I’m sure you will
+see what I mean when the stats page launches!
+Apple announce... “the new iPad”
+Eagerly awaited and extensively promoted, the
+Raspberry Pi debuted at the end of last week to a
+massive response that sent sales websites crash-
+ing. Priced at £22 and targeted at children learn-
+ing to program, the Pi runs a Linux OS on an ARM
+chip. It provides users with the ability to plug in a
+monitor, keyboard and mouse and get going. Con-
+siderably cheaper than any competing device on
+the market, the Pi makes its savings by reducing
+aesthetic appeal in favour of bare bone features.
+Whether the Pi will actual get children program-
+ming is another question, however. Despite the
+widely reported low price, users will still need the
+aforementioned monitor, keyboard and mouse to
+get started; a decent monitor will probably cost
+many times more than the card itself. Even as-
+suming the use of a family monitor, the device
+alone seems quite dull. The eventual success of
+the chip will depend upon developing program-
+ming software that makes development attractive
+to kids. Programs such as ‘Ruby for Kids’ (which
+is intended to go on the Pi) are exactly the sort of
+thing the Pi developers should look for; the trick in
+getting children using the device will not lie in the
+hardware, but in slick software that drags percep-
+tion of computing away from Excel spreadsheets
+and towards the grand designs of Skyrim or Grand
+Theft Auto.
+Jonathan Kim discusses the election site’s technologies
+incredibly taxing for a server as it will need to
+deal with all these requests one at a time and
+it can amount to the same effect as a Denial of
+Service Attack which is usually employed by
+hackers wanting to overload a website so it can
+longer function (groups such as Anonymous
+use this type of attack to bring down large cor-
+porate websites). This can be further exacerbat-
+ed if the information that is being requested is
+complex and takes time to generate, which was
+the case for the elections stats last year and the
+reason it brought the union server to its knees.
+Obviously simply using AJAX is not a good
+solution in the long term and so we had to turn
+to new technologies to implement a true real-
+time connection between the browser and serv-
+er. One such technology is called WebSocket.
+WebSockets allow a server and a browser to
+open up a persistent connection through which
+information can be sent by either party. This
+allows the server to push information to all
+browsers whenever there is a change as op-
+posed to browsers constantly asking for new
+information. Through this method the server
+controls the rate at which users receive new
+information.
+Now to be a bit more technical (if you’ve
+“...it lets us forget about
+older browsers (I’m look-
+ing at you Internet Ex-
+plorer)”
+Prepare to see some funky stuff going on at the stats page
+

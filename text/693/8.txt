@@ -1,0 +1,122 @@
+•FELIX"
+Fortran
+& Chips
+You may recall that at a UGM last term IC
+Union adopted policy regarding the
+Refectory pricing system and the lack of a
+working computer system to keep stock and
+purchase records. Since that forthright
+expression of student opinion the College
+has not been idle!
+That well known software expert, Mr
+Victor Mooney, has been working round the
+clock on the latest in FORTRAN IV to beat
+the deadline. Whilst at the premier college of
+science and technology in the country you
+may not be at all surprised that people can
+and do write FORTRAN programmes, the
+Refectory Manager has just acquired the
+very latest in vacuum-tube technology — a
+steam driven abacus, code-named Deep
+Thought.
+Informed sources have revealed some of
+the coding used (see below). As you can see,
+it relies extensively on a random number
+generator for menu planning, prices, and
+what to call the meat this week.
+Union Bar Manager Mr Norman Jardine
+has denied that this is common in the
+Catering Industry. He said that it is quite
+easy to read the label on a package.
+c
+c
+c
+c
+c
+c
+c
+" L A K 8 .
+S E E ? ' , TO 10
+c
+c
+c
+c
+c
+c
+c
+00 l u
+BEEF
+V
+^ ' „ RANDOM N U " B E < <
+, n N 0 100 „ , E l «
+G E N E R A L 6 ET«EEN 1 l M
+° . , M O i o » « * " „
+c
+c
+c
+M E N U H-0HHIH6 ^ , 5 , 16 1 7 '
+18 1 9 , 20)
+BEEF
+11
+12
+13
+I t
+15
+16
+17 '
+13
+19
+IT
+C
+C
+c
+GOTO ( 1 1 , 1 2 , 1 3 , U
+IMENU = BEEF SLOP
+GOTO 21
+IMENU * LAH3 SLOP
+GOTO 21
+IMENU = WATERY CABBAGE
+GOTO 21
+IMENU • S0TA SLOP
+GOTO 21
+IMENU = SOLO OUT OF MACS BARS
+GOTO 21
+IMENU = 6 ZHIPi PER PORTION
+. GOTO 21
+IMENU = ROCK HARD RICE
+GOTO 21
+IMENU = DAN0RUFF GARNISH
+GOTO 21
+IMENU = CURRIED BROKEN GLASS
+GOTO 2.1
+IMENU — MEAT ROLL INC STATEMENTS 11 TO 20
+CONTINUE
+•"•"-» I N ENGLISH
+22
+•HtaLlSH C0UKS6
+81?$S 50-.5O CHANCE OF
+STOP
+END
+IC RADIO IN LINSTEAD BAR
+Monday 28 January
+9.00 till 11.00pm
+In accordance with the last will and testamanet of The Lounge, who
+died last week, he is to be laid to rest at
+A Jtarral Party
+Saturday the 26th of January
+at 9pm
+So come and drown your sorrows.or dance them away to the moribund
+disco, which will run until 2am at the very last night of The Lounge
+Nightclub of which he was the life and soul.
+A donation of 50 pence will be gratefully received from mourners on
+entry, members of the Lounge's family and close friends will be
+admitted free.
+Southside Bar
+Guinness 45p; Kronenbourg, Wethereds, Courage
+Best, Strongbow — all 50p per pint.
+Third anniversary of
+bar re-opening
+Saturday 26th January
+Live music from 'Kool Skool', disco till midnight.
+8 Friday 25 January 1985 FELIX
+

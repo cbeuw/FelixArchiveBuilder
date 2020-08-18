@@ -1,0 +1,410 @@
+20
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 22 JANUARY 2010
+Pigs might fly as UK
+Pirate found innocent
+UK’s first piracy verdict boosts moral of the bruised and battered
+Torrent crowd as Alan Ellis trots free
+Touch sensitive
+front and back
+I
+f you looked at the technology
+press this week you could be for-
+given in thinking that Apple had
+unleashed some new revolu-
+tionary products. The thing is, Apple
+hasn’t done anything this week apart
+from send out invitations to a press
+event to be held in San Francisco on
+January 27th. OK, when Apple holds
+a press event they normally unveil
+something, but the way that the news
+is saturated you’d think they were go-
+ing to announce something that’ll end
+world hunger, eradicate terrorism,
+bring world peace and all with a sleek
+white finish.
+So an Apple event on the 27th. It’s
+got the tag line ‘Come see our Latest
+Creation’; if that doesn’t scream Ap-
+ple tablet I don’t know what does. The
+curious thing about this event however
+has to be the inclusion of a select few
+members of the gaming press on the
+invitation list. Getting an invite out
+of Apple to one of its press events is
+like owning your own plane, it’s sim-
+ply not going to happen unless you’re
+really, really important. But to invite
+some games press indicates that Apple
+thinks something it’s going to unveil at
+this event is going to appeal to them.
+OK, if you’ve ever seen an Apple ad
+you’ll have heard the ‘iPod touch is the
+best gaming device’ rubbish they try
+and ram down your throat. The App
+Store has a lot of games in it and be-
+cause they’re relatively cheap, they’ve
+done well, but there’s no way the iPod
+touch or the iPhone is as good an ex-
+SamuelGibbs
+SamuelGibbs Technology Editor
+I
+n the first major piracy verdict
+since the landmark Pirate Bay
+case, the owner and founder
+of the music sharing website
+‘OiNK’s Pink Palace’ was de-
+clared not guilty by an unanimous jury
+at the Teesside Crown Court. The case
+is also notable because it’s the first
+music piracy trial that has delivered a
+verdict within the UK. While the case
+does not set a judicial precedent for fu-
+ture cases, it was a remarkable victory
+for Alan Ellis, who founded the sharing
+service during his studies at the Uni-
+versity of Teesside.
+His arrest in 2007 was highly dra-
+matic, with police inviting TV cameras
+to watch as they carried out a dawn
+raid on Ellis’ house, as Dutch police
+simultaneously raided his servers in
+the Netherlands. While Ellis’ opera-
+tions were much smaller than those of
+The Pirate Bay (with his case attracting
+much less attention), the invite-only
+website had developed a reputation
+for listing high quality recordings a
+long time before they were released.
+The website was even endorsed by
+Trent Reznor, who described it as “the
+world’s greatest record store”.
+The prosecution told the jury that
+Ellis was found with nearly $300,000 in
+his PayPal account and accused him of
+“large scale, professional, clever, tech-
+nical ripping off”, while Ellis countered
+that the money simply came from sur-
+plus donations and that it “had to be
+stored somewhere”. Ellis was also able
+to successfully defend the allegations
+of fraud levelled against him by using
+a similar argument to the one used by
+The Pirate Bay - as a torrent tracker,
+his website merely indexed material
+uploaded by users and didn’t actually
+host any of the illegal files. It’s also clear
+that the circumstances around the case
+played a large role in the proceedings -
+The Pirate Bay was a large organisation
+supported by healthy finances, while
+OiNK’s Palace was distinctly smaller,
+with Alan Ellis making little if any real
+money out of running the website.
+The verdict has little legal meaning
+- it doesn’t set a binding precedent for
+all future cases - yet it’s the first major
+legal victory for the now beleaguered
+torrent community and will probably
+serve as a morale booster at a time
+when many major torrent trackers are
+shutting down or sealing themselves
+off from the public. As for Alan Ellis,
+while it seems unlikely that ‘OiNK’s
+Pink Palace’ is going to be restored
+to its former glory, he should be able
+to wash his hands of the affair in the
+knowledge that the case isn’t appeal-
+able and he has emerged virtually un-
+scathed from the experience.
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Wow, what a week in tech. Ac-
+tually to tell you the truth, it’s
+all more or less been rumour
+about Apple’s flaming tablet.
+Thankfully a few other things
+happened this week, so let’s get
+stuck in eh?
+First up we’ve got a man
+killed by Avatar. Yes Cam-
+eron’s 3D, supersmurf epic,
+not only shattered box of-
+fice revenue but can also
+kill you. A 42-year-
+old Taiwanese
+cinema goer suf-
+fered a stroke
+likely brought
+on by ‘over-ex-
+citement’ trig-
+gered by the film.
+Remember kids,
+it’s not real OK?
+More ridiculousness
+in the form of ‘TwittaBling’ this
+week. Apparently someone
+thought it was a good idea to
+get their Twitter name embla-
+zoned on a medallion and wear
+it out in public. If that’s not bad
+enough you can even get wed-
+ding bands with your Twit-
+ter handles engraved on the
+inside. Wow. I admittedly use
+Twitter quite a lot but come
+on, seriously? That’s just sad.
+Ever thought what a 7.5m
+disco ball would look like? Well
+take a trip to Paris and you can
+see one hanging some 50m
+above the ground spar-
+kling under spotlight.
+The massive disco
+ball consists of 1000
+mirrors and is part
+of a contempo-
+rary art exhibition
+called Nuit Blanche
+above the Jardin du
+Luxembourg.
+More weird and won-
+derful news, this time from
+Britain. According to a recent
+presentation by ComScore,
+Britain’s most downloaded
+iPhone app is iPint. Yes,
+Britain shows
+their love of
+booze by
+down-
+loading
+a pint
+simulation in
+their millions.
+If you don’t know what iPint
+does, find someone with an
+iPhone. Chances are they’ll
+have it.
+More Apple related strange-
+ness this week and no, not
+even about the iTablet. Appar-
+ently 20% of people surveyed
+by Lewis PR in the UK when
+asked who Steve Jobs was, the
+enigmatic CEO of Apple, Inc.,
+thought he was a footballer.
+Now, I’m sure you’ve all seen
+the ‘Stupid American’ YouTube
+videos where they go an sur-
+vey the dumbest people on
+the planet, but this just goes
+to show that even Brits can be
+morons. A footballer? I could
+forgive them for thinking he
+was a politician or a BBC exec,
+but not the nation’s favourite
+past-time.
+Talking of Steve Jobs, not
+everyone gets everything right
+and even he can be at fault.
+A shocking revelation came
+out this week about the name
+that Jobs would have given
+the iMac line if they’d let him:
+the Macman. Dodged a bullet
+there Steve.
+Google has been in the
+news a lot this week one way
+or another. Something you
+might have missed however is
+that the next iteration of the
+Android operating system is
+going to be called ‘FroYo’. Yes
+that’s right, Frozen Yoghurt.
+Someone at Google obviously
+has a food obsession; first we
+had ‘cupcake’, then ‘donut’,
+with 2.0 called ‘eclair’. Perhaps
+someone’s New Year’s resolu-
+tion was to eat healthier, FroYo
+indeed.
+Sony got in on the post-CES
+news this week with its new
+high-end ‘only the best will do’
+Vaio Z series. Pack-
+ing an Intel Core
+i7, 6GB RAM, an
+Nvidia GT330M
+GPU in parallel
+with integrated
+Intel HD graph-
+ics, along
+with a Full
+HD LED backlit display into
+a svelte 1.4Kg 13.3” frame,
+the Vaio Z is a PC users wet
+dream. A finger print reader,
+webcam, Bluetooth 2.1 and 3G
+modem also come along for
+the ride, making this machine
+spec wise, one of the best lap-
+tops ever made. It’ll launch
+in March with pricing unan-
+nounced, but be sure you’ll
+have to sell a kidney to afford
+one of these bad boys. A trade
+worth making perhaps.
+In other news Microsoft
+is urging XP
+and IE6 users
+to upgrade
+pronoto fol-
+lowing the
+Google hack-
+ing that’s re-
+cently taken the
+headlines.
+Mozilla also un-
+leashed Firefox 3.6
+RC2 this week prep-
+ping for a final release some-
+time in the next week or two.
+The Winter Olympics is
+coming to Freesat from the
+12th February in HD. This
+joins the World Cup, Six Na-
+tions, Golf Masters, Wimble-
+don and a boat load of Europe-
+an football broadcast in HD. A
+good time to be a Freesat user.
+Samuel
+Samuel
+Gibbs
+Gibbs
+Technology
+Editor
+perience as a proper games console,
+portable or not. Now, that fabled Ap-
+ple tablet might come with a bit more
+oomph in the processing department,
+maybe even fully fledged graphics, but
+unless it’s got more buttons, some sort
+of expansion controller, it’s not going
+to be any better a gaming experience
+than the iPod touch. At this stage Ap-
+ple could be pulling a fast one on us
+with all this tablet nonsense and is ac-
+tually prepping an Apple TV replace-
+ment games console. Until Steve pulls
+one out on the 27th we really don’t
+know, anything could happen.
+Another interesting yet mysterious
+take away from the event announce-
+ment is that there’s no European re-
+peat. Normally when Apple has had an
+announcement in the US they’ve piped
+the video into a venue in London in re-
+al-time. So what does that tell us? Well
+it could mean that whatever they have
+for us is going to be US-only, at least in
+the short term. It would be extremely
+disappointing, but that’s the same tac-
+tic they took with the original release
+of the iPhone.
+Speaking of iPhone, there are also
+rumours we’re going to see iPhone
+4.0 software at the event. Speculated
+highlights include multi-tasking, sys-
+tem wide multi-touch gestures (maybe
+even on the back for a June/July iPhone
+4G revision), new syncing possibilities
+and UI changes. Could this be the end
+for the need to jailbreak for most users
+not seeking an unlock? Check out next
+week’s coverage for all the information.
+FerozSalam
+FerozSalam Technology Reporter
+r. Yes Cam
+smurf epic,
+ed box of-
+can
+n
+n
+n
+n also
+year-
+se
+e
+e
+.
+ds,
+disco ball w
+take a trip
+see one
+above
+kling
+T
+b
+a
+Lu
+M
+d f l
+y
+Vaio Z series. Pack-
+ing an Intel Core
+i7, 6GB RAM, an
+Nvidia GT330M
+GPU in parall
+ll
+l
+ll
+l el
+with integrated
+Intel HD graph-
+ics, along
+ith F ll
+In other ne
+l
+G
+ing
+ce
+c
+ce
+cen
+hea
+Mo
+leash
+RC2 thi
+i f fi l
+mo
+m st d
+dow
+wnloaded
+pp is
+s
+s iP
+Pin
+int.
+t. Y
+Y
+Yes
+es
+s
+e ,
+sh
+show
+ws
+e of
+by
+by
+y
+t
+on i
+i
+in
+

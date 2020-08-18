@@ -1,0 +1,137 @@
+felix
+FRIDAY 03 december 2010
+TECHNOLOGY
+Technology Editor: Samuel Gibbs
+technology.felix@imperial.ac.uk
+It’s been 27 years since the first handheld por-
+table mobile phone came out and since then
+it has revolutionised the world. With the de-
+velopment of GSM technology and seamless
+international roaming, it is now possible for
+any two people, on different corners of the
+Earth not connected by wires, to talk to each
+another at any time simply by dialling a se-
+quence of numbers on their phone. The mo-
+bile phone has torn down geographical and
+national barriers and made the whole world
+feel a lot smaller.
+Google have launched two apps, which aim
+to bring down not only communication, but
+language barriers too. They promise to take
+Douglas Adam’s ‘Babel Fish’ and Star Trek’s
+‘Universal Translator’ out of the realm of sci-
+ence fiction and into reality.
+The Google Goggles application, currently
+available for iOS & Android, allows you to
+read in a foreign language. Using your camera
+phone, you can take photos of signs or menus
+in another language – the application then uses
+optical character recognition (OCR) technol-
+ogy to automatically extract all the text from
+the image and uses translation technology to
+translate it into English (or your preferred lan-
+guage). The application currently only supports
+Latin-based languages such as English, French
+and Italian, but the goal is to eventually support
+non-Latin based languages such as Arabic and
+Chinese once OCR technology has been devel-
+oped further.
+The Android-only Google Translate appli-
+cation allows you to say something in English
+and it’ll read it back over the speakerphone in
+a different language. It works the other way
+too – your conversation partner could say
+something in a different language and the app
+will attempt to translate it and read it back to
+you in English. This means you can have a
+conversation with anyone, even if you know
+totally different languages. The application
+uses the voice recognition and speech synthe-
+sis technology built into Android, hence why
+it’s currently unavailable on the iPhone. The
+range of languages supported is impressive,
+with a full 30 operational including Chinese,
+Russian and Welsh. I personally found the
+voice recognition to be slightly off and the
+interface to be slightly clunky, but Google’s
+CEO Eric Schmidt demoed an improved
+“conversation mode” interface in September,
+which should make the application more prac-
+tical to use.
+Ultimately, the usefulness of translation
+applications depends on their accuracy and
+speed. Every GCSE Spanish student who
+has tried using an online translator for their
+coursework knows that translators aren’t per-
+fect. Compound that with errors introduced
+during optical character or voice recognition,
+and the accuracy of the translations can be
+pretty poor at times. Furthermore, it still takes
+10-15 seconds to perform a translation using
+Goggles or Translate, not ideal if you’re try-
+ing to hold a face-to-face conversation with
+someone or to understand all 20 items on a
+restaurant menu.
+Goggles and Translate give us a glimpse of a
+future where the mobile phone will allow peo-
+ple of different cultures and languages to com-
+municate seamlessly. They show us a future
+where you could travel and not have to worry
+about ordering snails rather than chicken. It’ll
+take some further advances in OCR and trans-
+lation technology before it becomes practical,
+but those days can’t be far off.
+Free App of the Week
+iOS - Google Mobile for iPhone
+While Google doesn’t have just a Goggles app on the
+iPhone, the Google mobile app for iOS has Goggles
+and Voice search built-in, along with other big G stuff.
+Google Goggles on Android brings all the picture, text
+and photo-based powers of search to green machine.
+Snap, search, get the answer. Simples.
+Android - Google Goggles
+Google to make learning
+languages redundant?
+Kin-Hing Lo
+Whether you regard Julian Assange as a feck-
+less self-aggrandiser or a champion of much
+needed disclosure, few can dispute that he has
+a knack for getting attention.
+The latest release from the WikiLeaks proj-
+ect is a collection of communications between
+American diplomats and the political heads of
+a series of administrations. Much like the pre-
+viously released Iraq War Logs, the ratio of sig-
+nal to noise is heavily skewed towards noise.
+In the current release we see a similar slew of
+unsurprising revelations that vary from the ba-
+nal to the humorous.
+The released communiqués superficially read
+as a political edition of Heat magazine: “Silvio
+Berluscioni likes to party!”, “Medvedev is the
+Robin to Putin’s Batman!”, “Prince Andrew is
+rude and elitist!”. There is nothing surprising in
+the reality that diplomats are only human, who
+gossip and bicker as much as any other group.
+While seeing usually-guarded politicians
+speaking frankly is novel, it doesn’t really edu-
+cate us. The noise in these logs is a little more
+subtle, but hints towards the profound.
+The shift in China’s stance towards North
+Korea, the Arabian perspective on Iran, and the
+candid assessment of Israel’s position in the
+Middle East, as well as Americans spying on
+the UN, and the fight to save Gary McKinnon
+— these topics are the signal amidst the noise,
+and could have lasting impacts long after the
+sniggers about rude royals fade away.
+WikiLeaks: Heat edition
+“The released
+communiqués
+read more
+like a political
+edition of Heat
+magazine”
+Marcus Shepheard
+14
+

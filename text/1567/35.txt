@@ -1,0 +1,111 @@
+37
+FRIDAY 17 JAN
+PUZZLES
+Puzzles Commanders:
+Kingshuk Dasadhikari,
+Oliver Price
+puzzles.felix@imperial.ac.uk
+Crossword
+Sudoku
+Each row, column, and 3 x 3 box must contain all the numbers from 1
+to 9. That’s all. Enjoy...
+FUCWIT League
+nickwp		 51.5
+Jia Choo 49
+Adam Stewart 18.5
+Yufan Zhao 17
+Juliette Chupin 8.5
+Harder:
+Killer:
+Across
+1. Achilles’ “team” (9)
+7. Paintings by a murderer (11)
+10. An arrogant rebel (7)
+11. Locale of famous rock churches (8)
+13. Father of modern fantasy (7)
+15. Alpine lake in Nevada (5)
+16. Aka Hayastan (7)
+17. Muddy color (5)
+20. A loss of electrons (9)
+22. Scientist known for his celibacy (5)
+23. Comfort can often be found at the
+bottom of it (6)
+24. Easy to anger (5)
+26. Norwegian violinist of recent re-
+pute (5)
+29. Indian minister recently in the news
+(7)
+30. Assorted (6)
+32. Pals (5)
+36. Your multi-million-year-old ances-
+tors (16)
+39. Artist’s primer (5)
+40. Think in pig Latin (7)
+Down
+1. Pilgrimage site for men only (5,5)
+2. One of the emirates (3,2,7)
+3. The cuisine of masgouf (5)
+4. Showy (12)
+5. Troy re-discoverer (10)
+6. Foolish (7)
+8. “Doom and Gloom” band (7,6)
+9. Poisonous lizard indigenous to
+America (4,7)
+12. Fake, comic Kazakh journalist (5)
+14. Guides (6)
+21. Japanese sun goddess (9)
+25. Tooth decay contributor (6)
+27. Japan’s Iron Age (5,3)
+28. The Sunflower State (6)
+31. Inform (6)
+33. Remnant in Pandora’s Box (4)
+34. Computers, Steve Jobs’ style (4)
+35. Pillager of Rome (4)
+37. Common acronym response after
+hearing something disgustingly
+personal (3)
+38. Capital of Bashkortostan (3)
+Crossword Clues
+Nonogram
+The lengths of runs of shaded squares in each row and
+each column are given. Squares can only be shaded or
+unshaded. Solve the puzzle to unveil a pretty picture.
+No clues! Instead, the numbers in each cage must add up to the
+number in the top left. Numbers cannot be repeated in a cage. Tips:
+The numbers in each box, row and column must add up to 45. Look for
+cages with only one possible combination e.g. a two wide cage total
+3 must contain 1 and 2 .
+Last Week’s Solutions
+Helix		 8
+Gabriel Quek 7
+Emma and Ben 6
+WJ		 4
+Angus Liu 1
+Guess the Stop
+The British rail network runs far
+and wide. The name of a line
+is scrambled in the following
+anagram, and the name of a stop
+on that line, with the given number
+of letters is encoded by the sum
+of the letters, where A=1, B=2...
+Z=26, <Space/Punctuation>=0.
+Find the line and stop. Note that
+London Underground lines may
+also be possible answers.
+Anagram:
+ie nine last coats ma
+Stop:
+9 letters, Sum: 99
+Last Week:
+Anagram: Bakerloo
+Stop: Paddington
+Milder Sudoku
+Congrats to
+nickwp for
+being the first
+to 50 FUCWIT
+points! Keep
+those solutions
+coming in!!!
+

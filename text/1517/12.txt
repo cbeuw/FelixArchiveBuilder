@@ -1,0 +1,167 @@
+Stars approaching a supermassive black hole
+are ripped apart by its huge tidal force. The
+black hole gobbles part of star and spits out
+some material in form of radiation. This fantas-
+tic phenomenon has been observed by a team of
+astrophysicists from US and UK through obser-
+vations obtained from the telescope in Mount
+Haleakala, Hawaii, and the Chandra X-Ray
+Space Observatory.
+From a survey of thousands of galaxies, the
+scientists found that both the telescope and the
+Galaxy Evolution Explorer satellite had detect-
+ed a luminous flare from the centre of a galaxy
+located at a distance of approximately 2 billion
+light-years from the Earth. The flare, dubbed
+PS1-10jh, is extremely intense and reveals an
+uncommon shape of the light-curve. The long
+duration of the phenomenon (a few months) was
+not typical of gamma ray bursts that fade away
+within a day and come from the explosion of
+massive stars or collisions between giant stars.
+Stars-shredding events are rare and occur
+roughly every 10,000 years in a galaxy. One can
+be detected from Earth once every two years. In
+June 2011 astronomers from the University of
+Berkely, California, had observed a similar phe-
+nomenon coming from a galaxy as far as four
+millions light-years from Earth.
+However, the present study published in Na-
+ture, is the first to give accurate predictions.
+Analysing the intensity of the radiation of the
+light flare and the shape of the curves and fitting
+the data to numerical simulations the scientists
+calculated a mass of the black hole as big as
+about that of 3 million suns and reconstructed
+the orbit of the star finding it to be tight to the
+Black hole shreds star
+black hole. They also estimated the event oc-
+curred for about 76 days.
+The most intriguing aspect of the discov-
+ery is the prediction of the structure of the
+star. Analysis of the spectra of the radiation
+revealed that the disrupted star was a red gi-
+ant with a helium-rich core whose hydrogen
+shell was previously stripped off. Gezari, the
+leader author of the study from Johns Hopkins
+University, Maryland, says that this “is a con-
+sequence of being in the environment of the
+black hole.”
+Some questions such as the low temperature
+of the radiation and the lack of effects from
+general relativity in the model remain open,
+but the possibility of characterising the light
+from black holes can give precious information
+about their gravitational field.
+DOI:10.1038/nature10990
+Researchers in New York have engineered a
+way to non-invasively trigger gene activation
+in live animals using nanoparticles and radio
+waves, a method that may, in the future, be
+used to remotely control genes in humans for
+medical purposes.
+Current methods of activating cells are un-
+wieldy at best: direct stimulation using elec-
+trodes is invasive, potentially damaging and
+non-specific, whilst control of individual light-
+activated channels using different wavelengths
+of precisely-timed light pulses requires inter-
+nally implanted light pipes. But, by abusing the
+properties of iron oxide nanoparticles (FeNPs)
+and temperature-sensitive ion channels, the re-
+searchers found a way to finely control certain
+genes non-invasively.
+Jeffery Friedman and colleagues of The
+Rockefeller University targeted FeNPs to a
+modified, temperature-sensitive cation chan-
+nel, TRPV1 (otherwise known as the capsa-
+icin receptor) by coating the nanoparticles
+with antibodies specific to a modified tag on
+the channel. Exposure to low- and mid-range
+radio wave frequencies heated up the targeted
+nanoparticles but not the surrounding tissue,
+thereby activating the channel upon reaching
+its activation temperature. The resulting cal-
+cium ion influx activated a specially modified
+gene that controlled expression of insulin.
+This lead to a corresponding drop in blood
+glucose levels after 30 minutes.
+The team also experimented with nanopar-
+ticles that could be made intracellularly using
+modified ferritin, a naturally occurring iron-
+storage protein. They saw that insulin secre-
+tion still occurred, albeit more weakly.
+Radio wave gene activation has the advan-
+tage of being both non-damaging to tissue and
+non-invasive whilst heating surrounding cells
+to a minimal degree. Currently however the
+technique can only be used in basic animal re-
+search, as the delivery of nanoparticles into a
+living organism requires the deliberate growth
+of tumours, making it inappropriate for use in
+human clinical research.
+Friedman hopes though that as research pro-
+gresses use of nanoparticles in a therapeutic
+setting will be able to treat diseases involving
+protein deficiencies, such as hexosaminidase
+A replacement in Tay-Sachs disease.
+DOI: 10.1126/science.1216753
+Laurence Pope
+FELIX
+Friday 11 may 2012
+12
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+What we missed...
+Antonio Torrisi
+Researchers from the University of Washington
+have used techniques from quantum physics and
+neuroscience to control brain cells for the first
+time. Photosensitive semiconducting nanopar-
+ticles known as quantum dots have been used to
+stimulate the brain, and it is believed these tech-
+niques could pave the way to non-invasive treat-
+ments for conditions such as Alzheimer’s disease,
+depression and epilepsy.
+While the experiment was conducted on a film
+external to the body, the team claims for humans,
+the quantum dots would need to be delivered to
+brain tissue. Lih Lin, the researcher who headed
+up the team, said that “a significant advantage is
+that [the quantum dots’] surface can be modified
+with various molecules” and used to target specif-
+ic brain cells. For now, scientists hope to learn to
+use the techniques to repair damaged retina cells
+in order to make advances in treating blindness.
+DOI:10.1364/BOE.3.000447
+Alexander Karapetian
+Quantum dots to control your brain
+Remote-controlled insulin production
+Simulation of a black hole flare as the remains of the disrupted star stream into the black hole
+Watch out... here come the quantum dots
+CERN’s Large Hadron Collider (LHC) reported its
+second particle discovery last month, a new bary-
+on consisting of an up, strange and bottom quark.
+The particle, an excited state of Xi_b whose lower
+energy counterpart was found by the Tevatron col-
+lider at Fermilab, was discovered by scientists
+from the University of Zurich’s Physics Institute.
+The Compact Muon Solenoid experiment, one of
+the detectors at the LHC, observed the electrically
+neutral particle from its decay products. A total of
+21 Xi_b decays were found, which makes the dis-
+covery statistically significant. The discovery will
+allow scientists to better understand the strong
+nuclear force.
+The particle was found in a sample of about 530
+trillion proton-proton collisions with the LHC oper-
+ating at 7 TeV, and adds to a growing list of discov-
+eries at CERN.
+arXiv:1204.5955v1
+Alexander Karapetian
+LHC finds a new particle (again)
+NASA / S. Gezari (JHU) / J. Guillochon (UCSC)
+... but only in mice, so far
+

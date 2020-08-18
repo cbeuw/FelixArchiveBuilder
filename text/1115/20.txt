@@ -1,0 +1,203 @@
+20 GAMES 15 M a y 1998
+O H H H H H . . . S H U F F L E , S C R A P E , S H U F F L E . . . O H H H H H .
+WAR HAMMER : DARK OMEN
+Electronic Arts - Playstaion / PC * * * *
+I did start to like M y t h s , I honestly
+did, after battling with the controls
+and g r o u p i n g c o m m a n d w h i c h
+took ages to master, the poor A l
+which meant you had to tell your
+archers to stop shooting at your
+own side - it was starting to g r o w
+on me. Then along c a m e Dark
+O m e n to show it to the door. Dark
+O m e n has poorer graphics than
+Myths and its not as pleasing to
+the ear either, but its everything
+myths should have been - a m u c h
+better game.
+It is a fantasy battle g a m e in
+which y o u play the leader of a mer-
+cenary troop w h o is helping out
+the local king. You c o m m a n d units
+such as infantry, archers, cross-
+b o w m e n , assorted d w a r v e n , elf
+troops and magic users against
+ores, goblins and living d e a d .
+The major difference between
+Myths and Dark O m e n in terms of
+units is the inclusion of cannon,
+cavalry, and offensive magic. The
+opportunity of horse led charges,
+long range artillery bombardments
+and wizard fireballs coupled with
+the ability to quickly select and
+move units creates a more positive
+feel on the battlefield. There is also
+a quick and simple way of selecting
+and positioning units that are cur-
+rently off screen - all is needed
+now is to click o n the shield repre-
+senting the unit o n the side of the
+screen.
+It's only a shame that the A l is
+not all that intelligent. The archers,
+cannon and wizards all have a
+unnerving ability to wipe out half of
+a infantry regiment if y o u send
+them in to attack the enemy unit
+targeted. Also, unless y o u are care-
+ful y o u can select a regiment to
+attack an enemy unit then order it
+to charge, only to watch it hurtle
+away from the enemy because
+you have not ordered to face in the
+correct direction.
+Annoying glitches aside it is the
+best of the fantasy battle games
+even if it features a unit that looks
+remarkably like a tank.
+Gary Smith
+G A M I N G N E W S
+Resident Evil 2 finally arrived in the
+UK last w e e k e n d , shifting over
+6 0 , 0 0 0 copies in the first five days
+alone. This easily makes it the
+fastest-selling Playstation g a m e of
+all time, beating the previous
+record holder T o m b Raider 2,
+which sold 5 2 , 0 0 0 in its first week.
+Unsurprising, then, that videogame
+producers are so keen on sequels.
+Sega will officially announce its
+next c o n s o l e o n M a y 21st.
+C o d e n a m e d 'Katana' (final name
+still to be revealed, but unlikely to
+be Saturn 2) this could be Sega's
+last chance to claw back a share of
+the console market from Sony and
+Nintendo. Allegedly 10-12 games
+will be available at launch, some-
+time in 1999.
+Although Playstation o w n e r s
+w o u l d probably give their right
+arms to have a c o n v e r s i o n of
+ColdenEye, they will instead be
+treated to Tomorrow Never Dies,
+in production at Black O p s and
+M G M Interactive. S o m e h o w I don't
+think it will quite measure up to the
+hit Nintendo 64 game.
+A n d finally, as if one dual ana-
+logue joypad wasn't enough, Sony
+has released the Dual Shock
+Analogue Pad which has twin ana-
+logue joypads. However, it also
+includes a 'shock' feature which
+allows a g a m e to transmit some of
+the o n s c r e e n physical violence
+back to y o u . The new pad coin-
+cides with the European release of
+Gran Turisimo.
+S P E C I A L R E P O R T
+Emulation
+Two years ago the early versions of
+arcade g a m e emulators started to
+appear for the PC. Space invaders
+and pacman and for free, it truly
+was a generous world. Suddenly it
+was 1982 all over again; the bright
+flashing screens and loud sounds
+came flooding back. In those early
+releases there were only about ten
+or so games supported and they
+had a nasty tendency to suddenly
+display w e i r d c o l o u r e d sprites.
+Two years though is a technologi-
+cal lifetime away, PC's and more
+importantly the emulation scene
+has matured out. The o l d emulator
+scene is one for the history books;
+long live the reliable 16-bit console
+and arcade emulators. First the 16
+bit game emulators. Before the
+Saturn and Playstation there were
+the Megadrive and S N E S . Both
+triggered a resurgence in home
+game machines and quality soft-
+ware.
+But these were h o m e
+machines. The arcade machines
+were out of reach for all except a
+chosen few. N o w allowing y o u
+have the roms most of the arcade
+games of the I980's can be played
+on the PC and it's a d a m n site eas-
+ier to change between g a m e s
+c o m p a r e d with swapping arcade
+motherboards. The big question
+though is what emulator will run
+the g a m e you want it to. M a m e
+(Multi-Arcade M a c h i n e Emulator)
+is one of the oldest and best-sup-
+ported arcade emulators. It runs
+well o n a low end Pentium (and
+even on some old 486's) though
+for s o m e of the later supported
+games a better Pentium with some
+m e m o r y will give better frame
+rates. M a m e is one of simplest
+emulators to use, with a specific
+Windows95/NT port which when
+run searches for the appropriate
+Roms. Though it generally runs the
+older arcade roms, Space invaders,
+Pacman, and Donkey Kong and its
+clones, it also can run many of the
+mid 80's arcade roms such as
+C o m m a n d o , M a r b l e M a d n e s s ,
+Arkanoid and Tetris. It is also able
+to run the Atari vector based
+games Asteroids, battlezone and
+star wars. With about 4 5 0 + possi-
+ble games it would take ages to get
+bored with this. M a m e starts to run
+out of steam when it c o m e s to
+covering later 80's arcade games.
+For these games there are still
+emulators but these tend to be dos
+rather than w i n d o w s based. Also
+because of the later 80's idea of
+running different arcade games on
+the same motherboard most of
+these emulators deal with a family
+of games. Callus the C a p c o m e m u -
+lator a n d System 16, the Sega
+system 16 emulator, are g o o d
+examples of these. Both are well
+built emulators and run roms such
+as super hang-on and outrun, but
+can be very very slow. A fast
+Pentium or Pentium2 system and
+the frame rate will improve. Also
+should y o u want to run the best
+ever arcade shoot-em-up R-type
+(read last months Edge just to see
+its not just my opinion) the emula-
+tor to o w n is RAGE (Real Arcade
+G a m e Emulator). Unfortunately it is
+processor hungry, the hint is to run
+it under pure dos m o d e , but is
+almost worth buying a pentium2
+system just to increase the frame
+rate. So h o w d o you get hold of
+these emulators (and the roms - if
+you o w n them). Well one of the
+better sites is Dave's Videogame
+Classics (http://www.davesclas-
+s i c s . c o m ) , this practically is a
+one-stop shop for emulators. So
+relive your early days and relive
+those classics.
+Gary Smith
+

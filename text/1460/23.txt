@@ -1,0 +1,288 @@
+23
+felix FRIDAY 07 MAY 2010
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+The power of light. Intel’s Light Peak
+The World Cup in HD
+The World Cup is coming and it’s only
+34 days away! That’s 32 of the best
+teams from around the world, bat-
+tling it out over 30 days, through group
+stages and knockout games, all to get
+their hands on that elusive golden tro-
+phy. That’s a lot of quality football, and
+this year we’ll get the chance to see the
+whole lot in glorious HD.
+Meh, I hear you say. Why would I
+want to see football in HD? What pos-
+sible benefit is it to football? Well, I
+could bang on about how HD has up
+to 5 times the level of detail of SD,
+and that it’s broadcast with a Dolby
+Digital sound track, but I’m not going
+to hit you over the head with that old
+rhetoric.
+HD-ready or Full HD, it doesn’t mean
+you’re watching an HD broadcast. But
+it’s an easy and relatively painless up-
+grade for most, now that Freeview has
+gone HD. For those of us in London,
+the Freeview service that you know
+and love began broadcasting in HD in
+December of last year. Unfortunately
+to receive the HD channels, BBC HD,
+ITV HD and Channel 4 HD, you’ll have
+to either buy a new TV with Freeview
+HD built-in or buy a new Freeview HD
+receiver. Similar to the Freeview boxes
+that were bought to receive the digital
+free-to-air service in the beginning,
+these Freeview HD boxes pick up both
+SD and HD channels using only your
+TV aerial. If you’re in London you’ll
+have to have your TV aerial pointed
+at Crystal Palace, which most already
+will be, so once you plug the box into
+it and your TV, you’re set. A Freeview
+HD box will cost somewhere in the
+region of £100 to £180, with Freeview
+HD PVRs starting at about £250. There
+is one caveat however, if you live in a
+block of flats, the internal aerial feed
+may be filtered causing problems
+with the HD broadcasts. If you think
+you might have this problem, buy a
+Freeview HD box from a retailer that
+offers refunds if it won’t work for you.
+Of course Freeview HD, although
+the most recent service to introduce
+HD broadcasting, isn’t the only way to
+There are only 34 days left till kick off. Are you and your TV ready?
+get the World Cup in HD. The other
+free-to-air service FreeSat HD, a part-
+nership between the BBC and ITV,
+currently offers BBC HD and ITV HD,
+with other HD channels promised in
+the next couple of years. As the name
+implies, FreeSat uses a satellite dish to
+pull down its signal, which is great if
+you happen to be living in a place with
+a Sky dish or other digital satellite dish
+on the roof. Whether you’re thinking of
+getting rid of your Sky service or want
+to put up a new satellite dish, FreeSat
+carries loads of free-to-air channels as
+well as HD offerings. To take advan-
+tage of FreeSat HD, you again need an
+HD capable FreeSat box, which starts
+at around £100 or an HDTV with Free-
+Sat HD built-in. FreeSat HD PVRs are
+also available and they start around the
+£250 mark.
+If you want more channels than the
+free-to-air services provide, then you
+might want to look at the various sub-
+scription services that are available.
+If you’re in a cable area then you can
+take advantage of Virgin Media’s HD
+packages with a V HD box costing you
+a one off fee of £49 or free on the TV
+XL package. You then pay for one of
+the Virgin Media TV packages, which
+range from £11.50 to £29 without a
+Virgin phone line. Virgin Media also
+offer a HD PVR box called the V+ HD,
+which also costs £49 but has a £5 per
+month extra service fee attached to it.
+The venerable Sky also offers HD
+packages with the UK’s largest selec-
+tion of HD channels. Sky HD is avail-
+able in a dizzying plethora of options,
+packages and charges starting with
+the £28 Sky+HD starter. That includes
+2Mb broadband as well, although you’ll
+have to have a BT phone line to take
+advantage of it. That’ll give you the all
+important BBC HD and ITV HD chan-
+nels among others.
+And finally, if none of that’s possible,
+your budget’s a bit tight perhaps, then
+your best bet is to find yourself a pub
+with the games in HD, or take beers
+round to your mates place and camp in
+front of his massive HDTV.
+Eye-bleeding
+detail abound
+H
+D, it’s the future and it’s
+here now! Or is 3D the
+future? Why not 3DHD?
+3DHD on your 52” OLED
+FreeviewHD TV. What a mouthful,
+and it looks like it’s only going to get
+worse in the near future with all sorts
+of new acronym-brandishing technol-
+ogies on their way.
+It’s not all bad though, because pre-
+sumably one day HD won’t be high-
+definition any more, once everything is
+HD. At that point we’ll get 4KHD; four
+times the eye-bleeding detail of regular
+HD. We already have cameras record-
+ing things in 4K and even 8K, but that’s
+a good thing, because once the relent-
+less onward march of technology gets
+those kinds of displays into our homes,
+we’ll already have the content available
+to make them shine. The BBC and alike
+have been recording things with HD
+cameras for years, which is why you can
+get the old, yet still digitally recorded
+programs in HD now.
+Blu-Ray has been making ground in
+recent months, having shown a relative-
+ly lacklustre adoption after ‘winning’
+the format war with HD-DVD. Blu-Ray
+might be the last of its kind however,
+if Microsoft and others have their way.
+Gone will be the physical discs of yes-
+terday, and in will be the newfangled
+super-highspeed super-mega-turbo-ul-
+tra connections and their instant down-
+loads. Problem is Britain’s certainly not
+going to be ready for it if we go along
+with what government calls ‘highspeed
+internet’
+. That’s 2Mbit ‘broadband’ if
+you didn’t know. My cellphone gets
+that kind of bandwidth and honestly, I
+think it’s practically crawling. What will
+2Mbit be like in the future, or even 2012
+for that matter? The internet with the
+hand brake on I’m guessing.
+But what is government expected to
+do? Especially in this economic climate?
+In all honesty, I don’t know. I hope com-
+panies like Virgin Media and BT, pile the
+investment in, to get us truly connected
+in the Gbps realm, at least in major cit-
+ies. You can’t expect a company that has
+to make money to fork out a boat load
+to make sure Fred living on his country
+estate is connected. The digital divide
+might end up evolving into the high-
+speed divide in the modern intercon-
+nected world.
+SamuelGibbs
+SamuelGibbs Technology Editor
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week in tech has flown by
+whilst the majority of you have been
+fighting your way through exams. So
+let’s have a quick recap to see what you
+might have missed in a pretty much
+Apple free week.
+Intel’s been busy this week with two
+separate announcements the first of
+which we’ve talked about in felix be-
+fore: Light Peak. If you remember,
+Light Peak is Intel and Apple’s shot at
+USB3 using the power of light. Yes, as
+the name suggests, Light Peak pumps
+data down optical fibres, as well as the
+more traditional copper variety. This
+week Intel showed off a laptop kit-
+ted out with the optical technology,
+retrofitted into a regular USB cable.
+The demonstration unit pumped two
+simultaneous HD streams down one
+cable without even a stutter. According
+to Intel, the initial 10Gbps bandwidth
+Light Peak will be capable of is only
+the beginning, with trillions of bits per
+second theoretically possibly over op-
+tical fibre. If Intel and Apple get their
+way, Light Peak could end up replac-
+ing almost every type of connection;
+displays, data, networking, everything.
+Intel also announced this week that
+we could have smartphones with ‘10
+days of standby time’, thanks to its
+Atom Z-series of processors. Previous-
+ly known as Moorestown, Intel hopes
+the Atom Z will enable it to get a prop-
+er foothold in the smartphone market
+currently dominated by ARM based
+chips like Qualcomm’s Snapdragon.
+Ten days worth of standby time is ap-
+parently achievable by only switching
+on those parts of the chip that are re-
+quired at any one time; a bit like only
+switching on the lights in the room
+you’re in. Intel also showed a prototype
+Atom Z-packing phone running Quake
+3 at 100fps, which is way too fast to ac-
+tually play, but impressive nonetheless.
+Intel’s making some bold claims how-
+ever, and faces an uphill battle against
+the extremely efficient and moderately
+powerful ARM competitors.
+SamuelGibbs
+SamuelGibbs Technology Editor Dr. Andre Ng became the first cardi-
+ologist to use a robot to complete a re-
+mote heart operation, at the Glenfield
+Hospital in Leicester this week. By us-
+ing a robot, cardiac surgeons can avoid
+the cumulative effects of exposure to
+X-rays, which are used to monitor the
+progress of the operation. ‘As long as
+the connection’s reliable, the operation
+could be performed from anywhere in
+the world’, Dr. Ng was quoted as saying.
+Is this the future of surgery, since brain
+surgery and a kidney transplant have
+already been performed using robots?
+And finally, those 3D specs you got
+with your 3DTV could work fine with
+your mates incompatible 3DTV, just
+by turning them upside down. Appar-
+ent incompatibility solved. Format war
+averted. Absurdity inevitable.
+SamuelGibbs
+SamuelGibbs Technology Editor
+Then why not check out the
+UK’s weekly tech podcast
+brought to you by two
+Imperialites and a Bulgarian.
+TheWrapSheetPodcast
+Available on iTunes or at
+www.thewrapsheet.co.uk
+Can’t get enough tech news?
+“everything that’s
+exciting about
+football is pin sharp
+and in exquisite
+detail”
+What does HD mean for the World
+Cup? Watching the World Cup in HD
+is about as close as most of us are go-
+ing to get to actually being there. The
+colours are vibrant and rich, the crowd
+roars as if you were there whilst the
+players dance their skilful moves now
+shown in incredible clarity allowing
+you to see exactly what they’re doing.
+And the goals; every curve of the ball;
+every swerve in the air; the rebounds,
+the deflections, everything that’s excit-
+ing about football, is pin sharp and in
+exquisite detail.
+OK, OK, it sounds awesome. How do
+I get it? I have an HDTV, I already have
+it right? Contrary to popular belief,
+just because you might have an HDTV,
+Hold still a minute will you?
+

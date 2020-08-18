@@ -1,0 +1,152 @@
+F E L I X 13
+WAS NEWTON WRONG?
+"No!" Says the Prof
+R i z S h a k i r
+Electrical Engineering
+department has presented us
+with numerous surprises to
+date and Professor Laithwaite
+has certainly had as much of a
+hand in these as any other
+single man. His latest brain-
+child, (a demonstration of
+which had been given at the
+Royal Institution a few weeks
+ago), sounded fascinating in
+more ways than one. A request
+was put in by FELIX that it
+be allowed to photograph the
+machine and be given some
+simple explanations. Professor
+Laithwaite promptly obliged
+and a demonstration was put
+on for us on Thursday, 28th
+November.
+The twin gyroes were made
+to spin by means of compressed
+air, until the noise due to the
+interaction of the compressed
+air and the surface of the metal
+became a shreak (speed of
+gyro ca_ 1200 rpm). Professor
+Laithwaite then lifted the
+gyroscopes about six inches
+and released them; the motor
+(this makes the support of the
+gyroscopes spin in a horizontal
+direction) was switched on at
+the same time.
+Wls/<SHT
+M»JT©£
+PlVCT
+F / G . 1
+As gyroscopes in turn ran
+down the parabolic track, the
+machine (see fig. 1 forposition)
+started to lift. On reaching the
+bottom of the track, the gyro-
+scopes immediately returned to
+their original position at the
+top and subsequently ran down
+the track. The upthrust thus
+produced, although varied
+considerably due to there being
+only two gyroscopes, but was
+undoubtably present. The
+resultant motion was very jerky.
+The explanation as to the
+cause of this upthrust is given
+by vector summation of the
+various intermediate forces as
+the gyroscopes undergo the
+above mentioned cycle.
+Considering a gyro which is
+already at the top of the motion;
+it is clear that as it goes down
+the track it experiences both
+action and reaction. However,
+when it lifts from the lowest to
+the highest point, there is
+action but no reaction. Thus
+vector summation gives us a
+resultant upwards force, and
+it is this force which produces
+the lift.
+The principle was dem-
+onstrated much more con-
+vincingly on a larger single
+gyro (fig. 2). With the gyro not
+spinning the manual handle was
+used to make the gyro and arm
+move in a horizontal circle,
+then on placing one's hand in
+the way of the arm one
+experienced considerable
+force. On the gyro being made
+to spin it precessed at a
+considerable rate, however if
+one how placed one's hand in
+the way of the precessing gyro,
+'one experienced no force', all
+one needed to do was take its
+weight. In fact, the gyro just
+approached . one's hand
+instantaneously came to a
+stop; dropped down and on
+releasing immediately started
+the precession with a 'constant
+angular velocity'; in other
+words there was 'no time of
+acceleration or retardation'.
+This implies that the gyro has
+no angular momentum, this
+however, is not possible,
+therefore Professor Laithwaite
+states that the momentum must
+be imaginary, i.e. it has square
+root of negative one in front
+of it. Professor says it was
+easier for him to realise this
+because he is an electrical
+engineer and therefore has
+known of similar cases with
+inductances, where one has to
+introduce imaginary numbers
+for some properties.
+Above will seem not to be
+in accordance with 'Newton's
+Laws' and indeed this case is
+not covered by them. However,
+the Professor points out that
+'Newtonian' consideration only
+covers 'constant acceleration',
+whereas this case involves rate
+of change of acceleration.
+Hence Professor Laithwaite
+claims to have made an
+extention to Newton's Laws and
+not disproved any part of them
+(reports in some scientific
+journals that the Professor has
+disproved these laws are false
+and unfounded).
+Professor was at pains to
+explain that his machine does
+not violate the 'Law of Con-
+servation of Energy' and that
+the energy is supplied by the
+motor.
+This machine has countless
+possible applications, es-
+pecially in space travel. I
+think the whole college will
+join me in wishing, Professor
+Laithwaite, best of luck and
+every success with this
+machine and subsequent
+research.
+7/7/ f
+7*
+(Many thanks to Alan Atwood for his help and
+co-operation).
+

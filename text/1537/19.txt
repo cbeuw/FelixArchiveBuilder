@@ -1,0 +1,166 @@
+Quadruple DNA? Go home
+DNA, you’re drunk
+SCIENCE
+A treatment for women vulnerable to miscarriages?
+Keir Little Science Writer
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+19
+FRIDAY 25 JANUARY
+Philippa Skett thinks DNA are now causing a scene and need to be sent home in a taxi
+he traditional double he-
+lix conﬁguration of every
+biologist’s favourite acid,
+DNA, is a common sight
+in the media. It’s on text-
+book covers, in adverts and even in
+logos attempting to convey scientiﬁc
+superiority, but which are really play-
+ing on the naivety of the general pub-
+lic (anti-aging creams, I am looking at
+you). The dual swirl has been incred-
+ibly romanticised since its discovery
+by the biology big shots James Watson
+and Francis Crick, but new research
+is showing that this structure may not
+be all that DNA has up its molecular
+sleeve.
+Chemists at Cambridge University,
+where the classical double helix struc-
+ture was discovered almost 60 years
+ago to the day, have ﬁnally identiﬁed
+the quadruple helix structure of DNA
+in human cells. These structures,
+called the G-quadruplexes, form when
+four guanines (one of the four chemi-
+cal groups that make up DNA) lie in
+a planar arrangement between four
+strands of the DNA backbone.
+Data published this week in Nature,
+by the wonderfully named Dr Shankar
+Balasubramanian and his researchers
+shows how they have targeted ﬂuores-
+cent antibodies to the G-quadruplex
+and identiﬁed them in genetic regions
+that have high proportions of guanine,
+making this the ﬁrst time these have
+been visualised in human tissue.
+But what do these structural won-
+ders do, if anything? They have pre-
+viously been found in telomeres, the
+end of the chromosomes that shorten
+with each cellular division. Telomeres
+are sort of like the genetic countdown
+to death, and are part of the reason we
+aren’t immortal. As each cell divides, a
+little bit of each chromosome doesn’t
+make it to the next cell due to the en-
+zymatic limitations that allow cell di-
+vision to occur.
+Telomeres are the cleaver little non-
+coding genetic martyrs that sacriﬁce
+themselves to ensure precious coding
+DNA doesn’t disappear, as they short-
+en instead. This shortening actually
+leads to a limitation in life span – as
+a telomere shortens to a certain point,
+cells may enter a state of “old age,” or
+die completely. When many cells do
+this, it can lead to organ deterioration
+or cause many of the diseases associ-
+ated with old age.
+One idea is that G-quadruplexes
+may stop enzymes accessing the tel-
+omere after replication. Telomerase is
+one such enzyme – this replaces any
+DNA lost at the end of the chromo-
+some and almost reverses the genetic
+countdown as the chromosomes no
+longer shorten. With this in mind, in-
+hibition of telomerase could be seen
+as detrimental to cellular longevity, al-
+though too much of telomerase activ-
+ity can also lead to cancerous growth.
+It may be therefore that the G-quad-
+ruplex acts a mediator between too
+much or too little telomerase action,
+and maintains healthy growth levels.
+Other functions are being discussed
+too such as the role they have in con-
+trolling gene expression, but such
+speculation is in need of some hard
+evidence to prove once and for all
+T
+Researchers at Imperial College and
+the University of Warwick have iden-
+tiﬁed molecular signals produced
+by cells in the womb saying whether
+an embryo can implant there or not,
+and suggest that drugs aﬀecting these
+signals could be used to treat women
+vulnerable to miscarriages.
+A fertilised embryo must embed it-
+self in the uterus during a speciﬁc few
+days in the menstrual cycle for proper
+development. Previously, it was un-
+clear how endometrial cells control
+the time during which they are recep-
+tive to embryos, and how they signal
+this receptiveness. A recent investi-
+gation into the chemicals produced
+by endometrial cells has found that
+a molecule called IL-33 is secreted
+during the receptive period, which
+regulates inﬂammatory and immune
+responses in nearby cells.
+Usually, this molecule is secreted
+brieﬂy, allowing embryo implantation
+only during the correct time in the
+menstrual cycle. However, the study
+found that in women who had suf-
+fered several miscarriages, IL-33 is se-
+creted for up to 10 days, showing the
+endometrium is receptive even when
+it is not ready for embryo develop-
+ment.
+The study also investigated the ef-
+fect of these molecular signals in
+mice. Mouse uteri were treated with
+human endometrial secretions, which
+increased the period during which the
+mice could become pregnant while
+also increasing the likeliness of mis-
+carriage, supporting the theory that
+the signals are responsible for multi-
+ple miscarriages in humans.
+Further research into the IL-33 mol-
+ecule and drugs that block its action
+may lead to new treatments for wom-
+en who have suﬀered miscarriages.
+The researcher leading the study, Pro-
+fessor Jan Brosens of Warwick, said,
+“the molecular signals we identiﬁed
+are known to be involved in a range of
+diseases, including Alzheimer’s, asth-
+ma and heart disease. Our ﬁndings
+suggest that targeting these molecules
+might also be a promising strategy
+for developing treatments that would
+prevent miscarriages in women who
+are especially vulnerable.”
+Dude, I swear, that’s totally the
+nerd gene right there
+what these quadruple helices actually
+do. For now, it seems that Dr Shankar
+Balasubramanian and his researchers
+work is not over. Although we have
+come a long way since Watson, Crick
+and their Cavendish chums poured
+over their draft structures at the Eagle
+pub in Cambridge, we still have a long
+way in understanding the more intri-
+cate details of the genetic code.
+DOI: 10.1038/nchem.1548
+Quadruple DNA
+

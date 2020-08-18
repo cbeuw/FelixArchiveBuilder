@@ -1,0 +1,213 @@
+Scientists at the University of Oxford have
+developed a pair of protein fragments dubbed
+‘SpyTag’ and ‘SpyCatcher’ that form an in-
+credibly strong bond. Within minutes of be-
+ing brought into contact the protein fragments
+form a covalent bond so strong that when put
+under pressure, the protein breaks away from
+the apparatus before the bond breaks. It is ef-
+fectively a biomolecular superglue – except,
+due to its good specificity, without the possi-
+bility of accidentally sticking to the edge of the
+test tube or other unwanted molecules.
+The discovery was inspired by Streptococcus
+pyrogenes, which causes infections ranging in
+severity from sore throats to toxic shock syn-
+drome. The bacterium uses the FbaB protein
+to bind to human cells before invading. The
+particular strength of this link is caused by
+the protein’s shape. Rather than simply being
+made of a chain of covalently bonded amino
+acids held together by comparatively weak
+forces, FbaB forms amino acid loops which
+are subsequently held together by an additional
+covalent bond. The team of scientists reasoned
+that, if they were able to successfully engineer
+the protein in such a way as to allow the cre-
+ation of two separate fragments which would
+form this covalent bond again once brought
+together, the same mechanism could be used to
+attach other molecules to each other.
+The bond is not only very selective, forming
+between SpyCatcher and SpyTag rather than
+any other molecule in the cell environment,
+but it also forms in a large range of conditions.
+The team successfully repeated the experiment
+Stuck like superglue
+Inspiring: Streptococcus pyogenes
+not only at 37°C and neutral pH, mimicking a
+mammalian cell, but also at 4°C in high con-
+centrations of detergent and under acidic con-
+ditions. This was true not only in vitro but also
+when tested inside Escherichia coli bacteria.
+This development is a leap forward towards
+the goal of being able to combine different
+proteins at will and with ease. Unlike previ-
+ously discovered non-covalent equivalents,
+which can be broken by sufficient shear forces
+within milliseconds, the SpyCatcher:SpyTag
+complex cannot be broken by molecular mo-
+tors. Other existing approaches binding bio-
+molecules using covalent bonds are similarly
+strong but slow, associated with poor yields,
+or in need of reaction conditions hostile to
+common life forms.
+Unfortunately, unlike other mechanisms,
+SpyTag is not traceless. Also, the rate of bond
+formation between SpyTag and SpyCatcher
+is too slow to be effective inside living cells;
+diffusion is likely to occur before bonding.
+With further research and optimization, how-
+ever, we may soon see the dream of biological
+Lego come true.
+DOI: 10.1073/pnas.1115485109
+Most women will at some point in their lives
+encounter the ticking biological clock: the re-
+alisation that their fertile years are limited,
+and if they wish to start a family, they cannot
+wait much longer. This is because we have
+only the supply of oocytes or egg cells we
+are born with, and when they’re gone, they’re
+gone. At least that is the conventional view of
+how the female reproductive system works.
+But research published recently in Nature
+Medicine suggests that there may be more
+going on than we had previously realised.
+Several years ago a team of researchers,
+led by Jonathan Tilly at Harvard Medical
+School, studied the dynamics of ovarian fol-
+licles (which produce oocytes) in mice, by
+measuring the rate at which they mature and
+are released or simply die. They found that
+something did not add up. Given the mea-
+sured rate of degeneration, there should have
+been few or no healthy follicles left by the
+time the mice reached adulthood. However
+this is not the case; like most animals mice
+retain reproductive potential throughout their
+adult lives. Further studies of the biochemi-
+cal activity in the ovarian cells suggested an
+intriguing possibility. Was it possible, the re-
+searchers asked, that the follicles were actu-
+ally being renewed, and producing new oo-
+cytes throughout the mouse’s life, by rare and
+previously unknown stem cells in the ovary?
+This was a controversial suggestion which
+initially met with some scepticism; however,
+some years later such cells (oogonial stem
+cells, or OSCs) were indeed isolated from
+mouse ovary tissue, and shown to spontane-
+ously generate new oocytes both in vitro and
+when injected into the ovaries of mice whose
+fertility had been destroyed by chemothera-
+py. The same mice went on to produce viable
+offspring. Similar results were achieved in
+restoring the fertility of elderly mice.
+The potential implications were clear: could
+there be a similar mechanism in humans, and
+would this allow us to develop new fertil-
+ity treatments for women? Common causes
+of infertility include damage to the ovaries
+from chemotherapy or disease, or premature
+menopause, when there are relatively few fol-
+licles leading to the supply of oocytes run-
+ning out at a relatively early age. If the stem
+cells could effectively cure or reverse these
+conditions in mice, then why not in humans?
+That was the question the recent research
+set out to answer. Applying similar tech-
+niques to tissue from human ovaries, they
+were able to isolate what appeared to be the
+human equivalent of mouse OSCs. The hu-
+man experiments did not go as far as the
+mouse ones, however. Ovarian tissue from
+healthy young women is rarely available for
+research and in limited supply. In this case
+the donors were transgendered and under-
+going sex reassignment surgery, and had
+agreed for their ovaries to be used in this way
+– clearly an unusual set of circumstances.
+Additionally there are serious ethical issues
+around fertilising human oocytes and creat-
+ing embryos for research purposes. What the
+researchers were able to do, however, was to
+transplant human ovarian tissue containing
+human OSCs into mice. These were shown to
+produce immature but healthy follicles, con-
+taining tiny new human oocytes.
+The researchers advise caution however.
+There is much work to be done and many
+questions to be answered before there is any-
+possibility of OSCs becoming a tested and
+proven fertility treatment for humans. How-
+ever the results are promising, and with in-
+fertility a major and growing problem in the
+developed world particularly, any hope for
+women and couples facing this difficult situa-
+tion will surely be welcomed.
+DOI: 10.1038/nm.2669
+Sarah Byrne
+FELIX
+Friday 09 March 2012
+8
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+Annina Sartor
+A Japanese company has devised an unusual so-
+lution to help defend homes against earthquakes
+– involving levitation. While other disaster-resis-
+tant homes provide solutions such as using elas-
+tic iron to be able to move with an earthquake,
+this method devised by Air Danshin Systems lifts
+the house above the ground.
+Air Danshin claim that the technique it is not
+only effective, but a third cheaper than many
+other earthquake-proofing systems and requires
+little maintenance. A set of powerful compres-
+sors is installed around the home and, when an
+earthquake hits, a vast amount of compressed
+air is released underneath the home, lifting the
+structure. The response time is within one sec-
+ond, and structures can levitate up to 3cm using
+this method.
+When the house is lifted, indoor valves control
+the flow of air under the house, keeping the struc-
+ture stable. Following the earthquake’s end, the
+house is then lowered onto a reinforced concrete
+foundation for extra stability. The system is cur-
+rently being implemented across Japan, and is
+live in 88 sites thus far. The company was estab-
+lished in 2005 to sell this technology, originally
+invented by Youichi Sakamoto.
+The news comes as Japan nears its first year
+since the Fukushima disaster, where a series of
+failures at the nuclear power plant following an
+earthquake and tsunami caused devastation.
+The company hopes to expand the system in
+larger and more critical structures, though issues
+involving gas, electricity and water lines still need
+ironing out.
+To better promote the technology, the company
+has created some videos in-house demonstrat-
+ing model homes floating as well as the mecha-
+nisms being used on live people. By showcasing
+such safe and possible measures of dealing with
+an earthquake, the company potentially paves
+the way to a future of floating houses and power
+plants, with the onslaught of earthquakes leav-
+ing the homes of thousands and critical systems
+intact.
+Lift off for Japanese houses
+Stem cells help stop biological clock
+Centers for Disease Control and Prevention
+Not actual levitation method
+Time might not be running out, after all
+Want to write for Felix
+Science?
+Send us an email.
+science.felix@ic.ac.uk
+by Alexander Karapetian
+

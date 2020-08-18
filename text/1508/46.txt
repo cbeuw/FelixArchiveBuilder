@@ -1,0 +1,248 @@
+Felix Sports League
+...where do you stand?
+5 points for a win | 2 points for a draw | -4 points for a loss
+Innovative defensive tactics from the 1s there
+James Brown
+Team P W D L F A Diff Index
+1 Fencing W1 5 5 0 0 403 233 170 5.00
+2 ICSM Football M2 3 3 0 0 11 6 5 5.00
+3 ICSM Hockey W2 2 2 0 0 10 1 9 5.00
+4 Lacrosse W2 1 1 0 0 7 2 5 5.00
+5 Tennis M1 4 4 0 0 38 10 28 5.00
+6 Tennis W1 5 5 0 0 56 4 52 5.00
+7 Ultimate Frisbee 1st 3 3 0 0 45 9 36 5.00
+8 Hockey W1 6 5 1 0 15 3 12 4.50
+9 Rugby M1 8 7 0 1 242 149 93 3.88
+10 Badminton W1 5 3 2 0 25 15 10 3.80
+11 Fencing M1 5 4 0 1 585 460 125 3.20
+12 Hockey M2 5 4 0 1 23 10 13 3.20
+13 Table Tennis W1 5 4 0 1 19 6 13 3.20
+14 Basketball M1 7 4 0 0 465 380 85 2.86
+15 ICSM Badminton W1 4 3 0 1 18 14 4 2.75
+16 Badminton M1 5 3 1 1 27 13 14 2.60
+17 Squash W1 5 3 1 1 11 9 2 2.60
+18 Tennis M2 6 3 2 1 40 32 8 2.50
+19 Fencing W2 6 4 0 2 564 585 -21 2.00
+20 ICSM Hockey W1 4 2 1 1 23 9 14 2.00
+21 Lacrosse W1 6 4 0 2 85 36 49 2.00
+22 Netball W1 6 4 0 2 240 195 45 2.00
+23 Football M1 7 3 2 2 12 10 2 1.57
+24 Badminton M2 5 3 0 2 13 19 -6 1.40
+25 Basketball W1 5 3 0 2 278 223 55 1.40
+26 Lacrosse M1 5 3 0 2 51 27 24 1.40
+27 ICSM Badminton M2 4 1 2 1 15 17 -2 1.25
+28 Football M3 7 4 0 3 13 14 -1 1.14
+29 Hockey W2 6 3 1 3 6 26 -20 0.83
+30 Football M2 7 3 1 3 17 19 -2 0.71
+31 Fencing M2 6 3 0 3 697 683 14 0.50
+32 Futsal M1 4 2 0 2 18 27 -9 0.50
+33 ICSM Football M1 2 1 0 1 4 6 -2 0.50
+34 ICSM Netball W1 2 1 0 1 82 72 10 0.50
+35 ICSM Netball W2 2 1 0 1 52 50 2 0.50
+36 ICSM Netball W4 2 1 0 1 47 50 -3 0.50
+37 ICSM Rugby M3 4 2 0 2 88 90 -2 0.50
+38 Squash M3 6 3 0 3 10 19 -9 0.50
+39 Table Tennis M2 6 3 0 3 53 49 4 0.50
+40 Rugby M2 7 3 0 4 92 132 -40 -0.14
+41 Golf Mixed 1st 4 1 1 2 7 10 -3 -0.25
+42 Table Tennis M1 5 2 0 3 38 47 -9 -0.40
+43 Basketball M2 3 1 0 2 225 195 30 -1.00
+44 ICSM Badminton M1 3 1 0 2 10 14 -4 -1.00
+45 ICSM Rugby M1 3 1 0 2 52 104 -52 -1.00
+46 ICSM Rugby M2 3 1 0 2 32 135 -103 -1.00
+47 Netball W3 6 2 0 4 109 100 9 -1.00
+48 Rugby M3 7 2 0 5 100 120 -20 -1.43
+49 Hockey M1 7 1 0 4 9 30 -21 -1.57
+50 Football W1 4 1 0 3 4 35 -31 -1.75
+51 Netball W2 5 1 0 4 95 164 -69 -2.20
+52 Squash M1 5 1 0 4 3 22 -19 -2.20
+53 Hockey M3 6 1 0 5 7 18 -11 -2.50
+54 ICSM Netball W5 4 0 1 3 25 185 -160 -2.50
+55 Squash M2 6 1 0 5 11 18 -7 -2.50
+56 Squash M4 6 1 0 5 3 15 -12 -2.50
+57 Fencing M3 4 0 0 4 437 521 -84 -4.00
+58 Hockey M4 5 0 0 5 3 38 -35 -4.00
+59 ICSM Basketball M1 1 0 0 1 46 64 -18 -4.00
+60 ICSM Hockey M1 3 0 0 3 6 26 -20 -4.00
+61 ICSM Hockey M2 3 0 0 3 3 19 -16 -4.00
+62 ICSM Hockey M3 1 0 0 1 0 3 -3 -4.00
+63 ICSM Hockey W3 1 0 0 1 0 7 -7 -4.00
+64 ICSM Netball W3 3 0 0 3 26 106 -80 -4.00
+Rugby League try their hand at 9s
+Rugby League
+Will Brown
+After a successful 13 a-side fixture last
+week Imperial College Rugby League set
+off to Surrey Sports Park to enter the Lon-
+don Broncos 9’s tournament and try their
+hand in the shorter format of the game.
+A total of six sides entered tournament
+including highly experienced outfits from
+Feltham and Filton College, both of which
+included several London Broncos academy
+players. Teams from Carshalton and Wok-
+ing also took part.
+The round robin tournament started with
+a repeat of Imperial’s last fixture against
+Woking College. Imperial started strongly,
+setting up camp of the Woking try line but a
+lack of composure and a failure to finish sets
+meant they came away with nothing to show
+for their efforts. In a repeat of last week’s
+game Woking scored breakaway tries when
+Imperial were in the ascendancy. It was later
+discovered that Woking were playing with
+10 rather than 9 players but they were still,
+controversially, awarded the victory.
+Next up were Carshalton and having just
+been beaten in such circumstances a fired up
+Imperial took to the field. The game started
+with hooker Stephen Dias dominating one
+of the Carshalton props in a tackle that be-
+lied his stature and scrum half Jack Neil tak-
+ing down his opposite number with a tackle
+that was felt on the side-lines.
+Soon after, Imperial’s Alex Bukharin
+made a strong run up the middle before an
+audacious chip over the line from Padhraic
+Comerford set up the first of his tries in
+what was try of the tournament. Winger
+Ming Wang-Koh continued the good play
+by running from touchline to touchline be-
+fore showing his true pace, beating the Car-
+shalton winger on the outside.
+SPORT
+FELIX
+Friday 27 january 2012
+46
+sport.felix@imperial.ac.uk
+Sport Editors: Indy Leclercq
+David Wilson
+Web: www3.imperial.ac.uk/sports
+Facebook: Search ‘Sport Imperial’
+Twitter: @SportImperial
+A second try from Comerford shortly fol-
+lowed but Imperial then switched off and
+complacency allowed Carshalton to score
+two late tries and claim an 8-8 draw.
+Woking College, having such a large
+squad, were able to field two teams and
+were up again, the 3rd time Imperial would
+be facing them in the two weeks. At half-
+time it was two tries all, the first from Im-
+perial coming from Neil, who did well to
+collect a wayward pass, the second coming
+from Wang-Koh; putting his cross-country
+legs to the test after running three-quarters
+of the pitch to score his first try for Imperial.
+With the game all square, Dias came off
+the bench to play hooker and made an im-
+mediate impact by tackling Woking’s wing-
+er into touch to save a try. This gave Impe-
+rial possession and straight from the restart,
+Hamish Mackenzie managed to break the
+line and run in for his first try. Imperial were
+not finished at that, Mackenzie showing his
+pace to run in another try to get that revenge
+on Woking College for the past two meet-
+ings.
+Next up for Imperial were Filton College,
+and after playing the previous 3 games
+without a break, this was the last team that
+Imperial needed to play. Even though Fil-
+ton had to travel half of the country to be
+in Guildford, they still had beaten everyone
+else by at least 5 tries without conceding.
+This was understandable with the size of
+their forwards and the pace and agility of
+their wingers yet Imperial stepped up to the
+plate. They produced some great plays in-
+cluding a step by Comerford that sent one
+of the large forwards to the ground. Filton
+were constantly on the back-foot with Im-
+perial coming so close to their try line but
+at the turnover Filton’s wingers showed the
+pace that Imperial were wary of to score
+the first try breaking from under their own
+posts.
+This didn’t stop Imperial and after a few
+sets a piece for each team including some
+big hits and a Sonny Bill style offload by
+half-back Neil, another counter attack from
+Filton resulted in a try in the dying minutes
+of the game. Filton would then go onto lift-
+ing the trophy so Imperial should take pride
+in this result, keeping the score so close.
+The final game for Imperial was against
+Feltham College, which was sure to include
+a few young offenders, as well as London
+Broncos academy players.
+Imperial remained unfazed, however, and
+after a hard fought battle which included the
+two smallest players for Imperial, Macken-
+zie and Dias chasing a Feltham player in
+possession for half the length of the pitch
+and performing a great double tackle to
+hold up the ball so that the Imperial defence
+could retreat, Feltham managed to score
+two quick tries in succession.
+By this point, the lack of numbers had
+cost Imperial dearly, unable to make as
+many interchanges as most teams. Feltham
+managed to score again towards the end of
+the game to end any Imperial challenge.
+After a hard fought day in Guildford, Im-
+perial College Rugby League headed for the
+train back home with a couple of tinnys and
+their heads held high. Imperial’s injured
+President David Hobson said: “The lads
+played really well today and with a little
+more composure and experience we could
+have been looking at competing in the fi-
+nal. Being able to compete with teams with
+far superior levels of experience proves that
+we’re developing well.” Based on this evi-
+dence Imperial will be looking forward to
+continuing their rise next term in both the
+13 and 9 aside formats of the game. For
+more information or to get involved contact
+rfl@imperial.ac.uk.
+try he managed to score again, giving Impe-
+rial a safe advantage.
+Imperial kept creating chances, with Rob-
+inson hitting the bar after a crossing from
+Tofis down the left. March and Benincasa
+that got into the game as subs, gave an extra
+Comfortable success for Men’s 1s
+...Continued from Back Page
+Dodgeball: 2nd
+place in Essex
+...Continued from Back Page
+boost to Imperial that control and game to
+the end.
+Overall, it has been one of the best Impe-
+rial’s performances so far, who are looking
+to extend their winning record and challenge
+for some silverware by the end of the sea-
+son.
+in 16 tournaments all over the country. Ed-
+mund Teo was given the honor of ‘man-of-
+the-tournament’ following some unbeliev-
+ably skilled game play in only his second
+appearance for the 1st team as he was prac-
+tically unhittable throughout the duration
+of the tournament.
+The Imperial Wolverine’s II team also
+displayed some strong performances in
+their games with some absolutely stunning
+catches from their ‘man-of-the-tourna-
+ment’ Luke Barron and strong leadership
+from team captain Will Robinson.
+Such strong and promising performances
+from the Imperial Wolverines teams in this
+particular tournament highlights just how
+the far the team have come and the poten-
+tial that they have to go even further (as
+long as they remember how to start the
+minibus engine).
+

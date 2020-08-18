@@ -1,0 +1,180 @@
+What is a superconductor?
+Superconductors are the materials
+which, when they are cooled below
+a certain temperature, display zero
+resistivity. The electrical current pass
+through the body of a superconductor
+without any loss of energy at all. An
+important feature of these materials
+is that they exclude any magnetic field
+that would normally penetrate them.
+This is called.the Meissner effect or
+perfect diamagnetism.
+Why is superconductivity
+important?
+Using superconductors we can use
+electric current without any losses due
+to resistance. Powerful magnets can
+be made which are used in medical
+equipment (NMR), particle
+accelerators, magnetic separation,
+magnetic levitation trains and other
+applications with a lower cost than if
+conventional electromagnets were
+used. Moreover, there are
+applications such as very sensitive
+magnetometers which could not even
+exist without superconductivity.
+Today, the conventional
+superconductors represent a market of
+£110 million'($200 million) a year
+and, it is estimated, this will increase
+to £930 million ($1,700 million) a
+year by the end of the century.
+Ceramic Superconductors:
+The new generation
+Until 1986, the materials which were
+used were only superconductive
+below 13 to 23K (-260 to -250°C),
+so liquid Helium with boiling point
+at 4.2K was the only coolant that
+could be used.
+In September 1986, Bednorz and
+Muller published a paper announcing
+the discovery of an oxide which
+became superconducting at 30K under
+the modest title:'Possible High To
+Superconductivity in the La-Ba-Cu-
+O system'. It made a great impression
+on the scientific community and
+researchers started experimenting
+with these ceramics. The paper was
+a breakthrough and in February 1987,
+Professor Chu's group at Houston
+discovered superconductivity at 94K
+in the Y-Ba-Cu-0 system. Bednorz
+and Muller were awarded the Nobel
+Prize in Physics later in 1987 for their
+discovery.
+Raising the critical temperature to
+94K is very important, because liquid
+nitrogen can now be used for cooling
+since its boiling point is 77K. Liquid
+nitrogen is ten times cheaper than
+liquid helium and much more easy to
+handle. It costs about the same as
+milk.
+Following this discovery many
+universities and companies around the
+world set up research teams. Up to
+the end of 1987 there had been no
+success in the search for new
+materials with critical temperatures
+higher than 94K. However, much
+progress has been reported on the
+knowledge of the structure, the
+properties and the fabrication of these
+materials.
+According to recent newspaper
+reports, a new compound consisting
+of Al-Bi-Ca-Cu-Sr-0 has been found
+to be superconducting at 114K, but
+this has yet to be confirmed by any
+scientific publication.
+circuits of microchips have recently
+been made experimentally in Japan,
+using integrated circuit technology.
+Many of the above methods are
+being tried by research staff of the
+Imperial College. A demonstration of
+superconductivity took place during
+the RSM Open Day last term, where
+pieces of magnet floated over
+superconducting pellets as a result of
+the Meissner effect.
+Governments are eager to provide
+the funds and characteristic of their
+S U P E R C O N D U C T O R S
+by Y. Kontoulis
+Scientists use every possible
+technique to study the characteristics
+of YBajCUjO^g (the so-called 1-2-3
+compound) from methods like
+Thermogravimetric Analysis (TVA),
+M-Ray Powder Diffraction (XRD)
+and Scanning Electron Microscopy
+(SEM) to the most sophisticated like
+Neutron Powder Diffraction and High
+Resolution Electron Microscopy
+(HREM).
+interest are the following facts:
+President Reagan proposed a
+superconductivity initiative consisting
+of eleven points for 'the promotion of
+greater cooperation among
+government, academia and industry;
+encouragement of the private sector
+more rapidly to commercialise
+scientific advances and improved
+protection of the intellectual property
+rights of those working in the field'.
+The research for new compounds
+is extensive and many groups have
+substituted the elements of the 1-2-3
+compound hoping to produce a
+compound with a high critical
+temperature. In fact substitution for
+Y gave encouraging results, but the
+new compounds made with Ho, Eu,
+Gd, Nd, Er and other rare earth
+elements do not display
+superconductivity at temperatures
+exceeding 93-94K.
+For experimental samples, the
+fabrication of the 1-2-3 compound
+simply invoves the mixing and firing
+of Y 2 0 3 , BaC03 and CuO. In order
+to improve the quality of the material,
+however, more complex processes are
+now being used like freeze-drying,
+sol-gel, coprecipitation, spray-drying
+and others.
+Another interesting view of the
+subject is the fabrication of thin films
+by methods such as sputtering and
+metallorganic deposition.
+Experimental superconducting
+The Ministry of International Trade
+and Industry (MITI) of Japan founded
+an 'International Center on
+Superconductivity', providing money
+for and having the support of many
+Japanese companies. It has been
+reported that the funds are around
+$50million.
+Britain has just named Cambridge
+as a 'Superconductivity University
+Research Centre' and has also
+approved many research programmes
+including that of Imperial College.
+The SERC has committed £2million
+in the form of grants.
+At Imperial, the Departments of
+Materials, Physics, Chemistry are all
+involved in the research of
+superconductivity. Their research
+groups meet regularly in order to
+coordinate the research, to inform one
+another on the progress that has been
+made and to discuss the problems that
+arise. Their results have been reported
+at a conference in Bristol and at
+another one in London in December.
+The Meissner Effect: A magnet is
+levitated over a superconducting
+surface. The superconductor, cooled
+with liquid nitrogen to 77K (-196°C)
+expels the magnetic field and makes
+the magnet levitate.
+FELIX Friday February 12th 1988 •7
+

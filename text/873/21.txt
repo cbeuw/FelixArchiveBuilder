@@ -1,0 +1,193 @@
+FELIX investigates codemaking and codebreaking...
+Cryptography
+4,000 years ago a master scribe writing near the Nile
+sketched hieroglyphics that told the story of his Lord's
+life. He used some unusual hieroglyphic symbols,
+intending to impart dignity and authority to his writing.
+The scribe incorporated one of the essential elements
+of cryptography; it is the oldest text known to include
+a substitution.
+As the Egyptian civilisation continued, the
+substitutions grew more complicated and more
+contrived. In its first 3,000 years, cryptography arose
+independently in many places and in most of them it
+died with the civilisation. In some places it survived,
+embedded in literature, to be elaborated still further
+by later civilisations.
+Vatsayana's famous textbook of erotics, the
+Kama-Sutra, lists secret writing as the 45th of the
+64 arts, or yogas, that women should know and
+practice.
+The Spartans established the first system of military
+cryptography in the 5th century BC. Lacedaemonian
+generals exchanged messages by winding narrow
+ribbons of parchment around cylindrical staffs. The
+system was called the skytale. Messages were
+written onto the parchment lengthwise and the ribbon
+unwound, scrambling the letters. The idea was that
+deciphering the message needed an identical staff.
+This reordering is known as Transposition
+Encipherment and is one of the two basic principles
+of modern cryptography.
+Many methods were found to relay the message.
+One of the more bizarre was to tattoo it onto a slave's
+head; then once the slave's hair had grown back, to
+send him to the recipient. Crude and slow this may
+sound, but even as late as World War I, it was
+common practice to send spies into enemy territory
+with messages written in invisible ink on their skins.
+More scientific cryptograms were devised by the
+early Greeks; one method was to substitute numbers
+for letters from an alphabet-square. The substitution
+of one letter for another was a favourite device of the
+Romans. This is an example of the second main
+principle of modern cryptography, Substitution
+Encipherment. Caesar had a very poor cryptographic
+imagination and used a system of shift substitution
+where D represents A, E represents B etc.
+In the 1790's a simple cipher machine was invented
+by Thomas Jefferson. It was made from a long
+cylinder made from 36 independant narrower
+cylinders, mounted on an axis and with a jumbled
+alphabet inscribed upon each. The message to be sent
+is divided into 36 letter sections and the cylinders
+aligned so that the message can be read along a line
+running the length of the larger cylinder. The
+characters from another, previously specified line can
+then be sent as the encrypted message. This was a
+very clever machine in its day, but now with the
+statistical information available thesedays, such a
+code can easily be broken.
+A cipher for secrecy in telegraphy that was used
+in the Boer War carries the name of Lyon Playfair, as
+in the Lyon Playfair Library here at Imperial College.
+The cipher was actually invented by his friend Charles
+Page 22
+DETAILS O F ENIGMA M E C H A N I S M
+R l M N E
+o o.o „ „
+0 0 6 0 0 0
+0 0 0 0 0 0
+O O O O O t j o O
+O O O O O O
+Wheatstone, a man with a remarkably fertile mind.
+Wheatstone constructed an electric telegraph,
+invented the concertina, studied underwater
+telegraphy and produced some of the first
+stereoscopic drawings. He discussed phonetics and
+hypothetical speaking machines and popularised the
+method for measuring electrical resistance accurately,
+now known as the Wheatstone bridge.
+Lyon Playfair, the first Baron Playfair of St Andrews,
+was deputy Speaker of the House of Commons and,
+among his many achievements, he helped lay the
+foundations for modern sanitation. Both Playfair and
+Wheatstone were short and bespectacled and they
+were frequently mistaken for one another-once even
+by Lady Wheatstone.
+Wheatstone and Playfair amused themselves on
+Sundays by solving the enciphered personal messages
+in the London Times. The correspondance of an
+Oxford student with his young lady in London was
+easily deciphered. The student proposed an
+elopement. Wheatstone inserted an advertisement in
+the same cipher remonstrating with her. There
+followed a frantic, 'Dear Charlie: write no more. Our
+cipher is discovered!' and then silence.
+In 1854, Playfair demonstrated what he called
+'Wheatstone's newly-discovered symmetrical
+cipher' to Prince Albert and Lord Palmerston. The
+system worked by substituting pairs of letters and
+couid beat the usual deciphering methods which were
+based upon single letter frequency analysis.
+The most frequent letters in English are E (12%) and
+T (9%). The most frequent English pairs or diagraphs
+are TH (3% %) and HE (2'/2 %). There are, of course,
+26 letters in the English alphabet, compared with 676
+diagraphs. The Playfair cipher was regarded as
+unbreakable. It was simple and practical: no tables or
+apparatus were required only a keyword, easily
+remembered and easily changed. Its simplicity made
+it ideal as a field cipher.
+At a dinner with Prince Albert, Playfair suggested
+it be used in the impending Crimean War and Britain's
+War Office finally adopted it as the British Army's field
+system during the Boer War.
+The vast use of secret communications in the First
+World War lead to the British Type X Mklll Cypher
+machine and its German equivalent and prehaps the
+most famous of all encryption machines, the Enigma
+Machine.
+Both these machines were products of by the new
+age of electricity and mechanisation and both relied
+on a single simple device, widely used in
+cryptography: the wired codewheel or rotor.
+Embedded around the circumference of each face
+of the rotor are 26 evenly spaced electrical contacts.
+Each contact is connected at random by a wire to a
+contact on the opposite face.
+With the rotor stationary, say, a letter T can be
+mapped to the letter Q. When the rotor clicks forward
+on step, the letter is mapped to an entirely different
+letter.
+A second rotor shifts a step after the first rotor has
+completed its revolution. Several other rotors can be
+added to the machine.
+nonsense
+The Enigma cipher was invented by Arthur
+Scherbius in 1923, but not patented until 1928. It
+used three rotors and 6 separate plug connections,
+offering more than 5.2 x 10 encoding positions.
+The Enigma differed from the original rotor
+conception in two important ways. The last rotor
+reflected incoming electrical signals back through the
+system, generating a new letter. If this was fed into
+another machine with the same combination of rotors,
+the original letter would be produced. Hence one
+machine could act as both encoder and decoder.
+Added security was given by the use of gears to make
+the rotor progression irregular.
+As Hitler began rearming Germany, the Wehrmacht
+began supplying their expanding forces with the
+Enigma. During World War II the portable glowlamp
+Enigma, battery powered, served as the top German
+system. Signal officers believed it to be secure. The
+only disadvantage was that it did not print out a
+message but lit up individual letters. Fast operation
+required three men. One to enter a message, another
+to call out the letters as they lit up and a third to write
+down the resulting code.
+Eventually, the allies obtained one of the Enigma
+machines. Working with what was then the latest
+computing equipment at Bletchley, the brilliant
+mathematician Alan Turin and his team broke the
+code. This breakthrough was one of Churchill's best
+kept secrets.
+By decoding German signals Hitler's spies
+parachuting into England were detected and captured.
+Their reports were then falsified as a means of
+confusing Hitler.
+Since every effort was being made not to alert Hitler
+to the collapse of Enigma, information gathered could
+not be used overtly. A strange example arose in naval
+warfare. If the rate of interception of ships increased
+unaccountably fears about Enigma would have been
+raised. In order to overcome this, spotter planes were
+sent to the known positions on ships, 'accidentally'
+finding them.
+In the late 1930's the British introduced the Type
+X Mk III Cipher Machine, developed by Air
+Commodore Oswyn Lywood. This used five drums
+rather than Enigma's three and had the advantage of
+printing the resulting code on paper. The drums were
+rotated by the operator as he typed thus adding the
+extra complexity needed to defeat German attempts
+to crack the cipher.
+Enigma and it's predecessors were essentially
+mechanically based but the advent of small, cheap
+and powerful electronic computers has led to
+software based cryptograms that even the most
+ingenious analyst cannot break.
+The Enigma, possibly the most famous cipher machine in history, on display in the Science Museum
+Paae 23
+

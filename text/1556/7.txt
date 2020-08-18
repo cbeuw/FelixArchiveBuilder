@@ -1,0 +1,155 @@
+7
+@feliximperial
+FelixImperial
+FRIDAY 18 OCT
+SCIENCE
+gs boson and how its existence was ﬁnally conﬁrmed last year
+CERN
+The Compact Muon Solenoid (CMS), one of two detectors at the Large Hadron Collider (LHC) used in the search for the Higgʼs boson
+fifty years yields Nobel prize
+atoms together from nucleons and
+protons. They often break down into
+lighter particles in an attempt to
+attain stability; the Higg’s Boson was
+predicted to break down into a W
+boson, which could then break down
+further into a lepton, among other
+combinations.
+These breakdown products were
+what the LHC was trying to detect,
+and would be measured by Atlas or
+CMS- they manifested as anomalies in
+data output, represented as “bumps”
+on an otherwise consistent line on
+a graph. These bumps represented
+an unexpected excess of gamma rays
+or other decay residuals; possibly
+from the aftermath of a Higg’s Boson
+disintegration.
+Bumps in the data were common,
+but through repeated collisions were
+smoothed out as they disappeared
+through the realms of statistical
+averaging. It was only when the bumps
+remained, and became less anomalous
+and more predictable, that the two
+teams started to sweat.
+Truthinscienceisallaboutstatistical
+signiﬁcance. If the odds of something
+occurring are above a certain
+quantitative threshold, it is considered
+to be a truth, and the highest threshold
+for this determination is considered to
+be a “5-sigma level.” This means that if
+the odds of something taking place by
+chance are less than 1 in 3.5 million,
+then you can conﬁdently state that
+what is occurring the other 3,499,999
+times is the norm, and can be heralded
+as the truth.
+A persisting bump on the graphs of
+one team corresponded to a gamma
+ray of mass of around 128 billion
+electron volts. The gamma rays
+produced by the Higg’s Boson decay
+were theorised to lie between 115
+billion to 200 billion electron volts
+of energy, so as the bump persisted
+in the datasets produced by particle
+collisions, excitement, coupled with
+the characteristic skeptism all good
+researchers harbour, started to grow.
+It was team Atlas that was fortunate
+to nurture this bump throughout
+repeated tests until its occurrence had
+reached a 3-sigma level: the chances of
+it being a systematic ﬂuke were only 1
+in 740.
+CMS were also seeing important
+ﬂuctuations of energy, this time in
+the form of a “four-lepton” signal. The
+results were almost at a 3-sigma level,
+and it seemed that both Atlas and CMS
+had simultaneously and independently
+cracked the code. Neither could boast
+a 5-sigma signiﬁcance however, so the
+race was still on.
+Dr Heuer, the Director General
+of CERN, revelled in these ﬁrst
+hints of particle discovery, so set up
+a symposium in CERN. Dr Heuer
+reasoned that a sigma signiﬁcance
+of 4.9 would not be enough to call
+something a discovery, but two
+experiments boasting such a value
+would combine to make a sigma value
+that would be enough to tilt the scale
+in favour of statistical signiﬁcance.
+It was now a matter of combining
+data in the right way to produce that
+statistically sound support for the
+boson’s existence.
+Itwasasolitarygraduatestudentthat
+ﬁnally produced results that breached
+the 5-sigma level, but the discovery
+was not ultimately conﬁrmed until
+another pair of graduate students had
+brought all the datasets together and
+combined them to produce a result
+of a signiﬁcance level of 5.08-sigma.
+They had ﬁnally found the boson.
+This result was the combination
+of datasets spanning 1,000 trillion
+proton-proton collisions, resulting
+in the formation of 240,000 possible
+Higg’s Bosons, 350 pairs of gamma
+rays and 8 sets of lightweight
+particles from the lepton channels.
+The two teams presented their
+work simultaneously at the CERN
+symposium on July the 4th , 2012, with
+the whole world watching. CMS went
+ﬁrst, followed by Atlas, and then Dr
+Heuer declared that they had indeed
+found a previously unknown particle.
+DrHiggswaspresentintheaudience,
+was seen to be crying as the ripples of
+the news began to spread from the
+CERN epicentre to right around the
+world. Follow up data analysis was
+done, and on the 14th of March, 2013,
+it was tentatively conﬁrmed to be the
+Higg’s Boson.
+So who really did deserve the Nobel
+Prize? Some people suggest that in
+reality, those at CERN who made the
+discovery should be heralded with the
+greatest accolade that mankind has to
+oﬀer, whilst others are still squabbling
+about the theoretical history of the
+particle and who exactly should be
+recognised for theorising the boson in
+the ﬁrst place.
+The Royal Swedish Academy of
+Sciences announced last week that
+Peter Higgs and Francois Englert had
+won the prize “for the theoretical
+discovery of a mechanism that
+contributes to our understanding
+of the origin of mass of subatomic
+particles, and which recently was
+conﬁrmed through the discovery of
+the predicted fundamental particle, by
+the ATLAS and CMS experiments at
+CERN’s Large Hadron Collider.”
+CERN was not attributed with
+the Nobel Prize for its role in this
+marathon, and it could be humoured
+whether or not Higgs would have even
+got the prize if the particle’s existence
+had not been proven. Needless to say,
+the unfolding of the discovery of the
+boson is a great story to tell, and no
+doubt will become one of scientiﬁc
+legend as the years pass.
+

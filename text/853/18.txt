@@ -1,0 +1,262 @@
+FELIX investigates the semiconductor IRC at Imperial
+Interdisciplinary resej
+It is a sort of Government ministerial mantra that
+industry and academia should work more closely
+together and it was at least partially with this in mind
+that the Interdisciplinary Research Centres (IRCsl
+were formed. These are large, university- based
+'centres of excellence' where researchers from a wide
+range of backgrounds can work together on
+commercially viable projects. They will do no
+fundamental 'blue-skys' research.
+The Government hopes that these centres will be
+able to make more efficient use of the available public
+money and attract industrial sponsorship. Ministers
+even claim that the centres could become self
+supporting.
+In the two years since the IRCs were first mooted
+seventeen have been set up, three of them at Imperial
+College. IC's IRCs specialise in process control,
+population biology, and semiconductor materials.
+They have even been deemed important enough to
+warrant a visit from the Prime Minister. The largest
+of the three, and the oldest, is the IRC for
+Semiconductor Materials. Its director is Professor
+Bruce Joyce.
+Professor Joyce's group is based in Imperial's
+Physics and Chemistry departments although it
+includes researchers working at University College,
+Queen Mary College and at what has been described
+as 'a small outpost' in Oxford. It has a budget of £13
+million and a staff of around thirty academics.
+The IRC proudly claims to be truly interdisciplinary
+involving physicists, chemists, material scientists and
+electronic engineers in both theoretical and
+experimental work. Their aim is to produce
+commercially viable semiconductor devices a few
+atoms wide, accurately and with the lowest possible
+level of impurities.
+Semiconductor materials such as Silicon |Si| and
+Gallium Arsenide (GaAs) have been used for decades
+in everything from the simplest transistor to the most
+complicated 'silicon chip'. Semiconductor research is
+sellable and, the IRC hopes, an attractive investment.
+The most important technique used by Professor
+Joyce's Group is Molecular Beam Epitaxy (MBE), a
+method for growing layers of material as little as one
+atom in thickness on the surface of a slice of
+semiconductor crystal. It relies for its effectiveness
+on the volatility of single atoms of semiconductor.
+Unless tightly held in place, such as in a crystal
+lattice, these atoms can easily be dislodged. So when
+such an atom strikes the target it will normally
+rebound. It will only stick if it lands in exactly the right
+place to form part of a crystal.
+If there is a steady stream of atoms.hitting the
+target many will rebound but a few will stick and a
+layer of new material will slowly form. By changing
+the source of atoms, layers of different materials can
+be built up, one on top of another.
+In reality MBE is much more complicated. The
+process can only work under very clean conditions at
+very low pressures, so all the essential apparatus must
+be contained within an ultra- high vacuum chamber.
+The beams of atoms are produced by heating samples
+of material in small ovens and allowing atoms to
+diffuse out. Under such low pressures, an individual
+Page 20
+atom can easily travel the half metre or so from the
+oven to the target without colliding with another
+particle.
+Usually, a number of separate ovens are used, each
+providing a beam of different material and with
+mechanical shutters to control the flow. In the midst
+of all this, the target is heated and steadily rotated to
+ensure an even coating.
+Atoms which miss or rebound have to be caught.
+This is achieved by cooling the walls of the chamber
+with liquid nitrogen: at these temperatures, atoms
+which strike the walls stick.
+Producing a thin, even layer of atoms is a delicate
+balancing act. A beam of electrons reflected off the
+sample's surface can be used to examine its structure
+and the temperatures of the ovens and the sample
+adjusted to give the best results. Typically, a single
+MBE machine costs between £0.5 million and £1
+million to build and can lay down material at a rate
+of one new atomic layer a second. The IRC
+researchers plan to install two or three new MBE
+machines.
+Much IRC research will revolve around achieving the
+best performance from MBE and the alternative gas-
+based Metallo Organic Chemical Vapour Deposition
+(MOCVD). The IRC staff will have a wide range of
+detailed and sophisticated techniques at their disposal
+ranging from high definition scanning tunnelling
+microscopy to computer modelling.
+In a normal semiconductor most electrons are
+tightly bound to the atoms; however, due to impurities
+in the material or excess energy from the
+surroundings, a few will always escape. If the
+semiconductor is large enough, these can travel freely
+in all directions, allowing a current to flow. In effect,
+the solid contains a three-dimensional 'gas' of
+electrons.
+This gas is not a perfect conductor: impurities and
+flaws in the crystal and atomic vibrations can deflect
+and slow the electrons. Devices made from impure
+semiconductor are intrinsicly slower than those made
+from purer material.
+MBE has enabled researchers to build slices of pure
+semiconductor just a few atoms wide. Under these
+conditions the electrons are constrained to move in
+a plane. This too is an electron gas, a two dimensional
+electron gas (2DEG) with its own special properties.
+By building a layer of a pure semiconductor on top
+of impure electron-rich material, it is possible to
+confine the 2DEG to the cleaner region where the
+electrons can move more freely. A 2DEG based
+device, such as the High Electron Mobility Transistor
+(HEMT), will respond faster than its simpler
+counterpart but at a price. There is a limit on the
+amount of excess energy the electrons can have and,
+as energy is heavily dependant on temperature, a
+maximum temperature beyond which the device will
+not work. Practical HEMTs have a working
+temperature near 4 Kelvin.
+Semiconductor sandwiches can be used to produce
+miniature tuned lasers. There is a comparatively large
+difference between the energies of bound electrons
+ch centres at IC
+st-
+and those of the free electrons so when an electron
+is 'captured' energy will be released in the form of a
+photon. For a large slab of material, this energy
+difference is fixed and, as the frequency of light is
+related to the photon energy, the released photons will
+have a certain energy.
+As the thickness of the slab decreases, a number
+of distinct discrete energy 'levels' form. Electrons
+jumping between different levels can produce photons
+of different but constant frequencies. The slab will
+become a tuned laser almost too narrow to be seen
+by an electron microscope.
+Using other techniques it is possible to further
+constrict the electron gas to make the electrons flow
+rapidly along one dimensional 'Quantum Wires' or hold
+them fixed in 'Quantum Dots' to build up complicated
+multi-layered circuits on the scale of atoms.
+Most IRC research will have an eventual commercial
+end product but Professor Joyce does not believe that
+finding applications is its primary aim. He argues that
+only the sponsoring companies have the experience
+necessary for this. He sees the IRC as collaborating
+with rather than working for industry. Government
+pressure to make the work more immediately
+commercial will be strongly resisted.
+No-one is claiming that the £13 million provided will
+support all the IRC's work and the group will have to
+look for other sources of funding. British Industry may
+help, the electronics company Phillips is already
+donating an MBE machine. Some cash may come
+from the various European Community projects but
+the area of most interest must be Japan.
+Unlike the UK, the Japanese have invested
+enormously in research in recent years. Everyone in
+Japan who can do research is already doing so and
+companies who want more work are looking outside.
+Professor Joyce hopes that they will look to the IRC.
+The Japanese may not need too much
+encouragement. In 1992, the much vaunted European
+single market will become an economic reality and it
+will become more difficult for companies outside
+Europe to compete. Of course, if Japan becomes a
+major investor in British research, it will not be outside
+any more.
+The concept of an IRC is only about two years old
+and it has already come in for some criticism. The
+recent 'Flemming Report' was critical of the way the
+centres were set up although, according to Professor
+Joyce, it was 'quite favourably disposed' to the IRCs
+themselves. Nobel laureate Dennis Noble of the Save
+British Science campaign is openly hostile. He believes
+that IRC research is over-controlled and that extending
+the idea further could damage British Science.
+The Semiconductor IRC is under a year old and has
+at least another three years before it is due to be
+assessed. If it survives the assessment it will receive
+Government funding for another four years but from
+then on it will have to be self supporting or fade away.
+It may not be until the mid 1990s that we finally
+discover whether or not the IRC experiment has been
+a success.
+This
+Yfeek
+• The major industrialised countries will have to
+reduce carbon dioxide emissions by three-quarters by
+the year 2030 according to a recent report. The
+report, from the California-based International Project
+for Sustainable Earth Paths, proposes a system of
+carbon dioxide 'budgets'-limits on the amount of the
+gas which any one country is allowed to produce.
+The researchers propose a global budget of 300
+billion tonnes, split equally between industrialised and
+developing countries. Each country will have a quota
+based on its population. The scheme deliberately hits
+the wealthier industrialised countries hard while
+allowing the developing world 25 years before it has
+to make serious reductions.
+It is estimated that the industrialised nations will
+have to reduce their emissions by 20% by 2005, 50%
+by 2015 and 75% by 2030. The figures assume that
+the tropical rain forests can only survive an increase
+of 0.1 °C per decade, if the rise is any higher the
+forests, responsible for recycling and removing much
+of the World's carbon dioxide, will start to die out.
+• Like the infamous watched pot, a Quantum
+Mechanical system will do absolutely nothing if
+examined closely enough. This apparent
+contradiction, known as the Quantum Zeno Paradox,
+has been known of in theory for decades. Now
+researchers at the National Institute of Standards and
+Technology (NIST) in Boulder, Colorado claim to have
+experimental evidence.
+The NIST team examined several thousand berillium
+ions held in a magnetic trap and subjected them to
+a 256 millisecond burst of a radio frequency field. This
+should have raised all the ions from their lowest
+possible energy to the second lowest. The number of
+ions in the lower level was counted by subjecting them
+to a brief flash of precisely tuned laset light. This
+excited all the atoms in the lowest state up into the
+third lowest. This third energy level is very unstable
+and the ions rapidly release the extra energy as flashes
+of light. The number of lowest energy state ions could
+then be found by simply counting the flashes.
+The researchers found that if they looked only after
+the full 256 ms, all the ions were at energy level 2.
+But when they 'sneeked a glimse' at 128 ms, then
+after the full time only half the ions had made it to level
+2. The single look had effectively reset the system.
+In classical physics the experiment and the
+experimenter are completely seperate but in QM there
+is no such thing as an impartial observer.
+• An international team of geneticists have found
+the defective gene that causes Hypertropic
+Cardiomyopathy, the thickening of one wall of the
+heart. The team has also found an associated genetic
+marker inherited with the gene which can be used to
+warn potential sufferers.
+• Artifical seeding of clouds may account for up to
+15% of rainfall in the USSR, Soviet meteorologists
+have claimed. Seeding, the technique of spraying
+clouds with a chemical reagent around which water
+can condense, has been known about for years and
+there are a number of current research programmes.
+Some experts are sceptical about the Soviet claims
+saying that the increase could only be around 5%.
+• Job Offer. Anyone who fancies writing this column
+next term should contact Dave Smedley at the FELIX
+Office.
+Page 21
+

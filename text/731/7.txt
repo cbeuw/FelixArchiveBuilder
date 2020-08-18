@@ -1,0 +1,309 @@
+Planning For Disaster
+Incidents at nuclear power plants, like the one in 1979 at
+Three Mile Island in the United States, are fortunately very
+rare. However, it is important to consider the potential
+consequences of such accidents and pre-plan emergency
+procedures. Debbie Wilkes examines the research being
+done at IC in this field and the safety measures being
+taken at home and abroad.
+T h i s assessment of
+possible c o n s e q u e n c e s c a n
+be extremely c o m p l e x , as it
+has to take into a c c o u n t all
+the factors of the release,
+its dispersion into the
+environment, a n d the
+resultant contamination
+and exposure of h u m a n
+beings. Here at Imperial
+C o l l e g e , in the M e c h a n i c a l
+Engineering Department, a
+g r o u p under D r H e l e n
+A p s i m o n is looking at
+numerical models for the
+dispersion of pollutants in
+the atmosphere; with the
+aim of estimating risk on a
+probabilistic basis a n d to
+help in the planning of
+e m e r g e n c y procedures.
+P r e - p l a n n i n g of
+e m e r g e n c y procedures is of
+the utmost importance, as
+in the event of an accident
+at a nuclear power plant
+rapid action might be
+needed to protect people.
+T h e form of any protective
+measures w o u l d d e p e n d o n
+many different factors
+including local geography,
+situation of population
+density relative to the plant,
+weather conditions a n d the
+magnitude of the release.
+In the early phases during
+the release steps might be
+taken to protect people
+close to the plant from
+contamination through
+atmospheric exposure. For
+any protective action to be
+effective there w o u l d need
+to be prior k n o w l e d g e of
+w h i c h areas were most at
+risk. O n c e an a t m o s p h e r i c
+release had finished there
+w o u l d then be the problem
+of foodstuffs, especially
+milk and crops, b e c o m i n g
+contaminated with activity
+deposited from the c l o u d .
+At this stage it might be
+necessary to protect people
+at a greater distance from
+the plant a n d the protective
+measures might well
+include destruction of any
+milk p r o d u c e d in the area.
+Finally there w o u l d be an
+inquiry, w h i c h w o u l d
+involve an in-depth analysis
+of the c o n s e q u e n c e s over a
+greater distance. If the
+most effective e m e r g e n c y
+p r o c e d u r e s are to be
+p r o d u c e d then all of these
+factors have to be taken
+into account.
+Dr A p s i m o n ' s work
+originally began with a
+research project b a c k e d by
+the F r e n c h C o m m i s s i o n
+Energie A t o m i q u e ( C E A ) .
+T h e project was to estimate
+the collective d o s e to the
+w h o l e population that
+w o u l d c o m e from the small
+d o s e s (small c o m p a r e d to
+the natural background)
+that result from routine
+operations. T h i s involved
+looking at h o w radioactivity
+might be d i s p e r s e d o n a
+E u r o p e a n scale, a n d has
+subsequently led to further
+work in this area with the
+E u r o p e a n C o m m i s s i o n . T h e
+C o m m i s s i o n requires
+countries planning to build
+nuclear power stations to
+report to the E E C o n the
+potential transfrontier
+c o n s e q u e n c e s of an
+accident in o n e m e m b e r
+state o n another m e m b e r
+state. B y using c o m p u t e r
+simulations of the
+dispersion Dr A p s i m o n has
+been able to obtain a m u c h
+fuller picture of the
+potential c o n s e q u e n c e s of
+an incident.
+W h e n looking at the
+potential risk all the many
+different environmental
+dispersion pathways have
+to be taken into account,
+with the result that
+assessments c a n be
+extremely complex. For
+instance, the characteristics
+of the terrain around a
+nuclear power plant may
+greatly affect the
+dispersion. Weather
+conditions at the time of an
+incident may also have an
+impact, particularly rain, as
+precipitation brings the
+radioactivity d o w n to earth
+s o contaminating the
+surface and affecting the
+safety measures needed. A
+recent development at the
+Meteorological Office means
+that there is n o w better
+information about the
+distribution of rainfall in the
+United K i n g d o m . U s i n g
+radar s c a n n i n g they now
+p r o d u c e a map, o n c e every
+five minutes, s h o w i n g
+w h e r e it is raining.
+However, at present this
+type of service is not
+available for most other
+E u r o p e a n countries. T h e
+g r o u p have also been
+c o n s i d e r i n g the effect of
+living in cities. In particular
+whether buildings provide
+any shielding, and the ways
+that radioactive material
+may penetrate buildings.
+D r A p s i m o n will shortly
+be chairing an E E C group
+w h i c h is being set u p to
+review c o m p u t e r i s e d
+assistance in accident
+assessment. B y m a k i n g u s e
+of meteorological data
+extending over the w h o l e of
+E u r o p e Dr A p s i m o n ' s g r o u p
+have been able to develop
+c o m p u t e r p r o g r a m s to
+predict the trajectories of
+pollutants. T h e s e p r o g r a m s
+mEGABRAIfl
+Valentine Verisimilitude
+Yes, it's Valentine's day
+again, folks, the day when
+all your friends get more
+cards than y o u , even
+t h o u g h y o u posted o n e to
+yourself on W e d n e s d a y ,
+a n d deep in the heart of
+Imperial C o l l e g e there is
+excitement in the back row
+of lecture five of the
+A d v a n c e d C h a t t i n g - u p
+T e c h n i q u e s course. O u r
+heroes, Luke, Mike, Neil,
+Oliver, and Pete, all
+b u d d i n g IC B a c h e l o r s have
+each received a Valentine
+from one of the five
+luscious beauties in the
+front row; A n d r e a , Barbara,
+Christine, Diane, a n d
+Elizabeth. T h e y are trying
+to guess w h i c h girl sent
+w h i c h card.
+L u k e r e c k o n s that A n d r e a
+sent Neil's card. Neil,
+meanwhile, is certain that
+there is no way Luke's card
+c o u l d have c o m e from
+w e r e originally d e v e l o p e d
+for use with radioactive
+pollutants, but they are also
+valuable for use with other j
+pollutants a n d are currently
+being used in G e r m a n y for
+acid rain studies.
+Dr. A p s i m o n is also a
+motivating force behind the
+E u r o p e a n A s s o c i a t i o n for
+the S c i e n c e of Air Pollution
+( E U R A S A P ) , of w h i c h s h e
+is currently c h a i r m a n . T h e
+association, w h i c h w a s o n l y
+formed recently, aims to
+provide a forum for
+c o m m u n i c a t i o n and
+coordination between
+scientists, from Eastern as
+well as Western E u r o p e ,
+w o r k i n g in the field of air
+pollution. S o far there has
+been an e n c o u r a g i n g
+response from scientists all
+over E u r o p e , a n d
+E U R A S A P has full
+p r o g r a m m e of meetings
+planned for 1986 b e g i n n i n g
+in B u d a p e s t in A p r i l . T h e
+international flavour of the
+association is reflected in
+the committee w h i c h has
+m e m b e r s from P o l a n d ,
+N o r w a y , the United
+K i n g d o m , F r a n c e , H o l l a n d ,
+H u n g a r y a n d
+C z e c h o s l o v a k i a . T h e
+m e m b e r s are also drawn
+from m a n y different
+disciplines including
+meteorologists, chemists
+a n d biologists. But also
+very important, the
+association aims to i n c l u d e
+the people implementing air
+pollution air pollution
+control measures, so also
+has m e m b e r s from industry
+a n d government bodies.
+Last week's incident at the
+Sellafield r e p r o c e s s i n g
+plant is a reminder that
+although accidents at
+nuclear power plants are
+rare, they do h a p p e n . In the
+event of a more serious
+accident measures to
+protect people might need
+to be taken with great
+speed. T h i s c a n best be
+achieved if well researched
+pre-planned e m e r g e n c y
+p r o c e d u r e s exist.
+D i a n a or Eliazabeth. M i k e
+thinks that Pete's card is
+probably from Barbara, and
+Pete s a y s that Mike's card
+was definitely not from
+Elizabeth.
+N o n e of the cards was
+actually sent from the girl
+that c a n be d e d u c e d sent it
+on the basis of these
+statements. Not only that,
+but every statement turned
+out to be wrong.
+O n e of the girls is Pete's
+sister, and thus hasn't sent
+him a valentine and,
+k n o w i n g w h o she is w o u l d
+enable y o u to give all the
+details about w h o actually
+sent Valentines to who.
+S o who did s e n d a
+Valentine to w h o , and w h o
+is Pete's sister? A n s w e r s ,
+etc by T u e s d a y lunchtime
+for the £5 prize.
+Pennies
+I've had no solutions to
+this, so I'll let it run for
+another week with a few
+clues—it really isn't that
+hard. The easiest strategy
+works as long as your
+opponent doesn't put any
+of his c o i n s along a certain
+line. A more c o m p l e x
+version of this s a m e
+strategy relies on w h o puts
+their c o i n right in the
+centre of the table. T h e
+strategy works for a
+circular or rectangular
+table, but not for a
+triangular one. E n o u g h ?
+See what y o u c a n do.
+3"l
+IP
+is I
+FELIX Friday 14 February
+

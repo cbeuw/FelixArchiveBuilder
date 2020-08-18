@@ -1,0 +1,216 @@
+were excited about being able to have
+a role in changing the world and mak-
+ing a dent in Imperial College. After the
+intense coding, the participants returned
+again very early on the Sunday morning
+to continue on their project with inten-
+sity and vigor.
+Development of the application cul-
+minated with a pitch in front of judges
+from JP Morgan, Facebook, Imperial
+Innovations, and student entrepreneur
+and alumnus of Imperial College Milen
+Dzhumerov. Nine teams presented their
+work and each idea was not only fasci-
+nating but also intriguing in its applica-
+tion. Two teams developed applications
+under the names Imperial Foodie and
+IEAT to assist in the digitization for the
+purchase and payment of food using
+our swipe cards. If such a system were
+implemented, students would be able
+to purchase food much more easily and
+track their eating habits. This, however,
+wasn’t the most innovative of the ideas
+as Duke University and California In-
+stitute of Technology (Caltech) have al-
+ready been at the forefront of digitizing
+BUSINESS & FINANCE
+FELIX Friday 09 MARCH 2012 13
+Imperial College Hackathon launched
+I
+mperial College has one of the
+best Computing and Electrical
+Engineering Departments in the
+World, producing the most disci-
+plined and talented software de-
+velopers and programmers consistently.
+These programmers often benefit from
+high salaries and fabulous perquisites
+from their employers. Imperial Col-
+lege prides itself on this monumental
+achievement. However, students often
+observe the lack of ambition for entre-
+preneurship and technological innova-
+tion among Computing Undergraduates
+– please correct me if I am wrong.
+To this rather depressing phenom-
+enon, I have attributed many reasons.
+There is no incentive for undergraduates
+to become innovative or entrepreneur-
+ial, and the bureaucracy that exists in
+Imperial College stops any such move-
+ment. The administrators are unwill-
+ing to help and they themselves do not
+have any incentives to help either. This
+has been exemplified by possibly high
+catering prices on weekends that clubs
+and societies cannot pay for and many
+difficulties in booking venues (it would
+have been very convenient for the par-
+ticipants of Imperial College Hackathon
+to have stayed in the venue after 11pm
+to continue coding rather than being dis-
+missed by a security guard). In addition,
+there is no major software or investment
+banks led challenges or competitions in
+Imperial. In Imperial College, there is
+incredible number of talented students
+and they are just not given the chance
+to excel.
+“Hackathon is es-
+entially the culture
+that built Facebook,
+Google and Micrsoft”
+To circumvent this problem and ac-
+celerate entrepreneurship in Imperial
+College, Imperial Innovation launched
+Imperial Digital Accelerator on Janu-
+ary 19th to “facilitate entrepreneurship
+in the digital space at Imperial College”.
+Imperial Digital Accelerator aims to
+provide funding, mentorship and legal
+and accounting advice. They are orga-
+nizing seminars with serial and student
+entrepreneurs to provide real examples
+of how technological innovations and
+entrepreneurship proceeds as an under-
+graduates or as a postgraduate.
+This, however, was largely a depart-
+mental effort and we still noticed lack
+of student effort in such technologi-
+cal innovation. The Imperial College
+Hackathon committee hence decided to
+organize the first ever Imperial College
+Hackathon on 25th and 26th of February
+sponsored by JP Morgan, Facebook and
+Imperial Innovations. Hackathon is es-
+sentially the culture that built Facebook,
+Google and Microsoft, and Hackathon’s
+essence is summarized in its first five
+letters: HACKA. Each letter captures
+one element of the event: (H- Hidden
+Needs; A- Associational Thinking; C-
+Cracking code; K- Killer concept; A-
+Action Now).
+On Saturday morning sixty software
+developers gathered in 060ABC Skemp-
+ton Building. They were obviously very
+excited and the organizers could sense
+the excitement of participants whether it
+was induced by redbull or genuine en-
+thusiasm. We also had engineers from
+both Facebook and JP Morgan, a tech-
+nology associate and digital accelerator
+manager from Imperial Innovations to
+overlook the event. Simon Cross from
+Facebook explained why Hackathon
+was such a central part of Facebook and
+the achievements that it has made such
+as the development of Timeline and
+many other applications.
+Fueled by presentation by Facebook
+and JP Morgan, software developers
+from various parts of Imperial College
+London and other universities gathered
+and started to develop applications
+based on the theme “Improving Impe-
+rial College.” With free pizza in one
+hand and the other hand on the key-
+board, programmers in groups of six
+or seven developed their applications
+from morning to dawn. The developers
+student activities with their swipe cards.
+Before lectures start, we often have
+trouble printing off materials due to
+overloading of the system and ineffi-
+cient system that the ITC team has built
+for our college. In addition, there has
+been increase in the use of tablets and
+laptops in the lecture theatre to assist
+our learning. The two teams that won
+the Imperial College Hackathon devel-
+oped an application that allowed instan-
+taneous uploading of relevant lectures
+on each day. This removes the need to
+print lectures every day and the need
+to download lecture notes from black-
+board. The application automatically
+delivers the relevant lecture notes ev-
+ery day based on your course, date and
+location. Such an application enhances
+and accelerates the digitization of learn-
+ing materials and eliminates the need
+to actually attend a lecture. The second
+team developed an application named
+HEATNOTE that allowed live visual
+presentation of materials that were not
+understood in the lecture. Such a system
+allows for the lecturer to identify which
+part he has to re-clarify and this system
+does not stop the flow of the lecturer
+at all. This winning team received five
+hundred pounds in cash and praise from
+developers. Other teams also developed
+fantastic websites and applications such
+as News4D and IMPEK that could be
+used immediately.
+The first Imperial College Hackathon
+was not only successful, but also invigo-
+rating for organizers to watch. Both par-
+ticipants and sponsors were surprised by
+the originality of ideas and how much
+they could actually do in a limited time
+of 24 hours. Now the participants have
+to move their ideas forward to make it
+commercial and implementable in a
+school environment. This would defi-
+nitely need help from both the faculty
+members of all departments and admin-
+istrators. Without their help all these
+fantastic ideas would be buried and
+would never rise again. If the admin-
+istrators could only help to push such
+technological innovations in our school,
+Imperial College Undergraduates and
+Postgraduates would become more and
+more innovative and entrepreneurial,
+and that will tremendously benefit our
+school. This could possibly happen by
+arranging meetings between participants
+of Hackathon and ICT department, and
+having the Rector push our ideas.
+After Imperial College Hackathon,
+Facebook and JP Morgan took all the
+contact details of the participants to
+possibly recruit all these talented par-
+ticipants to their firm. Imperial Digital
+Accelerator took in three teams to its
+program to provide mentorship and fi-
+nance. JP Morgan and Facebook and
+other software companies are willing to
+sponsors this event next year. In fact JP
+Morgan wants to have their own Hack-
+athon with Imperial College students
+after the success of our event. Next
+year, the event will be not only bigger,
+but better. You better join it or you will
+regret it.
+Bob Xu
+Applications abound as students take to their screens, writes Sangjin Lee
+“Both participants
+and sponsors were
+surprised by the orig-
+inality of ideas...”
+Security at the event was tight, but the guy in the hat still managed to wander in for the nibbles
+

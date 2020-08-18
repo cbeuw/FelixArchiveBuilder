@@ -1,0 +1,209 @@
+4 N E W S FELIX FRIDAY 1 7TH IANUARY
+Millenium bug comes to IC
+MICHAEL ROBERTS
+Forget Ebola, E-coli or any other
+lethal super-bug you may have heard
+of. In the cold, dark chambers of the
+computer support services at IC, con-
+versations turn to the so-called
+"Millennium Bug", now made infa-
+mous through the media bombard-
+ment it has received in the past few
+months courtesy of most leading
+broadsheets.
+The Millennium Bug is purported
+to arise due to the "dd/mm/yy"
+(day/month/year) date format used in
+many computer systems, whereby
+the date is displayed in a two digit
+format. Thus, the year 1997 appears
+hire/rental) fines being charged for
+titles on loan over the new year,
+incorrect interest calculations on
+loans and savings and discrepancies
+in computerised company accounts.
+Although this all sounds rather
+apocalyptic, the reality is rather less
+disastrous. Far fewer systems will be
+affected than the broadsheets would
+have us believe, since many comput-
+ers do not calculate the date in the
+same way humans do. Rather, they
+store the date in terms of the number
+of seconds since a set date, in many
+cases 1971. The year 2000 should
+therefore have no effect on the com-
+puter's perception of the date.
+as "97" and the year 2000 appears as
+"00". Computer systems using the
+two digit date format may be unable
+to cope with 2000 and beyond,
+recognising it as the year 1900
+instead. This, it has been claimed,
+can lead to many faults and anom-
+alies appearing in otherwise stable
+systems. These could, for example,
+include excessive library (or other
+The real problems are more likely
+to arise in certain software packages,
+where the date is stored amongst
+other data, for example in a database.
+More simple systems would both dis-
+play and store dates, held in accounts
+for example, as two digit numbers -
+producing the potential results men-
+tioned. Many larger companies and
+organisations have already produced
+reports and begun to check their sys-
+tems. Sadly, it appears that smaller
+companies are more likely to suffer,
+since they do not have the financial
+or technical resources to draw from,
+in order to verify and adapt their sys-
+tems if necessary.
+Concerned at the potential impli-
+cations on Imperial (and whether,
+more importantly, students living in
+halls, could hope to see their rent
+accidentally waived), the bug is "cer-
+tainly being discussed" by relevant
+authorities at IC. Apparently, the
+accounting package currently in use
+will "probably" be affected.
+However, this system is due to be
+replaced "around 1998" and any
+replacement will, by then, certainly
+be able to handle the year 2000.
+Top-up fees threat
+UMBAR S A L E E M
+The prospect of undergraduate stu-
+dents in the U K facing an annual
+charge of up to a £1,000 towards
+their college fees came closer after
+the Russell Group of top universities
+advised this month that some institu-
+tions would charge fees in the future.
+At present, the government reim-
+burses local education authorities for
+payment of university tuition fees,
+but this form of higher education
+funding may become a thing of the
+past. The Higher Education Funding
+Council for England awarded univer-
+sities £3.1 billion for this academic
+year, a £0.4 billion decrease on 1995.
+With increasing numbers of students
+entering higher education each year,
+more universities are looking at top-
+up fees as a realistic option for
+obtaining necessary funds.
+Imperial College had been report-
+ed in The Sunday Times to have been
+among those universities considering
+top-up fees. The article stated that IC
+would mention top-up fees being
+charged in its 1998 prospectus. Dr
+Rodney Eastwood from the
+[Financial] Planning department
+denied this, insisting that "IC cur-
+rently has no plans to introduce top-
+up fees." He also explained that if
+College did introduce such a charge,
+dependent on government funding,
+more mechanisms to offer students
+financial assistance, such as scholar-
+ships, awards and bursaries, would
+be introduced. Dr Eastwood also
+assured Felix that the financial status
+of prospective students would not
+affect their likelihood of gaining an
+offer.
+Colleges that will be charging top-
+up fees are legally required to inform
+applicants prior to enrolment. The
+London School of Economics have
+already warned undergraduates in
+their prospectus that they reserve the
+right to charge fees for tuition.
+Union proposes C & S Resource centre
+PAUL SQUIRES
+Imperial College Union is planning
+to build a new Clubs and Societies
+Resource Centre to make administra-
+tion of Clubs and Societies more effi-
+cient. The new Centre is likely to be
+in a refurbished Senior Common
+Room, adjacent to the Union Office.
+It is hoped that some of the money
+for the project will be provided by
+the Harlington Trust, a fund set up on
+the proceeds from gravel extraction
+on Imperial College's athletic ground
+at Harlington, near Heathrow. The
+Trust considers applications for
+funding of various projects such as
+this though in the past the fund has
+enabled the Union to purchase
+minibuses.
+The reasoning behind the plans is
+for the largely inadequate current
+facilities for clubs and societies be
+upgraded to meet ICU's new Health
+and Safety policy's standards. The
+policy requires ICU to undertake to
+provide first aid training for at least
+one member of each club and soci-
+ety. The policy also requires that
+External Activities forms be com-
+pleted before any trip may proceed,
+that all potential hazards and dangers
+must be assessed beforehand and that
+group leaders be better trained and
+more experienced in general.
+In order to meet such demands, the
+Union requires more efficient facili-
+ties. At present, only one computer in
+the Union office is permanently
+available for the use of clubs and
+societies. Departmental computing
+facilities are inappropriate since they
+are primarily for academic usage and
+payment is required for print-outs of
+any material the club wishes to issue.
+The new Resource Centre, however,
+would contain many computers
+exclusively for clubs and societies.
+Another reason for the plans is the
+change to the structure of the British
+University Sports Association's fix-
+ture listings. Previously inter-univer-
+sity sports tournaments were organ-
+ised as block fixtures, in which uni-
+versities would only play universities
+and hospitals only hospitals. The cur-
+rent BUSA system is a more com-
+plex league system, in which each
+institution has a ranking and fixtures
+are arranged accordingly, thus
+requiring a more efficient system for
+such things as booking coaches for
+away matches. This side of adminis-
+tration is currently handled by the
+Deputy President for Clubs and
+Societies, Sarah Corneille, but book-
+ings are often made by other Union
+officers, resulting in confusion. It is
+anticipated that the proposed
+Resource Centre would employ a
+full-time administrator to handle
+such administrative matters allowing
+Sarah Corneille to concentrate on her
+other duties.
+Ms Corneille has high hopes for
+the plans; "It would both improve
+efficiency and bring different Clubs
+and Societies together more, hopeful-
+ly breaking down the barriers and
+prejudices which sometimes exist
+between them."
+

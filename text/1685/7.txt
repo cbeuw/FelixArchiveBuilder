@@ -1,0 +1,433 @@
+ISSUE 1685
+FELIX
+SCIENCE
+FRIDAY, 16TH
+FEBRUARY, 2018 FELIX
+science.felix@imperial.ac.uk SCIENCE science.felix@imperial.ac.uk
+12 13
+SCIENCE
+Steve Allain
+Science Writer
+T
+he group of the
+most trafficked
+animal is one
+that you may
+not have even heard of,
+the pangolin. There are
+eight extant species of
+pangolin found across
+the Old World in Africa
+and south-east Asia;
+they relatively unas-
+suming animals, they
+are also known as scaly
+anteaters due to the fact
+that they are covered in
+hard scales and predate
+on ants and termites.
+Pangolins essentially
+fill the same niche as
+the anteaters of the New
+World, but due to their
+unique scales' they are
+the most hunted and
+trafficked animal on the
+face of the planet. Their
+defence mechanism,
+when faced with a threat,
+is to curl up into a ball and
+to let their scales do all
+the work. But while this is
+great if the adversary is a
+big cat, it makes it easier
+for poachers to round
+developed.
+Their scales are used
+in traditional Chinese
+medicine and, once dried,
+it is believed they can be
+used to alleviate a number
+of symptoms. The scales
+are made of keratin – the
+same material as our hair
+and nails – but there is no
+scientific evidence that
+there is any benefit of
+their use. As a result of the
+high demand of pangolin
+scales, they can sell on
+the black market for over
+$3,000 a kilogram. They
+are also traded for their
+meat, which is a delicacy
+in some cultures. To
+supply a growing market
+in Asia, it is estimated that
+up to 100,000 pangolins
+are captured every year
+from across Africa and
+Asia, with most being
+shipped and sold in China
+and Vietnam.
+In 2016, all eight
+species of pangolin were
+given CITES Appendix I
+listing – the highest level
+of international legal pro-
+tection – to help combat
+the illegal trade of the
+animals. However, these
+measure may have come a
+little too late for the four
+Asian species which have
+unfortunately been deci-
+mated by illegal poaching.
+Part of the problem stems
+from the fact that pango-
+lins breed slowly meaning
+the population takes time
+to recover. This interna-
+tional protection may be
+a step forward in the right
+direction, but as with all
+illegal trade (such as that
+in ivory and rhino horns),
+criminal organisations
+always find ways around
+the legislation. It has
+become increasingly clear
+that as the Asian species
+have declined, their
+African counterparts are
+now being targeted more
+heavily. Enforcement of
+the legislation and coop-
+eration from all parties is
+needed if we are going to
+work together to prevent
+the extinction of one of
+the most unusual groups
+of mammals.
+A pangolin in the defensive position // Wikimedia
+“Their defence
+mechanism –
+curling up in
+a ball – makes
+it easy for
+poachers to
+catch them”
+them up in the millions.
+They are predominantly
+nocturnal and elusive an-
+imals with poor eyesight,
+making their capture that
+much easier as new meth-
+ods for their detention are
+Connectwithconservation–ImperilledPangolins
+Crossing the blood-brain barrier: the final frontier
+SCIENCE
+Varshit Dusad
+Science Writer
+G
+ene therapy
+serves as a
+means to intro-
+duce artificial
+DNA into cells, which can
+then be transcribed and
+translated into proteins
+in order to treat various
+medical conditions.
+However, there remain
+many limitations for
+treating medical condi-
+tions associated with the
+central nervous system.
+Gene therapy works by
+packaging genes into
+specific carriers – often
+made from the outer shell
+of viruses, and capable
+of breaking into cells –
+which are then injected
+into the bloodstream.
+Once they reach and
+migrate into cells, they
+unload their genetic ma-
+terial. However, to reach
+the brain the carriers must
+cross the highly selective
+membrane called the
+blood-brain barrier. This
+barrier restricts most sub-
+stances in the blood from
+passing into the brain,
+and, consequently, has
+rendered many drugs and
+therapies ineffective for
+use in the brain. A recent
+study, however, published
+in Molecular Medicine,
+examined and identified
+potential virus capsid
+structures which are able
+to cross the blood-brain
+barrier, thereby improving
+the reach of gene therapy.
+This study examined
+adeno-associated viruses
+(a group of non-patho-
+genic viruses) for their
+ability to potentially
+improve transmission
+through the blood-brain
+barrier, and to enhance
+specificity for brain cells.
+Scientists compared the
+capsid features of two
+type of adenoviruses
+which differed by their
+ability to pass through the
+blood-brain barrier, and
+subsequently generated a
+library consisting of the
+individual parts of the
+capsid structure from the
+former virus. Using the
+library, they swapped out
+the corresponding parts
+in the capsid of the latter
+virus one-by-one. The
+result of each individual
+swap was noted, and the
+parts responsible for the
+change in their ability
+were identified, with their
+properties characterised.
+The results of this study
+prove useful, since they
+show the capability we
+have to control movement
+through the blood-brain
+barrier. This provides the
+possibility of developing
+novel therapies which
+can target the diseases
+associated with brain and
+spinal cord – such as brain
+tumours – which have not
+proved an easy target due
+to this barrier. The current
+strategy involves provid-
+ing a high dosage of the
+therapy, but this causes
+side effects by infecting
+non-target cells. By im-
+proving the specificity of
+crossing the blood-brain
+barrier, one can reduce the
+dose amounts and also the
+cost of therapy.
+The study is promis-
+ing, but requires further
+research to ensure the
+robustness for the proof
+of concept. As mice were
+the subjects of this study,
+it is likely that the findings
+may not be representative
+of human conditions, and
+thus the effectiveness
+of the study in human
+samples needs to be
+established. Furthermore,
+this study has only ac-
+counted for the challenges
+associated with crossing
+the blood-brain barrier,
+but the final gene therapy
+might still be limited by
+further complications
+such as improper dosage
+and possible side effects.
+Nonetheless, it kindles
+hope we may be able to
+target the brain-associated
+diseases which have for
+so long eluded the reach
+of medicine.
+The famed blood-brain barrier // Wikimedia
+Work hard, play harder – how playing can improve
+STEM subjects
+Next time you’re called out for playing video games when you’re meant to be revising, just remember that such
+games can improve your spatial reasoning skills.
+SCIENCE
+Sarah Wong
+Science Writer
+I
+mperial College
+London is a science,
+technology, engineer-
+ing, and mathematics
+(STEM) focused universi-
+ty with, sadly, an uneven
+male to female ratio.
+However, the imbalance
+of gender in STEM
+subjects is not localised
+to Imperial – this trend
+can be seen across the
+globe. Whilst efforts had
+been made to steer more
+women into STEM, a new
+study in the U.S. may hold
+the key to such a problem.
+Simply put, the poten-
+tial solution is playing
+games!
+A study involving 345
+undergraduate students
+showed that spatial skills
+are significantly higher
+in students who played
+action, construction, or
+sports video games – the
+same skills that are rel-
+atively higher in STEM
+graduates.
+Such statistically sig-
+nificant results are unsur-
+prising, as STEM subjects
+often require visualisation
+and interpretation of
+graphs, diagrams, and
+maps. However, a high
+spatial reasoning score
+could also be explained
+by general intelligence.
+In this study, standardised
+test scores were used as
+a proxy for intelligence.
+Furthermore, each spatial
+test evaluates a different
+aspect of the perception
+of spatiality – for instance
+mental rotation of objects,
+and finding hidden items
+in a large pattern.Thus, the
+association of intelligence
+with STEM subjects can
+be minimised.
+When inspecting the
+data, researchers discov-
+ered that females present-
+ed with weaker spatial
+skills than males overall.
+Conversely, after adjust-
+ing for the frequency at
+which the students played
+construction games, the
+differences disappeared.
+This implies that women
+and men are equally good
+at spatial reasoning on a
+biological level. However,
+males tend to have an
+increased interest in ac-
+tion-based games, thereby
+developing better spatial
+skills.
+Given the results, the
+research group suggest-
+ed that schools should
+introduce more spatial
+reasoning training in the
+classroom to encourage
+students to take up STEM
+“The group
+suggested
+schools should
+introduce
+more spatial
+reasoning
+training to
+encourage
+uptake of
+STEM subjects”
+subjects. Since childhood
+play has such an important
+role in developing spatial
+skills, informal training
+such as video games and
+construction-based toys,
+e.g. Lego, at a young age
+could be introduced to
+reduce the gender dis-
+parities seen with STEM
+Find out more and register online
+imperial.ac.uk/imperial-award
+Reflect on your experiences
+Gain the Imperial Award
+Benefits of registering and participating in the Award
+■ You can access a personal,
+private online portfolio
+allowing you to track your
+activities and experiences.
+■ You’ll get a line on your
+transcript for each Stream
+you complete and an extra
+line if you achieve the full
+Imperial Award.
+■ Participating will improve
+your writing skills,
+helping with job and grant
+applications.
+■ You will develop attributes
+highly valued by employers.
+■ There is nothing to lose,
+only successful students
+have the outcome recorded.
+■ The Imperial Award is
+developmental, the skills
+you learn and attributes you
+develop will remain with
+you forever.
+■ There are plenty of support
+resources available,
+including workshops, videos
+and your personal tutor.
+subjects.
+Rest assured, not all
+hope is lost for grown-
+ups, as adulthood training
+can still impact on spatial
+training. Not only can
+video games or Lego will
+help; photography, chess,
+and origami can also boost
+visual-spatial abilities!
+Nonetheless, while
+it is common to assume
+causality, it is unclear of
+the connection of these
+events – consequently, we
+cannot be entirely certain
+that STEM subjects cause
+high spatial reasoning, not
+vice-versa. Nevertheless,
+it is a cheap and relatively
+easy implementable inter-
+vention that may increase
+the number of female and
+male students progressing
+into STEM subjects. Ad-
+ditionally, next time when
+you ought to be studying
+but are side-tracked by
+gaming, you can claim
+that you are training your
+spatial reasoning to ease
+the guilt!
+Will Lego make you better at chemistry? // Wikimedia
+

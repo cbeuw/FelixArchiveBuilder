@@ -1,0 +1,179 @@
+FRIDAY 20 JUN
+20 ARTS & CULTURE
+In an abandoned swimming pool
+somewhere in the northern perimeter
+of Berlin, lights burst to the rhythm
+of acoustic ricochets. A bizarre
+choreography of light and sound
+imitates patterns of synchrony and
+predation found in the animal kingdom.
+The source of this erratic audiovisual
+experience is a self-aware system of 200
+nodes, comprised of 50 loudspeakers and
+150 LEDs. Coupled with microphones
+and photodiodes, respectively, each unit,
+or ‘agent’, extends a field of awareness that
+can sense itself as well as its surroundings.
+The audiovisual patterns that emerge
+from the amalgam resemble a cybernetic
+electroacoustic organism that entrances
+visitors and lures them to the deep end of
+the pool.
+n_polytope is a sound art
+installation designed and built by a team
+of artists, engineers and researchers at
+Concordia Univerity in Montreal, Canada,
+and was now set up for the 15th edition of
+Berlin’s Club Transmediale Festival (CTM)
+for “adventurous music & art”. Taking place
+over an entire week, in venues across
+the city, CTM gathers the avant-garde in
+electronic and experimental music in the
+present day, as well as paying homage
+to the pioneers of the 20­
+­
+th
+Century. This
+installation in particular was inspired by
+the ‘polytopes’ of Greek engineer-turned-
+composer Iannis Xenakis, which sought
+to synthesize multisensory environments
+of light and sound, which surrounded
+audiences in complex architectures of cable
+geometries. n_polytope extends Xenakis’s
+ideas of stochastic sound synthesis and
+acoustic architectures by making use of
+modern algorithms in machine learning and
+distributed artificial neural networks.
+I spoke with Chris Salter (Director of
+Montreal’s Hexagaram-Concordia Centre
+for Research and Creation in Media Art
+and Technology) and Marije Baalman
+(ex-postdoc at Hexagram and currently
+a hardware engineer and freelance
+artist at Amsterdam’s STEIM (Studio for
+Electro-Instrumental Music)) about the
+technological and philosophical aspects of
+the installation, which was put together by a
+wider team of collaborators in architectural
+design, laser systems, programming and
+electronics.
+Íñigo: How did you quantify the
+awareness of the individuals within the
+system?
+Chris Salter: Well, it’s a really simple system.
+YouhaveanLEDandyouhavealightsensor.
+So the sensor can see itself, and then that
+awareness runs over an RL (Reinforcement
+Learning) algorithm and the RL runs over
+a neural network. So what he was trying to
+figure out is that when it does an action,
+how does it change its environment? Well
+of course it could change its environment by
+doing the action again, so it gets feedback.
+So the sensor is a very primitive sensory-
+motor system. It learns to do something,
+right? Usually these systems settle into some
+minima. The light flickers, and then it finds
+a steady state. Either it stays on, or it goes
+off. Usually it stays on.
+So what happens then if you change the
+environment and you turn the lights off in
+the room? Then it has to relearn, because
+all the conditions have changed. Or you
+suddenly blitz it with a strobe, or a flash, or
+something. Then it starts up again and tries
+to relearn again. So if you continually change
+its environment, then it’s constantly trying to
+adapt, so it may never get into a steady state.
+So that was one of [Sofian’s] tests. So then
+we thought about how to build this form of
+behaviours and systems, on a larger scale.
+And I knew from the start that the algorithms
+were complicated so that these things would
+talk to each other.
+We started with the basic idea that you
+have a lot of different agents, and they all start
+at different times. So, for instance, one of the
+algorithms he runs is a ‘firefly’ model, so
+the agents attempt to synchronize with each
+other. Once they eventually synchronize,
+they then stay synchronized for a period
+of time, and then either desynchronize or
+remain in a steady state. So that’s one of the
+algorithms we’re running. You have to tweak
+these reward functions all the time. You have
+no idea really – the system doesn’t really
+know what it’s doing. It just knows, “Oh,
+that’s an interesting action, I got that reward,
+I got this number and I’ll do that again.”
+These learning systems are not very good as
+generative systems, but we’re trying to use
+them in that way, and to produce generative
+behaviours as opposed to trying to get to a
+certain task that it will then be able to repeat.
+I: So does it fall into sequential states?
+Not a steady state, but a sort of
+arrhythmic behaviour?
+C: Sometimes, but we also do a lot to
+constrain the system. Like, which nodes
+are active at one point, or what region
+spatially; or how long are they active in a
+given sequence; or do they all start at the
+same time and then drift? For instance, they
+have this one algorithm which is a ‘chasing’
+model. So the idea is that the agent gets a
+reward for staying away from the other agent.
+Of course it’s crossing into the agent all the
+time because it doesn’t really know. So at
+what time it learns ‘OK… I’m colliding with
+the other agent, and I’m getting punished,
+so I’ll try to stay a little further away.’ We’d
+map that in terms of the speed of which the
+flashes happen on these lines. It’s a question
+of whether you see spatial patterns or
+temporal patterns, because people look for
+spatial things – if I see the shape again and
+again it means it’s not a random system. If
+I sense very simple rhythms or pulses… once
+it gets to polyrhythmic it gets very complex
+since it’s not very good at rhythm.
+I: Like trying to understand which
+car’s blinkers are going faster than the
+other’s?
+C: Right. And of course, the brain has
+extremely interesting temporal properties -
+how all these neurons start synchronizing
+with each other to form some notion of
+perception that we have, which is way, way
+higher level than this. So Xenakis, whose
+work this piece is based on, was trained as
+an architect, trained as an engineer, but also
+as a composer. He came out of a period
+where in the sciences, thermodynamics
+and statistical mechanics were the main
+concern… he was interested in micro and
+macro properties and Boltzmann models of
+gases and so on. So he used those models
+in his composition (Poisson distributions,
+etc.). He wanted probabilistic models, he
+wanted stochastic music, he didn’t want
+deterministic models. He wasn’t interested
+in determinism, he was interested in control.
+He was interested in not the kind of linear
+polyphony of what the serial composers in
+the 1950s were doing, where everything was
+deterministic, based on tone rows, and so
+on. He was actually interested in patterns
+like what happens when, in a riot, suddenly
+someone starts yelling and then it picks up
+and spreads, exhibiting a kind of swarm
+behaviour. Or like the patterns of raindrops
+falling on surfaces. So it was the idea of
+sound as a mass, or a cloud, or grains.
+Editors: Riaz Agahi music.felix@gmail.com
+MUSIC & ART
+N_Polytope: Behaviours in Light
+& Sound After Iannis Xenakis
+Íñigo Martínez de Rituerto in conversation with artist Chris Salter and engineer Marije Baalman
+

@@ -1,0 +1,280 @@
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a dash of
+Sudoku.
+The object of the game is to draw lines be-
+tween the dots to create one long, and most
+importantly, looping line. It should have no
+start or finish; just like an elastic band.
+Each number indicates how many lines
+should be drawn around it, for example:
+Cells which don’t contain a number can be
+surrounded by any number of lines.
+Remember, the line must form a loop, so
+the line cannot branch. The following situa-
+tions are not allowed:
+Squares are not allowed either. There are
+never cells containing the number 4 in
+Slitherlink.
+So, where do you start? The most com-
+mon place to start on a Slitherlink grid is by
+drawing crosses around any zeros. Drawing
+crosses is purely done to so that you know
+where there can’t possibly be a line. So, take
+the pattern below as an example. Begin by
+drawing crosses, then by filling in some
+lines:
+Now the lines can only continue in the fol-
+lowing directions:
+Yeah, we realised that we printed the answer
+to last week’s Slitherlink in the same issue.
+sudoku.felix@imperial.ac.uk
+35
+Friday 30 November 2007 felix
+Fun & Games
+Logic Puzzle: Colourful Lecturers
+Using the clues and logical deduction
+alone, work out how all the people
+involved in the match relate to each
+other. The puzzle can be solved with-
+out guesswork. Make use of the grid to
+mark the combinations that you know.
+Read through each clue and make any
+obvious or stated deductions. Find the
+corresponding row and column on the
+grid and place a tick for ‘Yes’ in the box,
+and a cross for ‘No’ in the cells next to
+this one vertically and horizontally.
+Ensure that you read the clues care-
+fully. They can sometimes reveal mul-
+tiple hints! Remember that elimination
+of alternatives is a key method. That is
+where the grid is so important - it al-
+lows you to see the possibilities left.
+Five students graduated from Imperial
+and joined finance companies (pah!).
+What job did they get, with what salary
+and what was their reason for quitting
+after only one month and returning to
+the subject that they studied.
+HENRY
+ALEX
+JOHN
+AKIRA
+PABLO
+PUSHED BOSS OUT OF
+WINDOW
+NERVOUS BREAKDOWN
+POCKETS SO FULL OF
+MONEY, THEY SANK
+LOST ALL HAIR
+LOST COMPANY £12 M
+£39,000
+£42,000
+£46,000
+£50,000
+£65,000
+ACCOUNTANT
+TRADING
+ANALYST
+BROKER
+INTERN
+ACTUARY
+HEDGEFUND
+INTERN
+£39,000
+£42,000
+£46,000
+£50,000
+£65,000
+PUSHED
+BOSS
+OUT
+OF
+WINDOW
+NERVOUS
+BREAKDOWN
+POCKETS
+SO
+FULL
+OF
+MONEY,
+THEY
+SANK
+LOST
+ALL
+HAIR
+LOST
+COMPANY
+£12M
+(Any similarities
+to persons living
+or dead is purely
+coincidential...!)
+1. Alex, who left because his pockets
+were so full of money that he sank,
+earnt £50,000.
+2. John was the person who lost the
+company £12million (and his job)
+when he was a broker intern.
+Slitherlink 1,389
+3
+2 2
+3
+0
+x
+x
+x
+x
+3
+0
+x
+x
+x
+x
+Slitherlink 10 – Hard
+3
+3
+3
+Answer for Slitherlink 9
+2
+2
+0
+2 2
+2
+2
+2
+2
+2
+1
+1
+3
+2
+1
+2
+1
+1
+2
+3
+2
+2
+2
+3
+1
+2
+2
+2
+1
+1
+3
+2
+2
+2
+3
+2
+2
+2
+1
+2
+3
+TEXT THE
+PHONE AND
+WE’LL FEED
+THE CAT!
+07980 148 785
+07980 148 785
+3. The hedgefund intern earnt
+£46,000.
+4. The person who earnt £42,000 wasn’t
+the trading analyst, who lost all their
+hair (including their pubes) due to the
+amount of caffine they consmed.
+Last Week’s Solution:
+Dr Red Trees Accent Cupboard
+Dr White Golf Courses Jumper Embezzled
+Dr Brown Embroidery Hard Exams Excited
+Dr Black Folk Music Boring Fell Asleep
+Dr Blue Fashion Flatulence Drunk
+5. The person who earnt £65,000
+pushed their poss out of the 16th sto-
+rey wndow. Pablo did not do this or
+have a nervous breakdown.
+6. Akira was the accountant, who went
+back to chemical engineering.
+This week’s texts:
+“Mike Bluck was knitting last night,
+while feeding his orangutan carrot
+cake”
+“Attention ladies, Paul Gilmartin is
+not really Irish. Do not let his pseudo
+accent or false charm fool you!!”
+“CGCU>RCSU 4 eva”
+“I know your secret, meet me at Hea-
+throw on Sunday at 12, I have taken
+care of everything.
+”
+“Nicolas, deux mois déjà que nous
+sommes ensemble et notre relation
+est chaque jour plus profonde et in-
+tense. L’un dans l’autre on est si bien.
+Clement”
+“To the Third Year Physics girl, usual-
+ly sitting near the back with a load of
+guys; SHUT THE HELL UP! WE’RE
+TRYING TO SLEEP! You know who
+you are and so do we.
+”
+2
+3 3 3
+2
+3
+1
+0 2
+2
+2
+2
+2 2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+2
+3
+3
+3
+1
+3
+3
+3
+1
+1
+1
+1
+1 1
+1
+1
+1
+1 2 0 0
+3
+3
+3
+3
+

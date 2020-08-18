@@ -1,0 +1,102 @@
+fFEATURE
+Has fCCC got a
+T E R M I N A L I L L N E S S ?
+So the computing project should have been handed in by now
+should it? Well, even if it you haven't done it you can't be
+bothered. The cobwebs lie in the terminal rooms, and dust
+gathers.. Now is the time for FELIX to go behind the scenes in
+IC's very own temple of technology, the Imperial College
+Compter Centre.
+IF YOU PASS the FELIX office to get to the
+Union Snack Bar at lunch times you may
+have noticed a change in number of people
+inside. Every day at 12.30pm thousands of
+Chemical Engineers, Physicists, and
+Electrical Engineers have been handing in
+letters complaining about ICCC (the
+Imperial College Computing Centre). They
+say that if they had wanted to do a degree in
+computing then they would have done a
+degree in computing. They don't want to
+spend all day messing around in CEDIT
+watching the internals of ICCC churning
+round in front of their eyes—they want a
+decent editor, a decent screen, and therefore
+a chance to get on with the job instead of
+spending all day looking through a NOS 2.1
+reference guide.
+Monolith
+So where did this monolith that is ICCC
+come from? The centre was born in 1964
+when the college got an IBM 7090 as a gift (in
+a Christmas cracker?). In 1969 the centre got
+its first CDC manufactured processor, a
+CDC 6600 , and ICCC has been with CDC
+ever since. Currently the centre has a CDC
+Cyber 174 bought in 1983, and a CDC Cyber
+170/855 bought in 1975. No-one would deny
+that these are powerful machines. However,
+this must be put into the context of the
+centre providing a service to a very large
+proportion of IC, giving the backbone for
+teaching and research in a large number of
+maths-based disciplines. The 170/855 for
+instance, is short of memory.
+Not all computing at IC is done by ICCC
+by any means. There are vast numbers of
+microcomputers scattered throughout the
+College, and many departments run
+minicomputers of their own. (A
+minicomputer is much larger than a micro
+but not nearly as large as 'mainframes' such
+as the computers at ICCC.) In particular the
+Department of Computing provides almost
+everything it needs itself. It is very interesting
+to compare the ease of use of ICCC (or not)
+with, say, the S-VAX which is used by
+undergradutes in DoC. Machines of the
+same type as the the S-VAX provide good
+value for money and are run by many
+academic institutions across the country,
+and therefore there is a vast library of good
+programs already written for them.
+User-friendly?
+Most of the time that is spent at a
+computer terminal is spent in the editor. On
+the S-VAX you can see what you are editing
+on the screen all the time. If you want to
+delete a line you move the cursor to that line
+using arrow keys, type 'D' to delete, and it's
+gone. On ICCC, you list a bit of program,
+then mess around a while. Now you've got to
+list a bit more, because you've forgotten
+where you are or what you've changed since
+you last listed it. (Not that you can see the
+last listing that you did—it scrolled off the top
+of the screen three minutes ago.) This takes
+ages because ICCC sends data to you very
+slowly. Why does it send data very slowly?
+Because it thinks that you are a printer. And
+it thinks that you are giving it information on
+punched cards (which were invented in the
+19th century by the way). Made a mistake?
+Deleted the wrong bit of code? On ICCC
+that's just tough isn't it. On the S-VAX just
+type 'U' to undo the last command, and that
+priceless routine can be resurrected.
+If we want to use jargon we might say that
+ICCC is not user-friendly. User-hostile may
+be more precise. The system is superb for
+people who need to invert matrices with
+trillions of elements, but for ordinary mortals
+who happen to be undergraduates in the
+Chemistry Department it has about as much
+charm as having a ferret shoved down your
+jeans.
+Virtue
+So when are things going to improve?
+ICCC and their CDC machines certainly
+seem to have been left behind in some
+7CCC nerve centre-beam me up Scottyi
+10 Wednesday 19 June 1985 FEUX
+

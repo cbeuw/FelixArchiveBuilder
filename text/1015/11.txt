@@ -1,0 +1,125 @@
+BackChat
+Department four short y&ars ago. The journey towards graphical
+good computing department," ponders
+Servan. "The students seem to come out with
+the right skills. They seem to know what
+they're doing when it comes to coding. I
+know they teach you Modula-2 but that's
+probably a good thing. Most people in
+Industry would say 'Hold on, what's the use
+of Modula-2, we don't use it!' We believe the
+most important thing is for somebody to have
+a good coding background, and know how to
+structure and set out code, which most people
+can't do very well. That is really important."
+RealityLab is finding itself being used
+for a large number of applications.
+"There's load of VR stuff happening,
+Internet-based Virtual Reality things so you
+can walk around worlds on the Internet,
+which is very cool - going through doors
+actually goes to new sites on the Internet.
+V R M L is based on our software. There's a
+whole load of 'world building' software being
+done too. Of course, games is the biggest
+application - there are loads of people doing
+games."
+The Future
+RenderMorphics are currently concentrating
+on further developing RealityLab and porting
+it to as many different platforms as possible.
+"One of our strong beliefs on the
+software side is that we want to be completely
+platform independent, we don't believe the
+box you're running on matters," explains
+Servan. "Two things we had in mind when we
+designed the system: the most important
+thing was speed and following that was
+portability. So it's been designed from the
+ground up to port very rapidly. So we can
+drive a PlayStation or a DEC Alpha through
+it, and the API is the same."
+Servan also sees the Internet as an
+important area for the application of 3D
+graphics technology:
+"We're all very interested in the
+Internet, and stuff to do with linking 3D and
+the Internet. 3D is about the best
+compression scheme you could come up with
+for images. The World Wide Web is
+expanding at a phenomenal rate. What things
+like VRML do is provide a 3D extension to
+that. They're dying to use it from what we've
+seen. Because it's great - you can have a
+virtual foyer, so that as you connect to some
+business' 2D page, up comes a 3D window
+with a 3D entrance hall, and you can wander
+around and look at stuff. I think there will
+also be a whole bunch of games like that.
+Basically Doom over the Internet, but that
+will need a bit more speed."
+Eggtastic: This still greyscale image does not do justice to RealityLab's abilites. The lattice structure is
+a static bitmap, which also has a z-value stored for each pixel. The egg-shaped objects weave in
+and out of the lattice in smooth real-time lightsource-shaded Gouraud-shaded gorgeousness.
+T
+G
+C
+H I
+H
+F
+0
+RealityLab is an advanced Application
+Programming Interface (API) for high-
+performance, real-time software 3D
+rendering. It brings game developers
+workstation-class graphics on the desktop at
+a fraction of the cost. RenderMorphics'
+powerful, object-oriented C-based API is easy
+to use and dramatically simplifies the
+incorporation of real-time 3D in a wide
+variety of interactive applications. RealityLab
+can render interactive 3D entirely in software
+with an ordinary graphics controller, but the
+engine also transparently takes advantage of
+hardware acceleration at any stage of its
+rendering pipeline.
+[RenderMorphics press release]
+Yes, it sounds very nice... but does it live up
+to the hype? After seeing several demos of
+the system, I can only say YES! I could have
+easily been watching the output from a
+£100,000 Silicon Graphics' monster, rather
+than a £2500 Pentium PC. All of the demos
+were very smooth - the frame rate only
+dropped once the images began to look
+distinctly ray-traced. The biggest treat was a
+soon-to-be-released graphics board with
+hardware 3D acceleration, giving a huge
+performance boost - a simple 'fly around
+and shoot everything' game was used as a
+demo, and it was very fast - if you've seen
+the recent Sega Star Wars coin-op, imagine
+it with smooth shading, lighting and
+transparency effects, 16 million colours,
+higher resolution display, much better
+explosions, and EVEN FASTER. Once the
+games for this system start appearing, I
+think I'll sell my liver and buy a PC. Wow.
+Platforms supported by RealityLab
+MS-DOS, Windows, Windows NT (on PC and
+DEC Alpha), Unix and Motif on RS/6000,
+Sun SPARCstations, Silicon Graphics
+workstation, Apple Mac and PowerMac, port
+in progress to Sony PlayStation
+RenderMorphics have partnerships with
+3Dlabs (Hardware 3D accel.), Alliance
+Semiconductor (Hardware 3D accel.),
+Creative Technology (Graphics cards with
+3D accel.), Matrox (Graphics cards with 3D
+accel.), Autodesk (Cyberspace Developer's
+Kit), Gemini Technology (VR software
+toolkit), Kaleida Labs (Script X), Virgin
+Interactive Entertainment (Games)
+Mark Baker
+I4DEC94 F E L I X •QD
+

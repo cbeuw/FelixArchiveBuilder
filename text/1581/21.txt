@@ -1,0 +1,206 @@
+21
+FRIDAY 20 JUN ARTS & CULTURE
+He was very critical of the Fourier models
+of synthesis. Fourier is non-temporal
+basically, you have to stack things over
+time with enough bins (time-frames) to see
+if there’s a temporal shape, since time and
+frequency are separate domains. He was very
+interested in the work of Gabor, who was a
+physicist who had these wavelet models.
+Gabor of course imagined that time and
+frequency could be in the same domain, so
+if you think about a grain having envelopes
+and you can shape individual grains, but at
+the same time considering both domains.
+It’s very interesting to think about sonic
+behaviour in those terms.
+I: It would be interesting if there was
+dynamic switching close to the Gabor
+limit [where the trade-off in certainty
+between temporal and spectral
+identity is defined], like maybe it’s
+behaving in temporal patterns first
+and then reaches some limit and then
+the spectral patterns become more
+dominant.
+C: Yeah, that’s the kind of space he came out
+of. I was talking with a friend of mine today
+who’s a professor at UdK (Universität der
+Künste, Berlin) who is also a programmer,
+and the whole question was whether Xenakis
+had any interest in cybernetics and feedback
+systems. He probably didn’t, even though
+this was happening at the same time. He was
+very aware of these trends in the sciences,
+but it’s a very different set of models that
+come from thinking about control systems
+versus the statistical systems.
+I: I guess he was more interested in
+generative properties or stochastic
+properties rather than manipulating it
+himself.
+C: Exactly. He was always interested in
+computers as systems to drive things, not
+as systems that produce responses that
+you can shape. That’s one of the questions
+we’ve tried to address in thinking about
+what these projects could mean now, if you
+approach these things from these machine
+learning algorithms or agent networks or
+neuronal models – where does the active
+responsibility lay in the system or how
+you negotiate between these agents and
+human predilection for making patterns
+and structures and shapes that are clearly
+perceivable and have dramatic effect and
+so that’s very much the tension. That’s the
+research area and that’s from a technical or
+philosophical point of view and also from
+an aesthetic point of view, because that
+question overlaps all of those spaces. They
+all somehow operate together. You can’t just
+say “Well that’s a technical question, we can
+solve that,” and that you can do something
+with a tool. They are very intimately related,
+because the degree of shaping you have
+over the behaviour of something is highly
+dependent on what kind of behaviour that
+thing or that process produces, and part of
+it is observing that behaviour constantly in
+some type of dialogue. The English Science
+Studies scholar Andrew Pickering calls it
+the dance of agency between you and the
+non-human parts of things. He’s a physicist
+by training, and is very well known in the
+area of science and technology studies
+for discussing performative practices in
+sciences, questions of science being socially
+shaped. Because science is not just scientists
+discovering nature, it’s constructing those
+phenomena with instruments and cultural
+frameworks like laboratories. There’s a
+constant give and take between materials
+you’re using and watching and seeing what
+they do, and then describing them. There’s
+a similar thing with these kinds of projects,
+like right now there’s nothing happening [in
+the installation] - it’s like when the cells die
+in the lab. The experiment’s done. So that’s
+a little background of where we’ve been
+thinking.
+I: I was wondering when you said
+about the single node prototype and
+altering the environment by strobing
+or switching it on and off. So here the
+environment is actually the structure
+itself, the ensemble of all the elements.
+C: Yeah. So for instance there’s all sorts
+of noise in the system. There’s a sensor
+that’s looking at those lights, but it’s not
+a precise system. It’s more about the idea
+that sometimes when those lights are next
+to their neighbours, they may have more
+energy because they have a different set
+of conditions, their ‘Umwelt’. That means
+that the way they behave is never going to
+be exactly the same. There’s a structure to
+it, but they’re never going to do the same
+thing again and again because they’re so
+dependent on what their neighbours are
+doing. You see patterns and it’s not like it’s
+just totally random all the time. Ultimately
+the pattern is the steady state that one
+perceives. But we don’t let them do that, we
+keep them active. When you’re testing these
+RL algorithms that evolve until they reach
+a steady state, but we don’t let them reach
+that steady state, we constantly try to keep
+them moving.
+I: So when it reaches a steady state, the
+whole system stops?
+C: No, it doesn’t stop. There’s an energy
+model and once it runs out of energy
+it either stops or you boost it with new
+energy because it gets a blast of light from
+something around it and it starts up again.
+The system is reacting to things happening
+in its environment and the agents will tend
+to start up again.
+I: So it’s an environmental thing, not
+arbitrary?
+C: Right, it’s environmental.
+I: How reactive is it to the spectators?
+C: Not at all. Unless you start flashing
+cameras at it, then it might do something.
+I: Is the parallel with Xenakis more
+about the underlying system, the
+physical structure, or the sound
+synthesis?
+C: It’s more about the questions he addressed
+in his ‘polytopes’, which were environments
+of light, sound, and architecture, tied
+together by electronic gestures across all
+three. Thinking about light temporally
+and sound spatially; and about his interest
+in masses or clusters of points – here, the
+optical and acoustic agents.
+I: Was this made specifically for CTM
+Festival here in Berlin?
+C: No, it was originally built in Spain, at
+LABoral in Gijón, as part of a residency.
+After that, it was shown in the Buckminster
+Fuller Dome of the Vitra Design Museum
+there. Now, it was rethought for the Stattbad
+space. The basic arching truss structures are
+there, but they were rearranged to fit the
+geometry of the pool. The sound is always
+reconsidered for the space as well.
+I: Marije, can you tell me a bit about the
+software and the sound synthesis?
+Marije: There are two sound sources. There
+are sounds being synthesized by the little
+white speaker/microphone units, which is
+programmed in Arduino. Apart from the
+units, there is also sound coming from a pair
+of big speakers which was composed with
+a multi-track editor by Chris [Salter] and
+Adam Basanta. The pre-recorded material
+is constantly being reprocessed or discarded.
+The acoustic units have little antennas which
+help them to communicate wirelessly to a
+computer running Python, and that sends
+all the sound information to SuperCollider.
+So I’m sending settings and triggers for
+the lights and sound from the computer,
+and then I get sent the data back from the
+units. The lights patterns are synthesized
+in a similar way, so I can program the light
+envelopes just like I would the sound, as
+waveform and duration.
+C: It runs in two cycles, one which is more
+dramatic (‘chasing’) and another which is
+more ambiental (‘firefly’), so it’s quieter.
+I: Sofian Audry also worked on some of
+the software, right? Is this part of Sofian
+Audry’s PhD project at Hexagram?
+C: Part of it. He has different projects, but
+this is part of the research. He built the
+library for this project but he’s also using it
+for his own work.
+I: For the sound or the lights?
+C: He’s agnostic to that. It’s an open-source
+C++ library called ‘qualia’, which does
+machine learning, essentially; there’s figure
+trees built into it too and different types
+of processes. When we started to work on
+this project he showed me a kind of test of
+something, a very simple model of a sensor in
+an environment and the question is whether
+or not it understood what the environment
+was doing, if it changed its output. And then
+we started to talk and I said “Can we make
+it in a larger scale?” Not just one node, but
+many nodes. And so it eventually became
+what is now n_polytope.
+

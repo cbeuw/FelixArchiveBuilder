@@ -1,0 +1,206 @@
+t
+Letters
+Loans Demo
+Bad Publicity
+Dear Editor,
+I feel 1 must write in response to a letter which
+appeared in issue 820 on December 2. It is the
+one concerned with the perception of the
+apparent apathy of IC students in general
+towards Student Loans.
+I, for one, am certainly not in favour of them. •
+Neither do I feel total indifference towards the
+subject. I believe that going on a demonstration.
+is everyone's right as we are living in a
+democracy. I grant you that the demonstration
+received widespread publicity, but so too did the
+negative aspects of its latter stages. This will only
+serve to fuel criticism and unsubstantiated beliefs
+that university students are hotheads and only
+looking for trouble. I am sure that all those who
+signed the letter wholeheartedly disapproved of
+the events with the Police at the time of the
+march. I would be much happier, however, if I
+saw their signatures at the bottom of letters to
+their local MP, voicing their objections about
+Student Loans, rather than seeing them in a letter
+to FELIX, which labels all IC students as'
+apathetic. Such a letter might not seem a very
+strong action or appear to have much impact, but
+if the 'thousands' who took part in the march
+'from as far afield as Dundee' did so then perhaps1
+Kenneth Baker and his Parliamentarian
+colleagues would pay more attention to the
+students' plight.
+After all, we live in a system where the MPs[
+are meant to act as our representatives when1
+decisions concerning policies and laws are made..
+It may not be 100% efficient but let us make the;
+most of it and carry out some positive and
+decisive action.
+Yours,
+L Abati, Life Sci 2.
+An Open Mind?
+Dear Editor,
+Some of the issues facing us today are
+important for us to consider, however, I must say
+that the 'Questions 88' discussion missed the
+mark by a mile. 'Questions 88' was an event
+organised by the IC Islamic Society two weeks
+ago, in which they said they sought to compare
+the three ideologies, Islam, Democracy and
+Socialism. The Muslim speaker, understandably
+heavily biased towards Islam, started his
+comparison by equating socialism with
+communism and democracy with capitalism. If
+this were really tbe case, then why have two
+distinctly different words in the English language'
+to describe them? As most informed historians-
+would agree, the first signs of socialism are seen
+in early Jewish history, long before either Islam-
+or communism were thought up. So it was put-
+to the speaker that perhaps a comparison of Islam-
+and Judaism would be more appropriate here?
+The speaker replied that Judaism was not 'a way1
+of life' and wasn't worth talking about, he
+wanted to talk about communism. So let us resign
+and allow him to have his way.
+From this position he proceeded to expound,
+how, in its origins (ie not taking contemporary
+extensions into account) communism beleived in
+the non-existence of God, and capitalism didn't
+care about God. However, as any visitor to
+America would be able to verify, passed down
+from the American Constitutions (or 'creed' as
+the speaker put it) all of the US money has
+printed on it 'in God we trust'. It seems so
+pointless to have a debate of this nature at
+Imperial just so that a speaker can share his
+ignorance with us.
+A 'Questions 88' leaflet asked 'Do You Have1
+An Open Mind?'. Perhaps it would have been
+better phrased, do you have an open mouth? As
+the speaker treated the debate in the way a
+mother would, force feeding her baby, waving
+off the pesky flies of communism and capitalism.
+But then again can a Muslim have an open mind,
+as like the speaker said, their freedom lies in that
+if they disagree with something in Islam, they get
+three days to argue about it, before they are put
+to death. In future, however, the Imperial College
+Islamic Society could perhaps invite a more
+informed speaker, if they intend to compare Islam
+with other ideologies.
+Yours sincerely,
+Keith T Adeney, Elec Eng 3.
+Wendy's Letter
+Dear Bill,
+It seems that I can no longer appear to be sitting
+smugly in my Ivory Union Tower doing
+absolutely nothing about students loans.
+I must confess that when first approached
+about the mass lobby on Thursday 24 it was by
+individuals associated with IC Socialist Worker
+Society who in my view merely act as a front for
+the SWP in a not always amenable manner. For
+that reason, I was hesitant to attend the march.
+Since then I have spent a considerable amount
+of time digesting the White Paper, not just
+reading it, but making notes and considering the
+implications of the finer details.
+There are two stages of opposition to the
+scheme which can be taken; that of opposing the •
+.principle or opposing the practicalities of the
+system.
+I do not suggest for one moment that the
+principle be accepted but that if all our eggs are
+in one basket, then a loans system may be
+implemented which apart from anything else,
+takes very little account of the cost of living in
+London.
+It is therefore my intention to produce a paper
+for submission to the Governing Bodies of both
+Imperial and other London colleges highlighting
+the effect the system will have on the quality of
+student life and ultimately the intake levels upon
+which they so heavily rely.
+The main problem with London is that the
+'extra' loan facility on top of the 'full' value of
+the grant will barely cover the loss of housing
+benefit and that consequently students will still
+be graduating with heavy bank overdrafts over
+and above their student loan. The Government's
+proposals for repayment of the loan will become
+somewhat irrelevant when a student has a bank
+breathing down his n^ck, for quick repayment1
+of an overdraft, perhaps in"excess of the loan.
+If London colleges and their students are not
+.o be discriminated against, an index-linked 'free'
+loan must be provided as well as the top-up loan
+to take account of inflated rents, travel, food,
+costs, etc, otherwise the only students who will
+be able to study in London will be those
+undertaking course that are guaranteed to
+provide healthy salaries and give a high chance
+of obtaining sponsorships; the Royal College of
+Science will be worse hit by this.
+So, perhaps in the future, those who think I
+couldn't be bothered to attend the march should
+perhaps come and speak to me so that our
+ignorance of each other's activities and aims can
+be remedied.
+Yowrs,
+Ian Morris, ICU Hon Sec.
+On your bike
+Harry
+Dear Bill,
+Thank you for the feature about me in FELIX
+recently. As a 'Character' at IC I believe I have
+widened the concept of what is a Professional
+Mathematician!!
+FELIX readers may be interested to know thai
+I used my techniques to obtain all the numbers
+up to 200 digits asked for by Keith Devlin in the
+Guardian Micro-Maths (17th Nov). His problem
+was stated as: 527 degreesF is such that it
+becomes 275 degreesC: so what is the next
+number with this property that the 5 moves from
+the front to the back when you change from F
+to C.
+The next number with this property is 5294,
+111764,70588 F = 2941,17647,05882,35275 C.
+To determine all such numbers up to 200 digits
+took .081 sec execution time and I'll send you the
+program (all 21 lines of it) and output.
+However the reason for this letter is that I have
+been approached to take part in a Project that
+might interest some IC students.
+Bill Morgan is a stuntman who has featured in
+James Bond films as well as others. He wants to
+make the longest motorcycle jump and land in
+water in London Docks and so get into the
+Guinness Book of Records. (His target is around
+,225 feet.) He has sponsorship from a French
+Circus which puts on dare-devil feats and
+Channel 4 TV is interested. He is not worried
+about landing in the water at around 60 mph... T
+can have speed boats churning up the water so
+that I land in foam...' What he wants to know
+about is the dynamics involved.
+Treating the bike and Bill as a 'particle' (typical
+mathematical approximation!) he should lift off
+at 45 degrees (it will be from a ramp on a
+dockside), travelling at about 60 mph. The particle
+will then rise to around 110 feet and plunge into
+lovely Thames Water. This is of course,
+neglecting..., neglecting...and what about...?
+An accurate careful analysis of the whole event,
+including entry into the water, will not be easy
+and the 'show' is scheduled for later summer
+1989. What is being initially aimed for, if we can
+formulate the equations correctly, is a realistic
+graphic visual computer simulation so that we
+can see how Bill and his bike will fare as they fly
+through the air and enter the water.
+Page 2 FELIX December 14 1988
+

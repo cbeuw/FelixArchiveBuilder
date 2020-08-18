@@ -1,0 +1,214 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 26 OCTOBER
+44
+Crossword
+ACROSS
+1. Kids show you watched again and again (11)
+7. Irritated (5)
+9. Voided (6)
+12. Nervous laughter (6)
+13. Wide road (6)
+14. Surname of a boxer (3)
+15. Enigma (4)
+17. Boy (3)
+19. Fragile sand (5)
+20. About 9 AM, say (7)
+21. Fathered (5)
+23. Saw something tasty (7)
+24. A film that phoned home (2)
+25. Trends (6)
+28. PTFE (6)
+29. Peaceful (8)
+33. To be calculating (8)
+34. Weak (4)
+DOWN
+1. Aquatic limb (8)
+2. Popular PC game initials (4)
+3. Gets you started at golf (3)
+4. Large river boat (5)
+5. Black hole, for example (11)
+6. Looked up to (8)
+8. Works bread (6)
+10. European Capital of Culture 2008 (9)
+11. Publicly declared wrong (9)
+13. Shortened marketing scheme (2)
+16. Breakfast food (3)
+18. Conjunction to describe (2)
+22. Fate (7)
+23. Phil “The Power” Taylor’s game (5)
+26. Hairstyle (4)
+27. Style of writing (4)
+30. Regret (3)
+31. Pinch (3)
+3
+1
+2 3
+3 3 2 3 3
+1
+3
+2
+1 3
+2
+2
+3
+0
+2
+3 2
+1
+2
+0 2 2
+2
+2
+2 3
+2
+3
+2
+1
+2
+3
+0 2
+Slitherlink
+Licensed to kill? (for real this time)
+More slitherlinky goodness for the dedi-
+cated puzzle solver. Your aim is to make a
+single closed loop by joining the dots so that
+numbered squares are surrounded by the
+corresponding number of lines (e.g. a square
+numbered 2’ can only have one line on two of
+its sides).
+As you can see, we are trying to phase in
+all sorts of new puzzles, so do send us your
+opinion on them. For instance, if you think
+Knights and Knaves is horrible, tell us so, and,
+although you will make me very, very sad,
+we will (probably) listen to popular demand
+and punt it. Similarly, if you think that varia-
+tions on Sudoku are the best thing since sliced
+bread, we’ll try to include more of them.
+You arrive at a remote district of the Island of Knights and Knaves, and you come
+across two locals, Aaron and Barbara. The following exchange takes place:
+You: Are you both knights?
+Aaron: Ja.
+You (turning to Barbara): Is your friend a knight?
+Barbara: Da.
+Youimmediatelyrealisethat“ja”and“da”arethetopicaldialect’swordsfor “yes”and
+“no”, but you have no idea which means what.
+Who’s a knight and who’s a knave? What do “ja” and “da”mean?
+If Andy is a knight, then he doesn’t know his colour and so sees one and only one white hat.
+Then Bob is a knave, and he is wearing a white hat while also seeing Dan with a white hat, a
+contradiction. As such, Andy is a knave, and so either sees Bob, Chris and Dan wearing either
+two or no white hats. From Bob’s statement, we know Bob and Dan are wearing black, and so
+Chris is wearing black as well. Dan accuses Andy of lying, and so is truthful, while Chris falsely
+says he doesn’t know his colour. In summary, Andy, Bob, Chris, and Dave are a knave, a knight,
+a knave and a knight wearing white, black, black, and black.
+Knights and Knaves
+1 2 3 4 5 6
+7 8
+9 10 11
+12
+13 14
+15 16 17 18
+19
+20
+21 22
+23 24
+25
+26 27
+28 29 30 31 32
+33 34
+A big sorry to everyone who
+tried the nonogram last
+week. There were a few mis-
+takes but they are hopefully
+fixed by now. Please accept
+the following Extra Bonus
+Puzzle as a thanks for being
+cool about it.
+C T H U G H A F O X H O L E
+A O H L A E P N
+S O M N A M B U L A N C E C
+S E Z Y L O R O
+O X O N I A N O R C H A R D
+C M P R E
+K N O S S O S I C A R U S
+R C A A C R J
+L E P E R V A N D Y K E A
+H Y V A V
+L A I R D Y L A N A L E A
+I S L O
+N E M A A G N I T A N G O
+E O B I E D
+N U M I S M A T I C S O R E
+Last week’s crossword
+2
+2
+1
+1
+1
+1
+1
+1
+0
+3 2 1 1
+3
+3
+3
+3 3
+0
+0
+3
+3
+3
+1
+2
+2
+2
+2
+2
+2
+0
+3
+2
+2
+Thermometer Sudoku
+It’s like the regular Sudoku you all know
+and love, but with a twist. You need to
+make sure that each row, column, and box
+contains all numbers from 1 to 9, but the
+added complication is that in each ther-
+mometer, numbers must be in (strictly)
+increasing order, (starting from the bulb).
+An apology
+Solution to last week’s Knights and Knaves puzzle:
+A solution to last week’s Slitherlink
+EXTRA BONUS
+PUZZLE
+Arrange the numbers
+11223344
+in such a way that there is
+one number between the
+ones, two numbers between
+the twos, three numbers be-
+tween the threes and four
+numbers between the fours.
+Solving the nonogram is
+easy: the numbers show you
+the length of the groups of
+black squares as well as how
+many of them there are in a
+row or column.
+FUCWIT
+League Table
+We’re still keeping track of those
+sending solutions, so no worries.
+As a reminder, this term, every
+week, we have two free six-month
+Netflix subscriptions to give away
+EACH WEEK (did we mention eve-
+ry week?) Send your answers in to:
+puzzles.felix@imperial.ac.uk
+

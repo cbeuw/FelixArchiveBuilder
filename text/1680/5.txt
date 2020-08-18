@@ -1,0 +1,408 @@
+ISSUE 1680
+FELIX
+SCIENCE
+FRIDAY, 12TH
+JANUARY, 2018 FELIX
+science.felix@imperial.ac.uk SCIENCE science.felix@imperial.ac.uk
+8 9
+Does the future of organ transplant lie in bioprinting?
+Developments in 3D printing may lead to a world where we’re able to print new organs, but not everyone is
+convinced that this technology will solve current waiting times.
+SCIENCE
+Varshit Dusad
+Science Writer
+N
+othing could
+be more pain-
+ful for patients
+and their
+families than waiting for
+an organ to save their life.
+According to latest NHS
+figures, the average wait
+time for a kidney trans-
+plant is 944 days – despite
+a significant decrease
+from 1,153 days previous-
+ly, two and a half years
+is a long time to wait.
+To make matters worse,
+during this period families
+suffer from heavy finan-
+cial turmoil, with medical
+conditions leading to the
+potential loss of income.
+This can be disastrous if
+the patient-in-waiting is
+the primary earner of the
+family.
+However, long waiting
+times are not the only
+complication involved
+with an organ transplant.
+According to NHS sta-
+tistics, there is a huge
+disparity in supply and
+demand, with just 2,456
+organ donors compared to
+6,388 patients requesting
+transplants in 2016/17.
+The situation becomes
+more complex as an organ
+transplant is, in and of
+itself, non-trivial: organ
+donations require immu-
+nocompatibility between
+donors and recipients,
+similar to blood transfu-
+sions, where criteria such
+as blood group and Rh
+status also need to be met.
+Moreover, the patients
+may fall victim to infec-
+tions due to the immuno-
+suppressants administered
+during transplantation.
+Alternatively, they might
+develop undiagnosed
+medical conditions such
+as HIV, Hepatitis B, or
+cancer from the donors
+themselves. Currently,
+organ supply is filled
+with altruistic donations,
+but there is also a black
+market for organs; though
+illegal and unethical, this
+industry is very much
+present, especially in de-
+veloping countries such as
+India, China, and Nepal.
+Recent developments
+in medical science could
+tackle these issues with
+one example being
+additive manufacturing
+– commonly known as
+3D printing – which may
+allow for bioprinting
+of organs! Through
+this process, an organ
+can be designed using
+a modelling software,
+and then printed with
+biomaterials such as
+polymers and hydrogels,
+in addition to the patient’s
+own cells. 3D-printed
+organs, if successfully
+produced, could tackle
+“While the use
+of 3D printing
+is ambitious,
+it could be a
+revolutionary
+change for
+healthcare”
+“While there
+are ethical
+concerns,
+others are
+worried about
+an economic
+divide”
+the big three obstacles in
+organ transplants: patient
+wait time, financial and
+emotional distress, and
+immunological failure.
+Currently, 3D bioprinting
+has a significant presence
+in customized implants,
+prosthetics, and working
+models for simulating the
+effect of drug treatments
+outside the human body.
+While the use of 3D
+printing to eliminate the
+crushing deficit of organ
+supply is ambitious, it
+could be a revolutionary
+change for the healthcare
+industry – extending
+people’s lives, as well as
+their productivity.
+Experts in this field,
+however, have issued
+caution against keeping
+hopes too high. Jennifer
+Lewis, a bioengineer at
+Harvard University, is
+positive about the devel-
+opments but suggests that
+the complicated archi-
+tecture of organs such as
+livers and kidneys means
+bioprinting is unlikely
+to be plausible solution
+in the immediate future.
+Another expert in 3D
+bioprinting, Dr. Anthony
+Atala, director of theWake
+Forest Institute for regen-
+erative medicine, has a
+more positive outlook:
+he has successfully led a
+project to grow a human
+bladder using bioprinting
+and transplanted it to
+seven young patients suf-
+fering from spina bifida,
+a condition which can
+cause bladder problems.
+He has also set his eyes
+on bioprinting kidneys
+– one of the organs most
+commonly in demand. In a
+seminal TED talk in 2011,
+he displayed a kidney
+which had been printed
+on a machine earlier that
+day. But while the talk
+was a smashing success
+it also invited heavy
+criticism: the kidney was
+an artificial model and not
+functional, and he was
+accused of misleading the
+audience. According to
+Lewis, though the science
+is progressing in the right
+direction, it is still a long
+way from providing real
+assurances to patients in
+need.
+At present, many
+scientists are debating
+the actual potential of 3D
+bioprinting however, with
+a number of companies
+trying to make it commer-
+cially viable. Cellink, a
+Swedish based company
+founded last year,
+develops new biomaterial
+as “ink” for 3D bioprint-
+ers. With customers in 25
+countries across the world
+– including researchers
+at MIT, Harvard, and
+University College
+London – its success story
+explains the fact that they
+have enlisted for an Initial
+Public Offering (IPO),
+becomingapubliclytraded
+company just ten months
+after being founded. It’s a
+noteworthy achievement,
+which exemplifies the
+market potential of organ
+bio-printing. Organovo is
+a much older name in this
+field. They state their goal
+is “to build living human
+tissues that are proven
+to function like native
+tissues, with reproducible
+3D tissues that accurately
+represent human biology”.
+While their current
+products revolve mostly
+around providing in vitro
+tissue models for drug
+testing, they are actively
+investing in developing
+artificial organs ready for
+transplant. Furthermore,
+this field appears to be
+extremely lucrative, with
+a report suggesting that
+3D printing has a potential
+of being an “$8.9 billion
+industry, with $1.9 billion
+(21%) projected to be
+spent on medical applica-
+tions”.
+Some critics, however,
+have their own opinions
+about the entire matter.
+While there are religious
+and ethical concerns over
+‘man playing god’ by
+creating artificial tissues,
+there are also concerns
+about how this could
+create another divide
+between rich and poor.
+Furthermore, the caution
+raised by Jennifer Lewis
+against “false hope”
+remains: patients may
+currently be waiting years
+to get an organ, but these
+technologies may take
+another decade to develop
+and be approved.
+Hope and uncertainty
+are two sides to the
+same coin. Though we
+would not witness the
+results of these efforts
+tomorrow, the day after
+tomorrow may be better
+and brighter! The world
+of medicine has promised
+many cures in the past, but
+not all of them become
+successful, and despite
+being scientifically
+approved, it takes a long
+journey for any treatment
+to become an acceptable
+‘cure’. The same goes for
+organ bio-printing: it is the
+interplay between techno-
+logical innovation, social
+acceptance, religious
+beliefs, and legislative
+framework that will even-
+tually shape the future of
+organ bioprinting in our
+daily lives.
+Many patients are currently facing a wait for organs // CC
+Connect with conservation: oceanic ghostbusters
+SCIENCE
+Steve Allain
+Science Writer
+I
+am sure that many
+of you have been
+moved by the recent
+sequences in Blue
+Planet II highlighting
+the devastating effects
+that plastic is having in
+our oceans. Although
+the production team
+removed all the plastic
+they came across, this
+pales in comparison to
+the amount that actually
+ends up in our oceans
+each year. One of the
+most devastating pieces
+of plastic waste that
+enters our ocean eco-
+systems are ghost nets.
+These are fishing nets
+that have unfortunately
+been lost, or accidentally
+left in the ocean by
+fishermen. They drift
+through the ocean, or
+stay anchored in place,
+where they entangle
+unsuspecting marine ani-
+mals such as dolphins, sea
+turtles and sharks which
+drown when trapped.
+This is where ‘Net-
+Works’ comes in: it is
+of material that would
+benefit communities, as
+well as the environment.
+At the same time, ZSLwas
+in process of developing
+a new model of commu-
+nity-based conservation.
+Coupled together, this
+cultivated in Net-Works,
+which seeks to empower
+people in coastal commu-
+nities in the developing
+world by the collection
+and wholesale selling of
+lost or discarded nylon
+fishing nets. The primary
+focus is to remove the nets
+from the ocean, thereafter
+helping local communities
+raise money to increase
+their standard of living.
+The nets gathered are
+eventually recycled into
+yarn to make carpet tile,
+after entering the global
+supply chain.
+Adding to the issue is
+the fact that we currently
+live in a throwaway
+culture, and unfortunately
+not everyone has the
+means to recycle their
+waste. Moreover, not all
+plastic can be recycled,
+so alternative uses for the
+waste has to be found.
+This can only occur
+through innovations and
+outside-the-box thinking,
+as demonstrated through
+Net-Works. You can help
+too by cutting down on
+the amount of plastic you
+use, and doing more to
+recycle.
+Since the start of the
+unlikely partnership, over
+142 metric tons of waste
+nets have been removed
+from the oceans through
+Net-Works. Currently, the
+program only operates
+in Cameroon and the
+Philippines, but there are
+ambitions to push things
+even further and scale
+up. This could very well
+be the starting point of
+the removal of billions
+of tons of plastic waste
+currently found in our
+oceans!
+Plastic is causing numerous problems for our ocean // Wikimedia
+“Fishing nets
+that have
+been lost can
+drift through
+the ocean,
+entangling
+unsuspecting
+marine life”
+a unique partnership
+between Interface and
+the Zoological Society
+of London (ZSL) which
+began in 2012. During
+this period, Interface were
+on the lookout for a source
+PHOENIX
+Imperial’s arts magazine returns!
+We are interested in: •Poetry
+•Prose
+•Photography
+•Fine arts
+•And more...
+If you’re interested, please email phoenix@imperial.ac.uk
+

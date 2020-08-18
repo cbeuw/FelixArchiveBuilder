@@ -1,0 +1,221 @@
+In the 1930s, soon after Einstein came up with
+his equations on general relativity, Karl Schwar-
+zchild developed a solution that predicted what
+became known as a black hole. Essentially a
+mass compressed into such a small volume that
+its gravitational pull is literally irresistible; not
+even light is fast enough to escape. But then you
+already knew that.
+Since then, black holes have been thought to
+exist at the centre of just about every galaxy and
+acts as a cosmic plug hole, pulling matter in and
+cutting it off from the rest of the world. Small
+wonder then that they have such a reputation as
+destroyers of stars and planets. However, one in-
+ternational team of astronomers is studying an
+opposing side effect – black holes may help stars
+to form.
+Stanislav Shabala of the University of Tasma-
+nia, Mark Crockett of University of Oxford and
+Sugata Kaviraj of Imperial College led a team to
+investigate this phenomenon within the nearby
+CentaurusAgalaxy (a cool 15 million light years
+away). Their results were published in Monthly
+Notices of the Royal Astronomical Society.
+Since most black holes are not static but spin-
+ning, they can distort the space around them into
+spiral patterns. This means that the stars and
+stellar dust around the black hole are constantly
+in motion, being compressed, stretched, rapidly
+heated and quickly cooled. When enough of
+this dust comes together in a small enough area,
+gravity acts and clusters form, eventually grow-
+ing into the bright stars of the sky.
+Using one of the Hubble Space Telescope’s
+cameras, Wide Field Camera 3, the astronomical
+team studied what is known in the business as
+NGC 5128, more easily recognised as the Cen-
+taurus A galaxy, near (in an astronomical sense)
+the Centaurus constellation. Scientists observed
+a belt of dust running across the galaxy in the
+visible light spectrum. But inspecting the ultra-
+violet and X-ray frequencies, they saw that the
+belt extends almost a million light years from
+the black hole in the centre. Analysis of this data
+provided the astronomers with an exceptionally
+accurate map of the history of the stars forming
+in this area.
+It appears that the distance from the black hole
+and the age of the stars has a correlation; the
+stars at the very extremes of the cosmic outflow
+are younger, increasing in age as you get closer
+to the black hole. This supports the theory that
+the denser regions of dust near the black hole
+are able to compress into stars, forming at earlier
+times.
+Black holes: cosmic creators
+Artist’s impression of a black hole
+So why do astronomers look up into the sky
+and take pictures of the stars? Well, one of the
+largest areas of research in 21st century phys-
+ics focuses on the conditions of the early uni-
+verse and what was going on then that led up
+to what we see today. As Dr Shabala comments,
+“This enhancement of star formation by out-
+flows would have been even more important in
+a younger universe, where dense clumps of gas
+were much more common. Our study highlights
+the need to consider the role of ‘positive’ feed-
+back from outflows in our current paradigm of
+galaxy formation. It adds an exciting new piece
+to a great puzzle – that of understanding how
+galaxies came to be the way they are today.”
+Autistic Spectrum Disorder (ASD) affects ap-
+proximately 1% of the population. The main
+characteristics of ASD are difficulties in social
+interaction, communication, and repetitive be-
+haviours. It is a difficult condition to diagnose,
+especially in young children, but researchers
+at Birkbeck College have just published some
+promising findings that open a new path to early
+diagnosis.
+At the moment, ASD can be diagnosed from
+the age of two by doctors and psychiatrists with
+the Autism Diagnostic Observation Schedule
+(ADOS) which observes social interaction be-
+tween the patient and the examiner. Mayada El-
+sabbagh, from Birkbeck College at the University
+of London, and her colleagues, have published a
+study in Current Biology measuring the brain’s
+response to viewing faces gazing directly toward
+or away from infants aged between 6 and 10
+months, from a sample of 104 infants (54 with
+familial risk for ASD and 50 control infants).
+Event Related Potentials (ERPs) were measured
+by electroencephalography as the children were
+shown faces gazing toward or away from them.
+At 36 months, the infants were clinically tested
+forASD.
+The results showed differences between the
+control group, the risk but no ASD group and the
+risk ASD group. More specifically, the amplitude
+for gaze shifts away versus toward was higher
+for the infants not diagnosed with ASD. More
+research has to be done, but by developing this
+method, a diagnosis for children as young as 6
+months old could be possible.
+Most symptoms of ASD are not observed be-
+fore the child is one, but this study has shown a
+clear difference between infants with and without
+the disorder. The starting point of the study was
+the observation that autistic people often find it
+difficult to look at others in the eye. Describing
+this difference in sensitivity to eye gaze at such
+a young age could provide an explanation of the
+other symptoms of autism. Sensitivity to eye gaze
+is linked to social and communication skills. This
+insensitivity in infants affects the development of
+the brain and could provide an explanation for the
+social – communication difficulties that define
+ASD.
+ASD is still a very misunderstood disorder. It is
+thought to be caused by genetic and environmen-
+tal factors and some researchers are working on
+diagnosing from the genome of patients. This is a
+difficultandcomplextaskaseachpatientisdiffer-
+ent and many combinations of genetic variations
+have been known to lead to some form of ASD.
+Early diagnosis however is crucial. It provides
+parents with the information necessary to explain
+their child’s behaviour and take care of them.
+More importantly, the earlier ASD is diagnosed,
+the earlier it is possible to ‘treat’the child and put
+in place the necessary care and support structure.
+There is no cure forASD, but some methods exist
+and offer the tools to encourage the development
+of the child and his/her social integration. One of
+these methods,Applied BehaviourAnalysis, uses
+systematic teaching and behavioural learning the-
+ory which is, amid some controversy, successful.
+Marie-Laure Hicks
+FELIX
+Friday 24 February 2012
+10
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+Pavitar Singh Devgon
+Alzheimer’s Disease affects almost 30 million
+people around the world but it remains a poorly un-
+derstood condition with no cure and few effective
+treatments. However, recent studies by scientists at
+Columbia and Harvard universities provide tantalis-
+ing evidence of how the disease spreads through
+the brain and even offer hope of way to stop it in its
+tracks.
+Tau proteins have a vital function inside neurons
+in stabilising microtubules, which transport vital
+chemicals around these brain cells. In Alzheimer’s
+patients, however, these proteins become distorted
+and begin to clump together – causing the tubules
+to collapse and the cells to die. This is known as
+tauopathy. Tangles of tau protein, along with plaques
+consisting of the beta amyloid peptide, are main bio-
+chemical indicators of Alzheimer’s.
+Previously scientists had been divided on whether
+this tauopathy spread from one area of the brain to
+neighbouring regions or whether it developed in dif-
+ferent areas independently, with some regions being
+affected first since they were more vulnerable.
+Studies on humans had proved inconclusive. Re-
+search on mice genetically engineered to produce
+the distorted human tau was suggested, but was
+initially abandoned since scientists previously were
+only able to create mice that produced the faulty
+protein across their entire brain at the same time,
+making it impossible to map how it spread with time.
+However, in a paper published in PLoS One, the
+Columbia team describe how they managed to en-
+gineer mice which initially only produced the protein
+in the entorhinal cortex, an area of the brain respon-
+sible for memory production that is one of the first to
+be affected by Alzheimer’s in humans.
+Examining the brains of mice of different ages
+showed clear evidence that tauopathy spread slowly
+outwards from the entorhinal cortex with time. While
+scientists are as yet unsure of the exact mechanism
+that causes this spread they believe that their find-
+ings may apply to humans as the dissected mice
+brains showed striking similarities to those of de-
+ceased Alzheimer’s sufferers.
+Better knowledge of how Alzheimer’s works may
+lead to people being able to be diagnosed earlier.
+More importantly, since these findings seem to
+prove the theory that the disease originates in one
+part of the brain, it may be possible to protect neigh-
+bouring areas from ‘infection’ – thereby preventing
+further progression of the disease.
+Further research with the genetically modified
+mice may help to identify specific treatments that
+accomplish this. Scientists also suspect that other
+degenerative brain diseases, such as Parkinson’s,
+might spread through the brain in a similar manner,
+meaning that it is possible that treatments for them
+will also be found.
+Marie-Laure Hicks
+New research into Alzheimer’s
+New autism diagnosis in infants
+Last year’s announcement by the OPERA particle
+physics collaboration that they had seen neutrinos
+travel faster than light may have been down to noth-
+ing more than dodgy wiring, it was announced yester-
+day. One of two possible causes was a faulty optical
+fibre, and the other concerns an oscillator used in
+GPS clock synchronisation. OPERA is still studying
+the extent of these two effects. New measurements
+are planned for May.
+Kelly Oakes
+Fast neutrinos foiled by wiring
+

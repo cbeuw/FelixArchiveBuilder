@@ -1,0 +1,247 @@
+SPORT
+Holloway Bears get mauled by IC
+Sport Editors: Indy Leclercq
+David Wilson
+sport.felix@imperial.ac.uk
+Felix Sports League
+...where do you stand?
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Badminton M2 2 2 0 0 14 2 12 5.00
+2 Basketball M1 3 3 0 0 197 144 53 5.00
+3 Fencing W1 2 2 0 0 270 137 133 5.00
+4 Hockey M2 1 1 0 0 4 1 3 5.00
+5 Hockey W1 3 3 0 0 9 4 5 5.00
+6 ICSM Badminton M2 1 1 0 0 6 2 4 5.00
+7 ICSM Football M2 3 3 0 0 11 6 5 5.00
+8 ICSM Hockey W2 2 2 0 0 10 1 9 5.00
+9 Lacrosse W1 2 2 0 0 36 3 33 5.00
+10 Netball W1 3 3 0 0 108 75 33 5.00
+11 Rugby M2 2 2 0 0 47 13 34 5.00
+12 Tennis W1 1 1 0 0 3 2 1 5.00
+13 Ultimate Frisbee 1 1 1 0 0 15 0 15 5.00
+14 Tennis M2 3 2 1 0 22 14 8 4.00
+15 Hockey W2 2 1 1 0 4 3 1 3.50
+16 Squash W1 2 1 1 0 6 2 4 3.50
+17 Badminton W1 3 1 2 0 15 9 6 3.00
+18 Fencing M2 2 2 0 1 368 216 152 3.00
+19 Rugby M1 4 3 0 1 116 58 58 2.75
+20 Badminton M1 3 2 0 1 18 6 12 2.00
+21 ICSM Hockey W1 4 2 1 1 23 9 14 2.00
+22 Football M2 3 1 1 1 9 9 0 1.00
+23 Basketball W1 2 1 0 1 117 69 48 0.50
+24 Football W1 2 1 0 1 8 11 -3 0.50
+25 Golf 1 2 1 0 1 5.5 5.5 0 0.50
+26 ICSM Badminton W1 2 1 0 1 8 8 0 0.50
+27 ICSM Football M1 2 1 0 1 4 6 -2 0.50
+28 ICSM Netball W1 2 1 0 1 82 72 10 0.50
+29 ICSM Netball W2 2 1 0 1 52 50 2 0.50
+30 ICSM Netball W4 2 1 0 1 47 50 -3 0.50
+31 ICSM Rugby M3 4 2 0 2 88 90 -2 0.50
+32 Lacrosse M1 2 1 0 1 34 18 16 0.50
+33 Squash M3 2 1 0 1 3 7 -4 0.50
+34 Tennis M1 2 1 0 1 15 5 10 0.50
+35 Futsal M1 4 2 0 2 18 27 -9 0.50
+36 Football M1 2 0 1 1 1 3 -2 -1.00
+37 Football M3 3 1 0 2 7 8 -1 -1.00
+38 Hockey M1 3 1 0 2 6 4 2 -1.00
+39 ICSM Rugby M1 3 1 0 2 52 104 -52 -1.00
+40 ICSM Rugby M2 3 1 0 2 32 135 -103 -1.00
+41 Netball W3 3 1 0 2 74 67 7 -1.00
+42 Squash M1 3 1 0 2 3 12 -9 -1.00
+43 Table Tennis M1 3 1 0 2 23 28 -5 -1.00
+44 ICSM Netball W5 4 0 1 3 25 185 -160 -2.50
+45 Fencing M3 1 0 0 1 120 130 -10 -4.00
+46 Fencing W2 1 0 0 1 84 129 -45 -4.00
+47 Hockey M3 3 0 0 3 3 11 -8 -4.00
+48 Hockey M4 3 0 0 3 0 24 -24 -4.00
+49 ICSM Badminton M1 1 0 0 1 0 8 -8 -4.00
+50 ICSM Basketball M1 1 0 0 1 46 64 -18 -4.00
+51 ICSM Hockey M1 3 0 0 3 6 26 -20 -4.00
+52 ICSM Hockey M2 3 0 0 3 3 19 -16 -4.00
+53 ICSM Hockey M3 1 0 0 1 0 3 -3 -4.00
+54 ICSM Hockey W3 1 0 0 1 0 7 -7 -4.00
+55 ICSM Netball W3 3 0 0 3 26 106 -80 -4.00
+56 Netball Women's 2nd 1 0 0 1 14 41 -27 -4.00
+57 Rugby M3 3 0 0 3 22 57 -35 -4.00
+58 Squash M2 1 0 0 1 0 5 -5 -4.00
+59 Squash M4 1 0 0 1 1 2 -1 -4.00
+60 Table Tennis M2 1 0 0 1 5 12 -7 -4.00
+The (actual) League table is back! It doesn’t have all the
+teams in it yet, as some of you haven’t played yet...but will
+be updated every week.
+The Imperial Immortals American Football
+team stormed through for another victory this
+Sunday with a hard fought battle against the
+Royal Holloway Bears. At their last meeting
+the Bears had won by the closest of margins
+(scoring a field goal in 3rd overtime) so the
+Immortals stepped on the field with something
+to prove. With the momentum of last weeks
+win behind them the Immortals finished the
+game with their first shut-out of the season
+and a well earned 19 points.
+The first half went very well for the Immor-
+tals, receiving the kickoff and driving the ball
+up the field repeatedly with power running by
+Tino Millar; breaking a number of tackles and
+carrying two of the Bears Linebackers into
+the endzone to score the first touchdown of
+the game. However, there were moments that
+the Immortals struggled against some power-
+ful players, needing to make long yards on
+third down. With the weather perfect the team
+could turn to its passing game; Michael Pea-
+cock making an important catch in the Bears
+red zone to ensure first down. The catch of the
+day however came just before the half, with
+the Immortals Quarterback Bob Wolsten-
+holme having plenty of time to throw a 40
+yard pass to rookie Wide Receiver Max Hol-
+lister who was free to run it to the endzone for
+the last score of the half.
+The Surrey offense struggled all game; hav-
+ing a number of players injured by the hard
+hitting Immortals defense. Not only were the
+Bears unable to keep the Defense away from
+their quarterback, any completed pass or run
+was shut down quickly by fast pursuit and
+quality tackling. To top off their awful half,
+the Bears second choice Quarterback, under
+pressure from rushing lineman Temi Ladega,
+threw a lofted pass straight into the arms of
+waiting linebacker Dexter Valencia who re-
+turned for the first defensive touchdown in
+Immortals history. With the Surrey offense
+pushed back to their touchdown line after
+kick-off, Imperial hopes for a safety (sacking
+the quarterback in their own endzone) were
+dashed when the half was called and a down-
+cast Holloway team stumbled off the field
+with the score at 19-0.
+However in the second half Royal Holloway
+stepped up their game. The Immortals clearly
+were suffering from over-confidence as the
+offense seemed lackluster; failing to drive the
+ball repeatedly and having to punt a number
+of times. Meanwhile the Holloway defense
+showed aggression and fought incredibly hard
+for every tackle, with a solid effort to try and
+pull Holloway back into the game. Even with
+this Imperial still came close to scoring again;
+until Bob Wolstenholme threw yet another ill-
+conceived pass straight into the arms of a Hol-
+loway Linebacker. Thankfully he was tackled
+to the ground immediately before any yards
+could be made. The defense maintained their
+dominance throughout the second half, with
+Holloway losing their Centre due to injury it
+was even easier for the Immortals to blow-up
+any potential running plays in the Holloway
+backfield. In fact, this game had the highest
+number of interceptions and turnovers as the
+Immortals forced the Bears to keep making
+mistakes. Veteran Cornerback George Barnes
+making a fantastic interception but was unable
+to run it in to the Bears endzone due to age and
+lack of pace.
+In the final quarter of the game Holloway
+realized they had been thoroughly beaten and
+instead turned to poor sportsmanship. Unfor-
+tunately resorting to poor play and question-
+able behavior in an attempt to force the Im-
+mortals to their level. Thankfully, the Imperial
+team remained calm and played the football
+they wanted to play; finishing the game with
+a shut-out.
+The game was incredibly hard fought but
+the team look forward to their game next Sun-
+day against the Reading Renegades. If you’d
+like to get involved in the sport the team is
+currently looking for physically large guys to
+play as linemen. If you think you would like to
+give it a go, message us by searching ‘Impe-
+rial Immortals AFC’ on Facebook or Twitter.
+Mike Peacock
+American Football
+Imperial Immortals 19
+Royal Holloway Bears 0
+Not to be clichéd, but... Hut! Hut! Hike!
+Selected results in association with
+Sports Partnership
+Wednesday 16th November
+BADMINTON
+Men’s 1st 7
+Essex 1st 1
+Men’s 2nd 0
+Brighton 1st 8
+Women’s 1st 5
+LSE 1st 3
+Medicals Men’s 2nd 4
+Royal Free & University College
+Men’s 4
+BASKETBALL
+Women’s 1st 59
+Chichester 1st 51
+FENCING
+Men’s 3nd 123
+City University 123
+FOOTBALL
+Men’s 1st 3
+Bucks New Uni 1st 2
+Men’s 3rd 0
+Kingston Uni 2nd 5
+HOCKEY
+Men’s 3rd 1
+Brunel 3rd 4
+Men’s 4th 0
+Chichester 2nd 6
+Women’s 2nd 0
+Royal Holloway 2nd 5
+MedicalsWomen’s 2nd 2
+Canterbury Christ Church
+2nd 1
+Medicals Women’s 3r
+d 0
+City University 1st 7
+Medical Men’s 2nd 4
+RoehamptonUniversity1st 2
+Medical Men’s 1st 2
+Royal Holloway 2nd 3
+LACROSSE
+Women’s 1st 23
+Brighton 1st 0
+Men’s 11
+Royal Holloway 1st 3
+NETBALL
+Medicals 1st 73
+Kent 2nd 11
+RUGBY UNION
+Men’s 1st 25
+Chichester 1st 24
+Men’s 2nd 11
+Goldsmiths 1st 20
+MedicalsMen’s2nd 0
+Surrey 1st 64
+MedicalsMen’s3rd 31
+Westminster 1st 36
+SQUASH
+Men’s1st 0Brunel1st 5
+Women’s 1st 1
+LSE 1st 4
+Men’s 3rd 2
+LSE 1st 2
+TABLE TENNIS
+Men’s 1st 10
+Cambridge 1st 7
+Women’s 5
+Kings 1st 0
+Men’s 2nd 13
+LSE 1st 4
+TENNIS
+Men’s 1st 8
+Brighton 1st 4
+FELIX
+46 Friday 18 november 2011
+Madagascar contains a rainforest where 60% of its 12,000 different plant species are unique to that island – GREEN WEEK 2011
+

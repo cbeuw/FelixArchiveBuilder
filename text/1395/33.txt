@@ -1,0 +1,247 @@
+34 felix Friday 8 February 2008
+Google vs MicroHoo! It’s on
+James Finnerty explains what one of the largest tech mergers ever really means
+O
+nce again welcome to
+the wonderfully gadget
+packed corner of the
+newspaper. We’ve had
+a fair bit of news this
+week in the Tech world so lets bring
+everyone up to speed. With all the big
+news on Microsoft and Yahoo! we have
+delivered coverage on this as well as a
+slightly overlooked product in Micro-
+soft’s arsenal.
+Once again Apple have updated
+some of their products. Their prod-
+ucts have been filling these pages for
+a few weeks but thankfully their most
+recent announcement is brief enough
+to mention here. The iPhone and iPod
+touch have had their storage capacities
+increased.
+At the moment there exists 4Gb and
+8Gb iPhones aswell as 8Gb and 16Gb
+touches. On Tuesday the 16Gb iPhone
+became available for about £60 more
+than the 8Gb and a 32Gb iPod touch
+should be in the shops in a few days,
+maybe even by the time of going to
+print. Also, any new touch purchased
+included the new applications that you
+would have to pay for on any older
+ones.
+Heathrow has started testing new
+security measures that will be imple-
+mented in Terminal 5. The guinea pigs
+of the new system will have the pleas-
+ure of providing a blood, urine and
+stool samples as well as iris scans. Only
+kidding, they just take a photo and
+your prints, but this has added heat to
+recent discussions about giving the US
+access to UK biometric databases.
+Nokia are making their long an-
+nounced concept of shifting its N-
+Gage gaming platform to smartphones
+a reality. The first phone to have this is
+the N81 so anyone using one of these
+should be able get more games and
+some clever sods have got the platform
+working on pretty much every Sym-
+bian S60 phone.
+Here’s one for all the environmental-
+ists out there. Airbus have successfully
+test flown an A380 that is fueled by a
+synthetic fuel produced from natural
+gas. The test flight used a cocktail of
+60% regular jet fuel and 40% synthetic
+with plans to increase the ratio in favor
+of the synthetic fuel in upcoming tests.
+This change is expected to make a sig-
+nificant impact on the airline indus-
+try’s global footprint. But will this be
+enough to satisfy the hippies? Maybe
+for now.
+An IBM research paper has been dug
+up which reveals their future plans to
+take over the world, I mean internet,
+although I think there are a fair few
+people who can’t tell the difference an-
+ymore. They plan to modify their Blue
+Gene super computer architecture to
+support traditionally server executed
+functions such as Apache and MySQL
+as these tasks require larger levels of
+computing power.
+You may remember that during the
+last American election there was a high
+level of distrust in the electronic ballet
+system. Well shock horror all the fears
+have surfaced once again so expect to
+see ten recounts of the upcoming su-
+per Tuesday votes before the next stage
+of the election in November.
+Lets move on to the articles.
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+James Finnerty
+Technology Editor
+After a decade online and heading towards a downard spiral, will Microsoft take charge?
+A
+huge rock was thrown
+into the calm pond of
+Google'sfuturethisweek.
+Microsoft have offered a
+staggering £22 billion to
+buy the long standing Yahoo! search
+engine company. Now why would they
+do this? Their key product is sub-par
+with millions of people drifting over to
+the big G monthly, making this appear
+a very bad investment. The reasoning
+comes from Microsoft's Steve Ballmer
+explaining that the purchase is intend-
+ed to increase Microsoft's audience,
+improve the brand of both companies
+and to literally build a bigger company
+that can rival Google.
+This buy out will mean a huge deal to
+anyone currently lucky enough to own
+shares in these companies. Microsoft's
+share price has famously been more or
+less static for the last 5 years and due
+to Google, Yahoo! shares have been on
+the downward spiral. How this pur-
+chase will affect Google's value is yet to
+be seen but if their lower than prom-
+ised quarterly profits are anything to
+go by people may start to stray.
+Other sources have reported that
+Microsoft executives plan to move
+more into the online services market
+and hence wanting the Yahoo! brand.
+Sounds great on paper as Google
+dominates this market, how this will
+affect the products produced by each
+side will be one to watch as Google has
+always updated and improved it's serv-
+ices irrelevant of the competition.
+Rumours are also floating around
+that someone may have a rival bid in
+the works. Now this really poses the
+question what other company has £22
+billion to place in a high risk buy out?
+I don't really see any oil or car compa-
+nies buying a search engine and the
+only other tech company that could be
+interested would be Apple, who aren't
+ones to take on other companies prod-
+ucts. Could this mean Google would
+try and buy Yahoo! just to stop Micro-
+soft doing it? But this would increase
+their monopoly and thus risk having
+the company divided so it’s not a likely
+option.
+If the purchase is successful the next
+hurdle to overcome is how MicroHoo!
+will merge their business models to
+compete with Google. The breaker is
+that Google famously uses large clus-
+ters of cheap computers and a system
+of distributing tasks to these modes
+that handles machine failure without
+breaking a sweat. This strategy is very
+cost effective and provides a high level
+of reliability. MS and Y! on the other
+hand are known for buying more com-
+pact “high quality” systems were the
+reliability of each machine is more
+important. Ultimately this costs them
+more money and they still end up less
+reliable. We've all had MSN Messen-
+ger and Hotmail go down due to busy
+servers, but when did you last see this
+happen to Google?
+To fix these kinds of problems would
+take a very brave move from Microsoft
+as they would most likely have to stray
+from their own homebrew software or
+spend millions/billions of dollars and
+waste years producing their own re-
+placement system from scratch. A big
+ask on top of what they have already
+blown buying Yahoo! in the first place.
+There are growing concerns about
+whether or not Microsoft will prop-
+erly support what is broadly accepted
+as Yahoo!'s greatest achievement, their
+Bill, I have a cunning plan, all I need is £22 billion and a turnip
+support for software developers. Via
+their developers network Yahoo! has
+actually maintained a good business
+model that allowed it to survive the
+end of the internet boom. The key to
+this is extending your platform to in-
+crease users and this allowed Yahoo! to
+keep afloat, albeit not as successfully as
+some of it's rivals. The question lies in
+whether Microsoft will want to merge
+its popular developer's network with
+Yahoo!'s incarnation, producing a one
+stop shop for coders, or go along with
+some sort of internal rivalry between
+the departments.
+A lot of people also feel that the
+merge of these two companies is fun-
+damentally set to fail as they have dras-
+tically different philosophies. Yahoo!
+has played a hand in the open source
+world where as Microsoft has been the
+antithesis of this, sticking to the tra-
+ditional method of charging users for
+their products instead of using meth-
+ods such as advertisement to generate
+revenue.
+As an interesting note, Google have
+questioned Microsoft’s bid and have
+asked for the regulators to verify that
+the purchase is sound. Could this be
+Google quaking in its boots? They have
+also argued that Microsoft’s decision
+goes along with its history of trying to
+obtain a monopoly, but the problem
+with this accusation is that the market
+of advertising which MicroHoo! would
+be trying to take on is almost already
+monopolised by Google. So basically
+we’ve got two big babies arguing over
+who gets to have a bigger share of the
+internet.
+In my opinion Google is the one
+causing this to happen though. If they
+didn’t have such a large market share
+then Microsoft and Yahoo! would not
+have to merge to stand a chance of suc-
+cess in the hostile internet market.
+If Yahoo! accpet this offer they will be
+confessing that they themselves could
+not turn their company around which
+may cause a lack of confidence in their
+management, but it will still be a re-
+lief to those not wanting the company
+to fail. There is still a huge chance of
+failure even if the merger goes ahead.
+If MicroHoo! cannot output products
+that genuinely are of better quaity than
+Google then this could destroy both of
+the companies leaving Google with a
+monopoly.
+So will this be the birth of the greatest
+technology company ever or will it be a
+waste of time and money from some of
+the only serious rivals to Google? Only
+time will tell.
+

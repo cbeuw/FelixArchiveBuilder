@@ -1,0 +1,447 @@
+Stall Club, Society or Project
+BQ 1 A Cappella
+GH 7 ABACUS
+M 4 Activities for Children with Disabilities
+JCR 16 Advertising Society
+MEF 4 Aeronautics
+GH 6 African-Caribbean
+ICME 1 Ahlul Bayt
+ICME 2 Ahmadiyya Muslim Students Association
+UCH 1 Alternative Music
+QL 25 American Football
+UDH 2 Amnesty International
+SAF 3 Anaesthetics and Intensive Care
+ICME 12 Animal Protection & Education Society
+JCR 17 Anime
+GH 13 Arabic
+QL 18 Archery
+JCR 18 Architecture
+BQ 33 Artisans
+JCR 19 ArtSoc
+SAF 7 Asian Medical Students’ Association
+JCR 3 Assassins Guild
+DC 5 Astro
+ICME 3 Atheists, Secularists and Humanists
+QL 49 Athletics (Medics)
+GH 8 Australian
+UDH 7 Avicenna Project
+QL 31 Badminton
+SAF 27 Badminton (Medics)
+CP 9 Badminton (RSM)
+GH 9 Bangladeshi
+QL 22 Baseball
+QL 1 Basketball
+QL 42 Basketball (Medics)
+AS 18 Belly Dancing
+M 5 Bike Users Group
+MEF 5 Bio Engineering
+MEF 12 BioChem
+SAF 34 BioMed Society
+MEF 13 BioSoc
+QL 38 Boat
+QL 47 Boat (Medics)
+JCR 20 Book Club
+QL 2 Boxing
+JCR 1 Bridge
+DC 17 Bright Futures
+BQ 10 British Heart Foundation
+SAF 39 British Medical Association
+GH 10 Bruneian
+ICME 4 Buddhist Society
+GH 22 Bulgarian
+GH 1 Caledonian
+BQ 2 Calligraphy and Oriental Painting
+BQ 26 Campaigns
+BQ 21 Canoe
+SAF 37 Careers (Medics)
+ICME 6 Catholic
+BQ 17 Caving
+CP 12 CGCU Motor Club
+UCH 3 Chamber Choir
+UCH 4 Chamber Music
+ICME 5 Chaplaincy
+QL 26 Cheerleading
+DC 8 Cheese
+MEF 6 Chem Eng
+MEF 14 Chemistry
+JCR 5 Chess
+GH 11 Chinese
+UCH 5 Choir
+SAF 33 Christian Medical Fellowship
+ICME 7 Christian Union
+MEF 23 City & Guilds Union
+MEF 7 Civil Eng
+AS 21 Comedy Society
+UDH 1 Connect
+ICME 8 Conservative
+DC 4 Consultancy
+QL 3 Cricket
+QL 43 Cricket (Medics)
+QL 51 Croquet Club
+QL 14 Cross Country & Athletics
+GH 15 CSSA
+JCR 7 Culinary
+QL 15 Cycling
+GH 42 Cypriot
+GH 16 Czecho-Slovak
+AS 1 Dance
+AS 19 Dance (Medics)
+AS 16 Dance Company
+SAF 16 Darts
+MEF 17 De La Beche
+DC 9 Debating
+SAF 5 Dermatology
+BQ 3 Design Collective
+MEF 8 Doc Soc
+QL 6 Dodgeball
+SAF 12 Drama
+UCH 15 Dramatic Society
+GH 18 Dutch
+UDH 8 E.quinox
+DC 10 Economics
+UDH 9 El Salvador
+MEF 9 Elec Eng
+UDH 3 Empower
+SAF 6 EMSA
+UDH 10 Enactus
+M 1 Energy
+BQ 28 Entertainments
+ICME 13 Environmental
+GH 2 Erasmus
+GH 3 European Union Society
+ICME 9 Every Nation Christian
+UDH 11 EWB
+BQ 16 Exploration
+BQ 4 Fashion
+BQ 37 Felix
+BQ 13 Fellwanderers
+ICME 10 Feminist
+DC 1 Fencing
+BQ 6 Film
+DC 3 Finance
+QL 50 Fire Department
+CP 2 First Aid Society
+JCR 6 Floorball
+QL 20 Football
+QL 48 Football (Medics)
+CP 9 Football (RSM)
+GH 17 French
+UDH 4 Friends of Medicins Sans Frontiers
+AS 17 Funkology
+QL 7 Gaelic Sports
+JCR 15 Gaming
+SAF 9 Gazette
+SAF 8 General Practice
+UDH 13 Geology for Global Development
+MEF 18 Geophys Soc
+GH 19 German
+QL 16 Gliding
+UDH 14 Global Brigades
+JCR 9 Go Society
+SAF 29 Golf
+UCH 6 Gospel Choir
+SAF 32 GradMed
+MEF 27 Graduate Students’ Union
+UCH 7 Guitar
+MEF 27 Hammersmith Students’ Community
+QL 8 Handball
+SAF 28 Heart Society
+GH 43 Hellenic
+ICME 11 Hillsong Powerhouse
+ICME 22 Hindu Society
+QL 35 Hockey
+QL 40 Hockey (Medics)
+CP 8 Hockey (RSM)
+QL 41 Hockey (Women, Medics)
+GH 20 Hungarian
+UCH 8 IC Big Band
+BQ 35 IC Radio
+QL 36 Ice Hockey
+BQ 36 ICTV
+UCH 14 ICU Cinema
+SAF 38 Immunology
+UDH 6 Imperial College Aid to the Balkans
+M 7 Imperial Cooperative
+BQ 29 Imperial Entrepreneurs
+GH 24 Indian
+GH 25 Indonesian
+DC 11 Innovation Society
+GH 4 Int. Tamil
+M 8 Interact
+MEF 26 International Public Health
+DC 12 Investment
+DC 18 IQ LGBT+
+GH 26 Iranian
+GH 12 Iraqi
+GH 27 Irish
+ICME 23 Islamic
+GH 21 Israeli
+GH 28 Italian
+GH 23 Japanese
+M 6 Jazz & Rock
+ICME 14 Jewish
+AS 15 Jiu Jitsu (Aiuchi) (Medics)
+AS 3 Ju-Jitsu
+AS 2 Judo
+BQ 11 Juggling
+QL 23 Kabaddi
+AS 5 Karate Shotokan
+AS 6 Kendo
+GH 29 Kenyan
+UDH 15 Kenyan Orphan Project
+AS 7 Ki Aikido
+JCR 10 KnitSock
+GH 30 Korean
+AS 8 Krav Maga
+ICME 15 Krishna Consciousness
+AS 4 Kung Fu
+ICME 16 Labour
+QL 44 Lacrosse (Medics)
+GH 31 Latin-American
+DC 2 Law
+QL 30 Lawn Tennis
+GH 32 Lebanese
+JCR 21 Lego
+BQ 5 LeoSoc
+ICME 21 Liberal Democrat
+QL 28 Liberation
+SAF 14 Light Opera
+JCR 11 Linux Users Group
+MEF 2 London Forum for Science & Policy
+BQ 38 Magazine
+JCR 12 Mahjong
+GH 33 Malaysian
+DC 13 Management
+MEF 19 Materials
+MEF 15 Maths
+GH 34 Mauritian
+DC 6 Meat Appreciation
+MEF 11 Mech Eng
+SAF 35 Medical Education
+SAF 2 Medics Students’ Union
+SAF 4 MedSIN
+ICME 21 Mentality
+JCR 22 Model United Nations
+BQ 18 Mountaineering
+SAF 20 Mountaineering (Medics)
+AS 9 Muay Thai
+SAF 13 Music
+UCH 10 Music Technology
+AS 22 Musical Theatre
+ICME 20 Muslim Medics
+QL 9 Netball
+QL 45 Netball (Medics)
+CP 10 Netball (RSM)
+SAF 10 Neurology
+MEF 21 New Acitivities (Academic)
+QL 52 New Activities (Clubs)
+SAF 31 New Activities (Medics)
+BQ 34 New Activities (Societies)
+GH 35 Nigerian
+GH 36 North American Society
+SAF 15 Obstetrics & Gynaecology
+MEF 1 Oil and Gas Forum
+SAF 17 Oncology
+SAF 18 Ophthalmology
+UCH 11 Orchestra
+BQ 31 Outdoor Club
+ICME 17 Overseas Christian Fellowship
+SAF 21 Paediatrics
+GH 37 Pakistan
+GH 14 Palestinian Soc
+QL 24 Parkour, Free Running & Gymnastics
+M 2 Pass
+SAF 22 Pathology Society
+DC 14 Pharmacology
+DC 15 Philosophy Soc
+BQ 39 Photographic
+MEF 16 Physics
+QL 16 Pilots
+M 9 Pint of Science
+JCR 13 Poker
+AS 20 Pole and Aerial
+GH 38 Polish
+GH 39 Portuguese Speaking
+SAF 23 Pre-Hospital Emergency Medicine
+UDH 16 Project Nepal
+SAF 24 Psychiatry
+GH 5 Punjabi
+JCR 23 Quiz
+CP 5 Racing
+SAF 26 Radiology Society
+BQ 43 RAG
+SAF 1 RAG (Medics)
+CP 6 Rail and Transport Society
+UDH 12 Raincatcher Imperial
+CP 1 RCS Motor Club
+MEF 20 Real Ale
+CP 4 Red Bull
+M 10 RED Project Borneo
+QL 10 Riding & Polo
+BQ 15 Rifle & Pistol
+SAF 1 Right to Play
+M 12 Robogals
+MEF 22 Robotics
+UCH 2 Rock and Metal
+GH 40 Romanian
+BQ 7 Rotaract
+QL 11 Rounders
+MEF 24 Royal College of Science Union
+MEF 25 Royal School of Mines Union
+CP 7 RSM Motor Club
+QL 5 Rugby
+CP 11 Rugby (CGCU)
+QL 39 Rugby (Medics)
+CP 10 Rugby (RSM)
+QL 32 Rugby League
+GH 41 Russian Speaking
+BQ 22 Sailing
+GH 44 Saudi
+BQ 25 Save the Children
+GH 45 Scandinavian
+BQ 40 Sci Fi
+M 13 Scout and Guide Association
+AS 13 Shaolin Kung Fu
+AS 10 Shorinji Kempo
+ICME 18 Sikh
+UCH 12 Sinfonietta
+GH 46 Singapore
+BQ 8 Skate
+QL 27 Skydiving
+BQ 9 Snooker & Pool
+QL 17 Snowsports
+SAF 41 Society of Research and Academia
+M 11 Soup Run
+JCR 2 _Software
+GH 47 Spanish
+DC 16 Speakers
+QL 37 Sport Imperial
+QL 29 Squash
+SAF 25 Squash (Medics)
+GH 48 Sri-Lankan
+JCR 14 Starcraft
+UCH 13 String Ensemble
+UDH 17 Student Action for Refugees
+BQ 30 Student Development
+MEF 10 Students for the Exploration and
+Development of Space
+BQ 27 Surfing
+SAF 36 Surgical Soc
+QL 13 Swim/Waterpolo
+QL 12 Synchronized Swimming
+BQ 12 Table Football
+QL 33 Table Tennis
+JCR 8 Tabletop Gaming
+AS 11 Tae Kwon Do
+GH 49 Taiwan
+ICME 19 Tandem
+JCR 4 Tea Society
+M 14 TEAM Students
+SAF 40 TeddyBear Hospital
+M 15 TedX
+QL 46 Tennis (Medics)
+GH 50 Thai
+QL 14 Triathlon
+GH 51 Turkish
+QL 34 Ultimate Frisbee
+QL 53 Underwater
+UDH 5 UNICEF
+DC 7 VegSoc
+MEF 3 Vehicle Design
+M 3 Vision
+QL 19 Volleyball
+CP 3 VVMC
+BQ 24 Wakeboarding
+QL 49 Water Polo (Medics)
+SAF 19 Weights & Fitness (Medics)
+JCR 24 Wikipedia
+BQ 42 Wilderness Medicine
+UCH 9 Wind Band
+BQ 23 Windsurfing
+AS 12 Wing Chun
+M 16 Women in SET
+QL 21 Womens Football
+QL 4 Womens Rugby
+JCR 25 Writers’ Society
+AS 14 Wushu
+BQ 19 Yacht
+BQ 14 Yoga
+SAF 11 Yoga (Charing Cross)
+External Organisations
+QTR 21 Action Tutoring
+QTR 54 Acts London
+QTR 36 Al-Khair Foundation
+QTR 43 Alpha International - HTB
+QTR 32 Bright Network
+QTR 6 Campaign Against Living Miserably (CALM)
+QTR 48 Central London CCG
+QTR 10 Chinese Church in London
+QTR 59 Christ Church Kensington
+QTR 29 Christ Church Mayfair
+QTR 24 Credit Suisse
+QTR 45 Dice
+QTR 17 EdAid
+QTR 64 Endsleigh Insurance
+QTR 27 Eyeworks London
+QTR 55 Fresh Hairdressers
+QTR 18 Gideons International
+QTR 65 Gradcracker Ltd
+QTR 68 Gradlancer Ltd
+QTR 11 Graduate Jobs
+QTR 31 Graduate Prospects
+SF B Graduate Recruitment Bureau
+QTR 70 Here & Now
+CP A Hertz
+QTR 5 IAESTE, British council
+SF C Image Scotland
+QTR 39 IC Careers Service
+QTR 34 IC Clinical Research Facility
+QTR 8 IC Heart and Lung Institute
+QTR 7 IC NHS Neonatology
+QTR 23 IC Rectors Ambassadors Scheme
+QTR 69 IC Success Guide
+QTR 42 IntoUniversity
+QTR 36 LFKO Ltd
+QTR 28 London Business School
+QTR 47 London Farmers Market
+QTR 58 London Sinfonetta
+QTR 41 London Symphony Orchestra
+QTR 61 Lucozade
+SAF 30 Medical Protection Society
+QTR 16 Metropolitan Baptist Tabernacle
+QTR 52 Milkround
+QTR 40 Minted
+QTR 15 Nandos
+QTR 66 Notting Hill Community Church
+QTR 57 NHS Blood and Transplant blood bank
+QTR 6 Notting Hill Arts Club
+SF A Now TV
+QTR 62 Party Hype
+QL A Pepsi Max
+QTR 53 Pimlico Connections
+QTR 25 Prospect
+QTR 60 RMP
+QTR 56 Royal Albert Hall
+QTR 51 Royal Borough Kensington and Chelsea
+Council
+QTR 20 Santander
+QTR 14 Sesquis
+QTR 67 Shazam
+QTR 35 Soup Run
+QTR 63 Sta Travel
+QTR 19 St Andrews Church
+QTR 12 Studybuddy
+QTR 46 Target Jobs
+QTR 37 Teach First
+QTR 33 TfL
+QTR 30 Tutorfair
+QTR 38 Wagamama
+QTR 4 Westminster Chapel
+QTR 49 Would Love To Go
+QTR 3 University of London Officer Training Corps
+QTR 22 University of London Air Squadron
+QTR 2 University of London Royal Naval Unit
+QL B Virgin Media
+QTR 13 Yada app
+QTR 44 Zoological Society of London
+

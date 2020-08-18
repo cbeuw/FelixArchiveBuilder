@@ -1,0 +1,78 @@
+26 Games Felix • 8 November 1999
+Shadow Company (PC)
+S h a d o w C o m p a n y is a real time strategy g a m e a n d involves lots o f c r e e p -
+ing a b o u t battlefields in the d a r k , lots o f g u n s a n d a m m u n i t i o n a n d lots of
+killing. T h e player is p l a c e d in c h a r g e of a g r o u p of mercenaries a n d the
+g o a l is to c o m p l e t e your objectives a n d get out, hopefully without dying.
+There are m a n y aspects of this g a m e which I liked. T h e missions a r e c o m -
+pletely non-linear a n d the m a p s a r e very well d e s i g n e d . T h e player is
+completely free t o c h o o s e his o w n path to a c c o m p l i s h the mission. T h e
+e m p h a s i s is always o n using stealth a n d guile rather than firepower. In
+general the g a m e is very p l a y a b l e . H o w e v e r the g a m e is m a r r e d by a few
+p r o b l e m s which I'm sure m o r e extensive testing a n d quality control w o u l d
+have s o l v e d .
+For e x a m p l e , the g r a p h i c s a r e o n e of the best a n d most frustrating aspects
+of this g a m e . T h e scenarios take p l a c e o n very well rendered three d i m e n -
+sional l a n d s c a p e s . T h e player views t h r o u g h a c a m e r a which is free t o
+move anywhere o n the m a p . T h e battlefields a r e littered with b l o w n u p
+vehicles a n d destroyed buildings. H o w e v e r m o r e thought c o u l d have
+been put into the control of the player's c a m e r a . It c a n b e difficult to p o s i -
+tion it where y o u w a n t quickly. A n o t h e r a n n o y i n g feature is that the mer-
+cenaries c a n n o t b e told t o a u t o m a t i c a l l y pick u p the supplies left by the
+enemy. This allied with the difficult c a m e r a control m a k e s restocking your
+soldiers inventory difficult a n d time c o n s u m i n g .
+The g a m e a p p e a r s to have s o m e bugs in it, f o r e x a m p l e I e n c o u n t e r e d
+soldier's g r a p h i c s b e i n g o u t o f sync with their positions a n d o c c a s i o n a l
+p r o b l e m s with ladders a n d saving the g a m e . T h e e n e m y A l is also poor.
+The characters have a very limited r a n g e o f responses a n d even if y o u d o
+m a n a g e t o set the a l a r m bells ringing in the e n e m y c a m p , the characters
+merely ready their w e a p o n s a n d sit tight.
+S h a d o w C o m p a n y feels like a g a m e which is nearly finished; the g r a p h i c s
+are there a n d the g a m e is certainly p l a y a b l e . H o w e v e r a little m o r e time
+spent refining what is generally a g o o d g a m e c o u l d have turned it into a
+great o n e .
+G r a e m e
+In association with
+gameswire. com
+A WHOLE NEW WORLD
+Rogue Spear (PC)
+R o g u e Spear puts y o u in c h a r g e o f a crack anti-terrorist t e a m in the near
+future. T h e break u p of the Soviet b l o c k has led t o great instability in m u c h
+of the w o r l d , a n d t o t o p it off, s o m e nutcase h a s g o t h o l d of a nuke a n d
+isn't afraid t o u s e it. A s the missions progress the plot o f the g a m e is
+revealed until it b e c o m e s c l e a r only y o u c a n save the western w o r l d (The
+rest o f the w o r l d is already in pretty b a d s h a p e in this n e a r future....).
+W h e n R a i n b o w Six w a s r e l e a s e d , it w a s s o m e t h i n g of a novelty - a realis-
+tic first p e r s o n shooter, with a u n i q u e p l a n n i n g e l e m e n t that m a d e it a
+cerebral c h a l l e n g e . Since t h e n , the likes o f H i d d e n a n d D a n g e r o u s have
+i m p r o v e d c o n s i d e r a b l y o n R6's g r a p h i c s a n d e v e n m o v e d the p l a n n i n g in
+to real time, s o it's a b o u t time t o see w h a t Red Storm c a n d o t o get back
+o n top.
+R o g u e Spear's g r a p h i c s a r e certainly i m p r o v e d , a n d t h e level design is
+even m o r e imaginative than its predecessor, with o n e mission in the war-
+torn streets of K o s o v o b e i n g very reminiscent o f a recent S p e i l b e r g movie.
+If there w a s o n e a r e a that suggested itself f o r i m p r o v e m e n t however, it was
+the p l a n n i n g stage, a n d unfortunately this remains very similar. It's not pos-
+sible to c h a n g e a team's plan d u r i n g the g a m e , e v e n w h e n things a r e
+g o i n g diabolically, but m a y b e that's the point. T h e majority o f missions are
+hostage rescue o r b o m b defusal style, a n d I s u p p o s e y o u only get o n e g o
+at those. However, having t o click o n scroll a n d z o o m buttons t o navigate
+a r o u n d a n y r e a s o n a b l y sized m a p d u r i n g p l a n n i n g b e c o m e s tedious,
+t h o u g h it is necessary s h o u l d y o u c h o o s e not to a c c e p t the (often flawed)
+default p l a n . A m o r e intuitive m a p that c o u l d b e d r a g g e d a r o u n d its w i n -
+d o w w o u l d have m a d e a h u g e difference.
+A d d i t i o n a l features include the ability t o play e a c h mission in either "Lone
+Wolf" style o r "Terrorist Hunt" o n c e you've c o m p l e t e d it normally. Lone Wolf
+puts y o u in a D i e H a r d situation, w h e r e y o u simply have t o e s c a p e o n your
+o w n , a n d Terrorist Hunt takes o u t a n y hostages a n d puts in m o r e terrorists
+to give the g a m e a slightly m o r e a r c a d e feel. Terrorist H u n t is a l s o a v a i l -
+a b l e in multi player, which saves cursing w h e n y o u r mate uses a n unsi-
+lenced w e a p o n a n d all the hostages get w a s t e d .
+Flaws a s i d e , the p l a n n i n g e l e m e n t is still a vital a n d r e w a r d i n g part o f the
+g a m e (I love it w h e n a plan c o m e s together!). T h e a c t i o n is a l s o swift a n d
+s m o o t h as long a s y o u have a 3 D c a r d , a n d if y o u have the patience t o
+play it realistically rather than Q u a k e style, it's great f u n . Y o u d o have to
+play lots of missions over a n d over, but it takes less time than joining the
+SAS, a n d it's safer.
+G e f
+

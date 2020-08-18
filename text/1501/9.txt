@@ -1,0 +1,243 @@
+SCIENCE
+FELIX 9
+Friday 11 NOVEMBER 2011
+Physicists are proposing an experi-
+ment that will require the world’s most
+powerful laser. The Extreme Light
+Infrastructure (ELI) Ultra-High Field
+Facility is touted to produce a laser so
+powerful that it would be able to pull
+together the fabric of space, vacuums.
+A vacuum is generally believed to be
+a volume of space that contains no mat-
+ter. The gaseous pressure of a vacuum
+is typically much less than atmospheric
+pressure, leaving it essentially empty
+of matter. A perfect vacuum with no
+particles in it at all, however, is virtu-
+ally impossible to achieve in practice.
+Vacuums are said to be permeated
+with extremely small particles of mat-
+ter and antimatter known as ghost par-
+ticles, which are shrouded with mys-
+tery and pop in and out of existence
+so fast that no-one has been able to
+prove that they exist. The experiment
+involves combining ten lasers to gener-
+ate a super-laser which will then create
+an intense electrical field separating
+the ghost particles. This will prevent
+them from annihilating long enough to
+be detected.
+Scientists believe this will also allow
+them to gain further insight into extra
+dimensions. Professor John Collier,
+director of the Central Laser Facility
+at the Rutherford Appleton Labora-
+tory in Oxfordshire and a leader of the
+ELI project, said that “this laser will
+be 200 times more powerful than the
+most powerful lasers that currently ex-
+ist. At this kind of intensity we start
+to get into unexplored territory as it is
+an area of physics that we have never
+been before.”
+It is difficult to deny the existence of
+climate change when one points out the
+obvious effects it has already made on
+humanity. Coastal flooding, reduced
+rainfall in dry lands and water scarcity
+are common headlines in today’s news.
+Among the many effects that these phe-
+nomena may have, let us consider that
+of human migration.
+In recent times human migration has
+not been given the best of reputations,
+with various nations enforcing policies
+designed to prevent it. However, experts
+have dared to suggest that migration in the
+face of environmental change may offer
+opportunities as well as challenges.
+Many people across the globe already
+migrate for various reasons: to improve
+incomes, to escape persecution, to join
+family members, and to avoid environ-
+mental or other threats. Reports show
+that environmental factors are increas-
+ingly influencing migration. Moving to
+urban areas has become a common cop-
+ing strategy in the face of flooding in
+countries such as Bangladesh. However,
+it may not come as a surprise that not
+everyone is able to migrate due to socio-
+political or economical factors. Con-
+versely, it has also been found that peo-
+ple are as likely to migrate into places
+of environmental vulnerability as away
+from them. This decision is most often
+an ignorant one, where rapidly growing
+megacities that are considered areas of
+high flood risk, in coastal regions in Af-
+rica or Asia for example, continue to see
+new arrivals by the millions.
+It is obvious that there are many in-
+terlinked factors involved in the move-
+ment of people across the globe. The
+point that academics are trying to stress
+is that migration may be the best plan
+of action for many people in the face
+of environmental change that threatens
+their livelihoods. To aide these attempts
+at survival it is necessary that countries
+acknowledge this fact and remove re-
+strictions on movement as well as help
+build channels for it.
+International policy makers should
+consider mechanisms for funding adap-
+tion to climate change through migra-
+tion. Particular focus should be made
+to populations in low-income countries
+that are moving to or are trapped in
+urban areas that are vulnerable to en-
+vironmental change. These priorities
+should be integrated in current plans for
+sustainable urbanisation, climate-smart
+development, conflict resolution and
+emergency preparedness. In addition,
+experts highlight a need for flood-con-
+trol, water management, forecasting and
+warning capacities for growing urban
+populations. Other suggestions include
+the appointment of migrant communi-
+ties to demographic deficits and labour
+shortages in potential host countries.
+A basic infrastructure is key to ease
+the relocation and settlement of these
+migrant populations in urban areas. As
+an increasing amount of attention is be-
+ing paid to humanity’s influence on the
+environment, we must take care to re-
+spond accordingly to the impact of envi-
+ronmental change on both migrant and
+non-migrant communities.
+DOI:10.1038/456877a
+Katherine Portilla
+Tearing apart the vacuum
+The reality of migration
+Computer imitates human brain
+Despite computer processors being able
+to operate at speeds of up to ten thou-
+sand billion (1013
+) bits per second they
+are outperformed in many tasks by the
+human brain, the neurons of which fire
+a mere thousand or so times a second.
+This is because modern machines are
+only cable of so-called ‘serial bit-pro-
+cessing’; meaning that calculations only
+occur one at a time. Each neuron in the
+brain, on the other hand, can communi-
+cate with up to a thousand others each
+time it fires, allowing for a great degree
+of parallel calculation.
+Last year, however, scientists from the
+Japanese National Institutes for Materi-
+als Science and ICT as well as Michigan
+Technological University brought us
+one step closer to creating a computer
+which replicates the functionality of the
+brain by laying down an array of three
+hundred 2,3-dichloro-5,6-dicyano-p-
+benzoquinone (DDQ) molecules on a
+gold substrate. Each molecule can ex-
+ist in any one of four electrically con-
+ducting states, which are initially set
+by applying a voltage using the tip of
+scanning tunnelling microscope, and
+can connect with up to six neighbouring
+molecules. In a recently published ar-
+ticle the team of scientists call this ‘one-
+to-many interaction at a time’ – similar
+to that found in neurons.
+The system therefore forms a Cel-
+lular Automaton, a concept developed
+by the famed mathematician John von
+Neumann. In this model each DDQ
+molecule is a ‘cell’ whose state changes
+with time depending on the states of
+neighbouring cells and based on a set
+of well-defined rules. This changing of
+states over time can be used to model
+mathematical problems. The team sum-
+marise the process by saying that the
+“300 molecules continuously exchange
+information among themselves to gen-
+erate the solution” to a question.
+The team has already been able to cre-
+ate an AND logic gate as well as model
+diffusion and the mutation of normal
+cells to cancer cells using their system.
+The teams says that they believe that
+a “generalization of [the Cellular Au-
+tomaton principles] would change the
+existing concept of static circuit-based
+electronics and open up a new vista of
+emergent computing using an assembly
+of molecules”.
+DOI: arXiv:1110.5844v1
+Maciej Matuszewski
+xxx
+Environmental factors such as drought are influencing migration
+Alexander Karapetian The laser’s intensity is equivalent to
+the power received by the Earth from
+the Sun focused onto a point smaller
+than the tip of a pin. At around 200
+petawatts of power, it will boast more
+than 100,000 times the power of the
+world’s combined electricity produc-
+tion for less than a trillionth of a sec-
+ond. The ELI Ultra-High Field laser is
+due to be completed at the end of the
+decade with a total cost of an estimat-
+ed £1 billion. The United Kingdom is
+among several countries hoping to host
+the laser.
+Plans to build three lasers to form
+part of the ELI project and serve as
+prototypes for the Ultra-High Field
+laser have been approved this year
+by the European Union. They will be
+based in the Czech Republic, Hungary
+and Romania. Each have a cost of ap-
+proximately £200 million and are due
+to become operational in 2015, with
+the final ten beams each being twice as
+powerful as these prototypes.
+The experiment, after pulling the an-
+nihilating particles apart long enough
+to be detected, may help explain the
+mystery of why the universe contains
+far more matter than antimatter. “We
+are taught to think of the vacuum as
+empty space, but it seems even a true
+vacuum is filled with pairs of mol-
+ecules that come into our universe for
+an extremely short time”, Professor
+Wolfgang Sandner, president of the
+German Physics Society commented.
+Dr Thomas Heinzl, a professor of
+theoretical physics at Plymouth Uni-
+versity, said that “ELI is going to take
+us into an uncharted regime of phys-
+ics” and that “there could well be sur-
+prises along the way.”
+“300 molecules con-
+tinuously exchange
+information among
+themselves to gener-
+ate the solution”
+of space
+The laser target chamber in the National Ignition Facility in California,
+US. It’s practically the inverse...
+Recycling steel and tin cans saves 74% of the energy used to make them – GREEN WEEK 2011. COMING SOON.
+

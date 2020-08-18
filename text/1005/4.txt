@@ -1,0 +1,154 @@
+N
+e
+w
+s Feature
+Whose Line is it Anyway?
+David Cohen dials the international connection on the new college phone syst
+The ten year old phone system installed in
+Imperial was showing signs of age. With the
+demand for more extensions constantly
+increasing, the only way of satisfying this
+seemingly insatiable hunger was by running
+small exchanges piggy-backed on two to three
+main lines, which act as splitting points so that
+more phone lines could be connected. This, for
+example, is what happened in Prince's
+Gardens: 4 lines ran from the Linstead
+exchange to College, so that only 4 calls could
+be directed outside of Prince's Gardens at any
+one time. These four lines served all the
+residents in Prince's Gardens, some 1000
+students in total!
+The new phone system project was
+conceived in December 1990. After filtering
+through layers of college administration and
+decision making, the project was finally
+adopted and the birth date of the new system
+was set: 25th June 1994.
+On this particular weekend an innocent,
+unsuspecting, student (lets call him Mr. Phi)
+decides to call Silwood Park (Imperial College's
+outer arm) for some friendly discourse. Mr Ph1
+dials the appropriate numbers: 72 (Evelyn
+Gardens to South Kensington) 4- 96 (South
+Kensington to Silwood) + the rest of tic
+extension. nrrri
+Whenyou put a new
+B ii t
+hark! What
+BT error
+m e s s a g e
+t h r o u g h
+y o n d e r
+h e a d - s e t
+breaks? It is
+"Your number has not been recognised" and
+hey presto, we have free phone calls! Only a
+student (See Pages 18-19 for a detailed
+analysis of the genre) would not pass up on
+telephone system in
+everybody is going to try
+and break it."
+such an opportunity. Needless to say, such
+news spreads amongst the impoverished, Tory
+stricken, student society like wild fire.
+The fault was reported to the College
+Telecommunications division and promptly
+rectified. But, rumour has it, many
+international phone calls were made in the
+short time that the fault existed —New
+Zealand and Singapore being amongst the
+destinations mentioned. When queried about
+this Alan Hillycr, Telecommunications
+Manager, said that he was unaware of any
+problems existing in the system; but
+acknowledged that such faults were a
+possibility. "At the moment, there is lots of extra
+programming going.on with this [national]
+"Phone-day". With all the national codes
+changing, Ericsson Ltd. [College phone
+contractors] have been doing a lot of extra
+programming, and it is quite possible that they
+could have changed something, without me
+knowing, that would have upset the dialling
+patterns."
+Other sources have revealed that there
+was apparently a similar problem inside the
+College network, on, and following, the BT
+"Phone-day". This saw the replacement of the
+010 international dialling code with the
+simplified 00, finally bringing
+Britain in line with the long
+standing international standard.
+A member of staff in the
+Computing Centre, told
+F E L I X that he discovered this
+problem on the 15th of August,
+and dutifully reported it on that
+day. Furthermore he claims to
+have had knowledge of people who made
+international calls, on phones which were not
+supposed to permit this service, seven weeks
+after he reported the fault.
+So how common is the awareness of the
+fault? Mr. Hillyer knew of a person in the
+Chemical Engineering department who had
+notified him of this problem. Sources in College
+have also informed F E L I X that a similar fault
+was being exploited in the Chemistry
+department. "I mean everybody is going to be
+trying it. When you put a new telephone
+system in everybody is going to try and break
+it. The old system, after 10 years, had had
+virtually all its holes plugged up, although if an
+occasional reconfiguration was made a door
+might still be accidently left open," says Mr
+Hillyer. "Of course in such situations College
+will have to foot the bill" . It's a bill which
+seems to be growing ever larger.
+This "back-door" syndrome seems to be
+a common ailment in large scale technological
+systems (Another example of which is the
+expanding global computer network, which
+seems to be taking on a life of its own). Of
+course when such a back-door is discovered it
+is more likely than not to be exploited before it
+is reported. Mr Hillyer reassured that "Procedures
+are in place for finding out things like that and
+who is responsible", but refused to elaborate on
+them.
+The new telephone exchange system is
+completely computer controlled. All the system
+parameters are changeable in software which is
+maintained by Ericssons — an authorised
+contractor and manufacturer. Problems seem
+to occasionally arise due to some side effects of
+the modifications made by Ericssons which
+effect the present, customised, configuration at
+IC. Because of the mode of operation, there is
+no single person in the position to be able to
+know everything about the entire system.
+Consequently its difficult to make sure that
+consistency is maintained in the system from
+modification to modification. Currently,
+though, it seems that all known loopholes have
+been detected and blocked. But, there is no
+guarantee that every possible dodge has been
+effectively barred. Some mention of "patches"
+in the system (quick fixes), which are used by
+engineers to quickly remedy local problems,
+Cast aspersions on the long term integrity of the
+system. The jinx has even reached as far as
+Beit Quad. Earlier on during the exchange
+reorganisation, F E L I X experienced some
+telephonic problems too. Yes, even the
+impenetrable walls of F E L I X T O W E R S
+where audaciously attacked.
+"It's all gone very smoothly", remarked
+Mr. Hillyer commenting on the new system
+installation, after considering all the problems
+encountered. But if anyone knows a cheap way
+of calling aunts in Australia , please contact the
+F E L I X office.
+l i M F E L I X 030CT9H
+

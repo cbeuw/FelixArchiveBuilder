@@ -1,0 +1,369 @@
+PAGE 12 PAGE 13
+felixonline.co.uk felixonline.co.uk
+THE STUDENT NEWSPAPER OF IMPERIAL COLLEGE LONDON FRIDAY 13th
+MAY 2016 FRIDAY 13th
+MAY 2016
+science.felix@imperial.ac.uk
+SCIENCE
+SCIENCE science.felix@imperial.ac.uk
+Science & the City
+W
+e’recaughtinanodd
+crux of perspectives
+on justifications
+for science and
+technology. There’s the age-old idea
+of fundamental research having
+inherent, non-monetary value
+as a social service - sort of like a
+library, providing building blocks
+of knowledge we can all draw from.
+Increasingly, however scientists are
+having to prove the financial value
+and the return-on-investment
+of their research in order to get
+funding, much the way someone
+getting a loan from a bank for, say, a
+start-up cupcake stand does. When
+you factor in the increasing amount
+of time scientists have to spend
+with their hats-in-hands writing
+grants, submitting proposals, – an
+incredible amount of our collective
+scientific brain capacity is spent
+thinking about how to acquire and
+justify sources of funding from
+drying wells. Skilled researchers and
+their teams spend countless days,
+months, even years pandering to
+administrative managers who often
+only see a chart of red lines that
+need to be converted to black.Many
+scientists claim upwards of 30% or
+greater of their time is now taken
+up simply finding funds. This also
+disproportionately affects younger
+researchers who can’t secure funding
+based on their ‘brand’ the way more
+established scientists can.
+Whether we can blame recent
+austerity measures, or reach further
+back and point at shifts like the rise
+of neoliberalism decades ago, we
+should regardless be considering the
+impact of having scientific research
+funding tightly intertwined with
+economic drivers and determinants.
+Some fields or areas of science may
+have obvious direct impacts that can
+Naomi Stewart
+Writer
+National Science Foundation, funding source for 24% of all research conducted
+by America’s universities and colleges which are federally supported. Photo
+Credit: Wikipedia
+beplacedinapre-determinedmatrix
+of financial value simply because of
+their practical applications in the
+economic market – say for instance,
+the development of a new type of
+rubber for tyres. But there is much
+research that has less clear and
+more indirect measurable economic
+impact. How do you calculate the
+return-on-investment for 30 years-
+worth of data on water levels in the
+Thames, or the discovery of a new
+species of moth in the Amazon?
+American physicist Richard
+Feynman once argued that the three
+primary values of science are: it
+enables us to do and make all kinds
+of things, it provides intellectual
+enjoyment in doing and thinking
+about it, and it teaches us to remain
+unsure and in doubt. So how sure
+are we that the pursuit of scientific
+knowledge needs to be constantly
+weighted against economic
+measures?
+Science, what’s good?
+Lef Apostolakis
+Science Editor
+O
+ut of 2,501 members
+of the British public
+recently surveyed by
+scientists from Cardiff
+University’s School of Psychology,
+only twenty percent were aware
+of ocean acidification. The study,
+published in the Nature Climate
+Change journal, is the first to assess
+public understanding of the issue.
+The study surveyed a representative
+sample of Britain, which is
+alarming. Dr Stuart Capstick says
+that although they didn’t expect to
+find high levels of public awareness,
+the extent of obliviousness amongst
+laymen was surprising. Things
+become meta now; when subjects
+became aware of the percentage of
+unawareness there was a jump in
+concern…which then subsided once
+ocean acidification was connected
+to climate change. Hm.
+Capstick et al. 2016 @ Nature
+Climate Change
+What ocean
+acidification?
+Scientists have developed and
+tested a biofeedback system that
+uses the plants’ physiological
+performance to regulate lighting.
+This new method may greatly
+reduce the energy cost of LED
+lighting, employed by controlled
+environment agriculture facilities,
+such as vertical farms. By measuring
+chlorophyll production and putting
+measurements through a datalogger,
+they estimated the electron transport
+rate, which is a photosynthesis
+indicator. This allowed them to
+determine exactly how much light
+the plants needed and modulate
+lighting accordingly. The datalogger
+in turn altered the duty cycle of the
+LED lighting source, optimizing
+the process.The biofeedback system
+can successfully maintain a wide
+range of ETR (photosynthesis)
+values in different species, as well as
+take into consideration light to heat
+conversions and chloroplast damage
+when making efficiency decisions.
+Van Irsel et al. 2016 @ J. Amer.
+Soc. Hort. Sc
+Biofeedbacked
+farming
+Inventing new materials with
+desired properties could become
+much faster and easier, using an
+information-based adaptive design
+strategy. As put by Turab Lookman,
+one of the scientists behind the
+new approach, “starting with a
+relatively small data set of well-
+controlled experiments,it is possible
+to iteratively guide subsequent
+experiments toward finding the
+material with the desired target”.
+The data-driven framework utilising
+machinelearningisaimingatcutting
+development time of new materials
+by half. Although the particular
+model developed by Lookman
+and his team at Los Alamos and
+the State Key Laboratory for
+Mechanical Behaviour of Materials
+in China had to narrow down its
+pool of combinations to nickel-
+titanium-based shape-memory
+alloys for the sake of simplicity, the
+system can be adapted to optimise
+desired manufacturing applications
+and properties.
+Xue et al. 2016 @ Nature
+Communications
+Churning out
+new materials
+Remember when earlier last year
+a paper came out highlighting a
+star which seemed to be blocked
+by a large number of irregular
+objects, suggesting the presence of
+alien megastructures? A number of
+studies have since been published
+for and against the Dyson sphere
+argument, the latest showing that
+prior evidence that proposed the
+star had experienced a dimming
+of twenty percent, was in fact a
+result of fading of the photographic
+glass plates that had been taken
+by Harvard astronomers between
+1885 and 1993. Still, even with
+the twenty percent dimming taken
+off the table, Tabby’s star remains
+highly mysterious. There still is no
+conclusive explanation as to why
+the star’s light curve is anomalous.
+Boyajian, the leading scientist
+behind this latest study investigating
+the mysterious star propose the
+fragmentation of a large comet into
+a swarm of smaller ones.
+Hippkeetal.2016 @Astrophysical
+Journal
+Aliens?
+Probably not
+The role of a long non coding
+RNA (lncRNA) sequence has been
+identified as protecting the unborn
+baby from invading pathogens.
+The new study published in
+Molecular and Cellular Biology, is
+the first to identify a lncRNA in
+the placenta involved in immune
+system regulation. LncRNAs are
+non protein-coding transcripts,
+longer than 200 nucleotides,
+involved in the regulation of gene
+expression. The study looked
+through existing data to identify
+molecules present at trophectoderm
+cells which give rise to the placenta,
+zeroing in on lncRHOXF1. After
+characterisation, in vitro modelling
+and identification of the location of
+its expression, they observed that
+altering expression levels, impacted
+expression of viral RNA, after
+infecting lncRHOXF1 blocked
+cells with Sendai virus. The team is
+interested in exploring applications
+of their findings to Zika control.
+Penkala et al. 2016 @ Molecular
+and Cellular Biology
+Placental RNA
+shield
+This week’s science picture
+Natasha Khaleeq
+Writer
+The Rhino, a powerful symbol for the world when it comes to the conservation of species. Photo Credit: Paul Hudson
+C
+onservationists have
+launched a worldwide
+campaign asking the
+public to help combat
+illegal wildlife trade. Despite efforts
+topreventthebillionpoundindustry,
+it continues to grow. A recent
+increase in poaching threatening
+species has raised concerns about
+the long-term survival of iconic
+animals such as elephants and
+rhinos.Shockingly,rhino horn today
+can reaches a price of £45704.47
+per kg – more than the price of
+gold. Crime prevention agencies
+compare criminals targeting wildlife
+to human traffickers. The illegal
+industry must be stopped. The
+Taronga Conservation Society in
+Australia developed a smartphone
+app called Wildlife Witness. It
+allows the public to submit images
+and data of suspicious items on
+sale in partnership with Traffic, the
+wildlife trade monitoring network.
+Originally the app’s focus was South
+East Asia, however Chester Zoo
+aims at raising awareness across
+Europe. San Diego Zoo will do
+the same in the US. This campaign
+allowspeopletotakeactionsoTraffic
+can identify trends in wildlife trade
+to influence enforcement policies.
+A
+t Sh!t Sc!ence,
+we like to defend
+research that may
+seem insignificant
+or futile. We believe that all
+research projects go through a
+complicated selection process
+during which a group of learned
+intellectuals congregate and
+decide what particular pieces of
+research need to be conducted
+in order to bridge our gaps in
+human knowledge. This week,
+insights on children - are they
+werewolves? Science has the
+answer!
+This is the questioned tackled
+by an extensive study published
+in Frontiers in Pediatrics.
+research aimed to determine
+whether the phase of the moon
+MARIANNE GUENOT
+Sh!t Sc!ence
+Scientists ask if children are werewolves, conclude they’re not
+has an influence on the sleep cycle
+of children. Regardless of whether
+you’ve used the moon’s phases as
+an excuse for your behaviour, there
+is no scientific evidence to support
+the idea that the full moon drive us
+crazy,not even a little. That was until
+a team of top scientists decided to
+revisit this outdated notion.To avoid
+any social,economic or geographical
+biases, they recorded sleep patterns
+of 5814 children, in twelve different
+countries, spanning five continents,
+for 28 months. This resulted in
+a whopping 33,710 recordings
+captured by accelerometers strapped
+to the children’s chests for the whole
+time.
+By cross-referencing these
+readings to the phase of the moon,
+the scientists came to the following
+staggering conclusion (drumroll
+please): The full moon alters sleep
+patterns in about 1% of cases. Lead
+scientist Dr. Jean-Philippe Chaput,
+from the Eastern Ontario Research
+Institute said, “Overall, I think we
+should not be worried about the full
+moon. Our behaviours are largely
+influenced by many other factors
+like genes, education, income and
+psychosocial aspects rather than
+by gravitational forces.” Cue sad
+pacman sound of defeat.
+This rather anticlimactic result
+does actually shed some light on
+an important phenomenon. In
+the recent years, there has been
+increased attention to what is called
+the circadian clock. This internal
+‘clock’ regulates how our body
+reacts at different times of the day,
+regulating functions such as
+hormone production, body
+temperature and brain wave
+activity. This clock reacts to
+external cues such as exposure
+to light and temperature, and
+a more subtle understanding
+of circadian rhythms has
+allowed us, for instance, to
+synchronise drug delivery with
+the circadian clock and increase
+drug efficiency and reduce
+toxicity. As some animals have
+been known to have an internal
+clock which follows the lunar
+cycle, it is not unreasonable
+to evaluate whether humans
+could be affected by the phases
+of the moon, and this research
+helps us close the door on that
+possibility.
+God dammit there’s a full moon again
+Photo Simon Thomas
+

@@ -1,0 +1,297 @@
+Science
+is extremely tedious. By feeding the
+image of a bolt into a trained
+network one has a reliable quality
+control system (which is now used
+by G e n e r a l M o t o r s ) . .Voice
+controlled machines are in the
+development stage, but even now
+some are 100% efficient.
+A n interesting way around the
+problem of a noisy environment has
+been found at the Royal Signals and
+Radar Establishment in Malvern. A n
+image of the mouth is input with the
+sound of a voice so that the network
+has more clues as to what is being
+said. The network soon learns that
+for the letter 'e' a speaker will show
+their teeth, or the shape of the
+mouth for the letter 'o'. There are
+also many military applications. For
+example, one can train a net to
+recognise a fighter aircraft and
+distinguish it from civilian aircraft or
+other friendly aircraft, as shown
+below.
+Computer Models
+Before being built in hardware
+networks are tested in computer
+simulations. Computer models
+consist of a set of neuron-like units
+which are connected to each other.
+Each unit can be either on or off. In
+a network, a neuron 'listens' to its
+neighbours, and decides whether to
+switch on or off from What it hears.
+For example, imagine you are a
+neuron and lots of your neighbours
+are telling you to switch on and only
+a few are telling you to switch off;
+you w o u l d s w i t c h o n . Some
+neurons are more influential than
+others, and this is accounted for by
+having a number to represent their
+persuasiveness.
+There are a huge number of
+computer-simulated models in the
+literature, but most are variations on
+two themes. The most popular
+model at the moment for practical
+applications is called the error back-
+propagation model, but another
+interesting model has been created
+recently by John Hopfield.
+Error Back-Propagation
+This type of network is based on
+a layered structure with data
+passing from one layer to the next.
+Each unit in the input layer is
+connected to each unit in the inner
+layer, and each unit in the inner
+layer is connected to each unit in the
+output layer.
+Learning is a matter of changing
+the connections of the network so
+as to map each input pattern to the
+correct output pattern, and so each
+type of network has its o w n
+'learning rule' describing how to
+change the connection strengths.
+Let us imagine that the network is
+being trained to recognise faces. In
+this case the input layer would
+consist of the pixels making up the
+digitised image of a face. One would
+build up a large body of training
+material consisting of digitised
+pictures and the correct answers as
+to who was depicted in the picture.
+A long standing problem was
+finding the learning rule for inner
+units since we, as the trainers, of
+networks, only know the desired
+output values. This problem was
+solved by Rumelhart in 1986 by
+using separate learning rules for
+output units and inner units.
+Training
+The training data is compiled first
+of all. For a face recogniser this
+would contain a few thousand
+photographs of, say, ten people
+taken in different lighting conditions
+and angles w i t h different
+expressions. With each picture one
+has to have the correct answer ie.
+'this is Bill Goodwin'. The following
+procedure is then followed.
+1. From the training data feed in
+activities coding for the picture of a
+face into the input layer.
+2. Calculate activity of inner layer
+from the activity of the input layer.
+3. Calculate activity of output layer
+from the activity of the inner layer.
+4. For each unit in the output layer
+compare actual activity with desired
+(or target) activity.
+5. Change output to inner layer
+connections according to
+Rumelhart's rule for output to inner
+layer connections.
+6. By feeding back the change in
+weights to the output units, change
+the input to inner layer connections.
+7. Repeat 1-6 until the network
+recognises the training corpus
+pictures correctly. The network is
+now trained!
+It is interesting that networks can
+generalise what they have learnt. If
+the network is now shown a picture
+of one of the ten people which was
+it has not seen before (even if the
+person is disguised) the net may still
+recognise them.
+The problem with error back-
+propagation is that training can be
+slow. For tasks in which the
+environment stays fixed, such as a
+factory floor, this presents no
+problem once the network has been
+trained. But in the battlefield if a
+new enemy tank was built, for
+example, the net would have to be
+completely retrained from scratch -
+a process which may take a few
+hours.
+Hopfield Networks
+Hopfield is a physicist who lives
+in California and wears shorts. His
+nets are based on physical ideas and
+designed with electronics in mind.
+Their architecture is not feed-
+forward like Rumelhart's, instead
+they consist of a set of fully
+connected units. This means that
+every neuron (or amplifier in
+electronic language) is connected to
+every other neuron in the net. Each
+neuron is rather like a proposition,
+such as 'It is raining'. If the 'raining'
+neuron is on then the 'sunshine'
+neuron must be off, so that a
+negative connection would exist
+between rain and sunshine.
+The network is programmed by
+specifying the connection strengths
+between the units. The net starts off
+in a random state and changes to a
+state which represents its answer.
+For example, imagine a simple net
+to recognise animals. There might
+be neurons representing furriness,
+cuddliness, and scaliness. If we start
+the system off with the furry, cuddly
+neurons active then the net will
+recognise some furry, cuddly animal
+such as a kitten. It would not go into
+a state representing a scaly animal,
+such as a snake, because the scaly
+neurons would be inhibited by the
+furry, cuddly neurons.
+One can compare the process of
+recognition to a ball rolling d o w n a
+hill. The ball moves to a valley and
+stops where its potential energy is
+a minimum. Instead of being in
+normal space the net's state is a
+point in an N-dimensional space
+with one dimension for each
+neuron. The network starts off at
+some point in the N-space and
+moves in the direction which
+decreases its 'energy' until it reaches
+a local m i n i m u m a n d stops
+changing state. In this way one can
+encode a problem into the network
+so that its 'energy' minima occur at
+points in the space w h i c h
+correspond to solutions of the
+problem. The network will settle
+into these m i n i m a , a n d the
+network's answer is decoded from
+this final state.
+Many problems in robotics and
+Artificial Intelligence (AI) are
+optimization problems such as
+walking through a crowd as quickly
+as possible whilst bumping into as
+few people as possible.
+O p t i m i z a t i o n problems are
+problems in which one can define
+an energy w h i c h has to be
+minimised. To give an example, you
+probably solve an optimization
+problem in tutorials: ' H o w can I get
+away with doing as little work as
+possible?' Here the 'energy' would
+be the amount of work you have to
+do, and it is this which must be
+minimised. In a 1985 paper Hopfield
+describes a ' network which can
+converge on a solution to the
+travelling salesman problem (TSP)
+very rapidly. Although the TSP is
+not very" important in AI it is useful
+in showing the general method for
+setting up a net to solve an
+optimization problem.
+In the TSP one has a set of cities
+which must each be visited once in
+a tour, and the problem is to find the
+shortest path which accomplishes
+this. One way of solving the
+problem is to do an exhaustive
+search of all possible paths, but this
+is an immensely lengthy process.
+The Hopfield net, on the other hand
+does not necessarily find the
+shortest tour but it does find a very
+short tour, and it does so in a very
+short time (a few hundredths of a
+second).
+This is encoded by simply creating
+an N by N array of neurons. Each
+unit represents a city and its
+position i n the tour. The
+connections are set up so that each
+neuron inhibits other neurons in its
+row and column, so that the energy
+minima will code for matrices with
+each city visited only once. The
+distance of the tour is added to the
+energy so that only short paths are
+allowed as solutions.
+The network fares very well
+compared to standard algorithms in
+terms of the length of tour and
+computing time. A n electronic
+circuit can be very easily
+constructed, and more complex
+problems of more use in robotics
+could be built based on this simple
+circuit. Hopfield networks have now
+been built w h i c h solve time-
+dependent problems such as the
+recognition of sequences of
+patterns. This has been done by
+introducing communication delays
+between neurons; this makes the
+energy surface change with respect
+to time creating new valleys which
+lead from one stable state to
+another.
+The Future
+Neural nets will never replace
+computers, but instead w i l l
+complement them, filling the niches
+that standard sequential
+programming cannot. Very few
+practical applications have been
+developed commercially yet, but in
+time this will certainly change.
+Judging from the amount being
+spent on research and development
+in the field of neural nets people
+seem to have realised their
+importance. These rather strange
+'computers', built in our o w n
+image, may give computers a more
+human face. If computers could
+listen to and 'understand' human
+speech, and even reply to it,
+computers could really become user
+friendly. They share our human
+foibles, such as the tendency to
+make mistakes and a' same time
+have all that is bes1
+he human
+m i n d like its parallel and highly
+interconnected architecture. If
+machines are ever to take over the
+world, these are the best candidates.
+by Ramin Nakisa
+February 3 1989 FELIX Page 11
+

@@ -1,0 +1,236 @@
+14 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+28.11.2014
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Sleep isn't as simple as this mouse makes it look. Photo: Shutterstock
+Having Trouble Sleeping?
+Utsav Radia reports on Imperial’s research into getting a good nights sleep
+First baby has been born after womb transplant
+"Previously
+sleep was
+thought to
+be a very
+passive
+state."
+In the UK, 1 in 4 people suffer
+from some form of sleep disorder
+resulting in excessive daytime
+sleepiness. Researchers at Imperial
+College London, led by Professors
+William Wisden and Nicholas Franks
+of the Department of Life Sciences
+and Dr Mick Hastings’ group at
+the MRC Laboratory of Molecular
+Biology in Cambridge, have shined
+new light on exactly how the body
+controls when you wake up and when
+you fall asleep (the circadian rhythm).
+The human circadian system
+regulates the rhythm of the human
+body by establishing normal
+sleep and wake phases. During the
+transition from wakefulness to
+sleep, the brain gradually becomes
+less responsive to visual, auditory
+and other environmental stimuli
+and relatively more responsive to
+internal stimuli. We now understand
+this transition better in terms of
+the stages of sleep – stage I being
+the most superficial and stage IV
+requiring the most stimulation to
+wake an individual; REM (rapid eye
+movement) sleep is either considered
+separately or as stage V sleep.
+Previously, sleep was thought
+to be a very passive state of
+unconsciousness with decreased body
+(especially brain) activity. Nowadays
+we know that sleep serves a variety
+of functions: from restoration and
+recovery, to energy conservation,
+metabolic replenishment of the brain
+and even memory!
+A ‘master clock’ found in
+the hypothalamus called the
+suprachiasmatic nucleus (SCN) is
+believed to be centrally involved
+in synchronising many other ‘local
+clocks’ that collectively modulate
+our body’s state of activity. However,
+until now, we were not able to
+demonstrate the effects of these ‘local
+clocks’ in the brain or explain the
+mechanisms by which they influence
+various areas.
+In this experimental study on mice,
+the contribution of one putative
+‘local clock’ in histaminergic neurons
+in the tuberomamillary nucleus
+(TMN; lies outside the SCN) to the
+regulation of the sleep-wake cycle was
+tested. The underlying hypothesis
+of this study was that histaminergic
+neurones in the hypothalamus are
+silent during sleep (i.e. they release
+no histamine) and only start firing
+after the onset of wakefulness. The
+subsequently released histamine,
+made by the enzyme histidine
+decarboxylase (HDC), enhances
+wakefulness by acting on areas of the
+cerebral cortex.
+The scientists selectively deleted a
+well known ‘clock gene’ called Bmal1
+from histaminergic cells in mice and
+found that this led to higher levels of
+HDC expression and subsequently
+higher brain histamine levels
+during the day. As a result of this,
+the test mice had more fragmented
+and shallower sleep, prolonged
+wakefulness, hindered recovery after
+sleep deprivation and even impaired
+memory.
+The researchers used
+electroencephalography (EEG)
+analysis to compare the levels of
+brain activity during the sleep-wake
+cycles in control mice (i.e. those with
+the Bmal1 gene in the TMN) with
+those mice bred with the gene deleted
+(test mice).
+Wakefulness and recovery from
+sleep was assessed by placing pieces of
+paper and plastic tubes in the mice’s
+chamber to discourage sleep. It was
+found that after 5 hours of sleep-
+deprivation, the control mice had an
+average of 6 hours more sleep than
+the test mice. Memory was assessed
+by observing the ability of the control
+and test mice to recognise two
+previously familiarised objects after
+a fixed period of sleep deprivation
+and a period of recovery. For both
+groups of mice, sleep deprivation
+impaired performance in recognizing
+the objects; however, the test mice
+performed worse and explored all the
+In early September this year,a
+36 year old woman made history
+by giving birth to the world’s
+irst womb-transplant baby.Ab-
+solute uterine factor infertility,
+caused by either an abnormal
+or absent uterus,is considered
+the only untreatable type of
+female infertility.It affects many
+women throughout the world,
+some of whom have resorted
+to other motherhood options
+such as surrogacy and adoption.
+Several uterus transplantations
+have previously been attempted
+but no live births have been
+reported until recently,as part
+of a groundbreaking clinical trial
+led by Dr Matt Brannstrom of
+the University of Gothernburg.
+It has taken more than a decade
+of intensive animal research by the
+team of scientists before achieving
+this goal.
+The Swedish woman was 15 when
+she was told that she would never
+bear children of her own after being
+diagnosed with Rokitansky syn-
+drome,a congenital absence of the
+uterus.The woman received the
+uterus from a 61-year-old family
+friend,and after in-vitro fertilisation
+(IVF) treatment with her partner she
+underwent a single embryo transfer
+a year after the surgery.
+Vincent was delivered prema-
+turely at 31 weeks,He is normal and
+healthy,much to the delight of his
+parents and the research team.
+Before this case became a proof-
+of-concept for uterus transplanta-
+tion as a treatment method for
+absolute uterine factor infertility,
+there were doubts as to whether a
+transplanted uterus could provide
+nourishment to the foetus,and
+whether a post-menopausal womb
+wowuld even work.Eight other
+women are currently involved in
+the transplantation trial and the
+research team has recently an-
+nounced that two more women are
+pregnant having undergone the
+same procedure.
+Scientists have to consider the
+ethical caveats that surround such
+research,which has been described
+as one that requires“greater ethi-
+cal justiication than other organ
+transplants”.Critics have questioned
+whether the operation would be a
+realistic option since it only seeks to
+improve one’s quality of life rather
+than being life-saving,yet it is
+costly and fraught with many
+health risks.However,advocates
+believe it helps women to fulil
+personal dreams of having a child
+and developing a maternal bond
+which could be missing from other
+options,namely surrogacy.
+This live birth has opened up
+the possibility for treating women
+with absolute uterine factor infer-
+tility and is a reflection of the long
+and challenging journey taken
+by Dr.Brannstrom and his team.
+“I want people to know that what
+they think is impossible can hap-
+pen,”said the new mother who
+hopes that other women will be
+encouraged and can tell the same
+story in the future.
+KAY YI CHONG
+objects equally.
+Dr Xiao Yu of Imperial College
+London, lead author of the study,
+expressed how “exciting [it is] to find
+significant evidence of a local body
+clock. Now we know that the master
+clock is not working alone, but relies
+on lots of helpers to wake up our
+whole body”.
+Furthermore, the next steps are
+to investigate if there is a direct
+link between the SCN and other
+‘local clocks’ to decipher how sleep-
+wake messages are interchanged.
+Nonetheless, this study has helped
+us to establish a platform to better
+understand how circadian control
+may be occurring in humans.
+Hopefully, we are not far from
+translating this understanding
+into tangible benefits for patients
+suffering from sleep disorders.
+It's a boy! Baby Vincent
+Photo: TheGuardian
+"Scientists
+selectively
+deleted a
+well-known
+'clock gene'
+called
+Bmal1."
+

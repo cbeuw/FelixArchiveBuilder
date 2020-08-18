@@ -1,0 +1,172 @@
+There is a very large branch of puzzles which
+up to now has been totally ignored in this
+column, which is a great pity since it includes
+many of my favourites. I a m referring to
+manipulative puzzles, the type where you have
+to remove a string from a wire shape, or slide a
+wooden bead along a cord, or dismantle and
+reassemble a set of w o o d e n b l o c k s . F o r
+obvious reasons it is quite difficult for me to set
+a puzzle of this type as a prize puzzle, but a
+few weeks ago someone showed me an idea
+which enables me to set a manipulative puzzle
+using nothing more than a rectangular sheet of
+paper.
+1. Obtain from somewhere an ordinary
+sheet of paper. The size and quality are
+unimportant, but it must be rectangular. If you
+are reading this at 9:30 on Friday morning, you
+could while away a boring lecture (and annoy
+the lecturer) by using a sheet from your
+notepad. O r you could try the puzzle in any
+other situation where there is a plentiful supply
+of rectangular sheets of paper. Anyhow, take
+the sheet, fold it in half, score the crease
+heavily, and unfold again.
+2. Fold it in half the other way, then in half
+again. Once more score the creases heavily,
+and open the sheet out flat. Four creases
+s h o u l d n o w d i v i d e the p a p e r i n t o eight
+congruent rectangles.
+3. Number the rectangles as shown in the
+figure.
+1 2 3 4
+5 6 7 8
+Easter
+A r e m i n d e r of the benefits w h i c h some
+students may be entitled to apply for this
+Easter vacation, especially those paying rent.
+For a more detailed description call in at
+Student Services, 15 Princes Gardens for our
+h a n d o u t sheet a n d i n d i v i d u a l a d v i c e if
+required.
+Unemployment Benefit
+This can be claimed if you are available for
+work during the vacation and have earned at
+least £1,350 between April 1980 to April 1981,
+or £975 between April 1979 to April 1980.
+A n y o n e w h o qualifies will receive £25pw
+provided they 'sign on' the first week day of the
+vacation and when required thereafter.
+Supplementary Benefit
+Any student who pays rent over the vacation
+and can 'sign on' at the D H S S office in the area
+4. Turn the paper over, and number the
+reverse of the rectangles so that each has the
+same number on both sides.
+5. Without tearing the paper, fold it along the
+creases so that the rectangles lie on top of each
+other in the order 1 5 6 4 8 7 3 2.
+6. Send the thing to me at the F E L I X Office,
+together with comments and criticisms.
+£5 (donated by Mend-aBike) for the correct
+solution randomly selected at 1:00pm next
+Wednesday.
+Last Week's Solution
+Eight is the smallest number of triangles (see
+diagram). Andrew Powell, Physics 2, was the
+only person to find this.
+Previous Week's Solution
+The problem, you will recall, was to find which
+of twelve coins was of different weight from the
+others using three weighings to be determined
+Benefits
+where the accommodation is, should be able
+to claim part or all of their rent back since this
+expenditure is not allowed for in the vacation
+element of the grant and effectively reduces a
+student's income to below subsistence level
+during this period. It is important to go to the
+J o b C e n t r e early on the first day of the
+vacation in order to get the full entitlement.
+Rent Allowances and Rate Rebates
+If you are paying rent and will be going home
+for the whole of the Easter vacation this may
+be the only benefit available to you. It can be
+applied for at any time from the Town Hall for
+the area where you are paying rent. Normally
+they will assess you on the basis of your
+termtime income (£54pw) and it will be up to
+you to contact them after the vacation to re-
+assess it on your income for that period
+(£21.50).
+FELIX, March 19, 1982
+before the results of any of the weighings are
+known. I am grateful to Andy Strangeways for
+the following mnemonic for the solution. Letter
+the coins with the letters of the phrase F A M
+N O T L I C K E D . Then the phrase M A D O L I K E
+M E T O FIND F A K E C O I N tells you to weigh
+M A D O against LIKE, M E T O against F I N D
+and F A K E against C O I N . These weighings will
+always determine the fake.
+...And The Week Before...
+This caused so much confusion that I shall give
+both the right way and the wrong way to do it.
+First, the wrong way. From Amble's last
+statement, we get B - A - 2 C - D is greater
+than or equal to zero. We know A . B . C . D
+equals 270 (=2.3.3.3.5) and since A is the
+smallest of the four, A is 2 or 3. The case A=3 is
+easily eliminated, leaving A=2, C=D=3 and
+B=15.
+The right way takes into account the fact
+that 1 is also a factor of 270. Amble told the
+C a p t a i n that everyone w h o a t t e n d e d the
+display visited just one of the four stalls, from
+w h i c h the C a p t a i n c o u l d d e d u c e t h a t
+A+B+C+D=K for some value K w h i c h he
+knows (but we don't). A n d this was not
+enough for the Captain to work out the values
+of A , B, C, and D. So K has a value which
+makes the simultaneous equations
+A+B+C+D=K
+A . B . C . D = 270
+have more than one solution. There are four
+such values:
+1+1+15+18 = 35 = 1+2+5+27
+1+2+9+15 = 27 = 1+3+5+18
+1+3+9+10 = 23 = 2+3+3+15
+2+3+5+9 = 19 = 3+3+3+10
+Amble's additional information enables the
+Captain to work out the correct numbers as 2,
+3, 3, and 15.
+...And Ages Ago
+Finally, there were several misprints in Zar
+Amrolia's solution to the piano moving puzzle
+in the Christmas FELIX. The correct solution
+goes: U U , left timp U , other timp R, D L L ,
+t i m p U one u n i t , R D R ( U L ) U L ( L D )
+D R R U U L L D (DR) R R D L L U U R D R U L U (RU)
+L D D R D L (UL) U U R (RD) D (DR) R U L D , D
+one unit, L , music stands U , music stands U ,
+R, lower timp D , grand piano R, D L L L L U R D D
+R U (LU) U L L D R R U (UL) L.
+When claiming S B and R & R rebates the
+following information will normally be needed:
+proof of rent payable (letters can be obtained
+from Student Services for those in the Head
+Tenancies), copy of grant allocation, recent
+bank statement, plus any documents relating
+to other income or investments. If heating and
+hot water is included in your rent this reduces
+the amount eligible for a refund by about £6pw,
+unless you can get some form of documentary
+evidence that it is less (we can provide this for
+claimants living in Halls and Houses).
+Dental charges go up again on April 1, so it
+might be worth getting an appointment in
+before that date if you are over 19. However,
+during the vacation it should be possible for
+most students to get a refund, while those on
+Supplementary Benefit are automatically
+exempt (ask for the exemption certificate
+while you're at the D H S S office). If you have a
+rent committement of around £25pw it may
+also be possible to claim back charges during
+termtime. D H S S leaflets on N H S dental
+treatment, medical treatment during visits
+a b r o a d , a n d benefits in g e n e r a l c a n be
+obtained from the Student Services Office.
+Page 7
+

@@ -1,0 +1,186 @@
+SCIENCE
+FELIX Friday 25 may 2012 11
+The decline of British bee power
+P
+esticides may be the bees
+knees when it comes to pro-
+tecting crops, but research-
+ers from the UK and France
+have shown that exposure
+to one common pesticide leads to a dra-
+matic loss to the number of queen bees,
+and another pesticide affects foragers’
+ability to find their way back to the
+hive. The new findings might go some
+way to explaining recent decline in bee
+numbers.
+Scientists at the University of Stir-
+ling and the Lancaster Environment
+Centre, both in the UK, exposed colo-
+nies of bumble bees to realistic levels
+of imidacloprid, a pesticide chemical-
+ly related to nicotine, in the lab. They
+then placed the colonies into the field
+to forage on gardens, wildflowers and
+a variety of crops, and watched as the
+colonies that had been exposed to the
+pesticide suffered an 85% reduction in
+the number of new queens compared
+to colonies that were not exposed. The
+exposed bees also gathered less food
+and produced less workers, but it was
+the drop in queens that was most dra-
+matic. The findings were published in
+the journal Science.
+A meta-analysis published last year
+showed that imidacloprid was not lethal
+to bees, but since then there has been
+growing evidence from laboratory trials
+that the pesticide does harm memory and
+navigation. This new research is the first
+time such an effect has been found in re-
+alistic conditions.
+A separate team of scientists from
+France found that bees exposed to low
+doses of a different pesticide, called thi-
+amethoxam and belonging to the same
+family as imidacloprid, had trouble
+finding their way home. The team glued
+tiny radio-frequency tags to the backs
+of 653 honey bees. Up to 43.2% of the
+bees given the pesticide did not return
+to their hive, depending on how far
+away from the hive they were released,
+compared with 16.9% of the untreated
+bees. The researchers say that this level
+of homing failure could put a colony at
+risk of collapse.
+The news comes five years after bee
+colonies in the US were devastated when
+they were hit by a strange condition
+called colony collapse disorder. Millions
+of bees vanished from their hives, leav-
+ing young bees to fend for themselves.
+The latest US Department of Agricul-
+ture data, released in 2011, suggests that
+colony collapse disorder is still alive and
+well – unlike the bees affected by it.
+Bees, along with other insects, pol-
+linate around one third of the crops we
+eat. But in the past 25 years honey bee
+numbers in the US and UK have suffered
+a drop of around 50%. The reason for the
+decline has been unclear, but pesticides,
+parasites and the destruction of flower-
+rich habitats are thought to be the key
+reasons.
+Several European countries have
+stopped using certain pesticides for fear
+of falling bee populations, but the UK is
+not among them. A spokesperson from
+the Department of Environment, Food
+and Rural Affairs told the Guardian that
+the new research did not change the gov-
+Science and the law have clashed
+again this week, and it seems that the
+US is adamant in attempting to in-
+hibit scientific advances yet again in
+the name of public safety. This time,
+it is the geneticists that are under
+pressure, as Californian senators are
+attempting to pass a bill that could
+hinder on-going research into genetic
+diseases.
+The bill, known as The Genetic
+Information Privacy Act, aims to in-
+troduce consent forms covering the
+explicit intended use of the genetic
+sample, which the person who is do-
+nating the material must then agree
+with. The bill also states that such
+genetic material must be destroyed
+after, and cannot be stored to be ac-
+cessed at a later date. Supporters for
+the bill are keen to point out that it
+doesn’t stop research, just adds a new
+bureaucratic component to protect
+personal information.
+With the National Human Genome
+Research Institute predicting that the
+cost of sequencing a genome is drop-
+ping at a greater than exponential
+rate, it is only a matter of time be-
+fore anyone can get their own DNA
+sequenced at a reasonable cost. It is
+with this increase in ease of access
+that concern arose into how such
+sensitive and personal information
+should be treated, triggering the new
+law.
+However, the proposed paperwork
+will cost researchers around half a
+million dollars annually, according
+to the University of California, not
+to mention the time delay it will un-
+doubtedly add to any sort of investi-
+gation in the future. This will espe-
+cially hinder key research into the
+genetic causes of diseases as they re-
+quire thousands of genomic samples
+at a time.
+This echoes the reasoning behind
+the significant delay seen earlier this
+month of the publication of a key vi-
+rology article detailing the artificial
+creation of an influenza strain. In that
+case, paper publication went ahead in
+Nature without consequence. Should
+this new bill be passed and then ig-
+nored, penalties will range from
+$1,000 to $10,000 depending on the
+circumstances.
+With many other states already
+putting into motion their own inter-
+pretation of bills concerning genetic
+research, it seems that this new ex-
+penditure is going to be an unavoid-
+able reality very soon. This highlights
+again the definitive need for some
+other mandate to form a bridge be-
+tween public safety and scientific ad-
+vances, so both can be satisfied with-
+out any detrimental effects to the two.
+Genetic
+privacy
+Philippa Skett
+Wildflower meadows are a bee’s favourite stomping ground, but 97% of them have been lost over the past 60 years, adding to the decline of bees
+Muhammad Mahdi Karim
+ernments position, but they would not
+hesitate to act if presented with any new
+evidence.
+Campaigns to encourage the growth of
+wildflower meadows – a bee’s favourite
+habitat – will go some way to encour-
+aging numbers to rise. But these stud-
+ies, and others, show that it is unlikely
+to be that simple. Identifying the cause
+of colony collapse is essential to protect
+food security, as well as the wild flowers
+that bees pollinate and the animals that
+depend on them.
+DOI: 10.1126/science.1215039
+DOI: 10.1126/science.1215025
+Kelly Oakes reports on a possible cause of falling bee numbers
+Bee decline: in numbers
+50%
+the drop in honey bee num-
+bers over the last 25 years
+2006
+collony collapse disorder first
+reported in the US
+£1.8 billion
+the amount it would cost per
+year to hand pollinate UK
+crops without bees
+Attaching an RFID tag to a bee
+

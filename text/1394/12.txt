@@ -1,0 +1,316 @@
+science.felix@imperial.ac.uk
+12 felix Friday 1 February 2008
+Science
+Science Editor – Ed Henley
+Varying alpha and the speed of light
+Physics met anarchy at João Magueijo's inaugural lecture, with inconstant constants and laws aplenty
+Brett Cherry
+The title, “Anarchy and Physical Laws”
+,certainly pulled them in: Blackett Lec-
+ture Theatre was packed last week,
+as the crowds turned up to hear João
+Magueijo, Professor of Theoretical
+Physics at Imperial College London
+and former Royal Society Research
+Fellow, give his inaugural lecture.
+Magueijo was talking about the ‘an-
+archistic’ idea that physical laws or
+constants could vary over time, and
+spent much of the lecture discussing
+the constant known as alpha. In phys-
+ics, alpha (α) symbolises the fine-struc-
+ture constant, a name which arose as it
+originally referred to the structure of
+atomic spectra – the set of electromag-
+netic frequencies emitted by atoms of a
+particular element.
+However, alpha is much more than
+this: it’s also one of the primary physi-
+cal constants that determines the na-
+ture of the universe. Alpha is essen-
+tially a 'pure' or dimensionless number,
+meaning it does not have units, but
+rather is a ratio of the square of the
+electron charge e with the product of
+the speed of light c and Planck's con-
+stant ħ. Magueijo explained how alpha
+is analogous to the well-known con-
+stant pi (π). Like alpha, pi itself does
+not consist of units, but is also a ratio
+of two different lengths: the circumfer-
+ence of a circle and its diameter. What
+Magueijo and other physicists have
+discovered is that alpha might vary
+over time.
+Experimental evidence mentioned by
+Magueijo comes from the University
+of New South Wales, where scientists
+observing light from distant quasars
+passing through clouds of interstel-
+lar gas, reported a variation in alpha,
+originating from billions of years ago.
+However, Magueijo doesn’t feel these
+recent astronomical observations
+in themselves will lead the scientific
+community to accept a varying alpha.
+“No one is ever going to believe those
+observations until they have a table
+top experiment.”
+Further experimental
+observations are need-
+ed to determine if al-
+pha varies, rather
+than remaining
+constant. If it
+is found that
+alpha does
+indeed vary
+that means
+one of its
+constants
+(which in-
+clude the
+speed of
+light) must
+give way. A
+“table-top”
+experimen-
+tal test of
+varying al-
+pha might be
+possible using
+using atomic
+clocks – if alpha
+doesvaryovertime
+small changes could
+potentially be detected
+over year-long experimental
+time periods.
+Since his inaugural lecture, Mague-
+ijo has moved into his new office in
+the theoretical physics department
+in the Huxley building and is tackling
+some of the biggest problems in phys-
+ics, such as how to reconcile quantum
+theory and gravity to get a theory of
+quantum gravity. How does he plan
+to do it? With new theories that have
+a varying speed of light, a sacred con-
+stant for most physicists. Having a var-
+ying speed of light doesn't necessarily
+undermine the foundations of modern
+physics as we know them today, but it
+does have fascinating consequences
+for how we understand fundamental
+physical laws.
+The Varying Speed of Light (VSL)
+theory which Magueijo is working on
+has recently has gained a greater level
+of acceptance within the scientific
+community than at its inception. It re-
+fers in fact to not one, but many similar
+theories that claim the speed of light in
+a vacuum is not always constant, but
+Magueijo doesn't discriminate – “I
+work on them all. I think it's too early
+to become attached to one, because we
+really don't know. I mean all of them
+could be completely wrong.” While
+VSL, like inflation, has still yet to be
+confirmed experimentally, it does pro-
+vide fascinating new cosmological
+interpretations that simply cannot be
+ignored.
+VSL theory was conceived partially
+in reaction to the dominant cosmolog-
+ical theory of cosmic inflation which
+claims that the universe underwent a
+phase of great expansion following the
+Big Bang. Today, astronomers cannot
+see any further than 15 billion light
+years – the cosmological horizon. But
+the question remains – how did the
+universe expand to its massive present
+extent? Inflation provides no direct
+answer to this question other than as-
+suming that when the big bang 'banged'
+the universe we live in today instantly
+expanded from a singularity of infinite
+density. VSL provides an alternative
+explanation of how the universe de-
+veloped after the Big Bang. According
+to VSL theory, the speed of light was
+initially up to 60 times faster than it is
+today. This means
+that infla-
+tion is no
+longer
+need-
+ed be-
+cause, if the
+speed of light
+at the beginning
+was much faster, it would
+bring all regions of the universe to-
+gether. As the universe expanded and
+cooled over time, the speed of light
+slowed down.
+When Magueijo first published his
+papers on VSL theory and varying al-
+pha the response from the scientific
+community was one of “bewilderment.”
+Many scientists simply did not know
+what to think – modifying the speed of
+light seemed like heresy if not lunacy.
+When the media first caught wind of
+how Magueijo's VSL theory violated
+Einstein's special theory of relativity,
+they called him the 'punk rocker' of
+physics. Who would come up with
+such a crazy idea? Well... for starters
+Einstein himself did back in 1911 by
+claiming gravity would slow down the
+speed of light. Paul Dirac in 1937 found
+that the force of gravity might also vary
+over time and was inter-
+ested in developing a new
+theory of quantum gravity
+from this observation. If these
+great scientific geniuses were
+interested in modifying physi-
+cal constants underlying modern
+physics, why do scientists cringe at
+the thought to- day? The an-
+swer is not a
+convenient
+one, for it has as
+much to
+do with
+sociology
+as physics.
+Magueijo
+does not
+see VSL as
+frightening or ‘anti-
+establishment’ as television and news-
+papers originally portrayed it to be –
+“This aura of throwing away Einstein
+was complete nonsense, but people
+took it that way, the interest now is
+a bit more genuine, more
+scientific than what it
+used to be.”
+Like many brilliant
+scientists, Magueijo is con-
+tinuing where Einstein left off.
+Ironically, that includes contradicting
+his theories. “Most of the things we do
+in theoretical physics is question Ein-
+stein, there's nothing special there, it's
+basically the evolution of science, it's
+No future for the 'punk-rocker' of physics? Hardly - Magueijo's got tenure now. But is he establishment then?
+just the way things work.” Einstein of
+course died while attempting to recon-
+cile his theories of relativity with quan-
+tum mechanics. He also left behind
+some strange theoretical artifacts, in-
+cluding lambda (Λ), the infamous cos-
+mological constant. Magueijo's VSL
+theory actually lays to rest many prob-
+lematic issues surrounding the cosmo-
+logical constant. “All these threatening
+aspects of the cosmological constant,
+that have created all of these problems
+in cosmology, just disappear. It's not
+so much as you get rid of it, it's just
+that you tame it.” According to VSL
+theory, the vacuum energy increases
+if the speed of light increases as well,
+but once the speed of light decreases,
+this vacuum energy drops drastically.
+Once this takes place energy from the
+vacuum then discharges into all mat-
+ter and radiation in the universe. This
+allows the universe to continue to ex-
+pand without the need for an 'all per-
+vasive nothing' or cosmological con-
+stant in the equation. While this may
+seem subversive, it shows that in order
+for science to progress it may require a
+bit of anarchy.
+Anarchy – order without govern-
+ment or law – is the last thing one
+would associate with science. Science
+as an institution seems anything but
+anarchistic. However, science as a
+process may be more 'anything goes'
+than what is conventionally under-
+stood. Magueijo was influenced by the
+anarchist philosopher of science Paul
+K. Feyerabend, a former professor at
+University of London (and friend and
+colleague of philosopher Sir Karl Pop-
+per) who was portrayed by academia
+and the media alike as the 'arch-enemy
+of science.' Yet Feyerabend may have
+actually been a pioneer in developing
+a radical understanding of scientific
+method itself. “There is a certain ele-
+ment of anarchy in the scientific proc-
+ess, which people don't like to admit to
+and some of it is very irrational in fact,
+it’s something we should admit more
+than what we do as scientists.”
+Science is often depicted as an ab-
+solutely certain and formal process of
+obtaining knowledge that is rational
+from the start. History books and the
+media alike portray scientists as gradu-
+ally coming to truth by reading directly
+from the 'book of nature.' Magueijo
+discourages any absolute theoretical
+interpretation of the physical universe,
+but advocates an openness that has
+allowed science to progress since the
+beginning. “We shouldn't be so seri-
+ous about it, as if we know what the
+final answer is. We don't know what
+the final answer is. I have no problem
+whatsoever in working on two contra-
+dictory theories at the same time.”
+Absolute allegiance to any particular
+theory sounds like something out of
+the Catholic Church, not science, yet is
+it too heretical to ask if the institution
+of science is taking itself too serious-
+ly? In developing theories of VSL and
+varying alpha, Magueijo is journeying
+down a path of scientific exploration
+that appears to be getting narrower
+and narrower: “That kind of beautiful
+openness of 'anything going' is kind
+of disappearing more and more.” Al-
+though he considers it a “sociological
+misrepresentation,” Magueijo has been
+breaking down the knowledge barriers
+of theoretical physics, perhaps similar
+to the way Sex Pistols or other punk
+rock bands stretched the boundaries of
+music as an art form.
+As well as work on both VSL theory
+and varying alpha at Imperial Mague-
+ijo also remains focused on quantum
+gravity and using VSL to explain the
+fluctuations in cosmic microwave
+background radiation left from the
+Big Bang. “We're trying to use vary-
+ing speed of light theories to generate
+the fluctuations in the universe, that's
+something we never did before. I also
+think there is a role for varying speed
+of light theories of quantum gravity.”
+In the mean time, questioning physical
+laws, at the very least, exercises one of
+the prime movers of science – human
+intelligence.
+

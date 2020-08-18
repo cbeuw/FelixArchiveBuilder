@@ -1,0 +1,600 @@
+sport.felix@imperial.ac.uk
+38 Friday 23 January 2009
+felix
+Sport
+39
+felix
+Friday 23 January 2009
+sport.felix@imperial.ac.uk Sport
+Saturday 17th January
+Football
+Men’s 1s ULU 2-3 LSE 1s ULU
+Men’s 3s ULU 1-0 Imperial Medicals 2s ULU
+Men’s 4s ULU 2-0 Royal Vets 1s ULU
+Men’s 6s ULU 5-2 Queen Mary 5s ULU
+Men’s 7s ULU2-1 Heythrop College 1s ULU
+Sunday 18th January
+Football
+Women’s 1s ULU 14-0 King’s Medicals 2s ULU
+Hockey
+ULU Cup
+Men’s 2s ULU 2-1 Royal Vets 1s ULU
+Men’s 3s ULU 1-1 Royal Holloway 2s ULU
+Men’s 4s ULU 1-3 King’s Medcials 2s ULU
+Women’s 1s ULU 3-1 Imperial Medicals 1s ULU
+Women’s 2s ULU 0-1 King’s College 2s ULU
+Lacrosse
+Mixed 1s ULU 19-2 St Bart’s Mixed 1s ULU
+Rugby
+Women’s 1s ULU 0-24 Royal Vets 1s ULU
+Monday 19th January
+Netball
+ULU Cup
+Women’s 1s ULU 32-15 St Barts 1st ULU
+Squash
+Women’s 1s ULU 5-0 RUMS 1s ULU
+Volleyball
+ULU Cup
+Mixed 1s ULU 1-3 LSE Mixed 1s ULU
+Water Polo
+Mixed 1s ULU 14-9 Imperial Medicals Mixed 1s ULU
+Wednesday 21st January
+Badminton
+Men’s 2nd 4-4 King’s 1st
+Women’s 1st 6-2 University of Reading 1st
+Fencing
+Men’s 2nd 135-120 Brunel University 1st
+Football
+Men’s 4s ULU 3-1 UCL 6s ULU
+Men’s 6s ULU 1-2 Goldsmiths 2s ULU
+Women’s 1s ULU 8-1 St George’s 1s ULU
+Hockey
+Men’s 4s ULU 4-0 St George’s 2s ULU
+Women’s 1s ULU 2-1 UCL 1s ULU
+Women’s 2s ULU 0-5 King’s 2s ULU
+Lacrosse
+Women’s 1st 28-1 University of Portsmouth 1st
+Netball
+Women’s 3rd 7-22 Queen Mary 2nd
+Rugby
+Men’s 2nd 17-19 Imperial Medicals 2nd
+Table Tennis
+Men’s 1st 17-0 University of Reading 1st
+Women’s 1st 5-0 LSE 1st
+Tennis
+Women’s 1st 0-10 London Metropolitan 2nd
+Volleyball
+Women’s 2nd 0-3 King’s College 1st
+Saturday 24th January
+Football
+Men’s 2s ULU vs RUMS 1s ULU
+ULU Cup
+Men’s 1s vs LSE 1s
+Men’s 2s vs RUMS 1s
+Men’s 3s vs Queen Mary 2s
+Men’s 4s vs Royal Holloway 4s
+Men’s 5s vs Royal Vets 1s
+Men’s 6s vs Heythrop College 1s
+Lacrosse
+Men’s 1st vs University of Hertfordshire 1st
+Rugby
+Women’s 1s ULU vs St George’s 1s ULU
+Tennis
+Women’s 1st vs Brunel University 1st
+Sunday 25th January
+Lacrosse
+Mixed 1s ULU vs Royal Holloway Mixed 1s ULU
+Volleyball
+BUCS Tournament
+Men’s 1st vs University College London 1st
+Men’s 1st vs University of Essex 1st
+Women’s 1st vs UCL 1st
+Women’s 1st vs University of Reading 1st
+Women’s 1st vs University of Sussex 1st
+Fixtures & Results in association with Sports Partnership
+Monday 26th January
+Badminton
+Mixed 1s ULU vs St Barts Mixed 1s ULU
+Basketball
+Men’s 2s ULU vs LSE 2s ULU
+Netball
+Women’s 1s ULU vs UCL 1s ULU
+Women’s 3s ULU vs King’s College 4s ULU
+Volleyball
+Mixed 1s ULU vs King’s College Mixed 1s ULU
+Water Polo
+Mixed 1s ULU vs UCL 2s ULU
+Wednesday 28th January
+Badminton
+Men’s 1st vs Brunel University 1st
+Women’s 1st vs UCL 1st
+Fencing
+Men’s 2nd vs Royal Holloway 1st
+Football
+BUCS Cup
+Women’s 1st vs University of Kent 1st
+Men’s 5s ULU vs UCL 5s ULU
+Men’s 4s ULU vs LSE 4s ULU
+Men’s 6s ULU vs King’s Medicals 4s ULU
+Men’s 7s ULU vs RSM 1s ULU
+Sports league
+Team P W D L F A Diff % FI
+1 Squash Men's 1st 9 9 0 0 40 5 35 100 5.00
+2 Fencing Men's 1st 7 7 0 0 934 533 401 100 5.00
+3 Tennis Men's 1st 6 6 0 0 51 9 42 100 5.00
+4 Volleyball Women's 1st 5 5 0 0 10 0 10 100 5.00
+5 ICSM Badminton Men's 1st 3 3 0 0 16 8 8 100 5.00
+6 Badminton Men's 1st 9 7 2 0 50 22 28 78 4.33
+7 Hockey Men's 1st 8 7 0 1 45 11 34 88 3.88
+8 Lacrosse Women's 1st 8 7 0 1 113 31 82 88 3.88
+9 Netball 2nd 7 6 0 1 262 134 128 86 3.71
+10 ICSM Netball 3rd 6 5 0 1 198 117 81 83 3.50
+11 Squash Men's 2nd 6 5 0 1 20 8 12 83 3.50
+12 Fencing Women's 1st 4 3 0 1 524 444 80 75 2.75
+13 ICSM Hockey Women's 1st 8 5 1 2 43 17 26 63 2.38
+14 Table Tennis Men's 1st 10 7 0 3 114 56 58 70 2.30
+15 ICSM Netball 2nd 6 4 0 2 192 117 75 67 2.00
+16 Hockey Men's 2nd 8 5 0 3 32 22 10 63 1.63
+17 Hockey Men's 3rd 7 3 2 2 15 24 -9 43 1.57
+18 Squash Men's 3rd 5 3 0 2 9 6 3 60 1.40
+19 Basketball Men's 1st 5 3 0 2 375 331 44 60 1.40
+20 Fencing Men's 2nd 5 3 0 2 616 573 43 60 1.40
+21 Hockey Women's 1st 8 4 1 3 24 18 6 50 1.25
+22 Basketball Women's 1st 7 4 0 3 326 309 17 57 1.14
+23 Badminton Women's 1st 9 5 0 4 42 30 12 56 1.00
+24 ICSM Football Men's 1st 8 4 0 3 12 17 -5 50 1.00
+25 Badminton Men's 2nd 6 2 2 2 24 24 0 33 1.00
+26 Rugby Union Men's 2nd 10 5 0 4 217 204 13 50 0.90
+27 Hockey Men's 4th 5 2 1 2 12 20 -8 40 0.80
+28 Squash Women's 1st 9 1 5 3 15 25 -10 11 0.33
+29 ICSM Rugby Union Men's 2nd9 4 0 5 123 143 -20 44 0.00
+30 ICSM Hockey Women's 2nd 6 2 1 3 16 19 -3 33 0.00
+31 Tennis Men's 2nd 6 2 1 3 27 33 -6 33 0.00
+32 Rugby Union Men's 3rd 7 3 0 4 136 161 -25 43 -0.14
+33 ICSM Rugby Union Men's 3rd 7 3 0 4 98 117 -19 43 -0.14
+34 Football Men's 1st 7 2 1 4 13 18 -5 29 -0.57
+35 Volleyball Men's 1st 6 2 0 4 4 8 -4 33 -1.00
+36 Football Men's 2nd 6 2 0 4 14 23 -9 33 -1.00
+37 Football Women's 1st 6 2 0 4 10 21 -11 33 -1.00
+38 ICSM Rugby Union Men's 1st 10 3 0 7 204 277 -73 30 -1.30
+39 Tennis Women's 1st 7 2 0 5 26 44 -18 29 -1.43
+40 ICSM Hockey Men's 2nd 8 2 0 6 13 12 1 25 -1.75
+41 ICSM Netball 1st 9 2 0 7 221 329 -108 22 -2.00
+42 Lacrosse Men's 1st 5 1 0 4 29 68 -39 20 -2.20
+43 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+44 Netball 3rd 6 1 0 5 62 182 -120 17 -2.50
+45 Football Men's 3rd 6 1 0 5 11 25 -14 17 -2.50
+46 Hockey Women's 2nd 7 1 0 6 6 32 -26 14 -2.71
+47 ICSM Hockey Men's 1st 7 1 0 6 12 23 -11 14 -2.71
+48 Rugby Union Men's 4th 7 1 0 6 78 300 -222 14 -2.71
+49 Table Tennis Women's 1st 4 1 0 4 8 12 -4 25 -2.75
+50 ICSM Badminton Women's 1st 9 0 1 8 10 63 -53 0 -3.33
+51 Rugby Union Women's 1st 1 0 0 1 0 80 -80 0 -4.00
+52 ICSM Hockey Women's 3rd 5 0 0 5 3 32 -29 0 -4.00
+53 ICSM Hockey Men's 3rd 4 0 0 4 0 12 -12 0 -4.00
+54 Netball 1st 7 0 0 7 137 271 -134 0 -4.00
+55 Rugby Union Men's 1st 10 0 0 10 92 370 -278 0 -4.00
+Hockey
+Men’s 3rd vs Royal Vets 1st
+BUCS Cup
+Women’s 1st vs RUMS 1st
+Men’s 1s ULU vs Imperial Medicals 1s ULU
+Women’s 2s ULU vs RUMS 2s ULU
+Lacrosse
+Men’s 1st vs Royal Holloway 1st
+Women’s 1st vs University of Kent 1st
+Netball
+Women’s 3rd vs Imperial Medicals 2nd
+Rugby
+Men’s 1st vs Oxford University Greyhounds
+Men’s 2nd vs St Barts 1st
+Men’s 3rd vs University of Sussex 2nd
+Men’s 4th vs Universities at Medway 1st
+Women’s 1st vs University of Essex 1st
+Squash
+Women’s 1st vs UCL 1st
+BUCS Cup
+Men’s 1st vs University of Sussex 1st
+Men’s 2nd vs Imperial College 3rd
+Tennis
+Women’s 1st vs University of Reading 1st
+BUCS Cup
+Men’s 1st vs University of Essex 1st
+Men’s 2nd vs University of Surrey 2nd
+Volleyball
+Men’s 1st vs UCL 1st
+ICBC Winter Training Camp: On
+January 2, 2009 Imperial College Boat
+Club established an elite school for the
+top one percent of its rowers. Its pur-
+pose was to teach the lost art of erging
+combat and to insure that the handful
+of men who graduated were the best
+rowers in the world. They succeeded.
+Today, ICBC calls it Fighter Weapons
+School. The rowers call it: TOP GUN.
+The Long Defeat took place at ICBC
+base camp with over 210 kilometres
+covered and thousands of weight rep-
+etitions endured over 8 gruelling days.
+The erg plinking began before light
+each morning and continued past
+darkness. As the splits decreased the
+injured list increased. Gareth ‘Gung-
+ho’ Brown had a permanent change
+of station to the bikes suffering from
+a torn ligament in his finger. Bom
+Meyrick-Cole was struck with tendo-
+nitis in both wrists, Alex Gillies had to
+forgo the ergo due to back pain while
+Winny took his slashed hands to the
+bike: mentally and physically defeated.
+The million dollar wound went to Will
+Todd and his great balls of fire who had
+to keep a low heart rate after a brief
+flirtation with a hospital drip earlier
+in the year. The women’s squad were
+not impervious to injury either with
+Chewy complaining of severe bum
+pain throughout the week.
+Anyone not holding formation or
+overrating in the erg zone was imme-
+diately fragged by fellow comrades.
+Tower Trapmore assumed control
+of the observation post and cries of
+“Hooyah” echoed throughout the gym.
+Posture calls in the final leg of the 18
+km pieces were efficient morale boost-
+ers. The promise of bacon butties for
+the biggest improvement of splits in
+the 20 minute pieces became the force
+multiplier with Louise Hart and AFP
+smelling the pan the strongest.
+Between sessions in the mess hall
+pasta was shovelled into battle-weary
+troops who displayed early signs of the
+thousand yard stare, oblivious to the
+World’s Strongest Man being shown
+on the TV screen behind.
+Crews had been pre-selected for wa-
+ter outings, consequently Trapmore
+had no patience for anyone wishing to
+leave ground-zero early: “Tower, this is
+Ghost rider requesting a flyby.” “That’s
+a negative Ghost rider, the pattern is
+full.”
+Meanwhile, Whitelaw the Outlaw
+was overseeing core stability opera-
+tions and was responsible for calling
+station changes. Roll-outs proved to
+be the catastrophic kill for exhausted
+bodies. In the weights room it was
+too close for missiles and all squads
+switched to guns for the 4 x 25 sets.
+The B-hut in the flat upstairs became
+a safe haven from the constant grind-
+ing of spirit below. Rowers, now a mere
+shadow of their former selves could be
+found sprawled in rooms and hallways
+with offerings of tea providing brief
+glimpses of hope to crushed souls. At
+the End of Day, crews yomped home
+trying to blank out thoughts of the im-
+pending torture of yet another day at
+camp.
+Memos of nights out from non-row-
+ing friends were placed securely in file
+13.
+The Awkward squad who couldn’t
+make daytime sessions could be heard
+erging late into the night desperately
+recording splits to offer up to and
+please the Tower. Sweat, blood and
+tears: he shows no emotion.
+A week of pain and what have we
+learned? Trapmore means business.
+ICBC win.
+Cox Henry ‘Viper’ Fieldman enforces Trapmore’s commands
+1 2 3 4 5 6 7 8
+9 10
+11 12
+13 14
+15
+16 17 18 19
+20
+21
+22
+23 24 25
+26 27
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,421
+Across
+1 More than one annoyance is found in
+the details (9)
+6 Famous piper is discovered after
+damage (5)
+9 From the beginning it is over: there
+will be nothing at the end (2,3)
+10 To fit padding up a leather guncase
+(7)
+11 Dances into Hell, tearing important
+connective tissue (8,6)
+13 Having blown a gasket used to drill
+through the middle to provide water
+for crops (8)
+14 Worship Paul the Patriot (6)
+16 The fields of France conceal the
+victors (6)
+18 Hardy heroine returns after
+revolutionary’s board game in pieces
+(5,3)
+21 Incapable urban development in the
+establishment of tinpot little country
+(6,8)
+23 Throw in worn out, overused fossil (9)
+25 Contests of speed can be seen as
+strains (5)
+26 Spanish saint saves Antarctic core (5)
+27 Shiny apes change formulation of
+‘impossible’tasks (9)
+Down
+1 Biblical character makes no
+expression of satisfaction (4)
+2 Smooth piece of cloth famously used
+by Churchill (4,7)
+3 Way of expressing contrition for a lot,
+informally, in mass (7)
+4 Four lines of verse put close together
+(8)
+5 Switzerland is into violent sexual
+activities, meaning a break in friendly
+relations (6)
+6 Famous playwright has a lie-in more...
+7 ... regularly once tuberculosis starts
+generating decomposition (3)
+8 Most unusual choice to place
+between two paths (8)
+12 Put on clothes and select a place to
+sit in the theatre (5,6)
+13 Raises organisms on regular solids, in
+with a time coming later (9)
+15 High-fliers slash head of personnel...
+(8)
+17 ... either with or without aide stifling
+Greek first lady (7)
+19 Male puppy has clean up to remove
+the effects of alcohol (5,2)
+20 Revolves as a whole, or with small
+pieces (6)
+22 An identifying number is barbaric
+and nonessential, for starters...(4)
+24 ... in new drinking establishment
+(3)
+The more eagle-eyed among you
+may notice that this week’s cross-
+word bears a striking resemblence to
+last week’s. The exceptionally eagle-
+eyed among you may even see that
+the most glaring mistakes that made
+Crossword no. 1420 virtually unsolv-
+able have now been fixed.
+Hopefully this new and improved
+set of clues will provide you all with
+a fair and enjoyable dose of cruciver-
+balism over the coming week.
+For those of you who exhausted
+the different possibilties of distrac-
+tion last week’s puzzle offered and
+are looking for intellectual stimula-
+tion of a different kind, may I heartily
+recommend
+www.sporcle.com
+Curse me for wasting your time
+later.
+		 Enoch
+Trapmore Alpha Strikes Senior Squad
+Christina Duffy
+Journeys to matches lead by 4ths cap-
+tain, Tim “Safehands” Burr have al-
+ways had a reputation for controversy
+and so when the team arrived at the
+ground on time for their bout against
+St George’s 2’s last Wednesday having
+left the union on time with a full squad
+of players, caught the tube in time for
+their connecting train and not getting
+lost on the other side, on-one was more
+surprised than Safehands himself.
+Indeed everything seemed to have
+gone unusually smoothly until they
+made a startling discovery – there was
+no opponent.
+After several confused phone-calls
+they discovered that although they
+had made considerable effort to ar-
+rive in time to the ground it was in fact
+the wrong ground – a charge to which
+Captain Safehands furiously blamed,
+first the club fixtures secretary, Max,
+then later Alyssa from Sport Impe-
+rial before he found an unread email
+on his iPhone (yes he is a ponce) from
+earlier in the week explaining that the
+venue had changed and giving detailed
+directions.
+It was then up to the long suffering
+rugby team to take the 20 minute train
+back to Richmond, change for another
+20 minute tram before undertaking a
+15 minute walk and eventually make it
+to the correct ground – a charge that
+ran smoothly with the exception of the
+Richmond interchange where a furious
+Captain Safehands had to drag number
+8 Stan Sikorski out of Dino’s Fast Food
+Pizza stand while the other players
+held open the doors of the tram for a
+full 5 minutes (much to the annoyance
+of the local Richmond residents.
+Having eventually arrived at the cor-
+rect ground with all 22 players (includ-
+ing a well fed number 8) it was time to
+play some rugby.
+IC were very happy to play slow
+grinding forwards game deep in the
+opponents half for much of the first
+half until a strong run from Sasha the
+Basha was all it needed to complete the
+final ten yards of the IC onslaught and
+claim the first five points around the
+half hour mark.
+It was just a great shame however
+that this technically sound comfort-
+able play from IC in the first 30 min-
+utes was juxtaposed by quite possibly
+the worst conversion attempt in the
+history of rugby by acting scrum-half,
+Louie, who up until that point had
+been doing a brilliant job of filling in
+for Pinocchio Joe, who was himself
+injured in the first five minutes after a
+nasty shoulder injury, IC were able to
+control the game for a further 10 min-
+utes bringing the score at the end of
+the first half to 5-0.
+The second half was a very tightly
+contested affair. St George’s proved
+to be extremely efficient in the scrum
+winning all of their own and many IC
+put-ins too.
+IC were, however, able to capitalise
+on their poor body positions at the
+breakdown and were competitive at
+breakdowns which ordinarily should
+have been considered safe-balls.
+The added possession that IC gained
+through this lead to progressive play,
+more territory and eventually superb
+breakaway try by the previously shames
+scrum-half Louie lead to a converted
+try – 12-0.
+Credit should be given to St George’s
+who never gave up and spent the last
+10 minutes of the game camped inside
+the IC 22-line. The IC 4ths, however,
+were determined to achieve their first
+clean sheet of the season and held firm
+to remain undefeated in 2009.
+Finian McCann
+Rugby success!
+It was an under strength men’s 2nd
+fencing team that made the arduous
+trek out to Uxbridge to fence Brunel.
+With regular sabreur Charlie Hen-
+nings feverishly occupied with exams
+it fell upon 2nd team regulars Nathan
+“Bicycle” Blundell and Nathan “Badg-
+er” Harmston to join team captain
+Maurice “Berk” Berk in fencing sabre.
+Their lack of experience with fencing
+this unfamiliar weapon seemed to have
+little effect as both Bicycle and Badger
+won their first matches 5-2 and Berk
+made it a hat trick with a 5-3 victory.
+Bicycle and Berk struggled against
+their second opponents, going down
+to 5-7 and 5-6 losses respectively but
+Badger ensured IC remained in the lead
+with a fine 5-4 win. With both Bicycle
+and Badger brushing aside their final
+opponents, even Berk’s disappointing
+5-9 capitulation in the final match was
+enough to secure a win for Imperial in
+sabre, with the final scores at 45 – 35.
+Next was foil and Badger and Bicycle
+were back in their element, joined by
+2nd team stalwart Alex “Leukaemia”
+Bishop. With no absent foilists, IC
+were bullish but Badger’s woeful 5-1
+loss in the first match required a swift
+rescue from on-form Blundell who
+slaughtered his first opponent 9-4.
+Having narrowly snatched back the
+lead, IC threw it away in the next round
+of matches, with Leukaemia in particu-
+lar struggling against the opposing an-
+chor in a match that ended 3-9. How-
+ever, some fine fencing in the final foil
+matches, capped by a stunning display
+Brunel get a battering
+by Bicycle in the final contest, gave IC
+a narrow margin of victory, final foil
+scores standing at 45-40.
+With IC fifteen points in the lead
+going in to epee and having won the
+first two weapons, thirty points would
+be enough to ensure a victory for IC.
+However, with the usual epeeists ab-
+sent, victory was hardly assured.
+Berk, fencing competitive epee for
+the first time in years, settled IC’s
+nerves with a 5-3 win in the opening
+match, before new man Guillaume
+Drieu La Rochelle floundered his way
+to a 2-7 loss. Leukaemia also struggled,
+losing 3-5 in his first match and clearly
+confused by the nuances of epee fenc-
+ing. However with Berk continually
+turning out passable performances and
+Leukaemia and Guillaume doing a de-
+cent job of damage limitation, a final
+epee score of 37-45 in Brunel’s favour
+was more than enough to give Imperial
+the win.
+IC pair to represent England
+Barely a year old but already Imperial
+College Union Gaelic Athletics Asso-
+ciation (GAA) have their first interna-
+tional representatives. Finian McCann
+and Stephen Gallagher were recently
+announced as members of the England
+Universities hurling team to face their
+Scottish counterparts on 31 January in
+Leeds. While the club primarily plays
+Gaelic football, as members of the
+GAA we also participate in hurling.
+This is a sport not unlike hockey in
+that players use a specially shaped stick
+called a camán to hit a small ball called
+a sliothar. However, the scoring is a bit
+different, you can lift the ball into your
+hand and hit it in the air, and is quite a
+bit more physical.
+This is a massive boost for the
+club which has progressed leaps and
+bounds from that dreary February
+morning last year up in Oxford. New
+kits, our own Gaelic football pitch in
+Harlington and our first wins against
+Cambridge and the University of East
+Anglia in November are all signs that
+the club is healthy and prospering.
+The next big event for the club is our
+first ever entry into the BUCS Gaelic
+Football Championship, taking place
+this year in Birmingham on 7-8 Feb-
+ruary, which we have all intentions of
+winning. On the hurling front, we aim
+to compete in the British Universities
+Hurling 7-a-sides later on in the year,
+rounding up what has been a very suc-
+Rugby
+Imperial Men’s 4th XV 6
+St Georges 2nd XV 3
+Fencing
+Imperial Men’s 2nd 127
+Brunel University 1st 120
+Stanislaw Sikorski
+The boys wield their camán
+Maurice Berk
+

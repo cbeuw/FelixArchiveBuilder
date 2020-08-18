@@ -1,0 +1,239 @@
+mESflBRflin
+Angry Digits
+In an attempt to get back at
+Mobius, my puzzle fanatical
+friend, who had been
+distracting me with his
+annoying puzzles, I
+designed this cross-number
+to keep him quiet for a
+while. T o my
+embarrassment Mobius
+appeared the next day
+saying that I had made a
+mistake and one of my
+clues must be wrong. He
+was right, of course, but in
+checking I noticed
+something interesting.
+'Ah, but if you take the
+incorrect clue to mean the
+exact opposite of what it
+says, then there is a unique
+solution', I said . With this
+new information in hand he
+went away to solve the
+problem.
+So what is the solution,
+and which clue is incorrect
+(NB I consider 1 to be a
+prime number)? Solutions,
+comments etc, to the FELIX
+office by Wednesday
+lunchtime for the £5 prize,
+please.
+SQL
+L_
+DOWN
+1) A prime number.
+3) All digits are prime and
+add to give 9.
+4) A cube.
+6) Digits ascending.
+9) All digits the same.
+10) Square root of 4 down.
+A C R O S S
+2) All digits different.
+5) A square.
+7) Sum of the digits of 2
+across.
+8) Difference between first
+and last digits equals
+difference between middle
+two.
+10) Digits of 8 across
+rearranged.
+11) A factorial of the first
+digit of 1 down.
+Shagar's sheep-solution
+There can only be 19
+sheep.It's possible to
+arrange 18 and 20 sheep so
+that there are 5 or 9 on
+each side, but it requires
+having either all or none of
+the sheep in overlapping
+areas, which wasn't
+allowed. Lots of anwsers to
+this one, so you obviously
+found it quite easy. Two
+possible arrangments are
+shown below.
+4
+I 4 5 J
+5
+4 \
+1
+V 4 1 4 J
+The winner was Alison
+Perkins, Chem Eng 3. You
+can collect your £5 after
+1.00pm on
+Monday.Baaaaaah!
+A cable of cables
+Several people entered
+correct solutions to this (or
+solutions that were so
+nearly correct that I
+counted them). There were
+two basic solutions both of
+which I've explained. The
+anwser is that all the cables
+can be correctly labelled in
+one journey to the end and
+back (unless there are only
+two cables, in which case
+the problem is impossible).
+I'm sure those of your who
+had him travelling
+log(x)/log(2) etc times
+along the cable will
+appreciate the anwser.
+The first solution varies
+depending on whether the
+cable contains an odd or
+even number of wires. The
+version for an odd number
+is described, with varations
+for an even number in
+brackets afterwards.
+Starting at the site we shall
+call the 'Home' site join the
+wires together in pairs but
+leave one (two) wires
+unconnected. This (These)
+will be referred to as the
+alpha wire (the alpha and
+beta wires, though we don't
+yet know which is which).
+Now travel to the other site,
+which we shall refer to as
+the 'field'. Using the battery
+and bulb it is easy to find
+the alpha wire (the alpha
+and beta wires) because it
+is (they are) the only ones
+not connected to anything.
+Label this wire as the alpha
+wire (Label either wire
+alpha, the other beta).
+We can also pair off the
+other wires, labelling them
+arbitrarily as 1a and 1b, 2a
+and 2b,3a and 3b,...na and
+nb. Each a is connected to
+the corresponding b at the
+home site, of course.
+Now disconect 1a. Connect
+1 b to 2a, 2b to 3a 3b to
+4a,...(n-1)b to na, and nb to
+alpha. Leave 1a (and beta)
+disconected.
+Back to the home site,
+where the alpha wire is
+already labelled (where the
+alpha beta wires are
+labelled, and we can soon
+find which is which since
+alpha is conected to
+something while beta isn't).
+Disconnect all the wires at
+the home site (but
+remember how they were
+connected). Using the
+battery and bulb, find
+which wire is connected to
+alpha at the field site. This
+is nb. The wire which was
+connected to nb (at the
+home site) is na. The wire
+connected to na (at the
+field site) is (n-1)B. The
+wire which was conencted
+to (n-1)b (at the home site)
+is (n-1)a. Hence, by
+chaining the wires in this
+way, all of them can be
+labelled in only two
+journeys between the ends
+of the cable.
+The second solution is as
+follows. At the 'home' site
+connect together the wires
+in groups with ascending
+numbers of wires, starting
+at one, until the remaining
+no of wires is not enough
+to form the next group (ie
+groups of 1,2,3,4,...n wires).
+Call the largest group in
+the ascending series n, and
+the number of remaining
+wires m. Form these
+remaining wires into a
+group unless m is equal to
+n, in which case leave one
+wire unconnected (call this
+the 'free' wire) and form a
+group of m-1 wires.
+Now travel to the far site.
+Use the battery to identify
+the groups. Lable the wires
+in the ascending groups 1a,
+2a,2b,3a,3b,3c,...etc. Label
+the m (or m-1) group m a * ,
+mb*...etc so as to
+differentiate it from the
+ascending group of the
+same size. Now connect
+wire 1a to all the other 'a'
+wires. Then connect 2b to
+all the other 'b' wires, 3c to
+all the other 'c' wires, etc.
+Continue like this, except
+leave one wire of the m (or
+m-1) group unconnected.
+There will also be one wire
+of the n group
+unconnected.
+Now go back to the 'home'
+site. Disconnect the wires
+but remember what groups
+they were in. If there was a
+'free' wire it can easily be
+found since it is the only
+unconnected wire in a
+group of 1. Now find which
+wires are connected to the
+first wire in the ascending
+series, these will be the
+2a,3a,4a,...etc. The wire left
+unlabled in the group of 2
+will be 2b, and the wires
+connected to this will be
+3b, 4b,...etc. Carry on until
+all the wires are labelled.
+The m (or m-1) group can
+be differentiated by the fact
+that it's last wire is
+unconnected.
+Well done to all of you who
+attempted a solution and
+congratulations if you got it
+right. The winner was M
+Turnbull, Physics 3. You
+can pick up your £5 prize
+after 1pm Monday.
+UIUUQUQ3UJ
+FELIX Friday 2 May 11
+

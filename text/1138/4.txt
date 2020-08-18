@@ -1,0 +1,66 @@
+4 Linux Update 1 March 1999
+The future's free*, the future's Linux
+* that's free as in 'free speech', not 'free beer' - a Linux distribution CD will cost you 2 quid
+Last W e d n e s d a y Imperial's Linux User
+G r o u p a n d D o c S o c p u t o n their first
+Linux s y m p o s i u m , w h i c h c o n s i s t e d o f
+f o u r short b u t i n f o r m a t i v e talks o n
+aspects o f t h e O p e r a t i n g S y s t e m (OS).
+The first talk w a s g i v e n b y L d Avis,
+a first year c o m p u t i n g s t u d e n t , w h o
+d e s c r i b e d t h e d e v e l o p m e n t o f Linux
+starting w i t h w o r k o n UNIX in t h e 70s.
+This w a s Interesting e v e n f o r t h o s e
+w h o w h e r e familiar w i t h Linux's back-
+g r o u n d ; p e o p l e w e r e o n t h e e d g e o f
+their seats as Ed told us h o w t h e intro-
+d u c t i o n o f (relatively) c h e a p PCs in t h e
+80s l e d to t h e d e v e l o p m e n t o f M I N I X ,
+i n t e n d e d t o h e l p w i t h t e a c h i n g O S
+principles, w h i c h p r o v i d e d t h e original
+basis for Linux.
+In parallel w i t h this T h o m a s Sip-
+pel-Dau installed Linux o n a PC in t h e
+r o o m , a n d e x p l a i n e d t h e h a n d f u l o f
+o p t i o n s c r e e n s y o u g o t h r o u g h d u r i n g
+the process. T h e installation w a s sur-
+prisingly s t r a i g h t f o r w a r d a n d t o o k
+about 20 m i n u t e s , Ihe o n l y p r o b l e m
+b e i n g T h o m a s f o r g e t t i n g w h a t h e
+e n t e r e d f o r t h e root p a s s w o r d ( h e g o t
+it eventually).
+Next S u n n y C h a n d e m o n s t r a t e d
+By Marc Broster
+Not just DoC students attended the meeting
+s o m e office applications a n d desktops,
+resulting in several cries o f "I have g o t
+to get that" from t h e excited a u d i e n c e .
+After a break for c o f f e e G e r d j a n
+Busker f r o m the Physics d e p a r t m e n t
+told us w h y Linux w a s ideal for s c i e n -
+tific visualisation a n d simulation,- w h o -
+e v e r w a s r e s p o n s i b l e f o r m a k i n g
+W i n d o w s NT t h e d o m i n a n t O S for a
+certain d e p a r t m e n t ' s c o m p u t i n g lab
+m u s t h a v e felt h u m b l e d , a n d w i t h
+g o o d r e a s o n .
+f i n a l l y M a r c o L u c h i n i f r o m t h e
+M a t h s d e p a r t m e n t d i s c u s s e d u s i n g
+Linux to n e t w o r k a g r o u p o f PCs to pro-
+vide h i g h levels o f p r o c e s s i n g p o w e r .
+I learnt m o r e a b o u t parallel c o m p u t i n g
+in t h e s e 20 m i n u t e s t h a n I d i d in a
+t e r m ' s c o u r s e o n t h e subject.
+O v e r a l l , t h e e v e n t w a s excellent,
+a n d t h e r o o m w a s p a c k e d o u t w i t h a
+g o o d cross s e c t i o n o f Imperial's p o p -
+ulation,- s t u d e n t s , lecturers, a n d a fair
+n u m b e r o f p e o p l e f r o m o u t s i d e col-
+lege - o n e g r o u p e v e n m a d e t h e a r d u -
+o u s j o u r n e y f r o m t h e Natural History
+m u s e u m . If y o u w a n t t o k n o w a b o u t
+future events, y o u c a n s u b s c r i b e t h e to
+u s e r g r o u p ' s m a i l i n g list; s e e
+w w w . m a l l n e t . c o . u k / ~ m a r c / l l n u x . h t m l
+for details.
+

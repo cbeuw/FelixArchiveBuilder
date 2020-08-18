@@ -1,0 +1,577 @@
+35
+Friday 15 May 2009 felix
+sudoku.felix@imperial.ac.uk Fun & Games
+How to play:
+It’s quite simple, all numbers are in a
+cell and must be surrounded with a
+corresponding number lines. Lines
+cannot split and there can only be
+one continuous line. Any cells with no
+numbers can have any number of lines.
+Look at the solution above for help.
+Slitherlink 1,432
+Wordoku 1,432
+1,431 Solution
+O
+R
+G
+A
+S
+M
+I
+C
+!
+!
+A
+S
+I
+C
+R
+O
+M
+G
+M
+C
+I
+G
+!
+O
+A
+R
+S
+G
+!
+O
+M
+I
+S
+C
+A
+R
+S
+I
+C
+R
+O
+A
+G
+!
+M
+R
+M
+A
+!
+G
+C
+C
+I
+O
+A
+S
+!
+C
+R
+G
+M
+O
+I
+C
+G
+R
+O
+M
+I
+!
+S
+A
+I
+O
+M
+S
+A
+!
+R
+G
+C
+Dr Science! strikes yet again
+with another five points to add
+to his ever increasing tally. He
+also thought our wordoku wasn’t
+ORGASMIC!, we agree; it was
+bloody blazin bruv innit! Have
+fun with this week’s one!
+Scribble box
+TEXT US! OR WE WON’T FEED THE CAT!
+“To Eve behind the bar. You’re
+stunning. Please can we do lunch
+sometime? Rupert M x x”
+“Jithey jaan punjabi dhooma,
+Paahi dhinde ne (x2) oh yes big up
+punjabi soc and PDL”
+“im sick of seeing all the shitty
+chemists strutting around campus
+like bellends-fuck off and do a real
+degree”
+“Dear felix editor. can you stop
+harassing me. i thought pulling
+your hairy little friend would make
+you stop but you just won’t. please
+stop.
+”
+“You can catch swine flu off pigs.
+So stay away from jack’s mum!”
+Going Underground
+Team Shotgun bring home to gold in
+the underground game! The correct
+answer last week was EAST PUTNEY,
+and it’s a shit hole, never ever go there.
+Here’s a hint, we’re not keeping the
+spaces , if we did it would be too easy
+now wouldn’t it. Deal with it!
+A B C D E F G H I J K L M N O
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+P Q R S T U V W X Y Z
+16 17 18 19 20 21 22 23 24 25 26
+B A N K
+2 1 14 11
+28
+= 2+1+14+11=28. Job done.
+So which London tube station sums to 182?
+This week’s Cat Phone:
+_ _ _ _ _
+Each letter in the alphabet is assigned a
+value, 1-26 (see table) and when added
+together for a specific word the sum
+equals the total shown. All you have to
+do is scan and send the Underground
+station that is hidden each week to su-
+doku.felix@imperial.ac.uk
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers
+with letters. Complete the puzzle
+and then send the whole grid to
+sudoku.felix@imperial.ac.uk.
+You will not get credit for just the
+word alone. It’s not an anagram.
+Mentalist Maze...
+Oh, so now you decided to actually
+do the mentalist maze. I commend
+you Nick “Princess Diana” Jones.
+However, he said he doesn’t want the
+points because there’s no point, he
+won’t win. That’s the attitude of a loser.
+Sit down, shut up and sort your life out.
+If you always quit you’ll never win.
+1,431 Solution
+It’s all over the place this week. The
+leading individuals entry, Giramondo,
+got the points this week. Only six more
+weeks to go guys, keep those answers
+coming in!
+_
+182
+=
+_ _ _
+Nonogram 1,432
+How to play:
+Nonograms are logic puzzles in which cells
+in a grid have to be coloured or left blank ac-
+cording to numbers at the side of the grid.
+The numbers measure how many unbroken
+lines or filled-in squares there are in any given
+row or column. Look at the solution for help.
+Team Shotgun have won the Nonogram for a
+second week running. It seems like they have
+come back and are actually giving MÖchten
+sie mein Manschaft a run for their money.
+Not that many weeks left folks, so keep those
+answers coming in.
+07849 190 043
+NEW
+NUMBER:
+3 3
+4 2
+1 1 1
+1 1 1 2
+2 3 2
+6
+4
+2
+2 3
+2 4
+6 9
+2
+2 7
+2
+2 3 1
+1
+2
+5
+2
+2
+2
+2
+_
+1,431 Solution
+2 2
+2
+2
+2
+1
+2
+3
+3
+3
+1
+2
+3 2 2
+3
+2
+2
+2
+2
+1 2
+2
+1
+1
+2 3
+2 2 2 3
+3
+3 2 2
+2 2
+2
+3 3
+3
+0 2
+3
+2
+2
+2
+3
+1
+_
+I
+M
+E
+L
+B
+S
+B
+N
+O
+E
+O
+I
+E
+S
+G
+B
+O
+N
+O
+I
+L
+I
+E
+O
+B
+N
+E
+M
+O
+I
+S
+2 3
+2
+2 1
+2
+3
+2
+1 2
+3
+3
+2
+0 2
+2
+3 1
+0 1
+3
+1
+2 3
+2 1
+3 3
+2
+3
+1
+1 2
+3
+0
+2 3 3 3
+1
+2
+3
+5
+1 7
+7
+9
+1 4
+1 1
+2 1
+2 1
+4
+4
+4
+1
+1
+5
+1
+2
+6
+2
+3
+1 4 5 5 5 5
+34 felix Friday 15 May 2009
+sudoku.felix@imperial.ac.uk
+Fun & Games
+Putting the cat out to dry
+hangman.felix@imperial.ac.uk
+Hangman
+Exclusive interview with
+ICU’s new ‘Jock King’
+T
+o sort out the expense’s
+crisis and deal with the
+burgeoning number of
+clubs and societies at Im-
+perial, the Union has cre-
+ated the new position of Jock King.
+Hangman interviews Mr John Smith
+(a well established beverage maker)
+about the new role.
+Hangman
+Mr Smith, you are the new Jock King
+at ICU and you’ve come down from the
+wilderness that is Yorkshire to tackle
+the Union’s problems. How are you
+feeling about the new role
+John Smith
+Oi! what dya mean wilderness, it’s
+bloody picturesque, as the french
+would say. But aye, I’m feeling bloody
+great. Mainly cos you all drink me beer,
+you swallow it by the ball sack load!
+You’re one of me best customers and
+the thought of loosing that would end
+me.
+Hangman
+Ball sack load?
+John Smith
+Yeah, every barrel of me beer gets
+a little something special, something
+only I can provide... ohhh yes...
+Hangman
+Right, let’s ignore that and move
+onto the clubs you have. What are your
+thoughts?
+John Smith
+Well we’ve got t’everythin you could
+possibly want; Thug’r’us? to Stick and
+Ball to Cock Soc and Spock Soc.
+Hangman
+Thug’r’us? Stick and Ball? Cock Soc?
+Spock Soc? I’ve never heard of any of
+these societies.
+John Smith
+Oh aye, sorry you geeks probably
+call them by their normal names: foot-
+ball, hockey, meat soc, and sci fi... you
+bunch of boring bastards. There’s
+something to cater to everyone’s tastes,
+even if your tastes are dogging in the
+Hyde Park, we’ve got a club that will
+subsidise you!
+Hangman
+Erm, we don’t actually have a Dog-
+ging society here, although I hear the
+Medics have tried in the past.
+John Smith
+Wrong, just set it up now! Me and
+me Yorkshire mates are gona have a
+wicked time!
+Hangman
+Whadafuh?! How is that a good
+spend of Union money? You’re taking
+liberties and abusing your position.
+John Smith
+Ah you’re just an old prude. Don’t
+worry it’s still early days, I haven’t
+moved money from other clubs yet.
+The expenses for dogging are quite
+high y’know.
+Hangman
+(sigh), ok I’ll bite, how? How in Je-
+hovah’s name could dogging could cost
+a lot of money?
+John Smith
+Well fura start ye have to bribe the
+rozzers. Then ye need to pay for the
+johnnys and sometimes ye gota hire an
+‘escort’...
+Hangman
+...hang on, we can help there, the
+DPEW has a load of johnnys in her
+office and you know... while you’re
+there...
+John Smith
+Right, so we can save sum money
+there, but still, paying off the cops is
+the major point here.
+Hangman
+Ok ok, where is this money coming
+from? Most societies are already op-
+erating on a shoestring, you can’t cut
+their budgets.
+John Smith
+I think u’ll find that I can. I’m da wan
+in charge of the budget fur the socie-
+ties. I can do what I like, like. Sure I
+chatted to the President of Dog Soc
+and he made a very strong argument
+fur giving his club lots of money and
+fucking other societies in the arse.
+Hangman
+Aren’t you the President of Dog Soc?
+John Smith
+I know. I can be quite persuasive
+when I want to be.
+Hangman
+Right, we’re doomed.
+Next week Hangman interviews the
+Head of Piss and Shit (Food & Drink)
+ACC Chair and Treasurer in
+expenses controversy
+The Athletic Clubs Committee (ACC)
+has become embroiled in an expenses
+scandal that threatens to rock Imperial
+to its very core.
+A Hangman investigation (by inves-
+tigation we mean, reading the news
+section of felix - see Page 4) has found
+that ACC Chair Sam Furse has wil-
+fully misappropriated ACC funds for a
+range of expenses.
+Private documents discovered (fab-
+ricated) by the Hangman team show
+that Mr Furse claimed £3,000 for horse
+stockings, £250 for horse lipstick and
+£22,000 on medical appointments con-
+cerning anal fissures.
+Other expenses include holiday trips
+to Mongolia for Mr Furse and an as yet
+unidentified Mr A. Horse.
+Hangman’s crack team of investiga-
+tive reporters (reporters on crack) cor-
+nered Mr Furse at the Mayfair branch
+of Wetherspoons. When questioned
+about the claims, he spluttered into
+his glass of Veuve Clicquot, “Those
+expenses were justified and entirely
+within the rules!” before calling to the
+waiter, “Hey, Geoffrey, get rid of this
+pisswater of a champagne and bring
+me the Shipwrecked 1907... umm put
+it on the tab, you know the A.C... you
+know which one I mean”.
+Hangman’s team of sleuths (sloths)
+were unable to track down ACC Treas-
+urer Joseph Lees. His personal sec-
+retary, Mrs Lees (who is paid by the
+ACC), informed Hangman that he was
+on a fact-finding mission on budget-
+ing practices in Harare, Zimbabwe.
+The mission, funded by ACC, included
+meetings with top government officials
+including Gideon Gono, the Governor
+of Zimbabwe’s Central Reserve Bank
+and President Robert Mugabe who ap-
+parently congratulated Mr Lees on “A
+job well done”.
+ACC Chair-elect Chaaarrlie Murdo-
+ch (the douchebag who conjures up the
+puzzles) has promised to clean up the
+ACC, “I’m going to usher in an era of
+austerity and thrift, no more gold plat-
+ed toilet seats. The ACC Chair should
+be able to look Imperial students in the
+eye and say ‘Silver is good enough’”
+Other expenses uncovered by
+Hangman
+£3,000 on industrial strength
+•
+lubricant
+£2,250 on “Horse-sized
+•
+condoms”
+£30,000 on a horse shaped gimp
+•
+suit
+£12,000 on 2 pairs of ‘horse-
+•
+proof’ hoofcuffs
+£300 on metal piercing
+•
+(thats enough horse sex jokes, Ed)
+Imperial students invited
+to genocide themselves...
+“Make this
+summer
+different”... You
+know because
+you spent every
+other summer of
+your life having
+fun with friends,
+holidaying
+with family
+and generally
+avoiding ethnic
+cleansing.
+See you in
+September, I’m
+sure you’ll have
+lots of stories to
+tell. Or maybe
+I’ll just read your
+diary...
+T
+his summer the com-
+pany behind The Kill-
+ing Fields, The Siberian
+Gulags and the now
+‘controversial’ Armenian
+holiday camp is offering Imperial stu-
+dents a unique opportunity to experi-
+ence genocide first hand.
+The so-called Thai work-camp
+promises 2 months of back breaking
+hard work and torture at a secret lo-
+cation in Thailand.
+Accomodation is reported to be
+‘sub-standard’ and they promise to
+help attendees lose weight by ‘not
+feeding them’.
+Where previous camps saw the or-
+ganisers coerce people into attend-
+ing, this new strategy marks a bold
+move for the company. If successful
+there are plans to roll the scheme out
+in countries like The Congo and the
+Outer Scottish Hebrides. Hangman
+thinks this scheme couldn’t reach the
+latter quick enough.
+“I’m looking forward to the
+camp! I’ve nothing better to do
+this summer so why not?”
+Mugabe’s lawyers have instructed us to state that this photo is faked
+and at no point did he ever meet Joseph Lees.
+

@@ -1,0 +1,83 @@
+F E L I X C O F F E E B R E A K
+GFLQ(THE 1ST ONE)
+T H E C H E A T F E L I X L Y R I C S Q U I Z
+L E A D E R H O A R D S
+G F Q Q G F L Q
+Name Score Name Score
+JMC4 Coalition 51.5 Chris Ince 66.5
+Richard Hutchinson 51 Jennifer Williams 65.5
+Chris Ince 51 JMC4 Coalition 65
+50D 49.5 50D 64.5
+Luke McManus 47.5 Ongar Rd Massif 63.5
+Ongar Rd Massif 44.5 Richard Hutchinson 62.5
+Geoff Lay 40 Luke McManus 59
+Alexander Plato 39 Geoff Lay 54.5
+Jennifer Williams 38.5 Christopher Dent 52.5
+Fred Marquis 38.5 Anthony Jude Rodrigues 45
+Christopher Dent 37.5 Samuel Jackson 32.5
+I J L T R A L E A t i U E
+Name Score Name Score
+Chris Ince 117.5 Rosemary Chandler 33.5
+JMC4 Coalition 116.5 Richard Moore 31
+50D 114 64 21.5
+Richard Hutchinson 113.5 Chris Tickner 17.5
+Ongar Rd Massif 108 Ruth Loeffler 15.5
+Luke McManus 106.5 Christopher Pollock 15
+Jennifer Williams 104 Rebecca Newman 13
+Geoff Lay 94.5 Leo Harrison 12.5
+Christopher Dent 90 Ben Dudson 10
+Anthony Jude Rodrigues 77.5 Kev Fox 6.5
+Samuel Jackson 53 Mathias Klauke 7
+John Anderson 35.5
+David Mercer 34.5 Fear the J.I.Z. It's cumming.
+A W O R D F R O M J.I.Z.
+• • • > b e g i n
+• 1 0 > p r i n t " m a i n J . I . Z . s t a r t u p "
+•2CD> if [ r e a d e r = g o o n ] {end} e l s e {
+• 3 ( D > p r i n t " w e l c o m e r e a d e r s . . . i a m J . I . Z . " }
+Q 4 0 > r e t u r n • ;
+J.I.Z. is about to erupt onto the coffee-break section like a molten hot
+volcano spewing lava across a once happy land. An intelligent (and I use
+that term loosely) quiz playing algorithm which will compete with you in
+GFQQ, LQ and the Ultraleague. Why J.I.Z.? What does it mean? It
+means that Fudge and I have less work to do, we simply use the power
+of J.I.Z. to come up with meaningless rubbish instead of our rather cre-
+ative minds. What does J.I.Z. stand for? Jubilant quiz playing Intelligent
+Zealot no less. Tenuous? Definitely. A waste of precious time?
+Affirmative. Such is life in the bowels of Beit. J . I . Z .
+T H E L Y R I C S
+1. "We'll get some overhead lifters, and four barrel quads, oh yeah.
+(Keep talkin', whoah keep talkin') Fuel injection cut off, and chrome
+plated rods, oh yeah. (I'll get the money, I'll kill to get the money)"
+2. "The game of life is hard to play, I'm gonna lose it anyway. The
+losing card I'll someday lay, so this is all I have to say."
+3. "There are scratches all around the coin slot - like a heartbeat, baby
+trying to wake up, but this machine can only swallow money."
+4. "Little darling, it's been a long cold lonely winter. Little darling, it
+feels like years since it's been here."
+5. "Or maybe, maybe it's our nowhere towns, our nothing places and
+our cellophane sounds....maybe it's our looseness."
+6. "If fashion is your trade, then when you're naked, I guess you must
+be unemployed."
+7. "You've read Karl Marx and you've taught yourself to dance."
+8. "I drove my tractor through your haystack last night (ooh aah ooh
+aah). I threw me pitchfork at your dog to keep quiet (ooh aah ooh
+aah).
+9. "Pot the red and screw back for the yellow, green, brown, blue, pink
+and black."
+10. "You two scousers are always yapping, I'm gonna show you some
+serious rapping "
+A N S W E R S T O G F L Q 1 2 4 8
+1. Take That - Sure
+2. New Kids on the Block - You Got it (The Right Stuff)
+3. 5ive - If Ya Gettin' Down
+4. Back Street Boys - As Long as You Love Me
+5. O-Town - Liquid Dreams
+6. Blue - All Rise
+7. The Jackson 5 - The Love You Save (Stop)
+8. East 17-Stay Another Day
+9. The Monkees - The Monkees
+10. Al - Caught in the Middle
+(1 point bonus for all who used the correct spelling of 5ive....hee-hee)
+coffee.felix@ic.ac.uk The Great Felix Lyrics Quiz
+

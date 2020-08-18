@@ -1,0 +1,422 @@
+sport.felix@imperial.ac.uk
+34 Friday 22 May 2009
+felix
+Sport
+35
+felix
+Friday 22 May 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 12 12 0 0 105 15 90 100 5.00
+2 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+3 Fencing Men's 1st 11 10 0 1 1457861 596 91 4.18
+4 Fencing Women's 1st 11 10 0 1 1445 1160285 91 4.18
+5 Lacrosse Women's 1st 11 10 0 1 162 43 119 91 4.18
+6 Volleyball Women's 1st 9 8 0 1 17 3 14 89 4.00
+7 Hockey Men's 1st 13 11 0 2 65 19 46 85 3.62
+8 Squash Men's 2nd 13 11 0 2 40 21 19 85 3.62
+9 ICSM Netball 2nd 12 10 0 2 452 226 226 83 3.50
+10 ICSM Netball 3rd 12 10 0 2 444 225 219 83 3.50
+11 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+12 Table Tennis Men's 1st 15 12 0 3 163 88 75 80 3.20
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 12 9 0 3 404 226 178 75 2.75
+15 ICSM Hockey Women's 1st 14 9 1 4 65 29 36 64 2.21
+16 Hockey Women's 1st 16 9 2 5 54 38 16 56 1.81
+17 Basketball Men's 1st 11 7 0 4 780 709 71 64 1.73
+18 Hockey Men's 3rd 12 4 5 3 23 30 -7 33 1.50
+19 Hockey Men's 2nd 12 7 0 5 50 36 14 58 1.25
+20 Hockey Men's 4th 8 4 1 3 19 23 -4 50 1.25
+21 Badminton Men's 2nd 11 5 2 4 49 39 10 45 1.18
+22 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+23 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+24 Fencing Men's 2nd 9 5 0 4 1100 947 153 56 1.00
+25 Rugby Union Men's 2nd 17 9 0 8 358 334 24 53 0.76
+26 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+27 Basketball Women's 1st 10 5 0 5 453 425 28 50 0.50
+28 ICSM Hockey Women's 2nd 11 4 2 5 27 43 -16 36 0.36
+29 Football Men's 1st 12 5 1 6 25 29 -4 42 0.25
+30 Tennis Men's 2nd 12 5 1 6 42 69 -27 42 0.25
+31 ICSM Football Men's 1st 13 4 3 6 17 26 -9 31 0.15
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Football Men's 2nd 11 4 1 6 24 35 -11 36 -0.18
+34 ICSM Rugby Union Men's 2nd 16 6 1 9 271 244 27 38 -0.25
+35 Rugby Union Men's 3rd 15 6 0 9 264 324 -60 40 -0.40
+36 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+37 ICSM Rugby Union Men's 1st 17 5 1 11 306 467 -161 29 -1.00
+38 ICSM Rugby Union Men's 3rd 14 4 0 10 152 429 -277 29 -1.43
+39 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+40 Football Men's 3rd 11 3 0 8 18 33 -15 27 -1.55
+41 ICSM Football Men's 2nd 10 2 1 7 13 28 -15 20 -1.60
+42 ICSM Hockey Women's 3rd 9 1 2 6 11 39 -28 11 -1.67
+43 Hockey Women's 2nd 11 2 1 8 10 46 -36 18 -1.82
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 Football Women's 1st 10 2 0 8 11 34 -23 20 -2.20
+46 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+47 ICSM Hockey Men's 2nd 11 2 0 9 17 24 -7 18 -2.36
+48 ICSM Hockey Men's 1st 11 1 1 9 18 45 -27 9 -2.64
+49 Rugby Union Men's 4th 15 2 0 13 162 623 -461 13 -2.80
+50 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+51 Netball 3rd 12 1 0 11 127 452 -325 8 -3.25
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Netball 1st 11 0 0 11 220 428 -208 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+1 2 3 4 4 5 6 7 8
+9 10
+11 12
+14
+13 14 17
+15 16
+18 19 17
+18 19
+20 21 22
+32
+23 24
+34
+25 26
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,433
+Across
+1 Insect with time for dwarf (6)
+4 Hobbyist with nervous affliction?
+(8)
+9 Astronauts left behind, concerned
+with facial feature (5)
+10 Standard of judgement for
+organising nicer riot (9)
+11 Plan of action in support of metric
+unit (9)
+12 Dislikeable chap about group of
+officers (5)
+13 Northerner has offal and dessert,
+initially looking insatiably at
+nibbles (12)
+17 Design built-in spade – you can’t
+argue with it (12)
+20 Musical performance a long time
+after surgery (5)
+21 Standard article included in
+assistance for segregation (9)
+23 Ostracise Afro-Caribbean record (9)
+24 Part of church is heard to change
+(5)
+25 Second weapon is harsh-sounding
+(8)
+26 Interfere with award, by the sounds
+(6)
+Down
+1 Second-rate university supports
+disease – there’s no competition (8)
+2 Produce a solution: break up
+parliament (8)
+3 Mathematician from Europe left the
+queen (5)
+5 Hip new athlete crippled – an
+expensive burden (5,8)
+6 Vigorous excavation by insect (9)
+7 Fresh air doesn’t disguise mullet,
+say (6)
+8 Borrowed book found in tall grass
+(6)
+10 Exchange of thoughts on pet one
+brought into religious ceremony
+(13)
+14 Dashed, fired and ravaged (9)
+15 Holding up article, journalist
+complained (8)
+16 Policeman assaulted me. Danger!
+(8)
+18 Cooker, almost superior
+philosopher (6)
+19 Fix about two (6)
+22 Provoke terrorist leader with
+absence of difficulty (5)
+I N H E A D E I N G E S T
+E E M E Y G S T T O R N Q O
+D U M A S O H I B E R N A T E
+U A E A T E O E A M O I N
+C A R E N T R Y A G O G A
+E B S E R C I A O E H O U E I
+I B E N I G N R N E U T R A L
+P U E O C E T D O M A E R S
+I M A C G T E A P O T T
+D N E O L O E O H Y N S I T
+Y R K A T M E N T I E S
+L N T H P N R P N T R N H E
+L E U K A E M I A E I N A P T
+I V R K S E H L F E I W C S
+C U B I S R P E R S U A D E
+P
+Solution to crossword 1432
+P
+T
+K
+H
+E
+I
+T
+Congratulations to Ian Gilmore who
+was the first person to get the correct
+answer in this week. If we keep getting
+people who aren’t at the top of the table
+submitting the correct answers in then
+we might be in for a real upset folks!
+Here is another delectable brain tick-
+ler from our crossword setter for you
+all to try out. Answers, as ever, in to
+sudoku.felix@imperial.ac.uk please.
+Good luck!
+Crossword by: Sam Wong
+K
+S
+A
+blitz him back to the bungalow. The
+friendliness of everyone at the lake had
+to be seen to be believed, by the week’s
+end we were facebook friends with
+wakeboarders from several nationali-
+ties along with nearly all of the staff.
+Cable wakeboarding is a relatively
+new sport, born from the fact that fuel-
+ling a boat every time you want to ride
+is prohibitively expensive for all but the
+most wealthy. A cable is very similar to
+the ‘drag lift’ that you would see on a
+ski slope, but for the fact that it is very
+high and is continuous. The first ques-
+tion most people ask when they see
+the cable is “what is the point in wake-
+boarding if there is no wake to throw
+tricks off?”, there are two answers to
+this question. Firstly cable lakes are
+usually rammed with obstacles such as
+rails and ramps from which to launch
+your tricks, and secondly there is a
+special technique you can learn that al-
+lows you to utilise the elasticity of the
+steel cables to rip you into the air from
+flat water, the so-called ‘raley based
+trick’. There are now far more tricks
+possible on the cable than behind a
+boat, hence it has become a completely
+separate discipline of wakeboarding
+with different competitions etc.
+The standard of riding amongst the
+seven of us ranged from experienced to
+complete beginner, and it is testament
+to the quality of Hip-Notics that not
+one of us failed to improve drastically.
+This was helped by the scorching mid-
+day heat, and the warm waters that al-
+lowed us to ride in board-shorts alone.
+There was a multitude of obstacles for
+the more-experienced to play on and
+even the beginners managed to have a
+go at the ramps by the last day. Special
+mention goes to Bjorn who took brutal
+front edges for the first four days only
+to impress us all on Day Five by not
+only becoming confident on his board
+but also taking on the big launch ramp,
+Jennifer Finerty for landing the ramp
+and body-sliding the funbox only to
+come out with a huge grin on her face,
+and Jak ‘serial fives cheat’ Wilkinson
+for attempting a flat water raley having
+only ever ridden for two weeks before
+the trip. Lorenzon Pikey and Jonners
+dub were confidently hitting most of
+the parks obstacles from day one with
+Jon attempting inverts off the ramps
+whilst Darko and I dedicated our time
+to flat water inverts along with rail rid-
+ing. We all had a fantastic time at Hip-
+Notics and are almost certainly going
+to head back there next Easter.
+Anyone wanting to give wake-
+boarding a try should contact me at
+wjp106@ic.ac.uk we run weekly trips
+to Thorpe Lakes and welcome people
+of all abilities.
+Continued from back page
+Acupuncture and Chinese
+Herbal Medicine
+W
+hat every patient
+asks me – how
+does acupuncture
+work?
+This is a big
+question that is rooted in philosophy
+and history. I would like to give a brief
+history and a brief explanation. There
+is a legend that some 7000 years ago,
+Chinese physicians observed that sol-
+diers wounded by arrows sometimes
+recovered from illnesses, unrelated to
+their injuries, that had afflicted them
+for many years. From this observation
+acupuncture developed, based on the
+principle that diseases can be treated
+by penetrating the skin at particular
+points.
+The story illustrates the importance
+of detailed observation in acupunc-
+ture. It was through observation that
+Chinese physicians identified which
+points on the skin affected and con-
+trolled specific organs. They went
+on to show that by penetrating these
+points with needles, a wide range of
+diseases could be cured. It is gener-
+ally believed that the first needles were
+made of stone, and stone needles have
+been found in ancient tombs in Inner
+Mongolia dating from 2500 BC. Wood,
+bone and ceramic needles were also
+used. Bronze needles became popu-
+lar around 3000 years ago, during the
+Chang dynasty. Today, needles are very
+fine, like a thread of hair, made of ster-
+ile surgical stainless steel. The needling
+sensation is different from having an
+injection but you will experience some
+sensation like a tingling or a dull ache.
+So how does this medicine work?
+Acupuncture, in brief, is a system of
+medicine that aims to restore and
+maintain health and it is rooted in
+Chinese philosophy based on the con-
+cept of Qi. Our health is dependent
+on the body’s motivating energy, or
+Qi, moving in a smooth and balanced
+way through a series of pathways or
+channels in our body, beneath the skin.
+This flow of Qi can get disrupted by a
+number of factors like extreme stress
+from exams, sitting at the computer
+too long without a break, eating on the
+run, not enough time for exercise and
+relaxation, going out every night party-
+ing and lack of sleep. These all cause
+stresses on the body and may manifest
+as Repetitive Strain Injury, Colds and
+Flu, Constipation, Headaches and the
+list goes on.
+Theresa Szewczuk tells us all about this ancient medicine
+I am located in the Ethos treatment
+rooms on Wednesday afternoons nd
+early evenings. A session for Imperial
+students is £25 and for staff it is £35.
+If you have any questions or think you
+would benefit from Chinese Herbal
+Medicine, please get in touch with me.
+For more information call 07810 843
+594 or email me at acupuncture@flow-
+ingriver.co.uk or visit my website @
+www.flowingriver.co.uk.
+Pins and needles, literally, in the foot.
+O
+M
+Current economic climate
+forces Wakeboarding society
+to go to Turkey, but it was
+still good
+Imperial’s 1st XI notch up
+another voctory
+Continuing their successful season so
+far, Imperial 1s rolled over LSBU last
+weekend to make a winning start to
+their ULU Cup campaign last weekend.
+Batting first on an uneven wicket,
+London Southbank collapsed to a pal-
+try 98 all out in 25 overs. The Imperial
+seam attack, led by a youthful and fiery
+trio of 1st years, proved their worth to
+the club by making early inroads into
+the LSBU batting line-up. Ahsaan Is-
+mail, the Singapore Express, was the
+pick of the bowlers taking 3 wickets,
+while Pete swallowed 3 victims and
+Ian wolfed down a further hapless
+batsman. It must be noted that a few,
+shall we say, “lenient” umpiring deci-
+sions did help the proceedings (a little
+strange given that the umpire was a
+LSBU squad member, although coinci-
+dentally he was left out of the playing
+11).
+To Imperial’s credit, they did not let
+the tail wag, and turned the screw via
+consistent tight bowling backed by a
+commendable fielding display. While
+on the subject of fielding, I have been
+told that mentioning the Club Co-
+President Shiraz Sabah’s extremely late
+arrival at the ground (about 3 overs
+through the 1st innings) and his sub-
+sequent drop catch at extra-cover from
+a blasted shot travelling only an inch
+above ground (incidentally the only
+blemish in an otherwise perfect field-
+ing display) must not be mentioned as
+it may jeopardize my selection for fu-
+ture games. Therefore I will avoid this
+topic completely.
+LSBU tried all sorts of tactics to de-
+rail the Imperial bowling attack, from
+deeming the bending of the wrist ille-
+gal in the action of one of the seamers,
+to asking the spinner which way he in-
+tended on spinning the ball before he
+began his spell.
+Despite all this, the tail was bundled
+out thanks to bad shot selection and
+a series of straighter ones from Dan-
+iel Johnpillai, who ended up with 3
+wickets.
+A target of 99 in 40 overs seemed an
+easy task, especially with the abysmal
+display from the LSBU opening bowler,
+Cricket
+Imperial Men’s 1st XI
+Southbank Men’s 1st XI
+a lanky West Indian who thought he
+was bowling at Kingston on a baked
+flat track, rather than an early sea-
+son English strip in Feltham. A series
+of wide bouncers gave Imperial a fly-
+ing start, reaching 25 for 0 in 2 overs.
+However he was replaced after 1 over,
+resulting in 2 quick wickets.
+The runs dried up, and the introduc-
+tion of a wily left arm orthodox spinner
+into the attack didn’t help matters. The
+middle order folded, leaving the home
+team teetering at 60 for 5. In walks
+Navin Surtani to join the tardy Shiraz
+Sabah at the wicket. In a gritty display
+of disciplined batting, they picked off
+the runs one at a time to take Imperial
+over the line.
+Finally, the sledge of the day. In keep-
+ing with the agricultural theme, this
+week’s beauty must go to Ahsaan, who
+when faced with an extremely cautious
+batsman came out with this – “He has
+more leaves than a tree.” Enough said.
+FAIL! One of the Imperial batsmen gets run out
+The wakeboarding gang with their colourful swimwear
+Got any summer
+fixtures?
+Got any nice pictures?
+Want to tell everyone about
+them?
+Then send us your match reports! Medic or IC we’ll take them both
+as we want to show off the vast sporting talent we have here at
+Imperial.
+Send in your report today: sport.felix@imperial.ac.uk
+Shiraz Sabah
+

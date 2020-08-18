@@ -1,0 +1,210 @@
+Underground networking
+Sarah Byrne explores a potentially useful facet in plant-fungi relationships
+Y
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+Malaria mozzies can’t resist smelly feet
+Science Writer
+FRIDAY 24 MAY
+18
+commons.wikimedia.org
+ou probably think hu-
+mans invented com-
+munication networks.
+However according to
+recent research, plants
+might have got there ﬁrst, communi-
+cating with each other through exten-
+sive underground fungal networks.
+Most soil-based fungi grow as hy-
+phae: long, branching ﬁbres that
+form spreading network-like struc-
+tures known as mycelium. In some
+cases the fungus goes a step further,
+interacting with the roots of a plant
+beneath the ground, in a symbiotic
+or mutualistic relationship. The my-
+celium is highly eﬃcient at absorbing
+water and minerals from the soil, and
+the colonised plant gets the beneﬁt of
+this, allowing plants to thrive even in
+drought conditions or mineral-poor
+soils. In return, the fungus feeds oﬀ
+the energy-rich sugars made and
+stored by the plant. The mutualistic
+relationship may also increase the
+plant’s resistance to disease and toxic
+metals.
+It has been suspected in recent
+years that fungal connections be-
+tween plants might play some role
+in communicating. The recent study,
+however, provides the ﬁrst experi-
+mental evidence of this mechanism
+in action.
+The bean plants used in the study
+can develop resistance to infestation
+by aphids when exposed to a sample
+of the insects. However when two
+plants were connected by the fungal
+Compared to uninfected mosquitoes
+malaria parasite-containing mosqui-
+toes are approximately three times
+more attracted to the smell of hu-
+mans, a study shows.
+The researchers from the London
+School of Hygiene & Tropical Medi-
+cine infected malaria mosquitoes with
+the deadly parasite that causes malar-
+ia, Plasmodium falciparum.
+They put the mosquitoes in a con-
+tainer with socks that had been worn
+for 20 hours before the experiment.
+The scientists recorded the number
+of times the mosquitoes attacked the
+socks.
+They repeated the experiment with
+uninfected mosquitoes.
+The infected mosquitoes attacked
+the socks more often and fed for long-
+er than uninfected mosquitoes.
+The ﬁndings, published in PLOS
+ONE, suggest that the malaria parasite
+manipulates the behaviour of mos-
+quitoes and makes them more blood
+thirsty.
+It cannot resist the smell of human
+blood and bites more often and for
+longer. This gives the parasite a higher
+chance of getting passed on to hu-
+mans, so its lifecycle and the deadly
+disease can continue.
+Nick Kennedy
+Dr Logan from the London School
+of Hygiene and Tropical Medicine
+said, “We have shown for the ﬁrst time
+that the sense of smell could hold the
+key to understanding how the parasite
+successfully manipulates the mosqui-
+to to ensure its spread. Exploring this
+further opens up the possibility that
+we could use this knowledge against
+the parasite by developing tools with
+crucial chemicals found in human
+odour.”
+These ﬁndings will enable research-
+ers to develop better mosquito traps
+that speciﬁcally lure malaria-infected
+mosquitoes by human scent. This
+should help eradicate the parasite,
+which infects more than 200 million
+people every year, over three times the
+population of the UK.
+DOI : 10.1371/journal.pone.0063602
+If you’re still in the midst of revision,
+holed up in the library, cramming
+equations and formulae into your
+swollen brain, scientists might have a
+solution. A team of researchers have
+studied harmless brain stimulation
+and found it can be used to improve
+cognitive ability for up to six months.
+The team trained a group of 25 test
+subjects in mental arithmetic whilst
+stimulating their brains using a tech-
+nique called transcranial random
+noise stimulation (TRNS). In typical
+sci-ﬁ style, TRNS involves applying
+DC current to the scalp with elec-
+trodes in saline-soaked sponges. The
+researchers trained the volunteers in
+arithmetic drills and calculation, in-
+volving shallow and deep level brain-
+work respectively. By stimulating the
+area of the brain used for tricky arith-
+metic functions, the researchers found
+the subjects processed unlearned ma-
+terial better and that 6 months after
+the TRNS brain-training they retained
+improvement in the deeper brain cog-
+nition.
+The scientists hope the research
+could be used to help people who suf-
+fer with neurodegenerative illness,
+strokes or learning diﬃculties not
+only in maths but also in other brain
+functions. Lead researcher Roi Cohen
+Kadosh said, “Maths is a highly com-
+plex cognitive faculty that is based on
+a myriad of diﬀerent abilities. If we
+can enhance mathematics, therefore,
+there is a good chance that we will
+be able to enhance simpler cognitive
+functions.”
+Zap your way to a better brain
+Science Writer
+Victoria Druce
+vectorbase.org
+Malaria parasite entices Anopheles mosquitoes to human odour.
+“
+A new way to
+protect agri-
+cultural crops
+against pests
+and disease?
+”
+pests
+pests
+ease?
+ease?
+network, the aphid-exposed ‘donor’
+plant was able to transfer signal-
+ling molecules through the myce-
+lial network to a ‘receiver’. This gave
+the receiver plant the information it
+needed to develop aphid resistance,
+despite never having encountered the
+aphids itself. A ﬁne mesh barrier was
+used to prevent actual root-to-root
+interactions, and controls using non-
+connected plants demonstrated that
+the communication was not simply
+diﬀusion through the soil, providing
+strong evidence that the plants really
+are chatting to one another over the
+network.
+The researchers suggest that we
+may be able to manipulate mycelial
+networks to develop new ways to pro-
+tect agricultural crops against pests
+and disease. Either way it is clear that
+these generally overlooked networks
+are a huge part of plant ecosystems,
+maybe as much so as the internet and
+social networks are a part of our so-
+ciety.
+DOI : 10.1111/ele.12115
+The early growth of mycelium in a mould. Number ticks 230 µM apart.
+“
+Improvement
+in long-term
+cognitive abil-
+ity
+”
+e abil-
+e abil-
+TRNS could lead to a new type of
+learning and education, which Kad-
+soh says might help humankind reach
+their full potential. For now it is still
+in its testing stages but in the future
+maybe we’ll prime ourselves for revi-
+sion with a bout of electrode stimula-
+tion to ease the revising of all those
+equations. Perhaps we’ll even reduce
+the number of hours we spend for-
+tressed on the Library’s ﬁfth ﬂoor…
+DOI : 10.1016/j.cub.2013.04.045
+

@@ -1,0 +1,176 @@
+SCIENCE
+In brief
+science.felix@imperial.ac.uk
+I
+t’s the start of a cold winter’s day in
+London. A young man gets into his
+car to drive to work. Amongst the
+bustle of traffic, a pedestrian runs
+onto the road – the young man sees
+this, but does not react fast enough. The car
+swerves, bumps into the pavement, and he
+wakes up dazed in hospital a few hours later.
+At the back of the hospital, a rat scurries
+across concrete, foraging for food. He senses
+a smell that should raise alarm – a cat. But in-
+stead of running away, the scent intrigues him.
+Throwing caution to the wind, he scurries into
+the open, only to be pounced on by a tabby.
+Overlooking this scene from the window
+of a nearby university, anthropology stu-
+dents are discussing cultural differences
+around the world, debating how these differ-
+ences might have occurred.
+Are these events completely unrelated?
+They would appear to be – but may be linked
+by one, rather unknown little creature; a par-
+asite named Toxoplasma gondii.
+In rats, the parasite is responsible for a
+phenomenon known as ‘fatal feline attrac-
+tion’. The rat becomes less cautious, more
+active, and even seems attracted to feline
+odour. In this way, T. gondii may have led to
+our rat’s untimely demise.
+As for our young man, he may have just
+been tired and careless – or more shockingly,
+his behaviour may have been influenced by
+parasitic infection. T. gondii reduces reac-
+tion times in humans, and can increase the
+risk of road accidents. On a more global
+level, it is possible that the prevalence of
+T. gondii infection, through subtly affecting
+individual personalities, may affect a coun-
+try’s entire culture.
+The situation reads as if it were a script
+from science fiction. How can a parasite pro-
+duce such dramatic effects? Until recently,
+this question has been very difficult to an-
+swer, but genome sequencing of T. gondii
+has produced insightful results. Two genes
+in the parasite produce an enzyme that in-
+creases levels of the neurotransmitter dopa-
+mine, which is known to affect mood, per-
+sonality, and plays an important role in some
+mental illness.
+To understand why this parasite may pos-
+sess these genes, we need to turn to our sec-
+ond case – the tale of the rat and the cat. The
+parasite relies on cats to spread, and an im-
+portant part of its life-cycle occurs in a cat’s
+gut. Altering the rat’s behaviour to increase
+its chances of being eaten would allow the
+parasite to complete its life-cycle, repro-
+duce, and emerge in the cat’s faeces.
+Given this life-cycle, why – and how –
+does the parasite affect humans? It would
+appear that we are accidental hosts; our
+mammalian brains are similar to those of
+rats, but we aren’t affected in quite the same
+way. The main route of transmission to hu-
+mans is through eating undercooked meat
+(from infected cattle, for example). Humans
+can also contract the parasite from the en-
+vironment; soil or unwashed vegetables,
+which may have been exposed to cat faeces.
+The subtle parasite
+Maya Kaushik explains the link between slow reactions and suicidal rats
+Many people around the world are un-
+knowingly infected. The parasite’s effects
+are subtle, and in most healthy people it pro-
+duces no illness beyond mild flu-like symp-
+toms. The precise prevalence of infection is
+not known – in the UK it may be around 7%;
+in other countries it may be much higher,
+reaching as high as 70% in some parts of
+the world.
+But the effects of T. gondii can range be-
+yond just subtle changes in behaviour. Stud-
+ies show that schizophrenia patients show a
+higher prevalence of infection, and whilst
+this correlation does not imply causation,
+the link is under investigation. People with
+AIDS often suffer from acute toxoplasmo-
+sis, which can cause an inflammation of the
+brain leading to severe symptoms, and even
+death. Perhaps the best known symptom of
+the parasite is its impact on foetuses, where
+it can cause spontaneous abortions and se-
+vere neural complications.
+For a parasite that is so common, and has
+such a wide range of effects, the mechanism
+by which it works is surprisingly unknown.
+Its lack of obvious symptoms in healthy
+people has led to it being ignored. My re-
+search will help understand how this para-
+site works in the brain – is it the increase in
+dopamine that causes the rat to change its
+behaviour? What does this imply for infect-
+ed humans? In regions of the world where
+over half the population are infected, the ef-
+fects of this parasite, subtle or not, can no
+longer be ignored.
+Science Editors: Kelly Oakes
+Alexander Karapetian
+Parasites may be lurking on a cold winter’s day, better off staying in...
+Graphene makes inkjet printer
+electronics a possibilty
+Graphene is a unique material consisting of single layer
+of carbon atoms bonded in a hexagonal pattern. As the
+thinnest and most conductive material ever discovered
+it has countless possible applications in electronics.
+Research into the material is progressing quickly, with
+the government setting aside £50m for this purpose
+earlier this year.
+Now a group of engineers from Cambridge University
+have announced that they have managed to produce
+a graphene based transistor using an inkjet printer.
+Writing in a paper published last month on arXiv.org, a
+pre-print repository, the team describe how the perfor-
+mance of their transistors is broadly comparable to that
+of traditional semiconductor transistors.
+The ink for this process was produced by using the
+solvent N-Methylpyrrolidone (NMP) to strip off single
+layers of graphene from a block of graphite in a process
+known as liquid phase exfoliation. While other solvents
+could have been used, NMP was chosen since it stops
+flakes of graphene in an ink droplet becoming concen-
+trated around its perimeter as it dries on a surface – a
+phenomenon which is known as the ‘coffee ring effect’
+and which is highly detrimental to the function of elec-
+tronics produced in this fashion. A centrifuge was then
+used to remove graphene flakes with a diameter of
+more than one micrometer, which might have blocked
+the printer nozzle, and the quality of the ink was as-
+sessed using spectroscopy and transmission electron
+microscopy. A modified desktop printer was used to
+print a transistor onto a surface which was coated with
+hexamethyldisilazane (HMDS) to further reduce the
+“coffee ring effect”. The printer was first tested by pro-
+ducing dot based patterns before moving on to attempt
+a transistor.
+While inkjet printers have already been used to pro-
+duce conventional complementary metal-oxide-semi-
+conductor transistors these have proved, unlike those
+created by the Cambridge team, to operate far too slow-
+ly to be of any practical use. Graphene based electron-
+ics are still far more expensive than their conventional
+counterparts, but the use of simple inkjet technology
+promises massive reductions in price.
+The wide range of surfaces on which transistors can
+be printed and the fact that graphene ink is transpar-
+ent also opens up a wide range of possibilities. The
+team says that their work “paves the way to all-printed,
+flexible and transparent graphene devices on arbitrary
+substrate” and foresees it being used in the production
+of “touch screens, electronic paper (e-paper), sensors,
+radio frequency tags, photovoltaic cells, and electronic
+textiles”.
+Maciej Matuszewski
+FELIX
+10 Friday 09 december 2011
+Like us on Facebook
+Follow the latest science news
+from Imperial and more on our
+Facebook page:
+facebook.com/FelixScience
+

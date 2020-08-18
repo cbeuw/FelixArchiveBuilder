@@ -1,0 +1,178 @@
+1 May 1992 Felix 932 Feature
+further in time, researchers have to
+rely on supplies of preserved 'old'
+air.
+Ice in the Antarctic only forms
+and never melts. One result of this
+is that, every year, air is trapped
+under the newly formed layers and
+simply by taking a cross-section
+through the ice it is possible to
+obtain estimated concentrations
+going back millennia.
+See Figure 2: C02
+Concentrations.
+As you can see from the graph
+accompanying this article, adding
+this data to the directly obtained
+results shows that the steady
+increase in C02 is very much a
+recent phenomena. Indeed, the
+increase over the last thirty odd
+years is almost equal to that over the
+previous two hundred.
+Just for once, we have a clear,
+unequivocal result.
+It is the rarity of results like this
+that makes them so valuable. Most
+observational evidence could best
+Before 1853
+there was no
+standard method
+for measuring
+sea temperature
+be described as 'not inconsistent'
+with an enhanced greenhouse
+effect. This is why, in order to
+understand the climate, we have to
+resort to other means: in particular
+to computer modelling.
+T H E M O D E L S
+Naively, it might be thought that
+the only real way of measuring the
+relative importance of all the
+possible processes which occur in
+the atmosphere and oceans is to put
+all of them together into one huge
+computer model. This is
+impossible, not just because we do
+not know what all these processes
+are, or because such a model would
+be just too big for any computer,
+but because it would tell us
+absolutely nothing.
+Climate research like any science
+works by simplifying the problem.
+Models have been developed which
+simulate the growth of a single
+thunder-cloud, or which can
+calculate the absorption of all
+frequencies of radiation in a column
+of air. On the largest scale, there
+are models designed to calculate the
+flow of air around the whole surface
+of the planet.
+On their own, each of these
+models can tell us what matters in
+one part, in some cases a very small
+part of the atmosphere and in order
+to do so they must all contain cheap,
+cheerful, and not necessarily
+accurate, representations of the
+processes they are not explicitly
+modelling. This is known as
+'parameterisation.'
+As an example, you could think
+of the representation of small
+convective clouds in large scale
+climate models. A convective cloud
+forms in air in which, although it
+contains a large amount of water
+vapour, none has yet condensed
+out. If the ground below such a
+mass of air becomes unusually
+warm, such as over the concrete of
+a city on a sunny day, this can force
+the air upwards. As it rises, the air
+cools and the water vapour
+condenses out.
+Typically, one of these clouds
+will be about a kilometre across.
+Compare this with a large scale
+climate model which can resolve
+nothing smaller that five-hundred
+kilometres wide.
+Within this 500km wide box the
+model must be able to represent the
+effects of hundreds of these clouds:
+the incoming sunlight they reflect
+and the rain that falls from them.
+What is more, it must get through
+all the calculations as quickly as
+possible.
+There are schemes available to do
+exactly this. They are not designed
+to be exact physical analogues but
+are based quite deliberately on gross
+oversimplifications. Rainfall in a
+real convective cloud involves
+individual raindrops forming in the
+body of the cloud, being carried up
+and down on with the wind,
+partially evaporating and then
+growing and so on and so on. In a
+model, all this complexity can be
+reduced to a statement like 'if there
+is more than a certain amount of
+water in a given mass of air, the
+excess all rains out'.
+These schemes are designed to be
+'tweaked'. A few parameters are
+adjusted to give a result as close as
+possible to that which is observed.
+There is no guarantee that the
+tweaking, which works for
+9
+> 0.2
+Figure I: Temperature Change; Global Average 1856-1990.
+Earth today, would still be
+applicable if the amount of C02
+was doubled.
+Nearly all the predictions, of the
+consequences of global warming,
+are based on models like this. It is
+not a great surprise that they do not
+always precisely agree. But neither
+do they totally disagree.
+Parameterisation is the modellers
+hot topic. It has been argued that we
+are reaching a point where the best
+way to model the climate may not
+be to produce models with finer and
+finer resolution but to work towards
+much better estimates of the
+unresolved processes.
+As I said right at the very start of
+this article, the climate is, quite
+possibly, chaotic. Even with the
+best parameterisation, we will not
+see a weather forecast for the 14th
+of March 2050 until possibly the 1 st
+of March 2050. Weather
+forecasting computer modellers will
+not place any faith in their results
+beyond about two weeks ahead.
+This does not mean that, as some
+people have argued, the whole idea
+of using a computer model to
+predict the climate half a century on
+is ridiculous, the results from
+running a working weather
+forecasting model for that long
+could quite rightly be dismissed. A
+climate model is different.
+In a weather forecasting model
+the computer starts with the
+observed current state of the
+atmosphere. It then uses what is
+known, about the physics of the
+atmosphere, to extrapolate forward
+for a few days to give a prediction
+of, say, rainfall at a particular spot.
+Most climate models are not
+designed to do this. The idea of
+such a model is for it to run long
+enough to produce an average of the
+weather over a period of time. The
+weather at any particular hour on
+

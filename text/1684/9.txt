@@ -1,0 +1,550 @@
+ISSUE 1684
+FELIX
+SCIENCE
+FRIDAY, 9TH
+FEBRUARY, 2018 FELIX
+science.felix@imperial.ac.uk SCIENCE science.felix@imperial.ac.uk
+14 15
+Hedgehog helps cancer
+stem cells survive
+Meeting of the minds
+SCIENCE
+Sarah Wong
+Science Writer
+SCIENCE
+Nastazja Laskowski
+Science Writer
+H
+aving to treat
+cancer once
+is enough, but
+stubborn tu-
+mours often have a habit
+of coming back, with
+cancer stem cells (CSC)
+as the likely culprits.
+These notorious cells
+have the ability to self-re-
+new and to give rise to all
+cell types found in cancer
+samples, contributing
+to tumour heterogeneity
+and relapses. Researchers
+are therefore keen to un-
+derstand how these cells
+communicate in order to
+develop novel tools to
+defeat cancer.
+A recent breakthrough
+was reported by a group
+in Germany, where they
+found Hedgehog signal-
+ling was required for the
+survival of colon CSC.
+Whilst the name
+Hedgehog signalling may
+remind you of cute house-
+hold pets, in developmen-
+tal biology it is known
+to be a crucial cellular
+communication method
+that regulates cell growth,
+development, and tissue
+homeostasis. In fact, the
+major signalling molecule
+in this pathway, Hedgehog
+(Hh), was named by the
+scientists who discovered
+that the larvae of fruit
+flies that lack (Hh) had an
+abnormal spiny appear-
+ance. This highlights the
+Hedgehog’s role in devel-
+opment across species, as
+well as the lack of creativ-
+ity among scientists!
+Another important
+signalling pathway is
+called Wingless-related
+integration (WNT). In
+the intestine, WNT helps
+to maintain the plasticity
+or ‘potency’ of intestinal
+stem cells, allowing these
+cells to replace dead intes-
+tinal cells with new ones.
+Given the importance
+of WNT and Hedgehog
+signalling in both de-
+velopment and stem cell
+maintenance, it is not
+surprising that mutations
+in WNT signalling can be
+found in 90% of colorec-
+tal cancers. Unexpectedly,
+Hedgehog genes are not
+mutated in most cases,
+but are often upregulated,
+suggesting that both WNT
+and Hedgehog signalling
+play a major role in the
+progression of colon
+cancer.
+Based on this hy-
+pothesis, researchers in
+Germany used cancer
+organoid models, a 3D
+culture of tumour cells
+obtained from patients,
+to study the relationship
+between these pathways
+and colon CSC.
+By comparing the gene
+T
+his year,
+Imperial College
+Neuroscience
+Society held its
+fourth annual conference
+– ‘Meeting of the Minds’
+– hosting prestigious clini-
+cians and neuroscientists
+from across the UK. This
+was indeed an apt title for
+the event, as research find-
+ings were shared, creating
+stimulating discussions
+and a buzzing atmosphere
+of intellectual curiosity!
+The conference
+brought together speakers
+from many world-class
+institutions, including
+Imperial, UCL, Oxford,
+and Cambridge – to name
+a few. Having commenced
+a BSc in Neuroscience at
+UCL in 2014, I have been
+following this conference
+since its inception. On
+every occasion it explores
+current themes, with many
+students having the op-
+portunity to watch a live
+brain dissection by the
+exceptionally experienced
+Professor Steve Gentle-
+man. This year’s themes
+included neurodegener-
+ation, neuroadaptation,
+paediatric neurology, and
+many more.
+The day started with
+a warm welcome at
+registration from the com-
+mittee of Imperial College
+Neuroscience Society,
+and a keynote speech
+on primary progressive
+aphasia from Professor
+Peter Garrard. Later in the
+day, Imperial’s own Dr
+Amin Hajitou discussed
+delivery of genes to the
+CNS to help treatment
+of neurodegenerative
+diseases and cancers such
+as glioblastoma. To date,
+methods employing ret-
+roviruses, adenoviruses,
+adeno-associated viruses,
+and herpes-simplex virus
+have had significant
+limitations. However, Dr
+Hajitou described why
+the use of bacteriophages
+may be a more favourable
+approach. Bacteriophages
+are viruses which only
+infect bacteria and are
+found in water and food
+offering us protection.
+They can naturally cross
+the blood-brain barrier,
+and once they have
+cleared their target they
+are removed by microglia.
+They work by targeting
+a ligand, and can be
+manipulated for selectiv-
+ity to various molecules.
+The talk finished with
+a poignant quote: ‘the
+enemy of my enemy is my
+friend’.
+The second part of
+the day hosted a choice
+of several speakers,
+including Dr Patrick
+Grover from the National
+Hospital for Neurology
+and Neurosurgery, and
+Dr Bianca Jupp from
+Cambridge University.
+Dr Grover discussed his
+research investigating
+functional and structural
+connectivity (tractogra-
+phy) with implications
+in neurodegenerative
+disease. His work has
+investigated the roles of
+the brain’s default mode
+network (introspective)
+and the salience network
+(outside world). Dr Jupp
+spoke next about her
+research on the impli-
+cation of impulsivity in
+addiction, elucidating
+which neurobiological
+factors may influence this.
+Dr Jupp’s findings have
+implicated D2 receptors,
+neuronal spine density,
+and myo-inositol as
+factors, and have brought
+us one step closer to un-
+derstanding the neurobi-
+ology beneath addiction.
+These were a few of
+the many talks on offer
+throughout the day,
+ending on a keynote
+speech from Professor
+Sven Bestmann from the
+UCL Sobell Department
+of Motor Neuroscience
+and Movement Disorders.
+Professor Bestmann
+spoke about potential for
+precision in non-invasive
+brain stimulation, and the
+lack of disease specific
+models of stimulation.
+This year’s inspiring
+conference finished with
+a relaxed networking
+session. With so much
+to offer, this is an annual
+event that is not to be
+missed. We eagerly await
+to see which speakers will
+be on the jam-packed pro-
+gramme next year. Until
+2019!
+Nom nom nom cancer // Wikimedia
+“Tumours
+often have
+a habit of
+coming back”
+expressions of the differ-
+ent colon CSC in the orga-
+noids, they discovered that
+the WNT and Hedgehog
+signalling related genes
+are often switched on.
+Upon further investiga-
+tion with mouse models,
+they demonstrated that
+non-canonical Hedgehog
+signalling, a particular
+type of Hedgehog, drives
+the WNT signalling
+pathway. By geneti-
+cally knocking out the
+gene (PTCH-1) that is
+involved in non-canonical
+Hedgehog signalling,
+this group showed that
+non-canonical PTCH-1
+dependent Hedgehog
+signalling is necessary for
+colon CSC survival. More
+importantly, Hedgehog
+controls WNT signalling
+to maintain the pluripo-
+tency of CSC by inhibit-
+ing differentiation.
+This is exciting because
+these pathways could
+potentially be targets for
+future development of
+anticancer drugs. Further-
+more, two independent
+groups have already tried
+to target these pathways
+in Hedgehog-dependent
+pancreatic and breast
+cancers cells in 2005, with
+some degree of success –
+providing evidence for the
+feasibility of this concept.
+Though we are still far
+from obtaining a cure,
+there is still hope, and it
+would also be interesting
+to see if this applies to
+other forms of cancer too!
+An inner look at the working of the brain // Wikimedia
+SCIENCE
+Steve Allain
+Science Writer
+M
+ost people
+are aware
+of the
+a m a z i n g
+ability dogs have to
+sniff out targeted items
+or substances they
+have been trained for.
+Although more com-
+monly known as ‘sniffer
+dogs,’ the correct term
+for such trained canines
+is detection dogs. They
+are frequently used at
+airports and other in-
+ternational gateways to
+detect illegal narcotics,
+but may also be used to
+detect explosives and
+other contraband that
+we ourselves are unable
+to detect. Recently,
+however, there has
+been a growing use of
+such well-trained dogs
+to detect endangered
+species which have a low
+detection probability. This
+has worked well in the
+case of certain amphibian
+species and can easily
+be replicated across the
+board for other such taxa.
+sity’s African Amphibian
+Conservation Research
+Group have been inves-
+tigating the potential use
+of detection dogs to find
+fossorial frog species.
+Fossorial species pose a
+number of problems in
+terms of conservation
+particularly when consid-
+ering their low detection
+rates as they spend a
+majority of time buried
+underground, especially if
+they live in a hostile envi-
+ronment. Using detection
+dogs was successfully
+trialled recently to find
+members of the giant
+bullfrog – a species which
+is locally threatened.After
+their success they hope to
+train detection dogs to
+find additional species
+and even to detect traces
+of diseases, which so far
+have been promising!
+There are examples
+closer to home that
+highlight the versatility
+of detection dogs, par-
+ticularly for an infamous
+amphibian species: the
+great crested newt is
+loathed by developers all
+over the country due to its
+legal protection and the
+work required to make
+sure they are moved out
+of harm’s way when land
+developments takes place.
+Unfortunately, when pond
+or terrestrial habitats con-
+taining newts are levelled,
+not all of the individuals
+can be removed. That
+is where detection dogs
+come in! Recently, a
+cocker spaniel was used
+in Norwich to find newts
+still lurking in potential
+cracks and crevices before
+the construction of an im-
+portant bypass. This effort
+proved quite successful
+and there are hopes that
+similar work will occur
+to help clear the way
+for the proposed HS2
+route. Man’s best friend
+has yet another practical
+application, one that
+will hopefully expand
+to other species, soon
+to aid in conservation
+efforts globally!
+Man’s (and nature’s) best friend // flickr/Garry Knight
+“Detection
+dogs can be
+used to look
+for explosives,
+but they can
+also be used in
+conservation”
+Despite not being visible
+to the naked eye they are
+still present, and specially
+trained detection dogs
+have been proving this!
+A team of researchers
+at the North-West Univer-
+Connect with conservation – Detection dogs
+Organs-on-chips to study anti-cancer effects of drugs
+W
+hile our
+i P h o n e s
+get bigger
+by the
+generation, scientists are
+striving to keep things
+small in order to cut down
+on the cost of research.
+An example would be an
+‘organ-on-chip’, where
+aspects of an organ are
+mimicked on a piece of
+polymer that is the size of
+your palm! The applica-
+tion of this technology is
+vast – from drug discovery
+to studying developmen-
+tal biology. Not only can
+these models reduce the
+cost of research, because
+fewer cells and reagents
+are needed, but they can
+also decrease the number
+of animals required in
+research.
+A recent example of
+how organ-on-chips can
+be used is demonstrated
+by a multi-national group,
+which engineered blood
+vessels on silicon chips
+to understand the progres-
+sion of cancer.
+Cancer, similarly to you
+and I, requires oxygen and
+nutrients to grow. They
+secrete chemicals into the
+local environment, which
+induce new blood vessels
+to grow towards them
+through a process called
+angiogenesis, thereby
+bringing nutrition to their
+doorstep. If we can un-
+derstand the mechanism
+by which they feed them-
+selves, scientists may
+be able to starve them to
+death.
+This concept is old, and
+available cancer drugs on
+the market try to achieve
+just that, but their efficacy
+is disappointingly low.
+Furthermore, traditional
+models used to study
+blood vessel growth have
+their limits, and hence
+better models are needed
+for developing new thera-
+pies against cancer.
+A microvessel-on-chip
+has been devised for this
+purpose, and scanning
+technologies have shown
+these vessels can faithful-
+ly mimic the process of
+blood vessels sprouting
+inside the body. On top
+of that, they demonstrated
+a key pathway that is
+known to regulate angio-
+genesis, suggesting these
+engineered vessels are of
+great biological relevance
+to studying cancer.
+To investigate whether
+this model can be used
+for drug testing they
+treated the vessels with
+anti-cancer drugs that
+inhibit angiogenesis,
+Sorafenib and Sunitinib,
+as a proof-of-concept.
+Their result confirmed the
+effectiveness of such a
+model and implicated the
+potential use of microves-
+sel-on-chip for drugs
+screening in the future.
+Nevertheless, there
+are drawbacks to this
+technology. Firstly, due to
+its simplicity the direction
+of angiogenesis cannot be
+studied. As mentioned,
+cancer cells often release
+molecules to direct new
+blood vessels to grow
+towards them. This
+model can only mimic the
+development of vessels,
+but not the directional
+migration of angiogenesis
+sprouting. Therefore, it is
+likely that this technology
+will be used in pre-clini-
+cal models but may not
+fully eliminate the use of
+animals in research.
+Nonetheless, this
+model is an improvement
+from traditional 2D-cell
+culture, and other diseases
+– such as rheumatoid ar-
+thritis and diabetic retin-
+opathy – can potentially
+be studied. Hopefully,
+in conjunction with high
+throughput technologies,
+more effective drugs can
+be developed to cure
+cancer and these related
+diseases in the coming
+decade.
+SCIENCE
+Sarah Wong
+Science Writer
+Microvessel-on-chips are helping fight cancer // CC
+

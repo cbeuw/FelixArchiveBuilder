@@ -1,0 +1,309 @@
+www.felixonline.co.uk
+Felix
+Thursday 24 February 2005 5
+SCIENCE science.felix@ic.ac.uk
+Recently, while splayed out
+on the chilly floor of the
+Somerset House ice rink, it
+occurred to me that my skat-
+ing abilities might improve if
+I understood a little more of
+the science.
+Let me tell you up front in
+case you harbour vague hopes
+of rescuing gauche and medi-
+ocre ice rink performance by
+reading this article: knowing
+the science will not save you
+from your cold watery doom.
+But, fear not, such knowledge
+will almost certainly deepen
+your ice skating experience
+and after all, isn’t a richer,
+more enjoyable encounter
+with the substance what it is
+all about?
+The reason ice skating can
+be so much fun is because ice
+has a uniquely low coefficient
+of friction, which is why skat-
+ers can glide so effortlessly
+across it. So the prime ques-
+tion, then, for any aspiring
+scientific ice skating enthusi-
+ast is: what makes the ice so
+slippery in the first place?
+The pressure myth
+exposed
+The classic explanation was
+to attribute it to pressure.
+The pressure of the skate
+blade was said to melt the
+surface of the ice, causing
+a small layer of water to be
+formed. This created a lubri-
+cant, lowering friction. When
+the pressure was removed,
+it was thought the ice froze
+over again.
+Certainly it sounded pretty
+plausible and for a number
+of years no-one much both-
+ered to investigate. Certainly
+it is true that increasing the
+pressure on ice will lower
+its freezing point. When you
+put pressure on ice, you are
+essentially trying to squeeze
+it into a smaller space.
+Because water takes up less
+space than ice, the liquid
+form becomes more favour-
+able than the solid form. The
+more pressure, the greater
+the inclination for the ice to
+become water. The property
+manifests itself in the lower-
+ing of the freezing point when
+ice is exposed to high pres-
+sures.
+But while all this is eminent-
+ly sensible, it is not enough to
+explain why ice is slippery.
+The problem is that it
+requires enormous pres-
+sures to lower the freezing
+point of water significantly.
+Consider a simple calcula-
+tion. Now I don’t want to give
+away my life ambitions, but
+let’s suppose I am an Olympic
+champion figure skater with
+a mass of 60kg (plus three
+gold medals). My sharp skate
+has 2cm² of contact area. The
+entire pressure exerted by
+my skate is only just under
+30 atmospheres. Which, when
+you apply something called
+the solid-liquid coexistence
+curve in the water phase dia-
+gram, equates to a tempera-
+ture drop of only a few tenths
+of a degree.
+Indeed, it turns out that you
+need to apply a pressure of
+about 120 atmospheres just
+to lower the freezing point
+of water by 1°C. Note also
+that 120 atmospheres of pres-
+sure would likely shatter the
+ice! So according to this the-
+ory you would only be able to
+skate on ice which was just
+below freezing. But the ice we
+generally skate on is much
+colder at below –5°C.
+If it is a bit early in the
+morning for all this, just think
+of light objects like hockey
+pucks or small children. They
+can glide as frictionlessly as
+adults. If pressure was the
+reason for slippery ice, this
+simply wouldn’t be so.
+The current theory
+So what is going on? The prob-
+lemseemstohavebeensolved
+in the late 1990s by a chemist,
+Gabor Somarjai, and a physi-
+cist, Michel Van Hove, of the
+Lawrence Berkeley National
+Laboratory in California, who
+studied the slipperiness of ice
+on an atomic scale.
+According to them, the ice
+itself is intrinsically slippery.
+You don’t need to melt the ice
+to skate on it because the ice
+has a ‘quasi-fluid layer’ that
+coatsthesurfaceandprovides
+a permanent lubricant. When
+pressure is applied, the mol-
+ecules in the layer compact
+into underlying interstices, or
+spaces in the ice structure,
+and create a smooth surface
+for easy gliding.
+The ‘quasi-fluid layer’ is not
+actually liquid water but ice
+molecules vibrating very rap-
+idly. The ice molecules have
+an unusually high degree of
+vibrational motion, several
+times that of the molecules
+deeper in the bulk of the ice.
+But importantly it is only in
+one direction, up and down.
+If the atoms moved from side
+to side, the ‘quasi-fluid layer’
+would literally become liquid
+(which is what happens above
+0°C).
+Somorjai and Van Hove
+investigated the phenom-
+enon using a technique
+called electron diffraction.
+They bombarded a thin layer
+of ice with a stream of elec-
+trons. Detectors recorded the
+angles and velocities of the
+electrons reflecting the ice.
+Surprisingly, they didn’t fol-
+low the simple trajectories
+expected of an object bounc-
+ing off a solid state. Instead
+they were scattered, as if hit-
+ting a constantly changing
+surface.
+The ‘quasi fluid layer’
+may be thicker or thinner
+depending on the tempera-
+ture. Lower temperatures
+give rise to fewer layers
+whereas if the ice is warmer,
+the number of slippery layers
+increases. At around –20°C
+the ice drastically decreases
+in slipperiness so it just about
+resembles any other solid. At
+just under –160°C, the layer
+is as little as one molecule
+thick.
+As to why ice is so slippery
+compared to other solids, this
+is thought to be because the
+chemical bonds that hold the
+water molecules together are
+much weaker than the bonds
+joining other solids.
+‘Fast ice’ vs ‘slow ice’
+The phenomenon may help
+to explain the difference
+between ‘fast ice’ and ‘slow
+ice’, terms sometimes used
+in ice hockey games. ‘Fast
+ice’ is harder and colder with
+a smoother surface, while
+‘slow ice’ is warmer and soft-
+er. Hockey players generally
+prefer ‘fast’ ice because the
+passing and skating is easier.
+Figure skaters prefer softer
+ice for their landings.
+Based on the theory, as
+the ice temperate increases,
+skaters need to move through
+a greater number of ‘quasi
+fluid layers’. Hence more fric-
+tion occurs slowing the skater
+down. The extra layers also,
+no doubt, cushion falls – even
+if you do still get wet.
+Ice-skating: just how do skates glide on the surface of ice?
+The science of ice skating
+It’s not too late to enjoy a traditional winter sport. But do you understand the
+physics involved? Zoë Corbyn elaborates on the motto, “know thine ice”
+News
+in brief
+Mars pictures
+reveal frozen sea
+A huge, frozen sea lies just
+below the surface of Mars,
+a team of European scien-
+tists has announced. Their
+assessment is based on pic-
+tures of the planet’s near-
+equatorial Elysium region
+that show plated and rutted
+features across an area 800
+by 900km. The team think a
+catastrophic event flooded the
+landscape five million years
+ago and then froze out. They
+tell a forthcoming edition of
+Nature magazine that sedi-
+ments covered the ice, locking
+it in place.
+Intel builds first
+continuous laser
+with silicon
+Researchers from Intel have
+created the first continu-
+ous laser beam using silicon
+components, a development
+that could herald significant
+advances in communications
+and medicine. Researchers
+overcame the problem of two-
+photon absorption by using
+a technique from the world
+of semiconductors: it created
+positive and negative regions
+around the path of the laser
+light, which “vacuum” away
+electrons and provide a clear
+road for the laser.
+NASA sets space
+shuttle launch
+date for 15 May
+NASA has set 15 May as the
+launch date for the first shut-
+tlemissionsincetheColumbia
+accident two years ago. “The
+challenge right now is clo-
+sure of an awful lot of paper.
+The vehicle can’t launch until
+all the paperwork is done,” a
+spokesman said. The board
+that investigated the fatal
+2003 Columbia accident rec-
+ommended NASA make 15
+changes before resuming
+shuttle flights.
+Test for canine
+personalities
+Dogs show huge differences
+in personality, according to a
+US scientist who has devel-
+oped a test to assess canine
+character. Dr Sam Gosling,
+of the University of Texas,
+rates the dogs on four key
+traits with positive and nega-
+tive extremes. He adds that
+his work suggests pets should
+be matched with owners who
+have similar personalities.
+The work was presented at a
+major science conference in
+Washington DC.
+Felix guide to resurfacing an ice rink
+● Temperature of ice for hockey is about –9° C
+● Temperature of ice for figure skating is about –5.5° C
+● The vehicle that you see on a rink after a skating
+session is called a Zamboni. It is a mechanical ice re-
+surfacer. To resurface, it uses the following procedure:
+1. Scrape the ice surface and collect the resulting
+‘snow’
+2. ‘Clean’ the ice by putting down water to loosen any
+dirt from grooves
+3. Collect the excess water and dirt
+4. Apply a thin layer of heated water that
+freezes and creates a new smooth surface
+Vorsprung durch science
+I, science
+A science magazine for Imperial
+For more details, contact us now at
+science.felix@ic.ac.uk I did not know that: a Zamboni in action
+

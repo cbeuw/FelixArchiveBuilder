@@ -1,0 +1,193 @@
+TECHNOLOGY
+Technology Editor: Jason Parmar
+Maximilian Eggl
+techology.felix@imperial.ac.uk
+Maximilian Eggl
+oogle I/O has tradition-
+ally, for the past few years
+at least, been an event
+where Google unveils the
+newest and shiniest ver-
+sion of Android to the world. Although
+open source, Android is developed in-
+house with little known to the outside
+world save through the usual rumours
+and leaks. It’s been no diﬀerent this
+year. Prior to Google I/O, there has
+been signs of a new version of Android,
+version 4.3 and widely believed to be a
+new iteration of Jelly Bean showing up
+in server logs. he talk of the grapevine
+was that this version would be unveiled
+during the I/O event.
+It wasn’t.
+here was no mention of it in the key-
+note, although there were cryptic refer-
+ences to it by engineers making pres-
+entations. However, given what was
+mentioned in the keynote itself, we
+may glean some information towards
+Google’s intentions.
+Google unveiled a
+number of new services
+it oﬀers for Android
+during the event. First
+of all, it unveiled the
+Google Play Music All
+Access service, which is
+a Spotify-esque service
+that allows unlimited
+streaming of any music
+in Google Play’s library for
+a ﬁxed monthly fee. his is built
+on top of the already excellent Mu-
+sic service which allows you to upload
+20 000 songs to the cloud for stream-
+ing anywhere. Google also launched
+the Google Play Game Services, its
+answer to Apple’s Game Centre by al-
+FRIDAY 07 JUNE
+22
+G
+lowing you to play games that sup-
+ports cloud saves, matchmaking, and
+leaderboards. Google also unveiled
+the “Google Editions” of a couple of
+high-end phones on the market right
+now that will run the stock Android
+experience without any manufacturer
+skins: the Samsung Galaxy S4 and the
+HTC One. Google+, the ﬂedgling so-
+cial network, also received a massive
+update with its Hangouts chat service
+replacing the aging Google Talk ser-
+vice to compete with the likes of mes-
+saging services like WhatsApp. A re-
+designed version of Google Maps was
+Updating Android without updating!
+A slew of new features for Android revealed at Google I/O 2013!
+The News Bubble
+General news from around the tech world, so you can keep up to date with the
+newest, weirdest and most futuristic things around.
+Mind guided Heli
+Using a non-invasive cap, researchers from the University of Minnesota
+have managed to harness the power of the mind. The participants of the ex-
+periment had to navigate a helicopter through an obstacle course only using
+their thoughts. This success, among others, will aid in the goal to allow those
+that are paralysed to use machines that one day may help them to walk.
+Project Haswell
+Intel has now released a new generation of processors named Haswell. These,
+according to the firm, are capable of a 15% better performance as well as 50%
+more active-use battery life than its predecessors. This is achieved by plac-
+ing a voltage regulator directly into the chip. Also it will allow tablet/laptop
+combinations to be much thinner,as it will not need as much cooling as the
+Ivy Bridge version. Intel will hope that the Haswell processors will allow it to
+break into the mobile market, where ARM has been dominating so far.
+Charger attack
+You can now hack an iPhone with a charger... great! This feat, achieved by
+a team from the Georgia Institute of Technology, means that iOS is more
+vulnerable than previously thought. Using a widely available BeagleBoard
+Computer, costing roughly £30, the charger easily installed a virus into the
+gadget. While at this moment this method of stealing your data is not really
+a problem, if Apple do not patch this up, you should beware how you charge
+your phone!
+Android, Windows 8, Morph!!
+At this years Computex convention in Taipei, Taiwan, Acer has now unveiled
+a laptop that runs both Android Jelly Bean as well as Windows 8. This is prob-
+ably a move to tap into the phablet/laptop-tablet market, and thus boost the
+ailing tech company’s fortunes. I however don’t really see the appeal in this.
+I mean what is Jelly Bean going to do on your laptop that it can’t do on your
+mobile phone? Unless Acer has somehow modified Android, not much.
+Windows 8 Start Button, OMGG!
+YAY! Also released at Computex the new update to Windows 8, 8.1 and for-
+merly known as Windows Blue, will once again reintroduce the iconic start
+button, whose omission was a big talking point when Windows 8 first came
+out. Now Microsoft has bowed to popular demand, and what we all loved is
+back. This move as well others seem to indicate the Redmond giant’s focus on
+the “desktop” environment, emphasising that it is similar to Windows 7, in a
+bid to encourage more people to upgrade to the new OS.
+On A Personal Note
+Once again some personal news. Recently, after being disillusioned by my lack
+of purpose in life post-examination, I decided to Google myself, just for shits
+and giggles. Funnily enough I came upon a BlackBerry forum, that seemed
+to really erm enjoy my BlackBerry article (“CrackBerry or CrapBerry”). Once
+the forum members had dissected title and scoffing at the bad attempt at hu-
+mour, skipping over actually reading the article, they then decided to have a
+go at Felix as a whole. Eek. However some of these users seemed to somehow
+seemed to miss that Felix was a student newspaper, instead assuming that it
+was some lonely individual who had a strange obsession with Imperial Col-
+lege London. If you wanna have a look at extreme FanBoism as well as tell tale
+symptons to avoid just head over to that forum!
+http://forums.crackberry.com/news-rumors-f40/yet-another-new-article-crackberry-crapberry-769412/
+Google Play
+Music All Ac-
+cess; service
+that allows
+unlimited
+streaming Tech editor
+also in the works.
+here is a common theme to the
+new features: they run on existing
+(well, newer ones at least) versions
+of Android without needing an up-
+date. Android updates has always
+been a sticking point in the Android
+ecosystem, causing Fragmentation
+(TM) and other nasties. By not an-
+nouncing a new version of Android
+while revealing a slew of new An-
+droid features, it is likely that Google
+was attempting to show that they can
+add new features to Android with-
+out updating the underlying version
+of Android itself. We ﬁrst saw these
+eﬀorts when Google applications on
+Android such as Gmail began to be
+”
+“
+There is a
+common
+theme to the
+new features:
+no update!
+updated from the Google Play store
+without needing a new version of
+Android. Google I/O continues this
+eﬀort by decoupling some of the
+applications from the An-
+droid core. It is likely that
+this will continue in the
+near future.
+Another reason could
+be due to the increas-
+ing consumerisation of
+the Google I/O event.
+he event was originally
+envisioned to be a plat-
+form for Google to reach
+out to developers. he in-
+creasing prominence of Android in
+recent years have caused consumer
+attention to increase for the event,
+threatening to derail it from its de-
+veloper roots. his could be an at-
+tempt to shift the event back to its
+original focus, and perhaps create
+another event just for consumers. If
+that is the case, then we may yet see
+another event to announce a new
+version of Android down the road.
+he current rumours, which should
+be taken with a pinch of salt, points
+to early June for this.
+Of course, all of the above is sim-
+ply speculation – Google may have
+intended to show Android 4.3 at
+the I/O event but it simply failed to
+materialise due to some last minute
+problems. We may never know. It is,
+however, nice to see that Google can
+in fact update Android without up-
+dating Android.
+Yong Wen Chua
+

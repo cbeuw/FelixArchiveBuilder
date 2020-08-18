@@ -1,0 +1,590 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nonogram
+Fill in neighbouring cells in each row/column to make blocks.
+Each block is separated by one or more empty cells. The num-
+bers indicate the ordered lengths of the blocks to appear in
+that row/column.
+ 
+ 
+
+
+
+     
+ 
+
+
+  
+
+Chess
+White to move first with a forced
+checkmate in three moves for both
+problems.
+       
+        
+     
+     
+      
+ 
+      
+      
+      
+      
+     
+     
+        
+       
+         
+Slitherlink
+Connect adjacent points to form a single, non-crossing loop
+where the numbers indicate how many sides of the cell are
+closed.
+      
+ 
+    
+
+   
+ 
+ 
+Across
+1. Local authority (7)
+5. Man (5)
+8. Wept (5)
+9. Curtly (7)
+10. Exact (7)
+11. Indian stringed instrument (5)
+12. Two wheels, two seats (6)
+14. Enclosed (6)
+18. Indications (5)
+20. Without guile (7)
+22. Mournful poems (7)
+23. Din (5)
+24. Donned (3,2)
+25. Marine algae (7)
+Down
+1. Pilot’s compartment (7)
+2. Join together (5)
+3. Common painkiller (7)
+4. Not a number (6)
+5. Out of when unwell (5)
+6. Germ-free (7)
+7. Lobby (5)
+13. Fail to care for (7)
+15. Stockholm-Moscow midpoint (7)
+16. Come down (7)
+17. Northern young women (6)
+18. Rams and ewes (5)
+19. Descendant or heir (5)
+21. Chosen few (5)
+PUZZLES
+FRIDAY, 3RD
+NOVEMBER, 2017 FELIX
+32
+fsudoku@imperial.ac.uk
+FUCWIT
+1 Nonogram of Ketamine 87
+2 Anti-Gravity Acorns 64
+3 TioUdin 53
+4 HOTRIG 48
+4 Luncheon Pals 48
+6 Q 43
+8 Puzzle Snuggle Cuddle
+Couple
+38
+15 Imperial Stormtroopers 24
+16 Gave up initially - some-
+what inapt with snatch. (6)
+21
+19 Doctor Sudokwho 20
+23 OK 6
+24 Goldman Jachs Off 4
+24 Straight outta Skempton 4
+Only top four and new entries shown.
+Send a picture of your solutions and
+teamname to fsudoku@imperial.ac.uk
+before midday Wednesday to get a
+spot on the leaderboard!
+Points Available
+Crossword 4
+Slitherlink 3
+Nonogram 5
+Chess 4
+TOTAL 16
+Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

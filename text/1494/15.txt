@@ -1,0 +1,183 @@
+FELIX Friday 24 june 2011 15
+TECHNOLOGY
+Augmented reality is here
+J
+ust what is augmented reality?
+I was at an augmented reality
+conference recently and the best
+definition was this: “Augment-
+ed reality is an integration of the
+real world with computer graphics that
+you can interact with.”
+So we are looking at something that
+augments your reality with something
+you can play about with. A good name
+then. But it’s all very well and good cre-
+ating a pair of goggles that overlay what
+you see with floating unicorns and fairy
+dust, but it doesn’t really add anything –
+it’s gimmicky. The general consensus of
+the conference-goers was that the aug-
+mentation had to be useful.
+Augmented reality is only just emerg-
+ing from that gimmicky stage. It’s a
+young technology that is slowly coming
+into the public eye. The main limitation,
+until now, has been the technology re-
+quired for it to be both useful and un-
+obtrusive.
+These limitations were twofold: the
+reliance on fiducials (those black and
+white square markers), and a lack of a
+bridge between the user and the aug-
+mented world. But in the age of the
+smartphone, the latter issue is moot.
+Now it has become a lot easier for those
+innovators in augmented reality to start
+distributing their content to the masses.
+Still an infant industry
+One such company at the conference
+was Wikitude, showcasing their self-
+named augmented reality browser.
+Available on all major mobile operating
+systems, Wikitude allows you to look at
+your surroundings through your smart-
+phone’s camera. It will then overlay in-
+formation and facts about what you can
+see, including user-added content and
+geo-tagged tweets. This is an interesting
+use-case, and it certainly seems to be
+popular (it was voted the best augment-
+ed reality browser two years in a row).
+However, it lacks a great deal of interac-
+tion, and you have to walk around with
+your smartphone in front of you to get
+the effect – not a great look.
+So the next step could be augmented
+reality eyewear – either glasses or con-
+tact lenses. Both of these options may
+be less obtrustive, but there are, unfor-
+tunately, disadvantages to both. People
+don’t want to wear unstylish eyewear
+just for some extra facts about their
+surroundings. With contact lenses it’s
+a technological barrier – not just get-
+ting enough pixels in a contact lens, but
+also having them close enough together.
+This is necessary to give the illusion
+that the overlaid content is a lot further
+from the eye, else it would obscure the
+user’s vision.
+However, advances are being made in
+both of these areas. Vuzix and DARPA
+have both created pairs of augmented
+reality glasses that, while not supremely
+stylish, look more like futuristic sun-
+glasses than lab goggles. On the contacts
+front, the technology is a lot further be-
+hind, but is catching up. Researchers at
+the University of Washington recently
+managed to embed a four-by-four grid
+of blue and red pixels in a single contact
+lens, close enough to avoid the afore-
+mentioned occlusion problem.
+On the other hand, if Ken Blakeslee –
+an investor in many companies involved
+with augmented reality – is to be be-
+lieved, the glasses technology could be
+made ready very swiftly. What is lack-
+ing is a consumer demand for augment-
+ed reality itself. Without this demand,
+companies and investors won’t put the
+money required into research and devel-
+opment of the technologies.
+Perhaps with more advancements,
+the general public may find something
+that leads them to be more interested.
+That said, in a time of recession and
+careful investments, we’re definitely
+going to need to get augmented reality
+away from being a gimmick. It needs
+to be something that enhances the us-
+er’s life.
+Thankfully, some people do seem to
+be heading in that direction. One par-
+ticularly interesting presentation was
+from Holition, who describe themselves
+as “leaders in augmented retail”. They
+described an advertising/retail initiative
+they had undertaken with Selfridges
+and watch manufacturer Tissot. Cus-
+tomers outside the store were given a
+single coloured watch band to put on.
+They could then hold this up to a web-
+cam above a screen on the wall of the
+store to see a Tissot watch on their wrist
+in real time, and use that touch screen
+to customise the watch with immediate
+effect. In addition, they could take this
+watch placeholder with them to use on
+the Tissot website at home with their
+own webcam.
+This is a great use for augmented re-
+ality. It brings benefits to both parties,
+which means it’s exactly the sort of
+initiative that will bring the technology
+closer to the public eye. For the con-
+sumer, it saves a lot of time with trying
+on the accessory, and allows them a lot
+more customisation than they would get
+in the shops. It can save and even gener-
+ate extra revenue for the company (as
+they need make fewer watches if most
+people use this system). This particular
+example gave a return on investment of
+four to one. It was also said that the trial
+was considered a success, with others
+also having been completed. This is a
+hopeful sign for pushing augmented re-
+ality forward.
+Making it a reality
+So where does the technology go from
+here? It really needs something to push
+it forward, to accelerate its growth.
+And if investors aren’t prepared to
+stump up their cash, maybe it will
+be games that provide this spurt. The
+games industry is huge, and if it were
+to adopt augmented reality en masse,
+it would almost certainly make it big
+very quickly. This is definitely a possi-
+bility, as we’re starting to see examples
+of this already.
+The Nintendo 3DS is the main con-
+tender here, with its impressive aug-
+mented reality software. Effects such
+as apparently warping the surface that
+you’re playing on bring a worthwhile
+addition to the game, but perhaps with-
+out the 3D it wouldn’t have such an ef-
+fect. But Nintendo aren’t the only ones
+– Samsung demoed their AiRaid game
+at the conference. It’s a game based on a
+similar concept to Nintendo’s own Face
+Raiders, but at least it shows that com-
+panies are taking an interest.
+It’s good to see that some big names in
+different sectors of the market are really
+getting their hands dirty with augment-
+ed reality. It is an emerging technology,
+and it may still take a few years before it
+takes off. But when it does, I’m sure it’s
+going to be huge.
+But Chris Bowers examines whether it is all that it is cracked up to be
+Despite the fact that she can wear translucent purple tape over her eyes and still look attractive, keep in mind the same may not apply to you...
+“Researchers at
+the University of
+Washington recently
+managed to embed
+a four-by-four grid of
+blue and red
+pixels in a single
+contact lens”
+

@@ -1,0 +1,211 @@
+SCIENCE
+FELIX Friday 18 may 2012 11
+A recipe for disaster?
+T
+he online publication of a
+controversial article out-
+lining potentially damag-
+ing data about the influ-
+enza virus finally went
+ahead recently, after a significant delay.
+Nature, after careful deliberation, pub-
+lished the paper much to the dismay of
+several official bodies, after the case
+was brought to a hearing in April by the
+US Senate. With scientific research be-
+ing increasingly hindered by outside in-
+fluences, is it time to make an absolute
+decision over what exactly can be pub-
+lished once and for all? Or would this
+be detrimental to scientific advances?
+The paper, containing methodology
+and data covering artificial generation
+of a strain of H5N1 avian flu, that has
+the ability to transmit between mam-
+mals, was deemed initially unsuitable
+for publication unless highly censored
+by the US National Science Advisory
+Board for Biosecurity (NSABB) last
+November. However, such recommen-
+dation was only advisory; Nature still
+went ahead with the publication in full,
+entitled “Experimental adaptation of an
+influenza H5 HA confers respiratory
+droplet transmission to a reassortant H5
+HA/H1N1 virus in ferrets.”
+Nature, a highly influential journal,
+stated after that “A paper that omits
+key results or methods disables subse-
+quent research and peer review” and
+as such, went ahead and published the
+paper as intended, with no censorship.
+The paper itself justifies the research
+in the abstract, by explaining that now
+the ability to create and recognise this
+transmissible strain has been exercised
+in full, possible pandemics can be dealt
+with as time effectively as possible.
+Issues involved were whether those
+who repeat the investigation will be
+entirely safe in their attempts, and if
+there is a possibility of it escaping a lab
+and infecting the public. The US Sen-
+ate voiced its concerns over the extent
+to which the research could be used to
+aid bioterrorism should it get into the
+wrong hands. Both concerns are justi-
+fied, but are the best solutions simply to
+keep such information under wraps?
+The World Health Organisation has
+been encouraged to release guidelines
+about international standards for bio-
+safety in laboratories, which hopefully
+will minimise the risk of laboratory
+based strains becoming dangerous, al-
+A recent study published in the journal
+Cell has identified a major genetic com-
+ponent of human brain development,
+with implications for research into au-
+tism and schizophrenia. Scientists at
+The Scripps Research Institute have
+found that the gene SRGAP2, the pro-
+tein product of which is responsible for
+forming neuronal connections in neo-
+cortical development, has undergone
+two human-specific truncated duplica-
+tions.
+One of the duplicates has been named
+SRGAP2C, and appeared in the ge-
+nome about 2.4 million years ago, dur-
+ing the time in which human lineage
+separated from nonhuman primates
+(a related paper published in the same
+issue of Cell covers the recent evolu-
+tion of SRGAP2). SRGAP2C interacts
+with the original SRGAP2 to inhibit its
+functions, delaying the maturation of
+dendritic spines on pyramidal neurons.
+Dendritic spines are crucial for integrat-
+ing synaptic signals from other neurons.
+Far from having a negative effect
+on brain development, SRGAP2C ul-
+timately results in a higher density of
+dendritic spines on the neurons when
+they mature – a human-specific trait.
+Conditions like schizophrenia and au-
+tism in humans feature atypical neuro-
+nal connectivity; studying human-spe-
+cific gene duplications like SRGAP2C
+may allow such diseases to be effective-
+ly modelled in mice, and unravel some
+of the mysteries surrounding these and
+other neurodevelopmental conditions.
+DOI: 10.1016/j.cell.2012.03.034
+Brainy gene
+Fiona Hartley
+The European Space Agency (ESA) is
+to lead a billion-euro mission to Jupi-
+ter and its icy moons. The Jupiter Icy
+Moons Explorer (JUICE) spacecraft is
+scheduled to launch in 2022, arriving in
+the Jupiter system in 2030.
+A five-tonne satellite will be sent out
+to Jupiter in order to make a series of
+close measurements of the giant planet
+and three of its moons: Ganymede, Cal-
+listo and Europa. The satellite, packed
+with instruments, will take eight years
+to reach Jupiter, spend another three
+years studying the system before crash-
+ing into the surface of Ganymede.
+UK researchers including Professor
+Michele Dougherty of Imperial Col-
+lege, lead scientist of the JUICE mis-
+sion, played a central role in gaining
+approval for the mission. The JUICE
+concept was chosen over two other
+ideas, NGO, which would place three
+high-precision satellites in space to de-
+tect gravitational waves, and Athena,
+Green light for JUICE-y space mission
+Sophia David
+Pretty deadly: a transmission electron micrograph of the H5N1 virus (gold)
+Centers for Disease Control and Prevention
+though no measures as of yet have been
+suggested to counter possible bioterror-
+ist situations.
+The same sort of dilemma came
+alongside stem cell research when it
+started to gain popularity. Eventual
+bans were placed in some countries
+such as Germany and Finland over em-
+bryonic stem cell use, despite results
+having long term potential to make a
+huge difference in medicine. Although
+the issues with stem cell research were
+ethical as opposed to safety-related,
+both situations highlight how the gov-
+ernment can take control of scientific
+activities and even halt them altogether.
+Legislation is made on a case by case
+basis, but is it time a more universal set
+of laws were put into place to protect
+both the ability to advance in science
+and the general public? Or is our scien-
+tific understanding expanding at such a
+rate that we can no longer predict what
+scenarios may arise in the future?At this
+point, research and its consequences are
+varied as different scientific discoveries
+spark different dilemmas, so perhaps a
+law that fits all is unrealistic. However,
+with clashes between law and science
+increasing in frequency, it seems that
+it may only be a matter of time before
+something has got to give.
+Philippa Skett weighs up the pros and cons of publishing research on H5N1
+which would see the creation of the
+largest X-ray telescope ever built.
+Ganymede, Callisto and Europa are
+all suspected to harbour deep oceans
+of water below their icy crusts which
+could be conducive to microbial life.
+To investigate whether Jupiter and its
+moons could provide habitable envi-
+ronments, JUICE will study the stormy
+atmosphere of Jupiter and its magnetic
+and charged particle environment.
+However, the main focus will be on
+Ganymede, the solar system’s larg-
+est moon which is 8% larger than the
+planet Mercury. JUICE will make close
+measurements of the surface, sub-sur-
+face, magnetic and plasma environment
+of the giant moon. Multiple flybys of
+Callisto and two flybys of Europa will
+also be performed.
+Professor Dougherty said, “There
+are four conditions required for life
+to form. You need water; you need an
+energy source – so the ice can become
+liquid; you need the right chemistry –
+nitrogen, carbon, hydrogen; and the
+fourth thing you need is stability – a
+length of time that allows life to form.
+“The great thing about the icy moons
+in the Jupiter system is that we think
+those four conditions might exist there,
+and JUICE will tell us if that is the
+case.”
+The final budget for JUICE is ex-
+pected to be approximately 1.1bn euros.
+This includes the cost of manufacturing
+the spacecraft, launching the satellite
+and operating it until 2033 and JUICE’s
+eleven instruments.
+The ESA Science Study Team for
+JUICE includes researchers from Im-
+perial, Oxford University, University of
+Leicester and UCL. A pyrimidal neuron and dendrites
+The three moons of Jupiter that JUICE will visit: Ganymede, Calisto and Europa (not to scale)
+

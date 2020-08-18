@@ -1,0 +1,92 @@
+interview film
+Is there m u c h sharing of trade secrets between yourslves and
+the let's say the makers of Final Fantasy or Shrek?
+Lee Unkrich: Back before Toy Story there was a computer ani-
+mation community. You call it a community when you don't
+make much money at it, instead of an industry. But it was defi-
+nitely a community. It was an art form that had grown out of a
+science. A n d in the scientific world there is this sharing of
+ideas, done through publishing of technical papers. In journals
+and in conferences and so on.
+There used to be this computer graphics conference called
+Cigraph, when I first started working with computer animation
+and it was the thing the entire industry revolved around. There
+really wasn't much else. It was a place where every single tech-
+nical advance was published as a paper.
+There's still a very, very strong tradition of that now. In still
+publishing papers. We have won a number of technical
+Academy Awards for the work that we've done and to win those
+we had to share. It's impossible not to. So there is quite a bit of
+sharing going on.
+I guess as it has gotten more competitive, certain things you
+do hold back, or you maybe hold back a few years and then pub-
+lish. The one thing we're proud of still is Renderman, our ren-
+dering system and it's a prop that we sell and it's become stan-
+dard in the industry.
+In the last 10 years there have been 26 films nominated for
+best special effects in the Academy Awards. 24 of those 26 films
+have used Renderman. So whenever we make a new develop-
+ment in our own movie it tends to ripple throughout the entire
+industry.
+Are there any projects that you need to wait 5 to 10 years to
+be able to do?
+JL: In the early days of computer animation everybody assumed
+you can do anything with computers. A n d then they try it and
+they get into something that too difficult and it just doesn't
+work. So we're always aware of what it can and can't do and the
+limitations guide it in that way.
+As computers develop, those limitations are becoming fewer
+and fewer but there still are limitations. And, you know, this is
+a business as well. You cannot take like 24 or 36 hours of frames
+and then edit your film out of that. You just can't do that.
+Finances won't cope. You can do some expensive money shots
+that do take a long time, but then you have to balance them
+with other things.
+Comparing the subject matters: Bugs, Toys, Monsters..
+Monsters Inc. was very ambitious because the characters were
+much more organic than we'd had before. Bugs were exoskele-
+ton characters where they were maybe organically shaped, but
+they still hinged, and were a little easier to do. Same with Toys
+in that respect.
+In terms of computer animation Pixar is going from strength
+to strength. Will we ever see an adult movie like this?
+JL: The way I look at it is that we make movies for the adults.
+We just happen to include kids and if we make a movie just for
+adults we're excluding a huge chunk of our audience.
+Will it happen? Yeah, sure. Final Fantasy was starting down
+that direction and I think that it's really a matter of time.
+There are a lot of hidden jokes and references hidden in the
+background of this film. Would you like to point any out?
+LU: Yeah, the coffee shop, in the Monstropolis, is Hidden City
+cafe which is back in the little town where Pixar is. It was the
+place we always went for lunch.
+PD: Yeah, and when they're trying to get rid of Randall at the
+end of the movie, he ends up in the bayou down in Louisiana.
+But the trailer that he ends up in is actually the same trailer
+from A Bug's Life: Bug City is actually underneath that.
+JL: There's a Pizza Planet Truck that's been in all four Pixar
+movies.
+Was it your decision to get Billy Crystal involved in the film?
+We actually approached Billy Crystal as the first person on Toy
+Story and he turned us down for Buzz Lightyear. But as soon as
+we talked to him about doing Monsters Inc. he said, it's the one
+decision in his entire career that he regrets making to this day .
+Were you consciously trying to make a point about the ener-
+gy shortage crisis in America?
+JL: We deny that the energy crisis was a convenient marketing
+ploy for Monsters Incorporated.
+PD: We were doing the whole energy shortage thing and going,
+"You know, are kids really going to be able to relate to his? I
+mean, the last energy crisis was, what, '78 or something." But, I
+mean, it doesn't really matter because the story works even
+without that for kids. A n d then the whole energy shortage thing
+happened and it's kind of a coincidence.
+JL: In Monstropolis, there's a headline: "Rolling blackouts
+expected". A n d we actually had rolling blackouts in California
+this summer and even Pixar was hit with one. Everything came
+back up except our e-mail.
+LU: Our email was gone almost a week.
+JL: You know, if you want to see a bunch of adults cry, just take
+their e-mail away.
+Darius
+

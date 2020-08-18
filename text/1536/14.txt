@@ -1,0 +1,188 @@
+Your atomic number’s up
+Pavitar Singh Devgon talks about the new clock that has got the masses into a frenzy
+W
+WAA WAA WAA I HATE COMPE-
+TITION. LET’S SUE THEM YEAH
+Ugandan pygmy tribe display flexible footwork skills
+Nick Kennedy Science Writer
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 18 JANUARY
+14
+hether it was us-
+ing sand, sun-
+dials or swing-
+ing pendulums,
+humans have
+strived to create more eﬃcient time
+keeping devices. he past century saw
+a large jump with the introduction
+of the atomic clock. Current models
+operate by measuring the microwave
+energy signature of electrons drop-
+ping between energy levels. hese are
+remarkably precise with errors as lit-
+tle as 1 part in 1017, which equates
+to dropping a second every 3 billion
+years or so.
+Since the metric system was deﬁned
+(later superseded by the Internation-
+al System of Units), physicist have
+sought ever more precise methods
+to determine the standard weights
+and measures. For example, the me-
+tre was ﬁrst deﬁned as a fraction of
+the meridian line on the Earth – a
+very physical and tangible measure.
+With the aim of improving accuracy,
+however, it was generally adopted to
+deﬁne the base units in terms of im-
+portant physical constants, which are
+more resolute and rigid. his had led
+to the metre being deﬁned as a frac-
+tion of the speed of light. he second
+is measured by the radiation emitted
+from electron shell transitions of a
+ﬁxed, duplicable atom. All the other SI
+units are deﬁned this way, apart from
+the kilogram, which is deﬁned only in
+terms of a prototype platinum-iridium
+rod kept in France.
+A research experiment by a team
+from the University of California,
+Berkeley, intended to produce accu-
+rate atomic clocks, and could now also
+be used to reﬁne the deﬁnition of the
+kilogram. Based on Arthur Compton’s
+idea that photons deliver kinetic ener-
+gy to electrons and alter their momen-
+tum, and Louis de Broglie’s theory that
+moving electrons can be thought of as
+waves, the new atomic clock works by
+measuring the Compton frequency of
+atoms.
+Characteristic Compton frequen-
+cies are used: around 1020 Hz for
+electron-waves, and 3 × 1025 Hz for
+a caesium atom. An ultra-precise la-
+ser is used to deliver ﬁxed impact
+pulses to half a sample of caesium
+atoms, with the eﬀect of slowing the
+Compton frequency. By combining
+the pulsed sample with the original
+half and using atom interferometry to
+measure their interaction. When the
+samples separate to a multiple of the
+Compton frequency, the output of the
+interferometer is high. he frequency
+of the ﬁxed impact pulses is then the
+frequency of the atomic clock.
+hough the new atomic clock is only
+accurate to 4 parts per billion, Holger
+Müller, leader of the research team,
+states that “it’s no better than the
+original atomic clocks 50 years ago.
+But who knows what we could achieve
+with ﬁve decades of improvement.”
+What is diﬀerent about this experi-
+ment is that other atomic clocks are
+dependent on several parameters of
+the system, such as spin of electrons
+and its interaction with the nucleus.
+hese are not always fundamental
+and could be improved. Additionally,
+they require at least two atoms, one
+for reference, while this design could
+be adapted to work with single atoms
+and high-precision lasers.
+Nevertheless, there is criticism of
+the research. Claude Cohen-Tan-
+noudji, winner of the 1997 Nobel
+Prize, is not satisﬁed with the ﬁnd-
+ings and what is claimed from them:
+their paper “reports a measurement
+of the recoil frequency, but this recoil
+eﬀect has been known for decades.
+Any atomic clock involves masses. But
+nowhere in their experiment, does a
+real Compton oscillator at 1025 Hz
+appear!” While the debate continues,
+other physicists are at least interested
+in the possibilities mentioned.
+DOI:10.1038/nature.2013.12191
+Scientists from Dartmouth College,
+Hanover, recently focused on the an-
+kle-flexibility of pygmy populations
+in Uganda. hey ﬁlmed the honey-
+gathering behaviour of pygmies to
+measure the flexibility of their ankle
+joints.
+he ﬁndings, reported in he Pro-
+ceedings of the National Academy of
+Sciences, show that pygmy hunter-
+gatherers have extraordinarily flexible
+ankles. his enables them to climb up
+trees with their shins almost touch-
+ing the trunk, like a chimpanzee. If
+a person unaccustomed to climbing
+bent their foot to such extremes, they
+would suﬀer severe damage.
+he team used ultrasound to com-
+pare the length of leg muscle ﬁbres
+in the Twa of Uganda, a pygmy tribe,
+with those found in the Bakiga, Ugan-
+dan farmers who seldom climb trees.
+hey found that the ﬁbres running
+alongside the shin bone were much
+longer in the Twa.
+he pygmy climb trees mainly to
+collect honey, a vital component of
+their diet and an indicator of social
+prestige. But climbing and foraging
+at such heights, in excess of ﬁfty me-
+tres, is extremely dangerous. Among
+the Aka, a nomadic pygmy tribe, falls
+from trees account for seven per cent
+of male deaths.
+Safe, quick climbing could have
+acted as the selection pressure driv-
+ing unusually flexible ankles.
+hese ﬁndings have important
+implications for human evolution.
+About ﬁve million years ago, ances-
+tral humans started walking about on
+two feet, but exactly what drove this
+milestone in human development has
+long been debated. From studying
+the fossil record, some anthropolo-
+gists believe that early hominids were
+incapable of climbing trees because
+of their foot structure. his has led
+to the over-simpliﬁed classiﬁcation
+of dividing human ancestors into two
+groups: those that swung through
+the forests and those that stalked the
+Love Science?
+(We have it on good authority that you said
+this in your personal statement... twice)
+Why not write for us? Get in touch!
+science.felix@imperial.ac.uk
+Follow us on Facebook, where we’ll post
+up any interesting stuff we stumble upon
+(science-related, obviously).
+open plains. However, with the dis-
+covery of an ankle adapted for life
+in the trees in modern humans, the
+situation becomes a touch more per-
+plexing.
+DOI:10.1073/pnas.1208717110
+Facebook facebook.com/Felixscience
+This may or may not be the scene in
+the labs at the University of California
+Pygmies display extraordinarily flexible ankles,
+allowing them to collect honey from trees
+http://www.hsmagazine.net
+http://phenomena.nationalgeographic.com
+

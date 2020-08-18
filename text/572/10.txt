@@ -1,0 +1,222 @@
+m m m
+Nobody solved the chess puzzle (I warned you
+it was difficult) and the only person to get the
+other three right w a s Roland Marslin,
+Physics 3, and he wins a total of £14 in prizes.
+Roland was the only person to get Silent Audit
+correct; incredibly he solved it without cl
+correction slip.
+There were several correct replies to the
+other two puzzles. Open Fire was won by
+Jasper of IC Radio, and Santa Clues by David
+Bogle of C h e m Eng. They can collect £2 each
+from the F E L I X Office.
+Thanks and congratulations to everyone
+who entered, and especially to Stephen Harris
+and Katharine Herbert who did better than
+most, but were unlucky in the draw.
+Open Fire
+Ten missiles are needed. The diagram shows a
+symmetric solution.
+As I intended, it's easy to find a solution with
+ten missiles, and even easier to convince
+yourself it is possible with nine missiles. It isn't.
+o o
+o
+o o
+o o
+o
+o o
+Santa Clues
+Prancer drinks Arctic Lite, and Dasher sings
+'Hark The Herald Angels Sing'. These are the
+only possibilities for the information I asked
+for, although it isn't possible to allocate all the
+attributes to the reindeer uniquely. O n e
+solution is:
+Dasher Blitzen Rudolf Donner Prancer
+Purple Green Red Yellow Blue
+Ribbons PackssleighBells Sack Lights
+Port Gin Rum Whiskey Arctic Lite
+Hark Silent NightJingle Bells WhileShep O Come
+with the reindeer harnessed in this order, with
+Dasher at the back, and Prancer at the front.
+Kamikaze Chess
+Let's start with some basic observations about
+the position.
+1. Obviously neither side will make any
+pawn move.
+2. If White moves his black-square bishop,
+Black can play B x B check, forcing K - N l , and
+now White's position is hopeless.
+3. If White moves his rook off the back
+rank, Black can move his black-square bishop,
+and again White cannot now force Black to do
+anything.
+4. If White permits (or forces) Black to play
+B x B check at any time, he must make sure his
+rook is not in a position to block the check.
+For instance 1.B-B6 B x B c h is no g o o d ,
+because of 2.R-N2.
+Putting all this together, we see that White
+must shuttle his Bishop up and down the
+diagonal, and his rook back and forth along the
+back rank (making sure it is always either
+behind his bishop, or else o n the 'safe'
+square, KR8) until he can force Black to play
+B x B mate.
+Forming this strategy is the first part of the
+problem, and it's no small achievement to do
+so; congratulations if you got this far. But
+worse is to come, since in deciding the best
+tactics, you have to consider what are the best
+counter-tactics for Black.
+It's done like this:
+In the diagram I have put numbers on
+certain squares of the board. Black's best play
+is as follows.
+1. If possible, play B x B without giving mate.
+2. If this is not possible, make sure that the
+number of vacant squares between the two
+white-square bishops is equal to the number of
+the square on which the white rook stands.
+Black will be able to achieve one of these
+aims as soon as (and only if) White makes a
+slip.
+White's best play is similar.
+1. Make sure that the number of vacant
+squares between the two white-square bishops
+is equal to the number of the square on which
+the rook stands.
+2. Never move the rook from a lower to a
+higher numbered square. This will eventually
+force Black to play B x B mate.
+All rather complicated, so here are a couple
+of examples. In the first, White blunders on his
+first move.
+B-K5
+B-Q4
+B-B3
+B-N2 and White is
+r
+BxB
+)-B2 he cannot force Black
+1. R-QB8
+2. B-B3
+3. B-K4
+4. B-Q5
+stuck, since after
+5. B-B6
+6. R x B B ( N
+to mate him.
+This is how it should be done.
+1. R K B 8 B-Q4 (there's nothing better
+for Black)
+2. R-Q8 B B3
+3. B-B3 B - N 2
+4. B-K4 B-B3
+5. R-QB8 B - N 2
+6. B-Q5 B-B3
+7. R-R8 B - N 2
+8. B-B6 B x B mate
+Silent Audit
+99V2p, 98V2 P, 95V2p, 90y2 p, 50V2 p, V2 p.
+Of the four sworded puzzles, this one was
+unquestionably the most sworded of a l l ,
+although the idea behind it is extremely simple.
+The point is that although each monk tendered
+£1, they didn't all offer a £1 note. A n d so the
+shopkeeper was able to deduce, for instance,
+that a monk who offered 50+10+10+10+10+10
+pence wanted a candle costing more than 90p.
+In fact, the smallest coin tendered defines a
+limit to the amount of change expected.
+Now, we know they all wanted differently
+sized candles, so the shopkeeper could only
+make his deductions if the smallest coins
+tendered by each of the six were different.
+Let us make a table of possibilities:
+Smallest Coin Minimum Prize
+Tendered
+'/2p
+Ip
+2p
+5p
+lOp
+50p
+£1
+of Candle
+£1
+99V2p
+98>/2
+p
+9sy2 P
+9ov2p
+S0'/jp
+V
+2
+P
+Max Change
+Given
+nil
+'/2P
+I
+V
+2
+P
+4'/2P
+9'/2P
+49>/2
+p
+99>/zP
+So the maximum amount of change the
+shopkeeper could possibly have given was
+V2+lV2+41
+/2+91
+/2+491
+/2
++
+991
+/2=£1.65.
+But we are told that he did hand out £1.65 in
+change. S o the amounts handed in change to
+the individual monks were V2P, IV2P. 472P,
+9V2 P, 49V2P. and 99V2p which determines the
+prices of candles as 99V2P, 98'/2P> 95V2p,
+9OV2P. 50V2P, a n d V2P (this l a s t o n e
+presumably for a birthday cake).
+I hope this is enough of an explanation; it's
+by no means as complete as it might be, but to
+go into greater detail would be unnecessarily
+tedious. But if anyone still doesn't understand,
+write to me at the usual address and I'll send
+you a really detailed solution.
+Also, I hope that everyone got a correction
+sheet to say that the amount of change was
+£1.65, not £1.66. That mistake cost me my
+second consecutive night's sleep, but for such
+a lovely puzzle (adapted from a Tantalizer by
+Martin Hollis) it was worth it.
+Compiled by Phil Webb
+ACC
+The next general meeting of A C C will be
+Tuesday, January 13, 1981 in the Bot/Zoo
+Common Room. A representative of each
+club is required to attend since the main topic
+is . . . money.
+Keys
+Towards the end of last term a key to the new
+volleyball court was mislaid. If you know the
+whereabouts of this key could you return it to
+the Union Office P D Q since its loss could
+mean the loss of the court to some users.
+Phil's Bit
+I need urgently (!) photos of College sports ..
+. . swimming, rugby, rowing, squash, etc (not
+for FELIX). If yoiu have any, please could you
+let me have them via either the FELIX Office,
+3M letter-racks or Falmouth 132.
+Cheers
+Phil
+FELIX, January 9, 1981 Page 11
+

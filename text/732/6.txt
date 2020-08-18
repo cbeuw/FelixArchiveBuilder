@@ -1,0 +1,284 @@
+Ladders
+My friend M o b i u s is a
+dedicated puzzle fanatic.
+S o addicted is he in fact,
+that he continually invents
+puzzles from everyday
+situations (much to my
+annoyance). The other day,
+for example, he told me
+that on his way to college
+he was walking down a
+small alleyway behind his
+house The alleyway was 5
+feet wide. T w o ladders
+were placed so that each
+ladder touched the base of
+the opposite wall to that
+which it was leaning on,
+and they both leaned
+against different walls. O n e
+ladder was 16 feet long, the
+other 11 feet long. What
+M o b i u s wanted to know
+was; could he, walking in a
+straight line parrellel to the
+alleyway, walk under both
+ladders without bumping
+his head (Mobius is
+extremely unsuperstitous
+and will purposely walk
+under ladders in defiance
+of supernatural forces)?
+M o b i u s wouldn't tell me the
+answer, he said it wasn't
+very difficult and I should
+do it myself. But he did say
+that I shouldn't take into
+account the width of his
+head or the ladders. C a n
+y o u tell me what answer he
+got? By the way, M o b i u s is
+5 feet 11 inches tall.
+R a n d o m l y selected
+winner will receive £5.
+A n s w e r s plus c o m m e n t etc
+to the FELIX office by
+Tuesday lunchtime please.
+It seems that the problem I
+set a few weeks ago, tricky
+triangles, first appeared in .
+FELIX four years ago, in
+Martin S Taylor's excellent
+S C A R A M O U C H E C o l u m n .
+B e i n g quite a clever puzzle-
+it probably got passed
+around until it reached me,
+so the credit should go to
+Martin. N o n e of the few
+w h o entered knew this,
+though, so no harm done.
+What's interesting is that,
+back in 1982 Martin got
+eleven correct entries,
+while I only got five
+solutions in total! Has
+inflation so reduced the
+value of £5 since 1982?
+Actually I've been a bit .
+disappointed generally with
+the response to s o m e of my
+more interesting problems.
+M y preference is towards
+inspirational type problems
+that need a flash of insight
+to solve, rather than the
+slog it out permutation
+type, but the latter
+invariably get a better
+response. Please let me
+know what you prefer, or
+whether you think the
+problems are too hard.
+Valentine
+Verisimilitude—Solution
+A n d r e a sent Oliver's card.
+Barbara sent Neil's card
+Christine sent Pete's card
+Diana sent Luke's card
+Elizabeth sent Mike's card
+A n d r e a was Pete's sister.
+I got eleven entries which
+were all correct so you
+obviously found this quite
+easy. T h e random winner
+was Richard Squire, Elec
+E n g 1. Y o u can collect your
+£5 prize from the FELIX
+office after 1.30pm M o n d a y .
+Pennies
+Well, even with last week's
+clues I still received no
+entries to this problem
+pity, since I thought it
+quite an interesting on
+and not too difficult. I
+you thought about it,
+anyway. Here's what I
+made of it.
+C o n s i d e r drawing a line
+d o w n the centre of the
+table, then, when your
+opponent puts a coin d o w n
+somewhere, you put yours
+in exactly the s a m e point
+but reflected in the centre
+line.
+This means that at any
+point during the game the
+pattern of coins will be
+symmetric around the
+centre line, and you will
+always be able to put a
+coin down opposite your
+opponent's coin until there
+are no gaps left.
+*****
+hope * f
+lines and reflect in both of
+these,
+oo
+o o
+o o
+o o
+o o
+o o
+o o
+Obviously this only works
+if a) your opponent never
+puts a coin on the centre
+line, and , b) your
+opponent goes first. T h u s it
+is not very satisfactory. T h e
+next refinement is to draw
+two perpendicular centre
+thus exploiting the
+complete symmetry of the
+table. The problem here is
+that the centre point does
+not move, so if your
+opponent's coin overlaps
+the centre you won't be
+able to put yours in the
+reflected position. Still, this
+strategy always works if
+you go first (since you can
+nab the centre position and
+then follow the old
+strategy) and will probably
+work if you go s e c o n d , as
+long as your opponent
+never puts his coin over the
+middle of the table.
+This is as far as I could
+get with this one. If this
+inspires you to think of any
+better strategies, please let
+me know.
+5mal
+ANNOUNCEMENT
+•TRAFFIC WARDENS—TO DEPT
+HEADS—A PLEA If you have a
+visitor who has to bring in a car
+please contact the G A T E H O U S E
+(3395) and we will arrange a parking
+bay for you. This is important.
+Confusion over bays should be
+lessened! Thank you.
+•Coming soon Imperial College
+Symphony Orchestra (with IC
+Choir)—Mahler Symphony No
+2—Friday 23 Feb, 8.00pm, Great Hall,
+Tickets £1.50 from Haldane Library,
+Orchestra members, at the door.
+•Choir Rehearsal Sunday 23 Feb,
+Great Hall, 11.00am. Anyone
+welcome to sing Mahler Symphony
+No 2.
+•Mahler Resurrection Symphony
+Only one more week to go.
+•Stalls are needed for the
+forthcoming Rag Fete on 26 April
+next term. Would you like a stall?
+They should ideally be entertaining
+and money-raising so please have a
+think. Contact Man Tai Tseung, Rag
+Secretary IC Union or C h e m Eng
+Pigeon holes.
+•MAHLER 2, Choir Rehearsals
+Anyone interested in singing in this
+mammoth work is most welcome to
+attend the following rehearsals:-
+Sunday 23 Feb (Great Hail), 11.00-
+12.30pm, 14.00-15.30, Wednesday 26
+Feb (Great Hall) 19.00-20.00pm,
+Friday 28 February (Great Hall)
+17.15-18.15pm Concert 20.00pm.
+•The Fourth Day of the week on
+301/999 your first level Music
+Programme gives you Zerra 1, who?
+Listen 6-8.00pm Saturday.
+•Two brewery trips next week. See
+diary for details.
+ACCOMMODATION
+•Single room in immaculate flat.
+Available N O W ! G a s Central Heating,
+television and telephone. Contact
+Rufus Short (Elec Eng U G Pigeon
+holes) or ring internal 3440.
+WANTED
+•Bass player to join two guitarists
+and drummer to play various covers
+and originals, blues, funk, rock and
+bop including, Police, Vapours, John
+Waite, Huey Lewis, Robert Fray, Don
+Henley. Aiming for gigs from this
+summer. Own equipment,
+enthusiasm, image and talent
+essential, transport a help, music
+reading also desirable. Don't waste
+our time and we won't waste yours.
+Contact Paul Nailur Physics P G 3 ,
+Blackett cost M E N P Ext 6798
+•Have you got a projection video
+system or video monitors or know of
+anyone who might have access to
+them? Please contact Man Tai
+Tseung IC Union Office. Terms
+negotiable.
+•Situations vacant Have you got
+what it takes to run City and Guilds
+Union next year? Papers up Monday.
+FOUND
+•At PICOCON belt for light brown
+raincoat. See S F S O C for return.
+LOST
+•Small, silver engraved bracelet. If
+found, please contact J Shepherd
+Biochem 2.
+FOR SALE
+•Fender Precision Bass Black, maple
+neck, Di-marzio pick-ups, badass
+bridge, 1971, Very good condition.
+£240 Including flight case. Ring 373
+8399 evenings.
+•Matching Technics Tuner (STZ55L)
+and Cassette Deck (M233x), cassette
+Deck Dolby B / C , d B X metal tape,
+tunner-quartz lock, 16 presets, auto-
+tune. Both excellent Condition, only
+one and half years old. £65 each
+ono. Contact Phil Sparks through E E
+Letter racks or phone 01 373 8714
+and ask for me in Flat B1.
+•Tickets for Princess Ida, Frid and
+Sat. A quality show at an affordable
+price. Tickets available from Level 2,
+Sherfield Building at lunchtimes
+SERVICING * REPAIRS
+at
+RICKY'S
+GARAGE
+fPersonal service guaranteed.)
+I» QUEENS GATE PLACE MEW*
+SOUTH KENNNGTON.
+LONDON S.W7
+t « i roi.iai tsat
+ENDSLEIGH INSURANCE
+SERVICES LIMITED
+71 Old Brompton R o a d
+South Kensington
+London S W 7 3 J S
+Telephone 01-589 6783
+Friday 21 February FELIX
+

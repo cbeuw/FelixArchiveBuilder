@@ -1,0 +1,167 @@
+L E Q
+Dear Will,
+I find Professor Rawlings' logic in his
+letter to Felix in a previous issue absolute-
+ly flawed. He reasons that because the
+hacking (sic) of the L E Q website could be
+constituted to be forbidden under para-
+graph 12 of the Regulations for Students,
+the website was therefore "robust and
+was not successfully hacked". This is akin
+to arguing that I need not lock the door to
+my house because theft is illegal. What
+two students from the Department of
+Computing showed was that anyone had
+the potential to access and modify sensi-
+tive information on the website. The sys-
+tem could in no way, therefore, be consid-
+ered secure, nor robust. The students
+have repeatedly asserted they contacted
+those responsible for running the site
+about security holes that were found dur-
+ing the pilot, but no action was taken.
+Prof. Rawlings also complains about the
+poor response to the program. I believe
+this was due not only to student apathy
+as identified by Felix, but also due to fears
+amongst students that the data that they
+entered would not be kept private. It
+doesn't take a Computing student to fig-
+ure out that e-mailing plain text pass-
+words to everyone is a bad thing. Why
+couldn't students use the same username
+and password used to access all of the
+College's other computing facilities? To
+add insult to injury, the website was not
+run from a secure server and so all data
+entered, including passwords, was trans-
+mitted unencrypted.
+I agree with the view that that the stu-
+dents from DoC are being made scape-
+goats, in order for the College to save
+face. It's time that the College admitted
+its mistakes and worked with students to
+develop a more secure and robust system
+ext time around.
+L E Q 2
+Here are the points which I passed up the
+hierarchy.
+-START--
+1: The site does not use SSL security
+which means that everyone can easily
+read all data sent between the site and
+myself.
+2: On my personal page there are no
+entries for two lecturers whose course
+was taken by the majority of the third
+year.
+3: There are entries for lecturers whose
+courses I did not attend, which means of
+course that I can give them a bad evalua-
+tion and severely bias the results.
+4: While the course code for me is cor-
+rect, the course name is incorrect, I am
+doing 1
+Computing (Software
+Engineering)' and not Computing
+(Artificial Intelligence)'
+5: The email address given at the bot-
+tom of the pages for us to send comments
+to is not valid, and generated a bounce
+message when I tried to use it.
+6: Needing to offline the database for
+backup purposes is unbelievably stupid -
+no commercial system has needed that
+for over 10 years.
+To pre-empt the standard answer to my
+objection 1:
+Switched networks do not guarantee
+security, they merely make it more diffi-
+cult to snoop. Since all traffic is snooped
+somewhere, for security or statistical
+analysis purposes, this means that it is
+certainly possible for someone to know
+what I said.
+I personally feel that the paper-based
+system was much better for students, and
+was far more representative - only polling
+those students who bother to attend at
+least one lecture seems sensible...
+Regards, Philip Willoughby
+L E Q 3
+Dear Felix,
+Well, I had a brief look at the L E Q sys-
+tem (I was asked to) many months before
+it went into production. A n d it was a joke
+- the system was riddled with holes and
+some very smart students in the
+Department of Computing gave some
+very good advice that wasn't acted upon.
+This beta test, it might be noted, was sig-
+nificantly before the actual usage of the
+L E Q system, and there was not another
+one before rolling it out, to demonstrate
+just how riddled with security flaws -it
+was (and probably still is, just with a bit
+more sticky-tape to protect it).
+I don't send any personal information
+that I care about over unencrypted con-
+nections, and for the college, or anybody,
+to expect me to send something where
+talk back
+there isn't even an attempt at due dili-
+gence to protect the machine, then they
+are having a laugh. Aside from this, the
+inability to use the system from home
+(other than by having to create a tunnel to
+use a proxy at DoC), simply made it not
+worth doing.
+It really does look awfully bad on the
+university if officials spout such rubbish
+about security - an insecure machine is an
+insecure machine. The "protected" infor-
+mation was a URL. Gee *whiz* nobody
+will ever guess that.
+Have they actually fixed the problems
+discovered? Is it going to be offered to
+computing students to attempt to break,
+and if not, why should I, or *anybody*
+else in the university trust it to hold infor-
+mation I do not necessarily want to
+become public?
+I might like to note, that several times
+the Department of Computing has offered
+to build a system like this for free, and it
+would almost certainly be significantly
+more secure. The fact that this, and the
+effectively free security auditing that DoC
+can provide was not taken up appears to
+show a supreme lack of regard for the
+security of students data.
+Bunch Of Arts
+Dear Felix,
+Nate Evuarherhe's column lamenting
+the budget cuts to ArtSoc was a gross
+misrepresentation of the Arts and Culture
+provision at ICU.
+As chairman of the Arts &
+Entertainments Board, I have responsibil-
+ity for over a dozen different clubs and
+societies allowing students to get direct-
+ly involved in theatre, music, poetry, art
+and cinema.
+The college employs a full time Director
+of Music, has 2 orchestras, a choir, many
+smaller music ensembles and devotes
+half the space on level 5 of the Sherfield
+building to music practice rooms and
+facilities. The Union has a dedicated
+Concert Hall with excellent facilities for
+drama, band nights and film showings,
+perhaps the best in the University of
+London.
+This year marks the very first Imperial
+College Union Arts Festival to promote
+the activities of these societies to the col-
+lege, taking place from the 20th February
+

@@ -1,0 +1,62 @@
+["PUZZLES;
+Tinker'%
+Welcome to the Christmas Bumper puzzles column. There are
+seven puzzles desinged to lure you away from all the problem
+sheets you are trying to catch up on. There will be three £5
+cheques for the solvers of the prize puzzles, graded 3 or higher.
+In addition there will be a £10 prize for solvers of all seven
+puzzles, who will be automatically entered for the three £5
+prizes.
+Merry Puzzling!
+This is my favourite puzzle. Using one cut, split the shape
+below into two pieces identical in both size and shape. There is
+a solution with no 'fiddles' (ie folding or turning over of the final
+shapes) which is valid regardless of the angle of the two parallel
+lines.
+"I n r
+L
+<- L L
+There follows a puzzle which I thought of myself. It took me
+several weeks before I realised the solution. I wish you the best
+of luck in finding the solution more quickly!
+Can a solid sphere be cut into forty three separate pieces with
+only six simultaneous planar cuts?
+(A proof is required!).
+GRADE 4
+Cut along the dotted lines, crease along the solid lines, then
+fold up the rectangle such that the numbers are in sequence (ie
+one on top two below it and eight on the bottom). Of course the
+numbers may face either up or down.
+Do the same for the second rectangle.
+r 71
+1 8 2 7
+4 ' 5 3 6
+8
+GRADE 3
+Show that
+1
+The solution does not involve any of the theory of limits.
+GRADE 2
+L J
+GRADE 3
+Find a practical arrangement of six matches such that each
+match touches all the other matches.
+GRADE 1
+This is more an IQ test than a puzzle. Find the missing terms in
+the following infinite series.
+J ± £2 B..... ~5
+GRADE 1
+Take two long similar cylinders, intersect them at right angles
+(ensuring their axies meet at a point). Then find the volume of
+the shape enclosed by both cylinders.
+The latter was believed to be the first example of a problem for
+which calculus presented the only possible method of solution.
+The problem may indeed be solved trivially using a volume
+integral, but years later an elegant and much faster solution was
+discovered. Find the simple solution given that the volume of a
+sphere is 4
+/3 7Tr3
+.
+GRADE 3
+14 Wednesday 12 December 1984 FELIX
+

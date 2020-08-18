@@ -1,0 +1,250 @@
+SPORT
+42 felix
+FRIDAY 21 January 2011
+sport.felix@imperial.ac.uk
+Sports Editors: Jovan Nedic
+David Wilson
+Felix Sports League
+sponsored by
+Team P W D L F A Diff Index
+1 Fencing W2 4 4 0 0 540 273 267 5.00
+2 Basketball M1 6 6 0 0 453 326 127 5.00
+3 Fencing M1 4 4 0 0 486 376 110 5.00
+4 Table Tennis M2 5 5 0 0 77 8 69 5.00
+5 Lacrosse W1 5 5 0 0 82 16 66 5.00
+6 Basketball W1 3 3 0 0 132 101 31 5.00
+7 Volleyball M1 6 6 0 0 12 1 11 5.00
+8 Hockey W1 7 6 0 1 45 9 36 3.71
+9 Tennis M1 9 7 1 1 68 40 28 3.67
+10 Table Tennis M1 6 5 0 1 70 32 38 3.50
+11 Water Polo W1 2 1 1 0 16 6 10 3.50
+12 Volleyball W1 6 5 0 1 10 12 -2 3.50
+13 Table Tennis W1 5 4 0 1 20 5 15 3.20
+14 Squash W1 9 7 0 2 27 8 19 3.00
+15 Fencing M2 8 6 0 2 952 832 120 2.75
+16 ICSM Netball W1 8 6 0 2 327 211 116 2.75
+17 Rugby M1 8 6 0 2 180 124 56 2.75
+18 Tennis W1 4 3 0 1 26 22 4 2.75
+19 Lacrosse M1 7 5 0 2 103 72 31 2.43
+20 Badminton M1 7 4 2 2 38 26 12 2.29
+21 Netball W1 9 6 0 3 374 263 111 2.00
+22 ICSM Football M1 6 3 1 2 21 14 7 1.50
+23 ICSM Hockey M3 5 3 0 2 9 18 -9 1.40
+24 ICSM Hockey W1 13 7 1 5 37 32 5 1.31
+25 Football M1 8 4 1 3 23 13 10 1.25
+26 Hockey M3 6 2 2 2 6 5 1 1.00
+27 ICSM Badminton W1 6 2 2 2 27 27 0 1.00
+28 Badminton W1 9 5 0 4 30 42 -12 1.00
+29 Hockey M2 8 3 2 3 15 23 -8 0.88
+30 Hockey M1 5 2 1 2 13 13 0 0.80
+31 ICSM Badminton M1 5 2 1 2 16 24 -8 0.80
+32 ICSM Hockey M1 6 3 0 3 12 9 3 0.50
+33 Football W1 4 2 0 2 10 9 1 0.50
+34 ICSM Football M2 4 2 0 2 14 13 1 0.50
+35 Netball W2 6 3 0 3 234 245 -11 0.50
+36 ICSM Rugby M3 6 3 0 3 126 197 -71 0.50
+37 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+38 ICSM Football M3 0 0 0 0 0 0 0 0.00
+39 Lacrosse W2 0 0 0 0 0 0 0 0.00
+40 ICSM Netball W2 7 3 0 4 231 239 -8 -0.14
+41 Netball W3 5 2 0 3 139 129 10 -0.40
+42 ICSM Hockey M2 7 2 1 4 10 22 -12 -0.57
+43 Squash M3 6 2 0 4 10 18 -8 -1.00
+44 Fencing M3 6 2 0 4 653 708 -55 -1.00
+45 Fencing W1 6 2 0 4 653 708 -55 -1.00
+46 Badminton M2 7 2 0 5 28 28 0 -1.43
+47 ICSM Hockey W2 7 2 0 5 19 31 -12 -1.43
+48 Hockey W2 7 2 0 5 10 30 -20 -1.43
+49 ICSM Rugby M1 7 2 0 5 122 237 -115 -1.43
+50 Squash M4 4 1 0 3 5 7 -2 -1.75
+51 ICSM Rugby M2 8 2 0 6 144 310 -166 -1.75
+52 Rugby M3 5 1 0 4 44 148 -104 -2.20
+53 Rugby M2 10 2 0 8 156 271 -115 -2.20
+54 Rugby M4 5 1 0 4 46 197 -151 -2.20
+55 Football M3 6 1 0 5 13 21 -8 -2.50
+56 Hockey M4 6 1 0 5 7 17 -10 -2.50
+57 Football M2 7 1 0 6 12 25 -13 -2.71
+58 Squash M2 8 1 0 7 8 32 -24 -2.88
+59 Water Polo M1 1 0 0 1 5 5 -4.00
+60 ICSM Hockey W3 2 0 0 2 0 13 -13 -4.00
+61 ICSM Badminton M2 4 0 0 4 7 25 -18 -4.00
+62 Squash M1 6 0 0 6 4 26 -22 -4.00
+63 Tennis M2 4 0 0 4 8 39 -31 -4.00
+64 ICSM Netball W3 6 0 0 6 115 218 -103 -4.00
+5
+52 Rugby M3 5 0 148 104 2.20
+5
+53 Rugby M2 10 2 0 8 156 271 -115 -2.20
+5
+54 Rugby M4 5 0 46 197 151 2.20
+5
+55 Football M3 6 1 0 5 13 21 -8 -2.50
+5
+56 Hockey M4 6 0 5 10 2.50
+5
+57 Football M2 7 1 0 6 12 25 -13 -2.71
+5
+58 Squash M2 8 0 8 32 2.88
+5
+59 Water Polo M1 1 0 0 1 5 5 -4.00
+6
+60 ICSM Hockey W3 0 0 0 13 13 4.00
+6
+61 ICSM Badminton M2 4 0 0 4 7 25 -18 -4.00
+6
+62 Squash M1 6 0 0 6 26 4.00
+6
+63 Tennis M2 4 0 0 4 8 39 -31 -4.00
+Wolverines put in strong
+performance at Essex
+Dodgeball Tournament
+Unfortunately, he is also their best player and
+a threat. We decided the tactic would be to get
+him out first as his minions fall apart without
+him. Things were working well as the first
+two games ended as draws, which shocked
+the Minotaurs as they were the higher seeded
+team! However, they pulled through using
+their greater experience and beat us in the next
+three games. We felt it was a harsh result and it
+was not without many contested decisions and
+Moore’s usual whining. It is enough to say we
+are very keen to play them again!
+Our next match was against the eventual
+winners, Bedford Bulls A. This was never go-
+ing to be a good match and they whitewashed
+us. They put their two England players and two
+England coaches to good use! However, they
+are good lads so we still enjoyed ourselves.
+These two losses made our last group game
+vital. To win would have put us third in the
+group, and put us into the playoff for the quar-
+ter finals. We came up against Underdodge A,
+from Oxford, and comfortably won 4-1.
+Our playoff was against the Bedford Bulls
+Mixed and from this point on we were play-
+ing a knockout competition which was best of
+five games. We again put in an efficient perfor-
+mance and thrashed them 3-0.
+This win guaranteed us a top eight finish and
+put us through to the quarters against the NCD
+Highwaymen. NCD are currently top of the
+Southern Conference and on the day had not
+lost even a single game in four matches! We
+weren’t expecting to win by any means, but we
+sure gave them a good run for their money in
+an exciting match. They took the first game by
+a narrow two players to one, which already had
+them looking concerned, and then we went on
+to win the second game! Now they were fo-
+cused! We continued to play some of our best
+dodgeball of the day with Adam Cutmore mak-
+ing a vital contribution with monster catches
+and Tom Peake making superb use of his coun-
+ter attacking ability. Alas, it was not to be our
+day and NCD edged the next two games for
+the 3-1 win. We all felt very hard done by but
+conceded that we had played a lot better than
+expected and lost to worthy opponents (the
+eventual runners-up whose team included an
+England player and the England head coach).
+In the end, we went home with our heads held
+high and we now move up to fourth place in the
+Southern Conference league! Our next tourna-
+ment is at Winchester University and it is the
+qualifier for the University Cup.
+...Continued From Back Page
+Don’t extend College hours
+I
+t appears that the College has yet again
+taken a somewhat narrow-minded view
+on their latest venture, extending the
+working day for not only the students,
+but the staff as well. Forget the fact that
+they will have to ask staff to work longer hours,
+which might be a whole other bag of problems,
+but the change to the timetable would eat into
+the already limited hours available for extra-
+curricular activities, in particular sports.
+Although some might find Imperial’s loca-
+tion within London an advantage, for the sports
+teams it can be a big problem, especially those
+who need large open spaces to practice. Even
+though Hyde Park is across the road and there
+is a public area for playing sports, I somewhat
+doubt that the general public would appreciate
+having 50 or so rugby players running up and
+down the grass, shredding the ground to pieces.
+Nor would they probably appreciate Lacrosse
+players flinging their balls around whilst chil-
+dren try to play peacefully in the park (yes I do
+realise how dirty that sounds). On top of that,
+we would need to find room for the footballers.
+In short, although Hyde Park would be an ideal
+location, it is not possible to have the teams
+there, which is why they train out at Harling-
+ton.
+That in itself is a problem; the sheer distance
+to the grounds and the added costs of transport
+has meant that some of the sports teams have
+the highest budgets and travel expenses of the
+clubs and societies at Imperial. Take a typical
+training session, which would last 90 minutes
+or so. If you leave the Union at 18:00, you
+would not get back to the Union until close to
+22:00, then you still have to get home. Training
+during the lunch hours would be a possible so-
+lution, but again there is the problem of using
+Hyde Park and the fact that humanities run dur-
+ing lunch. There simply isn’t enough time, nor
+enough space, for all the outdoor sports teams
+to train at Harlington. Some have moved their
+training sessions to other grounds, some have
+moved them to Tuesday nights, but for most,
+having a big training session the night before
+a BUCS game on a Wednesday is just not fea-
+sible.
+So what are the other options? Well you
+could train on a Thursday, but as already men-
+tioned, this is the day after a game, not the ideal
+time to improve on your performance for the
+following weeks game. Friday night? Well we
+all know that just won’t be a popular decision
+for the players! Extending the College hours
+to 19:00 on a Monday and Thursday will just
+make it that much more difficult for sports
+teams to function effectively.
+There are some clubs that have tried training
+on a Saturday, however, for most, Saturdays and
+Sundays are when University of London (ULU)
+games are played. For the indoor teams, these
+games are also played on a Monday night! Yes,
+although sports such as netball, badminton and
+squash don’t have to travel that far to get to their
+training sessions, it means that having ULU fix-
+tures on a Monday evening are feasible. Extend-
+ing the hours would have a huge impact on the
+timetabling of these fixtures, especially if you
+have to travel to Royal Holloway.
+The simple argument for the sports teams
+would have to be that extending the hours to
+19:00 would be detrimental to the effective
+running of their club and by extension, the ex-
+perience of the students whilst at University.
+Players already struggle to find enough hours
+to complete their work and fit in all the training
+without taking out an extra hour in the evenings
+– which, if the College were so determined to
+go ahead with, would leave them with only
+one viable alternative; an early start during the
+week. But how many people are actually going
+to make it to a 08:00 lecture, staff included?
+Jovan Nedic argues that the proposed timetable changes
+would adversely affect Imperial’s sports teams
+“There simply wouldn’t
+be enough time, nor
+enough space, for all the
+outdoor sports teams to
+train at Harlington”
+MasterCard excel at subtle advertising
+

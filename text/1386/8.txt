@@ -1,0 +1,107 @@
+science.felix@imperial.ac.uk
+8 felix Friday 9 November 2007
+Science
+Science Editor – Ed Henley
+Shiny science equipment. All very professional, but as with any proper home-built rig they’ve come up with some ”innovative” solutions for non-
+essential bits. Like bulldog clips to hold the curtains up
+Cool science: superbad superfluids
+Next time you walk into your build-
+ing at Imperial, keep your eyes open
+for the signs leading to the research
+labs. Mech Eng has the provocatively
+named “Vibration Technology Centre”
+and “Lubrication Laboratory,” and you
+know something good is going on at the
+“Creep and Fatigue Laboratory.” But
+you can easily finish your career as a
+student without ever going through the
+doors of any these places, which means
+you’re missing out on the coolest stuff
+on campus. If you could go through the
+keyhole you’ll find the biggest, most
+cutting-edge machines, hidden away
+within the labs of Imperial.
+The coolest machine at Imperial has
+got to be found where temperatures
+hover around 675 nanoKelvin (just
+above absolute zero) at the Centre
+for Cold Matter in the Department of
+Physics. Research Associate Jos Ding-
+jam and a team of three PhDs handle
+this machine, which goes by the myste-
+rious name of “The Science Chamber”.
+The Science Chamber is part of a
+much bigger rig, but it gets its name
+since “that’s where the science hap-
+pens,” says Dingjam. It’s a vacuum
+chamber where they create a cloud of
+super-cooled rubidium atoms, known
+as a Bose-Einstein condensate.
+The atoms are intensely cooled by
+lasers until they are all at their lowest
+possible quantum energy state, where
+things start to get very weird. In this
+state they can’t be distinguished from
+each other in any way—they exist in
+the same location and with the same at-
+tributes—so they form a kind of super-
+atomic blob that behaves in ways that
+we in the normal temperature range
+can’t imagine. For example, since the
+Our plucky reporter delves deep into the Centre for Cold Matter to investigate the “Science Chamber”
+atoms in the blob all move in exactly
+the same way, the blob has no interior
+friction, which leads to cool superfluid
+behaviour like flowing uphill.
+Inside the chamber, the cloud of
+atoms is wrangled into shape by the
+magnetic field formed by an atom chip;
+a square piece of gold-plated silicon,
+with tiny wires carved into its gleam-
+ing gold surface. This gives the team
+enough control over the cloud to split
+it in two and study how the wave pat-
+terns interfere with one another.
+Like many of the coolest machines
+at Imperial, the Science Chamber is a
+home-built rig, and it shows. It’s set in
+a room-filling metal rack, enclosed by
+black curtains held up with big bulldog
+clips. The top of the rack is filled with
+various power supplies and heat sinks
+that handle the vast wattage needed to
+keep the lasers burning and the cur-
+rents flowing.
+Radiating around the chamber is a
+web of tiny mirrors, prisms and lenses
+that get the lasers into the shape, place,
+and state where they are needed. The
+lasers are set up so that the beams are
+not dangerous for day-to-day work,
+but the team nevertheless wears pro-
+tective eyewear when reconfiguring
+the beams to avoid the risk of boiling
+retinas.
+All this power is necessary to cre-
+ate an environment within the Science
+Chamber so extreme that it can sup-
+port a Bose-Einstein condensate, the
+so-called fifth state of matter. In a place
+like this, the motto is “Forget the elec-
+tricity bill, full speed ahead.”
+Flora Graham
+“Mech Eng has
+the provocatively
+named ‘Vibration
+Technology
+Centre’ and
+‘Lubrication
+Laboratory’ ”
+“The team
+wears protective
+eyewear to avoid
+boiling their
+retinas”
+All that glisters... Well, in this case it’s better than normal; at least this
+silicon chip (used to split the cloud of cold atoms) is covered in gold
+

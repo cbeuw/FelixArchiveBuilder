@@ -1,0 +1,138 @@
+25
+felix FRIDAY 30 APRIL 2010
+technology.felix@imperial.ac.uk TECHNOLOGY
+est of what you missed over the break
+L
+ove it or hate it, the iPhone is a pretty big part of the modern smartphone
+market, and as such is currently the phone to beat. Apple is expected to
+release a brand new iPhone in the summer, but normally it’s legendary cul-
+ture of secrecy keeps leaks to an absolute minimum, leaving the technology press
+to rely on assumption and rumour. This month however Apple’s vice-like grip
+slipped and out popped an iPhone prototype. Encased in a custom cover to make
+it look like an ordinary everyday iPhone 3GS, the iPhone prototype was dropped
+by an Apple engineer in a bar in California, where it was picked up and promptly
+sold to Gizmodo for a purported $5000. When Gizmodo unwrapped the now
+remote-wiped and non-functional device, they found an iPhone without the cur-
+vaceous back of the current generation and a metal strip around it’s edges. As you
+can see in the photo above, the front of the device resembles that of the previous
+generation, but the rest of the device makes a distinct departure from what’s cur-
+rently available from Apple.
+D
+ell’s been pretty busy behind the scenes over Easter and on April 21st, the
+mother of all leaks landed in the laps of the Engadget crew. In the leak
+there were details and photos of no less than five previously unknown
+devices and more detail on two as yet unreleased gadgets. The bounty detailed
+one Windows Phone 7 device, the Lightning, three Android phones, the Thun-
+der, Flash and Smoke, plus the previously known Aero and a seven-inch Android
+based tablet called the Looking Glass, which will join the previously detailed Dell
+Streak Android tablet. Whilst each device has its own merit and target market,
+let’s have a look at the two flagship devices Dell’s aiming at your wallet.
+e OS4
+bile OS X based operating system
+Leaked iPhone Prototype Dell’s Device Deluge
+Dell’s Thunder lights-up Android
+Apple’s iPhone prototype. Could this be the iPhone for you this summer?
+the Amazon Kindle and iPhone app, it’ll sync
+your reading position between your iPhone
+and your iPad. Game Center was another
+big unveil, which is aiming to bring you an
+Xbox Live-like experience with multiplayer
+matchmaking, achievements and all the
+goodies you’ve come to expect from modern
+online gaming. Now all they need to do is
+give the iPhone and iPod touch some more
+buttons so the control schemes of iPhone
+games don’t suck.
+Last but not least Apple took a swipe at
+Google and its mobile advertising division
+with the announcement of iAds. Essentially
+Apple is building an advertising platform
+directly into its mobile operating system
+and you’re going to love it! OK, I might be
+exaggerating just a tad here, I’m as sceptical
+as you as to whether this is actually better for
+the user, but Apple showed off interactive ads
+that are unlike anything you’ve seen before.
+Let’s just hope it doesn’t turn the iPhone an
+ad-riddled mess like the internet has become.
+Like pervious iPhone OS updates, iPhone
+OS4 is going to be available as an upgrade
+for previous iPhone models. The kicker here
+though, is that original (2G) iPhone owners
+and iPod touch owners are going to be left
+out in the cold. iPhone 3G owners are going
+to get a lot of the newfangledness, but you’re
+going to be missing out on multitasking,
+wallpapers and some other smaller things.
+Of course iPhone 3GS and iPod touch 3rd
+generation users are going to get the whole
+shebang, but it might cost you, we’ll have
+to wait till closer to the ‘summer’ launch
+window to find out. iPad owners/fanciers,
+you’ll get your taste of iPhone OS4 but you’re
+going to have to sit tight till the Autumn.
+Oh and those living on the wild side will be
+pleased to know it’s already been jailbroken.
+Apart from its looks, Gizmodo discovered that the prototype device was packing
+a front facing camera, a larger camera lens on the back with an LED flash and a
+larger battery. The screen itself was marginally physically smaller, but was said to
+have a much higher pixel density, laying credence to the iPhone HD rumours. The
+volume rocker had also been replaced with two separate buttons, possibly indi-
+cating some sort of dual functionality, a dedicated photo button in the Camera
+app perhaps. Those of you hoping to slap your current SIM in the next generation
+iPhone will be sorely disappointed as it seems, just like the iPad, Apple has gone
+for a micro SIM slot. Don’t fret however; all current major iPhone carriers have
+announced that they’ll be supporting the new SIM standard.
+Of course this ‘find’ didn’t necessarily have to have been an actual Apple
+prototype, but its authenticity was confirmed when Apple themselves asked
+for the device back. Since then the saga of returning the iPhone and now just
+this week, the Police raid on the Gizmodo Editor Jason Chen’s house over the
+purchase of ‘stolen’ goods, has raged. What next will unfold and whether we’ll see
+this type of device come July is unknown, but I for one am itching to see the how
+the rest of this story is going to unfold. Head on over to Gizmodo for full coverage
+including a blow-by-blow account of how the phone ended up with Gizmodo.
+Side-by-side: Grandad iPhone next to new and shiny.
+Dell’s top class entry into the Windows Phone 7 space: the Lighting
+So what does the Dell Lightning have in store for us? Well as you can see above
+it’s a pretty slick looking portrait QWERTY slider like that of the Palm Pre, with
+the required three button Windows Phone 7 control scheme up front. Packing a
+4.1 inch WVGA OLED capacitive touch screen, the Lightning is powered by a
+1GHz Snapdragon processor, the QSD8250 for those keeping count. Dell saw fit
+to give Windows Phone 7 512MB of RAM to play with and on the storage front
+1GB of built-in flash plus an 8GB of MicroSD, plenty of space for your apps. Of
+course the Lightning also comes equipped with the usual array of toys including
+GPS, an accelerometer, a compass, an FM radio, a 5MP autofocus camera and
+full Flash support. Looking decidedly
+like a Windows Phone 7 launch device
+you can look forward to getting your
+grubby mitts on it in the fourth quarter
+of this year, with an LTE (read 4G) ver-
+sion scheduled for Q4 of 2011.
+If Android is your thing, and let’s be
+honest, Windows Phone 7 has poten-
+tial but it’s starting to look a little out-
+dated even now, and it’s not been re-
+leased yet, then Dell’s got lots for you.
+The Thunder pictured left does away
+with the sliding keyboard that defines
+the Lightning, for a sleeker package.
+Like the Lightning however, the Thun-
+der packs a 4.1 inch WVGA OLED
+screen, but the rest of the specifica-
+tions are a little sketchy at this point.
+It’ll probably be running a similar
+Snapdragon CPU and storage; how-
+ever Dell has upped the camera to an
+8MP shooter. With Android 2.1 Dell’s
+gone all out on the customization with
+the device running Dell ‘Stage’ UI ty-
+ing into Facebook and Twitter for so-
+cial networking and using Swype for its
+onscreen keyboard. It certainly looks
+classy and has a similar feel to that of
+HTC’s Sense UI.
+Dell also claims that it’ll have Flash
+and a Hulu app on the device at launch,
+not that that’s much use to us over here
+in Blighty. Give us iPlayer, eh Dell?
+

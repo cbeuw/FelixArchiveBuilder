@@ -1,0 +1,137 @@
+FEATURE FELIX FRIDAY 2 ND FEBRUARY 1 9 9 6 . FIVE
+Few people will have forgotten the moment when they saw the Space Shuttle
+Challenger catastophically explode, killing all seven of its crew. It was a
+shocking moment. It was ten years ago last Tuesday.
+ll was tragic to lose seven lives, but for NASA,
+the accident caused further problems, delaying
+their space program by at least three years and
+permanently (hanging the public's attitude
+towards manned space flight.
+Two days alter the accident William
+Graham, the head of NASA, set up a committee
+to investigate what went wrong with the shuttle.
+The commission, which included Neil
+Armstrong, Sally Ride and the Physicist Richard
+Feynman, found that there was a failure in the
+seals between the joints which held the solid
+rocket boosters together.
+During the launch, two solid-fuel rockets
+boost the shuttle lor a lew minutes before they
+separate from the shuttle and fall back into the
+sea. The boosters are made in sections and the
+joints between these sections are sealed before
+each flight. The joints arc sealed by two rubber
+O-rings, which are approximately a quarter of an
+inch thick and lie on a circle 12 feet in diameter. PropsiSaot
+When t!nese seals were originally designed by A solid rocket booster joint. If the primary O-ring gets
+the Morton Thiokol Company, it was expected
+that the pressure from the burning fuel would
+squash the O-rings. But because the joint is thick-
+er than the walls of the rocket, the walls bow out-
+ward during launch causing the gap between the
+joint to expand (this problem was discovered very
+early, before they ever Hew the shuttle). To
+maintain the seal, the rubber has to expand fast
+enough to close the gap, so the springiness of the
+rubber was an essential part ol the design. The
+Thiokol engineers went to the company who
+manufactured the rubber, but they said that their
+O-rings are not meant to be used that way, so
+they could give no advice. Several makeshift
+improvements were made to the design, but the
+joints still leaked, causing the O-rings to burn in
+places.
+Up until the Challenger flight, there was a
+history ol 'O-ring incidents'. This problem was
+discussed in NASA's "Ilight readiness reviews"
+hut there1
+appears to have been some self contra-
+diction in the recommendations (see
+Recommendations, below right).II the problem is
+"most critical", how could it also he "sale to con-
+tinue living?"
+During the investigation, an engineer Irom
+Thiokol revealed that on the night before the
+launch, they had loid
+NASA the shuttle should-
+n't Fly il the temperature
+was helow 53 degrees
+(temperature is important
+because the colder the
+rubber seals are, the less
+springy they are). The
+temperature on the morn-
+burnt, flames can exit through the test port.
+ing of the flight was 29 degrees. It seems pressure
+was put on Thiokol to launch, even though at
+least two of their seal experts were against it.
+This is not the whole story of what caused
+the Challenger accident, but it does make clear
+that there were failures in both the engineering of
+the shuttle and in management. Most aeroplanes
+are designed "Irom the bottom up" meaning that
+all the components have already been extensively
+tested. One criticism of the shuttle is that it was
+designed from "the top down" (to save time).
+Whenever a problem is discovered, a lot of
+'makeshift' redesigning was required to fix it.
+This is what happened with the seals.
+Now matter how many safety features are
+built into a rocket, space flight will always be a
+very risky business. You will always need a huge
+amount of fuel to get into orbit. Should we be
+sending astronaughts into space at all? Figures
+vary wildly, but most estimates put the chances
+of a shuttle launch going catastrophically wrong at
+around one in one hundred. If this figure is cor-
+rect, we can expect another accident within the
+next fifty years or so.
+Challenger had on board a school teacher,
+Mrs McAuliffe. This signalled the start of space
+flight being available to anyone - not just
+astronaughts. Since then attitudes have changed.
+Whilst some work in space can only be done by
+humans, there are good arguments for concen-
+trating our efforts on unmanned missions.
+J ^ ^ ^ H | | Sending up manned spacecraft requires every
+. :
+•
+. I i ',[IT t i I :!' I
+-S systems, and all manner ol redundancy. The
+result is an inordinate amount ol testing and
+A tell-tale flame coming from the test port on the solid expense. The shuttle lor instance has tour identi-
+rocket booster, just before the shuttle exploded. eal computers all running the same program just
+in case the other three should all happen to fail at
+..,«„, the same time. There is also a fifth backup com-
+/ \ \ / O f i i i "\ puter on a separate circuit - it has never been
+used.
+Humans can also cause problems with
+experiments in space. Their movement jogs appa-
+ratus which should not be disturbed and intro-
+duces dust and moisture into the environment.
+The manned "International Space Station" is due
+lor launch in 1998. But at an estimated cost of
+Two examples of O-ring erosion. Such erosion occurred $ 9 4 h i n i o n i t i s u n d t , r U i r c . l t American Taxpayers
+unpredictably on several previous missions. , . , . . • <
+f ' r a n c | even many space scientists think that this
+money could be spent
+R e c o m m e n d a t i o n s
+HP
+i M P l l !
+m
+* The Jack of a good secondary s*ai in the field pint is most critical and wavs to
+reduce Jointrotation should be incorporated as soon as possible to reduce
+criticality
+• Analysis of oxisjnq data indicates that.itfarsafej^ontirtue flying listing
+IgiJiqn aslongasal) joints are leak checked with a 200 psig stabilization
+pressure, are free of contamination in the seal areas and meet Q-ring squeeze
+requirements " *"""" * *—'—
+more productively.
+Unmanned spacec raft,
+such as the successful
+Jupiter probe Galileo
+may the best way to get
+more science for less
+dollars.
+Ben Wilkins
+

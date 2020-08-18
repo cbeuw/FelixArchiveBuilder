@@ -1,0 +1,274 @@
+5
+felix FRIDAY 23 OCTOBER 2009
+NEWS FEATURE
+news.felix@imperial.ac.uk
+STUDENTS SOLVING A RWANDAN
+CRISIS E.E.E. STUDENT M. MANSOOR HAMAYUN’S E.QUINOX TEAM ATTEMPT TO SOLVE
+RURAL ELECTRIFICATION PROBLEMS IN RWANDA; THEY SOMEWHAT SUCCEEDED
+R
+wanda Energy is an inte-
+gral part to ensure an ac-
+ceptable quality of life.
+Affordable electric power
+has several benefits for
+the developing world in areas such as
+education, health care and finance.
+The energy needed for most people in
+the developing world is met through
+use of primary fossil fuels such as fire
+wood and kerosene. The poor supply
+infrastructure using multiple middle-
+men results in that the poorest in the
+world often pay the highest to fulfill
+their energy requirements. However,
+much of the developing world is locat-
+ed in regions of the world where more
+effective use of renewable sources of
+energy such as solar and wind can be
+obtained than many parts of the devel-
+oped world.
+e.quinox, a student society of around
+15 people, founded some 15 months
+ago at Imperial College London, rec-
+ognized the problem of rural electrifi-
+cation and set out to create a solution
+to give the poorest in the world access
+to electric power in a economically
+sustainable manner. We at e.quinox
+chose Rwanda as the country to tailor
+our initial designs: due to its exotic lo-
+cation of being the ‘heart of Africa’, its
+proven track record of recent national
+economic growth and only 6% of the
+population being connected to the
+electric grid.
+So what could be the technical so-
+lution towards rural electrification?
+The cost analysis of a western type
+grid network or micro-grid system
+proved to be very expensive with mas-
+sive overhead and logistic costs associ-
+ated with it. One of the most popular
+topologies to rural electrification is a
+decentralized energy production and
+consumption system by which each
+household is given a solar panel, bat-
+tery and light. However, this type of
+system does not take advantage of the
+economies of scale that centralized
+production offered. Furthermore, we
+were interested in modeling the way
+people buy kerosene. Currently, people
+in rural settings normally buy kerosene
+in small quantities to fulfill some days
+of consumption. This electrification of
+the kerosene buying model we named
+as the ‘Energy Kiosk’ system. The idea
+was that each household is given a
+battery to use for lighting, mobile tel-
+ephone charging and radio. When the
+batteries are depleted they can go to
+the energy kiosk and replace the de-
+pleted battery for a charged one in ex-
+change for a small fee. Then came all
+the hard questions, in which we needed
+real quantifiable data: How much does
+a typical household spend on kerosene
+per month? How many hours of light
+do most people want? Are people even
+willing to change to a LED based light-
+ing solution, or does kerosene lighting
+have a traditional value? Who would
+run any system we set up in Rwanda?
+The most important question: Where
+would a student society, with no ex-
+perience or credibility find the money
+to implement any proposed solution?
+We understood that the only way an
+inexperienced group of students could
+establish credibility was by partnering
+up with well recognized partners. In
+the early stages of the project, we were
+able to confirm the Light Up the World
+Foundation (they have electrified over
+100.000 homes in over 40 countries)
+and the Institute of Engineering and
+Technology (IET) as one of our of-
+ficial partners. These partners were
+only able to offer us advice on differ-
+ent issues when we requested it; they
+were more excited to see if a group of
+students could live up their claim and
+commitment. At this stage we started
+to contact anyone that had any as-
+sociation with ‘Energy’ and ‘Rwanda’.
+It may seem daunting in the begin-
+ning to contact organizations such as
+the Ministry of Infrastructure and the
+United Nation Development Program.
+However, after some time you start
+understanding that each fancy organi-
+zation is just a guy behind a desk with
+a telephone, computer, secretary and
+a budget somewhat bigger than your
+own.
+Two days before the end of autumn
+term we secured funds from EnVision,
+the OC trust and the Department of
+Electrical and Electronic Engineering
+for four of us to go to Rwanda. This
+lead to four of us (Tom Luth, Laurent
+Van Hocke, Chris Hopper and myself)
+landing at Kigali International Airport
+on 4th January 2009 12.05 PM local
+time. We had a few meetings organ-
+ized with the Kigali Institute of Sci-
+ence and Technology (KIST) and with
+the development arm of the Belgian
+Government i.e. the Belgian Techni-
+cal Cooperation. Furthermore, we had
+a meeting organized with a local solar
+panel supplier and an information staff
+member of the Ministry of Infrastruc-
+ture. So we started off at KIST and
+gave our pitch to the Rector of KIST
+and 15 minutes into the meeting he
+seemed very impressed and picked up
+his phone and started to call someone.
+We initially thought that this was a bit
+of a rude thing to do, but the Rector
+explained afterwards that he just called
+the Minister of Energy of Rwanda and
+that he had agreed to meet us the fol-
+lowing day. So this was the end of our
+day: a few hours after we landed, we
+were secured to give a pitch to the
+Minister of Energy himself in one of
+his fancy board rooms.
+The following day we were picked up
+from our one star hotel by a SUV with
+diplomatic plates to our first meeting
+with the advisors to the Minister of
+Energy. Four inexperienced students
+in their early twenties were asked to
+give a pitch to some 25 top advisors to
+the Minister regarding the concept of
+the Energy Kiosk, and how it may be
+placed in their national energy strat-
+egy. We answered each question they
+had in a careful manner (we had done
+a lot of background research and knew
+what we were talking about). Two
+hours later, we came out with smiling
+faces, as the chief advisor agreed that
+our Energy Kiosk concept is a possible
+solution towards rural electrification
+in Rwanda and could be included in the
+national energy policy if we prove that
+the system is economically sustainable.
+Later in the afternoon we met the Min-
+ister of Energy (Dr. Albert Butare) and
+received the official support from the
+Government of Rwanda, through the
+Ministry of Infrastructure. So we went
+home that day having obtained the of-
+ficial support from the Government of
+Rwanda, having got our project VAT
+exempted and promises for partial
+funding for implementation.
+This story repeated itself a few times
+and by the end of our January survey
+trip to Rwanda we added to our list
+partners such as KIST, the Belgian
+Technical Cooperation and the United
+Nation Development Program. We
+then visited 8 villages and surveyed
+people’s energy habits and enquired
+the local governments the possibility
+for us to implement the pilot project
+in their village. When we returned to
+London on 16th January 2009, we had
+achieved all of our objectives including
+a location for a pilot project and ob-
+taining all the required local support.
+After the January trip, the Depart-
+ment of Electrical and Electronic En-
+gineering committed £10.000 towards
+the electrical equipment cost in Rwan-
+da and the Government of Rwanda
+generously committed 11.000 Euros
+for infrastructure. By end of May we
+had all of our funding confirmed. Now
+came the real hard work: to turn all
+of our words, written documents and
+promises, into reality i.e. a tangible
+product. Obvious questions popped
+up: Do we have enough money? How
+do we get equipment to Rwanda? How
+long will it take to install the Energy
+Kiosk? We started to revise for exams
+and in-between squeeze in negotia-
+tions with suppliers and with our local
+partners in Rwanda. Although reces-
+sion was hitting hard and unemploy-
+ment was at an all time high, most of
+the e.quinox members had internships
+to do. This resulted in one of the most
+intense summers in our lives. 8 AM -11
+PM working, in which we worked for
+our respective companies in the morn-
+ing and on e.quinox in the evening.
+The supply chain was quite compli-
+cated especially as we needed our main
+technology, ‘The SparkBox’, to be man-
+ufactured in-house for 60 households.
+There was an official contract be-
+tween e.quinox and the Government of
+Rwanda to implement the Energy Ki-
+osk. One of our contractual obligations
+was to train and employ two shopkeep-
+ers to handle the day-to-day running of
+our system. This was probably one of
+the hardest tasks during our Energy
+Kiosk implementation. Firstly, we had
+no means of communicating with our
+potential candidates directly. We had
+to use our local team from Kigali In-
+stitute of Science and Technology to
+help us in the translation process. We
+organized an assessment centre type
+style selection process which involved
+interviews, a practical exam and a
+written exam. Finally, two people were
+selected and were given confirmed
+employment till the end of December.
+The employees were very enthusiastic
+to have been given the opportunity to
+work with the new technology in the
+village.
+A few weeks later we had a fully run-
+ning Energy Kiosk. During our last
+meeting with the Minister of Energy
+and his advisors there were sugges-
+tions that the Government of Rwanda
+will sponsor up to 10 new implemen-
+tations of our Energy Kiosk concept in
+Rwanda (valued in excess of 100 000
+Euros) .
+Each member of e.quinox contrib-
+uted to a critical element of the project
+and together we worked to achieve
+something many said would impossi-
+Do people in Rwanda need electric power?
+None of the members of e.quinox were from Rwanda or had a firm idea of conditions people lived
+under there. The first fundamental question was: do people in the developing world, in particular
+Rwanda, need electric power? Rather than looking at the source of energy, such as firewood or solar
+panels, they started to investigate the uses of energy. From obtaining reports on energy consumption
+in East African Countries and by talking to one of our initial partners, the Light up the World
+Foundation, the team found that people in the developing world spend a considerable amount of their
+income on kerosene based lighting applications in their homes. Using this information the team set the
+design criteria. They needed to make a system for home lighting application in a renewable manner
+which is of higher quality and cheaper than kerosene.
+The e.quinox team Laurent Van Houcke, Christopher Hopper, Tom Luth, Alexander Rybka, M. Mansoor Hamayun.
+(missing in picture: Christopher Baker-Brian, Nd Kejeh, Alexander Mclaren and Mathew Dayton)
+

@@ -1,0 +1,165 @@
+NEWS
+8 FRIDAY 01 MARCH
+News Editors: Aemun
+Reza, Nida Mahmud
+news.felix@imperial.ac.uk
+Concernshavebeenraisedaboutpoten-
+tially excessive rents at one of Imperial’s
+hall of residence. Imperial College rents
+the ﬁrst three levels of Parsons House,
+located on the grounds of Charing
+Cross Hospital, from housing company
+A2 Dominion and then rents out indi-
+vidual rooms to students for £121.82 a
+week. All rooms are single occupancy
+with a shared kitchen and bathrooms.
+An anonymous source, however, told
+Felix, that they “pay about £290.53 a
+month for a 5th ﬂoor room renting
+from A2 Dominion directly”
+. Assum-
+ing a 12 month and 52 week year and
+including a £25 a month for internet ac-
+cess, which those renting from Imperial
+get free, this works out at £72.81 a week.
+his means that a student staying at
+Parsons House for the standard 39 week
+Imperial contract length will still pay
+more – £4750.98 –than a student rent-
+ing privately for the whole year – who
+will pay £3786.36.
+hese ﬁgures have, however, been
+challenged by Paul Noke, Head of Col-
+lege Residential Services, who told Felix
+that the company who owns the build-
+ing “currently charges rents of £105.51
+per week for rooms elsewhere in the
+building”
+. However, Felix has obtained
+documents showing that the rooms do
+indeed cost around £290 per month, as
+stated above.
+Noke explained that the higher Col-
+lege rents resulted primarily from the
+College being “obliged to pay an annual
+rent for the rooms (including water,
+electricity, planned maintenance for the
+building) even though the rooms cur-
+rentlyformpartoftheUGaccommoda-
+tion portfolio [and as such] are used to
+accommodate Imperial students on 39
+week contracts”
+. He further explained
+that “5 of the 48 rooms that form part of
+[the] contract are used to provide War-
+dening accommodation, [which] needs
+to be paid for”; that, “ students get hall
+events/parties [which are] organised
+by the Wardens and Hall Commit-
+tee [and] are paid for by the amenities
+fund, which is charged for within the
+rent” and that privately renting resi-
+dents “are also responsible for some of
+their own minor repairs to their ﬂats,
+whereas [Imperial] students would not
+be expected to pay for this”
+. He con-
+cluded that “the £121.82 per week rent
+that we currently charge is correct once
+you divide all of the costs over the 39
+week licence period” and was also care-
+ful to point out that private rooms “are
+rented on six month rolling tenancies,
+so a room only become available when
+a tenancy is relinquished”
+. his means
+“an undergraduate student may not be
+able to secure accommodation there for
+the whole of the academic year” unless
+renting from Imperial.
+Claims of insuﬃcient warden sup-
+port, with the anonymous source telling
+Felix that “the wardens don’t seem to
+organise many/any social events”
+, were
+also challenged by Dr Marko Krzanric,
+the Head Warden of Parsons House. Dr
+Krzanric maintained that the Wardens
+and seniors have “managed to organise
+60-ish events this academic year so far”
+,
+including “Freshers Fortnight events,
+Christmas party, weekly Sunday break-
+fasts, Poker nights, trips to the thea-
+tre and circus, cooking competitions,
+London tours, Holiday themed events
+(Pancake Day, Halloween, Burns Night)
+and even a Christmas meal and New
+Years party for students who could not
+be home during holidays”
+. Dr Krzanric,
+was keen to stress that “the welfare of
+our students is paramount for [the war-
+dens]”
+.
+Maciej Matuszewski Reporter
+CLASSIFIEDS
+SOFTWARE ENGINEER
+WANTED
+A small, privately owned software vendor that has good
+communication links by road and rail. Founded in 2005,
+we write software that manages and assures the proper
+operation of IT systems in organisations like commercial
+banks and telecommunications companies by monitoring
+the performance and availability of servers, services and
+applications. We have a growing range of products that
+have been successfully deployed into several blue-chip en-
+terprises. We are expecting a step-growth event with the
+imminent acquisition of a new, very large customer and as
+such are looking to expand our team.
+Applicants should have the following:
+• Experience with a popular web framework & MVC (e.g.
+Django).
+• Experience with serialisation methods (e.g. XML,
+JSON).
+• Experience developing web based APIs (e.g. REST).
+• Understanding of UNIX and exposure to multiple plat-
+forms (e.g. Linux, Solaris, AIX).
+• Experience with bash, sed/awk and Make.
+• Conversant with a popular VCS (e.g. Subversion, Mercu-
+rial).
+• Good understanding of Virtualisation platforms for
+example:
+• KVM, Solaris Zones and LDOMS, AIX LPARS, VMWare.
+• Managing virtualisation with Libvirt.
+• Knowledge of web server management and deployment
+(e.g. Apache, NGINX).
+• Database administration skills (e.g. Oracle, Sybase, DB2,
+PostgreSQL)
+For more information:
+Call: 01626 721212 or 07880632634
+Email: suzanne@spectrumconsultancy.co.uk
+Email felix@imperial.ac.uk to place Classifieds.
+A screenshot showing the
+payment of roughly £290
+Imperial students pay more to
+rent rooms in Parson’s House
+Students pay £1000 more than privately renting a room
+College responds to questions over the price
+Wardening and renting rooms from company highlighted
+Website declared “hot shit”
+Imperial College London’s student news-
+paper, Felix, has officially been declared
+to have a “fucking sick” website that “eve-
+ryone should visit” by the Prime Minister
+in a statement at a press conference.
+The website is thought to allow students
+to comment on whatever they like.
+01/03/13
+Check it. We’ve got a
+website and everything.
+Read and comment on
+articles online, from the
+comfort of your bed.
+www.felixonline.co.uk
+

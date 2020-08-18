@@ -1,0 +1,123 @@
+10 Science 23 November 1998
+WHY SCIENTIFIC PAPERS ARE SO HARD
+TO UNDERSTAND: A POLEMIC.
+A.Jha1
+' Imperial College of Science Technology and Medicine, University of London.
+Summary: Why do scientists feel that they have to write in exceptionally compli-
+cated and unwieldy English? Is it necessary for efficient communication
+to take place between them or is it simply to make sure that no-one else
+can understand what they could possibly be on about?
+INTRODUCTION
+Before you go home tonight and start reading that paper for your next lecture
+or practical (stop laughing, there must be a few of you who do), just step back for
+a minute and think about what you are about to read. Scientific papers are one of
+the strangest pieces of communication around. Unless the paper is exceptionally
+well written and has the reader in mind, you'll need to read it at least twice before
+you begin to understand anything. At that stage, you will be subconsciously using
+all the technical jargon that you've learnt over your years of study and incorporat-
+ing it into your view of the paper. Still, it's unlikely that you'll understand it all with-
+out answers to a few questions you may have come up with. Try and get lay people
+(or even someone from a different field) to read, never mind understand, it and
+you've got a whole load of new problems. What makes this bunch of words and
+diagrams that, after all, are meant to represent the nature that evetyone lives in seem
+like a brick wall? A cynicist would say that this is the way scientists keep themselves
+distant from the public. They've done years of study and they need some sort of
+status symbol to show it. Whether or not this is true, what is certain is the fact that
+the language of science is a very different animal to that of everyday speech.
+METHOD
+A paper usually follows a standard-ish format. You probably know this already,
+but I'll run through it for thc uninitiated. It starts with an introduction that sets out
+the background of the field that is about to be studied. A method section then fol-
+lows and sets out, in an obective manner, what the experimenters actually did. The
+results section indicates, well, results in a totally cold and factual manner. There is
+no room for opinion here. The discussion or conclusion part at the end then gives
+the writer an opportunity to talk about the significance of what they have discov-
+ered.
+This structure itself is not what causes the problem. This ordering of informa-
+tion helps more than it hinders. What causes most people problems is the language.
+Scientific grammar is notoriously difficult to get your head around. Some feature
+of this include noun phrases, excessive use of the passive voice and ovcrdescrip-
+tion.
+Noun Phrases. These are, as ther name suggests, a grouping together of nouns.
+Things like 'red light diffraction data' or 'nuclear particle decay rate'. Phrases like
+these are simple enough on the surface. Look deeper, though, and you open a
+whole can of worms. Each phrase requires a lot of background information and it
+would be assumed that if you were reading the paper, you would have it. If you
+didn't have any background, you'd immediately have trouble. Take the first phrase.
+Does it mean the the data obtained from diffracting red light? Or is it that some
+light has been diffracted and wc are looking at some part that has been labelled
+as Ted'? To get rid of this type of ambiguity, a much longer statement would be
+required. This 'solution' does not seem to be any better than the problem itself.
+The Passive Voice. Ehis is where the scientist will detach themselves from the
+experiment, lor example, take the following statement: "The two solutions were
+mixed in the test tube and the gases produced were collected." It is a grammati-
+cally correct sentence but something is missing. Who is actually doing thc experi-
+ment? Did thc solutions mix themselves and the gases somehow collect themselves
+into other test tubes? Of course, this is unlikely but the sentence does not imply
+that any sort of experimenter was involved. Any active sentences, where thc sci-
+entist themselves are doing the experiment in the write-up, seem to be positively
+discouraged.
+Overdescription. Quite simply, this adds a lot of description in places where it
+is not entirely necessary. The sentence then ends up unnecessarily long and con-
+tains too many ideas for anyone to actually have a chance of understanding any-
+thing. For example, "epidemiological and microbiological investigation of a possible
+association between infection in sporadic cases and consumption of eggs is
+extremely difficult since eggs are eaten often and recall of egg consumption fades
+rapidly." What does this mean? Well, a lot of people eat a lot of eggs and it isn't
+easy to wotk out which eggs cause infection.
+There is nothing really wrong, per sc with these types of grammatical structures.
+It makes things sound formal and seems to give them a lot of authority. Hey, if a
+scientist can write in a complex manner, surely he has complex thoughts going
+through his head and is clever. That's good isn't it? Table 1 shows a nursery rhyme.
+This will be translated into 'science-speak' and the results are in table 2 and a pic-
+ture of the subject, Miss Muffet appears in figure 1.
+TABLE 1: Nursery rhyme: "Little Miss Muffett'
+Little Miss Muffett sat on a tuffett,
+eating her curds and whey.
+Along came a spider
+and sat down beside her
+And frightened Miss Muffett away.
+Figure 1: Miss Muffett during the spider attack.
+RESULTS
+TABLE 2: Translation of nursery rhyme: 'Little miss Muffett" Into 'Science-speak'
+An immature female human, M. Muffet, aged 5 years and three
+months was observed at rest on a small area of slightly raised grass,
+radius 0.5m. On further observation, it was noted that the sub-
+ject was attempting to satisfy her appetite by the ingestion of semi-
+fermented bovine lactatory by-products. The introduction of the
+venomous black widow arachnid, 2cm span from leg to leg,
+resulted in a marked behavioural reaction in the subject. Muffet
+displayed classic fight or flight responses, including raised adren-
+alin levels and, In turn, increased heart rate, sweating and pupil
+dilation. The subject accelerated away from the arachnid at the
+rate of im/s2
+until she reached a steady velocity of 5 m/s in a
+northeriy direction. The results suggest that the subject suffers from
+the mild psychological condition arachnophobia. We suggest fur-
+ther Investigation to determine the extent of this condition, per-
+haps using choice chambers.2
+Even though this exercise is a little ridiculous, the idea is clear enough. Noun
+phrases, the passive voice and overdescription all play their part in converting a very
+simple nursery rhyme into a pseudo abstract for an experiment.
+CONCLUSIONS
+People will argue that a lot of the features present in thc writing of scientific
+papers are very necessary - they need to be filled with jargon and they have to assume
+some background in the subject, otherwise they would run to hundreds of pages.
+Papers are written for professionals by other professionals with the intent that if the
+reader wants to repeat the experiment, they can do so without any ambiguity. All
+they need is the paper and the equipment. But what's the need to complicate things
+to such an extent that it takes hours to get through and even then with a massively
+fine toothcomb? Scientists the wotld over will tell you that they don't actually read
+papers unless its absolutely necessary, they seem to get filed away and consulted
+as and when necessary - sometimes never again. Surely this can't be a good thing
+for science. And it's definitely no good for the public image of science, a debate
+that's far too large except to touch on here. As the scientific paper gets more and
+more incomprehensible to the lay person, they get more and more alienated. The
+'us and them' mentality starts to creep into the public perception of science and
+the two groups of people simply drift further apart.
+And so what's the point of this? No more than to make you think a little mote
+about what you read (and perhaps what you write). You can get back to that paper
+now.
+2
+J. McNish, Imperial College of Science Technology and Medicine, 1998
+

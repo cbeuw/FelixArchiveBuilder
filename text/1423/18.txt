@@ -1,0 +1,599 @@
+34 Friday 6 February 2009
+felix 35
+felix
+Friday 6 February 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Squash Men's 1st 10 10 0 0 44 6 38 100 5.00
+2 Fencing Men's 1st 7 7 0 0 934 533 401 100 5.00
+3 Tennis Men's 1st 7 7 0 0 58 12 46 100 5.00
+4 Volleyball Women's 1st 7 7 0 0 14 1 13 100 5.00
+5 Lacrosse Women's 1st 9 8 0 1 139 31 108 89 4.00
+6 Hockey Men's 1st 8 7 0 1 45 11 34 88 3.88
+7 Netball 2nd 8 7 0 1 303 144 159 88 3.88
+8 Fencing Women's 1st 8 7 0 1 878 179 88 3.88
+9 ICSM Netball 3rd 7 6 0 1 227 114 113 86 3.71
+10 Squash Men's 2nd 7 6 0 1 23 10 13 86 3.71
+11 Badminton Men's 1st 10 7 2 1 52 28 24 70 3.50
+12 ICSM Badminton Men's 1st 4 3 0 1 18 14 4 75 2.75
+13 ICSM Hockey Women's 1st 9 6 1 2 45 17 28 67 2.67
+14 Table Tennis Men's 1st 10 7 0 3 114 56 58 70 2.30
+15 ICSM Netball 2nd 6 4 0 2 192 117 75 67 2.00
+16 Hockey Women's 1st 9 5 1 3 28 22 6 56 1.67
+17 Hockey Men's 2nd 8 5 0 3 32 22 10 63 1.63
+18 Hockey Men's 3rd 8 3 3 2 16 25 -9 38 1.63
+19 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+20 Basketball Women's 1st 7 4 0 3 326 309 17 57 1.14
+21 Badminton Women's 1st 10 5 1 4 46 34 12 50 1.10
+22 Badminton Men's 2nd 6 2 2 2 24 24 0 33 1.00
+23 Hockey Men's 4th 5 2 1 2 12 20 -8 40 0.80
+24 Squash Women's 1st 10 1 6 3 17 27 -10 10 0.50
+25 ICSM Football Men's 1st 8 4 0 4 12 17 -5 50 0.50
+26 Rugby Union Men's 3rd 8 4 0 4 163 164 -1 50 0.50
+27 Basketball Men's 1st 6 3 0 3 432 412 20 50 0.50
+28 Fencing Men's 2nd 6 3 0 3 722 690 32 50 0.50
+29 Rugby Union Men's 2nd 11 5 0 6 217 240 -23 45 0.09
+30 ICSM Rugby Union Men's 2nd 9 4 0 5 123 143 -20 44 0.00
+31 ICSM Hockey Women's 2nd 6 2 1 3 16 19 -3 33 0.00
+32 Tennis Men's 2nd 6 2 1 3 27 33 -6 33 0.00
+33 Football Men's 1st 7 2 1 4 13 18 -5 29 -0.57
+34 Tennis Women's 1st 8 3 0 5 32 48 -16 38 -0.63
+35 Volleyball Men's 1st 8 3 0 5 7 10 -3 38 -0.63
+36 ICSM Rugby Union Men's 3rd 8 3 0 5 98 179 -81 38 -0.63
+37 Football Men's 2nd 6 2 0 4 14 23 -9 33 -1.00
+38 Football Women's 1st 7 2 0 5 10 25 -15 29 -1.43
+39 ICSM Rugby Union Men's 1st 11 3 0 8 209 308 -99 27 -1.55
+40 ICSM Netball 1st 10 2 1 7 254 362 -108 20 -1.60
+41 ICSM Hockey Men's 2nd 8 2 0 6 13 12 1 25 -1.75
+42 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+43 Netball 3rd 6 1 0 5 62 204 -142 17 -2.50
+44 Football Men's 3rd 6 1 0 5 11 25 -14 17 -2.50
+45 Lacrosse Men's 1st 7 1 0 6 40 93 -53 14 -2.71
+46 Hockey Women's 2nd 7 1 0 6 6 32 -26 14 -2.71
+47 ICSM Hockey Men's 1st 7 1 0 6 12 23 -11 14 -2.71
+48 Rugby Union Men's 4th 8 1 0 7 90 324 -234 13 -2.88
+49 Rugby Union Men's 1st 11 1 0 10 114 380 -266 9 -3.18
+50 ICSM Badminton Women's 1st 10 0 1 9 11 70 -59 0 -3.40
+51 Netball 1st 7 0 0 7 137 271 -134 0 -4.00
+52 ICSM Hockey Women's 3rd 5 0 0 5 3 32 -29 0 -4.00
+53 Table Tennis Women's 1st 4 0 0 4 3 12 -9 0 -4.00
+54 ICSM Hockey Men's 3rd 4 0 0 4 0 12 -12 0 -4.00
+55 Rugby Union Women's 1st 1 0 0 1 0 80 -80 0 -4.00
+1 2 3 4 5 6 7 8
+9 10
+11 12
+13 14 13
+14 15
+16 18
+17 18 19 20
+21 22
+22 23 24
+25
+26 27
+28 29
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,423
+Across:
+1. Mission Impossible quashes confused
+and often nauseous person (9)
+6. Drug’s deep after point (5)
+9. A“Morning Gran”causes double mix-
+up? (7)
+10. Most tidy sounding knee
+examination (7)
+11. Myself and I, both drugless, are a bit
+rickety (6)
+12. Make-up improves socket’s softness?
+(8)
+14. The JCR – so uncouth a chamber! (10)
+15. Down as the sky (4)
+17. Two points and a backward doctor’s
+already a bit of a geek! (4)
+19. Meat and potatoes in sheep’s warm
+cannabis (10)
+22. Sounds like punching the mail’s
+lights out to illuminate street (8)
+23. Bad weather walks angrily (6)
+26. Boo! Dial confusion for circus
+equipment (7)
+27. Mast on peeling tan gives grainy
+foodstuff (7)
+28. To frighten off, put tea in reed? (5)
+29. Back James’golfing target before
+beauty to insult (9)
+Down:
+1. An automobile in San Francisco?
+Better to wrap up... (5)
+2. Silver and rubidium mixed with a
+minimum of the radioactive stuff
+(7)
+3. Scraped nothing in sin after a
+support (8)
+4. Sounds like I am poetic! (4)
+5. Bees live here and make sticky
+hairdressing equipment? (10)
+6. Sturdy horse abode. (6)
+7. Lean rat is confused but constant (7)
+8. Ward off the rent to 28 (9)
+13. Thick foiled weapon (10)
+14. Completed putting 150 mixed
+United Nations in encrypted mess
+(9)
+16. Mexican snack finds nothing in
+dazed rodent around cash register
+(8)
+18. Like a rabbit, or sheep with tongue
+hanging out? (7)
+20. Irrational number chased short
+laugh to make snapper (7)
+21. High growl causes outcry (6)
+24. Whipe it clean and put it on the
+roof? (5)
+25. Confused peas in the trees? (4)
+Ladies and gentlemen; boys and girls. I have
+a sad announcement to make: the strains of
+A T S U N S E F S A C I C
+S E R E N G E T I I R A Q I
+I B O V I R P L O N S N E R
+G A L A T E A L A C O N I C
+N A L E L P E I T E N O O A
+O B O E N C H A P E R O N E D
+F R P I T A I E R E V E R I
+T H E O R E M H O S A N N A
+H H A M A S C O E T S O E N
+E N T O M O L O G Y O S T I R
+T A A A L A E E M U D L I C H
+I N C H I N G A N A R C H Y
+M R K L N B A T N F A I E T
+E V O K E C H A F F I N C H
+S A N T S Y I Y Y Y H G A M
+H
+U
+the job have finally got to me. An occasional
+typo is, I’m sure you’ll agree, forgivable. The
+odd clue left out is a nuisance but, ultimately,
+harmless. But to attribute Vanity Fair to Trol-
+lope (1815-1882) rather than to Thackeray
+(1811-1863) is the first indication of a mind
+ruined by seeing the world in monochrome.
+Iamtherefore,atleasttemporarily,stepping
+down. The search for new setters is open.
+You may see me again on last issues of term
+or occasionally on celebratory days. Until such
+days, – farewell, and happy solving.
+Enoch
+Solution to crossword 1422
+Saturday 31st January
+Fencing
+BUCS Tournament
+Women’s 1st 132-119 Oxford University 1st
+Women’s 1st 135-81 University of Kent 1st
+Football
+Men’s 2s ULU 1-4 RUMS 1s ULU
+Men’s 3s ULU 0-2 King’s College 1s ULU
+Men’s 4s ULU 1-2 LSE 5s ULU
+Men’s 7s ULU 1-3 RSM 1s ULU
+ULU Cup
+Men’s 5s 2-0 Royal Veterinary College 1s
+Men’s 6s 5-1 Heythrop College 1s
+Sunday 1st February
+Basketball
+Men’s 1s ULU 85-90 Royal Holloway 1s ULU
+Fencing
+Women’s 1st 135-105 University of Cambridge 1st
+BUCS Tournament
+Women’s 1st 131-129 University of Bristol 1st
+Hockey
+ULU Cup
+Men’s 1s 6-2 King’s Medicals 1s
+Men’s 2s 1-0 Goldsmiths 1s
+Rugby
+Women’s 1s ULU 5-31 Royal Holloway 1s
+Tennis
+Women’s 1st 6-4 LSE 1st
+Snowball Fighting
+Men’s 51st 54 - 23 King’s 1st
+Wednesday 4th February
+Dog sleigh
+Women’s 1st 5 - 6 SSEES Men’s 3rd
+Netball
+Women’s 2nd 41-10 LSE 3rd
+Squash
+Men’s 3rd 3-0 University of Kent 2nd
+Tennis
+Men’s 1st 7-3 Brunel University 1st
+Saturday 7th February
+Football
+Men’s 1s ULU vs SOAS 1s ULU
+Men’s 2s ULU vs Royal Holloway 1s ULU
+Men’s 3s ULU vs UCL 3s ULU
+Men’s 4s ULU vs LSE 4s ULU
+Men’s 5s ULU vs Queen Mary 3s ULU
+Men’s 7s ULU vs Royal Veterinary College 2s ULU
+ULU Cup
+Men’s 4s vs Queen Mary 2s
+Men’s 5s vs UCL 6s
+Men’s 6s vs Goldsmiths 3s
+Sunday 8th February
+Football
+ULU Cup
+Women’s 1s vs King’s College 1s
+Rolling around naked on ice
+Rugby Men’s 1st 3-3 Centrefold Models 2nd
+Hockey
+Men’s 2s ULU vs King’s Medicals 2s ULU
+Men’s 4s ULU vs King’s College 2s ULU
+Lacrosse
+Mixed 1s ULU vs King’s College 1s ULU
+Monday 9th February
+Badminton
+Mixed 1s ULU vs UCL Mixed 1s ULU
+Basketball
+Women’s 1s ULU vs Queen Mary 1s ULU
+Netball
+Women’s 1s ULU vs St George’s 1s ULU
+Women’s 2s ULU vs UCL 4s ULU
+Women’s 3s ULU vs Imperial Medicals 4s ULU
+Squash
+Men’s 2s ULU vs St George’s 1s ULU
+Men’s 3s ULU vs LSE 3s ULU
+Women’s 1s ULU vs King’s College 1s ULU
+Volleyball
+Mixed 1s ULU vs UCL Mixed 2s ULU
+Water Polo
+Mixed 1s ULU vs King’s College 1s ULU
+Tuesday 10th February
+Basketball
+Men’s 2nd ULU vs South Bank University 1s ULU
+Netball
+Women’s 2s ULU vs Royal Veterinary College 2s ULU
+Wednesday 11th February
+Badminton
+Men’s 2nd vs Royal Holloway 1st
+BUCS Cup
+Women’s 1st vs Oxford Brookes 1st
+Basketball
+Women’s 1st vs Thames Valley University 1st
+Fencing
+BUCS Cup
+Men’s 1st vs Aberystwyth University 1st
+Women’s 1st vs University of Liverpool 1st
+Football
+Men’s 1st vs Royal Holloway 1st
+Men’s 2nd vs University of Hertfordshire 3rd
+Men’s 3rd vs Imperial Medicals 2nd
+Men’s 1s ULU vs Royal Holloway 1s ULU
+Men’s 4s ULU vs Queen Mary 3s ULU
+Men’s 6s ULU vs Queen Mary 4s ULU
+Men’s 7s ULU vs Imperial Medicals 4s ULU
+Hockey
+Men’s 2nd vs King’s Medicals 2nd
+Women’s 2nd vs RUMS 2nd
+BUCS Cup
+Women’s 1st vs University of the Arts London 1st
+ULU
+Men’s 1s ULU vs King’s College 1s ULU
+Men’s 2s ULU vs Goldsmiths 1s ULU
+Men’s 4s ULU vs St Barts 2nd ULU
+Women’s 1s ULU vs King’s Medicals 1s ULU
+Netball
+Women’s2ndvsUniversityoftheArtsLondon2nd
+Women’s 3rd vs University of Reading 4th
+Rugby
+Men’s 1st vs Swansea University 1st
+Men’s 3rd vs Royal Holloway 2nd
+Men’s 4th vs University of Portsmouth 4th
+BUCS Cup
+Men’s 2nd vs University of Chichester 1st
+Women’s 1st vs University of Sussex 1st
+Squash
+BUCS Cup
+Men’s 1st vs University of Liverpool 1st
+Table Tennis
+BUCS Cup
+Men’s 1st vs University of Plymouth 1st
+Tennis
+BUCS Cup
+Women’s 1st vs University of Brighton 1st
+Volleyball
+BUCS Cup
+Men’s 1st vs University of Bristol 1st
+Women’s 1st vs University of Exeter 1st
+Fixtures & Results
+Good morning Lauren on this
+bright but very cold Wednesday
+morning. First things first. What
+is your status on your year so far?
+Yeah it hasn’t gone too badly. We lost
+a couple of key players last year, but we
+have overcome that and everyone that
+has come in has played really well.
+So far in our BUCS league, we are
+third. We should be third but we lost to
+Essex due to what I would like to a call
+a ‘Maradona (Hand of God) Moment’
+where one of the opposing players lift-
+ed up off their body and into the goal,
+which was unfortunate. We should be
+higher but so far so good. We are do-
+ing well.
+As you said, you have lost some
+key players last year. What is the
+history of the 1st XI? How have
+they fared over the past few
+years? Would you call this a good
+or challenging year in general?
+I think we’ve been pretty consistent
+because obviously being medics we
+have got the six years. And we have a
+lot of fourth and fifth years, so we play
+together for a long time.
+So I think we have been consistent,
+but consistently developing because
+playing hockey, or any sport at that
+matter, the longer you play together as
+a team the better it gets. Which trans-
+lates to our team as we have got better
+and better.
+How have you progressed in your
+four years to 1st XI captain?
+I was always in the first team. I think
+I have developed in confidence pre-
+dominantly. It’s part of growing up re-
+ally, now being over the half way mark
+at med school; you kind of have to be a
+bit more old.
+What challenges do you and the
+club face on a sporting level?
+The challenge for the first team is
+gaining promotion in BUCS that we
+should have done years ago. We ba-
+sically lost out because a team gave
+another team a walkover, a game they
+would have won so we didn’t go up.
+That has kept our level of hockey the
+same.
+Additionally, especially in BUCS host
+such a small amount of matches, if you
+mess one or two matches up that could
+be the end of it. Also for us fourth year
+exams are now so a few people can’t
+play which exacerbates the problem.
+What challenges do you face
+personally? This incorporates my
+following question of what are
+the best and worst things of be-
+ing the 1st team captain?
+The best thing is being able to have a
+say and to have the respect of the team
+in which you have been voted in and
+that they listen to what you say.
+We’re lucky in that our first team
+are really close; we are all a bunch of
+friends. The hardest part of the job is
+being so close to the people that I am
+trying to tell what to do. Sometimes
+people can get offended but I try and
+be and fair and polite as possible when
+dealing with such situations.
+What has the standard been like
+this year? What is the new intake
+of freshers like?
+We have one really good fresher in
+the first team who actually took the
+place of someone we lost year, playing
+at right back, which is fortunate. She
+fits into the team perfectly; she is a re-
+ally nice girl and is loads of fun.
+What about historically? Do you
+always get a good bunch of fresh-
+ers in?
+It varies from year to year. In my first
+year there were originally six freshers
+who made the 1st team whereas the
+next year we didn’t have any and in the
+year after that one so it depends.
+I am suspicious because since the
+BMAT was introduced to Imperial
+there have been less and less freshers
+who make the first team. I don’t know
+whether people are getting cleverer at
+the expense of sporting ability?
+What is your priority: BUCS, ULU
+or UH?
+We play UH but that is more of a
+fun thing. UH is just one tournament
+for us. We normally come second by
+drunkenly giving our medals away to
+the winners (GKT).
+Our main target is always BUCS be-
+cause I believe we can go up and we
+miss out every year, which is frustrat-
+ing. I’m hoping at one point during
+my med school careers we would gain
+promotion.
+I have set targets for the team this
+year. Everyone has two or three things
+that they aim to improve on in their
+game so at least if we don’t do it this
+year we will get promoted next year.
+We really deserve it as a team because
+we work really hard.
+Sounds like you have a plan that
+I hope you succeed in. Moving on
+to discuss about how outside in-
+fluences affect the club, how have
+the union and/or Sport Imperial
+helped particularly the first XI in
+their sporting endeavours?
+I think Sport Imperial (SI) is bril-
+liant. They obviously provide us with
+kit and as much as they can, provide us
+with a pitch for training. Obviously IC
+come first and they have training on a
+Monday and play on Wednesdays both
+at Harlington but SI fund us to play at
+Osterley on a Wednesday.
+Alissa (Ayling) is amazing. She is
+always there to answer any questions
+and is at the end of her computer at all
+times.
+* Ed - At this point, Lauren still
+had not receive confirmation that
+her game was cancelled and had
+received a number of phonecalls
+from her eager team-mates who
+desperately wanted to know if
+their wishes of it being cancelled
+had been verified *
+Apart from your plaudits of SI, do
+you think there is anything they
+could improve on? Even if you are
+nitpicking!
+They could put another astro on at
+Harlington! I read in felix recently that
+they might be buying land in Ealing
+(Norwood Green). Having two astros
+is important because we have so many
+teams, as medics we have three wom-
+Lauren Chalmers, the ladies Medicals 1st XI captain braved
+the Wednesday morning snow to meet Mustapher Botchway.
+en’s teams and two men’s team, then
+you have to factor in the IC teams as
+well.
+At the end of they, if we are renting
+someone else’s pitch then SI pay for it
+anyway, so they might as well build two
+nice pitches of the standard of the one
+in Harlington.
+Do you find not playing in a
+central location with the other
+medics, namely Teddington, a
+challenge, in terms of centralised
+travel arrangements?
+Well what is difficult for us is that we
+train and play in different locations.
+We train on a Thursday, which at the
+moment is an issue as we are hungover
+and tired and hungover from Wednes-
+days so training isn’t as productive as it
+should be. That is probably one of the
+challenges as a club where we are try-
+ing to change training to a Monday.
+Additionally we have a Saturday side
+that IC doesn’t. We play in a ladies
+league.
+So, we play our Saturday league
+home matches at Harlington and our
+Wednesday BUCS matches at Osterley
+and the pitches are completely differ-
+ent. The pitch at Osterly is sand based
+and quite slow whereas in Harlington
+it is rubber crumb based and bouncy.
+That makes a difference because if
+you train on a different pitch, you get
+used to a different stick hold and pitch
+positioning.
+Do you err more on to the side of
+participation than excellence?
+Participation, definitely. I don’t think
+anyone is at Imperial to be the best at
+sport, if so they would go to the likes
+of Loughborough or Bath. People are
+here to work, Imperial is a good uni-
+versity and people are here to study so
+sport shouldn’t be something where
+you have to work as hard as you study
+as you do on your sport. Sport should
+be a kind of break from studying. Not
+that I study that hard!
+On to the big day. How do you
+think you will do at Varsity and
+what is the history between the
+two sides?
+Our history isn’t too favourable for
+us. In my first year we lost by quite a
+lot. However in my second year we had
+a brilliant match, I think we lost 6-7
+where we conceded in the last minute.
+The crowds were amazing.
+The next year we lost again, by more
+goals than we should have done.
+This year I think will be an exciting
+one. I think we could win this one.
+We played IC a couple of weeks ago
+and it was an interesting match. The
+score was 1-1 but we were down to ten
+players as one the IC players acciden-
+tally broke one of my teammates’ foot.
+We were also carrying numerous in-
+juries within the team so we were an
+under strength 10-woman team and
+we still drew the match in normal time,
+only to lose 3-1 after extra time.
+I think it’s especially exciting round
+because some of us play indoor hockey
+and I think the relationship between IC
+and ICSM is nicer this year.
+I think competitiveness for Varsity is
+key, nothing is going to change that at
+the end of the day we are medics and
+Ask the captain -
+Lauren Chalmers
+they are IC and that’s what makes the
+event so exciting.
+I think at least this year though it is
+going to be less bitchy because when
+this happens, you get injuries and it
+gets really stupid. Hopefully there will
+be none of that; it will be a nice com-
+petitive affair.
+How do the two teams differ from
+each other?
+I think they’ve got quite a fresh team
+whereas we have a more established
+and experience team I think.
+How can you describe the atmos-
+phere of the rugby match? And
+A proud hockey geek fathered by Mick Hucknell.
+Judith the “ginger winger” is never one to shy away
+from a tackle even if it involves salmon diving into the
+ground. She always plays with heart and manages
+to spread the hockey love far and wide even to the
+dance floor, where she has taken moshing to a new
+level with the aid of JD and coke. Another role she
+has successfully fulfilled is that of a parasite, a skill
+one might say she has perfected. She will commonly
+be found being fed by her team-mates, however when
+under duress she manages to produce quite a culinary
+delight. What’s left to say she’s a rocket fuelled ginger
+nut who will stop at nothing to lead ICSM to victory.
+FACT FILE
+Name: Lauren ‘Judith’
+Chalmers
+Team: ICSM Ladies
+Hockey 1st XI
+Position: Centre Midfield
+Date of Birth: 31/12/1986
+Hometown: Maunden
+Course: 4th Year Medicine
+Height: 5”4
+Weight: 40kg
+how do you think it has changed
+over the years?
+I think everyone has different opin-
+ions on the match. Some people are
+more anti-IC than others and vice
+versa whereas some people have better
+relationships with one another.
+I think it’s a mixture of intensity, cor-
+diality and competitiveness, but it all
+ends in a drunken mess where people
+are shouting and screaming!
+The atmosphere has stayed pretty
+constant over the years. Last year it
+was really exciting as the match was
+more exciting as we let it slip a little
+that rallied the IC troops together.
+

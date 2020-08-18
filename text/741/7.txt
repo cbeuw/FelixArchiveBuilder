@@ -1,0 +1,149 @@
+New Standard
+For TV
+A Japaneses suggestion to
+adopt a 1125-line standard
+television picture was put
+to the International Radio
+Conultative Committee this
+month. This would be a
+significant improvement on
+the 625-line system we use
+in the UK. The Committee
+has decided that the high
+definition system should
+not be adopted as standard
+there is no way of
+transmitting the signals;
+and no TV sets to receive
+them?
+The proposed new
+standard works on 60
+Hertz, or cycles a second.
+Unfortunately the electricity
+supply in Europe—and
+three-quarters of the
+world—works on 50 Hz.
+Secondly, existing
+terrestrial transmitters
+could not cope with the
+high bandwidth required
+for the high-definition
+signal. A fundamental law
+of communication is
+Hartley's law, which states
+that the more information
+you want to send in a given
+time, the higher your
+bandwidth has got to be.
+Existing TV bands are
+already crammed with
+visions, sound, colour and
+teletext information, and
+the new system would
+necessitate the use pf
+direct broadcasting
+satellites.
+But the main worry about
+adoption of the standard is
+economic rather than
+technical—the European
+TV industry does not want
+to accept a standard that
+will guarantee the Japanese
+a monopoly in the market.
+The Europeans are also
+working on new systems of
+their own. Adopting the
+Japanese standard would
+render all current TV sets
+and recording apparatus
+obsolete.
+results in a dramatically
+improved picture quality.
+The system permits ten
+times more colour
+information to be
+transmitted for each of the
+primary colours, giving
+much better colour hues
+and saturation on the
+screen. The new system
+would also have a
+'Cinemascope' type screen
+with a width to height ratio
+of 5:3, compared with the
+present 4:3. The system
+would also allow stereo
+sound.
+Like many technological
+advances, high-definition
+TV comes partly from spin-
+offs from the computer
+industry: very fast
+microprocessor chips allow
+much easier manipuation of
+the video signal. There
+have also been advances in
+TV camera technology.
+High-definition TV is
+already being used to make
+programmes and record
+them. After editing, the
+images are transferred to 1-
+inch video tape for ordinary
+broadcasting on 625 lines.
+The transmission of
+1125-line signals to viewer's
+homes is still some way off,
+though research is under
+way in Japan to produce
+sets to receive the pictures.
+Despite the problems, the
+high-definition system does
+have a lot going for it. It
+allows twice as many
+scanning lines, and more
+than four times as many
+pictures elements, as
+standard systems. This
+How TV Works
+TV cameras scan much in the same way as your eye is
+reading these lines: they scan from left to right, with
+rapid flyback between lines, combined with a slower
+vertical movement down the page. This is achieved in a
+cathode ray tube by applying a high-frequency time
+base horizontally, and a lower-frequency time base
+vertically. A spot traces out lines on the screen, and the
+intensity of the spot varies from point to point to make
+up a picture.
+To cover all the picture elements, several hundred
+lines must be produced on the screen. In Britain the
+standard is 625 lines, and the complete picture is
+scanned 25 times a second. Now 25 pictures a second
+is a low enough frequency to cause visible flicker. To
+avoid this, the scene is actually scanned 50 times a
+second, first the odd lines only, and then the even
+lines. Athough the picture frequency is really only 25
+Hz, the time base applied vertically is 50 Hz—the
+frequency of the domestic electricity supply in most of
+the world except the US and Japan.
+This division of the picture into odd and even lines is
+called interlacing, and each scan, of half the complete
+picture, is called a field.
+Imperial College Women's Club
+SUMME
+DANCE
+on Thursday. 12th June
+at 170 Queen's Gate
+7.30pm-llpm
+Music by the Brunei Academic
+All-Stars
+Food provided by club members
+Dress: Dinner Jacket or Lounge
+Suit
+Tickets from Mrs T Shaw, Min
+Res Eng (or phone 560-1782)
+Price £6 per person (incl. 1
+glass of wine).
+FELIX Friday 23 May 7
+

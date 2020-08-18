@@ -1,0 +1,233 @@
+felix
+24 FRIDAY 01 OCTOBER 2010
+The solid black squares represent the centre squares
+of 9 touching noughts-and-crosses/tic-tac-toe grids
+(3x3).
+Player One selects any of the squares and draws a
+O or a X in or around it - there are eight positions
+around each sqaure left/right/above/below and the
+four corner cells.
+Player Two must then draw the opposite piece, X or
+O, in or around the black square indicated by Player
+One’s move - e.g. if Player One plays O directly below
+the top-right square (i.e. its bottom-middle position),
+Player Two must play X, in or around the bottom-mid-
+dle square;
+Players:
+Ease of Preparation:
+Difficulty:
+In-Lecturabilty:
+2
+★★★★✩
+★★★✩✩
+★★★★★
+Bored Game
+Ultimate Noughts and Crosses
+From time to time you’re going to find yourself with-
+out anything to do. In these times you should go to
+the library and expand your knowledge of your course
+to a superior level, allowing you to pass your exams
+with ease and earn first pick of the top jobs the world
+has to offer. However we know you’re not going to
+do that and by the very fact you’re reading this we
+presume you’ve completed all the puzzles on this
+page, are penniless and/or stuck in a lecture. So
+each week (until we run out) we’ll give you a game to
+play to help pass the time.
+What you need:
+Pen and Paper
+Preparation:
+Draw the grid below (solid black lines only).
+How to play:
+Play continues with Player One drawing their piece in
+or around the square indicated by Player Two’s move,
+etc.
+The game is won by the first player to form a line
+of 5 consecutive Os or Xs anywhere on the grid, hori-
+zontally, vertically, or diagonally.
+O
+1 1 1 1
+1 1 1 1
+1 1
+1 1
+1 1 1 1 1
+1
+1 1 1
+1 1
+1
+1 1
+1
+1
+2 2 2 2 2
+2 2 2 2
+2 2
+2 2
+2
+2 2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3 3
+3
+3
+3
+2 2
+2
+2
+2 2
+2
+2
+3 3
+3
+3
+3
+3
+4
+4
+4
+5
+6
+6
+6
+8
+8
+15
+1
+1
+0 1
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1 1
+1 1
+1
+1
+1
+1
+1
+1
+1
+1 1
+1
+1
+1
+1
+1
+2
+2 2
+2
+2
+2
+2
+4 4
+4
+4 4
+4
+4
+4
+4
+4
+4
+4 4
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+7
+7
+7
+7
+7
+7
+7
+8
+8
+8
+8
+8
+8
+8 8
+8
+8
+9
+9 9
+9 9
+9
+9
+0 0
+0
+0
+0
+0
+0
+Aslant Boxed
+Castles Digits
+Place a diagonal line in every
+cell, slanting either left or right,
+from corner to corner.
+Intersections marked with a
+digit indicate how many diago-
+nal lines connect with it.
+Loops are not allowed.
+Divide the grid into rectangles
+such that each regular rectan-
+gle contains a single number
+indicating how many cells it
+contains.
+Place castles/rooks on the
+board so every white cell is
+guarded but no castle is ca-
+pable of capturing another in
+a single move.
+The numbered cells indi-
+cate how many castles are
+directly adjacent to that cell,
+above, below, left, and right
+but not diagonally.
+The black cells are barriers.
+Shade cells so that no digit
+appears twice in any row or
+column; no two shaded cells
+share an edge; and the re-
+maining cells form a continu-
+ous region, all connected by
+their edges.
+Who said it would be easy? Send your answers to puzzles.felix@imperial.ac.uk to win a crate of beer or equivalent non-alcoholic prize
+PUZZLES
+

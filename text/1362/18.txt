@@ -1,0 +1,294 @@
+I, Gamer
+G
+reetings, welcome
+and hello to what
+can only be ade-
+quately described as
+“Felix Games: Beta
+Version”. This week, we relaunch
+a section not seen for some time
+in these hallowed pages. The last
+time Felix Games graced this pa-
+per, a Playstation 2 would set you
+back £170, CounterStrike 1.5 was
+enjoying 30,000 servers world-
+wide and Wii games were child-
+ish things that teenage boys did
+in the Gents. Life was simple.
+How times change. Counter-
+Strike has now seen several
+fully-published releases, you can
+pick up a PS2 for a fraction of the
+cost and size of days gone by, and
+gaming is almost – almost, mind
+you – cool.
+Not only that, but everyone is
+gaming now. And as the prize
+pot grows bigger, companies are
+looking to get as many people as
+possible on their side – girl gam-
+ers, grrl gamers, young gamers,
+old gamers, casual gamers, hard-
+core gamers, and – yes - those
+people that think that Rainbow
+Six is engaging and fun. If you’ve
+got a wallet, then they’ve got a
+game for you.
+But as we discuss this week,
+it’s not just your money that the
+Industry needs. As the markets
+grow wider and the demands
+more complex, it’s hard to keep
+innovative without fresh ideas
+and sharp new minds flowing in.
+We take a look at Neverwinter
+Nights 2 and Microsoft’s XNA
+and ask whether bedroom coding
+is a thing of the past.
+And hey, the industry needs
+journalists, too (or so we like to
+think, at least)! Without writers,
+this section can’t survive, so if
+you’ve got the experience and the
+writing know-how, Felix Games
+wants to hear from you – the
+email address is at the bottom of
+this column.
+Aside from our themed weekly
+features, we’ll also be taking a
+look back at milestones and un-
+discovered gems from platforms
+past in our Retro column. And
+we’ll also be looking to the future
+in Where Next, which focuses on
+the technologies, games and the-
+ory behind tomorrow’s industry.
+Over the coming weeks and
+more, the layout of Felix Games
+is likely to change many times.
+But we can’t do it at all without
+you!
+So if you’ve got a comment on
+the section, or would like to be a
+part of our writing team, please
+get in touch. The details are be-
+low. Enjoy.
+Michael Cook
+Games Editor
+games.felix@imperial.ac.uk
+Michael Cook
+Games Editor
+Battle against the franchise
+Technology pushes forward year on year, but is real game design a thing of the past?
+Game development is big business,
+a very big business. With develop-
+ment studios comprising hundreds
+of developers, and budgets reach-
+ing far into the tens of millions of
+pounds, we’ve come a long way
+since lone programmers tinkered
+with machine code in their base-
+ments … or have we?
+Of course, today’s blockbuster
+games provide audio and visual
+experiences on a whole different
+scale to games of the past. How can
+a pixelated two-frame character
+animation possibly compare with
+3-D models containing millions of
+polygons and advanced pixel-shad-
+er technology? Given the option,
+it’s obvious which someone would
+choose.
+These amazing visuals come at
+a high price, however. Back in the
+world of Pong and Pacman, devel-
+opment times were measured in
+weeks or months. Today, they are
+measured in years. The time, effort,
+and money needed to create the
+graphics players have come to ex-
+pect from modern games are vast.
+But in terms of the “fun” they add to
+a game … is it all really worth it?
+The human mind is very good
+at ignoring unnecessary details.
+Amazing visual effects do a good job
+of creating that “wow” factor when
+a gamer looks at the back of the box
+in their high-street shop. But in the
+long run, all these next-generation
+graphics serve to do is present the
+player with the gameplay experi-
+ence in as pleasant a way as pos-
+sible. Just like a movie with great
+effects is poor if it’s backed up by a
+weak plot, a game with weak game-
+play won’t hold the attention of the
+A gamer’s favourite bedroom pastime
+Neverwinter Nights veteran Bryn Davies talks about mods, modules and fame
+When Neverwinter Nights was re-
+leased back in 2002, it had a pro-
+found impact both on the average
+multiplayer gamer, as well as the
+aspiring coder. The Aurora toolset
+enabled both teams and individuals
+to create their own worlds, shar-
+ing work between a strong online
+community.
+With the release of Neverwinter
+Nights 2 this week, it’s possible that
+there’s another revolution on the
+horizon. Felix Games talks to Bryn
+Davies, the creator of the module
+True Colors of a Hero, about how
+the tools and the people have ena-
+bled him to create a world.
+Is TCOAH the first modification
+you’ve ever made for a game?
+Far from it, though its definitely the
+largest project I’ve ever undertak-
+en. I started modding back when the
+Quake II editor was released. From
+there I moved on to Unreal, then
+through the series all the way up to
+Unreal Tournament 2004. Mainly I
+just coded weapons, skinned char-
+acters and designed levels. I’m
+no 3d artist (I could never make
+anything that didn’t just look like a Bryn Davies’ customisations to NWN include an emote system
+player, no matter how many pretty
+explosions it has.
+For today’s smaller developers,
+the situation can look pretty bleak.
+Without the vast resources availa-
+ble to the big studios, they will often
+fall flat on their face while trying to
+match the visual quality of the latest
+blockbuster. The big development
+companies would have you believe
+it’s impossible to make a hit game
+without a team of hundreds and
+millions of pounds at your disposal
+… and they may well be correct.
+Does this mean there isn’t a place
+for the small independent develop-
+er in a market full of movie licenses
+and 2006/7/8 sports managers? Not
+necessarily. Things are starting to
+change in how games reach their
+audience. Traditionally, a developer
+would produce a game, and then
+start it down the long and treacher-
+ous journey of publishers, distribu-
+tors, and resellers. If all goes well,
+the game will end up on a shelf in
+a high street shop, where it’s criti-
+cally compared by unforgiving cus-
+tomers against the rest of the mar-
+ket based on how much “wow” they
+can squeeze on the back of a 7” by
+10” box – a pretty harsh environ-
+ment for a small and unestablished
+developer.
+But with the advent of online
+distribution, games can be deliv-
+ered directly to customers who are
+able to make much more informed
+choices. This new market pits small
+developers with new ideas on a lev-
+Unreal Tournament 07’s weapons boast more pixels than entire levels did in the original. Is it more fun?
+el playing field against the big com-
+panies. Over the next few years, it’s
+possible that this new delivery sys-
+tem could lead to a divide in game
+development. There will always be
+money to be made in pumping out
+sequel upon sequel of a tried and
+testing concept by companies who
+really can’t afford to take risks. This
+could leave the market’s need for
+innovative and original games to
+be met by the smaller companies
+who perhaps don’t have as much to
+lose.
+For now at least there is a glim-
+mer of hope for the gamers who’ve
+become disillusioned by the un-
+answered call for new and unique
+games - small developers with big
+ideas have just found a new voice.
+bundle of cubes) so modelling was
+out of the question. NWN1 was odd
+actually. I left it a while and saw it
+with the first expansion in a cheap
+bundle. That’s where it all started.
+What do you find helpful from us-
+ing Neverwinter Nights?
+The ease at which you can knock
+together a module. Most modules
+now use such sophisticated script-
+ing and custom content, but to be
+honest it’s not strictly needed.
+If you’re already able to create a
+working adventure, with unlimited
+scope for its length and the many
+pathways to its end without even
+touching a single string of code,
+then all you’re left with is the level
+design and the story (from which
+your gameplay should follow).
+The community is fantastic. 4
+years after its initial release you’re
+still getting people releasing free
+content for it. For mod developers,
+particularly who aren’t able or con-
+fident in producing custom content
+for their modules, its fantastic.
+Do you think there’s still the ‘bed-
+room coding’ ethic?
+In some ways the bedroom coding
+ethic is more prevalent than ever.
+The games industry has entered a
+very strange time. The graphics on
+games now are just stunning. The
+detail on objects and characters
+just blows you away. But gameplay
+hasn’t moved on that much. We’re
+stuck in the same formulas.
+However, I don’t think the solu-
+tion is to break out of the defined
+game genres with every title. I just
+think that the elements of game-
+play, which have become pretty
+rigid within most genres, should be
+expanded.
+I want to be interested by a game
+from the word go, and I want to eas-
+ily be able to identify why I should
+buy it over another.
+There’s no use comparing two FPS
+titles when its just going to be a
+choice between graphics styling
+and “storyline”.
+This is where bedroom develop-
+ers can and indeed have aided the
+professionals. You can take a look
+at any PC title that’s had a big net
+community follow it and I’ll guar-
+antee you that some of those mod-
+ders have been snapped up by the
+initial games developers. In the
+case of NWN1, just look at DLA.
+Many of their members left to work
+for Bioware. It’s always possible,
+you’ve just gotta work hard to get
+recognition.
+For more information about
+TCOAH point your web browser
+to: http://snipurl.com/10vpd
+DeadPixel
+18 felix Friday 3 November 2006
+GAMES games.felix@imperial.ac.uk
+Michael Cook
+

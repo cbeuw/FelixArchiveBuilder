@@ -1,0 +1,238 @@
+FELIX
+34
+SPORT
+Sports Editors: Jovan Nedic
+David Wilson
+sport.felix@imperial.ac.uk
+Friday 06 MAY 2011
+Felix Sports League
+sponsored by
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1210 607 603 5.00
+2 Fencing M1 10 10 0 0 1229 919 310 5.00
+3 Table Tennis M2 11 11 0 0 156 31 125 5.00
+4 Water Polo W1 8 7 1 0 102 24 78 4.63
+5 Volleyball M1 11 10 0 1 22 4 18 4.18
+6 Volleyball W1 11 10 0 1 21 4 17 4.18
+7 Basketball M1 12 10 0 2 917 735 182 3.50
+8 ICSM Netball W1 12 10 0 2 493 312 181 3.50
+9 Lacrosse M1 11 9 0 2 154 85 69 3.36
+10 Tennis M1 12 9 1 2 84 60 24 3.25
+11 Table Tennis M1 12 9 1 2 84 60 14 3.25
+12 Basketball W1 9 7 0 2 464 348 116 3.00
+13 Netball W1 13 10 0 3 546 367 179 2.92
+14 Squash W1 11 8 0 3 31 12 19 2.55
+15 Hockey M1 12 8 1 3 46 25 21 2.50
+16 Rugby M1 14 10 0 4 344 191 153 2.43
+17 Hockey W1 13 9 0 4 67 24 43 2.23
+18 Lacrosse W1 9 6 0 3 110 64 46 2.00
+19 Table Tennis W1 6 4 0 2 20 10 10 2.00
+20 ICSM Football M1 9 5 1 3 28 18 10 1.67
+21 ICSM Hockey W1 20 10 3 7 54 48 6 1.40
+22 ICSM Rugby M3 10 6 0 4 252 266 -14 1.40
+23 Football M1 13 7 1 5 34 20 14 1.31
+24 Badminton W1 13 7 1 5 44 60 -16 1.31
+25 Hockey M2 12 5 3 4 22 26 -4 1.25
+26 Football W1 7 4 0 3 19 19 0 1.14
+27 Tennis W1 7 4 0 3 42 42 0 1.14
+28 ICSM Hockey M3 7 4 0 3 11 27 -16 1.14
+29 Netball W3 9 5 0 4 291 217 74 1.00
+30 Hockey M3 11 4 3 4 17 13 4 0.91
+31 Badminton M1 11 4 3 4 44 44 0 0.91
+32 Fencing M2 10 5 0 4 1122 1128 -6 0.90
+33 ICSM Hockey M1 10 5 0 5 25 20 5 0.50
+34 Netball W2 12 6 0 6 445 483 -38 0.50
+35 Badminton M2 10 4 1 5 43 37 6 0.20
+36 ICSM Hockey M2 11 3 3 5 19 29 -10 0.09
+37 ICSM Netball W2 11 5 0 6 341 360 -19 0.09
+38 Squash M4 6 2 1 3 8 7 1 0.00
+39 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+40 ICSM Football M3 0 0 0 0 0 0 0 0.00
+41 Lacrosse W2 0 0 0 0 0 0 0 0.00
+42 ICSM Football M2 5 2 0 3 14 16 -2 -0.40
+43 Fencing W2 10 4 0 6 1142 1170 -28 -0.40
+44 Fencing M3 10 4 0 6 1146 1201 -55 -0.40
+45 Football M3 11 3 2 6 22 30 -8 -0.45
+46 ICSM Badminton W1 9 2 2 5 32 46 -14 -0.67
+47 ICSM Badminton M1 10 3 1 6 24 56 -32 -0.70
+48 Squash M3 9 3 0 6 17 26 -9 -1.00
+49 Tennis M2 10 2 2 6 40 79 -39 -1.00
+50 Hockey W2 12 3 1 8 13 41 -28 -1.25
+51 ICSM Rugby M1 11 2 1 8 144 427 -283 -1.82
+52 Water Polo M1 3 0 1 2 23 30 -7 -2.00
+53 ICSM Rugby M2 12 2 1 9 200 438 -238 -2.00
+54 Rugby M2 14 3 0 11 194 356 -162 -2.07
+55 ICSM Hockey W3 5 1 0 4 4 17 -13 -2.20
+56 ICSM Hockey W2 10 2 0 8 21 42 -21 -2.20
+57 Rugby M3 10 2 0 8 71 357 -286 -2.20
+58 Hockey M4 11 2 0 9 15 32 -17 -2.36
+59 ICSM Badminton M2 6 1 0 5 16 32 -16 -2.50
+60 Squash M2 12 2 0 10 16 44 -28 -2.50
+61 Rugby M4 8 1 0 7 59 325 -266 -2.88
+62 Football M2 12 1 0 11 14 36 -22 -3.25
+63 Squash M1 7 0 0 7 5 30 -25 -4.00
+64 ICSM Netball W3 9 0 0 9 186 352 -166 -4.00
+65 ICSM Netball W3 7 0 0 7 134 257 -123 -4.00
+Gilliam and Robert Shaw, had a similar start
+to the girls as their opponents, University of
+Edinburgh, had a team consisting of no foilists.
+They won their match by 45-26, a good index
+for the others to work with. The epeeists Mar-
+cello Colombino, Ed Gilhead and Miles Gan-
+dolfi met a stronger team than their foil fencing
+friends and lost by one hit, 44-45, after a thrill-
+ing last period. From here it was down to the
+sabreurs Maiyuran Ratneswaran, Didier Nohl-
+mans and Henry Gann to make sure the men
+followed the women in to the final. To ensure
+this they could lose by a maximum of eight
+hits. Though, keeping in mind that the team
+has had 45-15 (victory) as their worst result,
+no one was really worried. Edinburgh decided
+to put up a greater fight than any other team so
+far, and managed to get 29 points. The overall
+score was 134 – 100 and the foilists found it
+highly amusing to point out to the sabreurs that
+their score had been better, always having been
+the other way around.
+In the finals, the men faced St Andrews Uni-
+versity and the women Cambridge University.
+For the women Cambridge were known oppo-
+nents from the Premier League, with only mi-
+nor changes to the team, whereas St Andrews
+were completely unknown to the men. Both
+had the order foil, sabre, epee and fenced in
+parallel with the Sport Imperial leaders sup-
+porting from the stands.
+The women won their foil match 45-21 and
+the men repeated their result from the semi-
+final: 45-26. From here it continued, sabre be-
+ing up next. The male sabreurs improved their
+score from the previous match and won by
+45-20, leaving it to their epee team go get one
+point to get the gold. For the women the chal-
+lenge got slightly bigger, some of the fencers
+for Cambridge being unknown. Nevertheless,
+they stayed strong and won by 45-30, and the
+women were now 6 hits from becoming cham-
+pions. From this position, the competition was
+turned into something different. Both teams
+would win, anything else would be a massive
+failure, and the goal was now to win before
+the other IC team did. The women’s match
+started a bit earlier than the men’s, meaning
+that they’d reached four hits by the time the
+guys started. While Alice was trying to get
+the final hits Marcello was rushing it a bit too
+much in his excitement. Eventually Marcello
+managed to score the striking hit and both the
+leaders from Sport Imperial and both teams
+started cheering loudly. The girls had another
+change of fencers before Emily ended the in-
+security with another round of cheering. From
+here, the girls almost gave up in their relief,
+combined with tiredness and the knowledge
+of Cambridge being the only epee team they
+had lost to. As their match finished 39-45 the
+final was over and the total score 123 – 96 for
+Imperial. Meanwhile the men were still at the
+end of their match. This one had been much
+more even as St Andrews refused to let Impe-
+rial win with more than necessary. Challenging
+them all the way to the end they brought it up
+to 44 – 44 when Marcello put an end to it and
+got the final point. With this the men won by
+135 – 90 and did it in the best way possible: a
+clean sweep.
+The prize ceremony was a happy moment for
+Imperial Fencing, collecting many gold medals
+and smiling broadly at a successful season. In
+addition to the already impressive double gold.
+Hannah and Maiyuran were awarded woman
+and man of their respective matches, an award
+decided by the referees. With the first team
+together collecting 200 BUCS points the club
+has had its most successful season ever.
+Men’s and women’s fencers
+crowned BUCS Champions
+Premier League 1
+Bin Laden 0
+J
+udging from the BBC’s “Most Viewed”
+online articles, it seems the big story this
+week is that Obama Bin Laden is finally
+dead (complaints directed to the Editor
+please).And so the excitable conspiracy
+theorists are out in force, claiming that the chap
+died years ago from kidney failure (yes, sugary
+Afghan sweets and not a 24 Jack Bauer style
+shoot-off caused the demise of the world’s most
+wanted terrorist) and that the news was not re-
+leased until now for one of two reasons.
+(a) Mr Gaddafi is still in power, alive and
+kicking, and hence the clearly logical thing
+was to divert everyone from this fact using the
+most absurd distraction technique since Adolf
+Hitler decided to grow a moustache. Or:
+(b) There was fear Donald Trump would
+start clamouring for Bin Laden’s death certifi-
+cate, and those in the know claim the evidence
+would have raised a few beards.
+But the real news, the thing everyone should
+be talking about… no, it isn’t how fit Pippa
+Middleton is and who shot-gunned her first…
+is that a dodgy goal line call and an offside have
+sent Chelsea storming down Manchester Unit-
+ed’s neck. If only Jose Mourinho – and not Har-
+ry Redknapp – were at the helm of Tottenham,
+we’d have heard the question “Why?” repeated
+a few dozen times, thrown in with the occasion-
+al mention of miracles, and how the whole of
+UEFA hates the poor little moaning shit-stirrer.
+Football is normally the reserve of beer-
+bellied men that need to so badly demonstrate
+the extent of their insight, the clarity of their
+judgement, the supremacy of their knowledge,
+that they come up with the most awful clichés
+– it was a game of two halves, a player fouled
+an opposition member in the box and “paid the
+penalty”. But this season’s Premier League has
+become, forgive the expression, a belter.
+Back in February, Ferguson wrote off Chel-
+sea’s chances as they lingered 12 points adrift
+from leaders United, and at the time saw Arse-
+nal as their only contenders. But in a comeback
+as good as any Lance Armstrong, Zinedine Zi-
+dane, or Niki Lauda could muster, the Blues
+will go top of the league on Sunday if the beat
+...Continued from back page
+the Red Devils at Old Trafford.
+United fell foul of an unsuccessful counter-
+attack strategy against Arsenal, losing 1-0
+last weekend and reducing Chelsea’s gap to 3
+points. And yet there were signs that this tac-
+tic would fail earlier in the year, during their
+Champions League clash against Chelsea.
+United won the first leg 1-0, however Chel-
+sea’s 16 attempts on goal to United’s 5 showed
+how lucky they were. Had Torres not been tak-
+ing a siesta, and Rooney not been so bullish,
+the score line could have easily been reversed.
+Ancelotti has been here before. In February
+of 2005, his Milan side were 12 points behind
+Juventus. But by April, with three games to
+go, they were lagging by just 3 points. Has he
+learnt from that experience? His record isn’t
+promising, during his eight seasons with Milan,
+he only managed to win the title once. Only on
+two other occasions did the team come close
+again to winning the Serie A as they finished
+second in both 2005 and 2006. The excitement
+of it all has got me churning out those despica-
+ble clichés right, left, and through the middle.
+At the end of the day, it’s the goals that count.
+Charles Betts
+With all the Osama excitement, you could almost
+forget that Chelsea could win the league
+

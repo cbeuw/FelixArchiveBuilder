@@ -1,0 +1,158 @@
+This
+Week
+• Improve your sex drive and light up your life.
+Neurologist Professor Russel Reiter of the University
+of Texas believes that light from the blue end of the
+spectrum will fool the pineal gland in the brain into
+reducing the quantity of melatonin it produces.
+Melatonin has a depressive effect on the reproductive
+system and has been linked to Seasonal Affective
+Depression, which strikes victims in the darker
+months.
+The American Association for the Advancement of
+Science in New Orleans have been giving people
+powerful lamps to carry around. They claim light baths
+have had dramatic effects; one previously suicidal
+woman is having the best winter of her life using light
+as a drug. More advice from Prof. Reiter; 'Keep the
+bedroom light on...and you should get your old drive
+back.'
+• The chance of a child developing leukaemia is
+significantly linked to the father's exposure to
+radiation. This is according to a report published a
+couple weeks ago by the Medical Research Council
+concerning the population in the vicinity of the
+Sellafield nuclear reprocessing plant.
+The present maximum allowed dose for radiation
+workers is 50 milliseverts (mSv), although two years
+ago the National Radiological Protection Board
+recommended reducing this to 15 mSv. The report
+concludes that workers who received more than 10
+mSv six months before conception increased the risk
+of their child contracting leukaemia by six to eight
+times.
+• A film of microscopically grooved plastic could
+make significant savings in fuel for airlines. The ribbed
+film entirely coves an aircraft's fuselage except for
+sharp curves such as the edges of the wings. It has
+been tested for a year on an Airbus A300, owned by
+the airline Lufthansa, and has not been damaged or
+clogged up. The grooves in the film help to lower
+turbulance in the layer of air next to the aircraft's skin.
+Predicted fuel reductions are about 1.5%
+corresponding to 70 tonnes for aircraft on short haul
+flights and 310 tonnes for those on long haul flights
+per year. These represent monetary savings of
+£10,000 and £40,000 respectively.
+• The European Space Agency (ESA) are trying
+to revive Giotto, a deep space probe. In March 1986
+it met Halley's Comet with an accuracy in tracking
+equivalent to hitting a dinner plate in Hyde Park with
+a bullet fired from Edinburgh. It appears that Giotto
+has survived almost without damage after this
+encounter. Although the probe and its antenna are not
+orientated correctly, ESA have been able to make
+contact and hope to instruct it to reposition. It has
+enough fuel to pass close to Earth this June in order
+to send it off into a new orbit to coincide with another
+comet, Grigg Skjellerup.
+Liz Warren presents an overview of the Process Systems
+Engineering IRC at Imperial.
+Safe simulations
+Process simulation packages allow designers to model
+processes, for example a chemical plant composed of
+different process units. They allow complicated
+interactions, such as parallel chemical reactions, to
+be calculated and processes such as startup and
+shutdown to be tested. They also allow on-line control
+and optimisation of plants. Packages can either model
+steady state situations or they can shed light on the
+time dependent behaviour of plants. The Chemical
+Engineering Department at Imperial has developed
+such a package, known as SPEEDUP, which it has
+made into a commercial success.
+Any process can be represented on SPEEDUP if it
+can be written down as a mathematical model.
+SPEEDUP'S main advantage over many of its rivals is
+its ability to handle time dependent equations. It is also
+capable of dealing with plants in a 'non-sequential'
+manner, that is, it does not have to know everything
+about all the previous units in the process as long as
+it has sufficient information overall to solve the
+problem.
+SPEEDUP has been under development at Imperial
+since 1979, Initial work was funded by the Science
+and Engineering Research Council (SERC). In 1986,
+Prosys Technology of Cambridge, who were already
+involved in the simulation market with their own
+process database, began marketing SPEEDUP on
+Imperial College's behalf. Clients include companies
+such as BP and Dow Chemicals. Prosys are now
+responsible for the commercial development and
+.marketing of the package, while further software
+development is being carried out at Imperial College
+in the new Interdisciplinary Research Centre (IRC) for
+Process Systems Engineering, which was set up last
+summer under SERC funding.
+The existing SPEEDUP package is already a
+sophisticated tool. A valuable application is its use in
+training plant operators. Plants can be modelled and
+incorporated into other programs, such as a graphical
+interface. Training modules can then be devised which
+will allow trainee operators to learn to respond to
+changes in the modelled plant, such as a variation in
+feed quality, without losing real products or
+endangering the safety of a real plant.
+SPEEDUP can also assist more experienced
+operators in two ways. It can help operators optimise
+plants on-line by linking the plant's control system to
+a model of the plant. The second way in which
+SPEEDUP can help experienced operators is by
+building up an 'expert system', or knowledge base,
+which can advise operators on the best course of
+action in particular circumstances.
+Current development is progressing in several areas.
+Pioneering work is being carried out on generating the
+equations which provide the rigid mathematical
+description of the plant from a less rigid description
+such as the kinetics of the reaction and physical
+configuration of the catalyst in a reactor. The system
+would build the necessary equations and ask for
+sufficient physical data to solve the problem.
+Another major area of development is to extend the
+ability of SPEEDUP to handle both discrete and
+continuous processes within the same model. Most
+current dynamic simulators can handle complex
+continuous processes but are unable to model discrete
+events such as startup and shutdown. Programs
+which can handle this sort of event are usually unable
+to model all but the simplest continuous process. The
+combination of the two types of event in the same
+program is increasingly important as the chemical
+industry places greater emphasis on batch processing.
+A third area in which the system is being developed
+is batch optimisation. This will handle the situation in
+which process equipment is used with different feeds
+in varying combinations to produce a range of
+products. This can be a complex problem when there
+are a large number of desired products. The system
+will be able to provide the optimum schedule for the
+batches to be processed to allow the greatest profit
+to be made. Again the increase in the use of batch
+processes stresses the importance of this
+development.
+Dynamic simulators such as SPEEDUP also give
+plant designers several advantages. Many plants are
+designed using steady state simulation and this can
+lead to overdesign and unnecessary cost. Dynamic
+simulators also allow designers to seriously consider
+the operability of the plant early in the design stage
+and allow them to explore plant control without any
+risk of accidents. A combined discrete/continuous
+event simulator also provides the opportunity to
+design and test controllers and control strategies.
+Dynamic simulators are at last providing design
+engineers with a real opportunity to produce better,
+safer designs at less cost.
+Page 14
+

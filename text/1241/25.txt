@@ -1,0 +1,107 @@
+London Philharmonic Orchestra AR5
+Malaysian GH19
+Materials QL35
+Mauritian GH20
+Media Group MDH11
+Medic Music SAF16
+Medical Defense Unit SAF5
+Medical Ethics SAF27
+Medical Protection Society SAF6
+Medics Exec SAF24
+MedSIN SAF28
+Micro Club DB8
+Milkround Online AR3
+Motorcycle QL30
+Mountaneering BQ10
+Musical Theatre CH1
+National Blood Service JCR16
+Netball MDH22
+Nightfly AR11
+02 AR13
+Orienteering QL10
+Origami UDH10
+OSC Exec GH21
+Outdoor BQ13
+Pakistan GH22
+Parachute MDH32
+Phoenix BQ18
+Photography UDH1
+Physical Sciences Exec QL39
+Physics QL42
+Pimlico Connection BQ
+Poetry CH2
+Po-Na-Na Hammersmith UDH6
+Postgraduate JCR19
+Pugwash JCR17
+RAG BQ1
+RCC Exec MDH13
+RCS Football QL14
+RCS motor QL28
+Riding Club QL21
+Rifle and Pistol MDH23
+Rock UDH12
+Royal Bank of Scotland AR6
+Royal Court Theatre AR4
+RSM Exec QL33
+RSM Football QL7
+RSM Hockey QL10
+RSM Motor QL27
+RSM Rugby QL24
+Rugby (Ladies) QL16
+Rugby (Mens) QL17
+Sailing QL3
+Sailing QL3
+Scandinavian GH23
+SCC Exec JCR14
+Science Fiction UDH8
+Shaloin Kung Fu UG11
+Shorinji Kempo UG14
+Shotokan Karate UG13
+Sikh JCR12
+Sinfonietta CH5
+Singapore GH24
+SIS MDH28
+Skate QL29
+Ski & Snowboard QL22
+Spanish GH30
+Squash MDH24
+Sri-Lankan GH26
+STA Travel MDH1
+Stampy BQ4
+Stampy JCR21
+Stampy QL8
+Stampy SAF1
+STOIC BQ
+Subway MDH3
+Surgical SAF15
+Swim&Waterpolo MDH25
+Symphony Orchestra & Wind Band CH6
+Table tennis MDH26
+TaiChi UG12
+Taiwan GH27
+TenPin Bowling MDH27
+Thai GH28
+The Bible Talks JCR13
+The Times AR12
+Turkish GH29
+UCG Cinemas Ltd AR14
+UL Air Squadron AR9
+UL Officers training Corps AR10
+UL Royal Naval Unit AR8
+Ultimate Frisbee QL19
+ULU MDH8
+Underwater QL13
+UROP MDH5
+Vision Express MDH9
+Volleyball MDH37
+War Games DB2
+Weights MDH29
+White Crane Kung Fu UG6
+Windsurfing QL2
+Wine tasting DB1
+Wing Chun UG7
+Yacht QL4
+Yoga MDH30
+Spares: QL13 SAF26 DB9
+MDH15 SAF2 UDH14 MDH20
+

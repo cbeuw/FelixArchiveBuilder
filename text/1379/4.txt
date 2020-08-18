@@ -1,0 +1,302 @@
+Clouding the issue: cosmic rays
+Cosmoclimatology claims cosmic rays affect cloud cover; CLOUD, an experiment at CERN, will investigate.
+Edmund Henley
+Science Editor
+Cosmoclimatology is one of the
+more contentious theories invoked
+to explain global warming. Still a
+minority view, it contends that one
+major contributor might not be
+man-made, but natural – that the
+interaction between the sun’s mag-
+netic field and cosmic rays might
+be affecting the clouds, and hence
+the climate. At a very simple level,
+it likens the atmosphere to cloud
+chambers, the very early detectors
+used to observe sub-atomic parti-
+cles. To test this theory, scientists
+at CERN have constructed CLOUD
+(Cosmics Leaving OUtdoor Drop-
+lets – as ever in science, a rather
+forced acronym), a modern equiva-
+lent to these detectors, which will
+be subjected to an artificial cosmic
+ray shower from the particle accel-
+erators there.
+Before describing the experiment
+though, it’s worth having a quick
+look at the theory. Cosmic rays are
+mostly protons (though sometimes
+heavier particles or nuclei) often
+originating outside our solar sys-
+tem, which have been accelerated
+to high energies – in some cases
+possibly by supernovae. The most
+energetic can exceed 1020
+eV, about
+the same energy as a well-bowled
+cricket ball – fairly hefty for some-
+thing so much smaller. Because
+they are charged, cosmic rays are
+affected by magnetic fields, such as
+that of the sun – its field contains
+structures which can act as mag-
+netic barriers to the particles.
+It’s well-known that the sun goes
+through an 11-year cycle, during
+which sunspots become more fre-
+quent, before disappearing again;
+it’s less well-known that this is also
+tied in with the sun’s magnetic field.
+As the cycle heads towards solar
+maximum, when sunspot number
+increases, the solar magnetic field
+becomes more complex, affecting
+thecosmic-rayshieldingstructures,
+so that fewer cosmic rays reach the
+earth. When the solar cycle heads
+towards a minimum however, the
+situation is reversed: the shielding
+effect is not so strong, so more cos-
+mic rays reach earth.
+Buthowwouldthiscyclicvariation
+in cosmic rays affect the climate?
+When cosmic rays impinging on the
+earth reach the troposphere, the
+layer of the atmosphere between
+the ground and approximately 10km
+altitude, they often collide with air
+molecules, creating ions. Cosmocli-
+matology maintains that these ions
+may then be able to affect the for-
+mation of the nuclei around which
+water vapour condenses (or freez-
+es), to form the droplets (or ice par-
+ticles) which make up a cloud. Or
+they may change the atmospheric
+chemistry affecting the presence of
+vapour.
+There have been some results,
+hotly contested, which suggest that
+low-level clouds (below about 3km)
+may be more frequent when there
+are more cosmic rays. An increase
+in the number of such clouds would
+reflect more of the sun’s light,
+leading to a cooler climate. But
+why would this be linked with glo-
+bal warming? From both histori-
+cal measurements of the Earth’s
+magnetic field, and records of iso-
+tope abundances (such as 10
+Be), it
+is thought the solar magnetic field
+may have increased over the last
+hundred years, and cosmic rays
+encountering earth subsequently
+decreased, creating fewer low-level
+clouds to cool the planet, and hence
+leading to an increase in global
+temperatures.
+However, much of the evidence
+cosmoclimatology adherents claim
+supports their theory is disputed
+by other scientists. And crucially,
+the mechanisms by which cosmic
+rays may eventually create cloud
+condensation nuclei are unclear.
+CLOUD, a £6.2 million experiment,
+is designed to address this uncer-
+tainty, investigating (over 8 years)
+if and how these mechanisms oc-
+cur. At its heart lie two chambers,
+a 0.5m diameter cloud chamber,
+and a 2m reaction chamber, which
+can be filled with a variety of gas-
+es found in the atmosphere, and
+whose temperature and pressure
+can be altered to recreate condi-
+tions anywhere in the troposphere
+or stratosphere. Water vapour
+super-saturation levels of around
+1% will also mimic nature, mak-
+ing CLOUD rather different from
+classical cloud chambers, where
+saturation levels were hundreds of
+times higher. Lastly, electric fields
+matching those in clouds can also
+be generated.
+CERN was chosen as it can gen-
+erate a particle beam matching the
+energies of the section of the cosmic
+ray spectrum thought to be rele-
+vant – the whole experiment can be
+flooded with a beam of muons and
+pions with energies from 1-3.5×109
+eV, and with fluxes between 1-10
+times the cosmic ray levels. This
+beam can also be turned off, allow-
+ing researchers to observe the ex-
+periment under conditions where
+only “natural” or background cos-
+mic rays are present.
+A whole host of detectors sur-
+round the two chambers, including
+CCD imagers and Mie scattering
+detectors (to observe any droplet
+formed), mass spectrometers, and
+trace gas analysers – ensuring
+the effort expended to create this
+precisely tuneable experimental
+atmosphere is rewarded, with lit-
+tle of what is going on escaping
+observation.
+The researchers hope to use
+these observations to clarify how
+ions created by cosmic rays affect
+various processes, such as the cre-
+ation of condensation nuclei from
+various trace vapours (eg sulphu-
+ric acid); how these condensation
+nuclei grow to become cloud con-
+densation nuclei; how these are
+then activated when water vapour
+is present; and the formation of ice
+nuclei.
+CLOUD suffered a postponement
+due to funding issues with CERN’s
+flagship LHC experiment, but a
+prototype detector finally started
+initial operations last October. Ini-
+tial results from the prototype are
+expected this summer, and results
+from the full experiment are ex-
+pected in 2010.
+Since the political will to address
+global warming is finally being
+mustered, on the basis that most
+evidence to date suggests it is an-
+thropogenic, a theory which ab-
+solves humanity of even part of its
+responsibility in causing the warm-
+ing needs to be tested very vigor-
+ously, and CLOUD will do just that
+for cosmoclimatology. Such testing
+is important not only to address the
+legitimate concerns of other scien-
+tists, but also to allay the equally
+legitimate concerns of the public
+and politicians – that policies with
+wide-reaching effects are based on
+the best science available; and to
+give the lie to fears there may be an
+establishment scientific view which
+dogmatically dismisses alternative
+explanations, without testing their
+validity. Not investigating, and leav-
+ing an appearance of doubt, risks
+providing fodder to those on the ex-
+tremes, who thrive on skewing sci-
+ence to support their agendas.
+So despite the controversial na-
+ture of the science it is investi-
+gating, the progress on CLOUD
+should be welcomed, even by those
+who suspect it is looking for effects
+which are of little or no importance.
+For even if CLOUD comes up with
+a null result, money will not have
+been wasted, as the principle of sci-
+ence will have been pursued.
+A supernova remnant. CLOUD will investigate the contentious claim cosmic rays from sources like these
+could affect cloud formation, and hence be a significant contributor to global warming.
+Shafted. Muon fluxes at IceCube are linked to temperatures 10km up
+An interesting counterpart to the
+cosmoclimatology theory is being
+investigated by Oxford’s Dr Scott
+Osprey, amongst others. At a talk at
+Imperial a few months ago, he pre-
+sented some initial results, which
+are obtained by turning the cosmo-
+climatology concept on its head:
+rather than looking at the effect of
+cosmic rays on climate, he’s one of
+a team of researchers investigating
+the climate’s effect on cosmic rays.
+A shower of high-energy muons
+(a heavier version of an electron) is
+caused by the collision of primary
+cosmic rays with air molecules near
+the Upper Troposphere Lower-
+Stratosphere (UTLS) boundary, a
+region about 10-20km up. However,
+the probability of collision should
+depend very much on the air density
+(denser air provides more targets
+for the primary cosmic rays) – and
+hence, by the ideal gas law, muon
+production should also depend on air
+temperature.
+Muons which result from such
+collisions are routinely observed at
+particle detectors around the world,
+such as MINOS (USA), MACRO
+(Italy), and IceCube (Antarctica).
+The latter facility is a collection of
+spherical detectors on cables longer
+than the Eiffel Tower, like beads on
+strings, hanging down deep shafts in
+the ice. Like MINOS (and to a lesser
+extent MACRO), it is in fact designed
+to monitor the flux of much lighter
+neutrinos, but to do this researchers
+need to remove the signal caused
+by muons – not an easy task accord-
+ing to Dr Osprey. However, when it
+is done, this separation yields a by-
+product, a count of muons generated
+by cosmic rays.
+Comparing the flux of high-energy
+muons (above 1012
+eV, as they live
+long enough to interact with the air)
+with ECMWF temperature data (a
+data set which combines observa-
+tions and modelling to provide global
+coverage), Dr Osprey found there
+was a strong link between the tem-
+perature at the UTLS and the muon
+flux. When asked by Felix, he noted
+these results were not mere correla-
+tion; supported by good physical
+grounds,theyshowastrongcausal
+link, making muon flux more than
+just a proxy of the temperature at
+the UTLS.
+Being able to plumb the atmos-
+phere remotely over one detec-
+tor, taking its temperature using
+muons, is all very well, but Dr
+Osprey also pointed out that using
+several detectors in different loca-
+tions may be much more interest-
+ing, as it will allow meteorological-
+ly meaningful parameters, such as
+wind (which depends on tempera-
+ture gradients), to be investigated.
+And lastly, it’s interesting to note
+his results really are looking at
+the effect of the climate on cosmic
+rays, and not the obverse – the
+high energies of the muons he was
+looking at meant they originated
+from cosmic rays which would
+themselves be energetic enough
+not to be greatly affected by the so-
+lar magnetic field, and so unlikely
+to be playing a role in any cosmic-
+ray induced climate variation.
+4 felix Friday 11 May 2007
+SCIENCE science.felix@imperial.ac.uk
+

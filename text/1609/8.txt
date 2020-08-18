@@ -1,0 +1,166 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 11
+12.06.2015
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Blood cells discovered in dinosaur fossils
+A juvenille hadrosaur skeleton Photo: Wiki Commons
+James Bezer reports on Imperial’s latest dino-discovery
+Agroup from Imperial has
+discovered evidence of soft
+tissues in poorly-preserved
+75-million-year-old dinosaur fossils.
+The group analysed 8 typical bone
+samples from the Natural History
+Museum that showed no obvious
+signs of soft tissue preservation. The
+samples analysed included a claw of a
+meat-eating dinosaur, a few toe bones
+from a duck-billed hadrosaur and rib
+fragments with unknown origins.
+Using electron microscopes, and a
+focused ion-beam (FIB) to investigate
+the fossils’ internal structure,
+they discovered bands that closely
+resemble collagen fibres in modern
+bone samples. This was backed up
+by mass spectrometry, which found
+peaks consistent with fragments of
+amino acids present in collagen.
+In two samples, they also discovered
+structures that appear very similar to
+red blood cells from birds, and which
+were again backed up with results
+from mass spectrometry, showing a
+strong chemical similarity to cells
+from emus.
+Sergio Bertazzo, a Junior Research
+Fellow from the Department of
+Materials and lead author on the
+paper, says he was “totally blown
+away” by the results.
+“We were actually hoping so see
+the gaps left in bone by the organic
+material that had decomposed.
+“This was absolutely not what
+we were expecting to find at all. It
+actually took quite a while for us to be
+convinced of what we saw.”
+Evidence of soft tissues has
+previously been found in only a
+handful of extremely high quality
+fossils.
+Most, however, are too poorly
+preserved to show any obvious signs.
+This is because protein molecules
+decay quickly—it was previously
+believed that their full structure
+could not be preserved for longer
+than around 4 million years.
+Therefore, even in the best
+preserved fossils, evidence has only
+previously been found of protein
+fragments.
+According to Bertazzo, however,
+although the findings are promising,
+further research is needed to confirm
+them.
+“I think we will need to find more
+of these structures in other fossils,
+and if we are lucky enough to find
+fossils with a larger quantity of the
+structures, we will be able to isolate
+them and do even more biochemical
+tests. We will then be sure that they
+are red blood cells.”
+The paper, published in Nature
+Communications, involved researchers
+from the departments of Materials,
+Earth Science and Bioengineering.
+Their results and techniques could
+lead to a wealth of new information
+about dinosaur tissues, as they reveal
+that far more can be discovered from
+less well-preserved fossils than was
+previously believed.
+If confirmed, they could help
+answer many open questions in
+palaeontology. Investigations
+into their red blood cells could, for
+example, identify when dinosaurs
+evolved from being cold blooded to
+warm blooded.
+And there could be fragments of
+other tissues and molecules preserved
+within fossils that could give further
+clues about the animals’ biochemical
+make-up.
+“If we can confirm that our initial
+observations are correct, then this
+could yield fresh insights into how
+NASA’s supersonic “flying saucer” parachute fails
+The parachute NASA hopes will
+land its future craft on Mars has
+broken up in a test over the Pacific
+Ocean.
+The current system,which was
+used to land the Curiosity rover
+in 2012,has been used since the
+1970s,and has now reached the
+limit of the size of payload it can
+carry.
+The new decelerator consists
+of a 6 or 8m inflating drag device
+to slow the craft down to around
+mach 2,and a larger 30m main
+parachute,more than twice the
+size of the previous system.It’s
+designed to slow down craft
+weighing up to 3 tonnes,and would
+be used on any future manned
+missions.
+Landing fast-moving craft on
+Mars is much harder than doing
+so on Earth,because its thin
+atmosphere doesn’t provide
+enough resistance for conventional
+parachutes to work effectively.
+But,unlike on the moon,which
+has no atmosphere,this thin
+atmosphere makes using rockets
+alone unsuitable.
+NASA tested the decelerator in
+the stratosphere,where the air is
+similar to the Martian atmosphere.
+This is the second failed test of
+the LDSD,but those involved are
+keen to show the test was partially
+successful.
+“The physics involved with
+LDSD is so cutting-edge we learn
+something profound every time
+we test,”said Ian Clark,Principal
+Investigator of the project.
+“Going into this year’s flight,I
+wanted to see that the parachute
+opened further than it did last
+year before it began to rupture
+The limited data set we have at
+present indicates we may not only
+have gone well down the road to
+full inflation,but we may have
+achieved it.”
+JAMES BEZER
+Nicknamed the “flying saucer”, the Low-Density Supersonic Decelerator is designed to land craft on Mars
+Photo: NASA
+these creatures once lived and
+evolved,” said Bertazzo.
+“What we showed here is that this
+kind of preservation is probably
+much more common than we
+expected, so I cannot even begin to
+speculate about what can be found in
+the future.”
+DOI:10.1038/ncomms8352
+

@@ -1,0 +1,135 @@
+2 8
+Games 2 October 1998
+Competition Feature
+Gas Girl
+You've beaten Quake 2, bored with Command & Conquer clones, and sick of Mario.
+What do you do next? How about creating your own PlayStation game? Sounds
+' impossible? Not with a Net Yaroze!
+Put simply, the Net Yaroze is a programmable PlayStation - the bedroom
+coder's dream come true. Whilst most of us can't afford thousands of pounds for
+a development kit, the Yaroze retails for a
+mere £230. You will need something to plug
+it into, however. A telly and a PC are required,
+and some experience of 'C programming is
+certainly useful too. The 'Net' bit of the Net
+Yaroze is supplied by an exclusive web site
+and newsgroups. Yaroze members have a
+free web page to show off their games, or to
+help other Yarozers (as they are fondly
+known).
+The main restriction of the Net Yaroze is
+that there is no access to the CD, so all of a
+game's data and code must be squeezed into
+the teeny 2Mb of memory in the PlayStation
+(less than In most graphics cards these days,
+but that's progress for you). Whilst the sup-
+plied software is adequate, those who prefer
+a fancy integrated development environment
+can pick up a copy of CodeWarrior for an extra
+£90.
+Members who want to show off their
+games can enter the 'fame game' competi-
+tion. Winners' games are published on the
+Official PlayStation Magazine demo disc, and
+they get twenty copies to give to friends.
+There's also a Net Yaroze category in the
+Games Developer's UK competition, with a
+top prize of £5000.
+But most people will get the Net Yarozc
+to try their hand at game programming. Sev-
+eral Yaroze owners have now gone on to get
+jobs in the games industry. Scott Evans, now
+working at top UK developers Codemasters,
+said "The people who buy a Net Yaroze get
+to learn how to program one of the best
+games consoles around today. If you can put
+on your OV you have got PlayStation pro-
+gramming experience you will have a greater
+chance of getting interviews."
+Universities and Colleges are now using
+the Yaroze as a basis for courses in computer
+games. Middlesex University even offers a
+three day introduction to Net Yaroze pro-
+gramming.
+As for myself. I bought my Yaroze last
+summer, and the experience of program-
+ming a real console was an invaluable aid in
+getting my job at Sony Computer Entertain-
+ment Europe. Of course, the degree in Com-
+puting from Imperial probably had something
+to do with it too!
+for full details, see the Net Yaroze
+website at http://www.scee.sony.co.uk/
+yarlnfo/lndex.html.
+To celebrate the recent price drop of the
+Net Yaroze to £230, we've got an exclusive
+Net Yaroze t-shlrt to give away. Simply email
+felix@ic.ac.uk with the answer to the follow-
+ing question: What is the prize in the Net
+Yaroze Fame Game competition? The lucky
+winner's name (and any other dirt we can dig
+up on them) will be printed in the next issue
+of Felix.
+World Football Manager (PC)
+Stonegate
+Come Baa
+• • • 1 / 2
+Football management games: written by fanatics for fanatics. They are dull, dull, dull.
+Usually, with little help, you are left to assemble a team which will struggle not to
+lose its first 20 games. The current king, Championship Manager 2, fits this rule per-
+fectly. So perhaps World Football Manager is the game to drag this genre into the
+90's and actually provide us less fanatical footballers something fun to play with.
+So we start with the obligatory big name on the cover. Big Fat Ron's seal of
+approval isn't the best of adverts for football, either on sex appeal or football cred-
+ibility stakes - one league, one FA Cup and lots of near-relegation misses doesn't
+really inspire confidence. At least it's better than having Alex Ferguson's scowling
+mug. If Ron puts you off your dinner you can always hide the CD case, and luck-
+ily the game is much prettier by far. The graphics are clear and while you might not
+get 30 frames per second with polygons flying about the screen, at least you can
+navigate between any two screens with a minimum of mouse clicks (say bye to hun-
+dreds of menus). You still have your train-spotting statistics and your hundreds of
+options to play with: scouts,
+squads, training programs,
+man to man marking - possibly
+enough to keep you occupied
+for a week between the simu-
+lated games (if you really don't
+have a life outside your dark-
+ened den). Those with a life
+might find the two best fea-
+tures to be the interactive help
+and the fact that the footballers
+actually seem to have a life off
+Enough options to please even Stato the field. Midfielders with ten-
+dencies to put their feet
+through plate glass windows and fight other players' sisters are all possibilities (hint:
+don't buy N. Wheelan).
+So if you like football, don't mind Ron's face and want a management game
+with slightly more humour than Championship Manager 2, this is the one to go for.
+If you love Championship Manager for its useful statistics, I'd advise more daylight.
+Gary Smith
+Videogame top 20 chart All formats
+1 C Tekken 3 Namco/Sony PS
+2 Nt 11 World Grand Prix Nintendo N64
+3 O TOCA Touring Car Championship Psat./Codemasters PC, PS
+4 o Colin McRae Rally Codemasters PS
+5 o Premier Manager 98 Gremlin PC. PS
+6 o Tomb Raider 2 Eidos Interactive PC. PS
+7 u Gran Turismo Sony PS
+8 o World Cup 98 FA Sports PC, PS, GA, N64
+9 c WWF: Warzone Acclaim J
+S, N64.GA
+10 o Tomb Raider Psatinum/Eidos PC, PS. SA
+11 o Banjo-Kazooie Nintendo N64
+12 o ISS 98 Konami N64
+13 o Crash Bandicoot Psat./Sony PS
+14 c Commandos: Behind Enemy Lines Lidos PC
+15 o Resident Evil 2 Virgin PS
+16 o V Rally Psat./lnfogrames PS, GA
+17 u lekken 2 Psat./Sony./Namco PS
+18 o Die Hard Trilogy Psat./EA/Fox PC, PS, SA
+19 o Grand Theft Auto DMA/Take 2 PC, PS
+20 u Rayman Psat./Ubi Soft PC, PS, SA
+Total Soccer
+Mark Baker
+

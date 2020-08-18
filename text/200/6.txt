@@ -1,0 +1,576 @@
+6 F E L I X
+RESEARCH SECTIONS
+COMMUNICATIONS
+The transmission ot information
+has long been a problem of inter-
+est to electrical engineers. In the
+early days research workers were
+concerned almost entirely with the
+then formidable task of making
+devices that worked. Today this
+emphasis on hardware alone is
+receding and engineers are taking
+a much broader view of commu-
+nication problems.
+One field of research in his
+laboratory that has captured
+attention is Psycho-acoustics,
+which is concerned with the
+measurement of aural perception.
+The sudden interest in this sub-
+ject stems from the work of
+Claude E. Shannon ("The Mathe-
+matical Theory of Communica-
+tions," 1948), which brought
+about the realization that present
+methods of communication are
+monstrously inefficient. For
+instance, according to Shannon's
+theory, one telephone line can do
+the work of a hundred, provided
+the speech signals are suitably
+coded. Practically, a tenfold
+improvement is envisaged. The
+most promising approach to date
+concerns itself with finding /out
+which parameters of sound are
+important to the human listener,
+the implication being that once we
+know this we'heed only transmit
+information which is relevant for
+perception and omit the rest.
+An investigation of the phe-
+nomenon of binaural fusion has
+yielded results which jxrint the
+way to improvements in practical
+telephone systems. It has been
+established that a very small time
+difference and/or amplitude dif-
+ference between the signals ar-
+riving at each ear are the primary
+physical variables enabling us to
+perceive the direction of a sound
+source. Further experiments
+have shown, for example, that if
+two sounds are spatially far apart
+then it is easier to concentrate on
+.one or other of the sounds. On
+the basis of this a scheme has
+been developed using binaural
+techniques whereby the wanted
+speech sound and the unwanted
+noise in a telephone channel are
+each given different apparent posi-
+tions. This makes it easier for
+the listener to concentrate on the
+wanted message, resulting in im-
+proved intelligibility.
+Other work in the Laboratory
+is concerned with the perception
+of short bursts of sound, the per-
+ception of moving sounds, :md
+with the factors influencing the
+formation of a single sound with
+stimuli from two separate sources.
+Work is also being carried out
+in the percsption of sharp con-
+tours on a noisy television screen,
+as well as a scheme for scaling the
+quality of television pictures pro-
+duced by a bandwidth compres-
+sion sch2me: although the lattter
+is unlikely to be significant for
+broadcasting purposes, several
+interested industrial organizations
+are studying its possible applica-
+tions in other directions.
+In the course of tackling the
+above problems new techniques
+have been evolved and many of
+these have been vf interest to
+workers in other fields. Similarly
+many of the methods applied in
+the Communications Laboratory
+originate from apparently unrela-
+ted disciplines such, for example,
+as Quality Control or Mental Test
+Theory. There are many who
+speculate on the superficial nature
+of inter-disciplinary barriers. This
+Laboratory provides an example
+of just how superficial some of
+these barriers are.
+effect has been termed the piezo-
+magnetic effect, through which a
+specimen becomes magnetized
+when stressed mechanically. This
+has recently been discussed as a
+possible basis for the prediction of
+earthquakes. The Materials Sec-
+tion is investigating the effects
+with the hope of finding new ma-
+terials with improved properties.
+Research is also being carried
+out on the shape dependence of
+magnetostriction in standard
+magnetic materials.
+Semiconductors
+Work on semiconductors in-
+cludes a number of basic physical
+investigations, noticeably measure-
+ment of carrier lifetime which has
+direct relevance to transistor
+performance. In addition, new
+intermetallic semiconductor ma-
+terials are being synthesised for
+application to thermomagnetic
+refrigeration using the Ettings-
+systems and machines
+The economic progress and de-
+velopment of any country depends
+upon the availability of a cheap
+and abundant source of power.
+In most countries, electrical en-
+ergy provides this source and re-
+quires that the generation, trans-
+mission and distribution of
+electricity continually expands to
+meet the ever-growing demands of
+the consumer. Most countries now
+double their total demand for
+electricity every seven to ten
+years. Consequently, electrical
+engineering must progress at an
+equal rate to enable new and more
+efficient power stations to be com-
+missioned and a transmission or
+grid network to be built which
+will ensure adequate supplies at
+M A T E R I A L S
+This academic year has seen
+the beginning of an interdepart-
+mental " Science of Materials"
+course at I.C. in which Electrical
+Engineering Department * is a
+participant. It's aim is to pro-
+vide an introduction to theoretical
+and engineering aspects of ma-
+terials. Projects undertaken in
+third terms lead to a D.I.C.
+Research
+The research interests of the
+Materials Section are centred on
+investigation and development of
+materials with potential techno-
+logical importance. There are
+three main groups:
+(1) Magnetic materials.
+(2) Semiconductors
+(3) Thin films and surface
+studies.
+Magnetic Materials
+Three years ago the first reports
+were made of the observation of
+the magneto-electric effect. Ma-
+terials showing the effect are
+capable of magnetization by the
+application of an electric field.
+Whilst the effect is small it is of
+potential importance in, for
+example, the thermionic generator
+since a standing electric field
+could be produced simply by
+putting a permanent magnet
+around the device. A related
+hausen effect. This project is a
+joint one with the British Oxygen
+Company aimed at producing a
+low-temperature refrigerator.
+Thin Films
+The thin films and surface
+studies group is concerned with
+the properties of metals and
+semiconductors in thin-film form.
+A study of the magnetic proper-
+ties of thin nickel films is being
+undertaken with the co-operation
+of International Computers and
+Tabulators Ltd. Mr. D. S. Camp-
+bell, of the Plessey Company,
+who is a visiting Lecturer in the
+Section, is supervising other thin-
+film resistors and capacitors.
+Studies of germanium in thin-
+film form are aimed at determin-
+ing the influence of mechanical
+structure on electrical properties.
+This has importance in the present
+considerable effort being put into
+the development of a thin-film
+active device.
+A mass spectrometer analyser
+is being used to investigate the ex-
+change kinetics between a gas
+adsorbed on the surface of a tran-
+sition metal film and its free
+isotope.
+Further work has been initiated
+on the electrical properties of
+uranium dioxide and on slow-
+electron diffraction.
+DEPARTMENT OF ELECTRICAL E
+N
+G
+I
+N
+E
+E
+R
+I
+N
+G
+H
+I
+G
+H BLOCK
+M
+I
+C
+R
+O
+W
+A
+V
+E L
+A
+B
+O
+R
+A
+T
+O
+R
+I
+E
+S
+C
+O
+M
+M
+U
+N
+I
+C
+A
+T
+I
+O
+N
+S L
+A
+B
+O
+R
+A
+T
+O
+R
+I
+E
+S
+E
+L
+E
+C
+T
+R
+O
+N P
+H
+Y
+S
+I
+C
+S L
+A
+B
+O
+R
+A
+T
+O
+R
+I
+E
+S
+C
+O
+N
+T
+R
+O
+L S
+Y
+S
+T
+E
+M
+S L
+A
+B
+O
+R
+A
+T
+O
+R
+I
+E
+S
+P
+O
+W
+E
+R S
+Y
+S
+T
+E
+M
+S 4 E
+N
+G
+I
+N
+E
+E
+R
+I
+N
+G I
+N M
+E
+D
+I
+C
+I
+N
+E L
+A
+B
+S
+M
+A
+T
+E
+R
+I
+A
+L
+S L
+A
+B
+O
+R
+A
+T
+O
+R
+I
+E
+S
+A
+D
+M
+I
+N
+I
+S
+T
+R
+A
+T
+I
+O
+N
+. L
+I
+B
+R
+A
+R
+Y
+, C
+O
+M
+M
+O
+N R
+O
+O
+M
+3rd Y
+E
+A
+R S
+T
+U
+D
+Y & L
+I
+G
+H
+T C
+U
+R
+R
+E
+N
+T L
+A
+B
+L
+E
+C
+T
+U
+R
+E T
+H
+E
+A
+T
+R
+E
+, E
+L
+E
+C
+T
+R
+O
+N
+I
+C W
+O
+R
+K
+S
+H
+O
+P
+2rui Y
+E
+A
+R S
+T
+U
+D
+Y « L
+I
+G
+H
+T C
+U
+R
+R
+E
+N
+T L
+A
+B
+M
+A
+I
+N
+T
+E
+N
+A
+N
+C
+E W
+O
+R
+K
+S
+H
+O
+P
+, E
+N
+T
+R
+A
+N
+C
+E H
+A
+L
+L
+Apron Floor
+H
+E
+A
+V
+Y E
+L
+E
+C
+T
+R
+I
+C
+A
+L L
+A
+B
+S D
+E
+P
+T
+1
+- W
+O
+R
+K
+S
+H
+O
+P
+reasonable cost without too much
+despoliation of the countryside.
+Many problems are continually
+arising in this ever-expanding sup-
+ply industry, and to study some
+of the basic problems involved,
+models of power system networks
+have been built in the Power
+Systems and Machines Labora-
+tories of the Department. Small
+electrical machines are used to
+simulate large turbo or hydro
+generators, transmission and dis-
+tribution networks are construc-
+ted from resistors, inductors and
+capacitors, and the consumer is
+represented by loads which can be
+made to behave in characteristic
+fashion. A model of particular
+interest is that of a direct current
+system which can be used with the
+more usual a.c. system model to
+study the possibilities and prob-
+lems involved when this form of
+transmission is employed for cable
+routes, such as, the Cross Channel
+connection between England and
+France. High voltage d.c. trans-
+mission when fully developed will
+enable economic undergrounding
+of overhead lines, producing a
+solution to the amenity problem
+which is obviously desired in this
+country.
+Cortt. on p. 7, col. 1
+

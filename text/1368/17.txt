@@ -1,0 +1,172 @@
+Extra big fun bonus puzzle joy time
+As an apology for removing the sudoku numerous times, here’s some more puzzles for very boring lectures
+An
+easy
+one
+3
+2
+2
+9
+8
+5
+2
+9
+1
+4
+5
+7
+3
+3
+7
+8
+5
+7
+4
+3
+6
+9
+8
+6
+7
+3
+3
+4
+1
+2
+3
+4
+1
+6
+7
+1
+8
+7
+9
+5
+4
+3
+4
+5
+7
+8
+9
+4
+7
+9
+8
+6
+1
+8
+4
+2
+7
+4
+3
+5
+6
+2
+5
+1
+4
+6
+8
+5
+3
+6
+7
+1
+9
+8
+9
+2
+5
+1
+4
+3
+7
+6
+4
+4
+5
+9
+7
+6
+3
+2
+A
+bit
+harder
+now
+Braincrusher
+Extra sudoku! Kakuro - a new game
+2
+5
+7
+11
+21
+25
+5
+9 11
+5 26
+7
+13
+16
+10
+10
+12
+8
+13
+22
+6
+11
+The numbers indicate the sum of the dig-
+its in the row or column indicated. For
+example, the square with 7 and 11 in it
+means “the numbers you write in the row
+below must add up to 7, and the numbers
+in the row across must add up to 11”. You
+may use each number only once within a
+row of cells (called a ‘run’), like sudoku.
+To give you a helping hand, we’ve filled in
+two squares as an example. This is a rel-
+atively easy kakuro, so it shouldn’t take
+you too long. As you get more proficient,
+we’ll make the grid bigger.
+Hexadoku - the destroyer
+G
+reetings, puz-
+zle chimps! This
+week’s puzzles are
+designed to de-
+stroy your feeble
+human mind, and send it scur-
+rying back to the womb.
+Whilst having a brief trundle
+through the pathetic knowl-
+edge base you call the Internet,
+I stumbled across a heinous
+torture known only as hexa-
+doku. The rules are the same
+as that old favourite, sudoku,
+but the grid is huge and the re-
+wards great.
+Should one of you feeble humans
+solve this monstrosity, I will reward
+you all with extra puzzles every
+week. Should no-one solve it, I shall
+restrict your sudoku access to one
+every two weeks. They don’t call me
+the puzzle monster for nothing.
+You can also gain yourself extra
+smart points by submitting what
+other games you’d like to see here.
+Maybe the puzzle monster will
+grant your wish, or maybe he’ll
+laugh heartily as he reads your
+pleas while crunching on his diet
+(fresh puppy brains).
+The Puzzle Monster
+Jotting pad
+18 felix Friday 12 January 2007
+PUZZLES sudoku.felix@imperial.ac.uk
+

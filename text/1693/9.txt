@@ -1,0 +1,476 @@
+ISSUE 1693
+FELIX
+SCIENCE
+FRIDAY, 18TH
+MAY, 2018 FELIX
+science.felix@imperial.ac.uk SCIENCE science.felix@imperial.ac.uk
+14 15
+Searching for a match: could you be Kaiya’s stem cell
+donor?
+Kaiya was diagnosed with leukaemia six weeks ago, and is still looking for a donor – her family are desparately
+appealing to South Asian people to join the register and help find a match.
+SCIENCE
+Fred Fyles
+Editor-in-Chief
+W
+hen the
+parents of
+five-year-
+old Kaiya
+took her to the doctors
+following some bruising,
+they weren’t expecting to
+hear anything out of the
+ordinary. Instead, they
+returned home with the
+news that their daughter
+had leukaemia.
+Kaiya, who was
+diagnosed a little over
+six weeks ago, is one of
+the roughly 400 children
+who are diagnosed with
+Acute Lymphoblastic
+Leukaemia (ALL) in
+the UK each and every
+year. Now, after several
+weeks of chemotherapy,
+invasive procedures, and
+testing, she is in desper-
+ate need of a stem cell
+transplant. Unfortunately,
+her family hasn’t been
+able to provide a match,
+and now are appealing to
+the general public to help
+them find one.
+ALL is a form of blood
+cancer. While it can
+affect people of any age,
+it predominates in those
+between two and five
+years of age, with three
+quarters of cases occuring
+in those under the age of
+six.
+While the cause is
+unknown, there are a
+number of different
+factors that can lead to
+the development of ALL;
+genetic factors are those
+most closely associated
+with the disease, and in
+Kaiya’s case a genetic
+abnormality has been
+“BAME
+patients make
+up only 15%
+of the donor
+register,
+making it
+harder to find
+matches”
+“King’s
+College NHS
+Health Centre
+are holding
+a drop-in
+session where
+people can get
+tested”
+detected, with two chro-
+mosomes swapping part
+of their genetic informa-
+tion.
+Europeans. This means
+that when children like
+Kaiya are in need, it can
+be much harder for them
+to find help.
+There is something you
+can do, however: every
+weekday next week the
+King’s College NHS
+Health Centre will be
+hosting a swab test drop
+-in, where people can test
+to see whether they are a
+match for Kaiya. They’re
+asking anyone eligible
+who is of South Asian
+heritage to go along and
+see whether they can help
+Kaiya.
+For those who are not
+of South Asian heritage,
+or are unable to go along
+to the drop-in sessions,
+it is still possible to join
+the bone marrow donor
+register: those between
+the ages of 16-30, who are
+in good health, can visit
+Anthony Nolan to sign
+up, while those over the
+age of 30 can sign up to
+alternative registers, such
+as DKMS. After signing
+up to the register, you will
+get a cheek swab, which
+you then send off – and
+that’s it, you’re registered!
+If you’re a match,
+you’ll be asked to donate
+stem cells. Two methods
+are possible, with the
+vast majority of people
+undergoing peripheral
+blood stem cell collection.
+This involved receiving
+medication to increase the
+number of stem cells in
+your blood, before blood
+is taken through a needle
+in one arm, similar to a
+regular blood donation.
+While Kaiya and
+her family are trying to
+maintain a normal life,
+time is of the essence in
+the race to find a donor.
+“Kaiya is our world.” her
+parents have said, “She is
+the kindest, big-hearted
+person you will ever
+know. She is such a sweet,
+fun-loving girl that makes
+everyone laugh with her
+infectious giggle. She is an
+amazing big sister and we
+are so proud to have her
+as our daughter. We want
+to celebrate her birthdays,
+see her graduate and have
+the happy and successful
+life we’ve dreamt for her.
+She is destined for big
+things and only you can
+help get her there. We are
+forever indebted to the
+kindness of our friends
+and strangers.”
+To find out more in-
+formation about Kaiya’s
+story, and read about how
+you can help, please visit
+facebook.com/curekaiya.
+For more information
+about stem cell or bone
+marrow donation, and
+to sign up to the register,
+please visit Anthony
+Nolan, NHS Blood and
+Transplant’s British Bone
+Marrow Registry, or
+DKMS.
+Kaiya needs to find a match soon // CureKaiya
+While survival rates can
+generally be rather good
+for ALL, they are greatly
+dependent on a wide
+range of clinical and bio-
+logical factors. They are
+also dependent on having
+the right kind of treatment
+available – chemotherapy,
+radiotherapy, and stem
+cell transplants.
+Kaiya is one of the over
+2,000 people in the UK
+who need a bone marrow
+or stem cell transplant
+each and every year, and
+– as someone of South
+Asian background – she
+is facing an extra hurdle.
+There is currently a
+mismatch between supply
+and demand on the stem
+cell donor register, with
+black and minority ethnic
+(BAME) individuals
+making up only 15% of
+those registered. While
+last year the charity
+Anthony Nolan recorded
+the highest number of
+BAME donors register-
+ing, BAME patients still
+only have a 20.5% chance
+of dinging their best
+possible donor match, in
+comparison with a nearly
+70% chance in northern
+Head to KCL next week to join the register // CureKaiya
+SCIENCE
+Steve Allain
+Science Writer
+I
+t is becoming
+increasingly clear
+that technology is
+advancing at such
+a rate that tasks that
+once took conservation-
+ists weeks or months
+have been cut down
+to a number of days.
+This includes the use
+of equipment such as
+camera traps, drones, and
+custom-built prototypes
+that are project specific.
+If, like me, you enjoy the
+fun of developing your
+own piece of kit in order
+to help answer a burning
+scientific question then
+I have great news for
+you! There is an exisiting
+online community called
+WILDLABS.NET (found
+at the web address of
+the same name). It is a
+combined community of
+conservationists, engi-
+neers, data scientists, and
+other stakeholders. The
+platform is designed to
+share information, ideas,
+tools and resources from
+the community to help
+others discover and imple-
+ment technology-enabled
+solutions to conservation
+challenges. It is now, more
+than ever, that technology
+is needed if we are going
+to solve the most pressing
+conservation challenges
+of the modern age.
+The community itself
+is run in association with
+United for Wildlife, a
+charitable organisation
+that is the collaborative
+efforts of multiple
+non-governmental organi-
+sations such as WWF and
+ZSL. The great thing is
+that whether you are using
+a new piece of kit that
+has already been built, or
+designing your own from
+the ground up, you should
+be able to find a member
+of the online community
+who is able to help! I have
+first-hand experience of
+this: I designed a passive
+acoustic monitoring
+system for amphibians
+to use in Borneo. It had
+a few teething issues,
+and I was not sure if the
+components I tested the
+system with would stand
+up to the elements in the
+rainforest. Thankfully,
+multiple members of the
+community were able to
+help and, if it were not for
+them, the project would
+probably not have gone
+ahead.
+It is not just advice and
+guidance that the commu-
+nity provides, but also an
+opportunity to collaborate
+and network. Every scien-
+tist knows that the key to
+success is a combination
+of these two things, and
+networking with people
+from all over the world
+with the same technolog-
+ical problems or solutions
+is a great solution!
+Thus, WILDLABS.NET
+provides the conserva-
+tion community with
+a much-needed tool to
+facilitate future partner-
+ships between individu-
+als and groups.
+Technology is providing new options for conservation-
+ists // ConservationDrones.org
+Information Conservation Technology
+Science at the gym: the molecular basis of metabolism
+E
+xercise is good
+for you, we all
+know that. You
+don’t need to
+read an article on it – or
+do you?
+I guess the main
+question is, do you know
+how to exercise effective-
+ly?
+The standard answer
+about the effects of ex-
+ercising is that it trains
+heart muscles to become
+stronger, enabling it to
+pumpeffectively,resulting
+in better blood pressure.
+However, these effects
+are on the macro-scale,
+and scientists have yet
+to identify the molecules
+that bring about the health
+benefits of exercising. In
+particular, how exercise is
+able to elevate metabolic
+rate.
+Since metabolism is
+essentially the rate at
+which our bodies process
+chemicals, understanding
+the molecular factors is
+important for us to combat
+metabolic diseases and
+obesity.
+A recent paper demon-
+strated that a molecule
+named 12,13-dihy-
+droxy-9Z-octadecenoic
+acid (12,13-diHOME)
+can influence metabolism.
+This lipid molecule is
+released by the liver and
+fat tissues, and it belongs
+to a class of molecule
+scalled lipokines– ‘lipo’
+refers to fat, and ‘kine’
+denotes kinesis or
+movement, suggesting
+the molecule assists in the
+process of fat transport.
+Previous studies have also
+reported that the lipokine
+can improve skeletal
+muscle insulin sensitivity,
+therefore lowering ones’
+risk of diabetes.
+In human studies,
+researchers have found
+that 12,13-diHOME
+levels increased after
+exercise, compared to
+13 other lipid molecules
+that were measured. This
+confirmed the theory that
+this lipokine is induced
+by exercise, with levels
+increasing regardless of
+gender or age.
+Not only that, but they
+also showed that 12,13-
+diHOME negatively
+correlated to fat mass and
+body mass index (BMI).
+In other words, you are
+likely to have a higher
+12,13-diHOME level
+if you have a lower fat
+content, or a lower BMI.
+To study the mecha-
+nism of 12,13-diHOME,
+scientists used mouse
+models to mimic the
+effect of chronic exercise.
+They found that, indeed,
+the lipid molecule in
+question increased after
+SCIENCE
+Sarah Wong
+Science Writer
+exercise, and those mice
+that were working out had
+a lower fat mass as 12,13-
+diHOME can increase
+skeletal muscle fatty acid
+uptake.
+To investigate the
+source of 12,13-diHOME,
+the scientists removed dif-
+ferent types of fat tissue,
+and measured the level
+of 12,13-diHOME in the
+blood thereafter.
+The results indicated
+that mice that had their
+brown fat removed do
+not have an increased
+lipokine level, even after
+exercising in the same
+manner. This experiment
+demonstrated that 12,13-
+diHOME released from
+brown fat is essential
+for an exercise-induced
+increase of the molecule
+itself.
+Interestingly, brown
+fat tissue is the type of
+fat that is responsible for
+generating heat when you
+are feeling cold. Funny
+enough, in another paper
+by the same research
+group, mice had an
+enhanced cold tolerance
+when they were exposed
+to a cold environment, or
+when 12,13-diHOME was
+injected.
+In the future, with suffi-
+cient understanding of the
+entire process, a synthetic
+form of 12,13-diHOME
+could be developed as a
+drug to treat metabolic
+diseases and obesity.
+At present, it is best to
+stick with your exercise
+routine and eat healthy.
+Alternatively, perhaps,
+you can be experimental
+and expose yourself to the
+cold and see if you lose
+weight faster!
+Be warned though,
+clearly, a larger human
+cohort is required to
+confirm effects, and
+further studies are essen-
+tial to understand the role
+of lipokines in metabo-
+lism. Enjoy your food and
+appreciate your body – as
+beauty comes in all forms!
+Trainers hate it! Scientists identify new molecule implicated in exercise and weight loss!
+Mmmm, feel that 12,13-diHOME! // CC
+

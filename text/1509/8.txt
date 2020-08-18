@@ -1,0 +1,183 @@
+We normally think of social networks as a
+modern-day phenomenon: Facebook, Twit-
+ter etc. come to mind. But according to re-
+cent research published in Nature, ancient
+societies may have been organised along
+much the same lines.
+It is a popular belief that the evolution of
+human behaviour is all about natural selec-
+tion, with all our behaviours driven by the
+desire to pass on our genes: finding a ge-
+netically fit partner and protecting our own
+offspring. However this somewhat reduc-
+tive model is not the whole storwy, not least
+because it doesn’t consider how and why we
+form friendships and cooperate with people
+even when they are not genetically related
+to us, and we don’t intend to reproduce with
+them.
+The recent research focused on the Had-
+za people in Tanzania, who have a hunter-
+gatherer lifestyle thought to be similar to
+that of our early human ancestors in the
+late Pleistocene, and are relatively isolated
+from modern culture and technology. Two
+network models were constructed, based
+on who participants said they would like
+to share a camp with, and who they would
+choose to receive a gift of honey (a prized
+delicacy).
+Once a social network is created, there
+are various metrics to be measured and ana-
+lysed. These include degree distributions
+(how many friends do you have), transitiv-
+ity (how likely is it that two of your friends
+are friends themselves), degree assortativ-
+ity (are popular people more likely to have
+popular friends) and homophily (do simi-
+lar people tend to cluster together). These
+measures differ from those on randomly
+generated networks of the same size, due
+to the human preferences underlying them.
+Additionally they tend to form similar pat-
+terns and trends, regardless of the society
+in question, and the results for the Hadza
+population looked remarkably like those
+for modern social networks. This indicates
+that the way we form friendships and social
+groups is hard-coded in our psychology, and
+emerged as part of our evolution as a spe-
+cies.
+The researchers also offer an intriguing
+hypothesis about how human society di-
+verged from normal primate patterns: our
+ability to understand how reproduction
+works and recognise our paternal family
+meant we no longer had the need to enforce
+‘dispersal’ of the young from their birth-
+place and family groups in order to prevent
+inadvertent in-breeding. This may have en-
+couraged more stable groupings, increasing
+the opportunities for friendships, and hence
+social networks, to form.
+Historic social networks
+A map of social connectivity
+The importance of social networks in our
+evolutionary history is thought to relate to
+the development of cooperation, a distinctly
+human habit which allows us to go beyond
+immediate family relationships and work
+together in large groups to achieve goals
+which benefit and advance society. In so-
+cial networks, more ‘cooperative’ people
+tend to form groups – and interestingly the
+more anti-social ‘defectors’ also tended to
+be friends with each other.
+It is still unclear whether this is because
+cooperators simply prefer to form links with
+like-minded people, or whether cooperative
+people in fact influence the friends connect-
+ed to them. Either way, there is strong evi-
+dence that social networks and cooperativ-
+ity are closely linked, and co-evolved early
+in human history.
+DOI:10.1038/nature10736
+Scientists have measured the rate at which
+quantum information travels through real
+systems. Changes, such as those in electron-
+ic spin or energy, propagate through materi-
+als at a limited speed; similar to the speed of
+light, this maximum theoretical limit known
+as the Lieb-Robinson bound has now been
+determined empirically by scientists.
+In a material lattice like a crystal, chang-
+es at any one atom, such as flipping spin
+or nuclear decay, affect the atom’s closest
+neighbours first and propagate outwards
+from there. The speed at which these short-
+range interactions occur is much lower than
+the speed of light, but has so far been im-
+possible to measure due to interference from
+thermal vibrations, and the sheer number of
+particles in a real lattice make it hard to de-
+tect changes in individual atoms.
+Researchers at the Max Planck Institute
+for Quantum Optics have devised a way of
+experimentally measuring this value: rather
+than using a crystalline lattice, they held a
+supercooled monoatomic gas in an optical
+lattice: several lasers used to create stand-
+ing waves in which to trap individual atoms.
+As the atoms are not chemically bonded to
+each other and are at a very low temperature,
+many sources of interference are eliminated
+from the system.
+By changing the power of the lasers, cer-
+tain atoms can be “quenched” – moved from
+energetic equilibrium to an excited state.
+These excitations then travel through the
+lattice as quantum-entangled quasiparticles
+– fictitious particles which serve as a simple
+approximation to the many complex inter-
+actions of real particles. For example, an
+electron travelling through a semiconductor
+interacts with each atom it encounters, but
+can be modelled as a quasi-electron of a dif-
+ferent mass travelling more slowly though
+free space. By recording the time and dis-
+tance between atom excitations, the speed at
+which these quasiparticles travel, and hence
+at which information propagates, can be
+measured.
+This speed, found to be roughly twice the
+speed of sound in the considered material,
+is currently purely empirical, and the value
+cannot be determined by theoretical meth-
+ods. It also is applicable only to the one-
+dimensional lattice under consideration, but
+as the first measurement of its kind made,
+represents an important step forward for re-
+search in areas such as quantum entangle-
+ment.
+DOI: 10.1038/nature10748
+Keir Little
+FELIX
+Friday 03 February 2012
+8
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+Quantum information rate measured
+In brief
+Sarah Byrne
+Networking
+by Maria Veiga
+When the dinosaurs disappeared, they left
+room for mammals to go through a huge evo-
+lutionary growth spurt. They also left room for
+mammals to grow. Literally.
+Recent research published in the journal
+PNAS has uncovered the number of genera-
+tions it would take for a mouse-sized animal to
+evolve into an elephant-sized one: 24 million.
+The number comes from a fossil record data
+set of mammalian body size over the last 70
+million years.
+For 140 million years before the dinosaurs
+went extinct, mammals were rodent-sized or
+smaller. But when the dinosaurs were no longer
+around, mammals began to expand to fill the
+ecological niches the dinosaurs left behind.
+The researchers looked at 28 strands of mam-
+mal lineage over the fossil record and worked
+out how many years and generations it took for
+the mammals to grow larger.
+Growing larger also signifies other changes.
+“Achieving such a large transformation calls
+for major biological reorganisation,” say the re-
+searchers.
+DOI: 10.1073/pnas.1120774109
+Kelly Oakes
+Evolution of enormity Facebook
+

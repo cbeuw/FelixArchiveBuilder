@@ -1,0 +1,181 @@
+10 October 1997 NEWS
+Accommodation crush
+from front page
+states that '...As an undergraduate
+student, you are guaranteed
+accommodation in either an
+Imperial College or an Inter-
+collegiate hall of residence for your
+first year of study...' Although sev-
+eral second and third year students
+do have a place in halls, Ms Brown
+has said 'All first year students have
+been given an Imperial College
+bed. Those who are not in the
+South Kensington halls have given
+temporary places in Clayponds,
+Wilson House, Montpelier hall and
+student flats.' Montpelier Hall was
+due to be closed and sold this year
+as the building was in a sad state of
+disrepair. The late refurbishment of
+Southwell Hall has led to
+Montpelier being used again as a
+hall but it is not known how long it
+will remain open. New bad spaces
+have also been created by promot-
+ing single rooms to double and
+double to triple in some halls.
+An official date has not been
+given to move these freshers into
+permanent surroundings, as rooms
+are being handed out as they
+become free. Some people who
+have been moved to remote halls
+as a temporary measure now do
+not wish to move. It is more likely
+that it is the hassle of packing and
+moving that is deterring students
+rather than the quality of the
+accommodation. However, the
+warden of Clayponds has informed
+us that '...the dozen or so freshers
+who are here feel they have been
+dealt an unkind hand as Clayponds
+is mostly filled with postgraduates
+and not other first years. It is
+important that first years meet and
+socialise with others of their age
+and year when they arrive at
+University.'
+The reasons for this year's his
+intake is due mainly to the new
+fees prompted by the Dearing
+Report, a study of the state of high-
+er education commissioned by the
+Government. The Labour Education
+Secretary, David Blunkett, has said
+that an annual tuition fee of £ 1,000
+will be introduced and applies to all
+those starting higher education in
+1998, causing the rush of student
+applying for admission in 1997. For
+a full explanation of the Dearing
+Report and the Government's
+steps to abolish the maintenance
+grant, see our feature on page 10
+of this issue.
+Plans are in place to expand
+existing halls and build a new one,
+but it does not seem likely that the
+accommodation problem will be
+solved for some years to come. For
+the present, the Student Accom-
+modation Office is still coping with
+the overcrowding, but it has the
+potential worsen rapidly if the gov-
+ernment's vision of 50,000 more
+students in higher education is
+realised.
+Phyz
+NEWS FEATURE
+'Good times' here again
+Simon Wistow on viruses, exponential growth and other computer nasties
+Welcome to Imperial, and welcome for many
+of you, to free Internet connection. You can
+spend as much time online as you want, set
+Netscape to check for email every 5 seconds
+and send messages like "Coming to lunch?" to
+your friend sitting 2 computers down from you.
+Finally, welcome to mass, spammed, humour.
+As sure as Imperial has ugly buildings a you
+will get sent a 'humorous' email by either your
+new friends or an old friend at a different
+University. It will either be a joke, a list of
+Borgisms (Borgisms are Trekkie Jokes on the
+lines of "Yoda of Borg am I, assimilated you will
+be"), a spoof Gloria Gaynor's "1 will Revise"
+around exam time and an email snowball at
+Christmas. The problem is that it so easy to for-
+ward them on to everyone in your address book
+and they will forward it on to their friends and so
+on. Even assuming each person only has five
+people in their address book, it spreads incread-
+ibly fast (see box).
+Clearly very, very quickly an awful lot of peo-
+ple become involved. This principal was recently
+used by students who, on finding out that the
+BBC sports personality of the year awards were
+accepting votes by email, organised a scam urg-
+ing everyone to vote for the outsider Justin
+Fashanu (who the bookies were offering high
+odds on). Secure in the knowledge that the black,
+gay, brother of John Fashanu was in so many
+oppressed minority groups that no-one would
+dare dispute it. The plan would work. In fact it
+worked too well; the BBC only found out when
+their email server crashed because it couldn't
+cope with the sudden influx of messages.
+A while back someone decided to demon-
+strate this by writing 'The Good Times' virus.
+Computer viruses are spread when people
+transfer an infected file or disk from a 'diseased'
+machine to a clean one on some sort of portable
+Round
+New
+people
+involved
+Total
+1 5 5
+2 25 30
+3 125 155
+4 625 780
+5 3125 3905
+6 15625 19530
+7 78125 97655
+8 390625 488280
+9 1953125 2441405
+10 9765625 12207030
+Table indicating the massive poten-
+tial growth rate of internet viruses
+media. With the rapid growth of the Internet
+viruses have been able to copy with out the
+need for disks, travelling when files are trans-
+mitted from client to client extremely quickly
+and with the added bonus that the two different
+systems can be geographically miles apart.
+The Good Times virus is not actually a virus.
+No one knows it's exact origin but it is general-
+ly agreed that it originated from someone at
+Swathmore University with an AOL account
+sometime late in 1994. It is unclear as to
+whether it was a joke, an experiment or, as
+some people claim the result of someone
+becoming pissed off with a chain email entitled
+'Good Times' that someone tried to stop by
+spreading a rumour that it had a virus attached
+to it. The basic (there are many variations) email
+goes something like this;
+"Beware, a new virus is being spread around the
+Internet contained within an email with the sub-
+ject line 'Good Times'. Simply by reading this
+email you will infect your machine". The subject
+is often 'Good Times'.
+The sudden growth spurt of the Internet and
+the guaranteed influx of University freshers
+every year ensures that the 'virus' has spread
+and spread. This is an empassioned plea; if you
+ever get this email read it once out of curiosity
+then delete it or, if you can't bear to throw any-
+thing away, never, ever send it on (although
+even the American Government, NASA and sev-
+eral well known Virus Detector manufacturers
+were fooled). I'd ask you to send this article on
+to your friends but 1 can imagine it getting out of
+hand and my children starting college some time
+in the future and phoning home to say "Daddy,
+Daddy, I just got an email today with your name
+on it". On second thoughts it might be my only
+stab at immortality and at least it would give
+some young hack an idea for an article.
+

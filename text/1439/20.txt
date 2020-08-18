@@ -1,0 +1,540 @@
+20
+felix FRIDAY 09 OCTOBER 2009
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+Get involved!
+So you’ve read what I’ve got to say, but don’t let that stop you. If
+you’ve got a passion for technology, got something to say, or just
+want to heckle me over some sordid gadget then get involved!
+Email me at: technology.felix@imperial.ac.uk
+If it’s something decent you might even end up in felix one week.
+Hello Google Wave!
+What’s all this Waving business about and why should you care?
+SamuelGibbs
+SamuelGibbs Technology Editor
+In a place filled
+with digital
+A
+pple Tablet. Ha, now I
+have your attention. It’s
+all over the news, some
+mythical, do it all device
+that’s going to replace your computer,
+your phone, your life. It’s going to end
+world hunger, make you super-human
+and might even get you laid.
+Bollocks! You say? Well you’d be spot
+on. The thing is, it’s all bollocks. At this
+stage no one knows anything. Serious-
+ly, it’s all hearsay and rumour. Some
+might be more legitimate than others,
+but it’s all still rumours. Yes, Foxconn
+might make it (they’re the chinese
+company who makes the iPhone, and
+the one with the ‘suicide’ secracy pol-
+icy). And yes Apple probably has been
+trying to make one since 2003, but
+most good tech companies make in-
+roads along all avenues of research and
+development at one stage or another.
+Otherwise they wouldn’t be ‘good’ tech
+companies. So until Mr. Jobs pulls one
+out of his pocket and/or manialla enve-
+lope, don’t believe everything you read.
+More Apple news this week which
+should be of interest to anyone think-
+ing of getting an iPhone in the near fu-
+ture. O2 exclusivity deal for the iPhone
+in the UK will run out in the next cou-
+ple of months. Both Orange, which is
+in the process of trying to merge with
+T-mobile to create the biggest UK net-
+work, and Vodaphone have already
+announced availability of the iPhone
+from late 2009/early 2010. I say great
+news as O2 totally rips iPhone users off
+with crappy tarrifs and arguably poor
+3G service anywhere but London.
+Of course O2 still have their grubby
+mits on a Palm Pre exclusivity con-
+tract, so anyone seeking a bit of we-
+bOS are still stuck with the Telefonica
+off-shoot.
+Spotify brought their offline playlist
+caching to the desktop this week fol-
+lowing in the footsteps of their mobile
+apps on Android and the iPhone. Un-
+fortunately requiring a premium, £9.99
+per month subscription, the desktop
+Spotify app now comes armed with a
+simple offline switch. Spotify is cer-
+tainly gunning for your hard-earned
+here and a piece of the iTunes market
+share. Personally I think they should
+enable the mobile apps and caching for
+the free ad-supported accounts, but I
+guess you’ve got to have some sort of
+incentive to go premium.
+SamuelGibbs
+SamuelGibbs Technology Editor
+Weekly Wrap Up - The Best of the rest in the world of technology
+T
+his week has been an in-
+teresting week for Tech.
+First off on the big news,
+Apple/Intel announced
+and demonstrated a new data trans-
+mission system the aptly named,
+Light Peak, which is capable of up
+to 10Gbps over an optical intercon-
+nect up to 100m in length. Managing
+to both smoothly drive a greater than
+HD res monitor and saturate a speedy
+SSD raid with a file transfer over one
+connection, shows this could be a real
+contender with USB 3.0, FireWire and
+DisplayPort.
+The idea behind Light Peak is to re-
+duce the number of connections and
+standards you need on a single device
+and with that kind of bandwidth I can
+seriously see it replacing a lot of con-
+nections on your laptop, palmtop and
+even your desktop. Mind you looking
+at the hulking rig they used to demon-
+strate it, I wouldn’t expect to see this
+in your iPhone/iPod any time soon, but
+rumours have it appearing in the Au-
+tumn 2010 Mac line.
+In other news, the first ever writ
+via Twitter was served by the British
+High Court this week. The injunction
+was one against an anonymous Twit-
+ter user impersonating the right-wing
+blogger Donal Blaney, owner of Griffin
+Law. This decision to employ Twitter
+as a legitimate service for serving the
+injunction is interesting from many as-
+pects. The law tends to be a somewhat
+S
+o, what’s all this Wav-
+ing business all about and
+should you care?
+Well, Wave is Google’s new
+communication project that is some-
+what difficult to describe, but is based
+around an amalgamation of IM, email
+and real-time collaboration services.
+It’s currently in a closed beta, recently
+expanded to 100,000 testers (all in-
+vited manually if we’re to believe the
+buzz) and may revolutionise the way
+we communicate with our friends, co-
+workers and family across the internet.
+I’ve got MSN/Yahoo/AOL/Gtalk IM
+already, and email, why would I want
+something else? Well, imagine a we-
+bapp that you can login to from any-
+where with a browser, that gave you
+collaborative blend of IM and email
+with a load of sharing features all in a
+tidy and unique package. That’s what
+Google’s aim is for Wave. It’s some-
+thing that you’ll have to see to really
+understand but one of its stand out
+features is the instant character broad-
+cast. That is, the text you type instantly
+appears in the Wave for everyone to see
+the moment your finger hits the key.
+Now in my mind this will lead to a load
+of typos, but if we gloss over that, we
+could have collaborative conversations
+where you can interpret what people
+are saying, edit it in real-time and even
+finish their sentences for them. Replies
+can be started in a separate message,
+but you can also reply to someone’s
+sentence right in that sentence mean-
+ing you no longer have any ambiguity
+to who or what you might be replying
+to. The Wave also represents a persist-
+ent message a bit like email, meaning
+you can invite people or send them the
+Wave at a later date. They’ll get all the
+conversation and edits and be able to
+play it back blow by blow with the re-
+play feature. Say you’ve got a conversa-
+tion about a busted piece of equipment
+between two colleagues. They can talk
+it all out with costs and alternatives in
+a Wave, once they’ve come to a conclu-
+sion of how to proceed, they can then
+send the whole Wave to their boss. He
+can see all the information but doesn’t
+need to haggle over the details to sign
+off on it. It’ll be a lot cleaner and much
+more efficient than sending a chain of
+emails, especially if more than one or
+two people are replying, something
+that makes a complete mess of emails.
+Waves are more than collaborative
+IM sessions though. You can directly
+embed media in them via simple drag
+and drop. Photos, YouTube videos and
+Google Docs can all be directly em-
+bedded within the Wave for watching,
+editing, reading or viewing. Examples
+given by Google for real world use of
+Wave could be checking of a contract,
+reviewing the document and pulling
+bits of text out into Waves for collabo-
+rative editing. Now I can see myself ed-
+iting journal articles and joint project
+write-ups like this, so for students it
+could be incredibly useful for all the
+group projects everyone seems to have
+to go through.
+Another stand out feature that might
+be incredibly useful, if it works as de-
+scribed, are the use of Wave extensions,
+one of which was real-time (can you
+see a trend here?) translation. Imagine
+talking to a friend in Brazil in Portu-
+guese, just by typing in English. Now
+I must admit that machine translation
+has never been particularly accurate,
+but it should be sufficient for your
+friend to work out what you’re say-
+ing. Language barrier be damned, we
+will converse about that sick YouTube
+video, even if we don’t speak the same
+language.
+The beauty of Google Wave however
+has to be in the code, and forgive me
+if this is boring to some of you, but it’s
+mostly written in HTML5. This means
+that without any major effort, it should
+work on any up-to-date browser on any
+platform on any device with feature
+parity. The obvious implementation is
+mobile platforms. Google is right on
+this and as of the developer preview, a
+working iPhone webapp complete with
+pretty home screen icon was working,
+with one exception editing. It’s some-
+thing that’s not supported directly in
+HTML5 but is also something that
+could change by the time the webapp
+hits the wider world.
+So will Wave succeed? I find it hard
+to believe it won’t afterall it is Google.
+Will it be useful? Undoubtedly it will
+be useful, especially for anyone who
+wants to collaboratively edit some-
+thing, so for students I think it could
+simply genius. Will it replace every-
+thing else? No, and I think that’s where
+the hype out-reaches the possibility for
+the product. With a load of social net-
+working sites, IM networks and good
+old email pretty entrenched, Google
+Wave is not going to roll in and wash
+all else out. Should you be excited?
+Well I’m intrigued and I think you
+should check it out as soon as you can,
+which may not be for a good while, but
+it’s not going to be earth shattering
+when it lands.
+SamuelGibbs
+SamuelGibbs Technology Editor
+slow and behind the times force which
+has shown unexpected forward think-
+ing. It also means that a precedent has
+been set for both serving writs across
+the service and also the targeting of
+anonymous abuse across the internet.
+As the film industry and now both
+Sky and Sony among others all push
+towards 3D TV, Sony made a signifi-
+cant announcement of a single lens
+3D video camera. Up until now, all
+3D recording was essentially done by
+bolting two lenses with two sensors to-
+gether. This meant that the camera is
+both bulky and not suited for any fast
+moving recording such as sport.
+Sony have shoved two CMOS sen-
+sors behind one lens with the light
+split by a system of mirrors. This is
+good news for anyone who’s after 3D
+football in the near future or fancies
+themselves a 3D film maker (with a
+large bank balance).
+Electric cars also got some love this
+week in the form of another fantas-
+tic looking sports car, the e-Wolf e-2,
+which is set to give the Shelby Aero
+and of course the Tesla Roadster a run
+for their money. Looking like the boys
+from Lambo gave it the once over and
+boasting more than 1000Nm of torque
+with a top speed of 250Km/h (that’s
+155mph in old money) the e-2 might
+make a decent pin up yet.
+Batteries also got some love from
+IBM this week, with the announce-
+ment that they’ve assigned a task force
+of about 40 to the Battery 500 project.
+The aim is to boost battery storage
+density by a factor of 10 in an effort
+to get electric cars to the mythical
+500mile range.
+Focusing on lithium-air technology,
+they’re not going to feature in a car
+you can buy any time soon, but it’s re-
+ally important for the evolution of the
+electric car to have a storage system
+that can power it for a decent distance,
+so good on you IBM, fingers crossed
+for a swift breakthrough.
+

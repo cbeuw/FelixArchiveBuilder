@@ -1,0 +1,257 @@
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a dash of
+Sudoku.
+The object of the game is to draw lines be-
+tween the dots to create one long, and most
+importantly, looping line. It should have no
+start or finish; just like an elastic band.
+Each number indicates how many lines
+should be drawn around it, for example:
+Cells which don’t contain a number can be
+surrounded by any number of lines.
+Remember, the line must form a loop, so
+the line cannot branch. The following situa-
+tions are not allowed:
+Squares are not allowed either. There are
+never cells containing the number 4 in
+Slitherlink.
+So, where do you start? The most com-
+mon place to start on a Slitherlink grid is by
+drawing crosses around any zeros. Drawing
+crosses is purely done to so that you know
+where there can’t possibly be a line. So, take
+the pattern below as an example. Begin by
+drawing crosses, then by filling in some
+lines:
+Now the lines can only continue in the fol-
+lowing directions:
+Yeah, we realised that we printed the answer
+to last week’s Slitherlink in the same issue.
+sudoku.felix@imperial.ac.uk
+37
+Friday 25 January 2008 felix
+Fun & Games
+Logic Puzzle: Southside Sardines
+Using the clues and logical deduction
+alone, work out how all the people
+involved in the match relate to each
+other. The puzzle can be solved with-
+out guesswork. Make use of the grid to
+mark the combinations that you know.
+Read through each clue and make any
+obvious or stated deductions. Find the
+corresponding row and column on the
+grid and place a tick for ‘Yes’ in the box,
+and a cross for ‘No’ in the cells next to
+this one vertically and horizontally.
+Ensure that you read the clues care-
+fully. They can sometimes reveal mul-
+tiple hints! Remember that elimination
+of alternatives is a key method. That is
+where the grid is so important - it al-
+lows you to see the possibilities left.
+Five students from Imperial live in a
+newly rebuilt halls of residence near
+college. There are twenty rooms per
+floor (they really stuff them in!), so
+anyone in a flat with a “higher number
+than” isn’t necessarily on a higher floor.
+BRIAN
+DANIEL
+IAGO
+JANE
+LOUISA
+1 YEAR
+2 YEARS
+3 YEARS
+6 YEARS
+9 YEARS
+THIRD
+FOURTH
+FIFTH
+SIXTH
+SEVENTH
+ROOM
+3
+ROOM
+5
+ROOM
+11
+ROOM
+13
+ROOM
+19
+THIRD
+FOURTH
+FIFTH
+SIXTH
+SEVENTH
+1
+YEAR
+2
+YEARS
+3
+YEARS
+6
+YEARS
+9
+YEARS
+(Any similarities
+to persons living
+or dead are purely
+coincidential!)
+What is the number and floor of the
+room occupied by each studennt and
+how long will their course last.
+1. Jane’s flat is on the floor below
+Brian’s.
+Slitherlink 1,393
+3
+2 2
+3
+0
+x
+x
+x
+x
+3
+0
+x
+x
+x
+x
+Slitherlink 13 – Hard
+Answer for Slitherlink 12
+TEXT US!
+WE’RE LONELY
+IN OUR
+BASEMENT!
+07980 148 785
+07980 148 785
+2. Jane will be at uni for twice as long as
+the student in room number 19.
+3. Brian won’t be at university for nine
+years. His room has a number eight
+lower than tha occupied by the student
+who livs on the seventh floor.
+Last time’s Solution:
+4. Daniel will be at uni for three years
+longer than Louisa. Daniel is on the
+fourth floor and Louisa is in room 5.
+5. The student in room number 13 will
+be in uni for fewer than six years.
+This week’s texts:
+“I am your father - Reg.
+”
+“To the person in Room No 5313
+please stop humping at 1 am in the
+morning,. The whole corridor can
+hear you!”
+“I know where Davy is! from CC”
+“Borja, encuentro su acento muy
+sexual. ¡Quisiera atarle para arriba y
+lamerse el dedo del pie!”
+“My senior tutor sucks balls and
+blows goats and I’d really like to make
+him eat my textbook: Young and
+Freedman University Physics!”
+“I just fell off my bike texting you!
+Bastards!”
+“Aero 4th years have finished all their
+exams - congratulations to you all,
+no more exams EVER!! Love from SL
+xxx”
+3
+1 3
+3
+2 1
+3
+2 3
+1
+3
+3
+3
+2 3
+3
+0
+1
+2
+1
+3
+1
+3
+1
+2 3
+1
+1 2
+2 2
+3 1 3
+2
+2 2 1 3
+2
+2
+2
+1
+2
+2
+2
+1 3
+2
+3
+3
+1
+2
+1
+3
+2
+1
+1
+3
+2
+2
+2
+2
+3
+1
+2
+1 2
+1
+3
+3
+2
+2
+3
+2
+1
+2
+3
+2
+1 2
+2 2 3
+1
+Name
+Henry
+Alex
+John
+Akira
+Pablo
+Job
+Hedgefund
+Actuary
+Broker
+Accountant
+Trading Analyst
+Salary
+£46k
+£50k
+£42k
+£65k
+£39k
+Reason for Quitting
+Nervous Breakdown
+Pockets full of money
+Lost company £12m
+Killed boss
+Lost all his hair
+

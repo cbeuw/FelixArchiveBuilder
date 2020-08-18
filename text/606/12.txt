@@ -1,0 +1,160 @@
+Election Publicity
+I would like to remind all election candidates
+that, as announced in F E L I X 601, the last date
+on which I will accept completed posters or
+h a n d o u t s f o r p r i n t i n g will be M o n d a y ,
+February 22. After that financial penalties will
+be imposed and I cannot guarantee that they
+will be done on time, or even at all.
+Election Manifestoes
+Papers for the sabbatical posters come down
+on Friday, February 26.
+Manifestoes for inclusion in F E L I X must
+reach me personally at the office by 1:00pm on
+Monday, M a r c h 1 for inclusion on Friday,
+M a r c h 5. T h e s e will be c u t at the three
+hundreth word.
+If y o u wish to have a photo accompanying
+your manifesto it must be a fairly large black
+a n d white print. T h i s (or a n y alternative
+representation of your visage) must reach me
+at the same time. Colour pictures or slides are
+absolutely no use.
+Elections for the posts will be by campus-
+wide ballot on Monday and Tuesday, M a r c h 8
+and 9.
+Freaks
+I have received eight letters complaining about
+the fact that the H . G . Wells Society will be
+showing T o d d Browning's Freaks on Monday
+evening. They describe the film as sick and
+depraved.
+It is true that the film was banned in this
+c o u n t r y for over thirty years a n d that it
+mmmmEi
+W h e n people comment on my column in
+F E L I X , they usually describe the puzzles as
+'mathematical'. But considering that nearly
+half of the students at IC are engineers, it
+seems only fair to occasionally steer away from
+the abstract whimsy of mathematical logic and
+venture into the real world
+Y o u are given four dominoes which are to
+be arranged in a pile overhanging the straight
+e d g e of a t a b l e . W h a t is t h e m a x i m u m
+horizontal overhang you can achieve? The
+dominoes must all be horizontal with their long
+sides parallel to the edge of the table, and of
+course, the whole thing must remain in stable
+equilibrium.
+The longest sides of a domino are two
+inches long, so with your solution please
+include both a diagram and a clear statement
+of the overhang it produces. I've no idea what
+the maximum possible value is (although if you
+can't manage more than two inches you're not
+really trying) so the prize will go to the best
+solution received by the closing date.
+Finally, as I said, this is an engineering
+problem and I recommend that you approach
+it experimentally using paperback books, or
+playing cards or even dominoes.
+contains a large number of real life freaks, but
+these people cannot have seen the film. It is a
+fascinating and disturbing story set in a circus
+where the freaks exact cruel revenge for being
+wronged. Although quite macabre, it is a
+sensitive and worthwhile film. I recommend
+you to take advantage of this rare opportunity
+to see such an interesting movie.
+The film will be shown at 7:30pm in Elec Eng
+408 on Monday evening.
+Credits
+Many thanks to Nick T., Peter, Soheel, Pallab,
+S t e v e , E d d i e , N i c k W . , L e s l e y , J e z , M o ,
+Ramzi, all the collators, M a z and Ian.
+A special m e n t i o n to P a u l Bailey w h o
+delivers F E L I X every week. Without him you
+would probably not receive your copy.
+Solutions, comments, criticisms to me at the
+FELIX Office please. A prize of £5 (donated by
+Mend-a-Bike) will be awarded to the largest
+valid overhang described by 1:00pm next
+Wednesday.
+Last Week's Solution
+H , L , O , Q , T pure; M , N , P , R, S applied.
+Write ' L ' for 'statement made by L is true'
+and ' L " for 'statement made by L is false'. Then
+we have:
+L: If H ' then ( M and N')
+O: H if and only if (P' and Q)
+R: (P' and R') if and only if M
+N : M or S
+Q: S' or L ' or O '
+M : M if and only if O
+T: If T then (S' and L ' and H')'
+P: Over half true
+S: Over half false
+M ' implies O , and M implies O . S o O . Now,
+considering T's statement, the assumption T '
+i m p l i e s T (see note b e l o w ) w h i c h is a
+contradiction. S o T is true. N o w assume S. S
+implies N , and since (from S) at least six are
+false, only S, N , T , and O are true. But this
+implies Q . S o S is false after all, and so Q is
+true. N o w for L's statement to be false, H must
+be false t o o (see note a g a i n ) . B u t this
+contradicts T which we know to be true. S o L
+is true. F r o m N ' s statement ( M and N') must
+be false, so H ' is false too, i.e. H is true. S o P '
+and Q (from O). A n d to make P false, both R
+and M must be false also.
+ARE YOU
+wanting to meet people with similar interests
+from within and outside the College?
+willing to help raise money for local and
+national charities as well as caring for people
+in this community.
+looking for an active social life, i.e.
+bi-monthly meetings plus sports events,
+barbecues, dinners, discos, etc., as well as
+more unusual pursuits.
+If you are a n d w o u l d like to k n o w more about
+R o t a r a c t -then c o n t a c t M a r t i n B u r n e t t ,
+Physics letteracks o r N i c k Davey, Biology
+( W Wing) P G .
+Twenty entries, nine of them correct and
+Ashley Kanter, Maths 3 is the winner.
+Nearly all the confusion arose from the
+possibility of 'if X then Y ' being false. The only
+way 'if X then Y ' can be false is for X to be true
+and Y false. A s an example of this, consider
+the first 'if-then' clause ever formulated: 'if you
+taste the fruit of the tree you shall surely die'.
+The only way you can give the lie to this
+statement is by tasting the fruit and not dying.
+Y o u cannot make the statement false if you do
+not taste the fruit. S o when L e n said 'If the
+head is applied ' for his statement to be
+false, the head would have to be applied.
+One person criticised me for setting a puzzle
+which depended on this principle, but I don't
+think I was unfair, particularly since I have
+explained it in detail before, albeit a long time
+ago (November 21, 1980, to be exact).
+Finally, another correspondent asked for a
+return to 'the good old days when all your
+puzzles were of this type'. I thought you
+preferred a more varied diet, but if you have
+strong feelings—write!
+H Y D E P A R K R E L A Y
+SATURDAY, FEBRUARY 27
+Helpers needed throughout the day.
+Free sweatshirts donated by N a t W e s t B a n k !
+Party & Disco
+follows the Relay at 6:30pm in the J C R .
+A d m i s s i o n free to participants a n d helpers
+50p to everyone else.
+FELIX is published by the Editor for and on behalf of the Imperial College Union Publications Board, and is printed by the Union Print Unit, Prince
+Consort Road, London SW7 2BB (589-5111 ext 1048 int 2881) Copyright FELIX 1982. Editor: M A Smith, Advertising Manager: S M Giblin.
+

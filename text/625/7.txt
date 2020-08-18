@@ -1,0 +1,194 @@
+With Tron (U, Odeon Leicester Square)
+Disney once more regain their position as
+great innovators in the field of movie making.
+By using a dazzling mixture of live action,
+animation and computer generated imagery
+they have produced a timely fantasy utilising
+some of the latest high technology effects.
+The great breakthrough is, of course, the
+extensive use of Computer Generated
+Imagery (henceforth, CGI). Director Steven
+Lisberger conceived the story of TRON
+several years ago; acknowledging the immense
+popularity of video games he imagined a
+parallel electronic dimension where video
+games were played out in a life and death
+struggle between 'programs'. These programs
+are the alter-egos of their programmers (or
+'users') in the real world. CGI were the ideal
+tool to use for representing this imaginary
+electronic world.
+The film opens with a painful explanation of
+the basic premise and we are introduced to
+Flynn, a former programmer from E N C O M (a
+communications conglomerate) who now runs
+a video arcade. He is busy at a V D U tapping
+into the E N C O M information system in order
+to prove that Dillinger (now in control of
+ENCOM) perpetrated the most ghastly and
+trendy crime imaginable—he stole Flynn's
+brilliant video programs for Space Paranoids
+and several other successful games.
+In the electronic world we see Clu, an
+electronic warrior who looks like Flynn,
+attempting to evade capture by the henchmen
+of Sark (the electronic alter-ego of Dillinger).
+He is captured and executed, or rather 'de-
+rezzed' (de-resolution!), and disappears from
+the games grid.
+These scenes are in the deep blue, glowing
+electronic world but...meanu>riiie back in the
+real world...(as a caption tells us) Dillinger is
+summoned by the evil M C P (Master Control
+Program) that he created and warned of
+Flynn's interference. Access to the E N C O M
+system is restricted, but Alan and Lora (two of
+Flynn's friends) warn him. In a final attempt to
+gain the evidence he requires Flynn is
+smuggled into E N C O M to gain direct access.
+But this time the M C P fights back—Flynn is
+digitised and physically transported into the
+electronic world (a la Wizard of Oz).
+Well all this sounds pretty ingenious, but it is
+not until this point the film really takes off.
+Flynn is trapped in a totally alien world ruled
+REVIEWS
+by the M C P and has to battle against Sark in
+an electronic arena for survival. He meets
+T R O N , mightiest of the video warriors, who is
+a program designed by Alan to monitor the
+accumulation of information in the system.
+The tyrannical Sark thus attempts to stop
+T R O N and Flynn reaching the heart of the
+C P U and overthrowing the M C P .
+The C G I is mainly used for creating
+vehicles; Sark commands a massive floating
+carrier from which he controls a force of tanks
+and recognizers (floating vehicles which stomp
+on renegade programs with cartoon elegance).
+The most impressive sequence is undoubtedly
+during a game where amazing light-cycles
+envelop the players (achieved with hand
+animation) and then rush off in computer
+generated vehicles to make their opponents
+crash.
+These sequences were created by the
+Mathematical Applications Group Inc (MAGI)
+using a fascinating system called Synthavision.
+For the uninitiated, there are several ways of
+generating computer images which have been
+developed over the past twenty years or so.
+Synthavision was originally designed by
+physicists trying to simulate the path taken by
+nuclear particles in radiation experiments. By
+replacing particle rays with light rays it
+synthesises photography by tracing a light
+beam (in reverse) from an imaginary camera to
+an imaginary object. When this beam strikes
+the object additional information on the
+position of light source, texture, reflectivity
+and so on complete the picture for that point.
+By repeating the process for the whole field of
+view a picture is 'painted' electronically and,
+with enough information, can have totally
+convincing shading and perspective.
+Another system used on the film by
+Information International Inc (or Triple-I)
+involves forming an object from a large
+number of flat polygons, with curves being
+smoothed out by various averaging processes.
+The problem here for many years was that a
+complete description of the 3-D object was
+programmed in and the computer had to then
+decide which pieces of hidden detail should be
+removed when looking from any particular
+viewpoint. This takes a lot of computing time
+and only recently have people been able to
+speed up the process using bigger and better
+computers.
+MAGI's Synthavision process ingeniously
+circumvents this need. Dr Philip Mittelman of
+MAGI explains that his physicists needed to
+deal with solid objects in their radiation
+simulations and hence created a set of 3-D
+'primitives' from which an object could be
+formed (eg sphere, cube, ellipsoid). By adding
+and subtracting these 3-D units an object is
+Sark (David Warner) backed by one of the few disappointing creations-the MCP (a sort of rainbow
+coloured whirlpool). As Sark's power increased the vein-like circuits of his suit glow brighter.
+One of the marvellous computer generated light-
+cycles.
+generated so that the light beam from the
+imaginary camera merely recognises the first
+surface it strikes—hence no hidden detail
+problem!
+This is, of course, a very superficial
+description of the computer imaging process.
+It is impossible to go into too much detail here
+(for those interested I suggest you consult a
+textbook or issues six and eight of a
+marvellous American effects magazine called
+Cinefex for an introduction) but the
+possibilities that these techniques represent
+will undoubtedly revolutionise the film industry
+in future years—imagine creating a totally
+convincing spacecraft (without the need for
+models) taking over with a joystick on your
+V D U and simply sailing through a pre-
+determined background sequence. All the
+moves will be stored in memory, so to correct
+a mistake there would be no need for the
+costly re-shooting of film—just recall from
+memory and do it again! It is not until the
+whole scene (or film) is complete that the
+transfer to film is even necessary.
+Indeed, what Star Wars did for motion
+control photography (models, bluescreens,
+computer controlled motion systems etc)
+T R O N should do for CGI. Within a few years
+there will probably be a host of imitators and
+even George Lucas is ploughing money into
+his own CGI unit—for a future part of the
+Star Wars saga no doubt. Besides this many
+other aspects of image processing, from the
+work done on satellite photographs to the
+development of 'user friendly' interfaces (like
+data tablets on which artists can paint with an
+electronic brush) will soon be spilling into the
+entertainment industry. Digital film printers,
+electronic compositing and high resolution
+video will become standard tools.
+T R O N itself is just a start and it's not a great
+film by any means. Some ridiculous ideas and
+acting don't complement the more ingenious
+effects too well.
+Bruce Boxleitner (Who?) as T R O N is far too
+wimpish and Jeff Bridges portrays Flynn as a
+wisecracking idiot who couldn't possibly know
+a bit (byte) if he saw one.
+However, there is some punchy dialogue
+(for instance, when the M C P threatens Sark
+with banishment to a pocket calculator) and
+the 53 minutes of film in the electronic
+dimension is just staggering. Of this about
+fifteen minutes is achieved using CGI and the
+rest is live action enhanced with hand
+animation.
+This is another revolutionary technique; the
+live action was all shot in black and white,
+blown up onto 12y2x20inch transparent eels
+coloured using back-lit animation. This is very
+much like standard Disney animation, except
+that the eels on the animation stand are
+illuminated from behind (rather than above)
+with various colours to achieve the pulsing
+electric suits the actors wear.
+There are many more faults with the film but
+overall it is harmless fun and at times very
+entertaining (if you can see past the acting). As
+a demonstration of the potential effects of
+computer graphics in the entertainment
+industry it is a milestone and, for.this reason
+alone, should not be missed.
+FlUXl |October 29,1982 Poge7|
+

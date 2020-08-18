@@ -1,0 +1,409 @@
+34
+COFFEE
+BREAK
+Coffee Break Editor
+Coffee Break Editor Charlie Murdoch
+Charlie Murdoch
+coffee.felix@imperial.ac.uk
+felix
+Scribble box
+FRIDAY 26 FEBRUARY 2010
+Sir Winston Churchill: “We make a living by what we get, we make a life by what we give.”
+Quote of the Week
+Wordoku 1,455
+Solution 1454
+How to play:
+Wordoku is identical to Sudoku; we’ve just replaced
+numbers with letters. Complete the puzzle and then
+send the whole grid to sudoku.felix@imperial.ac.uk.
+You will not get credit for just the word alone. It’s not
+an anagram.
+Evil Wordoku is exactly the same... only harder... and
+there’s a letter missing... that MAY be a duplicate -
+just solve it like normal and insert the letter that you
+believe makes the word. And worth double.
+K
+T
+C
+E
+I
+B
+J
+Z
+U
+U
+E
+J
+K
+C
+Z
+I
+T
+B
+I
+Z
+B
+U
+J
+T
+E
+C
+K
+T
+C
+E
+J
+K
+I
+U
+B
+Z
+B
+K
+U
+T
+Z
+E
+C
+I
+J
+J
+I
+Z
+B
+U
+C
+K
+E
+T
+C
+B
+K
+Z
+E
+J
+T
+U
+I
+E
+U
+T
+I
+B
+K
+Z
+J
+C
+Z
+J
+I
+C
+T
+U
+B
+K
+E
+A rant. Again,
+yes I know too
+CharlieMurdoch Coffee Break Editor
+A
+y
+Char
+Char
+mmmmmm.....
+FUCWIT The Felix University/
+College-Wide Invitational
+Tournament League is
+new and improved, with
+an iPod nano for both the
+team and the individual
+with the most points at
+the end of the year.
+5 points for the 1st cor-
+rect answers for all puz-
+zles on these pages, 4
+points for 2nd, 3 points
+for 3rd, 2 points for
+4th and 1 point for 5th.
+Now then FUCWITs, an-
+swers to sudoku.felix@
+imperial.ac.uk. Go!
+The Cool Kids and Fergal 33 Points
+Harry Potter Trio 192 Points
+Sheryl 128 Points
+The Tough Brets 140 Points
+Kelvin Wong 78 Points
+Matthew Colvin 143 Points
+Individuals:
+Individuals:
+Teams:
+Teams:
+League Table
+Wordpath 1,455
+How to play:
+Make a path from the origin word to the destination
+word by taking steps between words using one of the
+three following methods:
+Letter Substitution: Substitute just one letter.
+e.g. WORD -> WARD
+Anagram: Rearrange the letters.
+e.g. WARD -> DRAW
+Wordslide: Replace the current word with a new 4 letter
+word from any 5+ letter word that contains them both.
+e.g. DRAW -> WING (via DRAWING)
+No consecutive steps may be made by the same method.
+e.g. WORD -> WARD (by LS) -> WARE (by LS) would
+be invalid.
+Points are awarded for the earliest SHORTEST valid path
+between the two words. Dubious words will be checked
+against the OED. Send your solutions to sudoku.felix@
+imperial.ac.uk.
+ORIGIN:
+C U R D
+DESTINATION:
+W H E Y
+Scribble box
+Solution 1454
+EAST
+ONES via
+BREASTBONES
+OWES (LS)
+WEST via
+LOWEST
+Well done to last
+week’s winner,
+Louise Parchson
+whose solution can
+be seen above. You
+all seem to like this
+puzzle. Which is nice.
+F
+L
+N
+C
+A
+T
+S
+P
+S
+A
+P
+T
+U
+L U
+P
+C
+L
+S
+F
+N
+L
+F
+T
+N
+U
+P
+Matthew Colvin won
+Intermediate, and
+Kelvin Wong won
+the Evil. Apologies for
+fucking up again, Evil
+Wordoku letters were
+in wrong order so the
+solution word is being
+used again for this
+issue’s Evil Wordoku in
+correct order.
+U
+L
+Q
+E
+E
+F
+M
+A
+M
+E
+U
+Q
+F
+Q
+I
+L
+A
+E
+U
+E
+A
+I
+Q
+A
+U
+A
+M
+F
+I
+INTERMEDIATE EVIL
+I
+M
+F
+L
+Q
+-
+E
+U
+A
+Q
+A
+L
+E
+U
+M
+I
+-
+F
+-
+E
+U
+F
+I
+A
+Q
+L
+M
+F
+-
+E
+Q
+A
+U
+L
+M
+I
+A
+L
+M
+I
+F
+E
+-
+Q
+U
+U
+I
+Q
+-
+M
+L
+F
+A
+E
+L
+U
+-
+M
+E
+I
+A
+F
+Q
+E
+Q
+A
+U
+-
+F
+M
+I
+L
+M
+F
+I
+A
+L
+Q
+U
+E
+-
+Louise Parchson 44 Points
+Bethan Matthews 33 Points
+GLT 44 Points
+Flavia Tang 22 Points
+Dr Science! 24 Points
+Absolute Cunt 30 Points
+Jeff Wu 15 Points
+Herens Tibaut 14 Points
+The Three Kings 15 Points
+Cheating Spaniard 12 Points
+Giramondo 10 Points
+Zoe Dobell 10 Points
+Mark Mearing-Smith 10 Points
+N
+ot had an amazingly ac-
+tive this week. Think it’s
+because I am currently liv-
+ing in a lab trying to polish
+a bit of metal. No seriously I must
+spend at least 10 hours a week polish-
+ing and grinding. And no, that is not
+some kinky teenage porn reference.
+As to why it’s teenage I’ll let you pon-
+der. Moving from that rather disturb-
+ing image that I’m sure the EEE faulty
+are enjoying slightly too much to the
+events of Wednesday on the Hockey
+field.
+For any of you who actually care a
+bit about this university, and choose
+having a laugh over sitting holed up
+in your room like a hermit crab whose
+been deformed beyond recognition,
+will know that the Bottle Match is
+coming up. There will be a further ex-
+planation about this match next week,
+but in a nutshell, it’s been bigger and
+better than varsity. The winner of the
+rugby match gets the Bottle which
+is currently sitting in the Union Bar.
+As I’m a Hockey player, we’ve been
+in training, and on Wednesday I got
+carded for ‘being overly dangerous to
+myself.’ Yes, I don’t know either. After
+checking for signs of heroin addiction I
+concluded that the umpire was simply
+a dozy twat. He was.
+Apparently the bars have been re-
+named. Great. Because traditionally
+I don’t choose a place to drink using
+the, possibly blue-sky approach of
+price, comfort and atmosphere. Oh
+no. Whenever I walk past a Rose and
+Crown I can’t help but wander in for
+a quick pint. However see a Trap and
+Pony and I scarper like a rat up a drain-
+pipe. What goes through these peoples
+minds? It’s just a fucking name. People
+will complain, as I am doing now, but
+at the end of the day who really gives a
+shit? If people choose not to come to a
+bar because of a name then sod them.
+You probably don’t want twats like that
+kicking about the place anyway.
+Finally this place is bad enough as it
+is, what with Physics students walk-
+ing round with E=MC2
+on the back of
+their hoodies. You look like a wannabe
+hoodlum gang member. No, I lie. You
+look like a 18 year old spotty white kid
+whose trying to be cool. Or in other
+words, a stretched arsehole. So lets not
+go for geeky puns on ‘Imperial’ for the
+name eh? Pah, Whatever.
+Wayne Kerr 10 Points
+New
+Fuller
+Individual
+List
+WOW!!!
+

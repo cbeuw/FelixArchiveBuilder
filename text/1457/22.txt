@@ -1,0 +1,341 @@
+22
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 12 MARCH 2010
+E-Ink not ready for prime time
+Feroz Salam talks eReaders and how they’re a couple of years ahead of their time
+O
+ne thing that has been a
+staple feature of science
+fiction stories since the
+late 50’s is the death of
+printed books. If SF authors are to be
+believed, books are eventually going to
+be phased out in favour of eBooks, and
+in the 21st century, major publishers
+and content distributors seem to agree.
+Both Barnes and Noble and Amazon
+have been aggressively selling their
+eBook readers, and even Apple’s iPad
+was announced alongside a New York
+Times Reader app to make the online
+version of the paper resemble the real
+thing much more closely. Yet apart
+from relatively strong sales of Ama-
+zon’s Kindle, the response to the con-
+cept of eBooks has been lukewarm at
+best. On one hand authors are deterred
+by the thought of piracy eating away
+at profit margins, while on the other,
+readers don’t seem to be attracted to
+the prospect of buying an expensive
+device that has only one real function.
+The price of your average eBook
+reader in it’s current incarnation is
+one reason why I don’t consider them
+to be any more than a shiny toy for
+early adopters. With the 6-inch Kindle
+priced at a hefty £170, it’s not the sort
+of thing you would pick up on a whim,
+especially on a student budget. Even at
+£170 you get little other than a reader.
+Most books are priced at upwards of
+£5, which means that a 20-book col-
+lection on a reader would cost as much
+as £270, a price which would probably
+buy you upwards of 75 used books in
+good condition, much more reading
+than I do in an average year. Some
+reader manufacturers have suggested
+that the devices could also replace
+printed textbooks, with the ability to
+annotate text making for interactive
+textbooks that hold all your notes. Yet
+e-textbooks can cost as much as £50
+each; more than already overpriced
+paper textbooks. With the ability to
+only open one book at once, you can’t
+exactly spread your books out over a
+table either.
+The problem with true eBook read-
+ers is that they are a few years ahead of
+their time. Although the cost of buying
+and using the Kindle or some similar
+device is high, the fundamental prob-
+lem doesn’t lie with pricing, but with
+screen technology. The Kindle and its
+brethren use a particular type of dis-
+play, E-Ink, that’s not in use on many
+other devices. The display technology
+is designed to mimic the look of actual
+print with high contrast and density,
+reduced eye strain created by the need
+for backlights and allowing for longer
+reading sessions. The catch? The re-
+fresh rate and lack of colour of current
+generation E-Ink severely limits the
+graphical capabilities of these devices,
+making them useless for much more
+than reading and light web browsing.
+Amazon’s claim of ‘16 shades of grey’
+sounds like something out of a tel-
+evision advertisement from the 1940s.
+Therefore, current eBook readers will
+never be able to play a YouTube video
+or render game graphics, making them
+oddities at a time when most devices
+are capable of handling a variety of me-
+dia simultaneously.
+Apple seem to think they have solved
+this problem with the iPad. The LCD
+screen can serve up any media you
+require, while the screen is just the
+right size for reading. Seeing potential
+to own the market, Apple has made
+a serious push into the eBook space,
+launching an iBookstore similar to
+iTunes, with works from most ma-
+jor publishing houses featuring on its
+shelves. Yet whether this gamble will
+pay off is quite questionable. I’ve tried
+reading eBooks on laptops for many
+years now and I can’t stand reading
+more than a few pages of text at a time.
+I wouldn’t mind glancing through a
+newspaper, but reading the entire Lord
+of the Rings trilogy on an LCD screen
+would probably blow my eyes out,
+if my Computing degree doesn’t get
+Look at you, peasant. With all your books and a laptop, oh how you live in the last century.
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week in Tech has
+flown by, but what have we got
+to show for it?
+Well, have you ever wished
+you could fly? Not in a plane I
+mean, fly like Superman? Yeah,
+I have too. Well I’m afraid
+it’s impossi-
+ble, but
+you can
+have
+the
+next
+best
+thing, the
+Martin jet-
+pack. The
+jetpack in
+question is
+destined to be the first com-
+mercially available later this
+year, and at $86000 it’s not
+even as much as a fully spec-
+ced Lambo. This personal fly-
+ing marvel is powered by a 2L
+V4 two-stroke engine spinning
+two carbon-kevlar composite
+rotors, running on bog stand-
+ard petrol with a flight time of
+30 minutes. Now if that doesn’t
+beat the pants off your mate’s
+crappy sports car, I don’t know
+what will.
+You could be forgiven for
+thinking the OO HD wireless
+projector, crappy name I
+know, was some
+sort of
+spaceship,
+perhaps
+even something
+out of War of the Worlds.
+Packing 1080p projection, an
+SSD, WiFi, Li-ion battery and
+internal decoders, this con-
+cept could be the all-in-one
+media sensation that you’ve
+been looking for. Mind you, if
+it ever materialises into the real
+world, don’t expect it to come
+cheap. Guess it’s the price you
+pay for function and beauty.
+Sony’s been busy this week
+building up the HD content
+on its Playstation Network
+with the announcement of all
+six major movie studios com-
+ing on board. 20th Century
+Fox, Walt Disney,
+Paramount,
+Universal,
+Warner Bros.
+and Sony’s own Sony
+Pictures Entertain-
+ment have clubbed
+together to make
+a massive 19 HD
+movies available
+for rent or to buy.
+OK, I might be
+exaggerating a bit,
+but it’s a step in the
+right direction for all those
+wielding a PS3 right? Currently
+only available in the US, Sony’s
+pushing for a UK, France, Ger-
+many and Spain release soon.
+More car news this week
+from the Geneva Motor Show.
+Are you an Aston Martin DBS
+owner, who just wishes he had a
+smaller Aston for the city run-
+around? Well for the princely
+sum of around £30,000 you can
+have the Aston Martin Cyg-
+net. Packed with
+features like a
+fancy iPod
+dock, leath-
+er interior
+and lots
+of chrome
+throughout,
+the Toyota IQ
+based Cygnet is your way of
+giving the finger to all those
+Mini drivers who think they’re
+the dogs. Think I’ll just stick to
+the DBS thanks.
+Having shown the world the
+incredible faster-than-a-Car-
+rera-GT 918 Spyder
+Hybrid concept,
+which we saw last
+week, Porsche
+also rolled out
+the insane look-
+ing 911 GT3-R Hybrid con-
+cept. Porsche has ditched the
+battery for a flywheel, which is
+spun up to 40,000 rpm by the
+car decelerating. A generator
+turned by the flywheel then
+powers a pair of 60kW electric
+motors attached to the front
+wheels. The system incorpo-
+rates a boost button like that
+found in the F1 KERS system,
+adding 160bhp for up to 8
+seconds. Finally, a real turbo
+boost!
+SamuelGibbs
+SamuelGibbs
+A
+nother week’s flown by and
+bam, we’re into the middle
+of March. This week saw
+a lot of car tech attention
+due to the Geneva Motor Show that’s
+been going on. Most of the technol-
+ogy on show has been based around
+traditional hybrid cars, admittedly not
+from traditional hybrid manufactur-
+ers. Who’d have thought when Toyota
+first launched the Prius that the likes of
+Porsche and Ferrari would follow suit
+with high performance hybrids? Of
+course those in the know realise that
+having an electric motor is far from a
+disadvantage for potential sports cars,
+with maximum torque right from the
+get-go and carried through the entire
+range of acceleration. The problem lies
+in supplying the electric motor with
+enough power for any decent range.
+This is why most hybrids currently
+run a conventional combustion engine
+with an electric motor tacked on for
+low speed, short range driving. Cars
+like the new plugin Prius drive with
+the electric motor up to about 23km
+with a maximum electric-only speed of
+100kph. Once the battery is depleted,
+or the speed you’re demanding from
+the car is greater than 100kph, then the
+petrol motor kicks in to power the car
+and recharge the battery.
+This means that you haven’t removed
+the petrol problem. Of course you can
+use biofuel or some ethanol based fu-
+els, but it’s still a carbon emitting fuel
+you have to use. Hybrids are going
+to be forced into the mainstream for
+larger engine cars in the next couple of
+years once the EU’s emissions regula-
+tions kick in. But hybrid cars are hold-
+ing back development of true, non-fuel
+dependent solutions. A poor stop gap
+in the progression of the humble car.
+there first.
+Will eBook readers eventually catch
+on? Almost certainly, as they should.
+The concept of a centralised book-
+store that can distribute books over
+the Internet 24/7 without running
+out of stock is great. eBooks will last
+for longer and, as Project Gutenberg
+has proved, could well turn out to be
+a great way of preserving books for fu-
+ture generations. Yet before they can
+achieve ubiquity, the technologies they
+are based on have to improve drasti-
+cally. E-Ink needs to become more
+versatile or be replaced with another
+technology, and varying book formats
+shouldn’t mean that you are locked to
+a manufacturer for life, just because
+you started collecting books on one of
+their devices. Realistically, it will take
+at least a few more years before you see
+them on the bus home. If you hold off
+buying them now you’ll probably get a
+much more mature and versatile de-
+vice with a much smaller price tag.
+SamuelGibbsTechnologyEditor
+it’s
+thin
+Ma
+pa
+jetp
+quest
+y
+some
+thing
+g
+Fox,
+and Son
+the world the
+than-a-Car-
+der
+t,
+boost!
+in-
+ed
+e
+D
+,
+the
+net. Pack
+featur
+fanc
+do
+er
+an
+of
+thro
+the Toy
+

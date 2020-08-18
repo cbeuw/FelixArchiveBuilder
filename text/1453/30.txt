@@ -1,0 +1,384 @@
+30
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 12 FEBRUARY 2010
+Browser war over Video
+Feroz Salam looks at the state of HTML5 video in your browser
+F
+or roughly the last 5 years,
+there have been two undisput-
+ed kings of the browser mar-
+ket – Internet Explorer from
+Microsoft and Firefox from Mozilla
+Corporation. With a combined 86%
+of the market in their pockets, even
+Google has had a hard time making a
+dent in the market, despite widespread
+publicity. This state of affairs looks like
+it’s about to change in the near future
+however, with Google’s own Chrome
+browser picking up more market share
+than either Firefox or IE for the entire-
+ty of 2010. In addition, if Google con-
+tinues to use the new HTML5 standard
+with the h.264 video codec in YouTube
+videos, they could be signing the death
+knell for Firefox, in a cunning manoeu-
+vre that could see them simultaneously
+bringing YouTube into the HTML5 era
+while grabbing a chunk of the browser
+market share for Chrome.
+HTML5 is the next evolution of the
+HTML language that brings a whole
+new set of functionality to webpages.
+One of the most noticeable features of
+HTML5 is the ability to embed stream-
+ing video without having to install any
+sort of plugin like Adobe’s Flash, the
+current favourite video distribution
+platform, or Microsoft’s Silverlight.
+What this should mean is that your
+average user doesn’t have to worry
+about the hassle of installing and up-
+dating plugins on a regular basis just
+to watch a few clips; removing another
+source of browser vulnerabilities and
+crashes. YouTube already supports
+the new HTML5 tag, and users can
+watch HTML5 video by signing up for
+the HTML5 Beta testing group. Yet
+Firefox, Opera and IE users without
+Google’s Chrome Frame need not ap-
+ply. Neither Microsoft or Mozilla have
+bothered implementing the h.264 co-
+dec, despite the fact that it would be a
+major step forward for browser tech-
+nologies. With Microsoft, the issue
+seems quite simple, they are probably
+waiting to see how the codec/platform
+wars will play out before they make a
+decision on implementing any one,
+especially as they are promoting their
+own platform, Silverlight. With Fire-
+fox however, the issue is much deeper,
+involving questions about the very
+nature of free software design and the
+ethos behind the Mozilla Foundation.
+The h.264 codec is a proprietary
+video codec which therefore means
+any company that wants to include
+it has to pay a hefty licensing fee be-
+fore they can build compatibility into
+their software. Opera software, the
+manufacturers behind the Opera fam-
+ily of browsers, has refused to pay the
+licensing fee outright, citing the high
+cost of the license. The concern that
+the Firefox developers have, however,
+is quite different. In a blog post, one
+Mozilla developer stated that licens-
+ing H.264 “would violate the princi-
+ples of free software that we strongly
+believe in”. He also went on to say that
+“we have leverage to possibly change
+the codec situation” in relation to why
+they don’t use the h.264 codec on the
+user’s system and instead support the
+open source Ogg Theora video codec.
+This is essentially Mozilla hinting that
+it expects their refusal to implement
+the proprietary codec to send a strong
+message prompting developers to re-
+think the platforms that they use to
+distribute media.
+I’m very sceptical about the validity
+of this argument. While Mozilla taking
+the moral high ground is admirable,
+internet users are faced with a plethora
+of choices when it comes to browsers,
+most notably the WebKit based brows-
+ers, Chrome from Google and Apple’s
+Safari. Both Google and Apple, who
+uses h.264 extensively in its Quick-
+Time video format, have handed over
+the licensing fee, making them two of
+the very few companies that can offer a
+browser with full h.264 video capabili-
+ties right out of the box.
+As more and more users and web-
+sites switch to the HTML5 tagging
+system for embedded video, and likely
+follow the lead of YouTube with h.264,
+those with Firefox will simply down-
+load other browsers, without even
+concerning themselves with the ethical
+issues behind Mozilla’s refusal to pay
+the licensing fee. The end result will
+probably be a choice of two outcomes;
+the first being that Mozilla leaves their
+moral high ground and finds a way
+to license the proprietary codec, or
+that Mozilla is driven to obscurity in
+a matter of a few years. As someone
+who believes strongly in open source,
+I wish it could be any other way – but
+given a choice between driving Firefox
+to oblivion and licensing the codec, I
+would pick realism over idealism and
+license it.
+Y
+ou could be forgiven for
+thinking that the tech world
+revolved around Apple and
+Google recently. If it’s not
+the iPad, the Nexus One or the Google
+China spat, it’s that Schmidt and Jobs
+are falling out of love.
+This week Google dropped its new-
+est baby, Buzz, for all the world to see,
+attempting to muscle in on all this so-
+cial stuff the cool kids seem to be into
+these days. Not another Wave I hear
+you say. We haven’t found a use for
+even that yet! Hold faith dear readers;
+one day Wave will make perfect sense,
+just ask the Tech team here at felix
+towers.
+In a nut-shell, Google Buzz is an-
+other social networking environment
+where you can share stuff with your
+friends. But Buzz is a little more than
+that. Those familiar with FriendFeed
+and other social networking aggrega-
+tors, might find that they’ve seen most
+of it before. Buzz automatically pulls
+status updates and other things from
+places like Twitter, Blogger and flickr
+shoving them right into your Google-
+sphere experience. Buzz works directly
+in Gmail allowing you to share stuff
+with your private and public Gmail
+contacts, linking public postings in
+with your Google Profile page for all
+the world to see. If you happen not to
+have a Google Profile, Buzz will auto-
+matically create you one, leading to yet
+another way to find you through your
+favourite search engine.
+Google’s big on algorithms, its
+PageRank system is one of the most
+complex currently used on the web
+today. Buzz doesn’t escape this pas-
+sion either, featuring a recommenda-
+tion engine that puts ‘Buzz’ from peo-
+ple you don’t follow that it thinks you
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week, another Apple
+story; this time it might even
+interest students. Several text-
+book publishers have signed
+on to distribute their wares
+via a company called Scroll-
+Motion, who are the folks be-
+hind the Iceburg Reader on
+the iPhone. The deal includes
+McGraw-Hill, Houghton Mif-
+flin Harcourt K-12, Pearson
+Education and Kaplan Inc and
+others are said to be in talks.
+Could this see the iPad becom-
+ing the one student-friendly
+device to rule them all? Unless
+you’re likely to pay through the
+nose for electronic forms of
+these textbooks, I doubt it. But
+you have to admit textbooks
+on a device like the iPad is an
+attractive thought. Let’s just
+hope they get the text search
+done right so you don’t have to
+sift through pages upon pages
+of irrelevant rubbish to find
+that golden paragraph you’ve
+been looking for.
+The iPad alterna-
+tive, the Joo-
+Joo was
+also in
+the news
+this week
+with the an-
+nouncement
+that it too
+has an App Store
+(doesn’t every- one these
+days?) - a webapp store. Fusion
+Garage argue, quite rightly so,
+that the iPad has a large ad-
+vantage provided by the cat-
+egorised and searchable App
+Store. They plan on making a
+webbapp based store in a simi-
+lar fashion. Let’s just hope they
+make a better stab at
+webapps than Ap-
+ple did when it
+said webapps
+are ‘the only
+apps you
+need’. Ha,
+yeah right.
+More sexts got
+into the news this week
+too. For those not familiar
+with the term; a sext is a sexy
+text often in the news because
+of minors sending nude picture
+messages to each other. Idiots.
+Anyway, one poor bloke from
+Winnipeg, Canada got caught
+with some luscious sexts on his
+phone by his girlfriend, seem-
+ingly from another woman.
+Problem is Darren P, as he was
+named by local press, didn’t
+know where they’d come from.
+Turns out that the pranksters
+from Virgin Mobile pre-loaded
+Darren’s new Samsung phone
+with some pretty innocent
+texts with things like ‘Booty
+Call’, ‘Where you at’ and ‘Be
+there soon’. Now why a phone
+would come pre-loaded with
+text messages, God knows,
+but way to overreact! It wasn’t
+until Darren went to the shop
+and they found the texts on all
+the phones of the same model
+that Darren was proclaimed
+innocent. Not sure whether
+they reconciled their differ-
+ences but if I were Darren I’d
+think twice before taking little-
+miss crazy back. After all, who
+in their right mind uses the
+phrase Booty Call?
+Good news for
+those of you who
+are Freeview
+users, as the
+service is get-
+ting two new
+channels. The space
+has been made available by
+the BBC ahead of the digital
+switch-over by the discontinu-
+ation of its multi-screen red
+button option – ahead of its
+BBC HD launch, and also from
+Arquiva through ‘technical
+improvements’. No doubt the
+folks behind Dave are eyeing
+up the opportunity to bring
+you more of what you’ve al-
+ready seen.
+Nvidia this week launched
+its new Optimus technology,
+which allows seamless and au-
+tomated switching of GPUs
+between discrete and integrat-
+ed chips. Great news
+for laptop
+wielders as
+the technol-
+ogy has been
+around for a
+while with manual
+switching, but automated,
+on-demand switching will
+make the best of both worlds,
+saving more battery life. Look
+for Optimus packing laptops to
+hit the shelves by March.
+Samuel
+Samuel
+Gibbs
+Gibbs
+Technology
+Editor
+Buzzing, simply
+Buzzing
+SamuelGibbs
+SamuelGibbs Technology Editor
+might like, in your stream, based on
+what you and your friends follow and
+comment on. Using further automated
+processing, Google will try and root
+out ‘bad buzz’ like ‘I just ate an apple’
+or ‘Going to the bog’ by automatically
+collapsing it whilst prioritizing your
+stream for what it thinks is ‘good buzz’.
+Buzz will even push things into your
+Gmail inbox when someone com-
+ments on something you’ve posted or
+commented on and when someone
+sends you a direct message Twitter
+mention-style with the now synony-
+mous @reply.
+That’s not all, because Buzz is go-
+ing mobile too. It’s integrated into the
+Google mobile home page via a Buzz
+icon. Tapping on said icon will locate
+you and try and place you in a real
+location like a shop, coffee house or
+pub, whichever fits closest with your
+geographic location. A mobile Buzz
+webapp is also available for iPhone
+and Android which allows you to post
+to buzz, see updates from people you
+follow and from those located close
+by. Those with an Android phone get
+a little more Buzz in their lives than the
+rest of us, with its integration into the
+Google Maps app on the platform. The
+Buzz layer allows you to snap your lo-
+cation to an address and post to Buzz
+straight from the Maps app. Other
+mobile OSs are going to see a roll out
+in the near future, with Blackberry,
+S60 and WinMob getting in on the
+act. iPhone users will have to wait for
+an update before Maps sees any Buzz
+action.
+Those already in the Google-sphere,
+look out for it in Gmail and other
+Google services. For the rest of us, well,
+if you haven’t already jumped aboard
+the Google train, Buzz is unlikely to be
+ve
+a-
+o-
+was
+in
+ws
+ek
+n-
+nt
+o
+p
+y-
+hion. L
+mak
+we
+ple
+sa
+a
+ap
+ne
+betw
+ed c
+

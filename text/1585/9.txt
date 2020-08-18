@@ -1,0 +1,149 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 9
+24.10.2014
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Rare cancer drug shows promise
+Myeloma cells stained under the microscope. Photo: myelomapennstate
+Utsav Radia looks at research at Imperial on DTP3’s therapeutic potential
+Graphene sensors used to study brain activity
+It seems there is no limit to the usefulness of graphene.
+In the few short years since its discovery,scientists
+and engineers have come up with countless ways that
+this two-dimensional form of carbon could transform
+our lives: graphene computer chips,graphene solar
+cells,graphene drug delivery systems–even graphene
+condoms.
+A group of researchers at the University of Pennsylvania
+have added to this list by devloping a device which
+could significantly improve our current techniques for
+studying the electrical activity of brain tissue.
+To accurately investigate the cause of certain
+neurological disorders,such as epilepsy,it’s often
+necessary to obtain highly detailed information of the
+locations and electrical activity of individual neurones
+in a patient. This is usually done by placing metallic
+electrodes on the surface of the brain,but these are
+opaque and can obstruct the doctor’s view of the brain
+tissue.
+Using graphene electrodes solves this problem,as
+graphene is so thin that it is completely transparent.
+It's also one of the best conductors we know of,and so
+produces very little noise in the signals received. And,
+unlike metallic electrodes,they have the added benefit
+of being invisible on MRI scans.
+The authors of the paper,published inNature
+Communications,used their device to obtain extremely
+high resolution information on individual cells involved
+in seizures in rats,although it could easily be scaled up
+to look at larger regions of tissue.
+This device could easily be used in implants,not just
+in the brain,but also in to monitor electrical activity
+the peripheral nervous system and the heart.And
+because graphene is extremely inert,these implants
+are expected to last longer than conventional metallic
+ones.
+DOI: 10.1038/ncomms6258
+JAMES BEZER
+Scientists at Imperial, led by
+Professor Guido Franzoso,
+have developed a new drug
+to be used in patients with multiple
+myeloma, a rare type of cancer
+affecting 4,800 new people every year
+in the UK.
+Multiple myeloma results from the
+proliferation of cancerous antibody-
+secreting cells (called neoplastic
+plasma cells) in bone marrow and
+other tissues.
+Physiologically, these plasma cells
+are responsible for synthesising
+protective immunoglobulins (a
+family of proteins that include
+antibodies) in response to a specific
+antigen (which is usually foreign).
+However, in a cancerous state, these
+plasma cells start to secrete lots of
+abnormal (and often immature)
+immunoglobulin molecules, known
+as paraproteins.
+Patients with multiple myeloma
+usually present with bone pain or a
+pathological fracture. Others may
+even present with symptoms of
+blurred vision (that may result from
+hyperviscosity of the blood due to
+high levels of paraprotein), kidney
+damage, anaemia or even infection.
+Interestingly, in the early stages,
+multiple myeloma usually doesn’t
+cause any symptoms and it is usually
+picked up after a routine blood or
+urine test, when the presence of
+the abnormal immunoglobulins is
+detected.
+The clinical and pathological
+features of multiple myeloma are
+mainly due to direct effects of the
+tumour (bone invasion or fractures),
+metabolic effects of the neoplastic
+cells (high plasma uric acid and
+calcium), the damaging effects of
+the paraprotein (such as peripheral
+neuropathy or renal failure) and
+impaired immunity as a result of
+reduced healthy immunoglobulins.
+Currently, multiple myeloma is
+treated with two aims in mind: to help
+to keep the myeloma under control
+and to help with symptom relief.
+Treatment combinations to control
+the myeloma usually consist of three
+classes of drugs: a chemotherapy
+drug (e.g. cyclophosphamide), a
+corticosteroid (e.g. prednisolone) and
+either thalidomide or velcade.
+Unfortunately, often patients tend
+to relapse in which case additional
+anti-myeloma treatments have to be
+given, adding to the plethora of side
+effects that patients experience.
+Researchers at Imperial have
+reported laboratory findings that
+show the new drug, DTP3, kills
+myeloma cells in human cells and
+mice without causing any toxic side
+effects. The drug uses a completely
+different mechanism of action
+compared to other cytotoxic drugs.
+DTP3 targets a biochemical step in
+a process called the NF-kB pathway,
+which is involved in switching off
+the normal cellular mechanisms that
+naturally lead to cell death, hence
+prolonging (cancerous) cell survival.
+Professor Franzoso, lead scientist
+of the study, explained “we had
+known for many years that NF-kB
+is very important for cancer cells,
+but because it is needed by healthy
+cells, we did not know how to block it
+specifically...blocking [this specific]
+pathway with our DTP3...[that]
+selectively kills myeloma cells could
+offer a completely new approach to
+treating patients”.
+Further work is now being done
+to commercialise DTP3 and other
+candidate drugs based on Professor
+Franzoso’s research to ensure the
+quickest and safest way to administer
+this treatment in patients with
+multiple myeloma. A trial of this
+drug, funded by the MRC, US
+National Institutes of Health and
+Cancer Research UK is due to take
+place in late 2015.
+

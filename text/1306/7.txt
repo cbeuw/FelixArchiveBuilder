@@ -1,0 +1,269 @@
+www.felixonline.co.uk
+Felix
+Thursday 18 November 2004 7
+SCIENCE science.felix@ic.ac.uk
+News
+in brief
+UN faces show-
+down on pact to
+ban stem cell study
+Talks at the United Nations
+appear to have failed to avert
+a new UN confrontation over
+a US-led drive to ban all clon-
+ing of human embryos, includ-
+ing for stem cell research. As
+a result, a General Assembly
+panel is headed for a close
+vote next week on a plan for
+an anti-cloning treaty put for-
+ward by the United States
+and Costa Rica.
+Talks on nuke
+fusion plants end
+without decision
+Talks on where to build the
+world’s first nuclear fusion
+reactor ended indecisively,
+while the EU toned down
+threats to site the plant in
+France. Both France and
+Japan remained equal can-
+didates to host the $12 bil-
+lion reactor project. Nuclear
+fusion has been touted as
+a long-term solution to the
+world’s energy problems, as
+it would be low in pollution
+and use limitless sea water
+as fuel.
+Arctic thaw could
+open vast new oil
+and gas region
+An accelerating thaw of the
+Arctic may open vast regions
+for oil and gas exploration,
+but that brings worries of
+spills in the fragile environ-
+ment. Scientists behind an
+eight-nation report, say-
+ing that the Arctic sea ice
+could almost vanish in
+summer by 2100, said
+offshore oil and gas opera-
+tions would be easier but
+melting permafrost could
+destabilize installations on
+land. However, oil companies
+remain unconvinced.
+New UK airport
+scanner undresses
+passengers
+A new X-ray machine at
+London’s Heathrow airport,
+which sees through pas-
+sengers’ clothes, has been
+attacked by civil liberties
+campaigners. The machine
+uses low-level radiation to
+see through clothing, produc-
+ing an anatomically detailed
+black and white image of the
+body underneath. Capable
+of detecting solid objects
+concealed under clothing, it
+started a four month trial in
+October.
+A DAY IN THE DIET OF... Dave Edwards
+Rosie Taylor, Felix Science dietician, evaluates the Felix Editor’s diet
+9am Breakfast is a bowl of Shreddies, with milk. Also a glass of orange juice.
+1pm Lunch from the JCR (a sandwich or the famous cooked breakfast) or maybe a chicken curry with rice if they’re serving
+it at the Union. Throughout the day in my office, I’ll be topping up from the water cooler – perhaps three cups in total.
+7pm For dinner I’ll probably cook something from frozen, maybe chicken or turkey with chips. This will be accompanied
+by canned veg (sweet corn, baked beans etc) or a bag of pre-prepared veg from the fridge. I’ll have a couple of glasses of
+cranberry juice, an apple and a Fruit Corner yogurt. A couple of times a week, I’ll probably eat out and/or share a bottle of
+wine with someone.
+10pm I’ll usually have an evening snack too, perhaps a chocolate mini roll. Actually my current favourite is Cadbury’s white chocolate fingers.
+Rosie Taylor, Felix Science dietician, says...
+Dave starts the day well with a high fibre breakfast cereal. This is filling, and low in calories, not to mention full of nutrients. By including a glass of orange
+juice, he tots up a portion of fruit and vegetables, of which we should all be aiming for five every day. Dave’s lunch varies from a sandwich, to a cooked break-
+fast. The sandwich is likely to be the healthier option. But as he only occasionally has the cooked breakfast, it’s not too much of concern.
+The evening meal is well balanced. Three tablespoons of tinned, frozen or fresh vegetables, including beans, count as a portion towards the five a day. The
+cranberry juice cannot count towards his fruit and vegetable intake since fruit juice can only count once a day, although of course he is still benefiting from the
+vitamins in the juice. The very healthy pudding of yoghurt and a piece of fruit completes his meal.
+Dave says that he sometimes shares a bottle of wine. Current government recommendations advise that we have at least one or two alcohol-free days each
+week to rest the liver, and Dave does well to adhere to this. The evening snack of chocolate, in the context of what is a very well-balanced diet, is perfectly
+acceptable. Overall, Dave’s diet is really very good. He would do well to include some vegetables with his lunch, and an extra piece of fruit as a snack, but
+otherwise, he’s got the balance just right!
+Overall score: 8/10 Fruit and Veg: 4/5
+By Amadeus Stevenson
+Physics department
+Last we looked at software
+vulnerabilities and why you
+should keep your computer
+updated. The Internet Storm
+Centre (ISC) reported recent-
+ly that 20 minutes was all that
+a new un-updated copy of
+Windows XP needs until it is
+taken over with worms, virus-
+es and spyware. Chances are
+that as you are reading this
+your computer will have soft-
+ware surreptitiously using up
+your computer’s resources
+without your knowledge and
+transmitting personal infor-
+mation to a third party.
+What is adware?
+Adware is advertising sup-
+ported software, such as the
+free version of the Opera web
+browser. These rely on show-
+ing the user advertisements
+while the program is running,
+so that the programmers can
+generate revenue to reduce
+the cost of the product, and
+make sure development is
+constant. Some adware con-
+tains code which will collect
+personal information about
+you and send it to a third
+party without your knowledge
+– this is spyware.
+There are varying types
+of spyware, from tracking
+browser ‘cookies’ that record
+which websites you visit and
+pass this information on to
+third parties, which are easy
+to remove, to Browser Helper
+Objects (BHOs). BHOs can
+be very useful (such as the
+Google toolbar), but the spy-
+ware variants can jeopardise
+your privacy and computer
+stability, and are often very
+difficult to remove. Many
+instances of spyware can
+exist on a computer, which
+very often will slow it down to
+a crawl.
+How did it get on my
+computer?
+A lot of spyware comes bun-
+dled with other programs,
+or is ‘needed’ to view cer-
+tain websites – you agree to
+installing it on your computer
+by not reading the small print
+(License Agreement)!
+Some examples include
+Kazaa, Grokster, Weatherbug
+(which installs itself with AOL
+Instant Messenger) and many
+dubious (pornographic or ille-
+gal software) websites which
+will ask you to proceed with
+the installation of ‘required’
+software to view their site. If
+you’ve ever clicked ‘Yes’ with-
+out bothering to read what
+you’re being fed (see article
+pictures) then chances are
+you’ve installed it yourself!
+Other spyware can install
+itself without your help
+thanks to the many vulnera-
+bilities in Microsoft’s Internet
+Explorer. If you use IE and
+don’t update it frequently, you
+are at risk. Many of these
+install attempts branch from
+popups on sites, which is why
+a popup blocker such as the
+one in Google’s toolbar, or
+with the Windows XP Service
+Pack 2, is good idea. Also rec-
+ommended is trying a differ-
+ent browser such as Mozilla’s
+Firefox, which has a built-in
+popup blocker and far fewer
+security holes.
+How can I get rid of it?
+Luckily there exist some
+excellent programs to clean
+up your computer if you are
+infected, or suspect you are.
+With many things like this
+(viruses), the best way to get
+rid of them is to prevent them
+happening in the first place.
+What will it do?
+Spyware, when present in
+multiple instances, will use
+up your system resources
+(CPU, memory and network
+bandwidth) and can slow your
+computer significantly down.
+The worst kind of spyware is
+similar to a Trojan horse, in
+that it will capture informa-
+tion as you type it, such as
+credit card details and pass-
+words, and send this on to
+someone else who will use
+this information.
+Is spyware illegal?
+In October 2004 the US House
+of Representatives (joint
+Senate and Congress) ratified
+the ‘Spy Act’ and ‘Internet
+Spyware Prevention Act’
+which impose heavy fines and
+jail terms of up to five years
+for individuals using spyware
+to gather information for
+criminal purposes.
+Unfortunately implement-
+ing these laws will take time,
+and as we have seen from
+the recent ‘CAN-SPAM Act’,
+passed to reduce the amount
+of spam, or junk email, we
+receive, it may not have a big
+impact on the day to day prob-
+lems we have with spyware.
+As we saw with vulnerabili-
+ties two weeks ago, Microsoft
+Windows systems seem to be
+much more affected by spy-
+ware than Mac/Linux/BSD
+equivalents. Try a different
+browser to Internet Explorer,
+add this to the measures on
+the left and you should be fine
+for using the internet without
+too many worries.
+Watching your every move on the internet
+Recent reports show that 80-90% of computers are infected with spyware.
+Here’s the lowdown for your questions and the downloads you need
+Symptoms of spyware
+● Getting unrelated popups when browsing or
+even when not browsing
+● Computer slowing to a crawl? Spyware takes
+up CPU cycles
+● Web searches redirected top another engine
+● Start page won’t budge! Can’t change your
+start page from something you don’t want?
+How to get rid of spyware
+● Ad-aware personal, popular and thorough free
+spyware scanner and remover:
+http://www.lavasoftusa.com/support/download/
+● SpyBot Search and Destroy: http://spybot.
+safer-networking.de/en/download/index.html
+● Hiijack This! Removes BHOs which the above
+programs may not. Use with caution: http://www.
+spywareinfo.com/~merijn/downloads.html
+

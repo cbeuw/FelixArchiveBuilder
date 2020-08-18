@@ -1,0 +1,151 @@
+7 February 2000 • Felix Business 9
+I n d u s t r i a l S t r e n g t h
+I n t e r n e t t i n g
+B a s h a r i B a k a r i
+This new, new thing (as Michael Lewis calls the
+internet) really is a boon to technically minded peo-
+ple. Now, I don't want to turn off half my audience
+who are not computer scientists or electrical engi-
+neers. The whole point is that as we turn from pure
+technology to business, IC undergrads are better
+qualified than the vast majority of current e-practi-
+tioners. Most of the articles that are written on e-
+commerce focus on heart warming stories of a per-
+son overcoming the odds and becoming paper rich
+on the Initial Public Offering (IPO). I don't see any
+reason why e-businesses should not be subjected to
+the same kind of rational analysis that any other
+kind of business would be subjected to. I will not
+claim that my knowledge is in any way comprehen-
+sive but at least it will be more useful than some of
+the mind candy that is passing as analysis.
+Have you noticed how many of the new e-
+commerce sites are not doing anything fundamen-
+tally new, but just doing an online version of an
+offline business? There is nothing inherently wrong
+with that - the driving force behind business is not
+originality but the bottom line. With that being the
+case, it is useful to compare the offline and online
+sectors of similar businesses. As most e-commerce
+sites are just retailers, it is useful to compare them
+to their offline brethren.
+In 1998, an estimated £194bn was spent in
+the high street, while nearly £2bn was spent on e-
+commerce. So it is with this background that you
+can judge all the adverts for new web sites. As e-
+spending grows from this miniscule 1% of our
+spending, they know that if they hang on to our
+attention for the next couple of years and retain
+market share, they will become the Boots, Argos or
+WHSmith of the internet.
+Profit is equal to revenue minus costs. This sim-
+ple little equation always comes in handy when you
+are required to do a business case study, as seems
+to be de riguer when applying for a job these days.
+So why are the vast majority of web based busi-
+nesses losing money? Surely, the whole point of
+backing a company is that you expect to receive
+profits in the form of dividends? This basic business
+requirement is being forgotten for the meantime, as
+investors are willing to suspend their caution in the
+hope that their business will be one of the big boys
+left when e-commerce has reached its saturation
+level. (It's also very helpful if the rest of the investing
+community are similarly willing to suspend their
+judgement as well, and allow you to make large
+capital gains with your shares in loss making ven-
+tures)
+The reason that they are making losses is that,
+as everyone knows, surfers don't go to sites that are
+actually advertised on the web. You need heavy
+offline advertising to reach that critical mass that is
+so crucial to the success of any web business. For
+instance, I've never been to the lastminute.com web
+site, and I don't have any intention to for a long time
+yet. But inevitably, I have seen their advertising on
+the side of the buses running up and down Kens-
+ington High Street.
+The other side of this particular aspect is that
+barriers to entry for web based businesses are
+famously low. You can run a state of the art web site
+circa 1993 (ie. static web pages) for about as much
+effort as writing this article. The next step up is to
+usefully process the information that surfers give, so
+that they can actually order that widget. This
+involves shoving a database on the back end of
+your web site, by either a) finding an ISP that can
+handle this or b) shelling out on a leased line to
+house your own computer. Then you have to think
+about the questions that are bread and butter to
+computer scientists, such as what is your data
+model, what legal transactions are valid, and what
+kind of web forms you'll use for transactions. Now,
+this is more than a case of just fancy graphics. You
+are now facing the questions that PC manufactur-
+ers faced when they developed the first Graphical
+User Interfaces for PCs. These are issues that the
+larger US web companies confronted a few years
+ago. For instance, you can trade shares in two
+clicks in e'trade once you've registered. Having
+said that, the key to web development is speed. The
+specifications of web browsers are being updated
+continuously, so it is more important to have mag-
+net content that will bring users back time and
+again, rather than employing the latest gimmickry.
+Which brings out another aspect of web based
+businesses. In essence, web sites are publishing
+business. Granted they have features unlike any
+previous publishing enterprises, but nevertheless
+publishing businesses they are. The one thing that
+kills a site more quickly than anything else is stale
+information. Thafs why the e-tailers are suited to the
+web, because once you have the data model
+implemented, you can leave it up to the database
+and your surfers to provide up to date information.
+Ifs what has been called the stick and cauldron
+phenomenon. You provide the stick and the caul-
+dron for preparing a meal and you leave it up to
+your guests to bring the vegetables and the meat
+for the feast, thereby saving you most of the work.
+This publishing aspect also acts as a barrier
+and a differentiator between the online sites and
+there offline cousins. You can build a community
+feel around your site, and have much more infor-
+mation about your users than even supermarkets
+can dream of. So, even when your offline competi-
+tors move online, as they inevitably will, users are
+used to your site.
+It is interesting to note that the company that
+kicked off the whole internet shebang in its current
+form, Netscape, was swallowed whole by AOL.
+Which begs the question: what is more important
+for internet success - knowledge of the technology,
+or knowledge of the customer?. Steve Case got his
+business training as a marketing manager with
+Proctor & Gamble (as did Stephen Ballmer, the
+Microsoft C E O , incidentally). This is quite interest-
+ing, as P&G has over a century of experience of
+marketing to Joe Public, and spends more in doing
+so (about $200m around the globe) than any other
+company on earth. This marketing know how crops
+up again and again in some of the biggest internet
+companies. The heads of ebay and etoys are both
+ex-Disney acolytes, for instance.
+Finally, take the case of last orders.com. This
+business was launched last October and just sells
+booze, delivering to you if you are within the M25.
+Before a bottle was even drunk, the company was
+valued at ElOOm pounds. Firstly, I would suggest
+that you mistrust journalists valuations of e-busi-
+nesses, because if you carefully watch the headline
+figure that is quoted and the quoted figures a few
+months later it is invariably different. What is essen-
+tially taking the place of the corner shop is valued
+at such a ludicrous amount because the financiers
+were backing the management team as much as
+the idea.
+Watch this space as I hope to get a scoop on
+a pre-lPO straight technology company and one of
+the biggest European internet companies. Email
+you comments to b.bakari@ic.ac.uk
+

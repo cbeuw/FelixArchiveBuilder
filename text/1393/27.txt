@@ -1,0 +1,266 @@
+games.felix@imperial.ac.uk
+28 felix Friday 25 January 2008
+Games
+Games Editors – Azfarul Islam and Sebastian Nordgren
+Sebastian Nordgren
+Games Editor
+G
+reetings, fine folk of
+Imperial! You may not
+know me, though my
+name has graced the top
+row of this page for the
+entirety of the year, and so I feel intro-
+ductions are in order. I am the mysteri-
+ous Sebastian Nordgren, and though I
+have not addressed you directly before,
+that is an imbalance that I hope to cor-
+rect during the remainder of the year.
+This week, we find ourselves firmly
+in the middle of the post-Christmas
+dry spell, with most holiday releases
+already played through during the hol-
+idays and nary a worthy title coming
+out in a long time. In other words, the
+perfect time to dig into those game col-
+lections and uncover a forgotten gem.
+Recently, I did exactly that and found,
+buried under too many sequels and
+mediocre games, a great game indeed:
+System Shock 2.
+It was a game that I remember
+well from the time before ESRB rat-
+ings, playing it as a mere 14-year old
+(against all industry recommendations
+to the contrary). I remember delving
+into the world, progressing further
+and further into the ship – and as the
+ambient noises of monsters unknown
+got louder and more terrifying, I finally
+caved in and set it aside to gather dust
+until I become more courageous. So it
+was with great excitement that I played
+through the game for the first time,
+enjoying the experience thoroughly.
+Most interesting, though, was having
+played it only shortly after finishing Bi-
+oShock, a bonafide spiritual successor
+to the System Shock series.
+And with this experience still fresh
+in my mind, this week we bring you
+a roundup of the most well-known
+spiritual successors of recent times,
+making our English teachers proud by
+comparing and contrasting the original
+and the successor. Though the quality
+of these successors varies across the
+board, and the links are sometimes
+tenuous from one to the other – I for
+one am glad that good game concepts
+don’t get completely lost in the quag-
+mires of intellectual property laws.
+This week in Byte we also bring you
+two very different rhythm games, the
+electronic and rather psychaedelic
+Synaesthete; and the thoroughly rock
+Frets on Fire. Both require a bit more
+than a browser to get working, but all
+but the most rhythmically challenged
+among you should put in the effort and
+give them a twirl. It’s refreshing to see
+that the rhythm genre has branched so
+far from its popular origins in Dance
+Dance Revolution.
+Going with the succession theme,
+we’ve decided to talk some smack
+to counteract the love. That’s right:
+Flamebait is back and this time it’s
+Samir Talwar who’s drawn his katana
+and prepared to make sushi out of
+sequels that have almost driven great
+franchises to te ground. That’s the se-
+cret behind a trilogy: the third game
+needs to be the saviour.
+I hope you enjoy the issue! As always,
+please feel free to mail your musings to
+felix.games@imperial.ac.uk.
+This
+Week
+Burn under our fiery gaze
+Flamebait: More is less
+Samir Talwar runs over sequels and then doubles back to make sure they’re dead
+P
+layed a sequel lately? I have,
+andI’mbitter.It’slikereturn-
+ing to a theme park: you’re
+full of wide-eyed wonder as
+you walk in, but you soon
+realise you’ve seen it all before, the
+queues are longer and the rides aren’t
+as fun as they were last time around.
+Add to the fact that at some point a
+fifteen-year old ape-child with far too
+many spots will step on your foot and
+crush three bones, and a little girl will
+drop her ice cream on you and then
+start howling as if it’s your fault, and
+you may as well have stayed at home.
+Frickin’ kids...
+ButIdigress.Onlyslightly,ofcourse...
+many sequels do make you feel like this.
+Metal Gear Solid 2 springs to mind, in-
+troducing perhaps the most hated pro-
+tagonist since Macbeth (who spends
+far too much time running around sans
+undergarments), a story more confus-
+ing and boring than my ex-girlfriend,
+completely disregarding my preferred
+ending to the first game and adding
+cut-scenes as if removing the gameplay
+for far too long will make it all better.
+Thankfully, I still had the first game, so
+after forcing myself through the second
+out of sheer loyalty (read: stupidity) to
+Hideo Kojima’s genius, I sacrificed it to
+the heathen Gods, stuck the battered
+disc of the original into my PlayStation
+and purified my soul.
+It may interest you to know (or not...
+to be honest, I don’t care) that Deus
+Ex: Invisible War is the sequel to my
+favourite game. It got glowing reviews
+and was generally regarded as a must-
+buy... unless you played the prequel.
+The reason? While it’s good, the first
+one was better. The story was more en-
+gaging, the weapons and gizmos were
+a damn sight cooler and to be honest,
+the game was just more fun. But why?
+Surely the design team, with a big-
+ger budget, more staff and a loyal fan
+base, have all the right wooden blocks
+in their slots? Not only that, but with
+a killer game under their belt, cod-
+ers, artists and lackeys a-plenty were
+clamouring to work for them... so what
+went wrong?
+Everything, apparently. The design-
+ers suffered from visionary conflicts,
+which is basically a fancy way of say-
+ing they argued a lot and generally the
+idiots won. In addition, the program-
+mers were no doubt missing a few
+bolts, choosing to develop a game that
+barely worked on the Xbox and assum-
+ing it would run amazingly on the PC
+without any real work at all. The result
+was a half-finished product that, in
+comparison to its big brother, looked
+like it had been run through the Tex-
+ture Crippler a few too many times and
+played about as well as a three-legged
+dog with no lungs.
+There are many problems that plague
+any developer looking to make a few
+quid quickly and quietly by creating
+sequels. A huge one is a lack of moti-
+vation, often brought on by the parent
+company (we love you really, EA) bully-
+ing their friendly neighbourhood sub-
+sidiaries into milking the public for all
+they’re worth, but it’s definitely not the
+only one. It’s hard to create something
+fresh and exciting while still staying
+true to the original game’s roots – just
+ask Nintendo what the hell they were
+thinking of when they released Super
+Mario Bros 2: The Vegetable Throwing
+Contest. Often, designers will attempt
+to bring in new features – such as the
+3D environment in the case of Worms
+3D – even if it actually worsens the
+gameplay.
+Sequels don’t just have to be good. As
+Deus Ex proved, they need to be bet-
+ter than the original, or you’ve wasted
+your time. Valve figured this one out
+with their Half-Life series: they beefed
+up the graphics tremendously, tweaked
+the gameplay just enough to keep it
+fresh without ruining everyone’s per-
+ception of the first game and added a
+cool new widget that blows stuff up in
+style. The only problem was that god-
+damn Steam thingy that refuses to let
+me play until I’ve given it my credit
+card and let it fondle me a little, but
+it seems to be getting slightly better
+(though not faster – it’s still a pig on
+older systems) with every iteration.
+A bit of research (or searching on
+Wikipedia, which passes for research as
+far as my assignments are concerned)
+shows that Halo 2 came out just a week
+before Half-Life 2. Now there’s some
+polar opposites if I ever saw them:
+while both were big successes based
+almost solely on their prequels, Half-
+Life 2 was brilliant in every way. Not
+so much for Halo... while many think
+the multiplayer far surpasses the first
+game, for many, the single-player was
+the reason they bought it. Of course,
+their expectations were dashed when
+they found out Bungie had been snort-
+ing crack until the last possible second
+and then thrown in what amounts to
+long, drawn out bullshit scattered
+across a dark room so you can’t see it
+(or anything else) clearly... which in-
+cidentally was what a lot of the levels
+were like. There were good moments...
+and then you had to shoot yet another
+grunt who got too happy and started
+firing his pistol at his partner like a
+trigger-happy US marine. Moments of
+real action were few and far between,
+with most of the game following the
+exact same story arc as the first game
+but with less actual plot and more
+funny-shaped aliens with big heads
+and annoying voices. To this day, I still
+don’t know what the game was about,
+but I’m going to assume it’s not worth
+playing again to find out.
+Thinking about it while my subcon-
+scious rattles off a list of reasons why
+you’re wrong and I’m right, there is
+one reason above any other why se-
+quels have a tendency to fail: it’s your
+own nostalgic brain. Your memory has
+finite space, and is much better at stor-
+ing those moments you really treasure,
+as opposed to the ones where you were
+pretty much indifferent to the entire
+situation.
+As such, if you liked a game when
+you were seven years old, there’s a
+high probability you’re looking back
+on it fondly right at this moment...
+apologies for bursting your bubble, but
+Double Dragon really wasn’t that good
+compared to its younger siblings. Go
+back and play it, assuming you can find
+that bloody NES – it may still retain
+its charm and revel in its glory as your
+love for it blossoms... but on the other
+hand, it may tank under your petrify-
+ing stare as you realise that even Peg-
+gle gloriously storms past it in the Fun
+charts.
+I wonder if the BBFC actually played the game before deeming it a 15
+Deus Ex: The Invisible War – bigger, prettier... but better?
+NFS has made visual strides since NFSIII (‘98); gameplay, not so much
+Colossal successor
+Shock therapy Total commander
+

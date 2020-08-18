@@ -1,0 +1,314 @@
+12 Interview Felix • 15 December 1999
+The Billion
+So you've got your killer internet idea - how do you go about turning that into cash?
+company into a billion dollar business in under twenty years. In a world exclusive,
+What is your vision for Psion?
+The core answer to your question is this: if you
+were an artist in the 1870s then I would say
+you better get yourself to Paris, and get
+involved with what was going on in the
+Impressionist School. There is a time and
+place where human activity in certain areas
+takes off. In Theoretical Physics, the era
+between 1 899 and 1 939 was incredibly fertile
+in Europe (in Germany, Britain and Denmark
+particularly). In my time, this area of micro-
+computers is changing the world. Its perhaps
+one of the most profound revolutions in
+human history. Like the Iron Age or the Indus-
+trial Revolution - perhaps more so even. I
+wanted to be involved in that because it's fun
+creating the world, changing the world, being
+at the forefront'
+One of things that you've managed to do suc-
+cessfully is to run a public company. This is
+something that is harder that it sounds, partic-
+ularly for people who found and run their own
+companies. For instance, Richard Branson
+famously withdrew his Virgin Group from the
+stockmarket. It is even more difficult for tech-
+nology stocks, where development and market
+forces can change so rapidly. How have you
+managed to do this with a company where
+software development has been at the core of
+your business?
+I wouldn't say that's true anymore. It has been
+a core theme, but the company is much
+broader now. It's got a whole range of activi-
+ties. I would say that the core behind the com-
+pany now is innovation. We are an innovation
+company, where we combine our understand-
+ing of this technology in the future with market
+needs as they are going to be in the future
+and bring thing this together. We are market-
+ing technology and we use software, design
+and engineering. And we outsource many of
+these things as well. So the core competency
+is technology marketing.
+You mentioned that there is a time and a
+place for certain things in history. Do you
+think that the fortunes of Psion would have
+been greater if you had re-located Psion to the
+Western United States. Because of the other
+Companies that are there, which you would
+be feeding off, and also because of the mas-
+sive amount of capital that you would be able
+to attract, wouldn't it be a better place to be?
+I don't think that's true today. I don't think that
+capital is an impediment. There is a pool of
+availability of capital. That could have been a
+factor twenty years ago - certainly in the early
+80s the availability of capital was very limited.
+I think that the answer to your question is yes,
+and I did contemplate relocating to Silicon
+Valley or the San Francisco area. Actually, I
+spend a lot of time there - that was were it
+kind of came from, because I was living and
+working in Los Angeles, and I was up in San
+Francisco a lot of the time, so there is an
+involvement there, too. But it is true that if
+Psion had been located there I think that it
+would have been an easier journey for us to
+travel.
+On the other hand, there are very Euro-
+pean aspects to consider. There is no reason
+today why these things can't be done in
+Europe. There is the infrastructure that's here,
+there's the capital, there's a lot of very educat-
+ed, creative people capable of delivering
+what's required - but they don't. I think part of
+the reason why they don't is because in Europe
+we are less excited and interested in the
+future. There is too much looking back over
+our shoulders. There is too much interest in
+heritage. There are people like Simon Jenkins,
+for example, who write all over the place and
+live in an Old Men's Club somewhere and
+look back at some kind of golden, historic era
+of Victorian England. So there is a lot of that.
+I mean, I myself like to look forward I suppose
+that is why came into this business. And Amer-
+icans are terribly excited by the future and cre-
+ating the future. So yes why aren't there more
+European companies. One of the things I like
+to talk about is trying to encourage the young
+entrepreneurs, young business people, stu-
+dents, whatever. The opportunities are terrific
+- you just have to go out there and believe
+that you can do it.
+Now it's an interesting question, this ques-
+tion about Silicon Valley and about location.
+One of the things that our industry is
+about is facilitating. Computers, communica-
+tion, the internet and so on is the death of dis-
+tance, so I throw it back to you, does it matter
+whether you're in San Jose or London or
+Taipei, now that the world's kind of collapsed
+into the global village? I think it does to an
+extent - I only wished that we galvanised our-
+selves in Europe to participate in the industries
+of the future. I spend a lot of time persuading
+government - for example, I'm on various gov-
+ernment committees trying to encourage this,
+and I sit on the council of Science and Tech-
+nology, which reports to the Cabinet. I guess
+one of the things that I particular care about is
+what are the policies and actions - things that
+government can do to facilitate this interest in
+Science and Technology, and the creation of
+new enterprises rather than the retention of
+old ones.
+For instance, this summer the Cabinet pub-
+lished it's e-commerce report. E-commerce is
+an exciting area, where a lot of people can
+see the potential of the numbers and a lot of
+people haven't figured out how to make a
+profit out of it. The current strategy seems to
+be playing the numbers game. For instance,
+the company everyone knows is Freeserve. It
+started off and after 9 months they had about
+a million people registered on their website.
+But when you sit down and look at the num-
+bers, you see that something doesn't quite
+add up: it had a turnover of 2 million and a
+loss of 1 million. Yet it was valued at nearly 2
+billion pounds? Now, your new company Sym-
+bian is in this industry, in the sense that is in
+the communications arena. What are your
+views on the opportunities?
+I think that Symbian is potentially in one of the
+most important spaces, by which I mean eco-
+nomic market spaces that are going to evolve.
+And that's why there is a lot of interest in it.
+What Symbian will facilitate is wireless mobile
+access to the internet. And it looks like it could
+end up with some of the core software tech-
+nology that is going to facilitate it. So yes, we
+are always moving and we have to keep mov-
+ing on. If we stop moving the terms of our per-
+ception and thinking and so on then that's bad
+news.
+Psion has also got very high values and a
+lot of that can be associated with Symbian.
+We're valued at something over a billion
+pounds - but we are a very different animal
+from the likes of Freeserve. We've actually got
+a long track record of creating products - sue-
+15 December 1999 * Felix interview fly
+Dollar Doc
+You wouldn't go far wrong listening to David Potter, the man who has turned his
+Felix managed to get an interview with him just before the recent COMDEX show
+cessful, profitable and cashflow generating
+products. Almost all of our capital, assets and
+cashflow come from retained profits, not from
+flotations raising vast quantities of money.
+Now, I have to express serious doubt about
+the valuations being put on some of these very
+young start-up ventures, often where the busi-
+ness model is unknown. In the case of Sym-
+bian, there is core technology which has enor-
+mous potential value. Even if it's successful,
+there are still questions about who will win in
+that space. Some people think it will be
+Microsoft. I don't think so, but the game's not
+played yet. What it does have is good core
+technology to go with a huge customer base
+to deliver that, because of all the cellular
+mobile phone companies. So that's kind of
+real.
+Everybody is doing a dot com company.
+Actually, what I would point out to you is the
+following - this demonstrates that the eco-
+nomic system is very healthy. And I'll tell you
+why - it's only fairly recently (over the past few
+years) that the investing institutions, fund man-
+agers, pension companies, and insurance
+companies (who have to think in the long-term
+in terms of financial assets) suddenly began to
+wake up and realise that the internet, not to
+mention technology as a whole, was going to
+play a very important role in the future econ-
+omy of the world.
+So, the trustees and fund managers and
+institutions developed policy saying that this is
+going to become huge. We have to invest in
+it. It has to be part of our portfolio. And we
+therefore need our portfolio to have x percent
+involved in high technology and internet
+stocks. So they then said to their fund man-
+agers 'go out and make that happen'. The
+fund managers went out, looked for the stuff
+and they couldn't find enough of it. Now some
+of the first laws of economics tell you that if
+there is very high demand for something and
+not enough supply the price goes up. So what
+you have is absurdly high pricing of all man-
+ner of potential companies in that area.
+Which of course is totally unfounded. It's daft,
+and a lot of money is going to be lost there.
+However, think about it from an economic
+point of view. By putting the price of these
+potential investments so high, it's attracting
+resources - people, money, capital, develop-
+ment staff, management, etc - into those very
+areas to develop that industry. And so the eco-
+nomic system is just doing it's job. Unfortu-
+nately, a lot of investors are going to lose a lot
+of money in about two years time (or whenev-
+er), when the supply of new e-commerce com-
+panies and investments swamps demand. And
+then I leave it to you to figure out what is
+going to happen, the price is going to fall and
+you can then begin to get a balance over a
+period of time. This is actually what is going
+on. The valuations of some of these invest-
+ments is absurd. With these new one and two
+year start-ups, there is no knowledge as to
+whether they have a business model or not.
+And so a lot of money is going to be lost - but
+some of those companies will succeed.
+What are your views on the transfer between
+universities and start-up companies? It seems
+much better now than it was at the time you
+were at Imperial. So in fact there are no real
+barriers anymore - the infrastructure,
+resources, capital, and people are available.
+So, do people just need to have the drive, if
+they actually believe that there business idea
+has the potential?
+I think that is correct and I think that these are
+cultural attitudes. More and more people are
+kind of interested and they do want to partici-
+pate in this new world. Of course, it's not just
+information technology - if you take biotech-
+nology there are huge opportunities there,
+and the same is true in many other areas. So
+yes, I think that the universities are striving for
+better practice, and some of them are suc-
+ceeding well - and others are fuddy-duddy
+and slow.
+Now there are three areas that I would
+criticise in the university environment. One is
+that universities can be very slow to respond to
+employment needs and to new disciplines. So
+we don't have anything like the number of
+departments and resources and staff required
+to train people in software, for example. It's a
+huge area, and it's very exciting. There are
+new ideas about information and artificial
+intelligence and the brain, both human and
+artificial, and it's psychology. There's a whole
+bunch of areas that are coming together and
+we are very backward - our universities
+respond very slowly to external demands and I
+think that's a fundamental problem.
+The second problem with our universities
+is that we have got an increasingly unitary sys-
+tem. By unitary I mean a single type of institu-
+tion that has been created. That's very bad.
+We need diversity among our institutions,
+instead of all of them copying each other.
+The third element which I would say is
+there as well is that there can be, there has
+been historically, a division in British culture
+between what I'll call 'pure science' and appli-
+cation. There is a prejudice against the ideas
+and applications of men and women in sci-
+ence. As opposed to God's ideas...
+Such as the basic laws of physics?
+There is an attitude there which says that the
+pursuit of science for it's own sake is good. Yet
+the pursuit of the application of science and
+technology is somehow bad. We don't value it
+in the same way as Americans do. Engineering
+disciplines, applications of whatever kind,
+software...these are considered lesser kind of
+subjects. And I illustrate that by saying that the
+science lobby in Britain is enormously strong
+and has great influence. But we don't have
+proper institutions, or any kind of lobby, in
+applications and technology, and we are very
+weak. And that's what differs between us and
+the America.
+Do you have an example of that kind of lobby
+in America?
+Well it's everywhere. You've got to kind of look
+at the infrastructure. The influence of the
+semiconductor manufacturers on the universi-
+ties and on government is substantial.
+Indeed, when faced with a crisis from the
+Japanese 1 0 or 1 2 years ago, there was great
+support from the government. Look at MIT
+and it's Media Lab and all that's going on.
+That is another example where people are
+really interested... I mean MIT is one of the
+great universities of the world, so is Stanford.
+And they are massively involved in these new
+disciplines. It's difficult to find many British
+universities who are... There's nothing equiva-
+lent to the likes of MIT or, for that matter,
+Austen, Texas. So it's just not networked
+through the universities and government and
+business in the same kind of way. It's a cultur-
+al issue.
+

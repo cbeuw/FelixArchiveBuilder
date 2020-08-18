@@ -1,0 +1,253 @@
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+25
+felix FRIDAY 19 MARCH 2010
+The Touchscreen Patent Wars
+Simon Worthington looks at the broken world of international patent law as Apple and
+HTC fight over Google’s Android operating system and it’s use of a touch screen interface
+O
+n March 2nd, Apple Inc.
+filed a suit against mobile
+phone manufacturer HTC
+in which they claimed ten
+of their patents relating to mobile de-
+vices had been infringed. The case cov-
+ers nearly every Android-based phone
+that HTC manufactures, including the
+new Google-endorsed Nexus One and
+the T-Mobile G1. If the case is success-
+ful, HTC may have to pay damages to
+Apple and could be banned from sell-
+ing any of the offending phones in the
+US. The suit was brought to the Dela-
+ware State Courts in the US, partly be-
+cause this claim would not be admiss-
+able in other regions such as the EU.
+The patents in question refer to por-
+tions of mobile phone design which
+Apple pioneered with the iPhone, with
+most specifically to do with touch-
+screen technology. The way a user’s
+finger can slide a list and the ‘pinch-
+to-zoom’ feature are amongst the con-
+cepts covered but without any specific
+detail about how these features should
+be implemented. This means that any
+device which makes use of a finger to
+move up and down a window would
+technically be covered by Apple’s pat-
+ent. These ideas are so blindingly obvi-
+ous and fundamental to touch screen
+design that it’s hard to think they could
+even really be classed as ‘inventions’.
+Apple are not however completely to
+blame, as in some way they are ‘vic-
+tims’ (if you could call them that) of a
+broken patent law system.
+In the US, software patents are grant-
+ed for almost any new concept or idea
+in the software world. The point about
+patents is that you are only meant to
+be able to patent actual implementa-
+tions of an idea meaning only a par-
+ticular system of components would
+be covered by it. However, the patents
+granted to Apple, and many other
+software com-
+panies be-
+sides, are so general as to cover any im-
+plementation where the system could
+be used. For example, the patent for
+list scrolling covers any touch screen
+device that has a processor, memory
+and is trying to move or resize a docu-
+ment or window. It’s hard to think of a
+situation where a touch-sensitive ma-
+chine would be trying to move a win-
+dow without a processor, so this is so
+general as to cover any touch screen
+device invented. This means that any
+device which does this, violates Apple’s
+patent.
+The objection to situations like this
+is that patents should not cover in-
+ventions that many people could eas-
+ily create independently of each other
+and should not impede development
+of ideas, like the list scrolling example
+above. Clearly though, software pat-
+ents can and do protect some genu-
+inely good and useful ideas, such as
+security or cryptographic concepts
+that took a lot of work to create. The
+line between trivial and non-trivial
+software inventions is not universally
+agreed upon, being drawn in different
+places in different countries. The US
+system is notoriously lenient on how
+original or obvious the new software
+design needs to be.
+What this leads to is companies ap-
+plying for as many patents as they can
+for ideas that are as general as they
+can get away with, effectively buying
+up patent ‘real estate’ for their own
+use. Obviously, this can lead to prob-
+lems with one company owning
+some pieces of a design
+and another company
+owning the rest,
+meaning that no-
+one has enough
+patents to make a
+finished product with-
+out licencing. As this is
+clearly ri-
+diculous, there seems to have been a
+‘gentlemen’s agreement’ between the
+big mobile companies over the past
+few years, creating a ‘don’t sue me and
+I won’t sue you’ situation. As long as
+no-one sues anyone else the system
+works, because the companies know it
+only takes a court case for one patent
+to open the floodgates for themselves
+to be hit by a load of litigation in retali-
+ation. So why has Apple now decided
+to break this unwritten rule?
+Earlier this February, Google ena-
+bled ‘pinch-to-zoom’, a feature that the
+iPhone is famous for, on some of its
+newer Android phones including the
+Nexus One. This is technically in viola-
+tion of one of Apple’s software patents
+mentioned earlier, and this time Apple
+have decided to sue. HTC are liable be-
+cause even though they don’t make the
+software they do manufacture and sell
+the phone, and so are responsible for
+its features. It may be that Apple is try-
+ing to indirectly harm Google, who is
+now beginning to be seen as a serious
+competitor, by stifling its phone busi-
+ness in the US. Compared to other in-
+dustry leaders like Microsoft or Nokia,
+Google and HTC have relatively few
+software patents relevant to Apple’s
+business and so are limiting the dam-
+age that any return litigation can do to
+them via the same method.
+Some commentators have also sug-
+gested that Apple may have taken the
+adaption of its original ideas by Google
+and HTC personally. It’s impossible
+to deny that the iPhone was a revolu-
+tion in mobile design. Most phones
+up to that point had relied on a hard
+keyboard, navigation keys and a sty-
+lus. Apple pioneered many new ideas
+that have been universally taken up by
+almost all other touch-screen phone
+manufacturers. Some have suggested
+the powers that be at Apple are dis-
+gruntled at working hard to create this
+‘design revolution’ and seeing
+others reap the rewards. Is Ap-
+ple simply frus- trated
+I
+t’s been a short week for technol-
+ogy here at the felix towers and
+as such we haven’t got a Weekly
+Wrap-Up for you, sorry. But Si-
+mon this week has a good look into
+what’s going on with what could be the
+start of the Touchscreen Patent Wars
+(you heard it here first folks). Apple
+Vs. HTC, which is actually Apple Vs.
+Google with HTC caught in the cross-
+fire, in a fight over touchscreen inter-
+action patents. Messy stuff, but check
+out the article on your left for the in-
+side scoop.
+Apple’s iPad went up for pre-order
+this week in the US, with some 50-
+90,000 rumoured to have been bought.
+Apple’s already warned people in-store
+that there’s going to a shortage of the
+fabled tablet when it launches on the
+3rd of April. Of course in the UK, we’re
+going to have to wait till ‘late April’ be-
+fore fanboys can rush to the church of
+Apple and get their grubby mitts on it.
+Will it be a run-away success? Well if
+pre-orders are anything to go by, it’s
+going to be at least as successful as the
+original iPhone launch.
+Support documents, that went live
+this week, also showed that the iPad is
+treated a little differently by Apple than
+it’s staple, the iPhone. When your iPad
+battery needs replacing $50 will buy you
+not only a new iPad battery but a whole
+new iPad. Deal of a century if you ask me,
+but then again it’s unlikely to be a new
+‘off the shelf’ variety and more likely a re-
+furbished unit. Nothing to sniff at mind
+you, because by the time your battery
+is getting tired, so too is the rest of the
+device. Gone will be that perfect fin-
+ish and ‘Apple lustre’; so getting all
+that back and a new battery for $50
+sounds great to me. Now all I have
+to do is figure out wether an iPad re-
+ally has a future in my device port-
+folio. Not convinced myself, yet.
+that their key design has been copied?
+You have to wonder though if they
+could really be so naїve as to think
+that creating such an original device
+wouldn’t set new standards in phone
+design.
+You’ve also got to wonder how Ap-
+ple think winning this case could pos-
+sibly help them. Ignoring the fact that
+this is really bad publicity that could
+result in a consumer backlash, it’s very
+unlikely that Google will simply walk
+away from this case and leave the mo-
+bile market altogether. The more likely
+situation is that they’ll go back to the
+drawing board and keep working until
+they come up with ideas that are even
+more revolutionary than the iPhone.
+You can bet your bottom dollar that
+whatever they come up with they won’t
+be willing to share with Apple. Does
+Apple really think that it’s the only one
+who can come up with new ideas?
+The natural extension of behaviour
+like this is that everyone keeps their
+new patents and technologies to them-
+selves. It’s ridiculous to think that the
+next generation of iPods or Zunes
+could end up with fewer features than
+their predecessors because everyone is
+so scared of violating patent law and
+unwilling to pay huge licence fees. This
+just stifles innovation and sets back
+progress on mobile technology. Plus,
+all these suits cost money and eventu-
+ally that cost has to pass on to the con-
+sumers. If Apple really care about the
+mobile device marketplace (and they
+should, because it makes up a large ma-
+jority of their income) then they should
+do the intelligent thing and drop the
+suit, using the money they would have
+spent
+Samuel Gibbs
+Samuel Gibbs Technology Editor
+

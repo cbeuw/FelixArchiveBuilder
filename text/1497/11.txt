@@ -1,0 +1,220 @@
+SCIENCE
+FELIX 11
+Friday 14 october 2011
+Are particles self aware?
+We all think we know what Browni-
+an motion is. It is the way physicists
+describe the motion of fluids like
+air and smoke in which the particles
+moves about, seemingly at random,
+and diffuse throughout a volume.
+However, by looking at the micro-
+scopic scale where the particles in-
+teract, scientists have found a new
+phenomenon.
+Firstly there are two governing forc-
+es used to explain Brownian motion,
+which are ever competing for control.
+The collisions with surrounding mol-
+ecules transfer momentum and this is
+known as ‘thermal noise’. Assumed
+to be random, it is characterized by
+a white noise spectrum, which re-
+ally means that the power (or in this
+case collisions) contain equal strength
+within a fixed bandwidth about a cen-
+tre frequency. In the white noise spec-
+trum (shown right), there are random
+peaks over all frequencies without
+clear correlation.
+The second force is the viscous
+friction between the particles and
+the solvent. In the case of smoke,
+as the smoke particles diffuse in the
+air, the higher the viscosity of air
+the slower the smoke particles dif-
+fuse. The effect is one of damping
+the motion, trying to slow down the
+particles to rest. An experiment set
+up by Thomas Franosch, at the In-
+stitute for Theoretical Physics at the
+University of Erlangen-Nuremberg
+in Germany, and his colleagues
+shows that it is possible to measure
+the self-interaction of the particles
+— how they can interact to change
+their own motion.
+The team trapped a colloid in liquid
+suspension held in a laser trap to ob-
+serve the effect of Brownian motion.
+The sphere of solution was of the or-
+der of nanometres in size and when
+held by the laser, can be modelled
+as a harmonic oscillator. It was pre-
+viously considered that the viscous
+force over-dampens the system and
+the fluctuating motions are uncorre-
+lated and constant at small frequen-
+cies. However, when you bring in
+the idea of self-interaction, the fluc-
+tuations should change and correlate
+with time.
+In order to make the principle of
+self-interaction apparent, Franosch
+and his colleagues tune the harmonic
+oscillator to its relaxation time. In a
+colloid, the immersed particles will
+eventually settle and the time it takes
+to reach this equilibrium position is
+the relaxation time. As a laser was
+used to hold the trap, by varying the
+power of the laser, they could alter
+the stiffness of the trap and effective-
+ly ‘tune’ the relaxation time.
+Additionally, using the particle’s
+diameter and fluid’s viscosity as pa-
+rameters, the diffusion time (the time
+to diffuse over the diameter) could
+be tuned also. Franosch and his col-
+leagues found that the optimum re-
+sults were obtained from a melamine
+resin colloid, 3 micrometres in diam-
+eter, when immersed in acetone.
+The result was a correlation be-
+tween the fluctuations due to self-
+interaction and times. It soon be-
+came apparent of a hydrodynamic
+‘resonance’ occurring close to the
+relaxation frequency. The power
+spectral density increased and the
+‘white’ noise became ‘coloured’ as
+the peaks were not constant for all
+frequencies.
+The ramifications of this are re-
+markable; this is the first time exper-
+imental evidence has been found to
+support the theory of self-interaction
+on these scales.
+It has become clear that particles in
+solutions are able to affect the result
+by their presence and hydrodynamic
+resonance can occur, changing the
+power spectrum.
+One possible move for the future is
+to create more sensitive equipment,
+able to work at the micro- and nano-
+metre levels, to measure the shapes,
+surfaces and distribution of small par-
+ticles, right down to biological cells.
+Pavitar Devgon
+In 2008, astronomers obtained the
+first direct visual evidence for a
+‘multiple exoplanetary system’ — a
+system of planets orbiting one central
+star that isn’t our sun — using near-
+infrared ground-based images taken
+with the W.M. Keck Observatory and
+the Gemini North telescope. A fourth
+planet orbiting the same star was re-
+vealed in 2010.
+Extrasolar planets, or exoplanets,
+can be difficult for astronomers to
+detect, partly because they are often
+so overwhelmed by the brightness
+of the star they orbit. The 2008 dis-
+covery of three exoplanets orbiting
+a young star, HR8799 was made by
+Christian Marois of the National Re-
+search Council in Canada. However,
+it wasn’t until a year later, when Da-
+vid Lafreniere of the University of
+Montreal reanalysed data originally
+recorded back in 1998 by Hubble’s
+‘Near Infrared Camera and Multi-Ob-
+ject Spectrometer’ (NICMOS), that
+the actual position of one of these ex-
+oplanets was identified. Where previ-
+ously the central star had outshone
+the planets surrounding it, Lafreniere
+used a library of images of reference
+stars to accurately strip away some of
+this obscuring glow, confirming the
+existence of the outermost one.
+Now, Remi Soummer of the Space
+Telescope Science Institute in Balti-
+more has taken this method one step
+further. By reanalysing the same
+Hubble data as Lafreniere with even
+more sophisticated software, and us-
+ing over 460 images of reference
+stars taken from NICMOS’s exten-
+sive decade-spanning library, Soum-
+mer’s team have completely removed
+the diffraction spikes from the im-
+age (an issue common for telescope-
+based image systems), boosted the
+contrast, and dramatically reduced
+the surrounding starlight, thus draw-
+ing the positions of the three previ-
+ously elusive exoplanets out from the
+haze.
+In Marois’ ground-based data,
+meanwhile, the fourth orbiting exo-
+planet has been detected, which, at
+2.4 billion kilometres away from the
+central star, is too close for NICMOS
+to directly observe — it lies on the
+very border of NICMOS’s ‘corona-
+graphic spot’, a disc that aims to ob-
+scure most of the light from the cen-
+tral star to aid in observations of its
+surroundings.
+The combination of recent ground-
+based observations, such as those of
+Marois, and the much older Hubble
+data from NICMOS, has proved ex-
+tremely helpful to astronomers, as
+the passage of time across the images
+means that the shape of the planets’
+orbits can be tracked. This in turn can
+provide other valuable information
+that is usually impossible to deduce
+from single images alone, such as the
+planets’ masses, eccentricities, and
+how they interact with each other.
+The three outer exoplanets have ap-
+proximate orbit periods of between
+100 and 400 years, so observation
+over much longer timescales is need-
+ed to map and fully comprehend their
+movements. However, a decade-
+sized ‘head start’ is still a great gift
+Arianna Sorba
+The white noise spectrum, random peaks over all frequencies without clear correlation... trippy, yo
+Decade old Hubble data reveals planets
+to astronomers studying this system,
+especially as regards the innermost
+planet, where a substantial amount of
+motion can already be detected. ‘It’s
+10 years of science for free,’ says
+Soummer.
+The success of this new analysis,
+which is to be published in the As-
+trophysical Journal, has prompted
+Soummer’s latest plan to reanalyse
+images of approximately 400 other
+stars from the old NICMOS archive.
+From this his team will compile a
+list of ‘planetary candidates’, which
+in turn will be verified by ground-
+based telescope observations, much
+the same as how has occurred with
+the planets orbitting HR8799. Thus
+the re-examination of archive data
+could produce a wealth of new dis-
+coveries of these elusive exoplanets.
+“Evidence has been
+found to support the
+theory of self interac-
+tion on these scales”
+

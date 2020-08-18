@@ -1,0 +1,199 @@
+H
+uman activity may be delaying
+the Earth’s next ice age, a new
+study reveals, suggesting that
+atmospheric CO2
+concentra-
+tions need to be considerably
+lower for Earth’s next climatic heartbeat to fol-
+low its natural rhythm. The study, by Professor
+Chronis Tzedakis and colleagues at the Envi-
+ronmental Change Research Centre at Univer-
+sity College London, published in Nature Geo-
+science, looks at recent geological analogues
+of the current interglacials in order to answer
+a question that has, up to now, stumped clima-
+tologists – how long do we have until the next
+ice age?
+Over the last few million years, Earth’s
+climate has been dominated by fluctuations
+between ice ages (or glacials) and their cor-
+responding warm periods (interglacials), cli-
+matic states that are controlled by the amount
+of solar radiation reaching the high latitudes of
+the Arctic and Antarctic. In turn, the amount
+of solar radiation reaching Earth on timescales
+of thousands of years is controlled by regular
+and mathematically predictable fluctuations
+in our planet’s orbit during its transit around
+the Sun. For example, precession describes a
+26,000 year shift in the orientation of Earth’s
+axis of rotation, whereas obliquity, with a
+41,000 year cycle, results from the wobble of
+Earth’s axis relative to the solar plane. Despite
+their predictability, complications arise when
+attempting to reconstruct or predict the cli-
+mate’s response to these regular perturbations.
+This is because the Earth’s climate is inher-
+ently complex, with many poorly understood
+processes that produce feedbacks and ampli-
+fications in response to changing solar insola-
+tion and greenhouse gas concentrations.
+It is these uncertainties that mean that study-
+ing the timing of past glacial inceptions in the
+context of orbital variability is a bit redun-
+dant – the durations of past interglacials has
+been variable as a result of different climatic
+conditions and component responses. Despite
+this, there are one or two candidates that may
+be comparable to the modern interglacial –
+in particular, one event that occurred around
+780,000 years ago. This climatic interval is the
+target of Tzedakis’ study, due to similarities in
+the amount of solar insolation to today. In fact,
+their modelling suggests that today’s levels of
+solar insolation would be sufficient to initiate
+an ice age in the next 1500 years, a remarkably
+short amount of time. However – and this is a
+big however – in order for an ice age to initi-
+ate, a threshold must be reached where atmo-
+spheric CO2
+concentrations are low enough to
+The next ice age may be late
+A super cool place to live, but at what cost?
+permit global cooling. Today, CO2
+concentra-
+tions are around 390ppm and fast increasing,
+but the ice age inception threshold lies around
+240ppm. The implications of this are massive
+– human activity is preventing the natural cy-
+clicity of Earth’s climate and may delay the
+next ice age, which is immediately imminent,
+at least in geological terms.
+So, as the Global Warming Policy Founda-
+tion (the UK’s leading source of climate change
+scepticism) suggests – we have a choice. Ei-
+ther we halt CO2
+emissions today and dress up
+warm and deal with the next ice age, or carry
+on the same and bask in the searing tempera-
+tures and flooding of the warm world of the
+future…either way, climate change is here and
+it is here to stay.
+DOI:10.1038/ngeo1358
+Ever since 1969, when J H Ostrom proposed
+that theropod dinosaurs used their tails to
+maintain balance during fast movement, sci-
+entists have suggested that a wide range of
+animals, from primates to rodents, use ac-
+tive motion of appendages such as arms or
+tails to stabilise their motion. Now a team of
+scientists from the University of California,
+Berkeley, has found that by moving their
+tails, lizards can maintain a near constant
+pitch when moving through the air after a
+jump.
+In their experiments the group made a num-
+ber of Red-Headed Agama lizards (known
+scientifically as Agama agama) jump from a
+small block, or vault, to a raised platform. A
+high speed, 1000 frames per second camera
+was then used to record their motion. The
+vault was covered with “smooth glossy card
+stock”, which meant that, as they jumped,
+the lizards’ legs slipped slightly – impart-
+ing an angular momentum to the lizards and
+causing their angle of flight through the air
+to change. After analysing the changes to the
+lizards’ pitch caused by this effect, the scien-
+tists found that this was less than would have
+been expected if the lizards didn’t have a tail
+and theorised that “by rotating their tails with
+respect to the body in the sagittal plane, the
+lizards transferred angular momentum from
+the body to tail, thereby reducing body angu-
+lar velocity and ... body rotation”.
+To further test it the scientists constructed
+a wheeled robot with an attached rod to sim-
+ulate a tail and set it running off a ramp to
+simulate the lizards’ motion. The team says
+that while “inertial stabilization of robotic
+locomotion has been modelled before, [their
+robot was] the first with a specialized tail-
+like appendage for continuous inertial stabi-
+lization”. When this ‘tail’ was moved in the
+way the lizards’ tails had been observed to,
+the angle by which the robot was rotated was
+72% less than when the rod was held fixed.
+Applying the model developed using this
+research to velociraptors – 1.5m high the-
+ropods that lived in the late Cretaceous, the
+team found that their extraordinarily flexible
+tails would have been even more effective
+in stabilising movement through the air than
+those of the Agama agama. They conclude
+that “small theropods like Velociraptor with
+active tails might have been capable of aerial
+acrobatics beyond even those displayed by
+present-day arboreal lizards”.
+While this research is of clear interest to
+biologists, the scientists believe the fact that
+they managed to replicate the effect seen in
+lizards in a robot shows that their work can
+not only “advance our understanding of ap-
+pendage evolution”, but also “provide bio-
+logical inspiration for the next generation of
+manoeuvrable search-and-rescue robots”.
+DOI:10.1038/nature10710
+Maciej Matuszewski
+FELIX
+Friday 20 january 2012
+8
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+Carys Cook on how human activity may cause a delay in the next ice age
+How leaping lizards use their tails
+In brief
+Like us on Facebook
+More planets than stars?
+Scientists have found that planets around a star
+may be the rule, rather than the exception. An-
+nounced at the American Astronomical Society
+meeting and published in Nature on the same day,
+an international collaboration of scientists say
+that there may be more planets than stars within
+our galaxy.
+A new technique known as gravitational micro-
+lensing has allowed the team to look for planets
+further away from the host star than they have pre-
+viously been able to. They found a group of plan-
+ets that are very far from their host star, or even
+unbound, and conclude that these planets are at
+least as numerous as stars in the Milky Way.
+The results indicate that planetary systems like
+our own solar system may be more normal than we
+had previously imagined. Whereas most exoplan-
+ets found in the past have been similar to gas gi-
+ants, due to the techniques used to detect them,
+Cassan and his colleagues analysis suggests that
+62% of stars have a super-Earth (a planet bigger
+than Earth, but a lot smaller than a gas giant) or-
+biting them.
+facebook.com/FelixScience
+These planets decided to occupy Jupiter
+Science Museum Lates
+Tired of the same old Union every Wednesday?
+Check out the Science Museum Lates between 7
+and 10pm on Wednesday the 25th. The Lottolab
+on the first floor will be running a psychology ex-
+periment with delicious cocktails, DJs, live artists
+and more! With free entry, cheap drinks and a de-
+cent ratio, what’s stopping you?
+Science Museum, Wednesday 25 January, 7pm
+Follow the latest science
+news from Imperial and
+around the world on our
+Facebook page
+

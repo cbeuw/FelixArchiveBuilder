@@ -1,0 +1,126 @@
+by drowning, 10 by severe injuries or
+burns. The cause of death of the
+remaining 4 has not been established.
+In trying to establish the cause of the
+disaster, considerable difficulties were
+encountered because so little physical
+evidence remained and there were so few
+survivors w h o could give essential
+information. (Although 61 men survived,
+none was a senior member of Piper's
+management team). A large number (in
+excess of 30) possible causes were
+advanced. Relatively few of these could
+be conclusively discounted but many of
+them were extremely improbable,
+requiring several successive improbable
+events to have occurred. The most
+probable original cause almost certainly
+lay in the condensate separation and
+injection area.
+Condensate was separated from the gas
+in a large vessel (see Figure 2) and then
+passed to two pumps operating in parallel
+for injection into the oil export line, as
+shown in Figure 4. O n the evening of
+July 6 1988, p u m p A was isolated for
+maintenance of its motor drive coupling.
+In addition, its safety valve was removed
+for maintenance and a blind flange
+almost certainly fitted in its place. The
+flange was not, however, pressure-tested.
+W h e n pump B tripped at about 21.45, the
+operators would initially have sought to
+restart it. T h e y were not successful in this
+endeavour. Unless they could resume
+flow of condensate, they would
+eventually have had to halt production on
+Piper. This is because the condensate
+separation vessel would in the end have
+filled with liquid, which would then have
+been passed to the final-stage gas
+compressors. The compressors would then
+have tripped, automatically shutting d o w n
+the gas plant and eventually all of the
+production.
+Since the operators could not restart
+pump B, the question arises: what else
+could they do? The evidence suggests
+that what they in fact did was try to
+restart pump A . They would have been
+aware that pump A was out of
+commission for maintenance—but that
+maintenance had not yet started. Because
+of the way in which work permits were
+organised on Piper, it seems almost
+certain that they would not have been
+aware that the safety valve for pump A
+was missing. Moreover, they would not
+have been able to see that it was missing
+since the valve in question was one floor
+above the pumps that they were
+operating (remember that gas and
+condensate processing was an
+afterthought on Piper: items of equipment
+were placed where they could be, not
+where they ideally might be). Thus they
+probably took steps to reinstate pump A ,
+one step of w h i c h would have been to
+repressurise it. The most probably thing
+that happened next is that the
+condensate, after flowing extremely
+rapidly into the pump and then into its
+safety valve line, leaked at the blind
+flange fitted in place of the safety valve.
+The evidence of the sequence of gas
+alarms noted b y the surviving control
+room operator and the strength of the
+initial explosion suggests that the leakage
+hole and an area of about 40 m m 2
+. The
+line leading to the blind flage was a
+nominal 4 inch pipe, so that 40 m m 2
+corresponds to lifting of the flange by
+only 0.1 millimetres. Thus the leakage
+gap need only have been very small and
+would have been consistent with an
+incompletely tightened flange. Perhaps 80
+kilogrammes of condensate would have
+escaped over a period of order 1 minute.
+This found a source of ignition (which is
+unknown—but irrelevant: an inflammable
+material will generally find an ignition
+source) and led to the first explosion. This
+led to the initial fires and then to the
+sequential failure of the gas lines which
+caused the horrifyingly rapid escalation of
+the disaster.
+H o w could this have happened so easily?
+Clearly, there were several failures,
+amongst which were the following:
+• There was a questionable w o r k permit
+system. Maintenance w o r k o n the safety
+valve of the condensate pump was
+conducted only during the day, so the
+work permit was suspended—and not
+displayed in the control room—overnight.
+Operators were thus unaware of the
+removal of the valve.
+• There was questionable plant isolation.
+Condensate pump A was isolated only by
+closure of its air-operated suction and
+discharge valves (see Figure 4). There
+was no mechanical isolation and the
+valves were not locked shut. Thus the
+operators, unaware of the removal of the
+safety valve, were able to reintroduce
+high pressure hydrocarbons into a line,
+the integrity of which could not be
+guaranteed.
+• There was questionable design. Gas and
+condensate processing was undertaken
+ST FERGUS MCP-01 FRIGG
+C L A Y M O R E T A R T A N
+Figure 3
+25
+

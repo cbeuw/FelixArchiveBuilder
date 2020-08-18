@@ -1,0 +1,163 @@
+PAGE 3
+felixonline.co.uk FRIDAY 11th
+DECEMBER 2015
+NEWS news.felix@imperial.ac.uk
+IBM in sexism row over #hackahairdryer
+T
+his week, a misjudged
+campaign on the part of
+IBM to get women into
+science faced backlash
+online after being dubbed sexist.
+The initiative focussed on getting
+women into STEM subjects by
+encouraging them to “hack a
+hairdryer”. Many women argued
+that by playing up to the gender
+stereotype of women caring more
+about their looks, the campaign had
+lost sight of the gender stereotype it
+was trying to lambaste.
+Many female scientists on Twitter
+adopted the IBM’s #hackahairdryer
+hashtag to point out the
+contradiction.
+“That’s okay, IBM, I’d rather build
+satellites instead, but good luck
+witht that whole #HackAHairDryer
+thing,” said one user.
+The internet had a whale of time over this one. Photo Credit: Twitter
+There was carnage in the FELIX office. Photo Credit: FELIX
+Imperial network brought down by cyber attack
+O
+n Tuesday, Office
+365 email accounts,
+TurnItIn, and other
+online services at
+Imperial were disrupted due to
+a DDoS attack on the national
+network for universities.
+Janet, which runs .ac.uk domains,
+reported “disruption” from 9:24
+onwards on Tuesday, causing
+“intermittent service” to users
+throughout the day.
+Students across the country were
+prevented from submitting work on
+time, using some library services,
+and watching Netflix on college
+grounds.
+A DDoS attack involves the
+installation of malware on multiple
+computers before instructing them
+to access a site simultaneously,
+causing failure due to the volume
+of traffic. ‘Botnets’ of malware-
+infected computers can range from
+thousands to millions for one
+attack. These Distributed Denial
+of Service hacks account for up
+to a third of outage incidents, and
+experts estimate that 2000 occur per
+day. Such attacks can be purchased
+for as little as £100 online.
+The academic network stopped
+updating the situation on its major
+incident Twitter page as it believed
+these details were aiding hackers.
+The Joint Information Systems
+Committee, which runs Janet, was
+forced to shut down its own website
+Grace Rahman
+Editor-in-Chief
+Ours was one of hundreds of university networks attacked this week
+Female scientists wondered whether men would be asked to hack a beard trimmer
+“I leave hairdryer fixing to the
+men, I’m too busy making nanotech
+and treating cancer” said another .
+The mocking continued
+throughout the day, until IBM
+eventually decided to pull the
+campaign. By then, even the
+London Fire Brigade had chipped
+in on Twitter, saying: “We’re staying
+out of the sexism debate, however,
+we’d suggest that it’s generally a bad
+idea & possibly a bit dangerous to
+#HackAHairDryer”.
+IBM said afterwards that the
+campaign had “missed the mark
+for some”. They’d been running the
+initiative since October, but began
+publicising it again on Monday.
+On a webpage for the scheme
+on IBM’s website, the company
+described the “hair-raising
+misconceptions” about women in
+science that were putting women
+off.This has since been removed.
+This misfire makes a change for
+IBM, who are known for being
+Students
+across the
+country were
+prevented
+from
+submitting
+work on time
+a relatively diverse company.
+They have a female CEO, Ginni
+Rometty, and have always claimed
+to have paved the way for women
+in technology, saying on their
+website: “Where many companies
+proudly date their affirmative action
+programs to the 1970s, IBM has
+been creating meaningful roles for
+female employees since the 1930s.”
+This is the second time this year
+a company has gone awry in its PR
+pursuit for women in STEM. EDF
+Energy’s ‘Pretty Curious’ campaign
+encouraged young girls to get into
+science.
+Despite controversy,the campaign
+continues.
+when it too was subjected to another
+DDoS attack.This made it harder to
+update IT departments and students
+on the network’s status.
+By 5pm, Imperial’s ICT Service
+reported that network services had
+been restored in college.
+A representative from ICT told
+FELIX,“The disruption was patchy;
+it was often the case that only one
+critical component of a service was
+unavailable – the sign on process for
+Office 365, for example – but the
+rest was fine. We were able to put
+in place a number of work-arounds
+to overcome these situations”.
+“There is not a great deal students
+can do apart from making every
+effort to ensure their personal
+machines do not get enrolled into
+bot-nets through the accidental
+installation of malware. Install
+security patches ASAP and keep
+virus and malware-checkers up to
+date!”
+This news comes after Office
+365 went down in parts of the UK
+and Europe last Thursday, due to
+an outage with Microsoft’s cloud
+platform, Azure.
+IBM said
+afterwards
+that the
+campaign
+had “missed
+the mark for
+some”
+

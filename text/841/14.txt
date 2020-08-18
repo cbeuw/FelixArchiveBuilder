@@ -1,0 +1,79 @@
+Science
+Satellites
+on a string
+by Mike Morton
+Space tethers have been described
+as 'the discovery of the wheel i n
+space'. Although the concept is far
+from new, it is unfamiliar to many,
+'probably because no space mission
+using it has ever been launched. The
+basic idea is quite simple (see box):
+two satellites in different orbits will
+assume a stable configuration if they
+are connected by a long cable (of the
+order of 10's of km), and will orbit
+together with the cable along the
+radius of the orbit. This simple trick
+of orbital mechanics will have a
+huge impact o n almost all aspects
+of space exploitation, making it both
+simpler and cheaper.
+Late next year, the first of three
+missions of the joint US-Italian TSS
+project (tethered satellite systems)
+will be launched. This will involve
+the deployment and subsequent
+retrieval of an Italian built satellite
+from a space shuttle orbiter. The
+reusable, modular satellite has a
+mass of around 500 k g and is
+powered by silver-zinc batteries. A s
+the satellite will only be deployed
+for about 20 hours so solar cells
+would be unnecessary. The satellite
+will carry a variety of instruments,
+mostly concerned with investigating
+the electric and magnetic fields of
+this region, however the main
+objective of the programme is to
+simply demonstrate the feasibility of
+tethered satellites i n space.
+The first and third TSS missions
+will involve deploying the satellite
+upwards from the shuttle, initally '
+Artist's impression of
+TSS
+The Pull of Gravity
+Gravity pulls more strongly on objects closer to the earth's surface.
+Everybody weighs slightly more on the ground then they do at the
+top of a tall building. This effect is the basis for space tethers.
+Imagine t w o satellites in separate orbits around a planet (A);
+according t o Newtonian mechanics they would much rather be
+moving in a straight line. T o make them move in a circular orbit a
+force of some kind must act on them. This is provided by the gravity
+of the planet. As the inner satellite experiences a stronger gravitational
+force it is able to move with greater velocity on an orbit with a smaller
+radius; it takes less time to complete one orbit.
+This is summarised by Kepler's third law which states:
+Where K is a constant, T is the time to complete one orbit and R is
+the radius of the orbit. Imagine the t w o satellites are connected by
+a cable (B). The cable has a tension because the lower satellite is
+forced to slow down and the upper one is forced to speed up. The
+upper one will want to rise and the lower one will want to fall but
+they will exactly balance, producing the tension in the cable and
+allowing the stability of the system.
+The orbital period of the system will depend on the position of the
+centre of mass, and is the time in which a free flying object will orbit
+if it where at the position of the centre of mass.
+If the cable is suddenly cut, the upper satellite will be boosted into
+a higher orbit and the lower satellite will drop into a lower orbit (C).
+This trick is known as momentum scrounging because it is based on
+the principle of conservation of angular momentum and is one of the
+possible practical applications of tether systems.
+Slower, higher Sped-up satellite Satellite moves
+satellite wants to rise toward higher orbit
+Faster, lower Slowed satellite Satellite moves
+satellite wants to fall toward lower orbit
+June 21 1989 FELIX Page 13
+

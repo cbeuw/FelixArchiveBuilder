@@ -1,0 +1,235 @@
+Atmospheric physics: spooky!
+An interview with Imperial’s Professor Joanna Haigh starts off this issue, which focusses on climate science
+In 2001, IC’s Professor Joanna
+Haigh was the only female Pro-
+fessor of Atmospheric Physics in
+Britain. Ceri Perkins went to meet
+Prof. Haigh to find out about her
+research and discuss her views on
+the current climate change debate.
+What attracted you to study
+atmospheric physics? What is the
+focus of your current research?
+I did a physics degree many years
+ago, at the end of which I thought
+that I never wanted to do any phys-
+ics ever again! When I sat down to
+consider what it was that I actually
+enjoyed, I realised that it was stud-
+ying the environment, and in partic-
+ular the weather. I’d actually had a
+weather station in my back garden
+since my school days – I was a real
+geek! I took an MSc in Meteorology
+at Imperial, and followed that with
+a DPhil in Atmospheric Physics at
+Oxford. It was very theoretical, but
+it’s amazing how motivated you can
+be when you have a personal inter-
+est in the topic!
+My current research covers
+transport of solar radiation in the
+atmosphere. Specifically, over the
+last few years I’ve been looking at
+the relationship between solar irra-
+diance and climate.
+Do you think that the prospect of
+tackling the climate change issue
+is attracting more women to the
+subject?
+Our research group certainly
+attracts a larger proportion of fe-
+male PG students than any other
+research group in physics at IC. I
+put it down to the fact that women
+are more attracted to environmen-
+tal issues. I think it’s also a case of
+women seeing other women doing
+well in the field, which generates in-
+terest. We support each other!
+What do you see as the role of
+climate scientists?
+Our job is to explain and under-
+stand the fundamental science go-
+ing on, and to relay that information
+to policy makers. Climate predic-
+tion needs to be based on solid sci-
+ence, not politics and polemic.
+How have you seen public atti-
+tudes to the climate change issue
+change over time?
+That area has become much less
+pleasant; the debate has become
+polarised. You’ve got environmen-
+tal activists on one side, and peo-
+ple who deny the existence of a
+problem, or at least one caused by
+human activity, on the other. Cur-
+rently, there doesn’t seem to be
+much of a middle ground where we
+can outline frankly what we do and
+don’t know. On the basis of what
+we do know, we think that human
+activity is influencing the climate,
+but this understanding includes er-
+ror bars and uncertainties. It’s dif-
+ficult to put over to the public these
+uncertainties.
+Do you think the press have had
+a significant role in polarising the
+debate?
+Yes, but then that’s the way that
+they always do things. People have
+exploited the press. The press do
+have a tendency to exaggerate, but
+they don’t fabricate stories.
+It has been argued that Global
+Climate Model (GCM) predictions
+are weak as they fail to account
+properly for spatial variations in
+cloud thickness, or the extent to
+which radiation is reflected by ice
+at the poles. Where do you stand
+on this?
+It is very difficult to simulate
+clouds. I agree that the spatial reso-
+lution in the models is not good, and
+that the detailed physical process-
+es of cloud formation are not well
+accounted for. Whilst the models do
+have reasonable representations of
+many features, such as the Inter-
+tropical Convergence Zone and El
+Niño, others, for example the diur-
+nal variation of tropical convection
+clouds over Africa, are less well
+described. Representing the physi-
+cal properties of ice is also difficult.
+The question is to what extent we
+can use model predictions as a ba-
+sis from which to respond to green-
+house gas (GHG) emissions. The
+physics as we know it is in there
+and we do know that models of the
+current and historical climates
+correspond well to observed and
+measured values. This allows us to
+place reasonable confidence in the
+models’ predictions.
+What about the arguments which
+blame climate change on natural
+variability and long-term cycles?
+Clearly there is natural variation:
+we’re dealing with a hugely com-
+plex system. Using data from both
+very long runs of models – where
+we can look at the internal noise in
+system – and oxygen isotopes in ice
+cores, it would appear that changes
+over the last 50 years have been
+outside the bounds of natural vari-
+ation. There may have been larger
+temperature changes in the past,
+but these changes occurred over
+much longer time-scales.
+Is it possible to tackle climate
+change at the governmental level,
+or does the action need to come
+from individuals? Are initiatives
+such as carbon emissions trading
+really just token gestures which
+detract from the real issue: that
+people’s energy consumption
+habits need to change?
+It most definitely needs to be
+tackled on a personal level, but the
+government has a role to play too.
+People have little choice in how
+their power is generated. It is un-
+likely that there will be any real dif-
+ference made without government
+litigation. The smoking ban is a
+great example of where legislation
+can give people that little push in
+the right direction.
+Even if the USA and Australia
+were to join up, is Kyoto enough?
+No, it’s not. Even if GHG emis-
+Can YOU take the heat? A SOHO image of our nearest star
+sions were capped at today’s levels,
+warming would continue for well
+over 50 years due to the inertia in
+the oceans.
+Why are certain areas of the
+public still resistant to the idea of
+climate change?
+A mixture of reasons. Principally,
+people don’t like to be told what
+to do and they don’t like the idea
+of changing their behaviour. They
+don’t make rational decisions based
+on the bigger picture, they just think
+about how changes will impact
+upon them personally. There is also
+a political angle which sees people
+with business interests resistant to
+being told that industry is partly to
+blame for the changes we’re begin-
+ning to see.
+Recent research by Henrik Sven-
+smark suggests that the seeding
+of tropospheric clouds by cosmic
+rays may be responsible for cli-
+mate change, not anthropogenic
+GHGs. This has also been picked
+up on Channel 4’s “The Great
+Climate Change Swindle”, and in
+Nigel Calder’s book “The Chilling
+Stars: A New Theory of Climate
+Change”. Where do you stand on
+this?
+You’ve got to turn the argument
+around. If this is responsible for
+the warming over the past 50 years,
+then why haven’t we seen similar
+effects in the past? This isn’t to
+say that solar phenomenon have
+no effect. Our understanding of the
+effects of the 11–year solar cycle
+on climate, for example, is statisti-
+cally robust, but we can’t explain
+Global Warming over the last 150
+years through solar activity alone.
+The cosmoclimatology article is a
+gross simplification of the original
+research, although the simplifica-
+tion in this case was actually done
+by one of the authors of the original
+article!
+What is your response to people
+who claim that science is not
+joined up enough? Do you think
+that greater integration of the
+different disciplines would have
+anything to offer the climate
+change debate?
+Yes, in the sense that we might
+know how to direct our understand-
+ing to the areas where it is of most
+use. But we do need to exercise
+caution when taking that attitude.
+So-called ‘Earth System Models’
+which take into account the atmos-
+phere, ocean, biosphere, economics
+and everything in between run the
+risk of propagating errors as each
+part of the system is subject to its
+own uncertainties.
+Not at all scary really, despite our feeble title (though that picture of the sun could intimidate weaker
+minds); Professor Haigh researches the relationship between solar irradiance and climate
+3
+felix
+Friday 11 May 2007
+SCIENCE science.felix@imperial.ac.uk
+Ceri Perkins
+

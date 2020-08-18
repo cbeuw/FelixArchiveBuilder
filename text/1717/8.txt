@@ -1,0 +1,262 @@
+ISSUE 1717
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+11
+Fromsinglecellstomulticellularorganisms:witnessing
+evolution
+R
+esearchers from
+the George
+Institute of
+Technology and
+University of Montana
+have witnessed in re-
+al-time the development
+of single-cell algae into
+more complex multicel-
+lular organisms – and,
+astonishingly, the process
+took only 50 weeks, or
+just 750 generations. The
+only driving environmen-
+tal factor was predation
+by another simple, sin-
+gle-celled organism.
+The research resulted
+from a relatively new
+approach to investigating
+the transition from unicel-
+lular to multicellular life.
+As opposed to retrospec-
+tive approaches, which
+rely on incomplete fossil
+records and comparing
+more recent multicellular
+to distantly-related extant
+unicellular organisms, this
+“experimental evolution”
+is more prospective in
+style.
+Two of the five ex-
+perimental populations
+evolved into multicellular
+life – and both showed a
+high degree of variance in
+their traits and life cycles,
+within each population
+and between the two.
+As evolution works on
+the basis of beneficial
+mutations becoming nor-
+malised over a population
+over multiple life cycles,
+this is exactly what one
+would expect; however,
+witnessing it develop in
+real-time is an exhilarat-
+ing development.
+The reason the
+mutation into larger,
+multicellular organisms
+was beneficial is that, like
+many predators, the filter
+predator used (Brachionus
+calyciflorus) can only
+prey on a narrow range
+of sizes, referred to as the
+“predation threshold”;
+larger organisms, in this
+case the evolved multi-
+cellular algae, are largely
+immune.
+Key to note is that the
+algae (Chlamydomonas
+reinhardtii) displays
+a tendency to form
+palmelloids under certain
+conditions, which are
+globs of divided cells
+resulting either from
+daughter cells failing to
+break free of the cell wall
+upon division, or the cells
+producing a gelatinous or
+mucilaginous substance
+which then cements them
+together. The unicellular
+algae therefore already
+had access to “a toolkit for
+producing multicellular
+structures”, although an
+“optional” one as opposed
+to the evolved form’s
+obligate multicellular
+structure.
+That this response
+occurred purely in
+response to predation,
+with no other selective
+pressures, shows that
+predation likely played
+some part in the initial
+evolutionary leaps to mul-
+ticellular life - leaps that
+eventually culminated in
+complex organisms like
+humans.
+It also produced some
+stunning timelapses,
+viewable on the original
+article in Nature.
+Infectious diseases could be diagnosed with
+smartphones in sub-Saharan Africa
+SCIENCE
+Henry Alman
+Science Editor
+A
+new Imperial-
+led review has
+outlined how
+health workers
+could use existing phones
+to predict and curb the
+spread of infectious
+diseases.
+The review was pub-
+lished in Nature, and
+involved researchers
+from Imperial, the Kar-
+olinska Institute, UCL,
+The University of Kwa-
+Zulu-Natal, the Africa
+Health Research Institute,
+and the London School
+of Hygiene and Tropical
+Medicine. It outlines
+how healthcare workers
+in low-income countries,
+like those in sub-Saharan
+Africa, could use existing
+smartphones to diagnose,
+track and control infec-
+tious diseases.
+It also says that
+smartphones could also
+help enable people to
+test themselves and get
+results and support in
+their own homes. This
+would make it easier for
+people to look after their
+own health - particularly
+in rural regions, where
+clinics can be very distant.
+For example, patients
+worried about a potential
+HIV infection might be
+more inclined to get tested
+if they could do it at home
+and avoid the stigma of
+attending a clinic.
+Many smartphones
+have sensors built in that
+could aid diagnosis, such
+as a heart rate monitor and
+an oximeter, as well as a
+camera and microphone
+that can be used to analyse
+images and sounds like a
+person’s breathing.
+In addition, simple
+testing technologies are
+being developed that can
+be linked into a phone, via
+a USB stick or wirelessly.
+In theory, a person could
+test themselves using an
+easy to collect sample,
+such as a pinprick of
+blood, and the results
+would be scanned onto
+mobile apps. Approaches
+outlined in the review
+include apps that use
+the phone’s camera to
+interpret test results, send
+findings to local clinics
+or healthcare workers,
+and host virtual follow-up
+appointments with health-
+care workers.
+Combined, the test
+results would then build
+a picture of symptoms
+across a region to help
+predict and fight current
+and future outbreaks.
+The authors add that
+these ideas are not without
+challenges. Although
+rapid technological
+advances have improved
+access to testing, more
+than 35 percent of the
+world does not have
+access to mobile phones.
+It is also easier to accu-
+rately collect and analyse
+samples in a healthcare
+setting, where there are
+trained staff and the envi-
+ronment is designed to be
+sterile, than in a person’s
+home.
+Furthermore, safe-
+guarding measures must
+be put in place to protect
+the privacy and confi-
+dentiality of patient data,
+the authors say. These
+measures must also be
+fully explained to users to
+build trust in and encour-
+age adoption of these new
+healthcare services.
+Still, the report’s
+authors remain optimis-
+tic. As of 2016, global
+smartphone adoption has
+reached 51 percent and is
+predicted to keep growing
+- particularly in resource
+limited settings such
+as sub-Saharan Africa.
+The potential to develop
+these powerful new tools
+in diagnosis and disease
+outbreak predictions is
+only growing.
+“the
+development
+of single-cell
+algae into
+multicellular
+organisms
+took only 50
+weeks, or 750
+generations.”
+“The reason
+the mutation
+into larger,
+multicellular
+organisms was
+beneficial is
+that the filter
+predator used
+can only prey
+on a narrow
+range of sizes”
+SCIENCE
+Henry Alman
+Science Editor
+

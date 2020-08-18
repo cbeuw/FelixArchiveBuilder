@@ -1,0 +1,657 @@
+@BarackObama
+@cnnbrk
+@stephenfry
+@twitter
+@kevinrose
+@britneyspears
+@nytimes
+@lancearmstrong
+@ev
+@algore
+@Wossy
+@wilw
+@mashable
+@TechCrunch
+@nprpolitics
+@Veronica
+@ijustine
+@THE_REAL_SHAQ
+@zappos
+@aplusk
+@woot
+@LeoLaporte
+@DowningStreet
+@WholeFoods
+@MCHammer
+@BBCClick
+@MrTweet
+@dooce
+@feliciaday
+@jimmyfallon
+@Schofe
+@coldplay
+@DaveJMatthews
+@ICHCheezburger
+@JohnCleese
+@LiveEarth
+@SaraBareilles
+@guykawasaki
+@guardiantech
+@chrisdjmoyles
+@Scoblezier
+@biz
+@TinaFey
+@sockington
+@rainnwilson
+@Agent_M
+@ricksanchezcnn
+@anamariecox
+@someecards
+@JetBlue
+@BJMendelson
+@Starbucks
+@jdickerson
+@alexalbrecht
+@macrumors
+@FragDolls
+@pennjillette
+@sacca
+@davos
+@jodrellbank
+@chrisbrogan
+@jack
+@THErealDVORAK
+@rustyrockets
+@AFineFrenzy
+@AlohaArleen
+@MarsPhoenix
+@perrybelcher
+@davemorin
+@BigRichB
+@darthvader
+@grader
+@Andrew303
+@Astronautics
+@problogger
+@hodgman
+@hastags
+@garyvee
+@caseywright
+@chrispirillo
+@espn
+@TheOnion
+@RobMcNealy
+@hotdogsladies
+@zaibatsu
+@CaliLewis
+@TheBusyBrain
+@brooksbayne
+@eleesha
+@maddow
+@nansen
+32 felix Friday 20 February 2009
+technology.felix@imperial.ac.uk
+Technology
+Technology Editor – Richard Lai
+@imperialcollege: What is Twitter?
+Why is everyone going on about Twitter? Richard Lai shares his view on how to use this powerful tool.
+T
+omo Roberts had just
+walked into the felix of-
+fice, rambling on about
+how people had been try-
+ing to get him to join Twit-
+ter, but he struggled to understand why
+they are obsessed with “telling people
+I’m going to the toilet”. If you are think-
+ing the same then you are probably
+wondering: what exactly is Twitter?
+And how has the 140-character limit
+turned the site into a $200m business?
+Twitter has been publicly available
+since August 2006, but it was only re-
+cently that the majority of Britain start-
+ed to hear about this powerful online
+tool, thanks to the participation of local
+celebrities. First-time users may find
+that Twitter alone is merely a website
+with a text box, similar to Facebook’s
+“status update” feature which is techni-
+cally a micro-blogging tool, but unlike
+Facebook your networking is not re-
+stricted by which group you
+are in - there are no groups,
+and you can “follow” any
+Twitter users so that their
+“updates” (or “tweets”) appear
+on your Twitter homepage. You
+can also reply to
+other users
+by including
+“@” in front of
+their usernames in
+your updates (hence
+the article’s title).
+The Freedom of Twitter
+Like most social networking tools and
+search engine optimization (SEO)
+products these days, Twitter was
+launched in San Francisco. Co-founder
+and active CEO, Evan Williams (@ev),
+was quoted saying that unlike many
+articles that provide a list of Twitter
+rules, there are actually no rules on
+how you should use the simple tool - in
+fact, most of the quoted terminologies
+used above were mostly likely to have
+come from the users “without any in-
+put from the company”. Furthermore,
+like YouTube, users have discovered all
+sorts of ways to harness the connec-
+tion power for learning, sharing, mar-
+keting, or just for fun. (See the “What
+people use Twitter for” box)
+It is this freedom and creativity that
+led to the birth of many Twitter clients
+for different platforms. For desktops
+(Windows, Mac and Linux), the star
+of the show is the London-designed
+TweetDeck, which not only automati-
+cally retrieves updates at set intervals,
+but also has a search feature which can
+be a nice alternative to Google for cer-
+tain criteria. I will explain this later.
+See Your Nearby Tweets
+Smartphones are also responsible for
+the boost in number of Twitter users:
+the iPhone alone has at least four dedi-
+cated Twitter apps, and users of Win-
+dows Mobile and Blackberry also have
+a few options. The advantage of using
+Twitter on these devices is that most of
+the apps are location-aware, meaning
+you can read tweets sent from nearby
+devices.
+For me, this location-aware feature
+was ever so useful when I was covering
+the CES in Las Vegas: using “Twinkle”
+on my iPhone, I was able to ask fellow
+bloggers for up-to-date information
+regarding the show, as well as read-
+ing CES-related tweets in a style simi-
+People use Twitter for...
+imperialcollege: Imperial uses Twit-
+ter to highlight College news and
+announcements, campus activities
+and community events
+jackpea: news feed, a good laugh,
+celebrity haven (lately anyway), all
+round pretty addictive!
+deancarl: I use it because I find the
+Facebook update feature to be too
+‘closed’. Twitter lets me communi-
+cate outside my social group.
+ddudgeon: I use it to keep up with
+the latest developments in my in-
+dustry.
+Lil_Wun: To share all the weird
+thoughts in my head ^__^
+drinkupthyzider: I don’t understand
+this at all
+TweetDeck, a Twitter app designed by a Londoner
+lar to a simplified RSS feed due to the
+word limit, so that I could plan ahead
+for the following day; since I was also
+looking after a demo room for a little
+while, I was also able to use Twitter to
+invite people to visit us. In fact, I went
+as far as getting the attention of US
+tech show presenter, Patrick Norton
+(@patricknorton; currently hosting
+Systm and Tekzilla; you can subscribe
+the video podcasts on iTunes).
+Celebrity Haven
+Since the CES, I had tweeted directly
+with Patrick Norton again a couple of
+times. This is perhaps the main rea-
+son that people join Twitter: you get a
+chance to speak to celebrities directly.
+In Britain, we have nice celebrities like
+Stephen Fry (@stephenfry) who do
+respond to questions and greetings in
+Twitter, thus naturally gaining a huge
+number of follow-
+ers: 207,434 as
+of Wednesday
+8:50pm
+(ranked
+third
+most follow-
+ers, with @cn-
+nbrk second and @
+BarackObama first),
+and going up literally
+by the minute! So if you
+do get a reply from Mr. Fry
+then you are extremely lucky!
+You will also find other active and
+interesting British celebrities to follow
+(they should all be genuine):
+@bobbyllew
+• (Robert Llewellyn)
+– Red Dwarf actor
+@WilliamShatner
+• – ex-Star Trek
+actor
+@MayorOfLondon
+• – funny man,
+Boris Johnson
+@CHRISDJMOYLES
+• – BBC
+Radio 1 DJ
+@Fearnecotton
+• – BBC Radio 1
+DJ
+@Wossy
+• (Jonathan Ross) – BBC
+presenter
+@jupitusphillip
+• (Phil Jupitus) –
+Britishcomedianandteamcaptain
+of Never Mind the Buzzcocks
+@JohnCleese
+• –memberofMonty
+Python and Fawlty Towers actor
+@GarethM
+• (Gareth Mitchell)
+– presenter of BBC Digital
+Planet, also a lecturer in Science
+Communication at Imperial
+This list should get you going – by
+checking out their “following” lists you
+should easily find other people that
+you might want to follow.
+Practical Use
+Of course, Twitter isn’t just about
+stalking celebrities. Earlier this week
+I had a new follower: Pamela Agar
+(@PamelaAgar), Head of Digital
+Media & Marketing at Imperial, who
+is part of the team behind Imperial’s
+Twitter account, @imperialcollege.
+Ms. Agar said the idea of setting up
+@imperialcollege came quite recently:
+if you were affected by the heavy snow
+fall a few weeks back, you might have
+noticed the Twitter logo on Imperial’s
+weather alert page - that was when Ms.
+Agar’s team first signed up for Twit-
+ter, as “a helpful extra way to get news
+quickly around the College community
+about what was open or closed at the
+College”.
+When I asked what Imperial aims
+richardlai: For me it’s instant mes-
+saging, news feed, travelling, celeb-
+rity-stalking, market research, video/
+link-sharing and blogging.
+tadekk: I use Twitter mainly for fa-
+cebook-status style microblogging
+but really hope it will catch on in UK,
+as it did in US
+Twitter apps for the iPhone: TwitterFon and Twinkle
+to achieve by using Twitter, Ms. Agar
+expressed that they would like to keep
+the immediate College community, the
+extended College family (alumni, sup-
+porters, prospective students etc.) and
+anyone who is interested informed,
+“We’ll be aiming to do fun takes on
+what’s going on at Imperial – campus
+news and promotions, announce-
+ments, events and any other interest-
+ing or startling snippets about College
+we come across.”
+On the student activities front, @im-
+perialcollege has already tweeted about
+ArtsFest, RAG week, the Great Egg
+Race, Varsity Match, Union elections
+and careers talks recently, so if you
+were an organiser of any of the above,
+do send them a tweet to thank them,
+or better yet, send them a feedback or
+ideas via twitter@imperial.ac.uk.
+We are not alone though - a lot of
+universities are already actively using
+Twitter. Ms. Agar listed @UniofBath,
+@warwickuni and @TuftsUniversity
+as their favourite ones, so do mention
+them to your friends who attend those
+universities.
+Smarter than just “Googling”
+As demonstrated by @imperialcollege,
+Twitter is able to provide the most up-
+to-date information within 140 char-
+acters, so by using the built-in search
+engines in supported apps, you should
+easily find relevant results to suit your
+time-critical needs.
+Here’s a good example: yesterday
+I was looking for an Easter flight for
+Hong Kong, and while searching for
+airlines through the old Google way,
+I also tweeted the found ticket prices
+via TweetDeck, just to see if anyone
+had seen cheaper ones. Soon, a fellow
+Twitter user @sfahmy (who turned
+out to be an Imperial College graduate:
+MEng ISE ’99-’03, then PhD EEE ’03-
+’07; he followed me in the first place)
+recommended a few websites for com-
+paring the quality of different airlines,
+and he also kindly provided some tips
+on collecting airmiles.
+I then came across what seemed to
+be a cheap airline called “Jet Airways”.
+From Google the results were heavy
+on negative comments, which were
+not very helpful. I then switched to
+TweetDeck to search for “Jet Airways”,
+and immediately I had a list of relevant
+comments that were of similar lengths,
+making the comparison fairer. At the
+same time, a few Twitter users also
+responded to my earlier tweet regard-
+ing the said Indian airline: the general
+consensus was that Jet Airways is quite
+good, but sadly I later found out that
+the flight cost I saw did not include tax!
+Nevertheless, the point is that Twitter
+can efficiently deliver smart results,
+thus making your life easier.
+Where’s the Money?
+While it is true that the ultimate driv-
+ing force behind Twitter is money, I say
+why not enjoy it while it is still ad-free?
+There have been speculations that
+Twitter will eventually start charging
+commercial users (marketers, retailers,
+etc.), but Twitter, Inc. is still keeping
+their mouth shut tight about their rev-
+enue model. This should not disrupt
+the average users like us anyway, so un-
+til then, why not join the party and see
+for yourself how Twitter can be such a
+useful tool? Happy tweeting, Tomo!
+travel.felix@imperial.ac.uk
+Travel
+Travel Editor – Dylan Lowe
+Dylan Lowe
+Travel Editor
+Tourist Vs.
+Traveller
+Dylan Lowe ponders what should be done when you find –
+and catch – a Madrileño pickpocket
+I
+am not going to patronise you
+with the boring bits of Madrid:
+while writing pompous, repeti-
+tive accounts of Plaza Mayor
+or the Prado isn’t what I take
+pleasure in, making you endure read-
+ing them isn’t either. So forget the bull-
+fights (they don’t operate during win-
+ters anyway) and sangrias, let us delve
+into this one thing the Spanish capital
+is famed for: theft.
+It appeared to be a bleak February
+afternoon when my plane landed on
+Spanish soil. The first SMS I received
+was a distressing one: my German
+friend, who had invited me to spend a
+few days touring the city in his compa-
+ny, suggested that I take extra caution
+over my belongings. What followed
+was the simple, but effective, state-
+ment: my dad nearly got robbed.
+Standing alone and helpless within
+Barajas airport, I could think of at least
+50 ways to lose my wallet and enact
+each in my paranoia-corrupt imagina-
+tion. Until the customs officer called
+me over and gave me looks for my hid-
+eous passport photograph.
+Settling down at Cervecería Alema-
+na (6 Plaza de Santa Ana), well-known
+as an Ernest Hemingway hangout, my
+companion gave a full account of the
+ordeal: his father was boarding a train
+earlier amidst a rush-hour crowd when
+a pickpocket, seizing the opportunity,
+snatched his wallet. Then, so clumsily,
+he dropped it. His accomplice, cover-
+ing the tracks, proceeded to return it
+to its owner. However professional the
+acting had been performed, there were
+little doubt that foul play was involved.
+And I naïvely came to believe that
+a tale is as close as I could get to the
+world of Madrileño treachery.
+You little thieving
+piece of...
+I
+n a rush to prove my worth and
+(fail to) make my felix debut
+shine, I forgot to introduce my-
+self. My name is Dylan, first year
+geologist and avid traveller. Fin-
+gers crossed, I will live up to the stand-
+ards set by my predecessors; for that
+reason I pledge only to deliver articles
+based on my own encounters and those
+of whom I know, rather than those
+freshly harvested from Wikipedia.
+Mind you, I said ‘traveller’. Not to be
+confused with ‘tourist’, which is not a
+synonym of traveller – call me a tour-
+ist and I will hunt you down in retri-
+bution. There should be no confusion
+in distinguishing between the elegant
+traveller and the inconsiderate, preten-
+tious industry that is tourism.
+Or is there?
+I have always branded myself as a
+traveller, but only for vanity’s sake. I
+have heard disgruntled moans of fel-
+low ‘travellers’ over the mistreatment
+they received from locals who ‘mistook
+them for tourists’. Not until now, how-
+ever, have I actually mused on this sub-
+ject with a philosophical depth worthy
+for such a controversy.
+So where should we start?
+Oh yes. I hate tourists. And I hate
+being one. The way hordes of them
+pour out of air-conditioned coaches,
+the crackle as the suitcases hit the tar-
+mac and the squeal of their wheels.
+They banter in their native tongue and
+whine about everything ‘foreign’, tram-
+ple the streets with ignorance and dis-
+regard for the locals, and wreak havoc
+in hotel lobbies with their appalling
+take on fashion (and brightly coloured
+Gola shoes, in Afonso’s archetype of
+an Iberian tourist). Pass nightfall and
+yet another meal of Spag Bol later they
+find comfort in their beds, but not be-
+fore screeching at each other across the
+corridors with booze-fuelled rigour.
+Mind changed: I don’t hate tourists. I
+loathe them, and I despise them.
+And aren’t we ‘travellers’ so differ-
+ent? We would come swaggering into
+the scene, dashing and graceful, appro-
+priately dressed and full of enthusiasm,
+and get cozy in a local café. Ringing up
+the hostel we make an enquiry over
+our reservation using the local dialect.
+Feasting on local delicacies, we ex-
+change colourful travel stories before
+descending into the fray that is a local
+festival. We treat these words by Paul
+Theroux, the legendary travel writer,
+with biblical authority: “tourists don’t
+know where they’ve been, travellers
+don’t know where they’re going.”
+Call me stereotypical and elitist.
+Granted, like all existing stereotypes,
+my definitions of the tourist/travel-
+ler won’t work. A tourist is as likely
+to lodge in a hostel as a traveller in a
+hotel. A traveller may be the fashion
+nightmare while the tourist is well suit-
+ed in a tux. The person in the local café
+can be the tourist, and he who peers
+through the windows of Starbucks a
+traveller (I plead guilty).
+The distinction between the tourist
+and traveller should not be driven by
+materialistic measures.
+It is in this phenomenon to dissoci-
+ate oneself from the notoriety of tour-
+ists and, more ambitiously, tourism on
+the whole, that the class of anti-tourists
+is born. My paragraph-long rant is a
+prime example of anti-tourism: bitter,
+elitist, easily mistaken as the works of a
+xenophobe. We are the exact opposite
+of the tourist, as the ideology suggests,
+and we are better.
+But is the ‘opponent of all principles
+touristic’ a suitable definition for the
+traveller? I don’t think so.
+In fact, anti-tourists have a lot in
+common with their arch enemies. As F
+Daniel Harbecke, contributor to Brave
+New Traveler (www.bravenewtravel.
+com), pointed out: “travel becomes
+tourism when focus shifts from the
+experience itself to the vehicle of
+experience.”
+The attackers of tourism have be-
+come tourists themselves.
+To truly become a traveller one must
+alter one’s attitude to – and expecta-
+tions from – travelling. Which means
+casting off your homely delights,
+putting yourself in the shit, then come
+out having had not only an adventure
+of a lifetime, but a spiritual discovery
+of oneself. Explorers are not explorers
+unless they brave the uncharted waters,
+and neither are travellers travellers if
+they cower before unfamiliarity. The
+off-beaten tracks are where the magic
+of travelling happens, not the pretty
+photographs inside your Rough Guide.
+The world of travelling is reserved for
+the dauntless. And those who are not
+afraid to unleash their full potential.
+I leave you with this challenge.
+*
+Got any travel trivia to share? I would
+love to hear it. Send it to travel.felix@
+imperial.ac.uk and one will be selected
+each week to be published.
+In came Sunday and it was El Rastro
+day. Madrid’s very own flea market, El
+Rastro is every bargain hunter’s fan-
+tasy. More like the ‘Royal Academy
+of Thievery’, for those preying on the
+visitors in the midst of the weekend
+frenzy. My friend, still traumatised by
+the incident in the metro, begged to
+proceed no further.
+I relented; thus began an aimless
+wander around the city. Hours later,
+the glorious Calle Gran Vía soon came
+into view.
+It wasn’t long before we made it into
+H&M.
+A short stroll into the store later and
+I felt the twitch around my thigh. Ul-
+tra-sensitive as I am, I readjusted the
+strap and my bag swung into view. The
+front pouch was unzipped. As my hand
+dived through the opening it sensed
+that something that didn’t belong there.
+Another hand. The fraction of a sec-
+ond that followed it swiftly retracted,
+its owner fully materialised as a Span-
+iard lurking behind my back, face dead
+guilty over his fraudulent deed.
+I wouldn’t have lost anything more
+To commit an act of utter bollocks
+3...2...1...
+The Royal Academy itself, El Rastro
+than a packet of tissues, since I wasn’t
+foolish enough to leave valuables some-
+where as accessible as the front pocket.
+Yet I didn’t exactly do myself any fa-
+vours by holding a Lonely Planet and
+map in each hand, camera hung loose
+around neck like the clichéd Japanese
+tourist. I looked like every pickpocket’s
+ideal target.
+What could I have done to the thief?
+I had the liberty to pin him down, de-
+clare him a hijo de puta for stealing,
+then hand the man to the police for his
+crimes.
+The police would have discharged
+him due to lack of evidence. Only if
+they bother detaining him in the first
+place. Forget the police. Just a good
+battering as punishment.
+But who am I to judge? Whether the
+man was driven to illegality by des-
+peration or not, I would never know.
+It would take someone with some
+messed-up ethics to deliver a Judge
+Dread sentence. Besides, I was more
+likely to be persecuted for an act of
+violence than the pickpocket for an act
+of theft.
+I could do nothing. So I did nothing.
+I am not saying ‘for God’s sake,
+avoid Madrid’. In fact, why should you
+be deterred from visiting the city, or
+anywhere else on Earth, by the risk
+of theft and loss? You shouldn’t. Not
+because these incidents are relatively
+uncommon, but because you can pre-
+vent them with the right precautions.
+Once you have found – or caught – a
+pickpocket, you would have gained the
+experience to deal with a similar situa-
+tion in the future.
+And I will never wear a camera
+around my neck ever again.
+Don’t just go there for Hemingway’s ghost - the tapas and beers are
+heavenly too
+Jumping off a bridge with a latex rope
+strapped to your legs? You must be
+barking mad!
+But who were the pioneers of bungy
+(or bungee) jumping? Who was re-
+sponsible for commercialising this feat
+of madness?
+Write a short account of bungy jump-
+ing’s humble origins (no more than 150
+words), send it to travel.felix@imperial.
+ac.uk and win a chance to have it pub-
+lished in the next issue of felix.
+33
+Friday 20 February 2009 felix
+

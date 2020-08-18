@@ -1,0 +1,177 @@
+TECHNOLOGY
+Tips & Hacks
+Technology Editors: Chris Bowers
+Feroz Salam
+technology.felix@imperial.ac.uk
+Robot controls human arm
+Stop Online Piracy Act under fire
+Free vs. open source: why you should care
+I
+recently had the opportunity to attend
+a talk by Richard Stallman, founder
+of the Free Software Foundation, and
+a strong Free software advocate. He
+spoke on Free software, and the rights
+of us all as users of software, and in the process
+he brought something to my attention.
+A term is being increasingly used in the me-
+dia, one which is taken by most to have a posi-
+tive connotation. I’m sure you’ve all heard it
+before – ‘Open Source’. Open Source means
+simply that the code is available for anyone
+to view if they so wish, and then compile
+themselves if they don’t want to use the pack-
+age normally provided to them. Whilst this is
+indeed a good thing, it is often taken by the
+media to mean much more than it actually is.
+What the media often imply it means is
+‘Free’, used in a context more akin to ‘free-
+dom’, a concept coined by Richard Stallman
+in the 80s. A commonly quoted description is
+“Free as in speech, not free as in beer”, and
+to this extent, it is sometimes instead called
+“Libre” (for example, the free office suite Li-
+breOffice) to try and avoid the confusion. It is
+on this that Stallman spoke.
+Making the choice
+Free software has an altogether different
+meaning, and is much more about morality
+than open source is. There are four freedoms
+listed by the Free Software Foundation as fun-
+damental to free software.
+Free software often (nearly always) over-
+laps with Open Source but the two are not the
+same thing, and this is something that, in my
+experience, few people realise. In short, Free
+software was created due to moral reason-
+ing, it’s about people having power over their
+own computing and being able to decide how
+to use their own computers, whereas Open
+Source is the development technique that
+came from this. Open Source software (like
+Chromium, amongst others) is not necessarily
+free software, as free software insists on the
+four fundamental freedoms listed above and
+Open Source proponents don’t always agree
+with these freedoms. However, all free soft-
+ware (such as the GIMP) is by definition also
+open source, as this is necessary for freedom.
+Why it matters
+So why should you care about this? There
+are numerous reasons to avoid any non-free
+(proprietary) software (including backdoors
+allowing the writer to control your comput-
+er, large and unwieldy programs using more
+memory, and of course, more bugs, to name
+just a few), but in practice completely avoid-
+ing proprietary software is impossible.
+There are two main reasons that it’s impor-
+tant for you to know the difference, and why
+it’s important to care.
+Firstly, individuals should be aware not only
+of the dangers of trusting proprietary software,
+but also of the fact that Open Source software
+does not always remove these dangers to the
+same extent that Free software does.
+Secondly, there has been a thought process
+prevalent in software companies over the past
+few years. “If it fails, open source it and claim
+that you’re giving back to the community”,
+trying to gain good rep by ‘giving’ their failed
+projects to the community. Many people fall
+for this, believing that Open Source is inher-
+ently a good thing, but this is simply not the
+case. In actual fact, these programs are often
+given very restrictive licenses, and/or rely on
+the community to clean it up so that it can be-
+come a useful program. Free software licences
+force companies who donate software to the
+community to actually give the software up
+when they donate it, thus allowing it to truly
+become community owned.
+So, in short, Free software conforms to the
+four fundamental freedoms, but Open Source
+simply conforms to freedom 1. Free software
+gives you, the user, freedom, but Open Source
+does not.
+Free software everyday?
+How much should this matter to you? Finding
+truly Free software, for a variety of reasons,
+is a lot more difficult than you would hope,
+so it might not be wise to depend on it. Yet if
+you get the chance, supporting and using Free
+software is definitely the way to go.
+Human-machine interfaces till now have largely
+depended upon humans telling machines how to
+behave, to help us achieve our goals. Now, work at
+the Montpellier Laboratory of Informatics, Robot-
+ics and Microelectronics has shown that things
+can work the other way around, with a robot con-
+trolling the movements of a human arm using
+electrodes attached to the arm. Given the goal of
+dropping a ball into the net and a human carrying
+a ball, the robot can apply electrical impulses to
+the arm that swivel it to the required position. The
+robot then generates a short pulse that releases
+the muscles in the hand and causes the ball to
+drop into the net. While it’s not entirely clear what
+the applications of this ability are, it’s hoped that
+the robot might assist in hospitals with patient
+rehabilitation. When used regularly by a person
+with limited limb movements, the system should
+re-familiarise the body to regular motion.
+A long drawn out legislative battle is looming in
+America, with media houses and Senators pushing
+forward a draconian new copyright law that redefines
+the responsibilities of content providers and users
+in adhering to copyright law. In simpler English, this
+means that websites such as YouTube and Vimeo
+would be reponsible for ensuring that copyrighted
+content wasn’t stored on their servers.
+The implications of this would be huge, as it would
+probably mean the end of content-sharing as we now
+know it. Given the volume of data uploaded to You-
+Tube (35 hours/minute in late 2010), the cost of ex-
+haustively monitoring uploaded content will probably
+prove prohibitive for most video hosting providers.
+The law has naturally been met with vocal opposi-
+tion from a coalition of leading technology firms: in
+a rare show of unity, Facebook, Google, Twitter, Aol,
+Ebay, LinkedIn and Yahoo have published a public
+letter to the Senate expressing concern about the
+‘serious risk’ to innovation and job creation within
+the industry. Another key provision of the bill would
+make unauthorized streaming a felony.
+Whatever the final outcome of the American policy
+debate, there’s bound to be an impact on British
+copyright law in the near future. Preserving our right
+to keep our data private and pushing for fairer copy-
+right solutions is vital.
+Sanchit Sharma on why ‘Free’ is more than you expect
+The four freedoms of
+Free software
+Freedom 0:
+The freedom to run the program, for
+any purpose
+Freedom 1:
+The freedom to study how the pro-
+gram works, and change it so it does
+your computing as you wish. Access
+to the source code is a precondition
+for this.
+Freedom 2:
+The freedom to redistribute copies
+so you can help your neighbor.
+Freedom 3:
+The freedom to distribute copies of
+your modified versions to others. By
+doing this you can give the whole
+community a chance to benefit from
+your changes. Access to the source
+code is a precondition for this.
+FELIX
+12 Friday 18 november 2011
+Burning one gallon of gasoline creates about 19 pounds of CO2
+. The average mature tree can absorb 48 pounds of CO2
+per year – GREEN WEEK 2011
+

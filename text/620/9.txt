@@ -1,0 +1,183 @@
+de Bono's L-Game is available from de Bono
+Games, Mountbatten House, Victoria Street,
+Windsor, Berkshire SL4 1HE for £4-95
+including postage and packing.
+Bored? Listless? Too much spare time over the long summer
+months? Why not sit back and stimulate your brain with the
+PUZZUES & GAMES PAGE
+Winning Ways by Elwyn Berlekamp, John
+Conway and Richard Guy.
+In many ways this is an unnecessary review.
+Those of you who read Martin Gardner's
+column in Scientific American will already be
+familiar with the name of John Conway. Y o u
+will already have met his astonishing gift for
+using and explaining high-powered maths as if
+it were a child's plaything, and you will want
+this book. Those of you who do not read
+Martin Gardner will not know what I am
+talking about, but will not be interested in the
+book anyway.
+In fact it is actually two books. Volume One
+is subtitled 'Games in General' and set up a
+formal mathematical system which may be
+used to analyse virtually any game which is
+susceptible to analysis. The authors begin by
+setting up a series of axioms which define a
+game, and in the first half of Volume One
+('Spade-work') they show how to analyse
+games which obey the axioms. 'Change of
+Heart' then shows how the analysis can be
+modified if some of the axioms are relaxed.
+The second volume goes on to show how the
+techniques of Volume O n e can be applied to
+'Games in Particular' and it too is divided into
+t w o s e c t i o n s : ' G a m e s in C l u b s ' w h i c h
+c o n c e n t r a t e s on competitive games, a n d
+'Solitaire Diamonds' which includes not only a
+prodigious range of puzzles including several
+which were set as Scaramouche puzzles over
+the last two years, but also all kinds of other
+mathematical curiosities which didn't fit in
+anywhere else.
+The mathematics concerned (particularly in
+Volume One) is not to be taken lightly. Part of
+the reason this review is in the postgrad F E L I X
+is that most undergrads will find it rather too
+heavy going; not that any specific mathe-
+matical knowledge is r e q u i r e d , just that
+c u r i o u s c l e a r - h e a d e d p r e c i s i o n w h i c h
+mathematicians call mathematical maturity
+and everyone else calls pedantry (if they're
+being polite). But if this doesn't deter you, the
+book is a winner, in more ways than one.
+Just to give you a taste of the contents,
+some of the more familiar games analysed
+include n i m , d o t s - a n d - b o x e s , nine men's
+m o r r i s , h e x , g o - m o k u (like noughts and
+crosses, but get five in a row on an infinite
+board) fox and geese, and (encroaching on my
+brother's review) the de Bono L-game. The
+puzzles section takes on solitaire, soma, a
+great variety of metal puzzles of the type
+made popular by Pentangle, all the piano
+shifting puzzles ever set in the Scaramouche
+column, and a certain puzzle which orginated
+in Hungary
+A s the maths is rigorous and precise, so is
+the style of the book light and informal, almost
+to the point of childishness. The author's
+determination to illustrate every single point
+with a joke, pun, silly drawing or mnemonic is
+sometimes very funny, sometimes astonishing
+and occasionlly irritating.
+M y favourite game in the book is Phutball
+and I strongly recommend you to go to a
+bookshop and memorise the rules of this
+excellent game. Here, though, is the book's
+description of Dodgem, a game which has
+already fascinated many of the F E L I X staff.
+m i t t off
+t t t
+•
+•o o
+B l a c k
+"Colin Vout invented this excellent little game
+played with two black cars and two white ones
+on a 3 x 3 board, starting as in the diagram. The
+players alternately move one of their cars one
+square in one of the three permitted directions
+(E, N or S for Black; N , E or W for White)
+and the first player to get both of his cars oft
+the board wins. Black's cars may only leave
+the b o a r d across its right-hand edge a n d
+White's cars only leave across the top edge.
+Only one car is permitted on a square, and you
+lose if y o u prevent y o u r o p p o n e n t from
+moving."
+Winning Ways is published by Academic
+Press at £21.60 (ouch!) in paperback or £63 in
+hardback. It's in stock at IC Bookshop, and I'll
+be recommending it to the Union book buyer.
+Martin S Taylor
+The L-Game by de Bono Games of
+Windsor, £4.95
+The L-Game was invented in the mid-sixties by
+Edward de Bono; to meet a challenge to
+produce a game which has both the simplicity
+of noughts and crosses and the strategic skill
+of chess.
+The area of play consists of a square board
+of sixteen squares. Each player has one L-
+shaped piece and there are two neutral pieces.
+O n each turn, a player must move his L-
+piece to a new position, and then may move
+one of the neutral pices. Play alternates until
+one player has no legal move. This player is the
+loser.
+V a r i a t i o n s on this theme include Gold
+and Silver w h i c h i n v o l v e s f i n d i n g t w o
+squares secretly selected by your opponent
+whilst he attempted to find yours. Added value
+is a similar game in which each player secretly
+assigns values to certain squares, and a pre-
+determined total has to be reached, a player
+scoring points each time his L piece covers the
+square his opponent has valued.
+I found the game absorbing and entertaining,
+the game being as involved and as skilful as the
+players want to make it.
+Since the game is easy to m a k e from
+cardboard, the price of £4.95 seems a little
+high. Nevertheless the game is well made from
+brightly coloured plastic and heavy duty board
+and for those who enjoy the added satisfaction
+of playing on a neatly presented set, the game
+is excellent value.
+Jeremy (Oh my God not another) Taylor
+PINCCCHIC
+A simpler puzzle this issue. I want you to find
+the largest number possible using only four
+threes. Only powers, multiplication, division,
+subtraction and addition can be used (eg 3 to
+the power 333 is permissible, but cosh (3333) is
+not). If you're not above 10 to the power 100,
+you're not really trying. N o need to evaluate
+it—just leave it in the four threes form. G o o d
+luck everyone!
+Solutions, comments and criticisms to me at
+the FELIX Office, please. There is a prize of £5
+(donated by Mend-a-Bike) for the correct
+entry randomly selected at 1:00pm on
+Wednesday.
+Last Week's Solution
+Norman arrived first, then L e n , Michael, Peter
+a n d finally O l i v e r . O u t of four c o r r e c t
+s o l u t i o n s , P a t r i c k O ' H a r a , D e p a r t m e n t of
+Management Science, was the winner of the
+£5.
+S c a r a m o u c h e t e l l s me t h a t his f i n a l
+problems from the last F E L I X of the summer
+term are now all solved. Several people solved
+'Letters & Figures' and 'Sporting Chance' and
+Tim Pigden of M a n Sci and K e n Morison of
+C h e m Eng were selected as the respective
+winners.
+The other two puzzles were each solved by
+only one person, so congratulations summa
+cum laude to G S Girolami of Chemistry and
+Simon Morrow of Maths who solved the chess
+puzzle and the furniture shifting respectively.
+All of the above four win £10, and all the prizes
+will be available for c o l l e c t i o n from the
+afternoon of Monday, September 6.
+There isn't much point giving the solutions
+yet, since they'll only have to be repeated
+when the undergrads come back, so I'll keep
+you in suspense till then; but if you really can't
+stand it, the solution to 'Holding the Baby' is in
+Winning Ways, which is reviewed in the games
+review elsewhere in this issue.
+FELIX is published by the Editor for and on behalf of Imperial College Union Publications Board, and is printed by (be Union Print Unit, Prince Consort Road, London SW7 2BB.
+Tel. 01-589 5111 Ext 1048 or Internal 2881. Editor: Martin S Taylor; Business Manager: Peter A Rodgers; Advertising Manager: Nick Thexton. Copyright FELIX 1982.
+

@@ -1,0 +1,623 @@
+science.felix@imperial.ac.uk
+12 felix Friday 07 November 2008
+Science
+Science Editors – Daniel Burrows & Mićo Tatalović
+science.felix@imperial.ac.uk
+13
+Friday 07 November 2008 felix
+Science
+Podview
+Mico Tatalovic
+Science Editor
+felix Science NewsExpress
+Nature Podcast
+If you don’t have time to read Nature
+magazine, this handy offering rounds
+up the biggest articles and news sto-
+ries from each edition. Presented by
+Adam Rutherford and Kerri Smith, the
+podcast focuses on one or two papers
+that are particularly relevant, well-re-
+searched or just plain odd.
+This week research into the 2004 tsu-
+nami finds it may not have been as
+unique as geologists initially though;
+more bad news for amphibians in the
+form of a herbicide that increases sus-
+ceptibility to disease; and the Antiky-
+thera Mechanism – if it sounds like
+a Dan Brown book that’s because it
+probably could be – an ancient Greek
+‘computer’ thought to be the world’s
+oldest. Also, it’s great to hear scientists
+laying into economists for being as ir-
+rational as teenage girls (apologies to
+any teenage girls reading). They pack
+a lot into half an hour, and end with
+some controversial science-related
+news stories. My favourite was Sarah
+Palin’s anti-fruit fly stance. Yes, terror
+has a new face...and it’s got compound
+eyes.
+http://www.nature.com/nature/podcast/
+Science Podcast
+Nature’s main rival also has a podcast,
+and it has the merit of being presented
+by Robert Frederick, who surely has
+the smoothest voice around since Ron
+Burgundy quit Scotch.
+Following a similar format, the pod-
+cast showcases a few stories from each
+week’s magazine along with interviews
+and a smattering of in-depth analysis.
+A thoughtful account of blogging Chi-
+nese scientists aside, I found most of
+the content uninteresting, and at cer-
+tain points the show took on the air
+of Sesame Street (“Hello Bert”; “Hello
+Ernie”...). But I guess it was worth it to
+hear the fabulous news that mice are
+being given Viagra to combat muscu-
+lar dystrophy, with the side-effect of
+increased blood flow to ‘certain parts’
+of the body...they must get out more,
+these scientist types.
+http://www.sciencemag.org/about/podcast.dtl
+WONDERING what the world will
+look like when the heat is on?
+A newly discovered microfossil of an
+organism that lived during a previous
+global warming is helping researchers
+understand how aquatic life adapts to
+the warmer, lower oxygen, waters that
+can accompany radical environmental
+transformations.
+Dubbed the “Magnetic Death Star”,
+due to its round and spiky magnetite
+structure, the fossil was found among
+sediment deposited 55 million years
+ago during the Paleocene-Eocene
+Thermal Maximum (PETM), when
+surging atmospheric carbon drove
+temperatures 9 degrees Fahrenheit
+higher.
+CalTech and McGill University
+workers believe the single-celled eu-
+karyote evolved during the PETM,
+only to be out-competed and disap-
+pear again when conditions cooled
+off. (Proceedings of the National
+Academy of Science, DOI:10.1073/
+pnas.0803634105).
+Felix Whitton
+reviews journal
+podcasts
+Tonkean macaques (Macaca tonkeana)
+use true vote to decide group move-
+ments. A new study, presented at the
+European Conference on Behavioural
+Biology in Dijon France, shows for
+the first time how animals may reach
+a consensus by voting before execut-
+ing behaviour that concerns the whole
+group. The study also shows that in-
+dividuals support the majority vote
+even though they may disagree with
+the decision.
+Cédric Sueur and Odile Petit, biolo-
+gists from Strasbourg University and
+the National French Centre of Scien-
+tific Research say that their “results
+proved that voting does not exist only
+in humans”.
+Tonkean macaques live in groups
+and inhabit islands in Indonesia. Each
+morning they have to reach a consen-
+sus on where to go foraging that day,
+weighing issues such as food avail-
+ability, predation threat and possible
+encounters with other groups. But in-
+stead of an obvious lead from a domi-
+nant animal any group member can
+express an opinion by showing specific
+pre-departure behaviours, indicating
+their preferred direction of movement
+that day.
+Sueur and Petit wanted to know how
+the whole group ends up moving in
+a single direction when several indi-
+viduals suggest different directions.
+They observed two semi-free groups
+of macaques and recorded which in-
+dividuals expressed their opinions.
+Walking from 1 to 5m away from the
+group counted as a suggestion/opin-
+ion to move in that direction.
+The results showed that the group
+always chose the direction that was
+supported by the most votes. Individ-
+uals that suggested other, less popular
+directions gave up their choice and
+supported the majority vote. Sueur
+says this is the first demonstration
+that voting is not unique to humans
+and might in fact exist in a variety of
+animals.
+In an August’s issue of Science, James
+Fowler, a political scientist from the
+University of California in San Diego,
+published his results showing that the
+human tendency to vote is highly he-
+reditary. Asked to comment on Sueur
+and Petit’s findings, he said “this is
+an important study for linking voting
+behaviour in humans to behaviour in
+other primates”. However, he adds that
+humans vote because different indi-
+viduals benefit from different things
+and humans think they know which
+choice is best to achieve those things.
+Macaques all benefit from the same
+things (surviving, finding food) but
+“genuinely do not know which choice
+is best” to achieve those things. Hence
+they rely on the higher probability of
+being right if they go along with the
+majority. He concludes that to really
+say that monkeys vote like humans
+“researchers must show that the mon-
+keys achieve consensus even when
+they would individually benefit from
+different outcomes. “If these were hu-
+mans, I would just ask them what they
+want, but with monkeys I imagine it is
+harder to know what they want.”
+Monkey democracy
+Credit: cedric sueur, strasbourg University
+Scientists have identified a new target
+in pain control that could prove more
+effective than morphine.
+A team at the University of North
+Carolina, USA, has discovered that
+the prostatic acid phosphatase (PAP)
+enzyme, a tumour suppressor found
+in the prostate, is also located in pain-
+sensing neurons.
+Using knockout mice, the research-
+ers found that a lack of PAP resulted
+in increased pain sensitivity in chronic
+pain states.
+Conversely, an injection of PAP into
+the spine reduced sensitivity to painful
+stimuli.
+What is more, the effects of this
+injection lasted far longer than that
+achieved using morphine, the current
+‘gold standard’ in pain control.
+The PAP enzyme is now thought
+to work by converting an extracellu-
+lar substrate to adenosine, a known
+analgesic in mammals. (Neuron,
+DOI:10.1016/j.neuron.2008.08.024)
+Like fingerprints, the whorls of stars
+that make up galaxies come in an amaz-
+ing variety of patterns.
+And like fingerprints, these patterns
+appear to be largely independent of
+environment – new research suggests
+that whether a galaxy ends up as a ‘gi-
+ant spiral’ or an ‘extreme dwarf’ can be
+predicted simply from its mass.
+Disney and colleagues scanned the
+sky for 200 galaxies, sizing each one
+up on seven different parameters that
+should affect morphology.
+All the parameters correlated with
+each other, agreeing with other recent
+studies that have found surprisingly
+small effects of a galaxy’s interstellar
+surroundings.
+This challenges current theories of
+galaxy formation, which describe a
+chaotic history of collisions, neigh-
+bourhood interactions and feedback
+effects.
+(Nature, DOI: 10.1038/nature07366)
+Using genetically modified nematode
+worms, researchers at Liverpool Uni-
+versity have identified gene mutations
+that they believe cause higher alcohol
+tolerance: shedding light on why some
+people ‘hold their drink’ better than
+others.
+They investigated amino-acid altera-
+tions in two worms carrying mutations
+of the same gene and found that both
+mutations reduced the negative behav-
+ioural effects of alcohol, allowing more
+to be consumed before any adverse
+physical reactions occurred.
+The gene they investigated corre-
+sponds to a gene in humans that per-
+forms the same function in the nerv-
+ous system, making it now possible,
+they hope, to search the human gene
+for changes that could help identify
+individuals with a predisposition to
+alcoholism. (Mol. Biol. Cell published
+online October 15, 2008, 10.1091/mbc.
+E08-07-0689)
+Researchers at the CIN2 laboratory in
+Spain have developed an ultrasensitive
+mass sensor with resolution of up to 1.4
+zeptograms (10-21 grams) at 5 degrees
+Kelvin, five times finer than that of pre-
+vious silicon resonators.
+The device consists of a 1 nanometre
+diameter carbon nanotube attached at
+both ends to two gold electrodes.
+Atoms directed at the nanotube will
+stick to it, and this added mass causes a
+measurable change in the resonant fre-
+quency of the nanotube, which is used
+to calculate the atom’s mass.
+This device can measure the mass
+of proteins with atomic precision, and
+researchers hope to increase the reso-
+lution enough to be able to monitor
+the change of mass during chemical
+reactions.
+(Nano Letters, DOI: 10.1021/
+nl801982v)
+There are now twice as many people
+with peanut allergies than in 1998, with
+about 1-2% of the population of the UK
+and USA affected.
+The allergy mostly develops in early
+childhood, and usually remains for life.
+Aside from being a massive inconven-
+ience, the most severe anaphylactic re-
+action can be life-threatening.
+Now researchers at King’s College
+London and the National Institute for
+Health Research Biomedical Research
+Centre have found that children that
+eat peanuts from infancy have a much
+lower chance of developing peanut al-
+lergy. This is against the current advise
+offered in the UK- which is for children
+at ‘high risk of peanut allergy’ to avoid
+the nuts altogether. The lead authors of
+the study, Professor Gideon Lack, and
+Dr George du Toit emphasise that they
+would not advise going against Depart-
+ment of Health guidelines “this study is
+by no means conclusive and that there
+are numerous other factors that could
+not be controlled for and could have
+influenced the results”.
+Prof Lack is currently heading up
+another study that is hoped will give
+more conclusive results - it is the larg-
+est randomised controlled trial of pea-
+nut allergy avoidance- with results ex-
+pected in 2014.
+This could lead to a greater under-
+standing of how to avoid other food
+allergies, and this possibility for early
+prevention could literally save lives.
+Umia Kukathasan
+Reference: KCL press re-
+lease: 31 Oct 2008 http://www.
+kcl.ac.uk/news/news_details.
+php?news_id=936&year=2008
+Psychologists at the University of Ro-
+chester have published a study in the
+Journal of Personality and Social Psy-
+chology, suggesting wearing red could
+make you more attractive – if you’re
+female.
+They also found that men were pre-
+pared to spend more money on a date
+with a woman in a red shirt, rather
+than a blue shirt. The photos were cali-
+brated to exact saturation and bright-
+ness, meaning the effect could only be
+attributed to hue.
+Women shown the same pictures
+showed no such bias when asked to
+give an attractiveness rating, suggest-
+ing an unconscious link in the male
+mind with fertility. This behaviour has
+previously been observed in nonhu-
+man primates such as baboons and
+chimpanzees, which visibly redden
+when near ovulation.
+Death-star insight on
+global warming
+Mass Sensor with
+Atomic Precision
+Nature, not Nurture
+for Galaxies
+Wearing red boosts
+your attractivness
+A peanut a day keeps
+allergy at bay?
+Move over Morphine,
+there’s a new boy
+Holding your Liquor:
+Wormy Drinkers
+Contrary to headlines in certain na-
+tional newspapers, a study carried
+out at the Institute of Food Research
+(IFR) does not yet directly point to the
+prevention of cancer by eating jams
+and jellies, the NHS Choices website
+suggests.
+The ‘Behind the Headlines’ guide
+to science draws attention to the fact
+that the original investigation by Dr.
+Patrick Gunning and his team is very
+early research, not even carried out
+in living cells and therefore as yet not
+applicable to humans.
+“JamandJellycanhelpfightCancer”
+reported the Daily Express, although
+both contain a high proportion of
+sugar and are therefore not usually at
+the top of the list for a healthy diet.
+Published online in the FASEB Jour-
+nal, the new study cites previous re-
+search which proposed that modified
+pectin may “inhibit the function of
+the protein galectin-3 (Gal3)”, consid-
+ered to be “a diagnostic marker and
+a target protein for cancer treatment”.
+Dr. Gunning and his colleagues found
+that a fragment of potato pectin called
+galactan can bind to the recombinant
+form of human Gal3 and that this “is
+consistent with the molecular hy-
+pothesis for the observed anticancer
+action of modified pectin”.
+However, there is much more re-
+search to be done before this can be
+extrapolated to the pectin found in
+jam and jelly and the effect it may
+have on the human consumer. In the
+meantime “it is best to consistently
+eat a range of fruits, vegetables and
+high-fibre foods,” says co-researcher
+Professor Vic Morris.
+Anti-cancerous Effect
+of Jam and Jelly?
+Umia Kukathsan Jacob Aron Maria Hogan Janet Cargill
+Dr Tim Jones Dr Louise Whiteley Abigail Orr Jessica Hamzelou
+Obama on the top 8 Science Topics
+Abridged answers from Obama’s re-
+sponses to ScienceDebate 2008.
+1. Innovation.
+Ensuring that the U.S. continues to
+lead the world in science and technol-
+ogy will be a central priority for my
+administration. Our talent for innova-
+tion is still the envy of the world, but
+we face unprecedented challenges that
+demand new approaches. For example,
+the U.S. annually imports $53 billion
+more in advanced technology prod-
+ucts than we export. China is now the
+world’s number one high technology
+exporter. This competitive situation
+may only worsen over time because
+the number of U.S. students pursuing
+technical careers is declining. The U.S.
+ranks 17th among developed nations
+in the proportion of college students
+receiving degrees in science or engi-
+neering; we were in third place thirty
+years ago.
+My administration will increase
+funding for basic research in physical
+and life sciences, mathematics, and
+engineering at a rate that would dou-
+ble basic research budgets over the
+next decade. We will increase research
+grants for early-career researchers to
+keep young scientists entering these
+fields. We will increase support for
+high-risk, high-payoff research portfo-
+lios at our science agencies.
+2. Climate Change
+There can no longer be any doubt
+that human activities are influencing
+the global climate and we must react
+quickly and effectively. First, the U.S.
+must get off the sidelines and take long-
+overdue action here at home to reduce
+our own greenhouse gas emissions.
+We must also take a leadership role in
+designing technologies that allow us to
+enjoy a growing, prosperous economy
+while reducing greenhouse gas emis-
+sions by 80 percent below 1990 levels
+by 2050. With the right incentives, I’m
+convinced that American ingenuity
+can do this, and in the process make
+American businesses more productive,
+create jobs, and make America’s build-
+ings and vehicles safer and more at-
+tractive. This is a global problem. U.S.
+leadership is essential but solutions will
+require contributions from all parts of
+the world—particularly the rest of the
+world’s major emitters: China, Europe,
+and India.
+3. Energy.
+America’s challenges in providing se-
+cure, affordable energy while address-
+ing climate change mean that we must
+make much more efficient use of en-
+ergy and begin to rely on new energy
+sources that eliminate or greatly re-
+duce greenhouse gas emissions. My
+programs focus both on a greatly ex-
+panded program of federally funded
+energy research and development and
+on policies designed to speed the adop-
+tion of innovative energy technologies
+and stimulate private innovation.
+First, I have proposed programs that,
+taken together, will increase federal in-
+vestment in the clean energy research,
+development, and deployment by $150
+billion over ten years. Second, it is es-
+sential that we create a strong, predict-
+able market for energy innovations
+with concrete goals that speed intro-
+duction of innovative products and
+provide a strong incentive for private
+R&D investment in energy technolo-
+gies. These concrete goals include in-
+creasing new building efficiency by 50
+percent and existing building efficien-
+cy by 25 percent over the next decade
+and increasing fuel economy standards
+4 percent per year.
+4. National Security.
+Technology leadership is key to our
+national security. It’s essential to cre-
+ate a coherent new defense technology
+strategy to meet the kinds of threats
+we may face—asymmetric conflicts,
+urban operations, peacekeeping mis-
+sions, and cyber, bio, and proliferation
+threats, as well as new kinds of sym-
+metric threats.
+This year, I was encouraged to see
+the Department of Defense (DoD)
+requested a sharp increase in the ba-
+sic research budget for breakthrough
+technologies. More is needed. My
+administration will put basic defense
+research on a path to double and will
+assure strong funding for investments
+in DoD’s applied research programs.
+We will enhance the connections be-
+tween defense researchers and their
+war-fighting counterparts. And, we
+will strengthen defense research man-
+agement so that our most innovative
+minds are working on our most press-
+ingdefenseproblems.Astrongresearch
+program can also lower procurement
+costs by reducing technical risks and
+increasing reliability and performance.
+Renewing DARPA (the Defense Ad-
+vanced Research Projects Agency) will
+be a key part of this strategy.
+5. Water.
+Solutions to this critical problem will
+require close collaboration between
+federal, state, and local governments
+and the people and businesses affected.
+First, prices and policies must be set in
+a ways that give everyone a clear incen-
+tive to use water efficiently and avoid
+waste. Regulations affecting water use
+in appliances and incentives to shift
+from irrigated lawns to “water smart”
+landscapes are examples. Second,
+information, training, and, in some
+cases, economic assistance should be
+provided to farms and businesses that
+will need to shift to more efficient wa-
+ter practices. Many communities are
+offering kits to help businesses and
+homeowners audit their water use and
+find ways to reduce use. These should
+be evaluated, with the most success-
+ful programs expanded to other states
+and regions. I will establish a national
+plan to help high-growth regions with
+the challenges of managing their water
+supplies.
+In addition, it is also critical that we
+undertake a concerted program of re-
+search, development, and testing of
+new technologies that can reduce wa-
+ter use.
+6. Scientific Research.
+Federally supported basic research,
+aimed at understanding many fea-
+tures of nature— from the size of the
+universe to subatomic particles, from
+the chemical reactions that support a
+living cell to interactions that sustain
+ecosystems—has been an essential
+feature of American life for over fifty
+years. While the outcomes of specific
+projects are never predictable, basic
+research has been a reliable source of
+new knowledge that has fueled impor-
+tant developments in fields ranging
+from telecommunications to medi-
+cine, yielding remarkable rates of eco-
+nomic return and ensuring American
+leadership in industry, military power,
+and higher education. I believe that
+continued investment in fundamen-
+tal research is essential for ensuring
+healthier lives, better sources of en-
+ergy, superior military capacity, and
+high-wage jobs for our nation’s future.
+Sustained and predictable increas-
+es in research funding will allow the
+United States to accomplish a great
+deal. First, we can expand the frontiers
+of human knowledge. Second, we can
+provide greater support for high-risk,
+high-return research and for young
+scientists at the beginning of their ca-
+reers. Third, we can harness science
+and technology to address the “grand
+challenges” of the 21st century: energy,
+health, food and water, national secu-
+rity and information technology.
+7. Space.
+I will establish a robust and balanced
+civilian space program. Under my ad-
+ministration, NASA not only will in-
+spire the world with both human and
+robotic space exploration, but also
+will again lead in confronting the chal-
+lenges we face here on Earth, including
+global climate change, energy inde-
+pendence, and aeronautics research.
+In achieving this vision, I will reach out
+to include international partners and
+to engage the private sector to amplify
+NASA’s reach. I believe that a revital-
+ized NASA can help America maintain
+its innovation edge and contribute to
+American economic growth.
+8. Stem cells.
+I strongly support expanding research
+on stem cells. I believe that the restric-
+tions that President Bush has placed on
+funding of human embryonic stem cell
+research have handcuffed our scien-
+tists and hindered our ability to com-
+pete with other nations. As president,
+I will lift the current administration’s
+ban on federal funding of research
+on embryonic stem cell lines through
+executive order, and I will ensure that
+all research on stem cells is conducted
+ethically and with rigorous oversight.
+Credit: Study Of A Woman In Red, Henner, Jean-Jacques
+Daniel Burrows
+Science Editor
+The one at the top seems to be confused by the front ones behind
+President-elect Obama giving a speech
+

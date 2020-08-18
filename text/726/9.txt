@@ -1,0 +1,293 @@
+Computers That Can Taste
+And Smell
+Continued from page 7
+replaced by a continuously
+flowing solution w h i c h
+contains the necessary
+nutrients. T h i s technique
+has many advantages over
+more conventional methods
+of crop growth, in
+particular, as crop yields
+can be increased by as
+much as tenfold, more
+efficient use of glasshouses
+is possible. It also allows
+for better control ?f plant
+growth, less trouble from
+pests, and a quicker turn
+round between crops.
+However, it is important
+that p H is controlled, that
+the nutrient solution is
+replenished with iron,
+potassium, and nitrate ions
+as they are used up by the
+plants, and that the build
+up of undesirable ions s u c h
+as chloride and s o d i u m is
+monitored the design of the
+automatic nutrient film
+analyser is based on ion
+selective electrodes. T h e s e
+use a carrier, impregnated
+in a membrane, to bind the
+target ion in the right sized
+cavity and transport it
+across the membrane. For
+example, in the case of
+potassium ions a naturally
+o c c u r i n g c o m p o u n d
+valinomycin is used. T h e
+potential w h i c h is
+established across the
+membrane provides a direct
+measure of the
+concentration. In the new
+system a m i c r o c o m p u t e r is
+used to calibrate the
+electrodes, control the
+sensors, sample the
+nutrient, and analyse the
+data. A n important aspect
+of the system is that it c a n
+be used and maintained by
+non-specialised staff. At
+present it is in use at the
+National Institute of
+Agricultural Engineering
+and has successfully
+monitored tomato crops
+throughout two g r o w i n g
+seasons.
+A n electrochemical
+sensor designed to
+measure expired carbon
+dioxide has been developed
+by Professor Albery,
+H u m p h r e y D r u m m o n d , and
+Bill Y o u n g in collabration
+with Dr Han of the
+Radcliffe Infirmary, O x f o r d .
+This sensor was p r o d u c e d
+to monitor patients in
+intensive care, and for use
+; in the operating theatre It
+makes use of a teflon
+; membrane, w h i c h allows
+oxygen and carbon dioxide
+to pass through, to
+separate the expired air
+from the thin layer of
+; solution in w h i c h the
+electrochemistry takes
+place. B e c a u s e c a r b o n
+dioxide is electrochemically
+stable to even large
+voltages (2-3v), the action
+of the sensor depends on
+reduction of o x y g e n to
+generate the highly reactive
+superoxide ion, w h i c h then
+reacts with the carbon
+dioxide. T h e concentration
+of c a r b o n dioxide is then
+calculated from the
+difference between the
+amount of superoxide
+generated and the amount
+recovered. This can all be
+achieved so rapidly that it
+is possible to display a
+breath by breath analysis of
+expired c a r b o n dioxide.
+By c o u p l i n g e n z y m e s
+with electrodes a very
+sophisticated and selective
+recognition can be
+achieved. Professor Albery
+and Dr C a s s are working
+on a number of important
+new biosensors which take
+advantage of the catalytic
+activity and specificity of
+enzymes.
+A n important
+breakthrough has been the
+the development of a
+biosensor to detect alcohol.
+T h e sensor, w h i c h has
+T h e result is a sensor
+where the current is
+directly proportional to the
+concentration of the
+alcolol.
+There is also a g l u c o s e
+biosensor, which has been
+developed by Professor
+Albery, Dr C a s s and Derek
+Craston, that is of similar
+design to the alcohol
+sensor. However, it is
+based on the
+oxidation/reduction of
+F A D H / F A D . Recent tests of
+this sensor, carried out by
+Dr Fillenz at O x f o r d , have
+s h o w n that it can be used
+to measure blood g l u c o s e
+levels in vivo. S o it should
+prove extremely valuable in
+treatment of diabetes, as
+well as for fermentation
+control, and tests on meat
+freshness.
+T h e 'electrochemical
+canary', which is a
+biosensor d e s i g n e d to
+detect toxic gases s u c h as
+hydrogen sulphide and
+hydrogen cyanide, is
+another project that Dr
+C a s s and Professor Albery
+are collaborating o n , along
+with S Shiu. This sensor
+been developed by
+Professor Albery, Dr C a s s
+and K S i m , s h o u l d find
+application in process
+control of fermentation, for
+c u s t o m s a n d e x c i s e to test
+alcohol content of spirits,
+and in the production of a
+more efficent breathalyser
+for police use. But its major
+importance lies in the fact
+that this action is based on
+the oxidation of N A D H to
+N A D as there are over 250
+enzymes that use the
+cofactor N A D / N A D H . T h i s
+o p e n s up the possiblity of
+constructing e n z y m e s
+electrodes of this type with
+a wide range of
+applications.
+T h e alcohol biosensor
+takes advantage of the
+catalytic activity of the
+enzyme. A piece of dialysis
+membrane, w h i c h allows
+the substrate (in this case
+alcohol) to pass through, is
+used to trap the e n z y m e in
+a solution layer next to the
+electrode. T h e e n z y m e then
+acts as a catalyst for the
+reaction between N A D and
+the substrate, p r o d u c i n g
+N A D H .
+T h e electrode is made of
+a strongly c o n d u c t i n g
+organic salt specially
+c h o s e n by the term, w h i c h
+absorbs the e n y z m e on its
+surface, but more
+importantly facilitates the
+oxidation of N A D H to N A D .
+s h o u l d prove to be
+extremely valuable for use
+on oil rigs, as well as for
+general environmental
+monitoring. At low
+concentration levels
+hydrogen sulphide gas is
+easily detectable because
+of its pungent odour, but at
+higher levels it cannot be
+detected by smell. This is
+particularly a problem for
+the oil industry, as oil often
+contains pockets of other
+gases, and in the past
+accidents have led to
+deaths from hydrogen
+sulphide p o i s o n i n g . T h e
+e n z y m e at present used in
+the sensors c o m e s from
+beef heart, and is the one
+that is actually affected if
+the toxic gases enter the
+body. However, the sensor
+might be required to
+remain inactive for long
+periods of time before it is
+needed, and the long term
+stability of this particular
+enzyme is proving to be a
+problem. S o the team are
+looking for other more
+stable naturally occurring
+enzymes, or at the
+possibility of genetic
+manipulation.
+Dr C a s s ' s group have
+also developed a
+paracetamol biosensor
+w h i c h is in the process of
+g o i n g into c o m m e r c i a l
+production. This is an
+extremely valuable sensor
+as it can be used by
+hospital staff to rapidly
+assess the extent of an
+overdose, s o helping to
+save lives. At present, the
+group are also working on
+sensors to measure the
+extent of water pollution by
+insecticides.
+Electrochemical sensors
+have an important role to
+play in the future of
+science. But the
+development of new
+sensors requires
+collaboration between
+scientists of different
+disciplines including
+electrical engineers,
+chemists, biochemists, a n d
+biotechnologists. S o it was
+with this in mind that the
+S c i e n c e and Engineering
+Research C o u n c i l recently
+l a u n c h e d a special initiative
+to support and e n c o u r a g e
+this type of interdisciplinary
+work in universities and
+polytechnics. It is hoped
+that ultimately the
+development of new
+sensors c o u l d lead to the
+establishment of a new
+high technology industry in
+the United K i n g d o m .
+S e c u r i t y D i v i s i o n — T r a f f i c W a r d e n s
+S i n c e t h e C o l l e g e r e - o p e n e d i n J a n ' 8 6 it
+h a s b e c o m e i n c r e a s i n g l y o b v i o u s t h a t
+m a n y o f t h e s t u d e n t s ( e s p e c i a l l y
+' F r e s h e r s ' a r e f l a g r a n t l y d i s o b e y i n g t h e
+s t r i c t p a r k i n g r u l e s a n d r e g u l a t i o n s l a i d
+d o w n b y t h e s e c u r i t y o f f i c e . S h o u l d y o u
+h a v e a c a r b u t n o r e c o g n i s e d Blue p e r m i t
+( t h e K e n s i n g t o n o r C h e l s e a P e r m i t d o e s
+not a p p l y t o t h e C o l l e g e . ) y o u a r e s t r i c t l y
+not a l l o w e d t o p a r k w i t h i n t h e C o l l e g e
+C a m p u s
+S h o u l d y o u p e r s i s t i n t h i s s e l f i s h a c t i o n
+o r i g n o r a n t a t t i t u d e y o u r w h e e l s c o u l d b e
+c l a m p e d . A f i n e w o u l d t h e n b e i m p o s e d
+f o r t a k i n g s a m e o f f .
+10 Friday 17 January FELIX
+

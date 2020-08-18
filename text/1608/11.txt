@@ -1,0 +1,211 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 11
+05.06.2015
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+E. Coli engineering: the next innovation in
+antibiotics?
+Breakthroughscanoftencome
+fromtheleastexpectedplaces.
+Todayintheconstantstruggle
+betweenbacteriaandantibioticsinthe
+fighttoinfect,bacteriamayhavebeen
+dealtablowfromwithintheirown
+ranks.ResearchersattheUniversity
+ofBuffalo’sSchoolofEngineeringand
+AppliedScienceshavefoundaway
+tosuccessfullyturnE.coli,abacterial
+strainmostcommonlyassociated
+withcausinginfection,intoantibiotic
+generators.
+Perhapsevenmoresignificantly,the
+antibioticsynthesizedbythebacteria
+isErythromycin,adruginwideuse
+andonethatanincreasingnumber
+ofharmfulbacteriaarebecoming
+resistantto. Inwhatsomeoutlets
+arecallingthe“holygrail”ofthe
+field,threeoftheE.coli-synthesized
+Erythromycinanalogswereableto
+killbacteriathatareresistanttothe
+antibioticscurrentlyinclinicaluse.
+Alteringtheassemblyofthedrugin
+thecell,ratherthanthecomponents
+themselves,createdthesenew
+formsoftheantibiotic,apartof
+theprocessthathasreceivedlittle
+focusfromresearcherspreviously.
+Encouragingbacterialenzymesto
+accept16alternatesugarsubstrates
+intheprocess,theE.coliwereable
+tosynthesize42newversionsof
+Erythromycin.
+AlthoughbacteriasuchasS.
+erythraeaareabletonaturally
+synthesizeErythromycin,ithasproven
+difficulttocultivateinlabconditions.
+E.coliontheotherhandhasproven
+invaluableinarangeofresearch,asit
+isfastgrowingandverysusceptibleto
+takingupnewgenes.Thismeansthat
+it’splausiblethatDr.BlainePfeifer’s
+teammayhavefoundapracticalway
+toeasilycombatthespreadoffast-
+adaptingsuperbugslikeMRSAusing
+E.coliasantibioticpowerhouses.
+Dr.Pfeifer,headofthelabatBuffalo,
+statedthattheresearchcarriedoutby
+post-docG.Zhangwas“animportant
+stepforward”inthefightagainst
+infection. Theresearchersaresurethe
+implicationsofthestudyaremuch
+broaderthanoneantibiotic,arguing
+“theresearchopensthedoorfor
+additionalengineeringpossibilitiesin
+thefuture”.Indeed,althoughfurther
+tweakingwillberequiredinorder
+beforeanyE.coli-producedantibiotics
+endupingeneraluse,thismethod
+couldhelpansweroneofmedicine’s
+mostpressingproblems.TheUSCentre
+forDiseaseControlandPrevention
+estimatesthat23,000deathsin
+Americain2013weretheresultof
+antibiotic-resistantinfection.There
+arecurrently15bacteriaresistant
+toantibioticsthattheCDCPhave
+classedasurgentorseriousthreats
+andtheWorldHealthOrganization
+hasdescribedthetrendas “globally
+threateningourabilitytotreat
+infectiousdisease”.
+Itisalsoclearthatthescientistsatthe
+UniversityofBuffaloseethisasmore
+thanjustabreakthroughinthefieldof
+antibiotics.TheErythromycinpathway
+isbeingviewedasatemplatesystem
+forthecreationoffurther“unnatural
+naturalproducts”and,withmore
+modification,couldbeusedagainstall
+kindsofillnessesincludingcancer. We
+arestillyearsofresearchawayfrom
+theuseofanycompoundsmadefrom
+bacteriabeingavailablewidelyfor
+medicaltreatment,butE.colimayturn
+outtobeourunlikelyallyinthebattle
+againstdisease.
+Scientists have manipulated E. Coli to produce antibiotics that could
+combat superbugs Photo: Wikimedia Commons
+Gut bacteria could be key to effective drugs
+Over the past few years, there
+has been increasing interest in
+the bacteria that live in our gut
+– the microbiome. From activating
+essential vitamins, metabolising
+drugs to the very way in which we
+respond to various infections, our
+microbiome has been known to be
+involved in a vast variety of biological
+processes. The idea that microbes can
+activate or inactivate drugs, generate
+toxic by-products of drug metabolism
+and alter drug metabolism by human
+cells in both direct and indirect ways
+has been known for decades. Recently,
+this idea has become more popular.
+Ramy Aziz, a microbiologist from
+the Faculty of Pharmacy at Cairo
+University explains how the current
+research into pharmacogenomics (the
+study of how variations in human
+genes contribute to individual
+differences in drug metabolism
+and effectiveness) may change the
+way drugs will be developed in the
+future: “You can give two people the
+same drug and they will respond
+differently. And it’s not because
+of their genes but the genes of the
+microbes they carry”.
+This concept is illustrated
+beautifully by the gut bacterium E.
+lenta, which can inactivate digoxin,
+a drug commonly used for patients
+with cardiac abnormalities.
+Scientists have identified a pair
+of genes, within the bacteria called
+the cgr operon, that are responsible
+for metabolising digoxin. People in
+whom a high proportion of the E.
+lenta in their gut carry the cgr operon
+are able to largely inactivate the
+drug, whilst digoxin keeps working
+in patients whose E. lenta strains lack
+the gene.
+Peter Turnbaugh, a microbiologist
+from the University of California, and
+colleagues are currently investigating
+how to augment to response of cgr-
+operon positive E. lenta on digoxin.
+It seems that the operon activity is
+reduced in the presence of the amino
+acid arginine. This was discovered
+by the researchers in mice colonised
+with E. lenta that were fed a high-
+protein diet and were found to have
+higher blood digoxin levels compared
+to those put on a protein-free diet.
+Further trials involving arginine
+supplementation alone are awaited.
+Irinotecan is another popular
+drug, used in chemotherapy for
+UTSAV RADIA
+SCIENCE WRITER
+patients with colon cancer. However,
+it has many serious side effects
+including diarrhoea and severe
+immunosuppression.
+Once Irinotecan, has been processed
+in the liver, the drug is deactivated
+and excreted via bile. It then follows
+back into the gastrointestinal tract,
+where a vast majority of the microbes
+in the gut can re-activate the drug.
+This is due to an enzyme called
+beta-glucoronidase produced by the
+microbes.
+A team of researchers in the
+University of North Carolina have
+been investigating the use of beta-
+glucoronidase inhibitors in managing
+irinotecan-induced diarrhoea.
+Surprisingly, they have also found
+that blocking beta-glucoronidase in
+the microbiome not only helps to
+reduce the inactivation-reactivation
+of irinotecan (in a process known as
+enterohepatic cycling), but this also
+applies to commonly used drugs such
+as non-steroidal anti-inflammatory
+drugs (commonly used painkillers
+such as aspirin and ibuprofen)
+that can otherwise produce serious
+gastrointestinal tract ulceration.
+Targeting the beta-glucoronidase
+pathway seems an exciting new
+cornerstone in drug designing and
+development as we can now control
+the effects of drugs by altering how
+out gut flora responds to them.
+Hopefully, it won’t be long before
+we can widely implement the use
+of beta-glucoronidase inhibitors in
+alleviating the side effects of many
+drugs by reducing their persistence in
+the body.
+New research has uncovered how gut bacteria can cause some drugs to become ineffective Photo: Wikimedia
+Commons
+MADDIE WEBB
+SCIENCE WRITER
+

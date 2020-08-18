@@ -1,0 +1,150 @@
+FELIX
+8
+You won’t believe it..
+SCIENCE
+Science Editors: Charlie Harvey
+Kelly Oakes
+Thea Cunningham
+science.felix@imperial.ac.uk
+Friday 13 may 2011
+Residents of Rome flee earthquake
+predicted in 1915...
+Urban myth or not, rumours of a possible earthquake
+predicted over 90 years ago sparked mass panic in
+Rome this week, with residents vacating the Eternal
+City for fear of a large tremor. The prediction was
+made in 1915 by Italian-born seismologist Raffaele
+Bendandi, who forecast Rome would be devastated
+by a quake on 11 May 2011. Despite officials stress-
+ing the unpredictable nature of quakes, hundreds
+of workers requested leave and families chose to
+keep their children away from school amid fears that
+Bendandi’s forecast may become true.
+With scenes of devastation left by the recent
+earthquake in Japan and memories of the 2009
+quake in the Italian city of L’Aquila, the concerns
+circulating amongst Italians this week were un-
+derstandable. A prediction made by Bendandi has
+become true in the past. In 1923, he forecast an
+earthquake would strike on January 2 the following
+year. On 4 January 1924, the Italian province of Le
+Marche was struck by a quake.
+Despite his apparent knack for forecasting, scep-
+tics this week downplayed Bendandi’s prediction of
+an earthquake in Rome, saying they had no record
+of a specific date and place. The potential for pre-
+dicting earthquakes has been the focus of much
+controversy. Bernandi based his quake predictions
+on the movement of the moon, sun and planets,
+yet some scientists argue it is impossible for us to
+predict such an event, namely because they often
+tend to strike in a random fashion, without warning.
+To date, there are no examples of forecasts that
+have successfully predicted the exact date, place
+and size of an earthquake. Felix was still waiting for
+news of a quake at the time of print...
+Thea Cunningham
+Scientists at Imperial and the University of
+Washington have taken an important new step
+towards controlling malaria by genetically
+modifying mosquitoes.
+Malaria affects 300 million people every year
+and, as it is one of the infamous ‘Big Three’ in-
+fectious diseases, eradication is a global goal.
+Scientists have already succeeded in creating
+‘malaria-resistant mosquitoes’, which are modi-
+fied in ways that target the mosquito’s ability
+to transmit the disease. But until now the main
+sticking point has been trying to find a way to
+ensure that this trait is maintained in wild popu-
+lations. As they do not offer the mosquito an
+advantage, the modified traits tend to disappear
+shortly after the mosquitoes are released.
+These most recent developments tackle this
+problem by inserting a gene called I-Scel,
+which is a homing endonuclease, into the
+mosquito genome. This sequence produces an
+enzyme which deactivates a target gene and re-
+places it with a copy of itself. As this occurs in
+the mosquito’s sperm cells, the I-Scel sequence
+is inherited by nearly all its offspring. In this
+study the gene targeted for inactivation by I-
+Scel was simply a green fluorescent marker for
+ease of observation, but further research will
+now aim to target genes needed by the mos-
+quito for reproduction or transmission of the
+malaria parasite.
+It is hoped that this will result in a low cost,
+highly effective malaria control strategy,
+though much further research is required. Pro-
+fessor Andrea Crisanti, a senior author of the
+study said: “We expect to conduct many more
+experiments to determine its safety and reli-
+ability.”
+Managing malaria with modified mozzies
+Chloe McIvor
+Ever looked at the squandered energy shim-
+mering off hundreds of idling, traffic-jammed
+cars and wondered, “couldn’t we do something
+with that?”
+The waste heat problem has puzzled scien-
+tists for decades. Some researchers predict that
+waste heat from wind turbines could have a
+small global warming effect, leaving us with
+an ever greater need for a solution. However,
+scientists from China and America may have
+the answer – thermoelectric generators.
+The generators – which convert heat into
+electricity – have been around for a while. But
+the materials they are based on are inefficient
+and have only found use in niche applications
+like powering space probes. The team has un-
+covered a talented alloy of lead and tellurium
+that could change all that.
+When electricity flows between conductors,
+the moving electrons carry heat with them,
+causing one conductor to heat up and the other
+to cool down. The reverse is also true – if you
+heat a circuit containing two different conduc-
+tors, electricity will start to flow. This is known
+as the Seebeck effect, after physicist Thomas
+Johann Seebeck who discovered it in 1821.
+The thermoelectric problem lies in finding
+materials with a high zT value. A material’s zT
+value is the relationship between its Seebeck
+value, its conductivity, and the temperature.
+To make a useful thermoelectric generator, zT
+should be at least 1.5 – for this it needs a high
+Seebeck value, high electric conductivity, and
+low thermal conductivity.
+By carefully adding sodium and selenium to
+their alloy, and by manipulating its structure
+at the nano scale, the researchers were able to
+create a material with ‘valleys’ that conducted
+electricity more readily, while keeping thermal
+conductivity low. When heated to 577°C, the
+material has a zT value of 1.8, an achievement
+the team has labelled “extraordinary”. The
+research, published in Nature, could soon be
+transforming thermoelectric generators from
+niche nobodies into heroes – delivering extra
+power whilst effortlessly cooling our world.
+James Pope
+Device reaches the final heat
+The Romans earthquake-
+proofed this, right?
+As the temperature soared, the heat was on to make use of it
+Scientists create generator to make use of waste heat
+It’s been so hot lately even the mosquitoes have been dropping like flies
+20 May 2011 6.30pm
+Architectural Association School of Architecture, 36
+Bedford Sq, London
+As part of a new collaborative energy exhibition ‘Feel
+the force’, Imperial cosmologist Professor Andrew
+Jaffe, architect Shin Egashira and photographer Go-
+swin Schwedinger explore the human desire to alter
+our past and future, and question whether science
+fiction is any closer to becoming science fact.
+Time Travel –
+Shamanism to the Space Age
+

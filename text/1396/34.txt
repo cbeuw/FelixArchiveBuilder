@@ -1,0 +1,282 @@
+Update: Yahoo! rejects M$
+Felix brings readers up to speed on this gigantic corporate game of ping pong
+W
+hat breaking news
+has come out of the
+Tech companies
+that span the sur-
+face of the world
+this week?
+Well, to add to Microsoft’s hobby of
+buying other companies, they placed
+a bid for Danger Inc, a company that
+designs mobile phones and produces
+software for them. Looks a bit like MS
+might be going down the phone mar-
+ket after Apple, but will they release
+anything that can compete with the
+iPhone in terms of pure popularity?
+Conversely, Apple have updated their
+trademark to cover the Apple brand
+in the video game sector so they may
+be going after the Xbox, trying to plug
+the hole that will be produced when no
+PS4 is released.
+The government has changed its reg-
+ulations on who is to blame for illegal
+downloads. They have decided to place
+the blame in the hands of ISPs unless
+they block the users responsible. This
+is intended to force the providers to
+take action instead of various copy-
+right infringement bodies.
+Intel is in more trouble as it has been
+accused of abusing its monopoly on
+the processor market. Great news for
+AMD fans as these claims, if founded,
+can lead to the EU confiscating 10% of
+Intel’s turnover: which is an even big-
+ger chunk of their final profit.
+The European space program’s Co-
+lumbus ISS module was successfully
+attached this week after years of delays
+to its original launch and a a few minor
+delays to the actual attachment. One of
+the crew members was taken ill, mean-
+ing the new guy on the shuttle team
+had to take over.
+The kid who cracked the iPhone
+firmware first time round has done it
+again with the newest “most secure”
+version. Keeping in line with his previ-
+ous work the recent hack is not exactly
+user-friendly, requiring a lot of talent
+to actually take advantage of it. A sim-
+pler version will probably appear in the
+next few weeks, prompting Apple to
+kick out yet another update. When this
+game of back and forth is complete,
+the iPhone will probably be the most
+secure device on the planet.
+There has been public debate about
+the use of high-pitched sirens audible
+only to youth. The intended use is to
+annoy kids so that they stay away from
+places they are not wanted. Some of
+you may be familiar with the siren that
+is installed outside one of the hotels
+between Kensington High Street and
+Imperial College. The sides of the ar-
+gument are that this is a breach of hu-
+man rights, but there are plenty of peo-
+ple who feel this is acceptable.
+The first Google Android-enabled
+phones have been displayed by their
+manufacturers. To those unfamiliar
+with Android it is Google’s attempt at
+a operating system for phones to di-
+rectly compete with Windows Mobile
+and Symbian products. The platform
+allows developers full access to the
+source code as it uses standard Linux
+components. This is in stark contrast
+with competitors and is a million miles
+away from Apple’s infamously closed
+architecture.
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+35
+Friday 15 February 2008 felix
+James Finnerty
+Technology Editor
+They think they are onto a winner with all the investment interests but are they pricing themselves out of the market?
+W
+ell, to follow up on
+the big article last
+week, the two part-
+ners in this shotgun
+marriage have been
+having a bit of a lover's tiff. First, Yahoo
+rejected Microsoft's very generous of-
+fer due to it “not being good enough”
+and now Microsoft's Steve Ballmer has
+outdone himself with the statement
+that he rejects Yahoo's rejection. A
+very creative way to dodge the bullet
+that will be fired from the hip of Mi-
+crosoft's very loyal shareholders.
+Microsoft's £22 billion offer topped
+Yahoo's share price by 60% so it is pos-
+sible for M$ to go down the hostile
+takeover route as this would also save
+them a substantial amount of cash but
+reduce the potency of the resultant
+company due to resentment between
+the corporate bodies. Yahoo have said
+they won't accept less than $40 bil-
+lion on the share which would require
+an offer in the £25-30 billion region;
+highly unlikely as Microsoft's share
+price has fallen since the original bid,
+reducing the original offer to around
+£20 billion. It's been a long time since
+Yahoo has been worth the money it's
+asking for and it may never be worth
+it; maybe Yahoo's management are
+grabbing at pennies in an attempt to
+cut their losses before Yahoo lose any
+more of the market.
+Analysts feel the only reason Yahoo
+have rejected the initial offer is in a
+poor attempt to drive up the price Mi-
+crosoft is offering. Another possibility
+is the fact that since the announcement
+of the bid last week, Yahoo's share price
+has been on the up as people want to
+get in on the action that will be Micro-
+Hoo. This is likely to go down again
+though people are unlikely to want
+anything to do with Yahoo if it decides
+to continue as a lone entity.
+To add more fuel to the fire of Ya-
+hoo's money-grabbing (admittedly this
+is business) it has emerged that they
+are planning to begin talks with AOL
+over a possible merger. Now it appears
+that Yahoo thinks they are a bit of a
+goldmine due to MS's advances; but as
+we all know, this move is out of neces-
+sity so Yahoo going after other people
+seems a little bit off the mark. On the
+other hand, it would be quite inter-
+esting if something actually came of
+this. The thing is that AOL's subscrib-
+ers have been dropping like flies so a
+merge would correspond to two stones
+clinging together for life in the online
+advertisement ocean.
+This merger needs to happen fast,
+though, as Google currently holds a
+60% stake in the online advertisement
+business and even if MS and Y join they
+will only hold 30% between; meaning
+they're still going to have to play catch-
+up.Microsoftislikelytoupthepressure
+constantly until Yahoo submit because
+they know as well as everyone else it's
+one of their best chances of regaining
+control of the market. The ridiculous
+rumours of Google taking on Yahoo
+are still being fuelled from somewhere
+as well. Monopoly, anyone?
+Well I'm sure you'll get to hear more
+about this from me next week when
+some other weird news develops from
+this but hopefully they can just resolve
+this quickly as they are only minimiz-
+ing the actual effect of the merger.
+Nokia has a new flagship
+Felix covers Nokia’s follow up to its successful N95 model – will it be good enough?
+Superphone – Nokia N96
+N
+okia have announced
+another follow-up to
+the widely popular N95
+and N95 8Gb phones.
+Typical business plan we
+have here. Wait till everyone buys your
+top-range phone and then release one
+to take its place. At least it's got some
+cool new features, but it really doesn't
+offer enough to justify the bother of an
+upgrade. Right. That’s my opinion out
+of the way. Let’s cover the handset with
+a tad more objectivity, just for fun.
+The N96 contains everything its pred-
+ecessors had to offer and a handful
+more. It has a whopping 16Gb built-in
+storage as well as a MicroSD card read-
+er. The N95 only had the card reader
+and the N95 8Gb had, you guessed it,
+8Gb built-in and no card reader. So
+with this potent combination when
+the SDHC standard is maxed out, this
+phone will be able to store 48Gb of data
+on flash. I will let you do the math on
+how many hours of media that equates
+to.
+The 5 Megapixel camera has nothing
+new but sees a slight tweak in the ad-
+dition of a dual LED flash instead of
+a single. It will satisfy those who hold
+that the N95's flash was a little bit of a
+weakling.
+The big step is that this phone is going
+to be the first to come with a TV tuner
+built in. Amazing. If we didn't already
+have enough ways to procrastinate,
+then daytime TV’s offering of Jeremy
+Kyle and Judge July are sure to top us
+up.
+The handset also contains what has
+been dubbed ‘Assisted GPS’. What was
+wrong with regular GPS, dare I hear
+you say? Well, it was plagued with poor
+“find” times but once it knew where
+you were it could track you pretty well.
+So how have they fixed this flaw? Basi-
+cally a server figures out roughly where
+you are in the world using the mobile
+phone masts through which you are
+connected. This info is used to help the
+satellite find you faster.
+The N96 is also confirmed to contain
+Nokia's now slightly aged N-Gage plat-
+form. With some tweaks and updates
+this could provide a very promising
+selling point if the Nintendo DS' record
+sales are anything to go by. So with a
+games console, internet , GPS , TV and
+all the other endless feature sets avail-
+able across the broad market of hand-
+sets, I wonder if and when we will say
+the creatives get stuck for ideas.
+A nifty little feature that goes hand
+in hand with the ever growing video-
+playing nature of phones is a small
+kickstand located on the back allowing
+you to place it on any flat surface, sit
+back and enjoy your film. Similar to the
+little stands provided with Apple iPod's
+and iTouch's but with the practicality
+of being attached to the device.
+A small flaw that some sources have
+mentioned is that this device may not
+support full-on 3G, reducing the speed
+of its mobile Internet and removing
+video calls. A bit of a downer for the
+UK market; for the people over the
+pond 3G won't work anyway so it won't
+make a difference. Nokia also released
+the N96's sister device in the same an-
+nouncement. The N78 contains a very
+similar feature set to its sibling but is a
+more traditional soap-bar style hand-
+set rather than a slide model. This guy
+has some cool but slightly gimmicky
+features as well. Using its A-GPS it can
+geo-tag any photos you take; in other
+words it remembers where you took all
+your photos and allows you to view a
+map with photos marked out as loca-
+tions. Also it contains an FM transmit-
+ter allowing you to play your music
+through your car radio without wires,
+nothing new to media players but new
+to phones.
+So, in conclusion, this doesn't really ap-
+pear to be a true flagship successor but
+it is pushing the envelope forward to-
+wards a device that will be as popular.
+

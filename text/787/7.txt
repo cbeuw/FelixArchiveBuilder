@@ -1,0 +1,169 @@
+Figure 2
+Dodecanol and tetradecanol (12 and 14 carbons atoms long respectively)
+can only cover up the same surface area (shaded) by binding to a
+protein pocket. This may explain the 'cut-off' effect.
+'flOTEIN
+Q O H
+D O D E C A N O L -
+A N A E S T H E T I C
+T E T R A D E C A N O L -
+N O N - A N A E S T H E T I C
+1984 all that began to change. Nick
+Franks and Bill Lieb of Imperial
+College found a protein that was
+inhibited directly by a wide range of
+anaesthetics. This was a striking
+result. It overturned previous notions
+about the nature of proteins.
+Compared to the lipid bilayer protein
+molecules are rigid constructions; it
+came as a great surprise to see a
+protein pocket, which was designed
+to fit one particular compound,
+binding a whole variety of
+compounds, namely anaesthetics.
+This remarkable protein is firefly
+luciferase, an enzyme which catalyses
+the light emitting reaction of luciferin,
+A T P and oxygen (fireflies use the
+light to recognise each other in the
+dark). It showed a sensitivity to the
+presence of anaesthetics not seen with
+lipid bilayers: at concentrations of
+anaesthetic which normally induce
+unconsciousness the light output of
+the reaction is reduced by fifty
+percent. Franks and Lieb showed that
+anaesthetics block the reaction by
+binding to the hydrophobic pocket on
+the protein normally reserved for
+luciferin.
+Of course firefly luciferase is not
+the site of anaesthetic action since it
+is not found in the brain. However it
+does not seem unlikely that a protein
+pocket like the one on luciferase could
+be found one or several of the
+thousands of proteins known to be
+operational in the brain.
+Cut-off
+The concept of the protein pocket of
+finite size as the site of anaesthetic
+action is proving useful. It can be used
+to account for the phenomenon 'cut-
+off. This is observed, for example,
+with long chain alcohols: dodecanol
+is a very potent anaesthetic (only a
+tiny concentration is needed to
+anaesthetize) but tetradecanol, which
+is actually more hydrophobic, is not
+an anaesthetic at all. The anaesthetic
+potency of long chain alcohols
+therefore 'cuts o f f for molecules
+greater than 12 carbon atoms in
+length.
+A n anaesthetic is driven into a
+protein pocket mainly in order to
+remove its hydrophobic surface from
+contact with water (or the aqueous
+environment of blood). The strength
+or tightness of this binding is
+determined largely by the surface area
+which is removed. This interaction is
+a reversible, dynamic one; molecules
+constandy enter and exit the pocket
+but at any given moment a certain,
+fixed proportion of the available
+anaesthetic molecules is bound. The
+tighter the binding, the greater the
+proportion bound.
+If one assumes that dodecanol fills
+the pocket then tetradecanol will not
+bind any tighter since it can only
+remove the same surface from water;
+the rest sticks out of the pocket (see
+Fig 2). Therefore the same proportion
+of molecules is bound to the protein.
+However the total number of
+tetradecanol molecules available is
+less because it is sixteen times less
+soluble in water than dodecanol.
+Consequently a much smaller fraction
+of the protein molecules is
+inactivated—not enough to shut down
+the cell. Lipid theories have yet to
+successfully account for 'cut-off
+because tetradecanol is actually more
+soluble in lipid than dodecanol.
+Nonetheless the debate goes on.
+For example, anaesthetized laboratory
+animals wake up if they are subjected
+to high pressures: will protein
+theories be able to account for this so-
+called pressure reversal? Luciferase
+may provide the answer. One thing
+is certain though: protein theories
+have dramatically altered the
+landscape of anaesthesia research and
+although the true mechanism of
+anaesthesia has not yet been sighted,
+we are probably much closer to it.
+Stephen Curry, Physics PG.
+U N D E R
+MICRO
+T H E
+by Steve Black
+I would like to thank Stephen Curry, who is a postgraduate in Biophysics,
+for the article on anaesthetics. He works in the group that has done the work
+on Luciferase and is currently pursuing other useful ways to explore how
+anaesthetics work. I am willing to bet, though, that no theory of anaesthetic
+action explains how some Imperial College lectures can induce selective
+unconsciousness in the higher reaches of the brains of their students.
+Anyone else out there who is doing interesting work, is welcome to write
+about it; I am always happy to receive contributions. I can be contacted on
+int 4642, via the F E L I X Office or the Chemistry postgraduate letter racks.
+British science and CERN
+Last week's New Scientist contained an editorial opposing any moves to pull
+out of C E R N , the European Particle Physics laboratory. There were very few
+good arguments in it. Personally I'm against it, and here are my reasons.
+The reason why some people are considering pulling out is simple: S E R C ,
+which has to pay the subscription, no longer has the money. Last year, exchange
+rate fluctuations increased the sterling cost of the C E R N subscription by rather
+more than S E R C had left in the bank. The government only stepped in at
+the last minute to make up the difference: if they had not, then S E R C would
+have been unable to fund any other new science in the U K this year. Even
+apart from such crises, many people think that there is simply so little money
+available for science that something big has to go; the quality of all our science
+will suffer if it does not.
+So what excuses are there for giving C E R N priority over the rest of British
+science? First there is the political argument: international cooperation is good
+for us; prestigious international collaborative projects promote world peace
+and harmony etc... If this is true then the Foreign Office ought to be paying
+for it, after all, that is where the money from other countries often comes from.
+The other main argument is based on the popular appeal of Particle Physics.
+The fascination with fundamental things is supposed to be one of those primal
+urges driving people into science in the first place. Good Horizon programmes
+are made about Particle Physics, and lots of people watch them. Supposedly,
+if we abandon a popular area of science, then fewer people will want to do
+science. To me, £65 million seems rather a lot for the scientific equivalent
+of the sex symbol.
+A less and less frequentiy used argument is the one that says: Particle Physics
+is bound to discover something useful someday. Nobody believes this any more.
+Historically, high energy Physics gets the money because it is an offshoot
+of the nuclear weapons programme, and because so many of the people in
+a position to make decisions were involved with the programme. But it now
+consumes far too much and is giving nothing back in return. There are plenty
+of other areas of science where the same amount of money would yield very
+considerable returns. Chemistry, Electronics and Geology, for example, are
+all critically short of money now. A l l these put together probably don't spend
+as much as C E R N ; all would show large returns of useful science for small
+increases in money spent.
+It will be bad if Britain has to pull out of C E R N : Particle Physics may be
+useless, but it is fun and it is good for scientists to work in multi-national
+groups. It is also a lot better than spending the money on Star Wars. It would
+be embarrassing to the country, and to the Government if S E R C decide to
+pull out. But if the Government refuses to give S E R C enough money they
+will have no choice: banging particles together may be fun, but it's not worth
+destroying the rest of British science for.
+FELIX Friday 4th December 1987 7
+

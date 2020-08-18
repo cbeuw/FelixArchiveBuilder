@@ -1,0 +1,105 @@
+IN THIS
+ALIEN ENVIRONMENT,
+SPACE TECHNOLOGY
+IS OUT OF ITS DEPTH
+Inspecting underground gas pipe-
+lines for faults may not sound like the
+ultimate high-tech challenge. But, in
+fact, the task proved to be beyond the
+'state-of-the-art' technologies previously
+available— even in military and aero-
+space applications.
+PROBLEM:
+Design a vehicle which can travel
+inside the pipe, carrying equipment
+capable of identifying any significant
+defect, and pinpointing its position to
+within a metre in a run of up to a hundred
+kilometres or more.
+SOLUTION:
+THE INTELLIGENT PIG
+The Intelligent Pig, developed by
+the gas people, is a vehicle carrying
+highly advanced sensing, data process-
+ing and recording equipment. Driven
+through the pipe by the gas pressure
+within it, the Pig can be used without
+taking the pipe out of service.
+What is more, it can not only pin-
+point any defect on the inside or outside
+of a steel pipe.but even describe its nature.
+HOW?
+Using strong magnetic fields or
+elastic waves propagated at ultrasonic
+frequencies, different types of sensors
+can detect corrosion, cracks, impact
+damage or distortion ot the pipe. But
+the real challenge lay in processing the
+hundreds of millions of signals produced
+by the sensors in an average run.
+THERE WASN'T A COMPUTER
+SMALL ENOUGH AND TOUGH
+ENOUGH
+Many of the pipes to be inspected
+are less than 305mm in diameter. To fit
+sufficiently powerful data processing
+equipment into the tiny space available,
+hybrid microcircuits incorporating
+custom-designed silicon chips had to be
+developed. And since the space restric-
+tions,also limit battery size and therefore
+power, many of these highly advanced
+electronic components have to operate
+at the very limits of their specifications.
+What's more, the environment inside
+the pipe isn't exactly friendly. All the
+highly sophisticated equipment carried
+by the Pig has had to be designed to
+tolerate or be protected from extreme
+vibration, mechanical shock, dirt, and
+gas pressure of up to 70 atmospheres.
+A'TOMORROW'S WORLD'TAPE
+RECORDER
+The sheer volume ofdata to be stored
+inspired the development of what is
+probably the most advanced ultra-
+miniaturised tape recorder currently in
+existence. Making extensive use of sub-
+miniature hybrid microelectronics, new
+types of recording heads and ultra-
+precision mechanical engineering, this
+little marvel can store up to 500 million
+readings on a single reel of standard
+one-inch tape,with an accuracy of better
+than one-thousandth of one percent!
+FROM REEL TO REELS
+Once the Pig has finished its run, the
+next job is to prepare the data for analy-
+sis by powerful, advanced computers
+such as the VAX 11/780.There's so much
+information in the Pig's tiny recorder
+that many reels of computer tape are
+needed to receive it, and many hours of
+computer time to analyse it.
+THE RESULT
+Britain's underground gas trans-
+mission network is a multi-billion pound
+asset. And the technical pyrotechnics
+we've just described have a thoroughly
+down-to-earth end result—they help the
+gas people to maintain this asset more
+efficiently and cost effectively.
+WHY THE GAS PEOPLE LIVE IN
+THE FUTURE
+The fact that gas is Britain's most
+popular domestic fuel—and a powerful
+and growing force in industry, too- is the
+result of many years'foresight, planning
+and massive investment by British Gas
+scientists and engineers. And they're still
+working for the future-to meet Britain's
+energy needs in the next century.
+THE GAS PEOPLE-
+WORKING FORTOMORROW'S WORLD TODAY
+Gas
+

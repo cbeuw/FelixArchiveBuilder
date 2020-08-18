@@ -1,0 +1,121 @@
+Chris Riley reports on the recent Institute of Mining and Metallurgy (IMM) Remote
+Sensing conference in which two Soviet scientists out-shined the multi-million dollar
+satellite technology on display, with their revolutionary telepathic prospecting methods
+of oil exploration.
+W h e r e E a r t h m e e t s S k y
+This week saw the long awaited I M M
+conference on Remote Sensing at the
+very unmemorable Novotel in
+Hammersmith. Remote Sensing, as the
+name implies, involves surveying a
+planet; air, sea or land without direct
+contact.
+Such information from airborne sensors
+offers a different perspective; a synoptic
+or broad area coverage that makes it
+possible to view entire mountain ranges,
+river drainage basins or complete
+weather systems. Isolated regions can be
+mapped and elevations, geological
+formations, drainage systems, water
+depths or land-use patterns can be
+recorded quickly and accurately.
+The I M M Conference aimed to
+concentrate on Remote Sensing as an
+operational technology for the mining
+and petroleum industries. The nature of
+this subject brought the firmly Earth-
+based traditional geologists into contact
+with 'high-flying', image processing,
+number crunching computer buffs.
+Talk in the bars, exhibition halls and
+restaurants was of GIS (Geographic
+Information Systems) Raster Graphics,
+VGA monitors, micro, mini and super
+computers, parallel processing, 286's,
+386's, Landsat T M (Thermatic Mapper),
+MSS (Multi-Spectral Scanners), SPOT (the
+French satellite), panchromatic images,
+false colour composites, pattern
+recognition, DEM's (Digital Elevation
+Models), M T M ' s (Digital Terrain Models),
+band ratios, edge enhancements, drop-
+outs, spectral signatures, megabytes,
+gigabytes and 'trilobytes'!!
+Companies exhibiting at the conference
+ranged from A / S G E O T E A M (representing
+ENERGIA—the Russian equivalent of
+NASA) to the Kent-based Nigel Press
+Associates—founded in 1972 by a former
+Imperial MSc student; all proudly
+displaying aesthetically pleasing false
+colour images.
+Mouses clicked and hard discs whirred,
+sending swirling paint box pictures of
+artificially coloured deserts and mountain
+ranges onto high resolution screens.
+There were those developing software
+to strip away vegetation coverings from
+images, revealing potential mineral
+settings and thus prompting the real
+destruction of the vegetation during
+exploration! Others were content to
+develop educational software packages to
+teach image processing techniques to
+people who could then write more
+educational software!
+All this effort was aimed at cutting
+down on time and money consuming
+fieldwork, thus moving towards the
+extinction of the geologist! Colourful,
+glossy poster exhibitions complemented
+the flashy computer simulations. T w o
+researchers from Imperial College; Q M
+Wang, and N P Vassos displayed their
+work respectively on basin analysis in
+China and mineral exploration in South
+Africa. Liu Jian Guo and John M c M
+Moore of the Royal School of Mines
+presented a paper on image enhancement
+of gold alteration in south-east Spain.
+Other speakers came from America,
+Russia, the U K , France, Germany, Spain,
+China and Sweden. Geologists spoke of
+over-active pattern recognition software
+applied to images to highlight faults,
+roads, fences, pipelines and anything else
+vaguely straight. Computer buffs spoke of
+nauseatingly user-friendly GIS which
+integrated satellite images with geological
+maps, geochemical data, geophysical data
+and anything else they could lay their
+hands on!!
+BP, a co-sponsor, blew its o w n trumpet
+deafeningly and splashed its new 'old'
+green logo all over the screens.
+The stars of the three days were the
+Russians who told of their new methods
+for forecasting onshore and offshore oil
+and gas. They talked of simply drawing
+concentric circles around the locations of
+anomalous geochemical samples. Where
+these circles intersect turns out
+miraculously to be the source of the
+anomaly. These circles can be thought of
+as spheres in three dimensions—thus
+providing a depth to the anomaly. The
+crucial radius of the circles was calculated
+by 'complex mathematics'; the details of
+which were to be kept a secret, partly
+due to the death of the leading scientist
+in a car crash.
+They couldn't explain the findings and
+simply explained that it w o r k e d in 70% of
+cases. Furthermore they had collaborated
+with the famous mental spoon bender Uri
+Geller in a sort of 'oil divining'
+experiment by testing his predictions of
+new oil fields in Siberia, Stautsev and
+Karasev concluded their talk with the
+statemen 'so this method works well!'.
+

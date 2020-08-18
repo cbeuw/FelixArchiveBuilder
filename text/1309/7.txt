@@ -1,0 +1,320 @@
+This is the news: seven foot
+high fiberglass statue known
+as ‘Fat Boy’ disappears from-
+Cape Cod, woman offered $78
+for father’s ghost on ebay,
+police in Cayuga County claim
+man who stole golf course did
+it “piece by piece”, and final-
+ly, blind Romanian car thief
+strikes again, this time driving
+a car 25 miles before smash-
+ing into a tree.
+Welcome to the final week
+of Felix Science in 2004. This
+week we feature a host of arti-
+cle on themes varying from
+ChronicObstructivePulomery
+Disease (COPD) to one of the
+latest Imperial College inno-
+vations to hit the news, the
+MODS disc.
+We start off, however, with
+the build-up to the Huygens
+landing which we’re all hoping
+will be successful in 2005. I am
+absolutely fascinated by all
+this. Titan is the largest moon
+in the solar system but it has
+always been shrouded in mys-
+tery due to its dense atmos-
+phere. Although it is highly
+unlikely, there have been sug-
+gestions that some sort of life
+could have possibly evolved on
+its surface. The latest images,
+however, have already been a
+revelation.
+David Osumi-Sutherland’s
+article looks at what the scien-
+tists have already discovered
+and what they are looking for
+on Titan. He also looks at the
+potential pitfalls of the mis-
+sion. Felix Science will contin-
+ue to cover Huygens’ progress
+in the New Year.
+Also this week, Elena
+Lengthorn takes a brave step
+and defends wind energy.
+As European countries get
+greener and greener, shouldn’t
+Britain be following the pat-
+tern set by our continental
+counterparts? As the article
+explains, times have changed
+and wind energy has devel-
+oped a strong case for itself.
+Amadeus Stevenson contin-
+ues his epic journey through
+the perils of day-to-day tech-
+nology (having already cov-
+ered hacking, cracking,
+adware, and spyware), and
+this week reviews the operat-
+ing systems on offer nowadays
+– no, you are not restricted to
+using Windows (in fact, I hap-
+pen to be working on a Mac
+right now).
+WillGateshasaFelixScience
+exclusive with his coverage of
+the NHS’s plans to address
+COPD by using information
+from weather forecasts.
+Finally, Anushri Patel inter-
+views the man behind the
+MODS, Dr. Peter Torök, and
+demystifies some of the stories
+that have been going around
+in the media about the new
+one terabyte disc developed
+at Imperial College’s physics
+department.
+So finally I’d like to take this
+opportunity to thank some
+of the people who have been
+working on the section this
+term. Thanks particularly to
+the editor, Dave Edwards,
+whose professionalism and
+encouragement have helped
+push the science section
+foward, as well as the paper
+as a whole.
+Respect also goes to:
+Emma Williams (biochemis-
+try), Andya Primanda (NHM
+and biological sciences), Tom
+Simonite (science commu-
+nication), Rosie Taylor (sci.
+comm.), William Gates (bio-
+engineering), Iain Taylor (sci.
+comm.),AlexAntonov(maths),
+Amadeus Stevenson (phys-
+ics), Anushri Patel (physics),
+James Berry (biochemistry),
+Kate Wighton (sci comm) and
+Giovanna Larice (biochemis-
+try), as well as all the other
+contributers who have written
+for the science section.
+To all the readers: happy
+Christmas and an enjoyable
+new year.
+www.felixonline.co.uk
+Felix
+Thursday 9 December 2004 7
+SCIENCE science.felix@ic.ac.uk
+MODS, media and misinterpretations
+The Imperial physics department is patenting a revolutionary data storage technology.
+Anushri Patel met the head of the research team, Dr Peter Török, to find out more
+The new MODS – Multiplexed
+Optical Data Storage – discs
+could potentially store up to
+one terabyte of data each.
+Although not yet mastered,
+the team have ‘demonstrated
+what can be done’. To achieve
+the maximum storage capac-
+ity, the MODS discs will be
+double sided and dual lay-
+ered, and instead of storing
+one bit per pit like conven-
+tional CDs and DVDs, MODS
+discs can store eight bits due
+to the asymmetrical nature of
+the pits.
+Dr Peter Török will be
+attending a meeting later on
+this year to find out if the
+discs are viable for mass
+manufacture, and is confident
+that their fabrication will be
+easy and cheap. Research
+and funding permitting, Dr
+Török estimates that the discs
+will be available on the mar-
+ket within five to ten years.
+Although he emphasised
+that “there have been a lot of
+misinterpretations and mis-
+understandings” surround-
+ing the new discs, and this
+timescale is “largely affected
+by political and financial fac-
+tors as well as technological
+factors”, a fact missed out by
+a large majority of articles
+covering this technology.
+The BluRay disc, although
+technically sound, has had its
+date of release pushed back
+due to these reasons. Before a
+new data disc comes into the
+market, a universal standard
+must be agreed by the com-
+panies which will produce it,
+which can take a great deal of
+time. The BluRay consortium
+was set up for this very pur-
+pose, to establish a univer-
+sal standard for the BluRay
+media. The other factor is
+that the companies will want
+to make as much money as
+they can out of previous tech-
+nologies before they render
+them obsolete and embrace
+new ones. This can be seen by
+the fact that only now is VHS
+being withdrawn from sale,
+and DVDs are being given
+greater emphasis. BluRay
+can only come out once
+the companies have made
+enough money from the sale
+of DVDs, or they are forced
+to market their product by
+the competition, and conse-
+quently MODS discs will most
+likely be able to come on to
+the market once the compa-
+nies have milked all they can
+from BluRay.
+Once it has been estab-
+lished whether it is techno-
+logically and financially pos-
+sible to mass-produce MODS
+discs and share data, the
+team hope to further research
+whether a writing/rewriting
+facility can be made available.
+Dr Török mentioned that they
+do have the capacity to reach
+that status, but again it is
+heavily dependent on further
+funding.
+30-year data storage pio-
+neer Michael Thomas, owner
+of Colossal Storage, believes
+that the concept will fail
+because the design is prone
+to complex errors, and that
+it may just be better to con-
+tinue to store large amounts
+of data on a hard drive, but
+Dr Török believes that this
+is only partially true. Any
+data system relying on fitting
+a large amount of data in a
+smaller space will always be
+prone to error for a number of
+reasons, even when compar-
+ing DVD and CD discs. The
+same thickness of scratch on
+a DVD takes out many more
+bits of data than on a CD, and
+this effect is even greater for
+MODS discs, especially as the
+wavelength of light involved
+is significantly smaller
+(around 405nm). This does
+not mean, however, that the
+whole technology can be
+dismissed and in actual fact
+the BluRay disc is likely to
+be similarly scratch sensi-
+tive. Hard drives are in fact
+far more delicate than discs,
+hence having to keep them
+contained. The advantage of
+MODS discs when it comes
+to data protection is that a
+large number of discs can
+be produced for low cost, so
+duplicate copies will be easy
+to produce.
+Dr Török emphasised that
+whilst you could fit a large
+amount of data on one disc,
+for example a few series of
+The Simpsons, it may not
+necessarily reduce the cost
+of the MODS on the market.
+Whilst they are still cheap to
+produce, movies and music
+will still be subject to addi-
+tional charges. “You don’t buy
+the disc [in that case], you
+support the large number of
+people behind the produc-
+tion”, so all episodes of a TV
+series on one MODS disc will
+cost no less than a box set of
+DVDs, but there will be the
+added convenience of having
+everything on one disc and
+saving valuable space on the
+shelf.
+He also stressed that the
+project is very much col-
+laborative, with a number of
+people significantly involved,
+including his PhD student,
+Mr Peter Munro. The other
+members of the team are Dr
+Martin Salt, Professor Hans
+Peter Herzig and Mr Carsten
+Rockstuhl from the University
+of Neuchatel in Switzerland
+and Emmanouil Kriezis
+from Aristotle University of
+Thessaloniki in Greece.
+The team have applied for
+funding to EPSRC and are
+currently in the process of
+writing a European grant
+application to fund their
+research further. The latter
+one is a collaboration between
+the Imperial physics and elec-
+trical engineering (led by Dr
+Eric Yeatman) departments,
+the Technical University
+of Delft, the University of
+Neuchatel and Aristotle
+University. Dr Török has also
+set up a website to reveal the
+facts behind popular claims,
+as well as further details
+behind the new technology.
+This can be found at www.
+imperial.ac.uk/research/
+photonics/pt_group/peter_
+torok_research.htm.
+[insert interesting research story here]
+I, Science.
+A science magazine for Imperial College
+contact science.felix@ic.ac.uk
+Blind car thief 0, tree 1
+DARIUS NIKBIN
+SCIENCE EDITOR
+MODS: the team at Imperial have created a new method
+for storing 1TB (one terabyte) of data on one optical disc
+“there have been a lot
+of misinterpretations
+and misunderstandings
+surrounding the new
+discs...”
+

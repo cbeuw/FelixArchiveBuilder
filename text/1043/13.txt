@@ -1,0 +1,129 @@
+S
+ophisticated machines have become
+commonplace in hospitals. They
+monitor patients, perform imaging
+and treat cancer. But imagine if you
+were told the operation you were
+about to undergo will not be performed by a
+human surgeon, but by a robot.
+Picture the scene. You are wheeled in under a
+general anaesthetic and connected to the appro-
+priate equipment by a team of surgeons. Then a
+robot inserts a probe into your body and soon
+afterwards, visual and ultrasound images appear
+on a monitor. The surgeons instandy see the
+problem and mark on the screen the areas which
+need attention. Next, the robot is instructed,
+step by step, to make a series of incisions using
+its cutting tool. Thirty minutes later, the opera-
+tion is complete and when you wake up you will
+have undergone surgery which is safer, faster,
+and will take you less time to recover from. No,
+this isn't a wild vision of the future but a reality
+made possible by developments in robot tech-
+nology at Imperial's mechanical engineering
+department.
+Dr Brian Davies and Dr Roger Hibbert have
+developed a robot which is capable of perform-
+ing prostrate surgery by itself. So far several oper-
+ations have been carried out at Guy's Hospital in
+London - this the first time a robot has been
+used for surgery in this way. Dr Davies, who has
+previously worked with robots in manufacturing
+and powered prosthetics such as artificial arms,
+got the idea for the system when he was
+approached by the Institute of Urology in 1988.
+Prostate surgery is a difficult, messy business.
+It requires lengthy taining and involves (cross
+your legs gents) surgeons inserting an endoscope
+and a hot wire cutting tool into the urethra. The
+surgeon must look down the endoscope from an
+uncomfortable angle and cut away a section of
+the prostrate gland whilst urine, blood and gore
+runs down his armpits. Another problem is that
+surgeons tend to 'get lost' within the body dur-
+ing the operation and need to retract the endo-
+scope so they can get their bearings.
+Dr Davies saw prostrate surgery as an ideal
+Telesurgery Soap Opera
+Could robot surgeons replace human surgeons
+in the future? One popular idea is long distance
+telesurgery in which the patient is operated on
+by a robot under the supervision of a surgeon
+who could be in a different country. Dr Davies'
+opinion is that this would be undesirable, "You
+need to have the skill and judgement of a sur-
+geon involved in the procedure at all times, sur-
+geons must take responsibility for the operation"
+He pointed out that if anything went wrong
+with a robot operation, who would be responsi-
+ble? "There must be accepted levels of liability."
+• • •
+>in
+Robots at the Cutting Edge
+of Surgery
+A Robot from Imperial has recently been allowed into the
+operating theatre. Ben Wilkins finds out what it can do
+Look no hands! Surgeons at Guy's Hospital stand back and watch the 'Probot' do its stuff.
+xm
+application for robots because they are very good
+at not losing their way, they are accurate and can
+perform many repetitive cutting motions. "It
+seemed like an ideal area to start with" he said.
+However, an initial feasibility study showed
+while robotic prostrate surgery was possible, it
+was difficult to perform safely. The cutting must
+be accurate, 'otherwise, you'll make make some-
+one a wetter' as he put it.
+After a struggle to gain funds for the project,
+Dr Davies and his colleagues were eventually
+able to overcome this problem and develop a
+system which was able to operate safely. The
+'probot' (prostrate robot) is mounted on a coun-
+terbalanced gantry and uses a motor gearbox
+encoder to manipulate the endoscope probe.
+When the endoscope is first inserted into the
+patient's urethra, an ultrasound probe scans in
+5mm sections and builds up a 3-dimensional
+image of the prostrate. This image is used as a
+basis for the cutting program.
+Next the cutting tool, called the 'vapour-
+trode' is fitted into the endoscope. The vapour-
+trode is essentially a little roller with teeth on
+which vapourises the tissue and causes less
+bleeding. The robot's ingenious mounting sys-
+tem only allows it to safely remove small conical
+sections of the prostrate. But before cutting
+begins, the surgeon uses a light pen to mark the
+area on the ultrasound image which needs to be
+removed. He can then watch the operation
+progress via a monitor linked to a camera system
+in the endoscope. "The surgeon is always in the
+loop during surgery" explained Dr Davies, "he
+build up an idea of what is safe to resect as he
+tells the robot to remove successive sections."
+The operation can be done faster and more accu-
+rately by the probot and is much less labour
+intensive for the surgeons. The research team are
+currentiy making further refinements to the
+imaging system.
+Dr Davies has also developed a robotic system
+for performing total knee replacement surgery.
+Traditionally, the surgeon has to manually cut the
+knee bone surfaces to the exact shape of the new
+prosthesis. Accuracy and alignment are crucial.
+The robotic system uses "force control" which
+creates an artificial restriction on where the sur-
+geon can move the cutter. For instance, if a sur-
+geon has to cut a groove in the bone it will only
+let him cut witfrin that groove. If the cutter starts
+to stray away from the 3-dimensional region des-
+ignated by the robot program, the surgeon will
+feel a resistance force. This allows him to cut the
+bone faster and more accurately with less blood
+loss. It also means that means a more predictable
+result, so fewer revisions are necessary. Dr
+Davies believes this kind of surgery will also be
+applicable to other areas such as brain surgery,
+ear surgery and kidney stone removal.
+

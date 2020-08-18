@@ -1,0 +1,219 @@
+12 felix Friday 6 February 2009
+science.felix@imperial.ac.uk
+Science
+Concentrating less could actually help
+improve memory recall, in patients
+with confabulation, a type of memory
+disorder where ‘false memories’ are
+unintentionally created. According to a
+new study by the Centre for Studies and
+Research in Cognitive Neuroscience at
+the University of Bologna, confabula-
+tions can be reduced by distracting at-
+tention away from a memory task
+Unlike people with some types of
+memory loss, confabulators are not in-
+tentionally creating memories to cover
+up the embarrassment of memory
+loss. Instead, they are not aware that
+they have created false memories; this
+makes sufferers vulnerable as they can-
+not distinguish between real memories
+and their confabulations. The condi-
+tion can be caused by brain damage
+to the prefrontal cortex. Dementia, a
+type of memory loss often associated
+with Alzheimer’s disease, can result in
+confabulation. Another cause can be
+the severe malnourishment that re-
+sults from repeated continued alcohol
+dependence. It is specifically vitamin
+B1 (thiamine) deficiency which also
+can lead to this confabulatory memory
+disturbance.
+Dr Elisa Ciaramelli and her research
+team carried out a study involving
+patients with lesions in the prefron-
+Scientists have developed a math-
+ematical model to explain why dating
+can be a drawn out process, claiming
+that dating statistically gives females a
+better chance of successfully evaluat-
+ing males as suitable sexual partners.
+The researchers used game theory
+to construct a dating game, allowing
+them to investigate the strategies men
+and women employ during the dating
+process. The game only ends when the
+female agrees to mate or when one of
+the parties gives up.
+Professor Robert Seymour, Universi-
+ty College London, one of the authors
+of the study suggests that the findings
+“may help explain the commonly held
+belief that a woman us best advised
+not so sleep with a man on the first
+date.”
+The model classifies men as either
+“good” or “bad”, where bad males are
+those who are less likely to care for
+children after mating. Good males are
+prepared to court the female for long-
+er than their bad counterparts. Men
+score points if they mate with any
+female, whereas women only score if
+they mate with one of the good males.
+The results suggest that women ben-
+efit from a longer courtship process,
+not only because they have more time
+to assess the man but also because bad
+mating partners are more likely to give
+up earlier.
+The co-author of the study Dr Peter
+Sozou, London School of Economics,
+explains: “The strategic problem the
+female faces is how to screen out bad
+males, and this is where long courtship
+comes into play. A male is assumed to
+Think less, remember
+better?
+New research published this week
+in the journal Neuron suggests that
+newborn brain cells ‘time-stamp’ our
+memories providing them with a time-
+code unique to all memories formed
+around the same time.
+Until now, scientists struggled to
+explain why we tend to remember
+things that happened at the same time
+more easily than events that occurred
+at different times. For example, when
+you think about a movie that you saw
+a few weeks ago, you are also likely
+to remember the cafe you went to
+afterwards.
+Brad Aimone, a neuroscientist from
+the University of California, San Di-
+ego, and his colleagues set out to ex-
+plain why a certain part of the brain,
+the dentate gyrus, continuously pro-
+duces new cells.
+“At least one percent of all cells in
+the dentate gyrus are immature at any
+given time” says Aimone. “Intuitively
+we feel that those new brain cells have
+to be good for something, but nobody
+really knows what it is.”
+They plugged all the existing biolog-
+ical data about these cells into a com-
+puter programme designed to simu-
+late the neural circuits in the dentate
+gyrus. The results showed that these
+young cells were easily excited by all
+the incoming information that they
+were forming into new memories at
+the time; however, as they matured
+they assumed their fixed place in the
+memory circuitry and did not respond
+to new information.
+This means that independent events
+that have nothing else in common but
+the fact that they take place around
+the same time become linked because
+they all stimulate the same young
+brain cells that are storing memories
+of those events.
+The team concludes that “By labe-
+ling contemporary events as similar,
+new neurons allow us to recall events
+from a certain period.”
+tal lobe, including patients with and
+without confabulation, and healthy
+individuals. In two experiments they
+found that memory retrieval was bet-
+ter in confabulators when they were
+only allowed diverted attention on the
+task. Distracting attention it seemed
+reduced false memory creation, hence
+reducing mistakes amongst the con-
+fabulators. The Italian research team
+believe, the confabulators over-process
+irrelevant information leading to false
+memory retrieval. So by paying less at-
+tention during memory processing, the
+memories are less likely to ‘go wrong’.
+The findings that were published
+in February edition of the journal
+Cortex could pave the way forward
+for new cognitive treatments to train
+confabulating.
+Paving memory
+lane
+always want to mate with a female, but
+a good male is more willing to pay the
+cost of a long courtship in order to
+“A good male is more willing to pay the cost of long courtship in order
+to claim the prize of mating”
+Researchers have captured images of
+bleeding inside the human heart after
+a heart attack the first time.
+The research shows that the extent
+of bleeding after a heart attack can in-
+dicate how damaged a person’s heart
+has become. The researchers, from
+the Clinical Sciences Centre at Impe-
+rial College London, hope that this
+kind of imaging will be used with ex-
+isting tests to assess a patient’s chanc-
+es of recovery. Dr Declan O’Regan
+from the Clinical Sciences Centre
+said: “We hope that this will help us
+to identify which patients are at most
+risk of complications following their
+heart attack.”
+The researchers captured images
+of bleeding inside the heart of 15 pa-
+tients who had recently suffered a
+heart attack, using Magnetic Reso-
+nance Imaging (MRI). The MRI scan-
+ner could detect the bleeding because
+of the magnetic effects of iron which is
+present in blood. Analysis of the scans
+revealed that the amount of bleeding
+correlated with how much damage
+the heart muscle had sustained. Those
+patients who develop bleeding inside
+their damaged muscle have a poorer
+chance of recovery.
+The small study, published in the
+journal Radiology on 19 January, of-
+fers new insights into the damage that
+heart attacks can cause. But it is not
+yet known how significant the bleed-
+ing is. Dr Stuart Cook, the study’s sen-
+ior author said: “We still have a lot of
+unanswered questions about whether
+the bleeding itself may cause further
+damage to the heart muscle and this is
+an area that needs further research.”
+The research was funded by the
+Medical Research Council, the Brit-
+ish Heart Foundation and the Depart-
+ment of Health, UK.
+Bleeding hearts revealed by
+scan
+Umia Kukathasan
+Mico Tatalovic
+Science Editor
+Louisa Garnier
+Bell Seth
+Scientists to explain the
+benefits of dating
+Less concentration=better memory?
+The colored area on this MRI scan shows a cross-section of the heart
+muscle, with the area of bleeding shown in red. Credit: Imperial
+College London
+claim the prize of mating.”
+The research is published this month
+in the Journal of Theoretical Biology.
+

@@ -1,0 +1,422 @@
+ISSUE 1697
+FELIX
+SCIENCE
+FRIDAY, 15TH
+JUNE, 2018 FELIX
+science.felix@imperial.ac.uk SCIENCE science.felix@imperial.ac.uk
+16 17
+First new stereoisomer type in 50 years, claim chemists
+C
+hemists at
+both Shanghai
+University and
+the University of
+Sydney have announced
+the discovery of the first
+new kind of molecular
+stereoisomer in half a
+century. For those who
+have never heard of this
+term, stereoisomers are
+molecules that share the
+same molecular formula
+(i.e. contain the same
+number of atoms of each
+element) as well as bond
+connections between
+species, but have different
+arrangements in the 3-D
+space. Previous known
+stereoisomers include
+enantiomers, which are
+pairs of molecules that
+are non superimposable
+mirror images of each
+other (if you have trouble
+imagining this, think of
+your right and left hand;
+they are identical, but
+there is no physical way
+to superimpose them in
+a way that makes both
+of them identical to each
+other).
+a porphyrin macrocyclic
+ring – a circular, rigid
+structure formed by sub-
+units of nitrogen, carbon
+and hydrogen known as
+pyrroles and also found in
+haemoglobin – the bond
+angle inversion caused
+by the bending of a trio
+of atoms in the molecule
+(a boron-oxygen-boron
+bridge) is fixed in space,
+as rotation is blocked by
+the ring itself. This would
+not happen if the molecule
+was outside the macrocy-
+cle, as the rotation of the
+bonds would produce a
+molecule that would be
+identical to its starting
+configuration.
+The new family of ste-
+reoisomers has tentatively
+been named as Akampti-
+somers, taking its name
+from ákamptos, the Greek
+term for ‘inflexible’.
+The two possible isomer
+forms corresponding to
+the opposite orientations
+of the bond angle have
+been baptized as ‘parvo’
+and ‘amplo’, after the
+Latin words for small and
+large, respectively. Ac-
+cording to the scientists
+who made this finding,
+the new group of isomers
+have potential to be useful
+in several fields such as
+medicinal chemistry, as
+they could be essential for
+the synthesis and charac-
+terization of the active
+principles of future drugs.
+Other hypothetical appli-
+cations of akamptisomers
+include their potential use
+in molecular computers.
+For these devices to work,
+it is essential that the mol-
+ecules used can change
+between two different
+configurations. However,
+the chemists involved in
+the discovery admitted
+that, while promising, it is
+very unlikely that akamp-
+toisomers will be soon
+making an appearance in
+commercially available
+molecular computers, as
+more research is needed
+regarding the stability and
+nature of this new family
+of isomers.
+SCIENCE
+Juan Rubio
+Gorrochategui
+Science Writer
+The breakthrough may bring benefits to medicinal chemistry // CC
+“The new
+family of
+stereoisomers
+has taken its
+name from
+ákamptos
+– Greek for
+‘inflexible’”
+The researchers
+discovered the new
+structure in a molecule
+called transoid (BF)O(B-
+F)-quinoxalinoporphyrin.
+When it is surrounded by
+Imperial CDT Science festival: Science and Ethics
+T
+he synergy be-
+tween Science
+and Ethics is
+pervasive in our
+society. Scientific ad-
+vances and technological
+developments are shaping
+the future of our life,
+and society as a whole.
+Imperial will be holding
+their annual CDT Science
+Festival, which this year
+aims to explore and
+understand how scientific
+research integrates with
+ethical values by analys-
+ing emerging frontiers,
+their social impacts, and
+possible implications.
+We are glad to introduce
+students, researchers, and
+professionals from other
+fields to a variety of de-
+bated topics with valuable
+insights from a pool of
+experts in the field. The
+discussions will provide
+a stimulating ground to
+address the curiosity and
+common concerns of the
+audience – since science
+and ethics are two faces of
+the same coin.
+To better connect the
+audience with experts, a
+series of talks on sustain-
+able innovation, climate
+science, artificial intelli-
+gence, genome editing,
+and quantum technologies
+will take place.
+Would future advances
+in genome editing consti-
+tute the ultimate frontier
+for personalised health-
+care? Could surgical inter-
+ventions be fully replaced
+by a new generation of
+genetic pharmaceuticals,
+without compromising
+our identity as species?
+How will we make
+complex decisions in
+more general critical
+scenarios with (un)clear
+conflicting goals? How
+can we possibly leverage
+technology whilst pre-
+serving our values? The
+questions are endless …
+At the CDT Science
+Festival, we want to offer
+the exciting opportunity
+to answer these open
+questions, understand
+the related implications,
+and argue about possible
+side-effects each research
+area projects into our own
+lives.
+Talks and discussions
+will be accompanied by
+Pandemic, an interactive
+movie that allows visitors
+from the audience to expe-
+rience a series of real-life
+ethical case questions.
+Students and young
+researchers are invited
+to submit posters for
+the one-day pop-up
+‘Sustainable Innovation
+Exhibition’, to showcase
+the ethical implications of
+their scientific research.
+Submissions are now
+open at http://www.cdtfes-
+tival.co.uk/.
+A further competition
+will award the best
+poster addressing the
+following questions:
+what are the implications
+of our research? What
+are the values involved
+in the decision-making
+process? How can we
+steer our research and
+developments towards
+respecting and enhancing
+common values? How
+can we reduce disparity?
+And how can we improve
+justice, welfare, and
+equality in our society?
+The proposed posters
+should consider the
+impact of current innova-
+tions, and should suggest
+a constructive scientific
+progress sustainable
+for society. Rather than
+focusing on the techni-
+cal and technological
+advance per se, we would
+emphasise the advantages
+and possible downsides
+regarding their use in
+scenarios with conflicting
+goals.
+Save the date: Monday
+July 9th
+2018, for the CDT
+Science Festival and the
+associated exhibitions at:
+Imperial College London
+– Queen’s Tower Rooms.
+We look forward to
+welcoming you!
+SCIENCE
+Riccardo Moriconi
+Science Writer
+What impact could our research have on the world? //
+CDT
+9th July 2018
+Queen’s Tower Rooms, Imperial College London
+Cancer and the immune system – friend or foe?
+W
+hy is cancer
+so difficult
+to beat,
+you might
+be wondering. The main
+problem with cancer is
+that it arises from our
+own cells. We are all
+unique and special, but
+so are our tumors, which
+makes it difficult to deal
+with them at a population
+level. Unfortunately, the
+same drug might not have
+the same effect on two
+different people, even
+though they might have
+the same kind of cancer.
+As we wait for personal-
+ised medicine to develop
+in the future, scientists
+are currently trying to
+enhance our natural and
+already personalised
+defence mechanisms: our
+immune system.
+In general, people asso-
+ciate the immune system
+with the body’s mecha-
+nism of defense against
+viral, fungal, and bacterial
+infections. But this is not
+all it does – it also fights
+back against cancer. There
+is plenty of evidence
+showing how important a
+role the immune system
+plays in keeping cancer at
+bay. People with immuno-
+deficiencies, for example,
+are known to be more
+prone to develop tumors.
+some of the cells of the
+immune system to their
+advantage, providing
+them with more glucose
+(food) and oxygen to fa-
+cilitate their growth.Apart
+from this comfort, cancer
+cells become invisible
+and thus protected from
+the rest of the immune
+system, which would
+otherwise eliminate them.
+More specifically, there
+are two families of cells
+belonging to the immune
+system that generally
+become cancer friendly:
+cancer associated-mac-
+rophages and regulatory
+T cells.
+Cancer cells can
+therefore become reliant
+on these particular cell
+families for their survival.
+And so, researchers
+are currently working
+on ways to exploit this
+weakness. Individual dis-
+ruption of the cancer-as-
+sociated macrophages or
+the regulatory T cells has
+so far failed to provide
+any satisfactory results,
+the reason being that upon
+dysfunction in one of
+these cell families there
+is a tendency for the other
+to increase in terms of
+number and functionality.
+There seems, in other
+words, to be a compen-
+satory effect. With this
+in mind, researchers at
+the Babraham Institute
+employed a dual strategy
+in which they managed to
+disrupt both cell families
+simultaneously. In their
+recent publication, they
+show that in a colon
+cancer model in mice this
+treatment promotes the
+immune system rejection
+of the cancer. By the end
+of the study half of the
+mice were completely
+tumor free. Although
+much more research needs
+to be done, the inhibitor of
+the T regulatory cells they
+used is already approved
+as a treatment for some
+cancers, so this new
+strategy could potentially
+be easily translated into
+the clinic.
+Considering how
+complex cancer is as a
+disease, boosting our own
+immune system to battle
+it is a strategy that might
+serve to overcome current
+limitations when the med-
+ications we do have stop
+working.
+SCIENCE
+Roser Gonzalez
+Science Writer
+Cancer cells dividing under the microscope // CC
+“Strikingly,
+some cancers
+have been
+shown to
+create a micro-
+environment,
+using the
+immune
+system to their
+advantage”
+So, why does cancer
+emerge in a person with a
+healthy immune system?
+Cancer is the result of the
+uncontrolled growth of as
+little as one of our own
+cells. Since these cells
+replicate quite fast, they
+often acquire mutations
+that can make them resist-
+ant to current medication
+or even the detection of
+the immune system itself.
+More strikingly, some
+cancers have been shown
+to create a microenviron-
+ment in which they use
+Want to be involved in Felix next year?
+We want you – yes, you! We’re looking for writers, photographers, editors,
+illustrators, reporters, computer experts and grammar nerds to join our team.
+No experience needed – we’ll teach you everything you need to know. If you’re
+interested, send us an email on felix@ic.ac.uk
+

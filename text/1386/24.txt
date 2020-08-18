@@ -1,0 +1,193 @@
+games.felix@imperial.ac.uk
+25
+Friday 9 November 2007 felix
+Games
+If bedroom coding is still alive, who’s doing it? We find some of the more popular breakout hits
+What goes on between the sheets
+Slaves to Armok: The God of Blood : Chapter Two – Dwarf Fortress
+Spectral lighting and per-pixel shaders not yet implemented.
+So... You’re having a laugh, right?
+It might have the most offputting name
+in gaming history, but make no mis-
+take – Dwarf Fortress is the master of
+cult gaming. Bay 12 Games is about to
+go full time developing the game, such
+is its fame, and the fanbase is hugely
+dedicated and helpful.
+Fanbase can go get stuffed. Why
+will I want to play it?
+You might not. It’s easily the most
+complicated game we’ve ever played –
+and we’ve played Republic – but if you
+can get hooked on it, you’re unlikely
+to turn back to lesser games for many
+years.
+You select, or have randomly gener-
+ated, a team of dwarves, and set about
+carving your own piece of paradise out
+of the hostile, procedurally-generated
+environment. Seasons change, the
+world grows, and you wonder why you
+ever liked World of Warcraft.
+So when can I expect the XBox
+360 version, then?
+Obviously, its ASCII-stylings and RPG-
+heavy gameplay, not to mention its
+fairly irritating control system, means
+that Dwarf Fortress isn’t designed for
+the mainstream. But there are a lot of
+people out there who have fallen in
+love with it, and its simplicity in design
+gives it a great depth and longetivity in
+playing.
+The future of the project, discussed
+on its official website, promises quests,
+nations, gods, armies, epic stories –
+and all procesdurally generated and
+unique to you.
+http://www.bay12games.com
+Façade – A One Act Interactive Drama
+‘Interactive Drama’?
+We realise this sounds like an uncom-
+fortable sex education lesson from Year
+Nine, but Facade is easily the most im-
+pressive game we’ve played in the ages.
+The most impressive game, hands-
+down, and the most promising.
+Do I need to read The Guardian to
+like it?
+Facade isn’t some intellectual thought
+experiment – it’s a gripping example
+of what artificial intelligence means for
+the future of gaming, and exhibits the
+ingenuity and skill of today’s ‘bedroom
+coders’.
+You play yourself, more or less, vis-
+iting two old friends of yours in their
+apartment – Grace and Trip. Only
+Grace and Trip’s relationship seems
+a little shaky right now, and you get
+the uncomfortable feeling it’s about
+to blow up in your face. Can you save
+their marriage?
+What if I don’t want to?
+Then don’t. The idea behind Facade is
+that you use language to discuss with
+the two characters – answer their
+Armadillo Run is fun
+What the hell is that.
+Armadillo Run represents one of the
+recurring themes in indie games devel-
+opment – craziness. And physics. One
+armadillo, one infinite white expanse,
+one source of gravity, and the equiva-
+lent of a box of meccano. Can you save
+him?
+Or, more pressingly, how far can you
+ping him with just a piece of elastic and
+a two-by-four?
+It looks needlessly complicated.
+It’s actually quite tactile. The world has
+tiny holes in it that you can attach vari-
+ous things to, including metal sheets,
+cloth, rope, girders – and then adjust
+properties like their elasticity or bind-
+ing strength.
+A few tweaks here or there, some
+cackling like a mad professor, and you’ll
+have the armadillo safe and sound in
+no time at all.
+And this is fun?
+The real-world physics supplies a new
+kind of challenge, just like it has done
+in the recent swathe of first-person
+shooters. Had this game been made a
+decade ago, you’d have a rough-and-
+ready gravitational force, and pretty
+much only one way to solve a problem.
+With the new-fangled understanding,
+and some extra technology, you’ve got
+a really open-ended puzzler, that al-
+ways has a big grin on its face.
+Is it going anywhere?
+Oh good lord yes. The ingenuity and
+polish on the game has got it into the
+Independent Games Festival, as well as
+reviews from Eurogamer, PC Gamer
+and PC Format.
+It’s simplicity and good ideas, and
+that’s been a standard for good games
+since the eighties. Sometimes, we have
+to accept that the teraflop just gets in
+our way.
+http://www.armadillorun.com
+questions, direct the conversation, and
+try to find out just what’s going wrong
+with them. Playing the game multiple
+times really shows off its depth – you’ll
+see conversation strands, the decisions
+you didn’t know were decisions, and
+the many ways that the story can end.
+Is it going anywhere?
+Difficult to say. Game AI is extremely
+hard to implement in such a way, and
+Facade is a long way from being per-
+fect. But the potential...
+http://interactivestory.net/
+W
+hen Introversion
+said they were
+‘The Last Of The
+Bedroom Coders’,
+I think they knew
+secretly all along that the opposite
+was true. Instead of being the final
+last hurrah from a generation of con-
+certed programmers and independent
+developers, they became the opening
+act of a new performance from gamers
+who create. A few years ago, you were
+called an Independent Games Studio
+if you hadn’t been bought out by EA
+yet. Nowadays, the term celebrates all
+kinds of creativity and experimenta-
+tion; like the peripheral designed to
+help couples play together. Get this:
+boxer shorts and a bra with pressure-
+sensitive pads and a projected Dance-
+Dance Revolution game. The demo
+videos were amusing, to say the least.
+But also brilliant. That’s the thing
+– crazy though these ideas may be,
+crazy thought the concept of actually
+playing a rhythm action game on your
+girlfriend, instead of using it as a eu-
+phemism, is, it’s very, very encouraging
+to see. Because people out there are
+thinking, and the power of the inter-
+net means that the good ideas float to
+the top. As long as you stay away from
+Digg.
+We’re offering you three of our most
+recent favourites this week, that cover
+the more inventive spectrum of Indie
+Gaming, using novel control tech-
+niques, breakthrough technology, or
+sheer attention to detail to bring an
+idea to life. Students are the main com-
+ponent of this market – both those
+playing, and those making – and it
+doesn’t take more than a good idea, a
+good team, and some dedication to get
+a dream off the ground.
+Naturally, we’re not saying that your
+idea for a sexual deviancy simulator
+using the Wiimote is going to get you
+very far. But with development kits like
+XNA making things easier, and com-
+munities growing larger and larger, it
+really is just a question of getting in-
+volved, and seeing what you can do.
+Dance Dance Revolution. On a bra.
+Seriously, this shit’s ingenious.
+

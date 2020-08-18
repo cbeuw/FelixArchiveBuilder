@@ -1,0 +1,240 @@
+felix@imperial.ac.uk
+37
+Friday 22 February 2008 felix
+Technology
+Headlines we
+couldn’t fit in
+HD DVD
+equipment cheap
+on eBay
+£99 eee-pc
+competitor
+announced
+Finland censors
+anti-censors
+Heathrow hit by
+software glitch
+Government loses
+criminal DNA
+data
+Brain-controlled
+game controller
+announced
+iTunes has been
+cracked
+Wikileaks.org
+taken down
+Google phones
+make debut
+iPod shuffle gets a
+price drop
+BBC programmes
+to go on iTunes
+Sony sell PS3 chip
+plant to Toshiba
+Microsoft delay
+Vista update
+Finally the victor is crowned
+Andrew Lyle reports from the front-line of Sony vs. Toshiba as the war ends
+I
+’m not entirely sure any of you
+will remember the Betamax vs
+VHS format war that took place
+for almost a decade from 1975
+- I certainly don’t, but looking
+back on it, I found it quite interesting
+to compare it with the past two years
+of battling between HD-DVD and Blu-
+Ray in which there now seems to be
+a winner. Just in case anyone is won-
+dering, VHS won the previous format
+war, which is probably a good thing as
+Betamax tapes were limited to only 60
+minutes playback! Imagine a childhood
+without movies...
+Anyway, on first appearances, Beta-
+max and Blu-Ray were rather similar
+- both had more complex and costly
+hardware, both had supposedly better
+audio and video quality and both times
+Sony refused to release the format to
+the porn industry! This time how-
+ever, Sony have increased the capacity
+of their format to many times that of
+HD-DVD and made the technology
+more widespread, allowing many more
+developers to build hardware to run
+Blu-Ray discs and crucially, they also
+put the drive into their latest games
+console the PlayStation 3. This move,
+whilst being extremely risky seems to
+have paid off for them, as it helped
+to put Blu-Ray drives in more homes
+than the competitor. After all, peo-
+ple are much more likely to purchase
+a £300 games console which happens
+to have a built in high-def drive than a
+similarly priced stand-alone player - I
+know I would.
+Looking at HD-DVD and VHS, the
+marketing and widespread availabil-
+ity that eventually helped to win the
+last war for the latter seemed to be
+somewhat lacking in the former, with
+a few companies releasing drives in
+their PC’s, a number of manufactur-
+ers building standalone boxes and of
+course not forgetting Microsoft’s half-
+hearted HD-DVD drive add-on for its
+Xbox 360.
+So now, after almost two years it
+would seem that the next generation
+video format has finally been decided.
+Following Warner Bros. choice of the
+Blu-Ray format earlier this year, other
+companies have slowly been drifting
+towards the same side with the final
+nail in the coffin for HD-DVD being
+the news from Wal-Mart, Best Buy
+and Netflix that they would no longer
+be stocking the format. As a result,
+Toshiba announced earlier this week
+that they would “no longer develop,
+manufacture and market HD DVD
+players and recorders”.
+Now I must say that I actually feel
+rather sorry for Toshiba - in the first
+round they backed Betamax and lost;
+in the second they seemingly tried to
+walk the path of VHS by attempting to
+flood the market with their cheap(er),
+porn-friendly format... which also
+lost. However, on the bright side upon
+announcing that it was abandoning
+HD-DVD, Toshiba’s stock rose con-
+siderably; consumers now also have
+a clear choice about which format to
+purchase, but unfortunately with Sony
+at the wheel, I am still left with the
+dilemma of where to get my high-def
+porn from? Well, if certain companies
+have their way, in the future, all our
+audio-visual needs will be sated by
+downloads and legal ones at that - not
+that I would ever endorse the illegal
+acquisition of files, or porn for that
+matter, as I’m sure one could find far
+more exhilarating ways to achieve the
+same result... but I digress. For now,
+with trials of “super-fast” broadband
+just beginning, I think it is safe to say
+that your investment in Blu-Ray will be
+a safe one and the only ‘proper’ way to
+get high definition content onto your
+brand spanking, shiny new HD telly.
+Martin Logan Clarity
+Thousands will have to succumb to the charms of the Blu-ray Disc
+(usually Mylar – the same material in
+your earphones) sandwiched between
+two grid electrodes (known as stators),
+with an electric field of usually about
+5kV and a low current going through
+the diaphragm for modulation. The
+most common ESLs these days are
+usually around 1.5m tall and 0.3m
+wide, with their deepness depending
+on their attached subwoofer, if any.
+The stretched diaphragm already
+solves the weight problem with its
+2-20µm thickness. Also, unlike the
+coil drivers it has very delicate move-
+ment that you can hardly notice by eye.
+These two properties allow the pro-
+duction of a very refined sound with
+very little distortion, waltzed by a nat-
+ural and comfortable bass. Specifically,
+most should notice the bass part of the
+piano, drum and guitar lasting a little
+bit longer, rather than suddenly stop-
+ping when coming out from normal
+speakers, as if you are punched by it.
+Also,sincethediaphragmisstretched
+over a large flat surface area, the sound
+waves produced have very little diffrac-
+tion: imagine you are standing about 5
+metres away from an ESL, listening to
+some guitar performance in a room,
+and now go right up to it with your ear
+touching the ESL (don’t worry, it won’t
+hurt), where you should hear almost
+the same volume and quality as you did
+5 metres away. This is definitely some-
+thing that you don’t get from ordinary
+speakers.
+Another great feature is the lack of
+a speaker cabinet – the average ESL is
+just a 2-inch thick open panel, which
+gives us a double-sided (or dipole)
+sounding, meaning greater transpar-
+ency, as well as no additional flavour.
+All this adds up to high fidelity, as if
+the live band is in the room, and you
+can really feel the instruments being
+blown or plucked right in front of you.
+To go with the music, the ESL’s slim-
+ness is also a bonus eye candy if done
+properly.
+Now you may ask: so if ESLs are so
+great, how come it is not in the main-
+stream market? The popular answer
+would be because of the cost: a typi-
+cal, mid-range ESL system would be
+around $3000 these days, mainly due
+to manufacturing difficulty, where the
+diaphragm-stretching process and as-
+sembly still have to be done by hand.
+Most notably though is their large size
+by nature, as the ESL panels require a
+certain amount of surface area in order
+to produce sound efficiently. This is
+particularly important for bass, where
+most ESLs fall short at, and therefore
+they are often coupled with a subwoof-
+er at the bottom, forming a hybrid ESL
+system.
+The second problem – and usually
+the most commonly forgotten one –
+is that the ESLs must be placed away
+from the back wall – usually about 1
+metre – to avoid severe interference
+caused by the reflection from the wall
+(remember, the ESL produces sound
+on both sides!). More space is taken
+up by the powerful amplifiers (at least
+200W) in order to drive the ESLs, and
+of course these cost money too, espe-
+cially if they are vacuum tube amplifi-
+ers, which are known to give a richer
+sound compared to digital ones. Leav-
+ing these behind, we finally have the
+reliability problem: ESLs are still con-
+sidered as unreliable due to the high
+possibility of shorting when the air is
+humid, although there are several ways
+of preventing such event from happen-
+ing such as implementation of coating
+on the membrane and stators.
+To sum up, ESLs really are superior,
+with hardly any problems that most tra-
+ditional loudspeakers have, provided
+that you have plenty of room, money
+and a fairly dry environment. If you are
+looking for a system that can bring a
+live concert into your room, where you
+can both hear and feel the instruments
+being played, this 53-year-old technol-
+ogy is the way forward. Remember:
+hearing is believing, so do check out
+the ESLs when you have the chance!
+Martin Logan Summit
+

@@ -1,0 +1,161 @@
+Science
+Neural Networks
+Can computers simulate the human thought process?
+Our minds are indescribably complex and yet are made up
+of the simplest of units, the so called 'neurons'. It is the
+complexity of the connections between these neurons that
+make our brains so powerful, not the neurons themselves.
+Scientists are now finding ways of simulating these
+connections on computers in research which may ultimately
+produce 'Artificial Intelligence' - the thinking computer.
+Ramin Nakisa investigates.
+We can never know, said the
+philosopher Kant, what a thing is
+like ' i n itself because our very
+observation casts things onto the
+bases of space and time. Science up
+to the present day has dealt with the
+knowledge of things-in-themselves
+rather than the mental machinery
+with which we form our picture of
+the world. Neural nets should
+understand the universe as we
+understand the universe and by
+building models of this machinery
+we are gaining a great insight into
+how our very 'selves' function.
+H u m a n brains have evolved over
+millions of years so that the answers
+to many problems i n artificial
+intelligence are literally within our
+own heads. Understanding the
+anwers, by understanding the brain,
+has proved to be very difficult.
+N e u r a l networks have all the
+essential ingredients of brains, that
+is they are made of many simple
+units that switch one another on
+and off.
+There are two ways of trying to
+understand h o w the brain works;
+The top down approach: We know
+what things a brain must do, and so
+we can speculate as to how the brain
+does them.
+The bottom up approach
+We k n o w what units the brain is
+made of and can therefore build
+collections of units like these to see
+what they can do.
+The top-down method of building
+a car is to specify what it must
+achieve ie. it must.be able to carry
+human passengers at a reasonable
+speed, it must r u n o n easily
+available fuel... The bottom-up
+method of building a car is to buy-
+all the parts, and bolt them together
+in inspired ways until the resulting
+machine works.
+Looking at the brain bottom-up
+we see that it consists of ten
+thousand million neurons, or brain
+cells, which receive a n d send
+electrical impulses down nerve
+fibres to other cells. One neuron can
+connect to a maximum of one
+thousand other neurons, i n a very
+complex array.
+O n a larger scale, considering the
+brain top down, it looks rather like
+a walnut, with a crinkly surface
+called the cortex. Crinkliness is
+nature's way of maximising the
+surface area, so that by making the
+surface of the cortex crinkly she has
+fitted more room for neurons to
+interact. There are separate sub-
+structures in the brain such as the
+cerebellum (little brain),
+hippocampus, thalamus etc and this
+almost always means separate
+functions in biology. For example
+the cerebellum is thought to be
+responsible f o r f i n e - t u n i n g
+movements and coordination. It
+w o u l d be impossible to give
+sufficient account of our present
+knowledge of brain structure in this
+article, but suffice it to say that there
+is a great deal of knowledge but little
+understanding.
+Taken together these t w o
+approaches only allow a finite
+number of architectures for some
+functions of the mind. A t the
+moment the emphasis of research is
+on finding methods of computation
+for each problem separately without
+integrating these into a machine
+which can solve a variety of
+problems. But even in their present
+early stage of development some
+interesting results have been
+obtained.
+Just as statistical physics can
+derive the macroscopic behaviour of
+gases from the physics of a single
+particle, so it may be possible to
+derive the physics of mind from that
+of a single n e u r o n , a n d the
+interaction of groups of neurons.
+Why Use Neural Nets?
+There are limits to every computer
+set by its speed, memory and most
+of all by its programmer. Using
+present day computers one has to
+'The answers....are literally within our own head.'
+translate well defined problems into
+an explicit set of instructions which
+can be interpreted by a computer.
+If we want to solve a problem which
+has no exact solution, we can write
+down a set of differential equations
+and quite easily create an algorithm
+to give their approximate solution.
+There are a large group of.
+problems i n artificial intelligence
+which would require an immense
+number of rules, and so cannot
+easily be solved by a computer i n
+real time, since computers need a set
+of IF... T H E N . . . statements to cover
+all possible situations. Speech
+recognition is just such a problem.
+One has to pick out words in real
+time with a noisy background and
+a huge variation i n accent. It is
+extremely difficult to find a set of
+rules which could cope with such
+variations, but it is possible to build
+a neural network which can be
+trained on various examples of
+speech obviating the necessity of
+rules. A network, because it learns
+from examples, c a n cut
+development costs b y an order of
+magnitude in problems dealing with
+pattern • recognition.
+Some pattern recognition tasks
+can be tedious for humans, and in
+these cases neural nets come into
+their own. For example, in screening
+for breast cancer X-rays of breasts
+have to be checked for tumours
+which show up only faintly. Neural
+nets have been successfully trained
+to check for such growths. In
+factories parts must be checked
+before assembly, and again this task
+Page 10 FELIX February 3 1989
+

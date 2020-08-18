@@ -1,0 +1,456 @@
+sport.felix@imperial.ac.uk
+30 Friday 6 March 2009
+felix
+Sport
+31
+felix
+Friday 6 March 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 10 10 0 0 88 12 76 100 5.00
+2 Volleyball Women's 1st 8 8 0 0 17 1 16 100 5.00
+3 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+4 Fencing Women's 1st 10 9 0 1 1317 1067250 90 4.10
+5 Hockey Men's 1st 10 9 0 1 57 13 44 90 4.10
+6 Fencing Men's 1st 9 8 0 1 1187 753 434 89 4.00
+7 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+8 Lacrosse Women's 1st 11 9 0 2 162 43 119 82 3.36
+9 ICSM Netball 3rd 10 8 0 2 357 197 160 80 3.20
+10 Table Tennis Men's 1st 14 11 0 3 154 81 73 79 3.07
+11 Squash Men's 2nd 9 7 0 2 28 15 13 78 3.00
+12 ICSM Netball 2nd 9 7 0 2 314 152 162 78 3.00
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 11 8 0 3 364 201 163 73 2.55
+15 ICSM Hockey Women's 1st 13 8 1 4 56 28 28 62 2.00
+16 Hockey Women's 1st 13 8 1 4 49 29 20 62 2.00
+17 Hockey Men's 3rd 10 4 4 2 19 25 -6 40 2.00
+18 Basketball Men's 1st 7 4 0 3 496 474 22 57 1.14
+19 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+20 Basketball Women's 1st 9 5 0 4 417 383 34 56 1.00
+21 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+22 Hockey Men's 2nd 11 6 0 5 41 35 6 55 0.91
+23 ICSM Hockey Women's 2nd 8 3 2 3 23 23 0 38 0.88
+24 Hockey Men's 4th 7 3 1 3 15 23 -8 43 0.71
+25 Football Men's 2nd 9 4 1 4 20 27 -7 44 0.67
+26 Football Men's 1st 9 4 1 4 19 20 -1 44 0.67
+27 ICSM Football Men's 1st 9 4 1 4 15 20 -5 44 0.67
+28 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+29 Tennis Men's 2nd 10 4 1 5 35 56 -21 40 0.20
+30 Rugby Union Men's 2nd 13 6 0 7 231 286 -55 46 0.15
+31 ICSM Rugby Union Men's 2nd 11 5 0 6 175 161 14 45 0.09
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Fencing Men's 2nd 7 3 0 4 830 821 9 43 -0.14
+34 Rugby Union Men's 3rd 12 5 0 7 207 229 -22 42 -0.25
+35 Badminton Men's 2nd 8 2 2 4 29 35 -6 25 -0.25
+36 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+37 ICSM Rugby Union Men's 3rd 11 4 0 7 130 264 -134 36 -0.73
+38 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+39 Hockey Women's 2nd 10 2 1 7 10 44 -34 20 -1.60
+40 ICSM Rugby Union Men's 1st 14 3 1 10 243 401 -158 21 -1.64
+41 Football Women's 1st 8 2 0 6 10 30 -20 25 -1.75
+42 Football Men's 3rd 8 2 0 6 14 26 -12 25 -1.75
+43 ICSM Hockey Women's 3rd 7 1 1 5 9 34 -25 14 -1.86
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 ICSM Hockey Men's 2nd 10 2 0 8 15 18 -3 20 -2.20
+46 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+47 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+48 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+49 Netball 3rd 9 1 0 8 98 318 -220 11 -3.00
+50 ICSM Hockey Men's 1st 9 1 0 8 15 32 -17 11 -3.00
+51 Rugby Union Men's 4th 10 1 0 9 95 421 -326 10 -3.10
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Netball 1st 9 0 0 9 187 341 -154 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+Saturday 28th February
+Football
+Men’s 1st ULU 3
+UCL Men’s 1st ULU 5
+Men’s 2nd ULU 1
+LSE Men’s 3rd ULU 0
+Men’s 3rd ULU 0
+Imperial Medicals 1st ULU 1
+Men’s 4th ULU postponed
+Queen Mary Men’s 3rd ULU postponed
+Men’s 5th ULU 5
+LSE Men’s 5th ULU 2
+Men’s 6th ULU 1
+Queen Mary Men’s 4th ULU 5
+Men’s 7th ULU 1
+St Barts Men’s 3rd ULU 2
+Sunday 1st March
+Badminton
+Mixed 1s ULU 5
+UCL Mixed 1s ULU 4
+Football
+Men’s 2nd 1
+UCL Men’s 2nd 0
+Hockey
+ULU Cup
+Men’s 2s 1
+King’s Medicals 1
+Women’s 1st 1
+Kings Medicals Women’s 1st 5
+Lacrosse
+ULU Cup
+Mixed 1s ULU 7
+Kings Mixed 1s ULU 6
+Rugby
+Women’s 1st cancelled
+LSE Women’s 1st cancelled
+Gutteridge (ULU) Cup
+Men’s 1st 15
+King’s College Men’s 1st 26
+ULU Cup
+Men’s 2nd WALKOVER TO
+Men’s 3rd 2ND TEAM
+Monday 2nd March
+Netball
+Women’s 1s ULU N/A
+RUMS 1s ULU N/A
+Women’s 2s ULU N/A
+Uni of the Arts London 1s ULU N/A
+Wednesday 4th March
+Badminton
+Men’s 2nd 2
+University of Hertfordshire 2nd 6
+Basketball
+Men’s 1st N/A
+St George’s Medical School 1st N/A
+Women’s 1st 30
+St George’s Medical School 1st 38
+Fencing
+Men’s 2nd 108
+Royal Holloway 1st 131
+Football
+Men’s 1st 1
+University of Chichester 2nd 4
+Men’s 2nd Postponed
+RUMS 1st Postponed
+Men’s 3rd cancelled
+Kingston University 5th cancelled
+Women’s 1st 0
+Middlesex University 1st 5
+Men’s 4s ULU 3
+LSE 4s ULU 2
+Men’s 6s ULU 3
+King’s Medicals 4s ULU 2
+Hockey
+Men’s 2nd 4
+University of Kent 3rd 5
+Men’s 3rd
+University of Surrey 2nd
+Women’s 1st 8
+Kingston University 1st 1
+Men’s 1s ULU 4
+St George’s Medical School 1s ULU 2
+Netball
+Women’s 1st 25
+King’s Medicals 1st 35
+Women’s 2nd WALKOVER
+Queen Mary 2nd TO IMPERIAL
+Women’s 3rd 12
+St George’s Medical School 3rd 34
+Rugby
+Men’s 2nd 17
+LSE 1st 15
+Men’s 3rd 43
+University of Chichester 2nd 0
+Men’s 4th walkover
+University of Hertfordshire 2nd TO IMPERIAL
+Squash
+Men’s 2nd 3
+King’s College 2nd 2
+Table Tennis
+BUCS Cup
+Men’s 1st 9
+Imperial College 2nd 8
+Tennis
+BUCS Cup
+Men’s 2nd 0
+London Metropolitan University 3rd 10
+Fixtures & Results in association with Sports Partnership
+Volleyball
+Women’s 2nd 0
+London School of Economics 1st 3
+Saturday 7th March
+Football
+ULU
+Men’s 2nd vs Royal Holloway Men’s 1st
+Men’s 3rd vs Kings Medicals Men’s 1st
+Men’s 5th vs Queen Mary Men’s 3rd
+Sunday 8th March
+Hockey
+ULU
+Men’s 1st vs Kings Medicals Men’s 1st
+Men’s 2nd vs Goldsmiths Men’s 1st
+Men’s 4th vs King’s College Men’s 2nd
+Women’s 1st vs Imperial Medicals Women’s 1st
+Women’s 2nd vs St George’s Women’s 2nds
+Rugby
+BUCS
+Men’s 4th vs Surrey Men’s 2nds
+ULU
+Women’s 1st vs King’s Medicals Women’s 1st
+Monday 9th March
+Netball
+Women’s 1st ULU vs UCL Women’s 2nd ULU
+Women’s 3rd ULU vs LSE Women’s 6thULU
+in her last ever BUCS nationals,
+putting in more stirling swims in the
+200 and 400 freestyle as well as 200
+backstroke. This was matched if not
+surpassed by the sheer heroics shown
+by Kent Zhang in finishing the 400 IM,
+which most certainly broke him for the
+rest of the competition. Special men-
+tion however must go to Claire Taylor
+for reaching the final of the 50m free-
+style in a time of 28.85 giving Imperial
+their only national finalist of the week-
+end. The weekend was rounded off
+nicely with good performances from
+both medley relay teams finishing 27th
+and 31st. Fortunately IC swimming
+coach Sergio Catania neither missed
+his train nor fell between the train and
+platform on this occasion, he did how-
+ever resort to offering money to swim-
+mers to compete in events, cheers for
+the meal Sergio! Next weekend the
+team head back up to Sheffield to swim
+in the national team event, hoping for
+promotion in to their premier league,
+with a young and very promising squad
+on their hands, it looks to be a success-
+ful visit for the team.
+IC swimmers go to Sheffield
+Continued from back page
+At least there was some romance over the weekend
+At the end of the winter term, the Im-
+perial College Kendo Club had the very
+great pleasure and enormous privilege
+of hosting a training session like no
+other.
+Chiba-sensei is a man you are lucky
+to meet in Japan, let alone outside of
+it. Three-times winner of the All Japan
+Kendo Championship and previously
+the chief instructor of the Tokyo Met-
+ropolitan Police Dojo, he is considered
+by many to be the strongest man in
+Kendo.
+Attendance of the seminar lead by
+Chiba-sensei was impressive: in ad-
+dition to its own members, ICKC
+played host to members of the Brit-
+ish National Squad and visitors from
+several other London dojos including
+two brothers of 9 and 11 who outshone
+all the other kendoka of two or three
+times their age.
+Two hours of practice and commen-
+tary (ably translated by our own Emiko
+Yosikawa) was followed by jigeiko
+with Chiba-sensei, Matsumoto-sensei
+(British National Coach) and Salmon-
+sensei (Chairman of the British Kendo
+Association).
+All in all, the evening was a great
+success, allowing us the opportunity
+see live kendo of an exceptionally high
+standard and to hopefully give a good
+impression of British kendo.
+Kendo club train with the
+great Chiba-sensei
+Elizabeth Luthman
+Chiba-sensei showing the Imperial College Kendo Club how the best in the world does it
+the village to have our dinner, since
+the local one didn’t seem too keen on
+foreign folk like ourselves. At the pub
+we ambitiously decided to ride the Bull
+trail (all 20 km of it) the next day, be-
+fore breakfast! This was the only way
+we would have enough time left over to
+ride the CliMachX trail before return-
+ing to London. After a couple of beers
+we headed back for a more peaceful
+night’s sleep.
+On Sunday my room was packed up
+and ready to go on time, only for us to
+find that Henry, Roger and Doug were
+still sound asleep. After some hasty
+packing we headed off on the Bull
+(Welsh: Tarw, I think) trail, which goes
+up the other side of the valley. I think
+we were all surprised that we made it
+round at a reasonable speed without
+having much to eat beforehand. We
+grabbed a cheeky sandwich and cheese
+at the top of the hill as we watched the
+sun coming up (fine, it was already up,
+but you get the idea). At the end of the
+trail we enjoyed some great rocky sin-
+gle-track descents. As we rolled back
+down to the car park there was quite
+a smug feeling watching the weekend
+warriors coming up the other way,
+knowing that we had already ridden
+the entire loop.
+After a well-deserved breakfast we
+drove over to the CliMachX trail,
+which features the longest descent in
+Wales. As you can imagine, this does
+involve going up a massive fireroad
+climb before you can come down
+again. There is some sick single-track
+with some epic views at the top of the
+hill, which Dave T was enjoying a bit
+too much before he launched himself
+head first into a stream going round a
+blind corner.
+A little shaken, but with no serious
+injuries he got back in the saddle. In
+the meantime Roger had zoomed off
+ahead with mysterious new found en-
+ergy (I guess he is a chemist after all).
+At last we got to the final descent,
+which I can tell you is very long. The
+first section includes some nasty wet
+off-camber slabs and some sketchy
+short climbs. In the middle section the
+trail cuts across the side of the moun-
+tain, with a few jumps thrown in before
+it plunges back into the forest again for
+the last, and best, part. You almost
+think you’re in the Alps when you see
+the huge rocks and switchbacks, not
+to mention the cheeky North Shore
+berm. Once we had all made it down in
+one piece, Roger kindly offered to take
+Coed-y-Brenin cycle trip
+us up in the van so we could ride the
+final descent again.
+In the end, we beat the van on the
+way down by a couple of minutes. Dave
+M managed to get a pinch flat on the
+last corner, bagging himself the ‘First
+and Last Puncture of the Trip’ award.
+While he was faffing about, Henry
+found a nice slate wall which we ses-
+sioned until we had to go.
+On the long way back Dave T’s music
+choices provided another round of ar-
+guing, and we had the now traditional
+Burger King dinner. In the end, a great
+trip was had by all.
+Continued from back page
+These boys clearly listened to us last time, as can be seen with the
+Imperial student casually reading felix on the slate rocks
+1 2 3 4 5 5 6 7 8
+9 10
+11
+12 13 13 14
+14 15
+16 17
+18 19 20 21
+23 22 23
+24 32
+25 26 27
+34
+28 29
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,427
+Across
+1 Writer stands before king
+with unusually narrow cutting
+implement. (8)
+5 Bar serves Indian potatoes in the
+outskirts of Stockton. (6)
+9 Rock made of a sex hormone? (8)
+10 Picking regularly from gruff offal,
+we laugh. (6)
+12 Big cat is heard in boreal forest.
+(5)
+14 Headless, tailless cat with debts
+is worried. (7)
+16 Fish with heart of Romaine and
+two celery heads. I love raw
+meat. (9)
+17 We hear you must be kept in
+reserve – charming! (5)
+18 Met a Londoner with concealed
+claw. (5)
+20 Make up-to-date fashion with
+stitched-up reins. (9)
+22 Composer: ‘Long live Latin
+princess!’ (7)
+23 Soldier put inside computer – it’s
+a trick! (5)
+25 Historical records show Boleyn
+with some signs of palsy. (6)
+26 Shout out in Swiss town for
+onion. (8)
+28 How children might amuse
+themselves: watch a horror
+film? (3-3)
+29 Separate committee’s
+conclusion – peculiar. (8)
+Down
+1 Able to change shape, town sup-
+ports coin landing on tails, unusu-
+ally. (10)
+2 A number lifted trap. (3)
+3 Vehicle stuck in horrible rain – a
+state in which nothing is desired.
+(7)
+4 One consumed by overweight
+partner-in-crime, losing the last
+two items in a done deal. (4,8)
+6 Piece of plaque ousted – a sort of
+solution. (7)
+7 Baffling arrangement of bug fac-
+tions. (11)
+8 Overturned team leader achieved
+nothing in Yorkshire. (4)
+11 English town with a large tent
+somewhere in central London.
+(6,6)
+13 Clean river sullied with drug. It
+E K S C O M P L A C E N T
+I E F E V G U T A C R V Q H
+R E F L E C T P P A C K A G E
+A A L A N E C E A O O D I A
+C O U T E R A R G U E N T
+L B V E R C Y A C E N O A E R
+E L I X I R R Q U O T A B L E
+O H U O L E L T O A A O N N
+C O O D U S B A B R O A D
+A N A O C O N O E Y I S I E
+R E S O U R C E F U L N E S S
+D N T H T N H F N I R R H C
+I D O L I S E T O U T R A G E
+F V R K O O H R F Y I N C N
+F E I N I N I T Y A A G E D
+N
+E
+Solution to crossword 1426
+doesn’t matter. (11)
+15 Re-enact scene twice in old age.
+(10)
+19 Short book or a longer one on an
+American city? (7)
+21 Walk between the two rocky peaks
+– he might. (7)
+M
+M
+M
+M
+M
+M
+Congratulations to last week’s winners
+Team What What. Hope you can re-
+peat your performance
+Sam Wong
+

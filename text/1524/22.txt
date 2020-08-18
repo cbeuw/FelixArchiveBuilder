@@ -1,0 +1,860 @@
+A Cappella
+ABACUS
+Action Tutoring
+Activities for Children with Disabilities
+Aeronautics
+African Development
+Afro-Carribean
+Ahlul Bayt
+Aikido
+Alternative Music
+American Football
+Amnesty International
+Anime
+Arabic Society
+Archery
+Arts Imperial
+Artsoc
+Asian Medical Students Association
+Assassins Guild
+Astronomy
+Athletics (Medics)
+Avant Media Ltd
+Backgammon
+Badminton
+Badminton (Medics)
+Baha’i
+Bangladeshi
+Baseball
+Basketball
+Basketball (Medics)
+Be Heartful Friends
+Belly Dancing
+Bio Engineering
+BioChemistry
+Biology
+BioMedical
+Boat
+Boat (Medics)
+Book
+Boxing
+Bridge
+Bright Futures
+Bruneian
+Buddhist
+Bulgarian
+Caledonian
+Calligraphy
+CALM
+Canoe
+Cascade
+Catholic
+Caving
+Chamber Choir
+Chamber Music
+Chaplaincy
+Cheerleading
+Cheese
+Chemical Engineering
+Chemistry
+Chess
+Chinese
+Chinese Church in London
+Chinese Students & Scholars Association
+Chocolate
+Choir
+Christ Church Kensington
+Christ Church Mayfair
+Christian Medical Fellowship
+Christian Union
+CIMA
+Cinema
+City and Guilds College Union (C&G)
+Civil Engineering
+Co-Curricular
+Computing
+Conservative
+Consultancy
+Cooking
+Credit Suisse
+Cricket
+Cricket (Medics)
+Croquet
+Cross Country & Athletics
+Cycling
+Cypriot
+Czecho-Slovak
+Dance
+Dance - Funkology
+Dance (Medics)
+Dance Company
+Darts (Medics)
+De La Beche
+Debating
+Design
+Deutsche Bank
+Discovery Mexican
+Dodgeball
+Drama (Medics)
+Dramsoc
+E.quinox
+Eastside Bar
+M6
+GH19
+QTR62
+QTR1
+MEF7
+QTR2
+GH51
+JCR17
+MEF16
+M10
+QL18
+JCR9
+UDH10
+GH8
+QL15
+QTR24
+AS18
+SAF3
+UDH4
+UDH15
+SAF9
+QTR67
+UDH5
+CME22
+SAF27
+JCR18
+GH9
+QL20
+CME16
+SAF21
+QL12
+M15
+MEF9
+MEF1
+MEF2
+SAF34
+QL17
+SAF17
+UDH11
+CME20
+UDH6
+CME8
+GH13
+JCR19
+GH14
+GH1
+AS1
+QTR46
+BQ13
+JCR10
+JCR14
+BQ15
+GH43
+GH45
+BQ1
+QL19
+JCR3
+MEF11
+MEF3
+UDH7
+GH6
+QTR42
+GH17
+JCR12
+GH44
+QTR59
+QTR52
+SAF41
+JCR15
+QTR36
+QTR23
+MEF15
+MEF12
+QTR56
+MEF13
+AS6
+CME3
+JCR4
+CME2
+QL21
+SAF22
+CME12
+QL22
+CME17
+GH15
+GH12
+M12
+M11
+SAF14
+M13
+SAF16
+UDC8
+AS15
+AS20
+SF3
+QL39
+CME15
+SAF11
+M19
+QTR3
+QTR47
+Economics
+El Salvador
+Electrical Engineering
+EMSA
+Energy
+Engineers Without Borders
+Environmental
+Equalities Unit
+Erasmus
+Every Nation Christian
+Exploration
+Fairtrade
+Fashion
+Felix
+Fellwanderers
+Feminist
+Fencing
+Filipino Martial Arts
+Filmsoc
+Finance
+Fives
+Floorball
+Foodcycle
+Football - Mens
+Football - Mens (Medics)
+Football - Mens (RSM)
+Football - Womens
+French
+Friends of Medicins Sans Frontiers
+Gaelic Sports
+Gaming
+Gate Picturehouse, City Screen
+Gazette
+General Medical Council
+Geophysics
+German
+Giving What We Can London
+Gliding
+Global Brigades
+Golf
+Gospel Choir
+Gradcracker
+GradMed (Medics)
+Graduate Recruitment Bureau
+Graduate Student’s Association
+Guitar
+Guys + St Thomas NHS Trust
+Hammersmith Students’ Community
+Handball
+Hellenic
+Hillsong Church
+Hillsong Connect
+Hindu Society
+History
+Hockey
+Hockey (RSM)
+Hockey Mens (Medics)
+Hockey Womens (Medics)
+Humanities
+I am Student
+IC Buddies
+IC Students for the Exploration
+and Development of Space (ICSEDS)
+Ice Hockey
+Image Scotland
+Imperial College Aid to the Balkans
+Imperial College Careers Advisory Service
+Imperial College Lodge
+Imperial College Union
+Imperial Entrepreneurs
+Imperial Hub
+Indian
+Indonesian
+Innovation
+Interact
+International Ofﬁce Imperial
+International Public Health
+International Tamil
+IQ (Imperial College LGBT)
+Iranian
+Iraqi
+Irish
+Islamic
+Israeli
+Japanese
+Jazz & Rock
+Jazz Big Band
+Jewish
+Jiu Jitsu (Aiuchi)
+Ju-Jitsu
+Judo
+Juggling
+Karate Shotokan
+Kendo
+Kenyan
+Kenyan Orphan Project
+Kitesurﬁng
+KnitSock
+Korean
+Kung Fu
+Labour
+CME9
+QTR4
+MEF14
+SAF39
+AS7
+CP5
+AS8
+QTR64
+QTR21
+JCR24
+BQ7
+QL38
+AS19
+M1
+BQ3
+AS9
+UDC1
+MEF10
+AS4
+CME1
+CME11
+CME10
+QTR5
+QL23
+SAF18
+UDC4
+QL32
+GH10
+JCR20
+QL9
+UDH12
+QTR27
+SAF8
+QTR44
+UDC9
+GH11
+QTR58
+QL36
+QTR6
+CME18
+GH50
+QTR40
+SAF32
+QTR31
+MEF6
+M7
+QTR49
+SAF7
+QL24
+GH2
+QTR25
+JCR16
+JCR26
+AS16
+QL25
+UDC5
+SAF23
+SAF29
+QTR41
+QTR43
+QTR7
+MEF25
+CME14
+SF2
+SAF36
+QTR28
+QTR54
+BQ2
+CME4
+QTR17
+GH3
+GH24
+CME5
+QTR8
+QTR61
+MEF8
+GH39
+QTR20
+GH4
+GH16
+QL10
+JCR25
+GH21
+GH20
+M17
+M8
+JCR21
+SAF24
+MEF17
+CME21
+BQ12
+QL7
+MEF18
+GH5
+QTR9
+BQ4
+AS5
+GH42
+MEF19
+AS10
+Lacrosse
+Law
+Leonardo Fine Arts
+Library Services Imperial
+LINKS
+Linux Users
+Live! News Website
+London Business School
+London Nightline
+London Symphony Orchestra
+Lycatel
+Magazine
+Mahjong
+Malaysian
+Management
+Materials
+Mathematics
+Mauritian
+Meat Appreciation
+Mechanical Engineering
+Medical Education
+Medical Aid
+ICSMSU Medics Students’ Union
+MedSIN
+Metropolitan Tabernacle
+Milkround
+Mobile Tech
+Model United Nations
+Motor (C&G)
+Motor (RCS)
+Motor (RSM)
+Mountaineering
+Mountaineering (Medics)
+Muay Thai
+Music (Medics)
+Music Technology
+Musical Theatre
+Muslim Medics
+Nando’s Chicken
+Netball
+Netball (Medics)
+Neurology (Medics)
+NHS Blood & Transplant
+Nigerian
+Not in Halls
+Opera (Medics)
+Opthamology (Medics)
+Orchestra - Sinfonietta
+Orchestra - Symphony
+Outdoor
+Overseas Christian Fellowship
+Oxiway
+Paintball
+Pakistan
+Palestinian
+Parachute and Skydiving
+Parkour, Free Running and Gymnastics
+PASS
+Philosophy
+Photosoc
+Physics
+Pilots
+Podcasting
+Poker
+Pole Dancing
+Polish
+Political Philosophy
+Portuguese Speaking
+Pottersoc
+Progressio
+Project Nepal
+Punjabi
+Quiz
+Racing
+Radio
+Radio-Controlled Model
+RAG
+RAG (Medics)
+Rail and Transport
+Raincatcher Imperial
+RateMyPlacement
+Real Ale (RSM)
+Representation & Welfare
+Riding & Polo
+Riﬂe & Pistol
+Robotics
+Rocksoc
+Romanian
+Rotaract
+Rounders
+Royal College of Science Union (RCS)
+Royal School of Mines (RSM)
+Rugby - Mens
+Rugby - Mens (C&G)
+Rugby - Mens (Imperial Medicals)
+Rugby - Mens (RSM)
+Rugby - Womens
+Rugby League
+Russian Speaking
+Sailing
+Santander Universities
+SAF25
+CME6
+AS2
+QTR69
+CP3
+UDH13
+CP4
+QTR57
+QTR55
+QTR37
+QTR26
+M3
+UDH8
+GH18
+CME7
+UDC10
+MEF4
+GH22
+JCR1
+MEF22
+SAF35
+QTR10
+SAF33
+SAF37
+QTR39
+QTR66
+UDH16
+AS11
+CP9
+CP11
+CP10
+BQ5
+SAF40
+MEF20
+SAF12
+M16
+M18
+SAF6
+QTR53
+QL1
+SAF26
+SAF5
+QTR60
+GH23
+QTR22
+SAF13
+SAF2
+GH48
+GH49
+BQ8
+JCR22
+QTR63
+BQ20
+GH7
+GH25
+QL35
+BQ18
+GH41
+AS12
+AS3
+MEF5
+QL37
+M4
+UDH9
+M14
+GH26
+AS13
+GH27
+UDH3
+QTR48
+QTR11
+GH40
+JCR5
+CP8
+M2
+UDH17
+QL13
+SAF1
+CP7
+QTR12
+QTR68
+UDC6
+QL14
+QL27
+BQ21
+MEF23
+M9
+GH28
+JCR6
+QL28
+MEF27
+UDC2
+CP1
+CP6
+SAF20
+UDC7
+QL33
+QL29
+GH29
+QL6
+QTR65
+Save the Children
+Scandinavian
+Science Fiction and Fantasy
+SCUBA Diving (Medics)
+SCUBA Diving (Underwater Club)
+Sesquis Operations Limited
+Shaolin Kung-Fu
+Shorinji Kempo
+SIFE
+Sikh
+Singapore
+Skate Society
+Skateboard and BMX
+Snooker
+Snowsports
+Socialist Worker
+Software
+Soup Run
+Spanish
+Speakers
+Sport Imperial
+Sports (RSM)
+Squash
+Squash (Medics)
+Sri-Lankan
+SSAGO
+St Barnadas Church Kensington
+STOIC TV
+String Ensemble
+Student Action for Refugees
+Stdent Blogs/Imperial Fringe
+Student Speed Dating
+Surf
+Surgical
+Swim & Water Polo
+Synchronized Swimming
+Table Football
+Table Tennis
+Taekwondo
+Taiwan
+Takeover
+Target Jobs
+Tea
+TEAM
+Team Bo’
+Ten Pin Bowling
+Tennis
+Tennis (Medics)
+Thai
+The Pimlico Connection
+Triathlon
+Turkish
+Ultimate Frisbee
+UNICEF
+University of London Air Squadron
+University of London Ofﬁcer Training Corp
+University of London Royal Naval Unit
+VegSoc
+VirginMedia
+Vietnamese
+Vision
+Volleyball
+Wakeboarding
+War Games
+Waterpolo (Medics)
+Weights & Fitness (Medics)
+Welsh
+Wikipedia
+Wilderness Medicine
+Wilkinson
+Wind Band
+Windows
+Windsurﬁng
+Wing Chun
+Women in SET
+Wushu
+Yacht
+Yoga
+Yoga (Charing Cross)
+Zoological Society of London
+QL11
+GH30
+UDH1
+SAF15
+BQ9
+QTR35
+MEF21
+MEF24
+JCR8
+JCR23
+GH31
+BQ19
+BQ17
+CME19
+QL4
+AS14
+UDH14
+QTR13
+GH32
+JCR7
+CME13
+UDC3
+CME23
+SAF31
+GH33
+QTR14
+QTR50
+M5
+GH47
+QTR15
+QTR38
+BQ6
+BQ13
+SAF4
+QL3
+QL2
+BQ10
+CME24
+MEF26
+GH34
+QTR32
+QTR45
+JCR13
+QTR16
+CP12
+CME25
+QL26
+SAF28
+GH35
+SF3
+QL16
+GH36
+QL30
+QTR18
+QTR30
+QTR52
+QTR29
+JCR2
+QTR33
+GH37
+SAF38
+QL31
+BQ16
+UDH2
+SAF30
+SAF19
+GH38
+JCR11
+CP2
+QTR34
+GH46
+QTR70
+QL34
+QL8
+QTR19
+BQ11
+QL5
+AS17
+SAF10
+QTR51
+imperialcollegeunion.org
+South
+Kensington
+E
+x
+hi
+bi
+tion
+Roa
+d
+Prin
+ce’s
+G
+ate
+Prince’s Gardens (North Side)
+Imperial College Road
+Kensington Gore
+Prince’s Gardens (Watts Way)
+Prince Consort Road
+Qu
+een’s
+G
+ate
+Frankland Road
+50 metres
+2
+6
+7
+8
+9 10 12
+17
+18
+34
+33
+32
+31
+30
+11
+14
+20
+24
+25
+26
+3 4 5
+19
+29
+23
+27
+28
+22
+21
+16
+15
+13
+1
+Ethos
+Sports
+Centre
+Beit Quad
+Skempton Southside
+Sir
+Alexander
+Fleming
+Faculty
+Bessemer
+ACEX
+Royal School
+of Mines
+Huxley
+Blackett
+Sherfield
+Library
+Chemistry
+Chemistry
+RCS1
+Bone
+Roderic
+Hill
+Mechanical
+Engineering
+Electrical
+Engineering
+Business
+School
+Queen’s
+Lawn
+Prince’s Gate
+Gardens
+Prince’s
+Gardens
+Royal
+Albert
+Hall
+Hyde Park
+

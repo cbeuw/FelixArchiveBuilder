@@ -1,0 +1,95 @@
+CCI-II
+Algebraic Numbers
+This week's puzzle, due to my unbelievable
+apathy, is from Scaramouche. It's one of many
+variants on a simple idea for a puzzle: all you
+have to do is construct an expression which is
+identically equal to four, using only three n's
+(where n represents a digit greater than 0 and
+less than 10). For instance,
+n
+n + n
+n
+E E
+for the most expressions.
+Last Week's Solution
+Cocktails for Six
+Only seven entries for this, which surprised me
+as it was an easy puzzle. The winner was
+Leann Jones of Maths 2, who can collect her
+£5 cheque from the FELIX Office after 1:30pm
+on Monday (and I promise it will be ready this
+time!). The lie was that Mandy said 'Cuddles
+Barnett is more expensive than Chairman's
+Decision'. My apologies to the young lady on
+whom the puzzle was based.
+(here <n represents the number -nnn... = n/9)
+So you can construct an expression which is
+identically 4?
+Also, there's a Jingles haircut voucher for
+the person who can supply the most number
+of digits in the same way.
+Solutions, comments, criticisms to me at the
+FELIX Office by 1:00pm Wednesday. £5 from
+Mend-aBike for a randomly selected correct
+entry, and a free hcWcut voucher from Jingles
+Angling Corner
+This is one of my father's puzzles, and is
+remarkable in that, while it is a difficult puzzle,
+I don't think it requires anything more than O
+Level maths to do it.
+I shall, totally arbitrarily, refer to an angle
+which is part of a right angled triangle with
+integer sides (ie either angle of a 3, 4, 5 or a 5,
+12, 13 triangle) as a right acute angle. Now, if
+you create a new angle from any integer
+multiple of any number of right acute angles
+(added or subtracted), you create a new one.
+For instance, if you take 53.130° (one of the
+angles from a 3, 4, 5 triangle) and add it to
+22.620° (one of the angles from a 5, 12, 13
+triangle) you get 75.750°, one of the angles
+from a 16, 63, 65 triangle. Can you prove that
+this is always the case?
+The Undergraduate and the Porters
+Well, I did tell you it was difficult, though only
+one person seemed to believe me. Perola was
+the only person to come close; after this point I
+think you need to be a mathematician to go
+any further. The scene so far; to escape means
+to leave the lawn, and pretend (assume!) that
+there is a path running around the lawn upon
+which the porters may move.
+The porters must obviously be considered
+as points, and if there is any finite number of
+porters, the undergraduate can run up to the
+edge and dodge the porters easily, since he
+can run on a smaller radius than them, and
+hence overtake them. We therefore need an
+infinity of porters, and while a porter placed at
+every real point of the circle can obviously stop
+the undergraduate escaping, can a porter at
+every rational point?
+I think people are interested in this kind of puz-
+zle; I got more answers handed in to this than to
+'Cocktails for Six', so I shall continue the
+series. Unfortunately there was only one even
+nearly correct answer (most people favouring
+three porters).
+CiMDT F L O W E R S
+1 1 1
+Br\NC£KS
+U
+N
+I
+O
+N BUILDING
+IMPERIAL COLLEGE SW7
+£1-00 (15p **ANCE) march
+4tb Thurs March 3 5:30-7:00
+Free! Names to Jen, Union
+Office by 1pm Tues March 1,
+1
+FELIX is published by the Editor for and on behalf of Imperial College Union Publications Board, and is printed by the Union Print Unit, Prince Consort Road, London S W7 2BB.
+Tel. 01-589 5111 Ext 1048 or Internal 2881. Editor: Martin S Taylor; Business Manager: Peter A Rodgers; Advertising Manager: Nick Thexton. Copyright FELIX 1983
+

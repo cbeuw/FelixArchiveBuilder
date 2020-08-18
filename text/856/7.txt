@@ -1,0 +1,173 @@
+Physicists in Japan have discovered a gyroscope effect which couldforce a rethink on
+the current theories of mechanics. Stalled from publishing, their results could be as
+significant or as unfounded'as 'cold fusion'.
+Gyromania
+The gryoscope is a curious beast. When spinning it
+stands upright effortlessly, as if by magic. It will rotate
+horizontally about an anchor at one end. Dancing on
+one foot it glides around as if to music.
+In fact, all its mystical properties are a consequence
+of the conservation of angular momentum law. This
+merely says that the angular momentum remains
+constant unless acted upon by a torque (a twisting
+force). The angular momentum is the momentum
+associated with the rotation of a body. For the
+gyroscope it is decribed by a vector with magnitude
+proportional to the several characteristics of the rotor.
+Its direction is that of the spin axis.
+In order to change the direction of the gyroscope
+a force must act on the rotor, which effectively alters
+the plane or direction of the rotor's spin. The action
+of gravity when a gyroscope is fixed off vertical at one
+end of its axle, means that it will 'precess': the whole
+gyroscope will rotate in a circle around this point of
+attachment. This is because the force due to gravity
+produces a torque around the pivot, which causes the
+gyroscope's angular momentum vector to rotate in
+this manner, rather than fall downwards.
+This outlines why gyroscopes behave as they do
+and clearly is not a detailed explanation. What it is
+intended to show is that gyroscopes are well
+understood. They are an integral part of kinematics
+not a separate entity, All their properties are described
+by the laws of linear and rotational mechanics.
+This said, machines using gyroscopes make
+appearances in the headlines at surprisingly regular
+intervals. Devices have been designed which claim to
+hover above the ground without energy loss or will
+speed you to Australia in a few hours. They are often
+patented and bought out by large companies
+presumably in the hope that one day they will pay off.
+According to the present theory of mechanics, there
+is no change in weight for a normal gryoscope
+between its spinning and stationary states. If the
+gyroscope is spinning on a vertical axis its motion does
+not produce a force which would contribute in any
+way to the apparent weight of the gyroscope.
+Last month however an article was published in the
+well respected Physical Review Letters (vol 63, No 25
+pp2701) contradicting this. The paper was written by
+two Japanese physicists H Hayasaka and S Takeuchi.
+They claim that a weight reduction can be observed
+between a gryoscope spinning in one direction and
+one spinning in the opposite direction or stationary.
+-This is bizarre.
+The experimental arrangement consisted of a
+sensitive chemical balance with standard weights and
+a small electric gyroscope (with three alternative
+rotors of different masses and made from aluminium,
+brass and silicon-steel). The apparatus was
+contained in a vacuum vessel.
+After accelerating the gyroscope up to speed the
+power from the AC motor was cut so that the
+gyroscope 'free-wheeled.' The rotation speed was
+determined using a stroboscopic tachometer. The
+weight was measured 10 times for a range of rotation
+frequencies from 3000-13000 rpm in 1000 rpm
+steps. On alternate steps the rotors were turned
+upside down.
+In all cases the weight of the gyroscope decreased
+linearly with frequency when the gyroscope was
+spinning in an anticlockwise direction as viewed from
+above. The weight changes were between 2mg to
+11mg for the 175g rotor with the sensitivity of the
+balance being a claimed 0.3mg. The results from the
+gyroscope spinning in the other direction or stationary
+show no weight change whatsoever at any of the
+frequences of rotation. The data is remarkably well
+correlated.
+Extensive cross referencing was said to agree with
+the results. The apparatus was run in a magnetically
+isolated cylinder where the magnetic field was 1 /100
+of the strength of the external environmental magnetic
+field. This again is claimed not to affect the results.
+The lift available on the gryoscope due to the fluid
+effect of air was found to be 260mg. However the
+pressure during the experiment was between 104
+and
+107
+times lower than this. However the most
+convincing argument is that the lift would be produced
+in either direction of spin. The experiment was
+repeated on different days and with different
+orientations (North, South, East, West) and again no
+different conclusions were made.
+The whole experiment is convincing and at the
+same time totally inexplicable. The most fundamental
+statement is that if this effect is real then nature is
+sensitive to the 'handedness' of things; forces applied
+to bodies with right handed properties have a different
+effect to those acting on left handed ones. The force
+we seem to see is effectively a repulsive 'anti-gravity.'
+If such a force turned out to exist the effect on physics
+would be profound. We now await further
+experiments and confirmation or contradiction.
+This
+By Simon Haslam
+Week
+• Solvent resistant plastic has been made by a new
+technique whereby the surface of polyethylene
+(polythene) is coated with polyfluoroethylene. The
+layer is deposited by either blowing the polythene into
+shape using a mixture of fluorine and nitrogen gas or
+by treating the products with the gas afterwards. This
+provides a tough outer layer which makes the plastic
+very resiliant to common solvents such as turpentine,
+oil and petrol. The latter property means that car
+manufacturers such as Volkswagon, BMW and
+Peugeot are using the new super-polythene for petrol
+tanks. Plastic tanks are less likely to rupture in the
+event of a crash but ordinary polythene allows fuel
+to slowly escape through the walls. The most
+awkward problem however is that fluorine is the most
+reactive of all the elements and is obviously highly
+toxic. Mixing it with nitrogen makes it more
+manageable and there are now several companies
+specialising in producing the new plastic.
+• A lost glove and camera were spotted just before
+being burnt up on re-entry into the atmosphere. They
+had been dropped by astronauts twenty years ago and
+are among 20,000 objects itemised by the radar
+tracking station, RAF Fylingdales, in order to prevent
+them being misinterpreted as early warning of a
+nuclear attack.
+• The American Superconducting Super Collider
+(SSC) is to be the biggest particle accelerator in the
+world (and will be sited in Texas, of course). Some
+members of Congress now believe the 20 GeV proton-
+proton collider will need twice the $5.9 billion formally
+declared as its final price.
+This follows what has appeared to be the almost
+weekly increase in the estimated cost of the proposed
+high energy physics machine. Instabilities in the
+superconducting magnets are likely to require beam
+aperture widening and possibly more focussing
+magnets which would increase the circumference of
+the ring by 2km to 87km. Computer modelling is also
+suggesting that the problems are highlighted at low
+energies and so higher energy proton injection is being
+proposed (at an additional cost of $288 million). At
+this rate the SSC may well cost more to build than
+the Channel Tunnel.
+• NASA's latest shuttle mission (involving
+Columbia) has recovered a satellite which had been
+in orbit for nearly six years. This will provide scientists
+with useful data on how spacecraft survive though
+long periods in space from its 57 experiments
+contained on board. The satellite was due to be in orbit
+for no more than ten months but its retrieval was held
+up by the Challenger disaster.
+• Irradiated food is the subject of a recent House
+of Lords Select Committee report which says that the
+'overwhelming weight of evidence is that irradiation
+of food on the limited basis proposed by the
+commission is safe'. The suggested footstuffs, which
+including shrimps and 'poultrymeat', appear to be
+chosen arbitrarily but the document states 'such a
+limitation will enable the effects of irradiation to be
+monitored and suitable regulatory controls developed'.
+• 'Chaos Reigns'. A lecture by Professor Ian Percival
+of Queen Mary College. Wednesday 31 January,
+Physics Lecture Theatre 1.
+Page 7
+

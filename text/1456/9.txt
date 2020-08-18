@@ -1,0 +1,213 @@
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+9
+felix FRIDAY 05 MARCH 2010
+James Goldsack
+James Goldsack
+Fusion energy production has got a
+step closer according to new research
+recently published. The controlled fu-
+sion of atoms has long been consid-
+ered a possible revolutionary energy
+source. However, doubts have been
+raised about the use of high energy
+lasers to obtain this due to the plasma
+they create. The fear is that this plasma
+could interrupt the fusion. An article
+published in Science has shown that
+plasma is far less of a problem than
+expected.
+The report is based upon initial ex-
+periments from the National Ignition
+Facility in the US, using all 192 of its la-
+ser beams. The experiments also broke
+the record for the highest energy from
+a laser by a factor of 20. The facility at
+Lawrence Livermore National Labora-
+tory took 12 years to construct and was
+only completed in May 2009. In con-
+trast to current nuclear power – fission
+– the facility’s goal is the creation of a
+controlled thermonuclear explosion by
+harnessing the power of the largest la-
+ser ever built.
+Proving that a fusion reaction in the
+lab can release more energy than is
+required for ignition could usher in a
+new era of large-scale energy produc-
+tion. NIF uses a technique called in-
+ertial confinement fusion where the
+target is a centimetre-scale cylinder of
+gold called a hohlraum. This contains
+a pellet of fuel made from deuterium.
+The plasma that lasers will create in
+the hohlraum was one potential hurdle
+to the success of the process. The fear
+was that the plasma would interrupt
+the absorption of energy by the target
+and disturb the uniform funnelling of
+this energy, compressing and igniting
+the target.
+Siegfried Glenzer led a team to test
+this theory. “We hit it with 669 kilo-
+joules – 20 times more than any pre-
+vious laser facility”. The experiments
+provided proof that the plasma did not
+disrupt the process, with about 95% of
+incident laser light being absorbed by
+the hohlraum. Furthermore, Dr Glen-
+zer’s team discovered that the plasma
+can be carefully manipulated to in-
+crease the uniformity of the compres-
+sion – a key component for achieving
+ignition.
+“For the first time ever in the 50-year
+journey of laser fusion, these laser-
+plasma interactions have been shown
+to be less of a problem than predicted,
+not more,” said Mike Dunne, direc-
+tor of the UK’s Central Laser Facility
+and leader of the European laser fu-
+sion effort, HiPER. “I can’t overstate
+how dramatic a step that is,” he said.
+“Many people a year ago were saying
+the project would be dead by now.”
+Since the publication in Science, the
+pulse energy has been increased to one
+megajoule onto the target, a further in-
+crease of 50%. The latest calculations
+show that about 1.2 megajoules of en-
+ergy will be enough to cause ignition
+and NIF has the capability to run up to
+1.8 megajoules.
+Dr Glenzer said that experiments us-
+ing slightly larger hohlraums with fuel
+pellets, including a mix of the hydro-
+gen isotopes deuterium as well as tri-
+tium, should commence before May
+before increasing the power gradually
+to 1.2 megajoules. “The bottom line is
+that we can extrapolate those data to
+the experiments we are planning this
+year and the results show that we will
+be able to drive the capsule towards ig-
+nition,” said Dr Glenzer. “It’s going to
+happen this year.”
+Is this a vision
+of the future?
+Science Editor
+A step closer for nuclear fusion
+James Goldsack
+James Goldsack
+Scientists have now decided that
+a strong cup of coffee could save
+a life, after finding out that it can
+protect the heart. This is the find-
+ing from US medical giant Kaiser
+Permanente’s Division of Research
+in California, and it has found that
+coffee in all doses can protect from
+heart disease. The study followed 130,054 men and women be-
+tween the ages of 18 and 90 and found that those who drunk four
+or more cups of coffee per day had an 18% lower risk of hospi-
+talisation for heart rhythm disturbances. This however isn’t good
+enough to prove cause and effect, even though it may offer some
+reassurance to people. A similar study from the Universidad Au-
+tonoma de Madrid in Spain showed similar results in that drinking
+three cups of coffee a day could reduce the risk of women dying
+from heart disease by a quarter.
+Austin Sendek, a student at the University of California
+has started a campaign to create a new prefix for de-
+scribing quantities with a magnitude in the range of 1027
+. His online petition to call to allocate a prefix of ‘hella’ to
+this figure already has the signatures of 20,000 scientists
+and members of the public. If introduced, it would be
+the first new prefix brought in to use since 1991 when
+zetta and yotta became the official prefixes for 1021
+and
+1024
+respectively. Professor Mills of the University of
+Reading has promised to raise the petition at the next
+meeting of the Consultative Committee for Units but in
+a letter to Sendek said “I’m sure it will be received with
+smiles - but I doubt it will go further.” The main reason
+the name is likely to be rejected is that prefixes such as
+zetta and yotta, brought in nearly 20 years ago, are still
+not in common use and a new prefix at this stage will
+only add to further confusion. Also, most prefixes stem
+from a Latin or Greek origin – rather than North Califor-
+nian slang for ‘a-lot-of.’
+If a new report from Im-
+perial College and the
+University of Surrey is
+to be believed, when
+it comes to achieving a
+carbon-free UK, relying
+on ‘clean’ electricity is not
+the answer. According to
+the report, the quest for clean electricity is likely to face
+‘critical challenges’ as we see a switch from the use of fossil
+fuels to electricity in areas such as transport. The demand
+for electricity has the potential to double over the coming
+years meaning a significant increase in the number of low-
+emission power stations being built. A ‘combined heat and
+power’ approach has the potential to reduce electricity de-
+mand by 13% and cut fossil fuel consumption by 5%, the
+report estimates.
+A new ‘skinput’ device is being devel-
+oped by Carnegie Mellon University in
+Pittsburgh, Pennsylvania and research-
+ers in Microsoft’s research lab in Red-
+mond, Washington.
+It involves a combination of a micro-
+chip sized pico-projector (which creates
+the changing display) and a sensor that
+192 lasers bombarded a small pellet of deuterium fuel with an energy twenty
+times that of any previous experiment.
+In
+brief
+The naming of 1027 Waste heat solution Coffee protects heart
+A record-breaking experiment at the National Ignition Facility
+restores faith in nuclear fusion through inertial confinement
+A video showing how ‘skinput’ can recognise a telephone number input
+can tell which part of your body your
+arm is tapping. This is based on the idea
+that different skin locations are acous-
+tically distinct due to bone density and
+a filtering effect from soft tissues and
+joints. Software is then used to match
+sound frequencies (the complex longi-
+tudinal waveforms) to specific locations
+on the skin. Different interactive capa-
+bilities can be bound to different loca-
+tions, and so you have a fully fledged
+sensor.
+The idea behind this device is the ap-
+parent desire for people not to have to
+carry around extra surfaces with them,
+especially for inputs. The skinput de-
+vice takes this idea and harnesses the
+intrinsic benefit of our own obligation
+to carry arms around with us. This be-
+ing said, the prototype requires the user
+to wear an armband. However the hope
+is that the system could use wireless
+bluetooth technology to transmit the
+commands to many types of devices
+such as phones, Ipods, and even PC’s.
+Accuracies as high as 95.5% were
+able to be achieved at five different
+skin locations, which would suppos-
+edly be enough for several smartphone
+applications.
+This would, however, need to be
+improved to be able to feasibly go to
+market.
+Twenty volunteers tested the system
+and reported that it was easy to navigate
+through icons on the forearm and by
+tapping fingers to execute commands.
+

@@ -1,0 +1,215 @@
+SCIENCE science.felix@imperial.ac.uk
+7
+felix
+Thursday 27 November 2005 www.felixonline.co.uk
+Every summer Imperial sends five
+or so students across the Atlantic to
+the University of Delaware on the
+east coast of the United States, as
+part of the Undergraduate Research
+Opportunities Program (UROP). I
+was one of the fortunate few to have
+this experience – a chance to have
+a stab at some real-world scientific
+research while having a lot of fun.
+The University of Delaware is situ-
+ated on a beautiful, green campus
+a short drive away from New York
+City, Philadelphia, Washington, DC
+and the seaside. Even though the
+exchange takes place over 8 to 9
+weeks during the summer months,
+there is never a lack of activity, and
+trips are organised to all of the above
+places. To complement this, campus
+life is lively – there are hundreds of
+American students still on campus,
+carrying out similar research place-
+ments, so there are always parties
+to go to, and plenty of poker to play.
+The campus surrounds Main
+Street, the place to be when in
+Newark, DE, and is home to a vari-
+ety of bars and eateries. It’s also
+a short drive away from the malls,
+providing ample opportunity to rake
+in the benefits of the ‘strength’ of the
+US dollar.
+During the first seven weeks, I
+stayed on campus in student dorms
+and got to meet a variety of strange
+but extremely friendly people,
+including my American roommate,
+Alfred Gordon Smith III. Despite his
+remarkably silly name, AGSIII did
+have a beach house in New Jersey,
+water-skis, and a family connected
+to government, so there were a few
+things to benefit from (in addition to
+just meeting a nice person!).
+Don’t forget that there is some
+exciting project work to be done
+as well. There is a wide variety of
+projects available, with work varying
+depending on your choice. You may
+work closely with a research group
+or have your own project. I chose
+to do mine in a condensed mat-
+ter physics group, playing around
+with some helium theory. Whatever
+placement you choose, there will
+always be plenty of help and advice
+available and a chance to carry out
+some quality research.
+Perhaps the best cultural expe-
+rience was the two-week home-
+stay, where I got room and board
+with a local American family. The
+worst was possibly the distinct lack
+of my mate, Marmite; I strongly
+advise that you take a jar with you.
+Personal issues aside, the exchange
+is an excellent opportunity for extra
+travel, as the placement takes up
+only the first two months of the sum-
+mer, leaving you free to explore on
+the cheap.
+The experience is highly recom-
+mended by each and every one of us
+who went!
+Benjamin Withers
+To find out more, come to the
+presentation in Lecture Theatre 3
+on Level 1 of the Blackett
+Laboratory (Physics) at 13.10pm,
+Tuesday 8 November.
+By the time you read this, we will
+already have put a satellite into
+orbit.
+Today, 27 October, at 07:52:26
+(BST), SSETI-Express has been
+launched into orbit by a Cosmos
+rocket from Plesetsk, Russia, in
+the DMC-3 flight of Surrey Satellite
+Technology.
+SSETI-Express is a low Earth
+orbit (LEO) spacecraft, which
+weighs 62 kg and has the approxi-
+mate shape and size of a washing
+machine. It is the first satellite in
+orbit, which has been designed,
+built and tested entirely by univer-
+sity students across Europe.
+SSETI-Express is an educational
+mission. Beyond its technological
+developments, its most important
+purpose belongs down on Earth:
+the students behind it. It has
+encouraged, motivated and trained
+students across Europe in a real
+aerospace project. How many of
+you will have put a satellite in orbit
+before you graduate?
+Besides this, SSETI-Express
+also has physical payloads and
+objectives. It will deploy CubeSat
+picosatellites developed by three
+different universities (in Norway,
+Canada and Japan), take pictures
+of the Earth and test hardware and
+technology that will be used in our
+next satellites. It also involves the
+radio amateur community in the
+downlink of the data and, once its
+nominal mission is over, it will act
+as a transponder for them.
+SSETI-Express is a rarity in the
+space field, not only because it has
+been entirely done by students.
+It has had a record development
+time of only 18 months from kick-
+off to flight readiness review, which
+probably makes it the fastest
+spacecraft design and construc-
+tion project ever, hence the name
+“Express”. Its cost contributes to
+its rarity: by using donated materi-
+als, equipment and expertise (from
+ESA, universities and industry),
+the total hardware expenditure by
+ESA’s Education Department has
+been kept below 100,000 euros.
+As with all space projects, ours
+hasn’t followed an easy path to
+launch. The first launch was
+scheduled for 25 August. It suf-
+fered a month delay due to minor
+problems with the main passenger
+of the flight. After a 3 day delay in
+September, it was delayed again
+for another month, only 5 days
+before launch, due to compatibility
+problems. Finally, the launch was
+set for today, and all looks good as
+I’m writing this, D-day minus 5. If
+the weather turns out to be hor-
+rible, the launch will be postponed
+until tomorrow. But a good thing
+about launching with Russia is that
+their rockets are tougher, and the
+weather has to be truly horrible to
+postpone the launch for one day.
+The launch of SSETI-Express
+has only been our first milestone.
+Our second project, the European
+Student Earth Orbiter (ESEO)
+is currently in its design phase.
+The Imperial College team is an
+active member, being in charge
+of the Assembly, Integration and
+Verification (AIV) of the satellite.
+Our third project, the European
+Student Moon Orbiter (ESMO) is
+undergoing feasibility studies now,
+and we have thoughts of a fourth
+mission, a Moon Rover.
+We hope the launch today will
+give our project a boost in terms of
+not only students interested in the
+project, but also opinions on our
+work. The scientific community
+and the public have been watch-
+ing us for some time now and are
+not yet sure how we manage to do
+it. We astonish space profession-
+als by continuing a project with
+no funding to speak of, no recog-
+nized expertise and almost never
+meeting the other members face
+to face. Indeed, we do this and a
+degree at the same time, while
+the professionals keep up with us
+because it’s their full time job.
+If you are lucky enough to
+have picked this issue today in
+the morning (or, even better,
+Wednesday night as you leave
+the Union), you are still in time
+to come see our launch! The live
+transmission starts at 7.30am in
+the Blackett Laboratory, Level 8
+Common Room, and there will be
+repeats of the launch at 10.00am
+and 12.00am in the Union building
+(Beit Quad), Seminar Room 1.
+Cristina Rodriguez Trobajo
+SSETI Team Coordinator
+For more information about
+SSETI, visit www.sseti.net or
+e-mail sseti@imperial.ac.uk
+SSETI-Express Launch Today
+A summer of science in America
+Benjamin (far right), along with Chi Hui Lim, Steven Johnson, Julia Li (left to right), and Elena Phoka
+(missing), was lucky to be selected for a two-month research placement at the University of Delaware.
+Washing machine or satellite? The SSETI-Express launched today.
+

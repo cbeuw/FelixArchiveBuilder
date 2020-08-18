@@ -1,0 +1,145 @@
+F E L I X
+THE ALTERNATIVE PAGE
+R I D I N G
+ANTE
+T H E
+LOPE
+by Earl Grey
+I was in Earls Court Station waiting for
+a tube when I was knocked senseless by
+an amazing conundrum.
+'Will running down an escalator
+increase my chances of catching a train?'
+When I reverted to mathematical jargon
+and used lots of big words it become
+apparent that the the probability of
+catching a train is the same whether you
+run down an escalator or not. Put it
+another way—if you wait on the,
+platform long enough then a train will;
+eventually turn up (barring nuclear war,j
+the abolition of London Underground!
+and Ian Howgate's underwear). It is
+obvious, even to i pygmy, that the
+probability of catching a train must
+always be one.
+But, you might query; if a person runs
+down the escalator will it increase his
+chances of catching the next train?
+In order to analyse the problem
+properly we must define what we mean
+by the next train.
+Definition 1; The Next Train. The next
+train is defined to be the first train to
+arrive on the platform taken from the
+moment when the subject first sets foot
+on the escalator.
+It follows...
+Definition 2; Catching the Next Train.
+The Next Train is said to be caught when
+the subject arrives on the platform when
+the doors are open or in the process of
+opening.
+Similarly...
+Definition 3: Missing the Next Train.!
+The Next Train is said to be missed!
+when the subject arrives on the platform'
+when the doors have closed or are in the
+process of closing.
+I
+It is obvious to anyone with half a|
+braincell (Sorry Dave, no offence) that1
+the probability of catching the next train
+will depend upon the following,
+variables... I
+T The time taken for a stationary
+subject to reach the bottom of a
+particular escalator.
+C The coefficient of
+runningdowntheescalatorness
+K B i g K
+A The time taken for the Next Train
+to arrive, timed from the point when the
+subject first steps foot on the escalator.
+W The waiting time between trains
+d The length of time the train is on
+the platform with the doors open.
+If we define Big K to be a constant
+equal to the time taken to run from the
+bottom of the escalator to the platform
+it is immediately obvious that the
+probability of catching the train can be
+represented by the following Heaviside
+step function.
+?=H((fl+ d)-(Lstk))
+If P is 0, the subject will miss the
+train, and if P is 1 the train will be
+caught. In ether words...
+xc Pel
+c
+c
+flewsfc lie between o f i u ) !
+Looking at this graphically...
+Tropin is caight
+,—twwi w\—>
+o I w n
+c
+Hence we can see that the probability
+of catching the Next Train can be
+represented by the following
+expression...
+w
+What does this mean in practice?
+Well, if trains arrive every 300 seconds,
+the escalator taking 30 seconds with a
+further 30 seconds to reach the platform
+and the train stays on the platform for
+20 seconds, and if we assume that the
+coefficient of
+runningdowntheescalatorness is 2 then
+the probability of catching the train is
+found to be 92%. Similarly, if we
+remain stationary on the escalator the
+chances of catching the next train are
+found to be 86%. Amazing huh ! There
+How To Be
+A Male
+Chauvinist
+Pig
+By The Foreign Correspondents
+Cleaning The Floor
+is only a an 8% improvement if you run
+down the escalator.
+Special offer. As a special offer to
+readers of FELICS, you can send off
+for a table of the parameters for these
+equations, tabulated for the most
+frequently used tube stations. Just thi
+of the effortyou could save by avoiding
+unecessary running. Simply send an
+empty cornflakes packet to me, Earl
+Grey c/o the Physics Department.
+Next Week we look at bicycles.
+Mowing The Lawn
+Unblocking The Loo
+Richard Wiles Bill Goodwin
+'I was gobstruck by the gigantic range of
+scientific, technological and managerial
+courses on offer'
+Harold Hackney graduated from
+Imperial College in 1913 with first
+class honours. He is now tackling
+extremely complicated engineering
+problems making use of calculators
+and graph paper. Best of all he has
+an eighteen year old blond secretary
+with a passion for wearing minijjj
+skirts.
+'The lectures were tremendously stimulating and the
+lab sessions were enormously motivating. I found the
+tutorial sessions orgasmic and the problem sheets gave
+me a real high. I used to swap sheets with my friends
+from other courses when I had finished my own. In my
+spare time I studied serbo-croat and origami.'
+32 Wednesday 16th December 1987 F E L I X
+

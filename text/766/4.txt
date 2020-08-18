@@ -1,0 +1,232 @@
+FELIX, Friday March 6th 1987 4
+Letters
+Who are we
+to judge?
+Dear Dave,
+Whenever a discussion on the
+problems of South Africa arises it
+results in a stream of correspondence.
+I regret that I am continuing this trend
+but some of the points raised in the
+last weeks warrant a reply.
+The focus of these letters has been
+the so-called terrorist activities of the
+ANC and they seem to imply that it
+is per se a terrorist organisation. For
+years, the ANC was an actively non-
+violent organisation whose peaceful
+protests were met with violence, and
+•only after this did the ANC resort to
+violence as a means of protest.
+However, by no means are all of its
+members terrorists, deserving to be
+annihilated 'as efficiently as possible'
+simply for being a member of the
+ANC—as Mike Allen implied in his
+letters. These too are innocent people
+who deserve protection or would you
+say that all members of the ANC are
+terrorists? These people who are not
+allowed freedom of speech in their
+own country and have to seek refuge
+in other countries are to be killed as
+efficiently as possible. How can Mr
+Allen sit on his butt in this country
+and judge the actions of these
+oppressed people? They have next to
+no rights in their own country and
+have fought patiently for the peaceful
+reform which the white government
+is now offering, as a gift, with
+numerous conditions attached. What
+moral right has a South African
+government, which has committed
+such atrocities as the killings of
+peaceful demonstrators in Soweto in
+1976, to insist that they will have no
+discussions with the ANC until it
+renounces violence? Also, what moral
+Crossnumber
+Mobius has presented me with
+another of his tricky crossnumber
+puzzles. Each square contains one
+digit, none of which are zero. As
+usual, there's a £5 prize for a
+randomly selected correct solution
+handed in before 1.00pm Wednesday
+at the FELIX office. I normally try
+and do a full page puzzle special at
+the end of term, so if any of you know
+any good problems that I could use
+then please send them in, thanks.
+Crossnumber clues
+Across
+1. A multiple of 11 across.
+4. A prime number.
+5. Odd.
+right does this government have to
+follow refugees into another country
+and kill them, when it arbitrarily
+enforces a state of emergency in their
+own country and orders a news
+blackout. Why must they have a news
+blackout? WHAT A R E THEY
+HIDING? Are they simply ushering
+black protestors back into their homes
+or are they killing people who are
+relatively unarmed and unprotected?
+The British government can sit here
+and condemn Botha's actitivities until
+they are blue in the face but what are
+they doing to stop him or cause him
+any substantial discomfort? They say
+sanctions will reduce funds and slow
+down the pace of reform but is it a
+poor government that invades
+surrounding countries to eliminate
+relatively few people?
+Some people use the argument that
+under white management South
+Africa is the richest country in Africa.
+What other country has such cheap
+labour that it can exploit with such
+little regard for their safety and
+fundamental human rights? In my
+opinion, the making of money by
+these means is totally amoral—the
+Blacks work and live in appalling
+conditions and the Whites enjoy the
+profit. I agree that many African
+countries are unstable but it is a
+difficult process uniting people with
+many religious and tribal
+differences—a problem evident in the
+conflict in Ireland. The good news is
+that most of these countries are
+working towards a better future for
+all their peoples. In the system of
+apartheid the non-white races in South
+Africa don't have this chance.
+There is one point on which I will
+agree with Mike Allen. I found the
+behaviour of the protestors outside Mr
+Goosen's talk offensive and counter
+productive. Offensive in the reverse
+racism practised by the loud labelling
+of some of the white people who
+entered the room as racists. Counter
+productive because they were
+probably very well informed about
+the facts and figures on South Africa
+and could have asked very pointed
+I 2 3
+4 5
+6 7 8
+•
+9 IO
+• •
+6. Digits all different; their sum is
+10.
+9. Digits all different.
+11. A prime number. The sum of
+questions that would have made Mr
+Goosen very uncomfortable indeed.
+Of course, one of the most
+informed people about the reforms in
+South Africa will be Dennis Worrall,
+the former South African Ambassador
+to the UK who resigned his position
+to contest the forthcoming elections
+on a platform campaigning for faster
+implementation of these reforms. I
+sincerely hope that these peaceful
+reforms are the way forward for
+South Africa but the actions of the
+present South African government do
+not suggest that it will give the blacks
+and coloureds in South Africa real
+rights which will reflect the fact that
+they are a majority and make the
+South African economy what it is
+today.
+Yours sincerely.
+Kemi Adenubi. Civ. Eng. II.
+It's a
+depressing
+world
+Dear Dave,
+Until I read FELIX last week I had
+thought it would be forever dominated
+by mindless bores regurgitating
+pointless propoganda for outdated
+political cliches. However, having
+read the excellent article by notorious
+berk Francis Miers I am confident that
+sound philosophical thinking is
+returning. I say drop the bomb,
+oblivion now!
+Mark Cottle.
+A lower life
+form writes a
+letter
+Dear Dave,
+(Sounds like the Razzle letters
+page, this). I wish to complain in the
+strongest possible terms about the
+slander which is being perpetrated
+about me in the pages of FELIX. OK,
+so I admit that most of it is true, but
+I must register most vehemently my
+disgust at being branded a hillman
+imp owner; I wouldn't be seen dead
+in such a prickmobile! I must now live
+with this embarrassment for the rest
+of my life. Since the article in
+question appeared, I have been
+harangued by drunks making farty
+imp noises at me, and I have been
+reduced to a figure of ridicule.
+Yours faithfully,
+J Ninety.
+If the 'group of postgraduate civil
+engineering students' contact the FELIX
+Office (internal 3515), I will publish their
+letter. Names can be withheld by request,
+but I cannot include anonymous material.
+David J o n e s
+the digits is more than 5 and less than
+11.
+Down
+1. Odd. Each digit is greater than
+the preceding one.
+2. Sum of digits is greater than 11.
+3. The same two digits as in 4
+across.
+5. A perfect cube.
+7. Even. Sum of digits is 19.
+8. A perfect square.
+10. A perfect cube.
+Ratty Problems
+This problem was more accessible to
+analysis than the previous, similar, rat
+problem, as most of you who entered
+probably realised. The £5 prizewinner
+was A J Perkins, Chem Eng 4, who
+explained it quite well. The minimum
+solution is 16 turns which can be seen
+as follows. Other than the finishing
+and starting squares there are 12 edge
+squares to be visited and the path must
+make a turn in each. Paths connecting
+the edge squares that make no other
+turns form three rectangles, and
+moving from one to the other of these
+rectangles takes two more moves.
+Finally, to complete the path, you
+have to turn off, and back onto, the
+center diagonal. This makes sixteen
+turns in all. Within this basic pattern
+there are several actual paths that can
+be followed, one is shown below.
+Well done if you got it right.
+

@@ -1,0 +1,18 @@
+Nonogram
+Fill in neighbouring cells in each row/column to make
+blocks. Each block is separated by one or more empty cells.
+The numbers indicate the ordered lengths of the blocks to
+appear in that row/column.
+Slitherlink
+Connect adjacent points to form a single, non-crossing loop where the num-
+bers indicate how many sides of the cell are closed.
+Boxes
+Divide the grid into rectangles, with a single number in each, indicating the
+area.
+ISSUE 1671
+FELIX
+37
+PUZZLES fsudoku@imperial.ac.uk
+Inequalities
+Same as a sudoku, just with inequalities.
+

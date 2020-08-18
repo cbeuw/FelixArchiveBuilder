@@ -1,0 +1,334 @@
+28
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 26 FEBRUARY 2010
+CAN YOU HEAR ME?
+Feroz Salam looks at how mobile phones have brought private
+conversations into the public space to the annoyance of everyone
+L
+et me make this abundantly
+clear, I don’t want to hear
+about your dog’s diarrhoea
+problems. It may sound harsh,
+but I don’t care if the poor sod is at
+death’s door, especially if it involves
+you describing his last meal and what
+it looked like coming out the other
+end. Ever been aurally assaulted by
+someone else’s painfully private mo-
+bile phone conversation on a bus? I
+take the rush hour bus to and from my
+home every weekday and this, coupled
+with the London Transport network’s
+plentiful population of eccentrics, has
+exposed me to some of the strangest
+conversations I will probably ever hear.
+It seems like it was only a few years
+ago that you could take a bus or sit in
+a restaurant without being battered on
+all sides by other people’s one-sided
+conversations on phones. That period
+of our existence ended when mobile
+phones really began to take off - the
+good old days when people thought
+that yelling down a telephone line
+helped the message through to the oth-
+er end. Yet in those days, it was only the
+self-important businessmen who could
+afford to shout their way down Oxford
+Street, and the nuisance was ignorable
+simply because not enough of us had
+the devices for it to be noticeable.
+That all changed with the emergence
+of cheap monthly plans with free min-
+utes. Buses on weekday mornings are a
+cacophony of ringing phones and mud-
+dled bits of conversation. “Tell him I’m
+going to be late, I’ve been stuck in traf-
+fic for over an hour now” - lies, I just
+saw you get on the bus. Also, lady with
+the bag sticking uncomfortably into
+my back? I don’t care if “no one is sin-
+gle anymore except for you” - I do care
+that you’ve been talking continuously
+for the last half hour, while standing
+right behind me. The fact is, you would
+never have these loud private conver-
+sations in public before, even if you
+were with someone else, and you defi-
+nitely wouldn’t have an argument with
+your mother to entertain the medley
+of students, tourists and lunatics that
+make up your average London bus.
+The other, obvious, side to the argu-
+ment is - why should I be listening in
+the first place? These things don’t mat-
+ter to me, and I somehow manage to
+drown out real conversations - why
+can’t I just do the same here and for-
+get about it? In a recent study by the
+University of York, researchers found
+that people pay more attention when
+they can only hear one side of a con-
+versation. It may be that our brains
+get a kick out of trying to complete a
+conversation having only heard half of
+it, or that the drone of a full conver-
+sation is easier to push into the back-
+ground than the stop-and-go nature of
+a mobile chat, but whatever the reason,
+these conversations grate on our ears
+much more than normal ones.
+I think that the Japanese have the
+right idea when it comes to mobile
+phone usage in public places - it’s a
+cultural taboo. With their habits usu-
+ally leading the rest of the world when
+it comes to technology, it might not be
+long before we see notices advising us
+not to answer phones on the bus. In
+Germany too, mobile phones are se-
+rious business; a man was murdered
+there in 1999 for his poor mobile eti-
+quette. That said, we might also go the
+Spanish way. To quote The Economist
+about phone vs. face-to-face conver-
+sations: “subscribers in Madrid often
+mixed them and even allowed others
+to take part in their phone conversa-
+tions”. I’d rather walk.
+T
+his week saw the accidental
+birth of a new internet meme
+at the expense of some rather
+ignorant Facebook users.
+I say some, it’s more like thousands
+of Stalkerbook simpletons, and it all
+stems from their inability to under-
+stand a simple principle: Google is a
+search engine, not an address bar.
+How do you, dear reader, get to Fa-
+cebook? Type in Facebook.com in your
+address bar? Yes, thought you might.
+But a small percentage of Facebook us-
+ers actually search for ‘Facebook login’
+every time they want to get to the so-
+cial networking giant. Now a small
+percentage it may be, but because of
+the sheer number of users Facebook
+actually has, that actually equates to
+literally thousands of users.
+Of course there’s nothing wrong
+with searching for something you go
+to regularly, other than the extra step
+it requires I guess, but to blindly click
+on the first or second result it turns up
+without actually looking at the url it’s
+sending you to is pure idiocy. I often
+wonder who falls for phishing scams,
+and now I know, it’s the mental under-
+achievers that think they’re web-savvy
+but blatantly aren’t.
+ReadWriteWeb is a site dedicated to
+web apps and technologies behind the
+internet. They wrote up an interesting
+article about how Facebook might end
+up being your universal login for every-
+thing you might do on the web, spurred
+on by the recent AOL-Facebook part-
+nership. Of course a web-savvy site like
+RWW has pretty good SEO, meaning
+that their post about a universal Face-
+book login hit all the right keywords
+to propel it up the search rankings for
+anyone searching Google for ‘Facebook
+login’. Unbeknownst to them this put
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week has been and
+gone, but what have we got to
+show for it from the world of
+technology?
+How about the latest in Japa-
+nese Granny-scooter technol-
+ogy, the Personal Hoverchair?
+Yes, that’s right, not content
+with the mobility scooters you
+see OAPs flying around on in
+town centres, research-
+ers from Japan’s Kobe
+Gakuin University
+have bolted a high-
+power air jet
+to the bottom
+of a chair. It-
+blasts air
+downwards
+creating, in-effect, a personal
+hovercraft. It only works on
+smooth surfaces but they’d be
+at home in a mall. Maybe Paul
+Bart - Mall Cop 2 will have one
+of these bad boys instead of the
+so last century Segway?
+Not to be out done by the
+Japanese, the South Koreans
+were in the news this week
+too with the announcement
+that robot teachers will be in-
+vading up to 400 pre-schools
+by 2012. The ‘R-Learning’
+program should expand into
+around 8000 pre-schools and
+kindergartens by the follow-
+ing year. Of course the Rise of
+the Machines should follow by
+about 2015 so maybe it’s time
+to start stocking up on guns
+and ammo.
+Samsung got in on the robo-
+action too this week with their
+Navibot robot vacuum, which
+will be gracing European liv-
+ing rooms from March. Having
+been let out of South Korea,
+the little housewife replace-
+ment maps out your humble
+abode with 30fps video, plot-
+ting the most efficient route
+to clean up that mess from last
+nights ‘lads night in’ beer and
+gaming session. Watch out
+Roomba, looks
+like you’ve
+finally
+got
+some
+decent
+competi-
+tion.
+Talking about products
+around the home, have you
+ever wished for lights that you
+can just stick flat on the walls
+around corners, or that you
+could change the colour of at
+the flick of a switch? Well flexi-
+ble OLED lighting might be the
+key to that dream. ModisTech,
+amongst others, is bringing
+150mm square OLED panels
+to market this year for indirect
+lighting applications in lamps,
+cars and other places where
+LEDs or bulbs are used. OLED
+lighting promises more natural
+light than can be achieved with
+LEDs alone, whilst maintain-
+ing their power sipping prop-
+erties. Great for the green folks
+as well as car modders and
+people with fancy lighting in
+their kitchens.
+Microsoft has been in the
+news again this week with up-
+dates to its Windows 7 activa-
+tion technology. Not sure how
+long it’s going to last so by the
+time you read this it might al-
+ready be circumvented. Game
+on hackers.
+Microsoft also pushed out
+its EU pleasing browser bal-
+lot screen this week. It’s been
+quite a while since the EU
+stuck its oar in, but starting
+this week you should be
+able to select between
+IE, Safari, Chrome,
+Firefox and Opera.
+Of course if you
+haven’t already made
+the choice to ditch
+IE, you’re not going
+to now, so you’ll just
+find it an annoyance which you
+can thank the European Com-
+mission for.
+Sony this week got a lot of
+camera geeks salivating with
+their Alpha compact DSLR
+hybrid concept. With the size
+and body of a compact coupled
+to the interchangeable lenses
+and sensor from a DLSR, it
+sure sounds like Sony wants
+in on the fledgling Micro Four
+Thirds market.
+SamuelGibbs
+SamuelGibbs
+A Fistful of
+Facebook dimwits
+SamuelGibbs
+SamuelGibbs Technology Editor
+the post squarely in the firing line of
+all those Bookface geniuses that search
+for ‘Facebook login’ each time, sending
+thousands of confused Facebookers
+to RWW producing hilarity and utter
+stupidity along the way.
+Pretty soon the blog comments
+started pouring in with frustrated us-
+ers complaining that Facebook had
+‘changed’. Here’s a few choice ones:
+1. ‘The new facebook sucks>
+NOW LET ME IN.’
+2. ‘I WANT THE OLD FAFE-
+BOOK BACK THIS SHIT IS
+WACK!!!!!’
+3. ‘I was just learning,why
+would you mess it up?’
+4. Why couldn’t you just leave
+well enough alone!!!
+Of course this state of affairs prompt-
+ed RWW to stick a large block text sign
+in the middle of the post telling the
+confused Facebookers that ‘This site
+is not Facebook’, but even that didn’t
+seem to stem the flow of cretins.
+Soon the tech community got wind
+of this phenomenon prompting it to
+spread across Digg, Reddit, Twitter
+and blogs like wild-fire, causing anoth-
+er deluge of visitors and commenters,
+this time ripping the absolute piss out
+of the now irate Facebook numpties.
+At that point it was clear, this was the
+birth of a new internet meme, com-
+pletely by accident, but absolutely hi-
+larious nonetheless. Now, I hope none
+of you reading this fit into the ‘George
+W Bush’ class of Facebookers, but if
+you are one of them I suggest quickly
+turning the page. For the rest of you I
+urge you to go to http://bit.ly/Ftech1
+and check out the comments for your-
+self, just try not to laugh out loud, mkay?
+to
+t
+t wn centre
+ers from J
+Gakuin
+have bol
+pow
+to
+of
+b
+d
+Roomb
+lik
+co
+uld be
+

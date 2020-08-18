@@ -1,0 +1,198 @@
+24 March 1999 F O C U S 19
+Just what does the future hold?
+Ian Blackler examines attempts at social prediction using mathematical models, and comes to some sobering conclusions...
+The Club of Rome
+Most of us enjoy television s h o w s such as Star Trek, a n d
+many of us share their Utopian v i e w o f t h e future o f
+h u m a n society. But just h o w realistic are w e being?
+The United Nations' Population Division has just
+produced an alarming set o f world population statistics.
+What is more, a c c o r d i n g to a g r o u p o f MIT researchers
+they s h o w that h u m a n society is f o l l o w i n g a path to its
+o w n destruction.
+The researchers w e r e first c o m m i s s i o n e d in t h e
+1960s, a n d again in the 1990s, by a s h a d o w y organi-
+sation k n o w n as "The Club o f Rome". M a d e u p o f
+statesmen, business leaders a n d politicians, the society's
+interests lay in a subject they called "The Global Prob-
+lematique." What they desired w a s a scientific, rational
+prediction o f the future o f m a n k i n d .
+The results o f the first study w e r e presented in 1972
+in the b o o k "The Limits to G r o w t h " , w h i c h b e c a m e a n
+instant best seller world-wide. Its c o n c l u s i o n s w e r e ter-
+rifying. Unless there w e r e major c h a n g e s , h u m a n civil-
+isation w o u l d collapse b e f o r e the year 2100.
+The danger, they say, lies in the combination o f sev-
+eral important factors. Firstly, t h e earth has limited
+resources, a n d a limited capacity to c o p e with h u m a n
+d e m a n d s . Also, o n c e p e o p l e have b e c o m e aware that
+they are approaching o n e o f the earth's limits, they take
+time to m a k e c h a n g e s to r e m e d y t h e situation.
+A g o o d example o f this is the discovery o f the h o l e
+in the o z o n e layer. W h e n t h e industrial value o f CFCs
+was discovered in the 1930s, u s a g e swiftly b e c a m e
+widespread, but n o o n e u n d e r s t o o d the potential envi-
+ronmental impact. T h e d a n g e r s w e r e eventually n o t e d
+in 1974, but the 'Montreal Protocol' to limit world-wide
+CFC production w a s not ratified until 1984.
+The other part o f the p r o b l e m stems f r o m the p h e -
+n o m e n o n o f exponential g r o w t h . This h a p p e n s w h e n
+s o m e t h i n g develops in such a w a y that t h e m o r e there
+is, the quicker it grows, like t h e m o n e y In your bank
+account. M a n y aspects o f h u m a n civilisation appear to
+be g r o w i n g exponentially, such as population, c o n -
+s u m p t i o n o f raw materials a n d energy requirements.
+Hopefully, w e should have plenty o f warning before
+anything major g o e s w r o n g . T e c h n o l o g y is a d v a n c i n g
+rapidly, leading to better pollution m o n i t o r i n g systems,
+for example.
+In response to these arguments, the researchers
+p r e s e n t e d a n o l d French riddle for s c h o o l c h i l d r e n
+regarding exponential growth:
+"Suppose y o u o w n a p o n d , o n w h i c h a water lily is
+g r o w i n g . The lily plant d o u b l e s in size every day. If the
+plant w e r e allowed to g r o w u n c h e c k e d , it w o u l d cover
+the p o n d completely in 30 days, completely c h o k i n g o f f
+all other form s o f life in the water. For a l o n g time t h e
+lily plant s e e m s small, so y o u decide not to worry about
+it until it covers half the p o n d . O n what day will that be?
+O n the twenty-ninth day. Y o u have just o n e day to
+act to save your pond."
+It w o u l d a p p e a r f r o m t h e team's research that
+humanity is o n the "twenty-ninth day", a n d that a radi-
+cal c h a n g e in behaviour is necessary to avoid a total col-
+lapse. T e c h n o l o g y is not e n o u g h .
+Modelling with System Dynamics
+The computer models w e r e built u p using a branch
+of mathematics called 'System Dynamics'. U s e d in
+m a k i n g stock market predictions a n d e c o n o m i c fore-
+casts, it has swiftly b e c o m e a powerful tool in the busi-
+ness w o r l d .
+The modelling works essentially of the basis of feed-
+back loops. These c o m e in t w o different forms,- posi-
+tive a n d negative. Positive f e e d b a c k loops e n c o u r a g e
+a c h a n g e in the system (like the lily, the bigger it is, the
+faster it grows), w h e r e a s negative feedback loops tend
+to o p p o s e change in the system, forcing it back to a cer-
+tain value.
+Population Growth
+P-
+2 3
+o
+* 2
+1
+0
+0 2
+0
+0 3
+0
+0 4
+0
+0 5
+0
+0 6
+0
+0 7
+0
+0 8
+0
+0 9
+0
+0 1
+0
+0
+0 1
+1
+0
+0 1
+2
+0
+0 1
+3
+0
+0
+_ 1
+4
+0
+0 1
+5
+0
+0 1
+6
+0
+0 1
+7
+0
+0 1
+8
+0
+0 1
+9
+0
+0 2
+0
+0
+0
+Date
+System dynamics c o m b i n e s these l o o p s to make
+incredibly sophisticated m o d e l s that have great pre-
+dictive qualities.
+Obviously assumptions h a d to be m a d e . For e x a m -
+ple, there is n o difference in the program b e t w e e n fish
+stocks a n d oil reserves. The difference b e t w e e n the t w o
+in predictive terms is quite clear. Fish stocks can recover
+(though obviously if you kill all the fish, they aren't going
+to c o m e back), whilst oil reserves can't (at least not o n
+the time scales w e are interested in).
+The predictions m a d e by t h e g r o u p w e r e never
+expected to be quantitative. It w o u l d be arrogant in the
+extreme to assume that a program that uses generalised
+parameters, such as 'resources', a n d a s s u m e s that the
+entire population o f the planet lives in equality could
+tell y o u your children's average life expectancy. What
+y o u can rely o n , say the t e a m , are t h e general trends
+s h o w n by t h e simulation.
+W h e n they w e r e c o m m i s s i o n e d to repeat their
+work in 1992, the t e a m w a s able to set about the task
+with n e w Information a n d use m o r e complex modelling.
+What they f o u n d w a s a s t o u n d i n g . They say that
+humanity w a s not just a p p r o a c h i n g the limits of sus-
+tainability, it h a d e x c e e d e d t h e m in m a n y ways. H o w -
+ever, further m o d e l l i n g revealed that this d o e s not
+necessarily m e a n i n e s c a p a b l e d o o m . What it d o e s
+s e e m to m e a n , however, is that t h e longer w e take to
+modify our behaviour towards a sustainable society, the
+lower our quality o f life will b e o n c e w e attain it.
+A c c o r d i n g to the U N Population Division's report,
+however, there is as yet n o sign o f a decline in the rate
+of population growth. In fact, they think that the growth
+is not just exponential, but 'super-exponential'.
+W e can all h o p e that the researchers are w r o n g , but
+this seems unlikely, since their m o d e l is based u p o n very
+s i m p l e , f u n d a m e n t a l p r e m i s e s . Also, t h e t e a m
+attempted to resolve the p r o b l e m s that they foresaw
+by postulating m o r e a n d m o r e ludicrously optimistic sit-
+uations. They invariably failed.
+W h a t c a n w e d o to prevent this dis-
+aster? Well, the researchers suggest a
+harsh but simple solution; cease all forms
+of g r o w t h . This d o e s not m e a n stagna-
+tion, since t e c h n o l o g i c a l d e v e l o p m e n t
+can still c o n t i n u e , but the earth cannot
+tolerate the strains i m p o s e d by a p o p u -
+lation e x p l o s i o n , c o u p l e d with our
+extreme profligacy.
+It m a y well be that the time for indul-
+g e n c e is past.
+Further Reading
+On the Report:
+"Beyond the Limits",
+M e a d o w s , M e a d o w s & Randers,
+Earthscan Publications Ltd
+On The Club of Rome:
+"The H u m a n Quality",
+Aurelio Peccei,
+P e r g a m o n Press
+Population Statistics:
+(Populations before 1750 and after 1998 are projections) http://www.popin.Org/pop/1998/
+

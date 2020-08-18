@@ -1,0 +1,276 @@
+sudoku.felix@imperial.ac.uk
+25
+Friday 2 May 2008 felix
+Fun & Games
+www.tevong.co.uk
+Adlib by Tevong You
+The winner of Slitherlink 1,400 was
+James Porter. Excellent Slitherink-
+ing! Perfectly hand-drawn answer
+too sir. All the best for this week’s
+one. We’ll give a prize out in the
+summer. The more entries, the bet-
+ter your chances.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+Slitherlink 1,401
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,400 solution
+3
+0
+x
+x
+x
+x
+2
+3
+1
+1
+2
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“Tory! Tory! Brown! Brown! Brown!
+Tory! Brown! Tory! T-t-t-t-t-t-tory!“
+“Sally, we miss you very much :-(“
+“I left da CatFone at home! D’oh!”
+“Got on de bus with me day-saver,
+sat in da corner smoked da reefa,
+did a grand theft auto in me Clio
+twin-turbo. Brap. You know it is,
+Kersal Massive running with dem
+mad dog Fat Joe, yeah tell ‘em Joe.
+You fuckers ain’t got shit on us.
+Brap.
+”
+“I trapped part of my clunge in my
+zipper... I thought only boys could
+do that? ;_:”
+“EXAMS. AM CRY.
+”
+Wordoku 1,401
+N
+P
+M
+G
+I
+U
+S
+D
+L
+D
+U
+L
+N
+P
+S
+G
+M
+I
+I
+G
+D
+M
+D
+L
+N
+U
+P
+P
+I
+U
+S
+G
+D
+M
+L
+N
+M
+S
+N
+P
+L
+I
+U
+G
+D
+G
+L
+D
+U
+M
+N
+I
+P
+S
+U
+N
+G
+L
+S
+P
+D
+I
+M
+L
+M
+I
+D
+N
+G
+P
+S
+U
+S
+D
+P
+I
+U
+M
+L
+N
+G
+1,400 Solution
+G
+V
+O
+G
+M
+L
+O
+S
+T
+S
+V
+L
+T
+A
+A
+S
+E
+A
+M
+O
+S
+G
+S
+A
+E
+V
+T
+E
+T
+V
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters.Onceyou’vecompletedthe
+puzzle, there is a hidden phrase to
+find. Email answers to sudoku.
+felix@imperial.ac.uk.
+The winner of Wordoku 1,400
+was Scott Heath. Radical!
+The hidden phrase was:
+DUMPLINGS. Somewhere...
+Made a slight mistake. Oops.
+1
+2
+1 0
+2
+2 3 1
+2 3
+1
+2
+0
+2
+2
+1
+2
+1
+1
+1
+3
+0
+3
+2
+3
+2
+2
+3
+1
+3
+3
+3
+3
+1 3
+2
+3
+2
+2
+3
+2 1
+2 2 2
+3
+3
+1
+2
+2
+1
+1
+2
+2
+2
+3
+2
+1
+1 2
+2
+3
+2
+2 1
+2
+2
+2 1 1 1
+2 3
+0 2 1 1
+1 0
+1 1
+

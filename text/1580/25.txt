@@ -1,0 +1,228 @@
+29
+FRIDAY 13 JUN
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+lattened symbols look really nice, and
+the redesign of the main programs
+like safari, maps and calendar look
+really nice. he biggest thing though
+is the added capabilities of your mac
+in terms of a mobile. Basically you
+will not only get your iMessages on
+your mac, but also actual mms and
+sms. his will make Messages quite a
+bit more useful, and helpful in terms
+of keeping all your information in one
+place. However, the thing that really
+intrigued me is the fact that you can
+now make and receive calls on your
+mac. If your mac is connected to the
+same Wii network as your iPhone,
+then when your receives a call, you
+get a notiication on your mac and
+are several features that are really
+interesting.
+Firstly, the new messaging app,
+which looks to jump on the wave
+of new messaging methods. Apple
+have introduced a handy new way of
+sharing their location, pictures and
+videos, as well as generally making it
+feel more whatsapp-y.
+Secondly, Apple have now
+introduced a new app, HealthKit,
+which will collate all available health
+data from other apps and gadgets, and
+perhaps in the future predict when
+you may need to go to the hospital..
+his points to Apple releasing some
+kind of gadget that will tie in with
+this, perhaps a smartwatch? One
+I
+t is now summer (for most of
+us at least!). If you have nothing
+lined up for you, and would like
+to learn something new or do
+something productive, why not
+consider learning how to program?
+Have you ever tried to rename
+hundreds of files, or tried to
+organise some data files with
+thousands of entries by hand? If
+you have, you would know that the
+task is arduous and tedious, and you
+would be better off automating it.
+Programming can allow to do that,
+and you spend less time in front
+of the computer, and more time in
+the sunshine! (Or at least that’s the
+theory)
+Learning to program can improve
+your logical thinking skills. While
+some algorithm to sort numbers
+may sound easy to comprehend, it
+is a different matter when you sit
+down and try to implement it. You
+would also be more appreciative of
+the work that programmers put in
+when you use software, or when you
+encounter some bugs.
+There is an adage saying that
+everyone can be a programmer,
+and then there is another camp
+that says that not everyone can
+be a programmer. People argue,
+with the backing of studies that
+shows that a consistently high
+percentage of students fail their
+programming courses at University,
+that not everyone is cut out to be
+a programmer. On the other hand,
+there are educators that attribute the
+failures to the way programming is
+taught, and that everyone can learn
+to program if taught properly. In this
+author’s humble opinion, everyone
+should just give programming a try
+first before they raise their hands in
+the air and give up.
+I
+n recent times I have become
+quite disillusioned with Apple.
+he keynotes were kinda boring,
+and there was nothing really
+interesting. I usually tuned in to
+the keynotes just because I felt that I
+should. In fact, it got to the point that
+this time around, I almost missed the
+keynote. When I did open the stream,
+I found I had missed out completely
+on the new OS X presentation,
+named Yosemite, but just managed to
+catch iOS 8.
+I was immediately surprised by the
+lightness of the talk, I mean one of
+the jokes was about a mad hairdresser
+ruining Craig Federighi’s hairdo.
+Instantaneously I was paying more
+attention than I had in the previous
+three keynotes. Furthermore, there
+were actual moments in the keynote
+where I sat up and said, wow that
+is pretty cool. I have not had that
+since the iPhone 4 release! So here is
+the low down on the two big things
+release:
+he big thing about OS X Yosemite
+is a closer alignment with iOS and
+mobile, thus tying its users more
+closely into the Apple eco system.
+Firstly, there is a redesign of all the
+icons, more in style of iOS 7. he
+OS X, iOS and full-frontal Apple
+then it can act as a speaker for your
+phone. I ind this a really cool feature,
+especially since I am someone who
+tends to leave my phone somewhere
+and then lay down somewhere else,
+often getting to lazy to get up again.
+While this step is more evolutionary
+than revolutionary (I feel I have
+applied this cliché quite a few times
+to Apple releases) it is a really positive
+evolution, and I welcome more like it.
+While iOS 7 was a real game
+changer in terms of iOS, 8 continues
+that revolution in great style. here
+thing that did come about from the
+HealthKit announcement was the
+naming debacle. Another company
+which does something similar to the
+app, already has that name, twitter
+handle and website. herefore you
+may see a name change.
+he last feature that really
+interested me is Apple’s new open
+approach. his is irst exempliied by
+the fact that iOS devices will be able
+to use external keyboards come fall.
+his means that Android users will
+no longer be able to brag about being
+able to use Swype and Swiftkey, while
+smirking at Apple users with their
+crappy keyboard. In a similar vein,
+Apple has now allowed developers
+to add widgets to their apps. Now,
+notiication centre will actually
+become actually useful.
+here were many other exciting
+features, like a redesign of multi-
+tasking, which if you have a
+compatible iOS device I would
+seriously consider checking out if I
+was you.
+his is a really good update to iOS,
+which I await with anticipation.
+his keynote was Apple without
+fear, without expectation. hey
+introduced great new products, and
+even a new programming language,
+swift. hey have made their platform
+more open for developers and
+customers alike. Finally they seemed
+to have shrugged of some of the “fail-
+without-Jobs” aura, and moved on. I
+really hope for more of this.
+iOS 8
+here are lots of programming
+tutorials on the internet, but not all
+of them are equal. If you are new
+to programming, you should not
+worry about all the funny jargon and
+technicalities involved, especially the
+bit about “abstraction”. Start with
+something concrete, and fun. You
+could start by going to the Khan
+Academy and searching for a course
+on computer programming.
+Otherwise,youcouldpickalanguage
+and start learning to program from
+the language. Once you have a irm
+grasp on one programming language,
+new languages will be relatively
+easy to learn. I would recommend
+that beginners start with Python, a
+powerful and versatile programming
+languages. It also introduces some
+very useful programming paradigms
+and techniques that you might just
+ind enlightening and interesting.
+he oicial Python website has an
+extensive tutorial on learning the
+language.
+Once you have a irm grasp on
+one language, you could try working
+on some interesting projects. For
+example, you could try coding a
+program to calculate one billion
+decimal places of pi, just for fun.
+Or learn a second language, such as
+C++ which is used more widely, but
+especially unforgiving for newcomers.
+maximilian Eggl
+Technology Editor
+Programming: Easy, Peasy
+Yong Wen Chua
+Technology Editor
+OS X Yosemite
+Why learn to
+program?
+Where to sign
+up?
+Conclusion
+WWW.9To5mAC.Com
+

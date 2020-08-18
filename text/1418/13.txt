@@ -1,0 +1,299 @@
+24 felix Friday 5 December 2008
+felix@imperial.ac.uk
+Technology
+Technology Editor – Ravi Pall & Richard Lai
+Artificial Intelligence
+Joseph Letts wonders if it an essential tool for students?
+I
+'m sorry to seize you in with such
+an irrelevant title! It took me a
+while to work out what my first
+(possible) article for felix would
+be, and after some wild guesses I
+went with Artificial Intelligence. We all
+see robots in the movies, and comput-
+ers which can take over the world (in-
+sert: Arnie and Skynet) and although it
+is not at the front of everybody’s mind,
+sooner or later on an empty day, you
+start wondering, what would it be like if
+computers could think for themselves?
+So, the first question is: what defines
+artificial intelligence? When we think
+about artificial intelligence in terms of
+its popular culture reference, we tend
+to think that it revolves around the idea
+of machines which act self-dependent-
+ly from humans, capable of premedi-
+tated murder (think iRobot), and with
+general megalomaniac tendencies (e.g.
+the Matrix). A useful scientific defini-
+tion I have found states:
+Artificial intelligence is the study of
+the computations that make it possible
+to perceive reason and act.
+Extract from: Chapter 1, Artificial
+Intelligence by Patrick Henry Winston
+(3rd Edition).
+But what does that mean when it ís
+at home? Essentially, it means that ar-
+tificial intelligence describes the field
+of study which enables technology to
+react and carry out decisions based
+on inputs from its environment. Dur-
+ing my web research about AI, Iíve
+realised that it covers a much broader
+topic than I anticipated, branching off
+into different sections. Some forms
+of AI are already being implemented,
+examples being route finding sys-
+tems for complex transport networks,
+handwriting recognition software and
+speech synthesizers. These systems
+are capable of learning and making
+decisions, e.g. text-to-speech systems
+which study patterns in language to
+improve their chance of synthesising
+words, or handwriting recognition sys-
+tems which can adapt themselves to a
+user’s handwriting to reduce the prob-
+ability of mistranslation.
+However, there are some problem
+areas of AI which still cause trouble to
+our scientists in the present day. One
+of these is the problem of perception,
+which would enable a machine to de-
+termine its place in its current envi-
+ronment and plan a suitable route for
+navigation to certain areas or for es-
+cape. The ultimate application of this
+would be the futuristic motorways in
+movies, where cars drive on auto-pilot
+(how ironic) at high speeds without
+any trouble at all.
+While some parts of this problem
+have been simplified, one of the main
+stumbling blocks involves the way in
+which machines view the environment.
+As humans, we naturally see the world
+in terms of distances, and objects
+(with which we can
+interact) because
+our brains do all
+the work for
+us. In com-
+parison
+ma-
+chine processors only receive what
+they see by analysing data received
+from visual inputs (i.e. cameras). The
+machines then have to calculate the
+perceived location of objects in their
+vision (easier with two cameras than
+with one) as well as classify these
+objects.
+Humans have an easy job of clas-
+sifying families of objects; it has been
+hard for researchers to quantify the
+process involved, and so making
+it harder to simulate the process
+on machines, leading to large
+databases of images, stored
+for the sole purpose of object
+recognition.
+An interesting advance seen in
+Artificial Intelligence which is close
+to home is the Painting Fool. A project
+started by Dr. Simon Colton (Doc) in
+2001, the painting fool is an AI pro-
+gram which makes artist’s impression
+of pictures of people and landscapes.
+The program has recently been en-
+hanced with help from Michel Valstar
+(DoC PhD 2008) and Dr. Maja Pantic
+(DoC), who provided another AI com-
+puter vision program which uses a
+video feed to detect the emotion on a
+subject’s face. This information is then
+fed to the painting fool, which uses the
+input to paint an abstract portrait, us-
+ing different colours and perspectives
+for each emotion.
+The next goal of the painting
+fool is to become creative,
+i.e. become able to paint
+new pictures without
+an input.
+This brings for-
+ward the topic
+of machine
+conscious-
+ness. The
+examples
+that I’ve dis-
+cussed so
+far all con-
+cern systems
+which are
+used for indi-
+vidual purpos-
+es, generally
+to aid humans
+achieve their
+goals. However,
+the most interest-
+ing part of AI con-
+cerns computers which
+think by themselves and
+create their own goals.
+These machines are said
+to show true artificial in-
+telligence, which resembles
+the intelligence of hu-
+mans. These machines
+would show capabili-
+ties including problem
+solving, rationality
+and learning.
+Another
+area in which they may have talent in is
+in creativity. If computers could be de-
+veloped possessing such abilities, the
+future could be a different place. Such
+an event might lead to computers be-
+ing considered conscious and possibly
+even living beings.
+A future where computers are alive
+and participating members of society
+is an idea that strikes fear into the
+hearts of many. But would
+it be such a bad thing?
+With ro-
+bots and computing systems
+that advanced, the productive poten-
+tial of the world would increase by a
+great magnitude. With robot workers
+being tireless and able to work for long
+periods without rest and without pay,
+production would become more ef-
+ficient, leading to cheaper prices for
+consumers as a wider stock of goods
+to choose from. Also, if robots were
+chosen for menial and dangerous jobs
+(such as cleaning or quarrying), peo-
+ple who would have worked in poor
+conditions or little pay would be free
+to search for more
+rewarding and
+fulfilling
+careers.
+Not to
+men-
+tion
+that
+fewer mistakes would be made, leading
+to a safer world and less train delays.
+On the other hand, would the fu-
+ture be as rosy as some paint it? What
+would happen if they replaced humans
+in all jobs? We might lose all of our
+specialised craft skills (e.g. masonry,
+thatching), our music and our art,
+fundamental parts of human culture.
+It would be interesting to see how we
+would function as a society, if people
+have no careers in the future would
+there be a communist economy, with
+no difference in wealth and circum-
+stances? Would society be happy that
+way, or will there always be people who
+strive to differentiate themselves from
+the masses. Would people even bother
+to provide an education for their chil-
+dren, if machines could do everything
+anyway?
+If that happened, a disaster may oc-
+cur if the machines broke down and
+could not be fixed by other ma-
+chines. It could even lead to a dark
+age, with humans having to learn from
+scratch. Or has this already
+happened?
+An even
+more
+wor-
+rying
+problem might occur if the comput-
+ers of the future develop emotions and
+personalities. Would they be content
+to do all that we ask them? If these
+computers will be able to create their
+own goals and solve problems, would
+there be a stage where they decide that
+their goal differs from the general goal
+of humanity, which is to advance our-
+selves in terms of knowledge, creativity
+and society? What would happen if this
+new goal required the disappearance
+of humans? Would we be able to fight
+of this new enemy, who aim to destroy
+us using our weapons and unbeatable
+strategies?
+Many academics are split of the like-
+lihood of a machine conscious, an ar-
+gument which has spanned over many
+decades. It can be simplified into an
+argument between two sides, between
+dualists and materialists.
+The dualist philosophy is a belief that
+thought and conscience are products
+of a nonphysical substance, while the
+materialist philosophy holds the belief
+that all mental actions can be explained
+by interactions between physical mat-
+ter (i.e. chemicals). Dualists argue that
+as long as intelligence is established
+by a nonphysical substance, man can-
+not create artificial intelligence in ma-
+chines in any manner. Materialists op-
+pose this by saying that is the mind is
+made of purely physical matter, then it
+is possible to create an artificial intel-
+ligence in machines that approximates
+human intelligence.
+But how do we know when a ma-
+chine has reached a suitable level of
+cognisance to be seen as truly intelli-
+gent? Well, there have been a few tests
+proposed to answer this question, the
+most notable being a test devised by
+the father of modern computer sci-
+ence, Alan Turing. The Turing test
+determines a computer to be intelli-
+gent if a human judge cannot between
+a computer and a human in separate
+one-on-one conversations. Both con-
+versations would be carried out in text,
+to make each participant anonymous.
+But this is a theoretical test which has
+its criticisms.
+At the end of the day, we can only
+speculate about the contents of the fu-
+ture as (thankfully) we haven ít quite
+reached a stage where these things are
+possible yet. Our computers are only as
+good as the code that instructs them.
+Or are theyÖ01010?
+“Would people
+even bother
+to provide an
+education for
+their children if
+machines could
+do everything?”
+Picture of the Week
+Slapton Sands, by Alastair Isaacs
+2nd Year Physics
+We want to exhibit your art. Send in your photographs.
+felix@imperial.ac.uk
+

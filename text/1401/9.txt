@@ -1,0 +1,173 @@
+science.felix@imperial.ac.uk
+Science
+Science Editor – Ed Henley
+9
+Friday 2 May 2008 felix
+The Amazon Molly has managed to do without sex for 70,000 years. But it's not entirely without risk...
+Tim Sands
+If your love life is somewhat in the
+doldrums at the moment, take heart,
+things could always be worse. New re-
+search has shown that one species of
+fish has gone without sex for 70,000
+years.
+The Amazon Molly, a small fish liv-
+ing in rivers in Texas and Mexico, con-
+sists entirely of females and reproduces
+by parthenogenesis – literally “virgin
+birth” – laying eggs that are unferti-
+lised and genetically identical to their
+mother.
+This means of reproduction comes
+with some serious drawbacks. When
+there are mutations with harmful ef-
+fects, sexual reproduction allows these
+to be weeded out but asexually re-
+producing species, like the Molly, are
+stuck with them. These bad mutations
+continue to accumulate – a process
+known as Muller's Ratchet – and as a
+result asexual species rarely last very
+long before they go extinct.
+The curious fish species (the first
+known single-sex vertebrate) formed
+by the merger of two other species,
+rendering sex impossible and starting
+the Muller's Ratchet effect. The new
+research has used this effect to esti-
+mate that the Amazon Molly has been
+without sex for between 40,000 and
+100,000 years – even longer than Cliff
+Richard.
+The scientists, from the Universi-
+ties of Edinburgh and Wuerzburg, who
+have been studying the species are baf-
+fled at how they have remained chaste
+for so long. Their calculations also
+suggest that the Molly is at great risk
+of going extinct. Another curious facet
+of their reproduction may give a clue
+to their survival. Although the Molly
+does not need males to fertilise their
+eggs they can't get by entirely with out
+them. The eggs need the sperm of oth-
+er, closely related species to give them
+a mechanical stimulus to start their
+development.
+The researchers suggest that on rare
+occasions these sperm may actually
+fertilise the eggs. Researcher Laurence
+Loewe of Edinburgh University says
+“The Amazon molly must be employ-
+ing tricks to avoid extinction. Maybe
+there is still occasional sex with stran-
+gers that keep the species alive. Future
+research may give us some answers.”
+This occasional cross-species nookie
+could give the fishes' genome just
+the sprucing up it needs to stave off
+extinction.
+Due to the complexity of the calcula-
+tions involved in coming up with these
+estimates, the scientists enlisted the
+use of a distributed computing system
+– not unlike the SETI@home experi-
+ments that searches for alien life – ap-
+propriately enough called Evolution@
+home, to simulate the genetic changes
+over many thousands of generations
+The writer Irina Dunn once claimed
+that a woman needs a man like a fish
+needs a bicycle – for the Amazon Mol-
+ly at least it seems she wasn't far off the
+truth.
+The research is published in the jour-
+nal BMC Evolutionary Biology.
+Amazon Mollies do it... well, they don't, in fact. Haven't for the last 70,000 years, apparently. Apart from
+suspected "occasional sex with strangers" (other, related, fish species) it seems they live up to their name
+A recent poll, collectively carried
+out by USA Today, the Kaiser Family
+Foundation and the Harvard School of
+Public Health, has revealed that 40% of
+Americans have difficulty affording es-
+sential prescriptive medicine.
+The nationally representative tel-
+ephone survey of 1695 adults, aged 18
+or over, was undertaken in January of
+this year in the United States. Half of
+the participants were found to regu-
+larly take at least one medication.
+The research concluded that the
+high cost of prescriptive medicine has
+serious implications with 29% of indi-
+viduals not filing a prescription due to
+these high prices and around 23% cut-
+ting pills in half or skipping doses in or-
+der to make their medication last for a
+longer period of time. This can poten-
+tially lead to a considerably increased
+health risk as a result of the vital drug
+treatment not being administered.
+The pharmaceutical trade is unar-
+guably a multi-billion dollar industry.
+The use of prescriptive medicine is ex-
+tensive, with half of all adults taking at
+least one prescription drug daily. Eight
+in ten Americans concur that the cost
+oftheseprescriptiondrugsisunreason-
+able – a large proportion questioning
+the pharmaceutical companies’ moti-
+vation and their overpowering concern
+with revenue. The study found there to
+be mixed opinion with regards to the
+pharmaceutical companies themselves
+– 47% favourably viewing the indus-
+try. They are considered to carry out
+their research complying with ethical
+and moral regulations, with the test-
+ing and monitoring of drug production
+believed to be at a high standard, as
+would be expected.
+A slightly lower percentage of the
+public, 44%, view the companies in a
+negative light. Making a comparison
+across the professions, they are viewed
+as faintly more favourable than health
+insurers but are held in substantially
+lower esteem than doctors.
+Despite this attitude being shared by
+many people, there is a clear optimis-
+tic consensus that drug developments
+over the past 20 years have improved
+the lives of people in the States. In a
+number of cases their availability has
+reduced the need for expensive medi-
+cal procedures and/or hospitalisation.
+There are clearly implausible benefits
+from prescriptive medication, which is
+highly valued.
+Over the years, the progress made in
+scientific research and development is
+outstanding. This is not contestable.
+The problem lies in affordability; re-
+sulting in many calling for stricter gov-
+Pills, pills, pretty pills. But the cost makes them bitter to swallow, and gilding certainly won't help that...
+ernmental regulation to place a limita-
+tion on the individual has to pay for
+required medicine.
+This poll was the third in a series of
+polls conducted by USA Today/Kaiser
+Family/Harvard. The whole report can
+be viewed at http://www.kff.org/kaiser-
+polls/pomr030408pkg.cfm.
+Laura Starr
+Four in ten Americans struggle to pay for compulsory medication
+Girls are doin' it for themselves
+“Pharmaceutical
+companies are
+viewed more
+favourably than
+health insurers,
+but less so than
+doctors”
+

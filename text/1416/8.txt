@@ -1,0 +1,525 @@
+science.felix@imperial.ac.uk
+Science
+14 felix Friday 21 November 2008
+Those who scan the Technology pages
+of the BBC for fun probably saw the
+delightfully ingenious study into the
+mechanics of spam. Yes, that’s spam of
+the aetherial electronic variety, rather
+than the indiscriminate meat sort.
+If you’ve ever wondered how the
+hairy-palmed vandals laying siege to
+your inbox make money out of their
+endless barrage of exhortations for this
+pill, that degree, or those ladies, look no
+further than the aforementioned spam
+report. You can find it at www.icsi.ber-
+keley.edu/pubs/networking/2008-ccs-
+spamalytics.pdf. I won’t spend much
+time reviewing the study here, point-
+ing you instead to the BBC coverage
+or, better, the original article: I’d highly
+recommend having a read of it – it’s
+well-written, accessible, and entertain-
+ing, representing a study much in the
+vein of Freakonomics.
+Briefly, the authors managed to in-
+sinuate themselves into the Storm bot-
+net, a sophisticated network of infected
+computers, operated remotely by a few
+master computers. Following ethical
+principles to the letter, they hijacked
+a portion of the botnet, covering their
+tracks to avoid discovery by the bot-
+net administrators, and replaced the
+original outgoing spam messages with
+ones of their own, directing the hapless
+recipients to a site the authors had set
+up. A number of campaigns were run,
+including one where the end site nomi-
+nally sold pharmaceutical products of
+the blue variety. By monitoring how
+many visits they got to the site from
+the original spam recipients and seeing
+how many visitors attempted to pur-
+chase pills, the researchers were able
+to quantify the profitability of spam
+campaigns, and to infer the likely size
+of these operations. Turns out that
+the profit margins are probably rather
+meagre, so don’t start making lists of
+all your Facebook not-really-friends
+quite yet – though it might be satisfy-
+ing to get payback for all those sodding
+vampire invitations, making money
+from this ploy has all the prospects of a
+stone-transfusion blood-bank.
+However, there are plenty more in-
+teresting little nuggets in this study
+than the authors had the space, or pos-
+sibly gall, to analyse. However, I know
+no such bounds, and so am leaping at
+the chance to read far more into the
+data than I suspect the authors would
+be comfortable in, and to grace the au-
+gust pages of Felix with some original
+research on plagiarised results. There’ll
+even be a table.
+My first attempt centred on the fact
+that the results were global, offering
+some apparently entertaining com-
+parisons of different countries’ suscep-
+tibility to spam. However, I was unable
+to obtain a world gullibility index: the
+spoil-sport authors caution against us-
+ing response rates as a method for in-
+ferring “degrees of cultural or national
+interest in the particular promises or
+products conveyed by the spam”, in-
+stead suggesting it is due to regional
+differences in the quality of spam fil-
+tering, and anti-spam education. A
+shame, as it would have been funny to
+issue scurrilous remarks about Bulgar-
+ia, Pakistan and India, and to note the
+heightened interest in France for phar-
+macy related spam (and conversely the
+curious lack of it in the States) – does
+the libidinous reputation require prop-
+ping up?
+However, even if hopes to analyse
+regional differences are dashed, there’s
+hope yet on the global scale – I put it
+to you this study offers an unrivalled
+opportunity to study world idiocy. I’ll
+be propping up this contentious claim
+with some very shaky assumptions,
+and dubious maths, and will unapolo-
+getically try to point this out where I
+do, hoping a brazen approach will get
+you unwittingly to the end this “study”
+before it all becomes too much, and
+you throw this paper away in disgust.
+Commencing with what we know
+from the original study – the authors
+send out many spam emails, of which
+a number A (82,700,000) got to a valid
+address. These are then sent either to
+spam folders or inboxes, in unknown
+numbers, which we denote by B and C
+respectively (Ooh, doesn’t that sound
+scientific!). Due to all that, the re-
+searchers’ website received a number
+of visits E (10522, which doesn’t in-
+clude crawlers), of which a number G
+(28) were “converted” – an attempt was
+made to pay for pills.
+I’ve taken the liberty of putting this
+information in a chart, Figure 1 (award-
+ing self star for geekiness), and take this
+point to explain the assumptions I’m
+making elsewhere in this chart. I’m go-
+ing to try to determine the fraction of
+the population those 28 represent. And
+I’m going to callously equate those 28,
+as insensitively as only the youthfully
+virile can, with imbeciles. Uncharita-
+ble - perhaps they can’t use the normal
+ways to surmount the problems the
+pills address – but I’m flint-hearted: it’s
+poltroons like them who make spam
+profitable, and open my college inbox
+to almost 400 daily missives of bilge.
+Having justified the numerator, let’s
+look at the denominator. I’ll restore
+karmic balance by munificently be-
+stowing a status of “weirdly curious,
+but not idiotic” on those who clicked
+on the spam’s link, but didn’t attempt
+to order pills (F). Yes, this is generous,
+and does not allow us to quantify for
+the virile morons, who probably be-
+long in the numerator. Tough – they
+probably contribute to the gene pool,
+and it gives me one of the terms in
+my denominator. To this number, we
+also need to add the idiots (for correct
+normalisation, muggins), and D, the
+number of those who saw the spam in
+their inboxes, but who ignored it. To
+express this mathematically, the Idiot
+Index I.I. = G/(F+G+D). You’ve reached
+Equation 1: 1up, or eat a mushroom.
+Unfortunately, to know D, we need
+to know C, the number of messages
+from the original 82-odd million which
+made it to the spamees’ inboxes (what
+a silly plural). Which we don’t. Note
+I’m making another assumption here,
+namely that no-one is dumb enough
+to have gone to a folder labelled spam
+and clicked on messages inside. Rash,
+as that sort certainly belong in our
+numerator, but this is utterly unquan-
+tifiable, whereas torturing the original
+research Madsen-like will yield C.
+Table 1 (I’m going all out here) sum-
+marises the top 10 ranking email do-
+main names spam was sent to, together
+with the fraction of spam sent to that
+domain. I’ve also included a column on
+whether the domain is free, for reasons
+which will soon become apparent. To
+monitor what happened to the spam
+after it was sent by the botnet, the re-
+searchers cunningly set up some fake
+email addresses at the top 3 webmail
+providers (no surprises: Hotmail, Ya-
+hoo and Gmail), and others at their de-
+partment, filtered through a commer-
+cial spam-filter, Barracuda, apparently
+with slightly more permissive spam-
+tagging than default settings. The third
+column indicates, where applicable,
+the percentages of messages sent to
+those accounts which ended up in the
+inbox: inbox infiltration. Note that the
+commercial spam-filter (right at the
+bottom of the table) performs much
+worse than the webmail accounts.
+Anyway, I’m going to take a simple
+binary approach, based on the differ-
+ence between the webmail and com-
+mercial spam filter, and assume that
+this difference is due to resources alone
+– the more email addresses a provider
+represents, the more resources it is
+able to dedicate to sifting out spam. So
+free webmail providers, who represent
+many users, are very good at keeping
+users’ inboxes clean. If that sounds too
+simplistic, this next bit is really going
+to grate: We’re going to estimate the
+number of emails reaching inboxes, C,
+by adding the product of number of in-
+boxes with inbox infiltration for both
+the free and the commercial providers.
+Very messy in practice, this. Of the top
+10 providers, those which are definitely
+free represent 22.6% of email addresses
+targeted. This might well be a rather
+fat-tailed distribution, so saying that
+including all providers, not just the top
+10, will take this number only up to
+25% is very foolish. But invoking the re-
+source argument above again, if we go
+down the rankings, these free domains
+will have fewer users, and thus fewer
+resources to devote to spam filtering,
+so their infiltration values will be more
+akin to the commercial, thus belonging
+in that term: our division into free and
+commercial is really based on filtering
+efficiencies, after all.
+Doing the maths, if 25% of A went to
+freedomains,whichhaveanaveragein-
+What spam really means
+People who buy spam pills are morons, but how much of society do they represent? felix does the maths
+Kurt Osyzs filtration (worked out from the average
+of the top 3) of 0.00285%, 589 emails
+will have got through to the free inbox-
+es. Now for those with commercial-
+like infiltration values. They represent
+75% of A – but what should we use as
+their infiltration? We only have 1 data
+point, which represents a filter with
+permissive settings! Ha, we scoff at this
+and whack a factor of 0.5 in front of the
+commercial infiltration of 0.131%, to
+simulate improved filtering due to less
+permissive settings, and find 40626
+emails reach commercial inboxes; by
+far the dominating contribution, and
+grossly sensitive to our fudge-factor.
+But a reality check reveals that the total
+number of emails reaching inboxes, C,
+is 41215 – a number larger than E, so
+we’ve not managed to trash the model
+in Figure 1. Subtracting E from C to
+get D, and plugging it into Equation 1,
+with the previously known quantities,
+we find the Idiot Index is 0.068%.
+We could leave this there, but that’s
+not headline material, and I’m on a
+roll, or at least a bun. The present
+world population W, which we round
+to 6,710, 000,000 and the globally aver-
+age birth rate X (20.18 babies / 1000 of
+population / year), which we can mul-
+tiply to find the number of people born
+every year. Ooh, let’s include a factor Y,
+to work out how many of those make it
+out of infancy: we only care about peo-
+ple old enough to use a computer and a
+credit card. We get this factor from the
+infant mortality rate Z = 42.09 deaths
+/ 1000 live births. So the infancy sur-
+vival factor Y will be (1000-42)/1000,
+or 0.958.
+Multiplying W with X and Y, we find
+the present rate of birth of people who
+make it through infancy is 129 million
+per year, or 245 per minute. Let’s call
+this number M. (Nice and in the mid-
+dle – we’ve covered both ends of the
+alphabet now, and screw Greek or He-
+brew letters)
+Let’s just step back, and mention
+a couple of other assumptions we’re
+just about to make. The first is that M
+comes from global averages, and will
+encompass mostly people without ac-
+cess to credit cards and the internet.
+So combining that with the results of
+our earlier investigation may seem
+grossly unfair. But let’s note the origi-
+nal research showed fairly good global
+coverage, with less of a North-South /
+rich-poor country skew than might be
+expected.
+So let’s gloss over this access issue
+in a Panglossian fashion, assuming the
+best of all possible worlds, where intel-
+ligence (and hence the lack thereof) is
+all nature, no nurture, where the gene-
+pool is uniformly distributed across all
+nations and all socioeconomic back-
+grounds so that a sample of intelligence
+in one segment of society extends to all
+others.
+We’re also assuming no correlation
+between intelligence and language
+spoken. An interesting, if controversial
+topic, left aside, but if present, this may
+have implications for our findings – I
+don’t see any indication the authors
+wrote the spam in any languages other
+than English. But here we cite the pres-
+ence of many countries where English
+is not the native tongue – eg France.
+Phew, enough prevarication, let’s cut
+to the chase, and multiply our birth
+rate M with our idiot index I.I., as
+you’ve all been waiting for. The result,
+dear Reader? An update of the old saw,
+oft attributed to P.T. Barnum: turns out
+there’s one sixth of a sucker born every
+minute.
+Figure 1: Quantities, where known, from the original research are
+shown. Unknown quantities are determined in the text. Except for B,
+which is left as an exercise to the reader. Fat chance.
+Table 1: Free and commercial domains, and their spam-filtering
+effectiveness
+Culture &
+The Arts
+Arts Editors – Caz Knight, David Paw and Emily Wilson
+Budding culture vulture? Write for us.
+arts.felix@imperial.ac.uk
+15
+Friday 21 November 2008 felix
+Plastinated corpses as an art form?
+Emily Wilson gets up close and personal with some dead bodies and the free radicals coming to kill us all
+stand like normal people who just hap-
+pen to have no skin. I also noted that
+the vast majority of the figures possess
+a penis and a set of testicles dangling
+from stringy anatomy you can hardly
+believe supports them. Yes, there were
+a few female bodies, whose skinned
+breasts almost made them more unset-
+tling to see but the men dominated. I
+would be interested to know if this is
+due to an imbalance in the people who
+donate themselves to Dr. von Hagens.
+The general idea of the exhibition
+is to demonstrate the passage of time
+and the process of aging. It kicks off at
+conception. Here you can see a whole
+range of foetuses starting at a fleck of
+a cell ball you can barely make out,
+all the way up to birth. A highlight is
+the dead body of a pregnant woman,
+lying down casually and sectioned so
+you can see how the baby sits inside
+her. The foetuses affected me more
+than I would have expected. I’m a firm
+believer in pro-choice and I believe
+strongly in a woman’s right to abort
+an unwanted child. But coming face to
+face with these foetuses did make me
+see the pro-life argument – at 24 weeks
+(the legal cut-off for abortion here in
+the UK), and even before, a foetus
+looks like an actual person, complete
+with fingers and toes. For me this be-
+ginning was the most unsettling part of
+the whole exhibition.
+The rest of the exhibition carries on
+through life, from childhood through
+adolescence and into old age. There
+is a great deal of focus on the damage
+aging does to the human body. There
+are joints from arthritis sufferers and
+tumour-ridden internal organs dem-
+onstrating perfectly how we gradually
+fall apart after we hit 30. Even in our
+early 20s our brains are beginning their
+gradual decline. A highlight for me was
+a feature on how eyesight fails and how
+some of our famous artists probably
+developed their characteristic styles
+through their inability to see clearly;
+Monet’s blurry oil paintings being a
+case in point. A plastinated body holds
+a paintbrush and easel and stands at
+a canvas to accompany this section.
+There is a cheap print of Monet’s ‘Wa-
+ter Lilies’ strapped to an artist’s easel,
+which I was amused to see attracting
+the attention of two women. “Is that
+L
+ast time I promised you a
+book review. The sad thing
+is that between my last stab
+at editing and now, I have
+not finished a book. I’m still
+reading the 900-page door-stopping
+epic that is The Mitfords, which is a
+collection of letters between the Mit-
+ford sisters of upper-class, eccentric,
+Nazi-loving fame. It’s a brilliant book
+which has been making me laugh, cry
+and think all at once but I’ve been read-
+ing it for months and I’m only 500 or
+so pages in. I’m not sure I’ll ever finish
+it, particularly given that I keep pick-
+ing up more accessible material to read
+alongside it. Currently, I’m on a rather
+good sociobiological/anthropologi-
+cal number about human evolution.
+The chapter on the evolution of hu-
+man sexual behaviour is particularly
+delectable.
+The question that I just know is on
+your lips, as always, is: what have I
+been up to if not reviewing books?
+Well, this past weekend I went and saw
+the Rothko exhibition at Tate Modern
+for a second time. I hope you all paid
+attention to my previous review of the
+exhibition and have already gone to see
+it. No? You ignored me? Harsh. It’s a
+great exhibition! Go see it!
+Now normally I would only go to an
+exhibition once, but this one was even
+better the second time round. I picked
+up on so many different things I hadn’t
+noticed the first time and so many of
+my opinions changed. It was a com-
+Emily Wilson
+Arts Editor
+pletely different experience. Before,
+my favourites were the black-on-black
+bunch at the back of the exhibition.
+This time I was less keen in compari-
+son to my renewed passion for the
+‘Seagram Murals’. They were beautiful
+and I have no idea why I didn’t adore
+them as much the first time. So I guess
+the moral of this story is not only that
+Rothko rocks, but also that art just gets
+better and better the more you experi-
+ence it.
+While I was at the glorious artistic
+Mecca that is the Tate Modern, I wan-
+dered round the new Turbine Hall in-
+stallation by Dominique Gonzalez-Fo-
+erster. This can be summed up as sci-fi
+geek art. Ms Dominique has produced
+a futuristic dystopia made up of giant
+spiders, glowing green lights and evac-
+uation shelter beds. The beds are lit-
+tered with sci-fi books and the screen
+at the back shows snippets of scenes
+from sci-fi movies.
+It’s surreal and funky, like the dorky
+library-dwelling kid you went to school
+with all grown up and taking over the
+world. Pretty awesome, though it
+couldn’t hold a candle to that big crack
+in the floor from last time, which I ba-
+sically wanted to have the babies of.
+Many thanks to all those who keep
+sending in articles without us having to
+beg for it. We love you, yes we do, and
+we apologise if we can’t print them all.
+As always, if anybody else would like to
+contribute, we will welcome you with
+open arms at arts.felix@imperial.ac.uk
+Book review
+pending
+N
+ow is your chance to
+witness the work of the
+hat-wearing, semi-sinis-
+ter physician and anato-
+mist Dr. Gunther von
+Hagens. You may have been fortunate
+enough to see his live (in the televi-
+sion sense, obviously) human dissec-
+tions on Channel Four not so long ago.
+Well, now you can head over to the O2
+(read: Millennium Dome re-branded)
+and wander round a whole exhibi-
+tion of dead, plasticized bodies
+that demonstrate the human
+life cycle and how time
+alters us.
+Let me tell
+you right now: don’t go to this ex-
+hibition if you’re squeamish or have
+fainting inclinations. It really is an en-
+tire exhibition of bits of dead bodies.
+Though at the same time I did find the
+bodies oddly unrealistic. The plastina-
+tion process used to preserve the sub-
+jects (which is well explained inside
+the exhibit) leaves them looking like
+somebody did actually craft them out
+of lumps of flesh-coloured plastic. The
+process also leaves the bodies without
+skin or facial characteristics, so they
+lack any distinguishing features that
+make them individual. In some cases it
+could be the same body over and over
+again in different poses. I had to re-
+mind myself constantly that these used
+to be living, breathing people who vol-
+unteered themselves for plastination
+and display after they died.
+There are several things I noticed
+about the bodies. Firstly, despite lack
+of facial skin, they all retain their eye-
+brows, eyelashes and lips and have all
+been given glass eyes. I found this over-
+whelmingly creepy. Like something out
+of a horror movie, they are dead but
+can stare at you with expression. They
+Why stop at
+humans? And
+we know where
+you’re looking
+Here is somebody, or
+maybe some bodies, riding
+a horsie
+

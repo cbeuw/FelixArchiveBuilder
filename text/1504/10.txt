@@ -1,0 +1,193 @@
+TECHNOLOGY
+Tips & Hacks
+Technology Editors: Chris Bowers
+Feroz Salam
+technology.felix@imperial.ac.uk
+AMD pulls out of ‘two-horse race’
+School ICT to finally be revamped
+Lost focus? Try the Lytro
+Have you ever taken a picture, only to be dis-
+appointed when you later find it to be out of
+focus? You’re certainly not alone. Enter Lytro,
+the world’s first consumer-targeted light-field
+camera.
+So what does that mean? In your everyday
+camera, what the sensor captures when you
+press the button is what you’re stuck with. It
+doesn’t matter how many millions of pixels
+you can capture at once if the light informa-
+tion you gather results in a blurry image. The
+light-field technology used in the Lytro takes
+a completely different approach to avoid this.
+Instead of focusing on a point and capturing
+the light information for that perspective, the
+camera captures up to 11 million rays of light
+going in every direction.
+The main (and cool) advantage of this? You
+get to focus and refocus your photos after
+they’ve been taken. Not only that, but there’s
+no auto-focus motor working in the time be-
+tween you pressing the button and the picture
+being taken. That results in the picture you end
+up with being much closer to the one that you
+saw with your eyes when you pressed the but-
+ton – essential for fast moving objects and the
+like.
+So what about the actual camera itself? It’s
+surprisingly small – a cuboid-shaped device
+just over 11cm long and 4cm wide and high.
+With that you get a small (3.3cm) touchscreen,
+shutter and power buttons, either 8 or 16GB
+of storage and a very decent 8x optical zoom.
+It’s light too, weighing in at just over 200g,
+but it’s strong aluminium shell means that it
+doesn’t have to skimp on durability to achieve
+that figure.
+The pictures come in at about 20-25MB each,
+and Lytro quote that the 8GB models (“Graph-
+ite” and “Electric Blue”) will hold about 350
+pictures, with the 16GB model (“Red Hot”)
+holding up to 750. The different models are
+priced at $399 and $499 respectively, which
+isn’t cheap, but isn’t too expensive either when
+you consider how new this technology is.
+If you often find you’ve missed out on
+capturing those unmissable moments due to
+shoddy focusing, or perhaps you like to take
+pictures of fast-moving objects, then the Lytro
+may be the camera for you. Even if you don’t
+buy this camera, I reckon we’ll be seeing a lot
+more of this technology in the years to come.
+A company spokesman for AMD recently stated that
+the company is going to “let go of the old ‘AMD ver-
+sus Intel’ mindset”, a rivalry that has been ongo-
+ing for decades. It’s hardly surprising that they’ve
+decided on a shift in strategy, as they just haven’t
+been able to compete in the last few years. Even
+the latest Bulldozer chips – which were meant to
+be the pinnacle of desktop power – flopped. Mean-
+while, Intel are going from strength to strength, with
+their Sandy Bridge line trouncing anything and every-
+thing that gets in the way. So what can we expect
+from AMD in the coming years? They have never ex-
+pressed interest in building chips for smartphones
+and other handhelds before – and that’s a market
+already dominated by ARM. But they could have
+something in their sleeve. Or perhaps they’re look-
+ing at the emerging ultrabook market: one without a
+clear chip leader. Only time will tell, but with nothing
+to lose, it was probably the right decision for them.
+A major initiative has been launched to drag Britain’s
+computer science curriculum into the 21st century,
+with one major goal being the reform of an ICT cur-
+riculum that has aged considerably since its intro-
+duction in the 90s. The Next Gen Skills campaign,
+which was coincidentally launched just before the
+release of a government report on the state of the
+national IT education system, aims to modernise a
+syllabus which at the moment focuses heavily on
+using software rather than making it. There does
+appear to be some confusion over what constitutes
+‘computer science’ and ‘ICT’, perhaps emblematic
+of the dire need for a revision of some sort. With the
+government agreeing on the need for intervention,
+the only question is whether and where funding is to
+be found for it. The hope is that the new curriculum
+will focus on creative coding rather than repetitious
+Excel tasks; creating inventive programmers (think
+Minecraft) rather than earnest number-crunchers.
+The revision is merely in its first steps at the mo-
+ment, but the coming year should see some clearer
+details emerge on the nature of the changes to be
+made. Hopefully, the legacy of the BBC Micro can be
+repeated in a modern context; it’s the only thing that
+will keep Britain competitive in an hugely technology
+dependent world.
+FELIX
+10 Friday 02 december 2011
+Chris Bowers
+I expect most of you have noticed the new
+items that have started appearing in your Face-
+book feeds: Spotify playlists of music that your
+friends are listening to, and news articles from
+a whole host of national and international pa-
+pers. They are part of the ‘OpenGraph’scheme
+that Facebook has been pushing in earnest over
+the last few months: adding a few tags to your
+website means that any links to your website
+from within Facebook makes it a Facebook
+page.
+Facebook’s been selling this feature hard: it
+describes the feature as enabling you to ‘inte-
+grate your Web pages into the social graph’,
+whatever that means. Yet how much control
+does the average user have on articles that ap-
+pear in your profile, and how intrusive is the
+new service? As anyone trying to use any of
+the new links will have noticed, you can’t click
+on news articles on Facebook without signing
+up for ‘a new social reading experience’. Be-
+fore agreeing to use the service you can choose
+which of your friends get to see what articles
+you read, a feature which I suspect few people
+are using. On getting through to the article,
+you are delivered to a Facebook themed ver-
+sion of the news website, with an option to
+visit the actual website if you wish.
+It’s all fairly straightfoward and has been
+embraced with some enthusiasm by downturn-
+stricken publishers as a way of driving hits and
+advertising revenue. Yet despite the new me-
+dia/social media feeding frenzy, of how much
+benefit is this to the average user? The new in-
+terface adds nothing of value to the reader, un-
+less you find comfort in reading reams of PR
+waffle about the power of social sharing. The
+biggest change that you have probably noticed
+is that your feed is now cluttered with the titles
+of articles your friends have read. If you have
+anywhere near the average number of friends,
+the articles are bound to be from a wide se-
+lection and not really catered to anything you
+are interested in. As far as new and interest-
+ing reading material goes, I’ve seen little. The
+same applies to Spotify in my opinion. I don’t
+make friends solely on the basic of music taste,
+and in many cases would rather not know
+about what my friends have been listening to.
+One might argue that the responsibility of
+choosing which feeds end up in your timeline
+lies with your friends, as they are in control
+of what you see after all. Yet I would have to
+disagree - the sharing system in Facebook is
+very cleverly organised to make limiting shar-
+ing a few orders of difficulty more complex
+to organise than expanding sharing. In a sys-
+tem geared towards drastically increasing the
+amount of information you push out to the
+world, it’s not surprising we’re hit with much
+more than we can possibly care about.
+It wouldn’t be wise to underestimate the way
+media sharing has changed our communica-
+tion. Yet sharing is only effective when it is
+organic, not when it is forced. Whole hordes
+of PR representatives shouting about the value
+of ‘next generation creative synergy’ will not
+get me to read an article about something that
+doesn’t interest me, no matter how hard they
+push it into my feed.
+Social media is in essence about finding in-
+formation that interests you that you wouldn’t
+have found before, but it doesn’t mean that
+information can be thrown at you from ev-
+ery context. When I log onto Facebook, it is
+to share things with all my friends, a diverse
+bunch of people from different countries, with
+diverse political and cultural tastes. Shoehorn-
+ing views that are of no interest to them into
+my feed doesn’t interest me. Sharing has been
+great, but as with everything, the point of ‘too
+much’ has been reached.
+Feroz Salam
+Facebook: all shared out?
+

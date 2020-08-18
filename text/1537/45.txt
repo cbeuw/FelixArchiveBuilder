@@ -1,0 +1,325 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 25 JANUARY
+46
+Crossword
+3
+3 3
+3
+3 3
+3
+3
+2
+2
+2
+2
+2
+2
+2 2 2 2
+2
+2
+2 2 2
+2
+2
+2
+0
+0
+0
+0
+1
+1 1
+1
+1
+1
+1
+1
+3
+3
+3
+3
+Slitherlink
+To be topical....
+Once more, the rules, because there’s bound
+to be someone who hasn’t tried their hand
+at the ‘link yet: draw a single closed loop by
+vertically and horizontally joining the dots
+so that the numbered squares are surround-
+ed by the corresponding number of lines.
+The numbers in each row and
+column show you how many
+groups of black squares are
+in a row or column, as well as
+how many black squares each
+group consists of. Filling in the
+grid produces a pretty picture,
+which in turn produces points
+if you send it in.
+FUCWIT
+League Table
+Hashi Ophis
+Connect all the is-
+lands with bridges
+so that you can get
+from any island to any
+other one. There are
+restrictions, though:
+the bridges have to be
+either vertical or hori-
+zonal and they must
+not intersect. You can
+have up to two bridg-
+es between any two
+islands and, last but
+not least, each island
+must have exactly as
+many bridges stem-
+ming from it as the
+number on it.
+Fill the cells with a
+continuous line (the
+“snake”) that does
+not pass through a
+cell twice, doesn’t
+intersect with itself,
+and passes through
+all white boxes. The
+numbers show you
+how many times the
+snake turns in the
+corresponding row
+or column. The snake
+enters and exits the
+grid at the shown
+points (and only
+those points). There
+are some hints to get
+you started.
+TEAMS
+Requiem for a Bean 10
+Sexy Beasts 6
+INDIVIDUALS
+Yufan Zhao 10
+Wael Aljeshi 8
+M-Soup 7
+Helix 7
+Tan Wei Jie 4
+Send your answers to puzzles.
+felix@imperial.ac.uk. You can
+send in solutions as an individual
+and hog all the glory to yourself,
+or be part of the team and have
+someone to put the blame on if
+you screw up.
+2
+4 4 6 5 6 3 6 2 4 4
+6
+4
+2
+8
+4
+0
+6
+6
+6
+Across
+1. Perimeter of a curved polygon
+(13)
+9. Changed (7)
+10. Code decipherer (3)
+11. Those of greater age (6)
+14. Leader of a country (5)
+15. A billion years (3)
+16. Device which needs little human
+control (9)
+20. Christianity creator (3)
+21. Type of cheese (7)
+22. Type, e,g, film (5)
+24. Large heavy weapon formerly
+used in war (6)
+27. Fibber (4)
+28. More closely fitting (7)
+31. Tendency of a solvent to move
+from a lower concentration to a
+higher (7)
+33. Girls name originating from the
+name Rachel (3)
+34. Devices which consists of a
+mounted wheel or disk which spins
+rapidly, used to provide stability
+(10)
+Down
+1. Tricky task (9)
+2. Gave back (8)
+3. Open e.g. toilet paper (2-4)
+4. An organisation where smaller divi-
+sions have internal independence (10)
+5. Surprise police visit (4)
+6. Close (4)
+7. Large red deer (3)
+8. Subject taught in Blackett (7)
+12. Sense of self-importance (3)
+13. Large body of water (3)
+17. Chemical with atomic number 22 (8)
+18. Horse food box (6)
+19. Artificial underground passage (6)
+21. Clean, sterile (8)
+23. South American Country, capital
+Quito (7)
+25. Viewpoint, geometrical feature (5)
+26. Retro games console (5)
+29. Tube of caramel chocolate (4)
+30.Shoot (4)
+32. Star Trek: Deep Space Nine shape
+changer (3)
+Solution for last week’s crossword
+There is a box that wasn’t shaded in. I
+apologise sincerely for the error, and en-
+deavour to improve the crossword quality.
+Last week’s nonogram
+2 4
+1 6
+2
+3 3
+5 3
+1 1
+1 1 1 3
+3 2
+5 1 3
+4 4 2
+2 2 2 3
+2 3 3
+3 2
+2
+1
+1 5
+2 2
+2 1 1
+
+
+        
+         
+         
+         
+         
+         
+         
+         
+         
+         
+              
+              
+              
+              
+              
+                 
+              
+              
+              
+              
+               
+                
+              
+              
+              
+1
+1
+1
+1
+3
+1
+1
+1
+3
+1
+5
+1
+3 0
+5
+1
+3
+3
+1
+1
+1
+1
+1
+3
+1
+3 3
+1
+3
+1
+3
+1
+1
+1
+1
+5
+1
+3
+3 0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+5
+1
+1
+1
+3 1 1 3
+1 1 1 1 1
+3 1 3 1 3
+1 1 1 1 1
+3 1 1 3
+0
+3 3
+1 1 1 3
+3 3 3
+1 1 1 3
+3 3
+0
+1 1 1 1 1 1
+3 1 1 3
+1 1 3 1 1 1 1
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+

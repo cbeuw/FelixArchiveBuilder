@@ -1,0 +1,526 @@
+28
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 30 OCTOBER 2009
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+Dell cuts Air in half
+with the Adamo XPS
+Simon Worthington reports on Dell’s new anorexic offering
+Where are we
+going Google?
+T
+his week has been all about
+Android 2.0. Google was
+definitely on a roll in the tech
+sector this week with an of-
+ficial video laying out the details of An-
+droid 2.0. New to the little mean green
+machine will be Quick Contact which
+features integrated two way syncing
+and amalgamation of contacts (similar
+to Palm’s Synergy), which will pull in
+contacts and information from mul-
+tiple sources into one list. Improve-
+ments to the general operation of the
+system have also been made across the
+board including Exchange support,
+searchable SMS, full multitouch sup-
+port and a revamped browser UI and
+HTML5 support. Hardware support
+has also be increased with Bluetooth
+2.1 and multiple screen size support
+including WVGA being rolled in.
+Google is also introducing a free
+turn-by-turn Sat Nav that it’s building
+into its Google Maps application. Cur-
+rently in beta, like all things Google, it
+will be available on Android 2.0 from
+the get go. Leveraging other Google
+technology it’ll also feature vocal ad-
+dress input and text to speech output,
+so in effect you may end up having a
+conversation with your phone over
+where you’re going.
+Google is also introducing what it
+calls layers, which are basically over-
+lays on the map that show pertinent
+information. Both satellite and Street
+View are layers, meaning that you can
+get a good view of where you need to
+turn and when you’re at your destina-
+tion with image overlays. Helpful if
+you’re going somewhere you’ve never
+seen before. Traffic information will
+also be available as a layer and will pull
+data from local sources and from mo-
+bile phones using Google Maps. This
+means that anyone who’s stuck in traf-
+fic and using Google Maps will act as
+an early warning system for everyone
+else using Google Maps in real-time.
+Google also said that it is easy for them
+to add extra layers and there’s always
+the possibility Google might even open
+up an API for 3rd party layers within
+the app. I’m hoping that we’ll see the
+integration of Google Latitude into the
+app, which would be really useful if you
+happen to be travelling in a convoy and
+get separated.
+Great but what happens if the signal
+craps out on you and you’re lost? Well
+thankfully Google’s thought of that and
+made Maps cache the route before you
+leave in an effort to alleviate this prob-
+lem. Of course there’s also a benefit to
+the streaming maps system and that’s
+you’ll never have to update the maps
+on your device.
+Other platform specific announce-
+ments are waiting on device manu-
+facturers, but Google implied that it is
+working closely with Apple so it may
+appear on an iPhone near to you in the
+not too distant future. Whatever hap-
+pens with regard to cross-platform
+availability, it’s sure put a dampener
+on the likes of TomTom and Navigon
+who have been pushing iPhone Sat Nav
+apps for quite large sums of money.
+When people are faced with £60 for
+TomTom or a free Google Maps app,
+supported by search money, that does
+the same thing, I know which option
+most are going to choose. The problem
+I foresee here is that Google may end
+up wiping out the competition for GPS
+apps on connected devices. Without
+competition it would mean we’d have
+to wait for Google to innovate with-
+out any real urgency for them to do so.
+Don’t get me wrong, I’m stoked to see
+what Google’s going to do with their
+navigation app in the near future, but
+I can’t help but think we’re all going to
+end up losing out in the long run.
+SamuelGibbs
+SamuelGibbs Technology Editor
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week, another botch-up in-
+volving Microsoft. This time it was the
+UK unveiling of Sky’s VOD service Sky
+Player for Xbox 360, which suffered a
+failure to launch on Tuesday. Having
+been suspended due to ‘an unforeseen
+technical issue’ after being 6 months in
+the pipeline, it was major egg on face
+for both Microsoft and Sky. Sky hopes
+to have the service up and running by
+the end of the week but I wouldn’t hold
+your breath on that one.
+The Spawn HD-720, an ugly yet ex-
+tremely functional box of tricks, is
+capable of streaming your console of
+choice onto your PC, allowing you to
+play your console anywhere with an in-
+ternet connection. The first test boxes
+that have been making their way out
+are LAN only but internet streaming
+should be available soon. First impres-
+sions are that it actually works. There
+is a small lag making some control
+schemes feel a little less precise but it’s
+certainly a promising start. Imagine
+playing your Xbox from College or in
+the Airport waiting for a flight.
+The US Army has been busy this
+week too, with helmet mounted radar
+helping soldiers see who’s creeping up
+on them. Being able to see through
+fog, dust and even walls and weighing
+in at no more than 2.5 pounds the only
+problem I can foresee is the bloody
+obvious radar dish on their heads. I’m
+assuming some miniaturization will be
+put into practice here and if it saves
+lives in a war zone, I’m all for it.
+Android also got drafted into the
+US military this week. Raytheon, the
+weapons specialist, has developed a
+new Android app called the Raytheon
+Android Tactical System which allows
+soldiers to track the positions of other
+soldiers and UAVs. This allows soldiers
+to get the tactical advantage of a UAV
+POV sent straight to their connected
+Android device. I’m doubting this’ll
+make it’s way onto your HTC Hero
+anytime soon, but it can only be good
+news for Android fans having the US
+military backing the mobile OS.
+L
+ast week we reported the re-
+lease of Dell’s new ultrathin
+Adamo XPS laptop, which,
+according to the Internet,
+was due for public consumption last
+Thursday. Well, Thursday came and
+went and unfortunately we’ve all been
+duped as the XPS is very much not
+available in shops. Don’t worry, we feel
+violated too. What we can offer you in-
+stead is a review of the latest info about
+Dell’s size-zero laptop.
+So here’s what we know. The XPS is
+the latest model in Dell’s Adamo range
+(the one they never properly show off
+in announcements), which it claims
+focuses on ‘design and mobility’. The
+design is certainly something else, as
+the laptop sports some interesting fea-
+tures. To even get the lid open you’ll
+need to make use of the heat-sensitive
+strip which glows and unlocks the case
+on contact with your fingers. That
+said, it’s actually the only way to get
+the thing open, so if the battery runs
+out or you’ve just got poor circulation
+you are essentially stuck with a useless
+aluminium slab. Once you’ve tackled
+this obstacle, you’ll find that the key-
+board and screen are hinged not at the
+bottom as is conventional, but more
+towards the middle, which angles the
+keyboard upwards. If you had this on
+your lap you would think this might
+put all the weight on one point and
+make it uncomfortable, but it turns out
+that’s not a problem. Oh, did I forget to
+mention that it weighs just 0.68Kg (yes
+that’s just 680 grams) and is 9.99mm
+(less than a centimetre) thick?
+If that last line is giving you déjà vu,
+it’s because in reality the Adamo XPS
+is Dell’s answer to Apple’s MacBook
+Air, which was famously pulled out
+of a manila envelope upon launch to
+demonstrate its thinness. The Adamo
+has slightly superior specs than the
+current generation MacBook Air too,
+with the option of 1.4 or 1.9GHz ULV
+dual-core processors, up to 4GB of
+RAM, integrated graphics powered by
+an Intel X4500MHD and either a 128
+or 180GB SSD, all stuffed in behind its
+13.4” WXGA LED-backlit screen. On
+paper the XPS certainly matches Ap-
+ple’s latest generation Air in all but the
+processor department, in which the
+Air wields non-ULV Core 2 Duos. The
+XPS certainly has the upper hand in size
+however, as its tiny width and miniscule
+weight are both less than half of the Air.
+If only its price tag had a similar com-
+parison, because the new Dell will set
+you back an eye-watering $2,000 (for
+a machine that gives you a weak 3.3 on
+the Windows 7 experience index). This
+really tends to throw everything into
+perspective when you consider that for
+the same money you could get the new
+beefiest iMac money can buy, which
+has many times the processing power
+and disk space. So, what are we actu-
+ally paying for? Clearly, Dell thinks that
+what we are willing to pay for is the tiny
+size and weight. But that leads me to my
+next question: who cares?
+The heat-sensitive strip, weird hing-
+es and incredible thinness are all very
+nice, but are they really anything more
+than a few bangles and baubles cre-
+ated to please the gadget loving crowd?
+The specs aren’t bad for the size, but
+there are plenty of slightly larger lap-
+tops out there that deliver much better
+performance. At the end of the day, the
+Adamo XPS compromises power for
+style and it’s up to consumers to de-
+cide whether or not that’s something
+they’re willing to shell out for. The
+performance of the MacBook Air in
+the market suggests that at least some
+people are, but then Apple products
+do tend to attract those who like their
+gadgets to look nice. It will be interest-
+ing to see whether Dell can replicate
+the aesthetics-driven success that Ap-
+ple saw with the Air.
+SamuelGibbs
+SamuelGibbs Technology Editor February the Allerta inPulse Smart-
+watch is equipped with a 1.3” OLED
+screen and bluetooth to hook up to
+your BlackBerry. It alerts you to new
+messages through vibration and dis-
+plays summary information right on
+your wrist. At around £90 however,
+unless you really dig the styling for use
+as a normal watch, I think taking your
+phone out of your pocket when you get
+a message is more than doable.
+A solution to that uniquely Face-
+book problem of what happens when
+someone on Facebook kicks the bucket
+has now been solved with Facebook
+‘Memorial Pages’. A member of the
+deceased’s friends can send Facebook
+proof of death after which Facebook
+will lock the account, maintaining the
+profile and allowing friends to post on
+their wall. Creepy if you ask me.
+Unlike Android, a BlackBerry is a
+device associated with no-nonsense
+business types (regardless of how hard
+they advertise), so it’s strange to see a
+3rd party accessory in the works that’s
+frankly anything but. Launching in
+

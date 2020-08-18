@@ -1,0 +1,103 @@
+science.felix@imperial.ac.uk
+11
+Friday 16 November 2007 felix
+Science
+SPECIAL
+STUDENT
+OFFER
+SAVE 50%
+WHERE WILL IT TAKE YOU
+THIS WEEK?
+OR GO ONLINE www.newscientist.com/s/3376
+CALL THE HOTLINE + 44 (0) 8456 731 731
+9am to 9pm, 7 days a week. Please quote special offer code 3376
+SUBSCRIBE TO NEW SCIENTIST AND GET
+51 WEEKLY ISSUES DELIVERED DIRECT TO YOUR DOOR • LATEST SCIENCE &
+TECHNOLOGY JOBS • CAREERS ADVICE • FREE FULL ACCESS TO THE ENTIRE
+CONTENT OF NEWSCIENTIST.COM INCLUDING THE 15 YEAR ARCHIVE
+Last week we went through the key-
+hole to visit the coolest machine at Im-
+perial, which operates just above abso-
+lute zero. This week, our trip to find
+the epic machines hidden from view in
+Imperial labs takes us to the Kennedy
+Institute on the Charing Cross cam-
+pus, where they are ripping apart the
+very threads of life itself.
+Like so much of the world’s coolest
+scientific equipment, the Q-TOF mass
+spectrometer is found deep in the
+bowels of the Institute’s basement. But
+that isn’t always the best place to keep a
+£300,000 machine. “It’s one of the most
+expensive bits of kit that we have here,”
+says Matthew Peirce, a Research Asso-
+ciate at the Institute, “but every once
+in a while we have sewage coming up
+through the floor down here.”
+Peirce and his team are investigating
+cell signalling, which means that they
+are trying to figure out what exactly
+happens when cells respond to a signal,
+such as a bacterial toxin. They want to
+know what’s going on at the molecu-
+lar level, and which proteins are being
+produced inside the cell.
+The best way to find out what’s in-
+side something, as any five-year-old
+or particle physicist will tell you, is to
+smash it into pieces. So the research
+team makes a vat of mouse cell pep-
+tides, and then pops them into the
+Q-TOF spectrometer, where they are
+sprayed out as an ionized gas. Accel-
+erate the ions through an electric cur-
+rent, smash them into gas molecules,
+and they conveniently break apart at
+the amino acid bonds.
+Each fragment has a charge and each
+kind of amino acid molecule has a dif-
+ferent mass, and so the Q-TOF spec-
+trometer can use an electric field to
+shoot the fragments at a detector: the
+lighter they are, the faster they’ll go.
+This is the TOF in Q-TOF; it stands
+for “time-of-flight.” The detector spits
+out the results to a PC where Robin
+Wait, a Senior Lecturer who operates
+the machine, can recognise the mass
+peaks that indicate the composition of
+the peptides.
+The team has to make large volumes
+of cells because the Q-TOF spectrome-
+ter isn’t that efficient. This requirement
+for large samples means that they can’t
+use human tissue – for example, a pa-
+tient’s cells – for the analysis. Instead,
+they use mouse cells, as these can be
+grown in quantity. In fact, they will
+keep growing, even in a dish, as long
+as you feed them, and someone has
+to come in on weekends to keep them
+fed and separate their overcrowded
+colonies.
+Even with this prodigious volume
+of cells, the samples analysed by the
+Q-TOF spectrometer are of low con-
+centration, and there is a high risk of
+contamination with keratin – human
+skin or hair cells from the researchers
+in the lab, or even animal cells. “No
+woollen clothing is allowed,” says Wait.
+“You have to make sure that back-
+ground levels are below what you are
+interested in.”
+Peirce laughs, “Robin spends most
+of his time analysing my dandruff.” A
+hair-raising prospect indeed.
+Flora Graham
+My favourite fn machine: fragging peptides at the Kennedy Institute
+The Q-TOF mass spectrometer is ideal for those with a penchant for shiny bits of kit. £300,000 ono
+Bit of a head-scratcher – if you’re not stringent about contamination,
+you could end up analysing dandruff rather than mouse cell peptides
+

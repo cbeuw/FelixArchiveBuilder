@@ -1,0 +1,151 @@
+Featura FELIX, Friday May 29th 1987
+For those of you who found Chris
+Edward's 'Art of Noise' feature
+interesting, a sequel on samplers
+follows:
+A sampler uses similar technology
+to a CD player, although samplers
+usually use 12 bit resolution for
+storing sounds in R A M with floppy
+disk backup, rather than 16 bit from
+an optical disk, and remember only
+a few minutes of sound at best, rather
+than over an hour for CDs. In the
+sampler, the musician has a machine
+capable of producing any sound at all,
+whether a real one that has been
+inputed and digitised, or a pseudoreal
+one that has been created by setting
+up the 'waveform R A M ' manually.
+So are samplers the end of the line?
+By far the most eagerly sought
+electronic clone is for an acoustic
+piano, and yet although we have
+electronic pianos, classically trained
+pianists still use those huge
+temperamental pieces of furntiture
+that need hours of tuning after each
+removal to a new concert. Why?
+You can easily take the sound of an
+acoustic piano and sample it. On a
+good enough machine, you can play
+back the note you've just sampled and
+not be able to tell the difference.
+However, play a scale, and something
+odd results. The sampler plays other
+notes simply by playing back the
+waveform data at different speeds, so
+two octaves up, your sound is four
+times shorter than the original. Also,
+it sounds nothing like a piano would
+at that pitch. The "Mickey Mouse
+Effect" normally restricts single
+samples \o a range of an octave at the
+most. The solution is to use a multi-
+sample, where you sample the piano
+at several pitches, and cross-fade the
+different recordings as you play up the
+sampler's keyboard. You're starting
+to talk big memory here, especially
+if you sample all 88 notes, as you
+need to for true fidelity. So you play
+'Moonlight Sonata' and it still sounds
+nothing like a piano. The reason why
+the piano caught on in the first place,
+and got its name 'pianoforte', was
+because of its wide range of dynamic
+expression. OK, so your sampler has
+a 'velocity responsive' keyboard;
+programming the thing so that a hard
+pressed key = loud, and a soft
+depression = quiet only slightly
+allieviates the problem. Actually of
+course, pressing the key harder on a
+piano changes the waveform too.
+Suppose you now sample a piano at
+all 88 notes, and at 256 different key
+velocities. Your impersonation now
+begins to take in all but those who
+play a piano every day, but you've
+used many GIGAbytes of memory,
+and you still haven't taken into
+account the waveform changes of the
+'loud' and 'soft' pedals, or the inter-
+string resonances within the casing.
+As you can see, there's a long long
+way to go before you'll convince
+Ashkenazy to "Go Electronic"!
+Similar problems exist with other
+instrument clones. A snare-drum's
+waveform alters depending on how
+hard you hit it, where you hit it, and
+when you last hit it. A saxophone's
+waveform varies with air pressure,
+and the lip cheek control of the
+player. Even if you could take all this
+into account, you still couldn't
+generate that expression from a
+sampler keyboard, so why not play
+a real one? Or better still, use a
+saxophone to control expression on
+the sampler, as AKAl's new product
+does.
+One point worth mentioning—how
+B
+I
+T
+P
+A
+R
+T
+S
+• Richard Fincher
+samples the problems
+with impersonating
+pianos.
+does today's pop star use samplers?
+Of the alternatives, they can:
+1) Create their own unique sounds.
+Generally they're either too thick, or
+haven't time, to do this.
+2) Hire someone else to do it; as
+on 'Slave to the Rhythm', which was
+programmed by Steve Lipson, Trevor
+Horn's programmer.
+3) Go round with a Walkman,
+recording real but unusual sounds to
+sample back at home. This can be
+most effective and original. Depeche
+Mode's 'Black Celebration' is a
+showcase for this technique.
+4) Use libraries; this is what most
+people do. A l l the major sampler
+makers, (E-mu, KORG, Ensoniq,
+AKAI, Roland, Sequential) produce
+libraries of sounds on disks. It's so
+easy. Just boot them up, and you've
+got the result of someone's days
+slaving over a computer.
+Unfortunately, you've also got a one-
+way ticket for the express train to
+predictability; you sound like
+everyone else. The success of
+Oberheim's DPX-1, which can't
+create new samples, but plays back
+disks from other samplers shows what
+most musicians want.
+5) Nick sounds from records or
+CD's; Illegal of course, but then who
+hasn't broken the copyright act at one
+time? 'Simon Le Rhodes' hears a
+great bass sound on the radio, goes
+out and buys the CD, samples it, and
+in 5 minutes, he's using it on his next
+demo.
+Finally, if you're at all interested
+in sound sampling, go to Tottenham
+Court Road and ask for a demo of the
+Casio SK-1. It's still amazing what a
+less-than-£100 'toy' can do!
+Richard Fincher
+

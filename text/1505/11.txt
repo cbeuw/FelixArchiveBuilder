@@ -1,0 +1,214 @@
+SCIENCE
+FELIX 11
+Friday 09 december 2011
+Professor David Phillips, current pres-
+ident of the Royal Society of Chemis-
+try, took to the lectern on November 8
+for the latest Friends of Imperial Col-
+lege (FOIC) event.
+In line with FOIC’s celebrations of
+the UN Year of Chemistry, the Im-
+perial professor emeritus guided the
+audience with an authoritative yet
+avuncular manner through a few of
+his personal predictions for the future
+of chemistry.
+A great deal of the work done by the
+RSC centres on highlighting the key
+challenges faced by the world today
+for which chemistry hopes to hold
+solutions. Foremost amongst these is
+the development of green chemistry,
+especially ionic liquids as a substitute
+for more harmful solvents. Solvents
+are critical in most industrial chemi-
+cal processes, as illustrated by the fact
+that they represent 90% of the waste
+products in the pharmaceuticals in-
+dustry.
+Regrettably however these same
+solvents make up 35% of global emis-
+sions of volatile organic compounds
+(VOCs) that give rise to smog and
+greenhouse gases.
+There were a few bewildered faces
+amongst the group of visiting second-
+ary school students as Phillips cited
+the case of Viagra production as an
+example of the improved consump-
+tion habits and efficient use of sol-
+vents. Having required 1300 litres of
+‘red’, harmful solvents to produce a
+kilogram of Viagra in 1990, today we
+need only 6.3 litres of less dangerous
+‘amber’ solvents, with the hope being
+that we might need an even smaller
+amount of the ideal ‘green’ solvents in
+the near future.
+Will Prince
+A brave new molecular world
+Lasers may hold key to cryptography
+“The generation of random numbers
+is too important to be left to chance.”
+This was the title of a 1970 article by
+recognised expert in pseudo-random
+number generation Robert R Cov-
+eyou. There are many controversies
+surrounding the various algorithms
+used to generate numbers with the il-
+lusion of randomness, but one Ottawa
+physicist appears to have developed a
+way to generate them truly randomly.
+Ben Sussman, who works with
+quantum technologies at the National
+Research Council, used laser pulses
+which last only a trillionth of a sec-
+ond to demonstrate the generation of
+random numbers. The laser pulse is
+fired at a diamond and the emergent
+photons are measured. Due to quan-
+tum vacuum fluctuations, the quan-
+tum state of the photons which were
+fired are changed. This is due to the
+microscopic flickering of the amount
+of energy in a minute point in space.
+If the method of transforming an
+entity is known to an attacker, the
+cryptographic system the technique
+is applied to can be compromised.
+Sussman commented on the photons’
+changes of state, explaining “what
+quantum mechanics tells us is that
+it’s against the laws of physics to
+know”.
+Random numbers are used to seed
+cryptographic systems worldwide.
+They are used in the core security
+algorithms which provide two way
+protected communication, site certi-
+fication and digital signatures. These
+features can then be applied to secure
+website browsing, credit card trans-
+actions and other security-intensive
+elements of the digital world.
+In cryptography, Kerckhoffs’s prin-
+ciple states that only the key of a
+security system needs to remain se-
+cret and not the algorithm. In many
+cases, digital keys are formed from
+outputs given by pseudo-random
+number generators. If these genera-
+tors contain flaws, the keys will con-
+tain inherent vulnerabilities to attack.
+Alexander Karapetian
+The Diffie-Hellman Key Exchange system relies on random numbers
+Phillips shared the case of azox-
+ystrobin, a seemingly paradoxical
+fungicidal fungus discovered through
+blue-sky research by Czech and Ger-
+man chemists. Having found that trees
+with the fungus strobilurin (the active
+agent in azoxystrobin) grew no other
+fungi, research was undertaken that
+led to a frantic patent battle between
+Sygenta and BASF. The former won,
+handing in their application 24 hours
+before the latter, and Sygenta an-
+nounced annual azoxystrobin sales of
+over $1bn in 2008. Used as a fungi-
+cide in wheat, vegetables and a wide
+range of commonplace foodstuffs,
+Phillips hypothesised that without the
+chemical (and the grasp of chemistry
+to harness its properties) we would see
+food prices increase by half overnight.
+Shifting from the kitchen table to
+the operating table, Prof. Phillips’
+most impressive examples of frontier
+chemistry came in medical applica-
+tions. Photodynamic therapy (PDT)
+enables the treatment of malignant tu-
+mours through photosensitive agents
+that attach exclusively to the tumour
+tissue and bombard it with singlet
+oxygen. Talking through the case of
+a patient with a tongue tumour, Prof.
+Phillips pointed out that two decades
+ago, treatment would have certainly
+resulted in removal of the tongue, ren-
+dering the patient speechless for life.
+With PDT, a technique developed
+from research in bio fluorescence, a
+patient can expect to see the tumour
+in remission within a week of treat-
+ment and be fully healed in a matter
+of months.
+If things couldn’t get any better, the
+procedure is minimally invasive and
+tumours hold no possibility of devel-
+oping a resistance.
+Naturally accustomed to political
+persuasion through his role at the
+RSC, Phillips took every opportunity
+to impress upon his audience the mer-
+Sussman’s method of taking advan-
+tage of quantum mechanical effects
+to produce random numbers has the
+potential to produce large quantities
+of random numbers very efficiently,
+with the added benefit that the meth-
+od of generation, how the quantum
+states were changed, is impossible to
+deduce.
+The one-time pad cipher, known to
+be information-theoretically secure,
+is a mathematically perfect means of
+securing information. The drawbacks
+are in the effort required for its suc-
+cessful implementation. One require-
+ment is the use of truly random num-
+bers as keys. Sussman hinted at this
+in his comments, noting “a truly ran-
+dom number generator will provide
+impenetrable encryption for commu-
+nications”.
+While some scientists continue to
+understand more about the myster-
+ies of quantum mechanics and probe
+what we can and cannot know math-
+ematically, others utilise the latter to
+benefit those requiring secrecy.
+its of blue-sky research – how whilst
+today it may seem aimless, it will no
+doubt form the springboard for the
+great leaps of tomorrow. Given the
+current economic climate, he pro-
+posed that support for the sciences
+in the UK would sow the seeds of fu-
+ture prosperity, highlighting that even
+today apparently trivial discoveries
+made two decades ago are finding
+life-enriching and economically ben-
+eficial applications. Are you reading,
+Mr. Cameron?
+An explanation of Viagra’s applica-
+tions and an anecdote involving Prince
+Phillip later, the look of confusion on
+the faces of school students quickly
+changed to one of horror, probably as
+a result of mental images that the wiz-
+ened prince and a sex-drug together
+might evoke.
+Whilst some of the more virile
+among us might question whether the
+efficient production of Viagra rep-
+resents a key global challenge, the
+importance of securing a safe, envi-
+ronmentally friendly food supply is
+undoubtable.
+“support for the
+sciences in the UK
+would sow the seeds
+of future prosperity”
+Professor David Phillips, president of the Royal Society of Chemistry
+

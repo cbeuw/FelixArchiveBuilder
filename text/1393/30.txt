@@ -1,0 +1,186 @@
+games.felix@imperial.ac.uk
+31
+Friday 25 January 2008 felix
+Games
+Similarities
+Imperishable resource system
+Emphasis on macromanagement rather than micromanagement
+The commanders return to the fray
+Fantastic orchestral soundtrack by Jeremy Soule
+Economy is your lifeline, protect it
+Ditto for your commander, protect him/her
+Differences
+Now anti-air guns can’t fire on ground units and vice-versa
+Three races rather than two
+Base management system has been made more complicated and
+detailed
+Scale [in Supreme Commander] is even more epic
+More in-depth technology trees
+Many a moon ago there was a game
+that people hailed as ahead of its time;
+its name is Total Annihilation (TA).
+The game featured so many radical
+additions that many would consider
+to be standard in modern games like
+terrain blocking line of sight, as well
+as intelligent skirmish AI. Fans of the
+game were left disappointed when the
+developers disbanded and rights to the
+game were sold off, leaving them with-
+out a hope for a true sequel. However
+the light shone upon humanity and
+the lead developer of the original TA,
+Chris Taylor, started work on his lat-
+est project, which he dubbed Supreme
+Commander.
+Using TA as a starting point and up-
+ping the scale the battles are fought on
+is the first line to say about Supreme
+Commander. Everything about the
+game has been streamlined and tweaks
+to the control systems allows the con-
+trolling of several armies numbering
+in the hundreds which are scattered
+all over the map. One my personal fa-
+vourite additions is called the “strategic
+zoom”, as in Supreme Commander the
+normal view may be zoomed out until
+the whole map is visible and each unit
+is simply displayed by a little coloured
+token. Other more minor changes to
+the control system includes things like
+coordinated attacks, where one army
+can wait for another to move into po-
+sition before making its move and re-
+peating build queues have been fleshed
+out a lot. The overall control system
+allows full control over both your epic
+army that spans miles across while still
+keeping an eye on your airforce that
+would make the Spartans fight in the
+shade.
+The economy system from TA has
+alsoreturnedforitssuccessor,SupCom.
+There are simply two resources in the
+game mass (TA has metal instead) and
+energy, and each one has a different re-
+source deposit on the map (mass/met-
+al deposits and hydrocarbon/geother-
+mal vents). One of the major features
+of SupCom and TA is that resources
+don't run out as the game goes on, the
+resource deposits just keep on gener-
+ating funds to finance rebuilding your
+army. Coupling this with the fact that
+half of your economy doesn't rely on
+these deposits but instead on standard
+power generators and mass fabricators
+means that as the game goes on rather
+than players becoming more and more
+careful with money they instead start
+to build larger and larger armies, and
+those armies don't stop becoming
+larger and more dangerous until some-
+one takes a hefty hit to their economy
+which normally pushes them out of
+the game. However, do not be fooled
+into thinking that both resources are
+of relatively equal value like wood/gold
+in WarcraftIII and minerals/vespene
+in Starcraft, energy in Supreme Com-
+mander is more like power in C&C
+games, as things like shield generators,
+radars and turrets require it to carry on
+running.
+So Supreme Commander allows ar-
+mies far larger than the ones seen in
+Total Annihilation to be built and man-
+aged with any sort of effectiveness, its
+worth mentioning some of the things
+that make lots of difference in small
+numbers. First up is the Commanders
+themselves still return in all of their
+base building glory. At the start of each
+game each player only starts off with
+a single commander which in turn is
+used to produce factories and an econ-
+omy, and the final victory condition in
+the game is to kill off your opponents
+commander. The commanders them-
+selves have had a few tweaks, as they
+start out weaker than their TA coun-
+terparts but can be upgraded to fur-
+ther specialise at a particular role, such
+as becoming a dedicated combat unit
+or perhaps an engineering powerhouse
+capable of building a wall of turrets in
+a minute. The other units that make a
+difference even in small numbers are a
+call back to the TA expansion, the Core
+Contingency, which brought in the
+Core Krogoth. For those who haven't
+played TA:CC the Krogoth is a mas-
+sive unit, magnitudes above all others
+in terms of armour, size and firepower,
+and capable of taking out small armies
+even without support. Supreme Com-
+mander takes this single unit a step
+further and adds 3 experimental units
+to each race, each one unique in its
+battlefield role and capable of taking
+a small army if its fighting on its own
+battlefield. Some of the experimentals
+further the epic numbers strategy de-
+spite only being a single unit, as they
+can function as a mobile factories, set-
+ting up mobile command posts and
+pushing out units in the field to further
+fortify themselves.
+With such a focus on economy, Su-
+preme Commander still keeps the pow-
+erful base defences of TA to stop errant
+harassment of your base. However, like
+in TA they can still be brought down
+with a suitable application of force,
+whether its launching 5 nukes at his
+lines to overwhelm his missile defence
+systems, or doing a quick strike by a
+large bombing fleet to disable his shield
+generators. Also worth mentioning is
+the effectiveness of artillery, which puts
+the ranges displayed in other games to
+shame. A single artillery cannon often
+has minimum ranges similar to a nor-
+mal units maximum ranges, with shells
+flying between bases or onto oncom-
+ing armies a common sight.
+The unit strategy has been sub-
+tly altered since TA, as now there is
+a fixed divide between anti-air and
+anti-ground attacks so now you have
+to remember to bring AA flak guns or
+fighter support with your army. On a
+more personal note I miss seeing the
+sight when a scout flies above my army
+and I see rockets and artillery shells fly
+everywhere as my units try in vain to
+land a hit on the agile aircraft (just be-
+cause everything can attack everything
+doesn't mean its any good at it).
+So overall Supreme Commander
+holds everything that TA holds dear,
+while still upping the ante and tighten-
+ing the control system. The fact that
+all the cool stuff returns, even if it may
+have been renamed or altered slight-
+ly, with a whole host of new features
+added makes Supreme Commander
+a worthy successor to Total Annihila-
+tion. For those who haven't played to-
+tal annihilation, it probably wouldn't
+hurt to think of Supreme Commander
+as a cross between C&C Generals and
+the tactical combat on the Total War
+games.
+Alex Stubley
+

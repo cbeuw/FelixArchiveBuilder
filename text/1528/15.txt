@@ -1,0 +1,245 @@
+TECHNOLOGY
+Technology Editor: Jason Parmar
+technology.felix@imperial.ac.uk
+Windows 8 out TODAY
+indows 8 came
+out today, and the
+media world is
+buzzing to see if
+this will make or
+break Microsoft’s future. In the past Mi-
+crosoft consumers faced more choices
+of varieties of Windows than in a trip
+to Subway! Starter, Home Basic, Home
+Premium and, and, and, were often sub-
+ject to intense discussion of suitability
+and productivity. This time round, Win-
+dows 8 only comes in 3 varieties with
+very similar capabilities, which seems
+to be a plus. However, the big question
+is “what is the diﬀerence” and “what va-
+riety do you, as a student, want?”
+Before we go into a deep anal-
+ysis, I do have to warn you that you can-
+not actually purchase the RT (standing
+for “Runtime”) standalone. So, if you re-
+ally like this ﬂavour of windows 8, then
+you will have to buy a laptop, hybrid
+or tablet that has this installed from
+the oﬀ. Fortunately for you, since RT is
+cheaper to license for Microsoft, these
+devices will most likely cost less.
+So how does each ﬂavour
+look? Actually, they all look identical
+with their metro-style interface and
+multi-coloured slabs. This “metro” (al-
+though not oﬃcially called metro due to
+German ﬁrm Metro AG complaining)
+interface is Microsoft’s bid to remain
+current and cool, and will be uniform to
+phones, tablets and computers. How-
+ever Windows 8, and the Pro version,
+will both be able to revert to the desk-
+top interface that we have loved and
+used since it ﬁrst came out in Windows
+95, so if you are not sure about metro, at
+least you do get to go back to old times
+once in a while. Sadly, Windows RT is
+limited to the new interface, so if you
+are addicted to your beloved old-school
+interface, this is strike one against RT.
+What will they be able to do?
+Let’s start oﬀ with RT. It is the “cheap-
+est” version, and thus comes with the
+least amount of features. Surprisingly
+though, Microsoft Oﬃce (i.e. Word,
+Excel etc) is thrown in with this variety,
+which is very attractive, as it means be-
+ing able to actually do work on a tablet/
+hybrid. This is about it for the pros for
+RT, as it is quite limiting. Any programs
+that you want to run that are either old-
+er, or do not come from the windows
+app store, will not run. This means no
+Steam, Chrome/Firefox (circle your
+preference), iTunes etc. etc. (the list is
+endless), will not run on your device.
+This is depressing for gamers, as well as
+people who want any kind of freedom
+in their environment. Therefore Win-
+dows 8 (or Pro) will be better for you,
+because here at least you will be able to
+run alternate programs, as well as met-
+ro-style apps.
+So why would Microsoft re-
+lease such a limiting OS? It’s all about
+hardware and the corresponding price.
+RT is based on ARM (Chips built by the
+British company ARM Holdings), and
+these processors are not as powerful
+as their Intel cousins. ARM processors
+cannot run x86, upon which most pro-
+grams are built. However ARM chips
+are cheaper, and thus Microsoft was
+able to introduce a cheaper OS. The
+other two varieties run on Intel chips,
+and thus there is no change from the
+norm.
+Now, which one is for you?
+Personally, I would say that RT is for
+those in the market for a new device,
+who don’t really care that much about
+productivity or usability, and who want
+to have the bonus of having Oﬃce pre-
+installed. Since you will not be able to
+buy RT on its own, keep in mind that
+you have to keep the price of your tab-
+let/phone in mind, which might not be
+that cheap. The normal Windows 8 /
+Pro is for all those who are happy with
+their current computer and want to
+simply upgrade to the latest instalment
+(about £50 - £80).
+Most of you who will upgrade will
+probably want to keep most of their old
+programs, so this seems to be the logi-
+cal choice!
+Max Eggl gives you the low-down on Windows 8, RT & Pro
+FRIDAY 26 OCTOBER
+Some of us are not normal people (but
+then again, we are Imperial students).
+We live on the bleeding edge of technol-
+ogy where we thrive on using the latest
+and greatest of gadgets and software.
+We readily consume new technology
+and are willing to learn and adapt. In
+case of an interface paradigm change,
+it’s probably true, more often than not,
+that after a short period of lower pro-
+ductivity whilst getting used to the new
+UI, it will become second nature. We
+are also prepared to deal with rough
+edges in the latest software and we
+grow acclimatised to their quirks and
+oddities.
+The general user is not like this. And
+this is why Windows 8 is probably go-
+ing to cause us, the more “techy” folks,
+more grief than it’s worth when it’s re-
+leased today.
+Windows 8 comes with a whole new
+set of user interface (UI) paradigm and
+design known as Modern UI (formerly
+known as Metro). It is obvious that Mi-
+crosoft had the touch screen user in
+mind when it was designing the new
+UI: the gestures and the hot corners all
+make sense when you think of them in
+terms of touch. It takes time to discover
+and get used to the new paradigm. But
+not everyone like such radical changes,
+especially if they have a learning curve
+that aﬀect productivity and remove fa-
+miliarity.
+So now that Windows 8 is in the
+wild, you might start to get calls for
+help when these users stumble upon
+Windows 8 for the ﬁrst time. You will
+get pleas to give tutorials on how to
+use Windows 8. You’re going to get
+swamped with questions asking where
+they could ﬁnd a certain feature that
+existed in a now-removed place. It’s bad
+enough if you are a ﬁrst time user walk-
+ing around the terra incognita of Win-
+dows 8 and trying to get used to it, it’s
+worse if you have been using Windows
+8 for some time and you still don’t know
+where to ﬁnd something.
+While we are, perhaps, willing to
+forgo any misgivings we have about
+Microsoft for making the changes to
+the UI once we have adapted to it, us-
+ers are probably not as willing. In fact,
+they might be unwilling to change their
+mindset or even try to adapt. Perhaps
+thisisbecausewehaveseenworsewhen
+we used the beta versions and that what
+is in the ﬁnal product is actually way
+better than it was, though probably still
+unacceptable to the general user.
+I’ll admit: these are hypothetical sce-
+narios. Whilst I have personally only
+used the consumer preview that was
+released months ago, Microsoft has,
+apparently, made some improvements
+to the UI since then. But since they
+have not made any major change to the
+UI paradigm, I am almost certain that
+these scenarios will happen once people
+get their hands on Windows 8. Tech-
+nology journalists and some users have
+already had their share of some of these
+scenarios using the release version of
+Windows 8. Time will tell. Until then,
+I’m oﬀ to be the technical support that
+I have always been amongst my friends.
+Will W8 cause us grief?
+W
+Yong Wen Chua
+It’s all about Microsoft
+Jason Parmar
+Technology Editor
+So why a whole double page
+spread on Microsoft? Just because
+I can? Well, partly that, and the fact
+that today is being tipped as Micro-
+soft’s biggest day after their boldest
+and most radical move in over three
+decades.
+As you probably know from the big
+titles above, today is the official re-
+lease date of Windows 8 and it’s the
+biggest change to the flagship OS in
+17 years, when it released the now
+vintage and retro Windows 95.
+In those days I just remembered
+Microsoft as that company that
+gave me the infamous “Microsoft
+Network”, known as MSN, which
+successfully helped me, and prob-
+ably many of you, waste countless
+hours of life as well as helping create
+cringe e-mail accounts (add me btw:
+stupidly_sexy_jason_1991_xxxo@
+hotmail.com).
+But besides giving us MSN, Mi-
+crosoft gave us the Office Suite, the
+forerunner in productivity applica-
+tions, the Xbox 360, the fourth best
+selling games console of all time and
+of course Windows, the most used
+Operating System in the world (with
+a huge 90% market share just 5
+years ago).
+But they haven’t been on their
+greatest form as of late. They’re see-
+ing themselves struggling against
+the much nimbler Google and Apple.
+So they’ve been hard at work, trying
+to completely reinvent themselves,
+or at least the public opinion of them.
+Windows 8 is the Redmond giants
+make or break to grab back market
+share and prove to the world that we
+need Microsoft.
+This week two of our writers who
+have had a play around with Win-
+dows 8 are here to give you their in-
+sight to the OS and we also let you
+know the difference between the
+three iterations: Windows 8, Win-
+dows 8 RT and Windows 8 Pro.
+I’m going to start a white background hiring service. I’ll make millions.
+15
+

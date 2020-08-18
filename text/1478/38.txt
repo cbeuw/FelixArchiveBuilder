@@ -1,0 +1,262 @@
+SPORT
+38 felix
+FRIDAY 14 January 2011
+sport.felix@imperial.ac.uk
+Sports Editors: Jovan Nedic
+David Wilson
+Felix Sports League
+sponsored by
+Team P W D L F A Diff Index
+1 Basketball M1 5 5 0 0 374 264 110 5.00
+2 Table Tennis M2 5 5 0 0 77 8 69 5.00
+3 Volleyball W1 4 4 0 0 8 0 8 5.00
+4 Volleyball M1 3 3 0 0 6 0 6 5.00
+5 Tennis W1 2 2 0 0 17 5 12 5.00
+6 Lacrosse W1 1 1 0 0 19 2 17 5.00
+7 Football M3 1 1 0 0 10 0 10 5.00
+8 Table Tennis W1 1 1 0 0 5 0 5 5.00
+9 Hockey W1 7 6 0 1 45 9 36 3.71
+10 Tennis M1 8 6 1 1 60 36 24 3.50
+11 Fencing M2 6 5 0 1 723 595 128 3.50
+12 Table Tennis M1 6 5 0 1 70 32 38 3.50
+13 Squash W1 6 5 0 1 18 5 13 3.50
+14 Lacrosse M1 5 4 0 1 83 49 34 3.20
+15 Netball W1 8 6 0 2 344 229 115 2.75
+16 Rugby M1 7 5 0 2 153 124 29 2.43
+17 Badminton M1 7 4 1 2 34 22 12 2.00
+18 ICSM Hockey W3 6 4 0 2 262 163 99 2.00
+19 Water Polo W1 1 0 1 0 4 4 0 2.00
+20 Cricket M1 5 3 0 2 984 956 28 1.40
+21 ICSM Hockey W1 5 3 0 2 21 13 8 1.40
+22 ICSM Netball W3 5 3 0 2 131 124 7 1.40
+23 ICSM Hockey M3 5 3 0 2 9 18 -9 1.40
+24 Hockey M3 6 2 2 2 6 5 1 1.00
+25 ICSM Football M1 5 2 1 2 18 13 5 0.80
+26 ICSM Badminton W1 5 2 1 2 23 23 0 0.80
+27 ICSM Badminton M1 5 2 1 2 16 24 -8 0.80
+28 Fencing W2 7 3 1 3 20 13 7 0.71
+29 ICSM Netball W1 6 3 0 3 210 199 11 0.50
+30 Netball W2 6 3 0 3 234 245 -11 0.50
+31 ICSM Rugby M3 4 2 0 2 84 143 -59 0.50
+32 Basketball W1 2 1 0 1 55 47 8 0.50
+33 Squash M4 2 1 0 1 3 3 0 0.50
+34 Hockey M2 7 2 2 3 12 23 -11 0.29
+35 Fencing M1 0 0 0 0 0 0 0 0.00
+36 Lacrosse W2 0 0 0 0 0 0 0 0.00
+37 Badminton W1 7 3 0 4 20 36 -16 -0.14
+38 ICSM Rugby M1 7 3 0 4 137 193 -56 -0.14
+39 Netball W3 5 2 0 3 139 129 10 -0.40
+40 Hockey M1 2 0 1 1 4 6 -2 -1.00
+41 ICSM Football M2 3 1 0 2 8 13 -5 -1.00
+42 Badminton M2 6 2 0 4 25 23 2 -1.00
+43 Squash M3 6 2 0 4 10 18 -8 -1.00
+44 ICSM Hockey M2 6 2 0 4 8 20 -12 -1.00
+45 Fencing M3 6 2 0 4 653 708 -55 -1.00
+46 Hockey W2 7 2 0 5 10 30 -20 -1.43
+47 ICSM Hockey M1 4 1 0 3 6 6 0 -1.75
+48 Rugby M2 8 2 0 6 136 208 -72 -1.75
+49 Cricket M2 5 1 0 4 796 795 1 -2.20
+50 Hockey M4 5 1 0 4 7 12 -5 -2.20
+51 ICSM Hockey W2 5 1 0 4 11 23 -12 -2.20
+52 Fencing W1 5 1 0 4 557 621 -64 -2.20
+53 Rugby M3 5 1 0 4 44 148 -104 -2.20
+54 ICSM Rugby M2 5 1 0 4 61 199 -138 -2.20
+55 Rugby M4 5 1 0 4 46 197 -151 -2.20
+56 Football M1 6 1 0 5 10 21 -11 -2.50
+57 Squash M2 6 1 0 5 8 22 -14 -2.50
+58 Tennis M2 3 0 0 2 0 22 -22 -2.67
+59 Football W1 1 0 0 1 1 6 -5 -4.00
+60 Water Polo M1 1 0 0 1 5 10 -5 -4.00
+61 Football M2 3 0 0 3 5 14 -9 -4.00
+62 ICSM Badminton M2 4 0 0 4 7 25 -18 -4.00
+63 Squash M1 6 0 0 6 4 26 -22 -4.00
+64 ICSM Netball W2 6 0 0 6 115 218 -103 -4.00
+5
+52 Fencing W1 5 0 557 621 64 2.20
+5
+53 Rugby M3 5 1 0 4 44 148 -104 -2.20
+5
+54 ICSM Rugby M2 5 0 61 199 138 2.20
+5
+55 Rugby M4 5 1 0 4 46 197 -151 -2.20
+5
+56 Football M1 6 0 5 10 2.50
+5
+57 Squash M2 6 1 0 5 8 22 -14 -2.50
+5
+58 Tennis M2 3 0 0 0 2.67
+5
+59 Football W1 1 0 0 1 1 6 -5 -4.00
+6
+60 Water Polo M1 0 0 5 10 5 4.00
+6
+61 Football M2 3 0 0 3 5 14 -9 -4.00
+6
+62 ICSM Badminton M2 0 0 25 18 4.00
+6
+63 Squash M1 6 0 0 6 4 26 -22 -4.00
+Charlotte Levin
+their next boat through. They had Chris locked
+and I should have sailed so that they continue
+around the course or I would overtake them.
+Foolishly I did not do this but sailed right
+into the lock they had Chris in, allowing their
+boat to overtake both of us. They were now in
+1-2 and promptly sailed off and won. Disap-
+pointed by this change of fortune we headed
+in for lunch, expecting to go out again soon.
+This was delayed by breakages to boats which
+caused racing to be stopped while they were
+repaired. Our fifth race eventually started and
+involved the most actual team racing of the
+day. I was 1st and Chris 3rd around the first
+mark. Therefore I decide to do a mark trap to
+try and get Chris past the boat behind. This
+almost worked as Chris got through. Unfortu-
+nately I was also overtaken so we were still
+in 1-3 going down the run. This is a winning
+combination, however, it is unstable as the op-
+position can easily use their boat in second to
+attack your boat in third. Therefore Chris set
+up to do another mark trap at mark three. This
+proved unnecessary as the boat in two capsized
+and I was able to sail past. Our final race of the
+day proved another easy win as Chris and I got
+1-2 while Fiona held up to opposition.
+After this it was in and time to get changed
+and warmed. Unfortunately due to the numer-
+ous delays the round robin was not finished
+for all teams before it got dark so it was an-
+nounced that it would complete on Sunday
+morning. We then headed back to our hosts
+house to get ready for the social, which had
+the theme “Where’s Wally”. This involved ev-
+eryone dressing up as Wally except for Chris
+who was volunteered to be Wanda, who is ap-
+parently Wally’s sister. This was quite disturb-
+ing. The social was a buffet meal followed by
+a night at the excellent Cardiff Union. Suffice
+to say I do not remember much of the evening
+beyond wondering back with Fiona and Iona
+when the Union closed, the others had already
+left. I was just about to get into my sleeping
+bag when a somewhat irate Iona interrupted
+me asking me to get Chris out of her bed.
+While hilarious, I can see why she was a bit
+annoyed by this.
+All too soon Sunday arrived. As we had done
+all our races on Saturday we knew we would
+not be in the first race, so we had a lie in. Ar-
+riving about an hour late I was somewhat con-
+cerned to see that racing hadn’t actually started
+yet. I was even more worried that it was even
+colder than yesterday and in the lighter winds,
+ice had formed on the SALT water of Cardiff
+Bay. While we waited for the round robin to
+finish we sat around inside and like good Impe-
+rial students either did work or read the maths
+and physics books that we had all brought with
+us.
+Eventually the round robin was finished and
+it was announced that the top six teams would
+have a round robin while the others would do
+a winner stays on competition due to lack of
+time. This was very annoying as the main rea-
+son for the lack of time was Cardiff’s slow or-
+ganisation. We were tied in second with Read-
+ing in our flight. This should have put Reading
+through on tiebreakers, even more annoying.
+However the organisers did it a weird way so
+Reading didn’t go through either.
+This now meant we had to wait even longer
+as we were near the top of the seeding, mean-
+ing we weren’t on until the end. Eventually
+we were sent out only to get onto the floating
+pontoon where changeovers were happening
+to find that one of the boats was broken. This
+involved more waiting while this problem was
+sorted. Except now we were on a freezing pon-
+toon in the middle of the water. Eventually we
+got to race which we promptly lost. We were
+4-5-6 by the first mark and a cock up from me,
+nearly taking Fiona out did not help.
+We then packed up and headed for home. Not
+too displeased with our 8th place but feeling we
+could have done much better. If you’d like to
+come sailing, we welcome experienced sailors
+and beginners alike.
+Sailors search for Wally
+....Continued from Back Page
+Imperial Fencing
+keep their run of
+victories intact
+It’s a Saturday morning in Cambridge as Im-
+perial Fencing’s first men’s team arrive at the
+sports venue. Ahead of them lays their first
+BUCS weekend of the year, with matches
+against University of Oxford, University of
+Cambridge, Bristol University and University
+of London Union (ULU).
+They’re first up against Oxford, starting with
+foil. With Chris Gilliam, Robert Shaw and Ed
+Collier on the team, they start fencing an even
+match, struggling to keep a few hits lead. Rob-
+ert unfortunately manages to injure himself
+and is replaced by the reserve Maiyuran Rat-
+neswaran, and despite the accident they win
+with 4 hits. Whereas the epeeists, Marcello Co-
+lombino, Ed Gilhead and Miles Gandolfi, also
+struggle a bit in their match but win it in the
+end, the sabreurs, Maiyuran, Henry Gann and
+Camille van Hoffelen, show their standard and
+easily win with 45-19.
+They continue in the same manner against
+Bristol, which is followed by a victory in epee.
+On the other hand, Bristol didn’t managed to
+get their full team there, considering that it
+was still before the start of term, and had only
+foilists as representatives. To compensate,
+these foilists proved themselves a bit too strong
+for the Imperial team, collecting a victory after
+a steady lead.
+Two matches down, two to go and summing
+up the results, Imperial stands strong with two
+overall victories. Last opponent for the day is
+Cambridge, and even though our foilists have
+to see themselves beaten once again after a
+hard fight, the sabreurs make it up by swiping
+the piste and winning by 45-15. As the epeeists
+take their turn, they find themselves facing a
+situation similar to the foilists, with one differ-
+ence: they half way through the match know
+that they’ve already won overall, thanks to the
+sabreurs.
+Only ULU was left for Sunday, giving the
+team a sleep in as an early reward . Once on
+the piste the sabreurs repeate their success
+from the day before. The epeeist follow their
+example, and as they reached the last match
+they had a chance of getting an even better re-
+sult than their friends. The score being 40-10,
+Marcello gets a sudden blackout and for a sec-
+ond, the team wonders what is happening as he
+loses 10 points before pulling himself together
+and finishing it off. The foilists were running
+up against a much harder task, the ULU team
+consisting of only fencers from UK top-5, and
+though fencing well find themselves defeated.
+Even though the journey home included
+troubles with the trains, the thought that all
+matched had been won kept them in a good
+mood. With only a couple of weeks to the next
+round, the last weekend of January at Ethos, it
+contributed to some extra confidence as well as
+a good start of the term and the year.
+Men’s Fencing
+DAY 1
+Imperial 1st 122 - 97 Bristol 1st
+Imperial 1st 112 - 105 Cambridge 1st
+DAY 2
+Imperial 1st 126 - 93 Oxford 1st
+Imperial 1st 126 - 81 London 1st
+

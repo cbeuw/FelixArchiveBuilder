@@ -1,0 +1,150 @@
+What's On
+Mike-lost?
+Still no indication of where the IC Union
+mascot Mike could have disappeared to.
+There has been no ransom, no telephone calls
+or secret notes. It appears that someone may
+have actually stolen it for good!
+Next Week
+Next week's issue will contain the annual
+reports of the President, Acting DP and Hon
+Sec for your delight and amusement. Don't
+miss this thrill-packed issue!
+Caption Competition
+Last week's winning caption was "Barney
+McCabe did it—how about you!" Mr Pallab
+Ghosh of Physics 2 wins the very appropriate
+prize of a haircut voucher from Jingles of
+Gloucester Road.
+Another voucher will be given to the person
+who can supply me with the wittiest suggestion
+for where Mike, the IC Union mascot could be
+and/or who has stolen it. Entries to the FELIX
+Office by 1:00pm Wednesday.
+Injury Time
+this hilarious programme will be recorded
+in the Concert Hall this Sunday at 7:15pm.
+Come along to see Grift Rhys Jones et al.
+Tickets free from the Union Office.
+Credits
+A special thank you to Martin S. Taylor and
+Jane Williams for photographs. Also Paul
+Bailey and his merry band who are still
+delivering FELIX on Fridays (you wouldn't get
+them until midday if you had to rely on me
+waking up).
+More thanks to the regular crew: Peter,
+Pallab, Soheel, Steve, Ramzi, Jez, Nick, all the
+collators, Maz and Hugh.
+Dissection puzzles. A farmer has a field which
+he wants to divide into five congruent fields for
+his five sons etc. etc. etc.
+I must admit to not liking dissection puzzles
+very much. They're mostly far too difficult for
+anyone less patient than Job, and those which
+aren't tend to require an intuitive leap before
+the solution suddenly becomes obvious.
+This week's p u z z l e , one of the few
+dissection puzzles that I find really entertain-
+ing, falls into the latter category. Some solvers
+will make the logical jump very easily, and will
+find the puzzle on the easy side; others, I
+promise, will not!
+The first diagram shows how a square with
+the corner removed can be dissected into five
+congruent shapes. If the cornerless square is
+halved along a diagonal, the resulting shape
+can also be divided into five congruent pieces,
+as shown in the second diagram. The third
+diagram does the same feat on an equilateral
+triangle with the corner missing. This week's
+puzzle is to dissect an unmutilated square into
+five congruent shapes. There is a unique
+solution.
+Solutions, comments, criticisms to me at the
+FELIX Office, please. £5 (donated by the ever-
+generous Mend-a-Bike) for the correct
+solution randomly selected at 1:00pm next
+Wednesday.
+Last Week's Solution
+20 padlocks are needed. For any three
+members of the Exec, there is at least one key
+they lack; and since everyone else has that
+missing key, every subset of three Exec
+members is associated with a different key
+which thev don't have. So there are at least6
+C 3
+keys, i.e. 20 padlocks are necessary.
+But 20 locks are also sufficient. Take each
+subset of three Exec members in turn, and
+'give everyone except them the key to one of
+the locks. This satisfies the conditins of the
+puzzle and needs 20 locks.
+Ken Morison, Chem Eng P G , was the only
+one to get it right, but honorable mentin goes
+to Gary Smith who descibed a method of
+locking Mike in a box so that four people are
+needed to open it. His method uses fourteen
+padlocks, but since it needs a box as well I felt
+Ken Morison's solution rather more sound.
+Friday, May 14
+•Baha'i Soc A G M , 12:30pm, Brown C o m m Rm.
+•Soup Run, 10:30pm, Falmouth Kitchen.
+Saturday, May 15
+•Rag Fete, 2:00pm, Queens Lawn. Prizes, fun, bar all
+afternoon, climb the Queens Tower.
+Sunday, May 16
+•Theatre workshop and cast meeting for Edinburgh
+Fringe, 2:00pm, Upper Lounge. Anyone interested will
+be made welcome.
+Monday, Mfxy 17
+• C o m m u n i t y A c t i o n G r o u p A G M , 5:30pm, Rag
+Office, top of the Union.
+•Dancing club advanced class, 7:30pm, J C R .
+Tuesday, May 18
+•Boardsaiiing Club: All coolcats who don't mind wet
+fur—come to our Tuesday meeting if you want to go to
+Mudside Lake on Wednesday or Brighton (Flat calm
+guaranteed!) at the weekend.
+•Cycling club pre-Brighton meeting. Anyone interested
+in becoming a member or even officer of the newest club
+at IC, welcome, 12:30pm, Southside Upper Lounge.
+• U N S o c A G M , 1:00pm, Union Dining Hall.
+•Liberal Club A G M , 1:00pm, Senior C o m m Rm.
+• I C C A G Soup Run, 10:30pm, Falmouth Kitchens.
+Wednesday, May 19
+•Dancing club intermediate class, 7:30pm, J C R .
+Thursday, May 20
+•Turn It O n Again (first of three programmes), 1:00
+and 6:00pm, J C R , Southside T V Lounge, Beit, Linstead,
+Weeks and Garden Halls. A browse through the S T O l C
+archives, featuring material recorded over the last
+academic year.
+INJURY TIME
+A Radio 4 revue with
+Robert Bathurst, Jimmy Mulville, Rory McGrath,
+Emma Thompson and Griff Rhys Jones
+will be recorded on Sunday, M a y 16
+at 7:15pm in the U n i o n C o n c e r t Hall
+Tickets available from Union Office.
+H A L D A N E LIBRARY
+sale of ex-library books
+begins Monday
+9:30 to 5:30
+To run to the end of term with new books
+added every week!
+Southside Shop: At last what you've all been
+waiting for—IC sweatshirts and T-shirts. We now
+have a large stock of colours and sizes. Prices:
+Sweatshirts £6; T-shirts £2.50. Don't miss the
+sportswear sale with reductions on all racquets
+and training shoes plus many miscellaneous items.
+Beer and Bangers
+Lady Flowers and the IC Wives Club
+invite you to Beer and Bangers at 170
+Queensgate, Wed May 26. Names to
+Jen in the Union Office by 5pm, Friday
+May 21.
+FELIX is published by the Editor for and on behalf of the Imperial College Union Publications Board, and is printed by the Union Print Unit, Prince
+Consort Road, London SW7 2BB (589-5111 ext 1048 int 2881) Copyright FELIX 1982. Editor: M A Smith, Advertising Manager: S M Gibtin.
+

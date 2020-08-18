@@ -1,0 +1,225 @@
+Thinking of getting a computer to help you? It may create more problems than it solves. Liz
+Warren explains why 'information systems' are a minefield for the unwary.
+The Dream Machine?
+The term 'Information System' can equally be applied
+to a humble card index as to a multi million pound IBM
+mainframe running sophisticated software. But the
+last thirty years have seen unprecedented growth and
+increased complexity in the area of 'information
+systems', from the punched card systems of the
+fifties to the 'fifth generation' languages and 'artificial
+intelligence' of the late eighties. At the same time,
+there has been a revolution in the general level of
+'computer literacy' fuelled by the advent of the home
+computer and pledges by certain companies
+(promoted by certain computer manufacturers, who
+might be described as having an interest) to have 'one
+per desk'. Everybody can believe they are a computer
+expert. Or can they?
+With the advent of more sophisticated 'information
+systems' has come an increase in incomprehensible
+jargon. The non-specialist is left fumbling with MIPS
+(million instructions per second), EPROM (Erasable
+Programmable Read Only Memory) and CASE
+(Computer Aided Software Engineering). The non-
+specialist is usually the person, such as the
+departmental manager, who is responsible for
+acquiring the 'information system', whether it be an
+accounts package or an ordering system. The rise of
+jargon, and the lack of explanation by those who
+understand the jargon to those who do not, can be
+a major stumbling block in the choice and
+implementation of the 'right' information system.
+Without the 'right' choice, the system is bound to fail
+to some degree.
+The jargon and mysticism of the experts has led
+people to over-estimate the potential of a new
+'Information System'. Managers frequently expect, or
+are led to believe by computer specialists and
+consultants, that the 'white heat of technology' will
+not only solve their current data processing problems,
+but also, in some mysterious way enhance and
+improve their whole working lives. One senses they
+are sold it with some vague promise that the system
+will generate orders in a stagnant market, solve all
+their staff disputes and even make a jolly nice cup of
+tea! Given that only rarely is a totally appropriate
+system installed, managers feel even more
+disillusioned because the system has not lived up to
+their unrealistic and inflated expectations.
+Why do systems not live up to those expectations?
+A prime reason is that the system simply does not do
+what it is supposed to do. This may seem subtle, for
+example an accounts package does not produce a
+desired report: it may be possible, with the
+expenditure of yet more money, to 'fix' the problem
+by paying someone to add another program. (This is
+evidence of an organised mafia amongst computer
+programmers to build in 'bugs' so that they or their
+colleagues can be kept in work sorting them out.) This
+sort of inability to provide the information required by
+management to help it take decisions is actually a
+major failing by the system, since this providing such
+support is one of its main roles.
+Alternatively, the system may be completely
+unsuitable, in scale or methods, for the task in hand.
+Where one company installed a complicated
+automatic cheque generation system which produced
+about four hundred cheques a month, another
+company, which produced that many cheques in a
+Page 74
+week, could operate far more efficiently using a
+manual system.
+A system may also be suitable for the short term
+needs of the company, but unable to cope with long
+term development plans, which may produce more
+data than the system is capable of handling. One
+company originally had a stock control system for
+about 100 different types of stock. When they
+expanded, this increased to about 2000 different
+types of stock. The system which had worked well
+when handing small numbers simply clogged up and
+became unwieldy when faced with the much larger
+number.
+So, why are systems often so wide of the mark?
+This is mainly due to a lack of information and
+communication, ironic in an industry so obsessed with
+the processing of information and data. The system
+may have been incorrectly specified, perhaps because
+the people requesting the system did not fully
+understand their current system and their future
+needs, or perhaps because the analysts from the
+system suppliers did not understand the explanations
+of their clients. (Believe me, it's quite possible for
+analysts, when faced with a simple procedure for
+deducting 10% of an invoice to be paid at a later date
+- quite common practice in engineering firms - to turn
+this into a system which added 10% to every invoice.
+I've seen it done by a 'reputable' software house who
+were official agents for IBM.) Although the analysis
+of requirements is frequently seen as very expensive,
+especially as part of a 'preliminary' study, money
+spent here is usually well invested and can help to
+avoid major problems arising later.
+Another reason for failure is the 'gadget' attraction
+that specialists can imbue systems with: 'For only a
+little more money, it can do this, this and this,' they
+may declare, impressing their client with technology
+which may be irrelevant or, even worse, actually
+damaging to the way the client wishes to work.
+Finally, there is a large market for 'off the peg'
+systems, or 'packages'. While some packages are
+excellent and live up to their advertising puff, many
+are written to suit everybody and frequently suit
+nobody.
+Even assuming that the system has successfully
+avoided the pitfalls described above, it is likely that
+it has not been considered in the wider context of the
+organisations overall information systems needs. An
+example is the engineering company which had
+recently acquired an IBM mainframe for its accounts
+and costing system. The department responsible for
+tendering for contracts was at the same time installing
+a computerised version of its tendering system, based
+on IBM Personal Computers. When the company won
+a contract, the tender became the budget for the
+contract and was transferred to the accounts costing
+package. To do this the data had to be re-entered by
+hand onto the accounts mainframe. Both systems
+were excellent in their way, but completely
+incompatible. The data even had to be recoded
+because the two departments used different codes for
+each part. No-one had considered that the large
+investment in both systems should be coordinated to
+ensure that they worked harmoniously.
+The investment in and 'return' from systems is
+another area where systems are frequently
+disappointing. A study by TRW, one of the leading
+software contractors in the US, has shown that initial
+estimate for the cost of a system can be anywhere
+between a quarter and four times the actual cost.
+While you may be happy if your system costs one
+quarter of what you expected, you are not likely to
+be very leased if it takes four times as much to make
+it even do part of what you wanted. The reasons for
+this uncertainty lie in the very nature of software:
+without a specific knowledge of the system
+unavailable before the system is almost fully
+developed, the cost of, for example, programming,
+can only be guessed.
+Efforts can be made to improve the estimate of
+costs, using for example 'software metrics' which
+measure either a characteristic of the software, such
+as the estimated number of lines of code, or
+something about the software production, such as the
+number of man hours used in a certain phase of the
+development of the system. From these
+measurements and estimates, forecasts about the
+system can be made which may be more accurate
+than simple guesswork. However large scale
+computer systems are still characterised by overruns
+on costs and late deliveries.
+Another popular misconception is that by spending
+money on information systems, companies can save
+money. Suppliers, obviously interested in selling their
+products, will make claims for 'increased productivity'
+or 'throughput' which can be totally unfounded.
+Management consultants Price Waterhouse have
+indicted that 'cost justification studies with the
+supplier aren't really worth the paper they ar written
+on. It's in the interests of the supplier to make the
+figures look good'.
+A forgotten aspect in many information systems
+when they are being designed is the needs of the end
+users. The VDU operators who have to input the raw
+data seemed to be consulted rarely during the planning
+and specification stage. They often find the new
+system inflexible, awkward and irritating. They may
+find it difficult and bewildering to use. Retraining is
+often neglected and poorly trained staff who do not
+understand the system properly are likely to be a major
+cause of machine failure - simply through pressing the
+wrong key at the wrong time. Steve Jobs built the
+market for the Apple Macintosh on its ease of use and
+by providing a standard 'user interface' or way in
+which the users interact with programs. This results
+in low training costs and almost immediate
+productivity. IBM have developed a similar strategy
+recently, called the Standard Applications
+Architecture, to be implemented by software
+developers on some of their machines.
+As an interesting diversion, it is amusing to note just
+how many supposedly computer literate people are
+really rather frightened of computers. If something
+goes wrong, they will invariably claim, 'I never
+touched it!'. It usually turned out that they pressed
+keys X and Y in the wrong order and the system fell
+over and waved its legs in the air. This is the
+designer's problem, not the operators, but from the
+way people talk and react, you'd think it was the other
+way around.
+So if many of the problems associated with systems
+failure are so easily avoided, just why are so many
+unsuitable systems implemented. The fault rarely lies
+with the technology itself, but with those who
+manipulate it. Many schemes start off as private
+'babies' for certain managers or departments, who
+see them as ways of gaining power over other
+managers or departments and who push them through
+regardless of their merits. Clients are also frequently
+victims of their system suppliers, who are interested
+in selling more of their products (and ensuring a steady
+stream of system support work) rather than satisfying
+their customers exact needs. 'Impartial' management
+consultancies these days are quite likely to have their
+own systems houses under their wings and can
+promote the 'best' solution because it is the best for
+their own company, not the client's company.
+Information systems are not inherently doomed to
+failure, although at times they may seem to be. But
+careful management, and an examination of the real
+needs and motives of those involved, are and will
+continue to be an integral part of their successful
+implementation.
+Page 75
+

@@ -1,0 +1,523 @@
+sport.felix@imperial.ac.uk
+30 Friday 13 March 2009
+felix
+Sport
+31
+felix
+Friday 13 March 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 10 10 0 0 88 12 76 100 5.00
+2 Volleyball Women's 1st 8 8 0 0 17 1 16 100 5.00
+3 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+4 Fencing Women's 1st 10 9 0 1 1317 1067250 90 4.10
+5 Fencing Men's 1st 10 9 0 1 1322824 498 90 4.10
+6 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+7 Lacrosse Women's 1st 11 9 0 2 162 43 119 82 3.36
+8 Hockey Men's 1st 11 9 0 2 59 16 43 82 3.36
+9 ICSM Netball 3rd 11 9 0 2 409 210 199 82 3.36
+10 ICSM Netball 2nd 10 8 0 2 365 195 170 80 3.20
+11 Table Tennis Men's 1st 14 11 0 3 154 81 73 79 3.07
+12 Squash Men's 2nd 9 7 0 2 28 15 13 78 3.00
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 12 9 0 3 404 226 178 75 2.75
+15 Hockey Women's 1st 14 9 1 4 51 30 21 64 2.21
+16 Basketball Men's 1st 9 6 0 3 658 577 81 67 2.00
+17 ICSM Hockey Women's 1st 13 8 1 4 56 28 28 62 2.00
+18 Hockey Men's 3rd 10 4 4 2 19 25 -6 40 2.00
+19 Hockey Men's 4th 8 4 1 3 19 23 -4 50 1.25
+20 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+21 Basketball Women's 1st 9 5 0 4 417 383 34 56 1.00
+22 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+23 Hockey Men's 2nd 11 6 0 5 41 35 6 55 0.91
+24 Football Men's 2nd 9 4 1 4 20 27 -7 44 0.67
+25 ICSM Football Men's 1st 9 4 1 4 15 20 -5 44 0.67
+26 Tennis Men's 2nd 11 5 1 5 42 59 -17 45 0.64
+27 Rugby Union Men's 2nd 16 8 0 8 332 322 10 50 0.50
+28 Fencing Men's 2nd 8 4 0 4 965 897 68 50 0.50
+29 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+30 ICSM Hockey Women's 2nd 9 3 2 4 23 31 -8 33 0.33
+31 Football Men's 1st 10 4 1 5 20 24 -4 40 0.20
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Rugby Union Men's 3rd 12 5 0 7 207 229 -22 42 -0.25
+34 Badminton Men's 2nd 8 2 2 4 29 35 -6 25 -0.25
+35 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+36 ICSM Rugby Union Men's 2nd 13 5 0 8 212 210 2 38 -0.54
+37 ICSM Rugby Union Men's 3rd 11 4 0 7 130 264 -134 36 -0.73
+38 ICSM Rugby Union Men's 1st 15 4 1 10 256 401 -145 27 -1.20
+39 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+40 Hockey Women's 2nd 10 2 1 7 10 44 -34 20 -1.60
+41 Football Men's 3rd 8 2 0 6 14 26 -12 25 -1.75
+42 Football Women's 1st 9 2 0 7 11 32 -21 22 -2.00
+43 ICSM Hockey Women's 3rd 8 1 1 6 10 38 -28 13 -2.13
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 ICSM Hockey Men's 2nd 10 2 0 8 15 18 -3 20 -2.20
+46 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+47 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+48 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+49 ICSM Hockey Men's 1st 9 1 0 8 15 32 -17 11 -3.00
+50 Netball 3rd 10 1 0 9 113 351 -238 10 -3.10
+51 Rugby Union Men's 4th 13 1 0 12 132 552 -420 8 -3.31
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Netball 1st 9 0 0 9 187 341 -154 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+Saturday 7th March
+Football
+ULU
+Men’s 1st 1
+SOAS Men’s 1st 2
+Men’s 2nd 1
+Royal Holloway Men’s 1st 4
+Men’s 3rd N/A
+Kings Medicals Men’s 1st N/A
+Men’s 5th 1
+Queen Mary Men’s 3rd 4
+Sunday 8th March
+Hockey
+ULU
+Men’s 1st 5
+Kings Medicals Men’s 1st 1
+Men’s 2nd WALKOVER TO
+Goldsmiths Men’s 1st IMPERIAL
+Men’s 4th 3
+King’s College Men’s 2nd 4
+Women’s 1st 4
+Imperial Medicals Women’s 1st 2
+Women’s 2nd 1
+St George’s Women’s 2nds 3
+Rugby
+Men’s 2nd 15
+University of Essex Men’s 1st 21
+Men’s 4th 11
+University of Surrey Men’s 2nd 20
+Monday 9th March
+Netball
+ULU
+Women’s 1st 34
+University College London 2nds 32
+Women’s 3rd 45
+London School of Economics 6th 0
+Wednesday 11th March
+Badminton
+Men’s 2nd N/A
+University of Surrey Men’s 1st N/A
+Basketball
+Men’s 1st N/A
+Canterbury Christ Church Men’s 1st N/A
+Women’s 1st N/A
+St George’s Medical School 1st N/A
+Fencing
+Men’s 1st 135
+Aberystwyth University Men’s 1st 71
+Men’s 2nd 135
+University of Portsmouth Men’s 1st 76
+Football
+Men’s 2nd 1
+RUMS 1st 4
+Men’s 3rd 2
+London South Bank 3rd 4
+Women’s 1st 1
+University of Surrey 1st 2
+Men’s 4th ULU 1
+LSE 4s ULU 2
+Men’s 7th ULU 4
+King’s College 6th ULU 0
+Hockey
+Men’s 1st 2
+Canterbury Christ Church Men’s 1st 3
+Men’s 3rd ULU CANCELLED
+RUMS 2nd ULU CENCELLED
+Men’s 4th 4
+University of Portsmouth 5th 0
+Women’s 1st 2
+Brunel University Women’s 2nd 1
+Netball
+Women’s 1st 21
+Canterbury Christ Church 1st 28
+Women’s 2nd ULU
+Royal Holloway 3rd ULU
+Women’s 3rd 15
+Thames Valley University 1st 33
+Rugby
+Men’s 2nd 69
+Middlesex 1st 0
+Men’s 3rd 7
+Kingston University Men’s 2nd 43
+Tennis
+Men’s 1st 7
+University of Reading 1st 3
+Thursday 12th March
+Squash
+Men’s 2nd
+London School of Economics 1st
+Friday 13th March
+Table Tennis
+BUCS Cup
+Men’s 1st
+University of York 1st
+Volleyball
+BUCS Cup
+Women’s 1st
+Oxford University 1st
+Saturday 14th March
+Fencing
+BUCS Cup
+Women’s 1st
+University of Birmingham 1st
+Fixtures & Results in association with Sports Partnership
+Football
+Men’s 2nd ULU
+Royal Holloway 2nd ULU
+Men’s 3rd
+Kingston Uni Men’s 5th
+Volleyball
+BUCS Cup
+Men’s 1st
+University of Southampton 1st
+Sunday 15th March
+Football
+ULU
+Women’s 1st vs City University London 1st
+Rugby
+ULU Cup
+Men’s 2nd vs UCL Men’s 2nds
+Monday 16th March
+Netball
+ULU
+Women’s 1st vs Royal Holloway 1st
+Women’s 2nd vs Univercity College London 4th
+Women’s 3rd vs Imperial Medicals 4th
+Waterpolo
+ULU
+Imperial Mixed 1st vs King’s College Mixed 1st
+The Imperial College Handball Club
+had to settle for fifth place in the Uni-
+versity Handball Championships, de-
+spite impressive performances in the
+group stages and words of praise from
+the British Handball Association.
+On the dawn of Saturday the 28th of
+February, 9 brave warriors made their
+way to Nottingham in order to attempt
+what is believed to be impossible. Dis-
+rupt the well established Handball hier-
+archy in the UK. The 5am wakeup call
+and the training session from the night
+before still in our bones, we all man-
+aged, to get on the train in time. Ar-
+riving slightly ahead of schedule, gave
+some of us the opportunity to discover
+the limited wonders of Nottingham and
+locate the nearest pub.
+WestartedoffagainstcombinedGlas-
+gow/Strathclyde, who won the Scottish
+league title in December and have a
+good reputation. Our aggressive but
+tiring five-one defence gave Alex Hyun
+opportunities to frequently steal the
+ball and interrupt the opponents built-
+up. In addition to that, some clinical
+finishing by Arthur Gauriot and Adam
+Zwierzinsky helped us claim our first
+ever victory in a major competition.
+After a short break, it was our turn to
+play title favourites Oxford. We man-
+aged to claim the first goal in very tense
+opening moments and shortly after,
+Ruben Freytag scored what has to be
+the goal of the tournament. However,
+Oxford got back in the game quickly
+and outran us on the counter attacks to
+claim a convincing victory.
+Warwick University was up next, de-
+spite participating in Division 2, they
+were unable to win a game so far. We
+were eager to win and quickly raced to a
+5:0 lead after only a few minutes thanks
+to solid performances from Manuel
+Castro, Ignacio Vazquez and Stefan
+Bauer in goal, who saved all 4 penalty
+throws awarded to Warwick in that
+game. Warwick however, fought back
+to an 8:8 with only a few seconds to go,
+so that only a fine throw from the wing
+in the last seconds secured us 2 vital
+points.
+In the meantime, Oxford surprisingly
+dropped points against Glasgow and
+has been held to a draw by Nottingham,
+which meant that we could go top of
+our group if we beat the host team. Un-
+der such pressure, we showed our qual-
+ity and laboured us to a 6:3 lead with
+Thibault Faninger scoring some fine
+goals. Nottingham, with a lot of routine
+and a bit of luck towards the end of the
+game, held us to a draw in the closing
+seconds and denied us a place in the
+semi-finals.
+We were scheduled to face the third
+place of the group B, which despite
+having defending champions Manches-
+ter University in it, turned out to be a
+lot weaker on average. So it was not a
+surprise that Imperial College Handball
+Club claimed a convincing victory over
+Lincoln despite losing one of our cen-
+tral players Tobias Gierk to an injury
+from the previous day.
+Imperial Handball Club
+missed semi-finals “by a
+whisker”!
+Stefan Bauer
+IC Hockey unbeaten against
+the Medicals
+Continued from back page
+Imperial Sarah Clayton chasing down the Medicals player
+Imperial on the attack at the University Handball Championships
+Viking-Bøåt wins
+nøvice pennånt åt the
+Håmmersmith Heåd
+Imperial College Boat Club were vic-
+torious at Hammersmith Head last
+weekend winning the Novice Pen-
+nant by 0.7 seconds ahead of Emanuel
+School BC. The Viking bow-three of
+Benjamin Fahs (Norway), Andreas
+Prøsch (Norway) and Alistair Larsson
+(Sweden) summoned the Heavens as
+they set off through the starting line.
+Thunder rumbled and a bolt of light-
+ening crashed over Chiswick Bridge.
+Stern four reacted into an accelerated
+race pace as shouts of “Thor the Light-
+ning God is angry! Row on! Raaghhh!!!”
+bellowed from the bows firing the crew
+down the 4.4 km course. The crew
+ranked an impressive 40th overall out
+of 90 entrants with Elite 8+ Henley RC
+A taking the overall Head win: only 67
+seconds ahead of the Nordic Novices.
+IC 1 (Sean Delaney, John Beaty,
+Rory Fallon, Thomas Walshe, Ben-
+jamin Fahs, Patrick Hudson, Andreas
+Prøsch, Alistair Larsson) were coxed
+by Deepika Reddy in an epic battle of
+the elements as the clouds opened and
+rain battered down on the crew after
+an initially sunny morning. Weeks of
+grueling feet-out square-blades train-
+ing under the command of coach Nick
+Ablitt had the crew well conditioned
+for drenched rowing. The crew fought
+through hurricane force winds and
+powered along overtaking four boats:
+Exeter University RC (Novice), King-
+ston/Quintin/TSS (Vet F), Quintin BC
+(Vet E), London RC (Vet F).
+ByBarnesBridgeoverheadlightening
+reached unreasonable levels and it was
+looking likely that the race would have
+to be abandoned. Delayed results later
+fed to the rumours that there would be
+no winners due to the conditions. But
+not even sleet could deter the IC crew
+and they valiantly powered on. Boat
+Peter Reilly for once held up through
+the swell with no technical difficulties
+reported and the 8+ cruised home to
+victory.
+IC B (Sam Reimer, Angelo Tardug-
+no, Chris Kroon, John Nichols, Doru
+Procopiu, James Falkingham, Valerio
+Chang, Morris Jones) were coxed by
+Kate Wylie and finished in 13:03.87,
+23rd in the novice category (83rd over-
+Christina Duffy all). After a shaky start the crew set-
+tled into a good rate and was pleased
+to make it back to Putney after spend-
+ing two hours in the elements. Both IC
+A and IC B finished ahead of the top
+novice boat representing Imperial Col-
+lege School of Medics, who came 86th
+overall.
+Congratulations to all crews espe-
+cially to the novice men who will re-
+ceive their pennants later this week.
+This result bodes well for their next
+race, the highlight of the Tideway race
+calendar: the Men’s Head of the River
+Race on March 21st.
+The calm before the storm: Strokeman Sean Delaney leads the IC A
+crew out
+1 2 3 4 5 6 7 8
+9 10
+11
+12 14 15
+14
+16 17 18 19
+20
+21 22 23
+24
+25 26 27 28
+24 29 32
+30 26 31
+34
+32
+13
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,428
+Across
+1 Confused criminal, German
+one, and a Chelsea player with a
+heavenly body are together seen
+very rarely. (4,2,1,4,4)
+9 Length and duration of
+videotape. (7)
+10 Brought together army and party
+leaders and sat for the cameras.
+(7)
+11 Staff cut of Prodi’s extremities.
+(3)
+12 What might descend when doctor
+gets muddled up with times. (3,4)
+14 Argue back, finding kind timid
+and lazy. (7)
+16 Celery ends with minced lamb –
+it makes a clamour. (6)
+19 Prince hurried to make a phone
+call relating to a meal. (8)
+21 India’s borders are shrouded in
+very small, intricate details. (8)
+22 Brother consumes fish, leaving
+its head, in Ravel ballet. (6)
+25 Insect does not finish – one is
+overwhelmed by torrent, in pain.
+(7)
+26 Start to attack ring very loudly.
+(7)
+29 Boxer appeared in tabloid
+regularly. (3)
+30 Nothing is missing from noise
+made by one aluminium clock
+(7)
+31 Biblical character surrounded
+by the sound of cows, five
+making a fiery cocktail. (7)
+32 Rose crayon could transform
+into magenta, perhaps. (9,6)
+Down
+1 The following clue features one
+animal standing on crossing point,
+with Frenchman in a deep sleep.
+(6,5)
+2 Make murky, cold, and noisy. (5)
+3 Arab terrorists supported by
+dodgy intelligence (5).
+4 Peculiarly staler warnings. (6)
+5 This flower has advantage on
+value, almost. (8)
+6 See panto somehow with king. Its
+words are made up. (9)
+7 Mad Eve is boss with unhealthy
+fixation on something. (9)
+8 Anode ends broken off – a positive
+sign. (3)
+13 Mafia to assault crowd. (3)
+15 Shout pained exclamation loudly –
+always a nasty disease. (6,5)
+17 Like some inherited condition, one
+coming in a bad way. (9)
+N K N I F E P S A L O O N
+L E E E I G A T A Q R B Q O
+A S T E R O I D P G U F F A W
+S A L A V E T O A E O U I T
+T A I A E A N X I O S N T
+I B R E N C C A F E U O C E S
+C A R P A C C I O O S U A V E
+I H E O L E O R O A A T N N
+T A N D O D E R N I S E
+Y N E O O O P O C Y A S I S
+R E V I V A L D I U A G I C
+B N A H E N I R N B R R H E
+A N N A L S E S C A L L I O N
+S V C K L O H U F E I O C C
+S E E S A N E S T R A N G E
+G
+E
+Solution to crossword 1427
+18 Country loses figurehead, almost
+worn out inside through gradual
+weakening. (9)
+20 God rises to the endless valley
+above, where the chosen dead
+reside. (8)
+23 The French king might come here
+to attract a female. (3)
+24 Hit the slopes with politician on
+the middle of abyss, revealing
+much. (6)
+27 Instrument with a chamber and a
+L
+U
+N
+M
+O
+P
+M
+W
+Congatulations to Team What What
+who won last week! Sam Wong
+versial second goal, scored by Vicky,
+was given to Imperial despite some
+sticks being held dangerously high, a
+bit of footwork and a bit of baseball be-
+ing played on the hockey pitch.
+Riled up, it was time for the Medicals
+to get the goal that we deserved. A ball
+went straight up to Udi Reddy in the D
+who tipped the ball past the goalkeeper
+leaving the scoreline at 2-1 to Imperial
+at halftime.
+The Imperial captain, Sarah Clayton,
+set all the Imperial players straight with
+an abusive team talk at half time which
+frankly scared some of the players. Play
+began again and almost immediately
+the Medicals had a short corner. After
+a beautifully worked tick-tock move –
+a one-two on the top of the D, the ball
+was strongly pushed inside the post by
+their beloved final year, Jessie Payne, to
+bring the score to 2-2.
+However ten minutes of hard work
+from both sides resulted in Imperial’s
+Vicky scoring another goal, and within
+a few minutes she managed to score
+another to settle the game and giving
+Vicky her second hattrick of the sea-
+son. The Medicals battled to the very
+end but the final whistle ended to give
+a 4-2 score line to Imperial.
+The match was sadly tainted by
+some contentious umpiring decisions
+throughout which over-shadowed
+good play on both sides and made the
+match a far less enjoyable occasion
+than it should have been.
+The match finished with a proud
+Medics captain due to brilliant play by
+everyone on the team, and an incred-
+ibly enjoyable night to look forward to
+despite the loss.
+Congratulations should go to their
+most valuable player of the match,
+Fiona Laird for some great play in mid-
+field, both defensively and in attack.
+From the Imperial point of, special
+mention goes to Vicky for her sterling
+performance and hatrick which earned
+her the Man of the Match award.
+

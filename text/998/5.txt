@@ -1,0 +1,137 @@
+Science 5
+Why did it take so long? Finding
+a gene with an unknown function
+amongst a background of 100,000
+other genes is no mean feat. The
+gene (now that we know) is 210,000
+bases long (a base is a letter in the
+genetic code A , C, T or G) and the
+human genome is 3,000,000,000
+bases long.
+Considering that the gene could
+reside in either strand of the double
+helix DNA, it would be concealed
+somewhere within six thousand
+million bits of information. It would
+take up only 0.0035% of the human
+genome. It would be like looking for
+an unknown word that spans 52
+pages in 800 volumes of The
+Complete Works of Shakespeare
+and the word could just as well be
+backwards.
+But even that analogy is
+inaccurate for, whilst we have The
+Complete Works of Shakespeare in
+print, we do not have a base
+sequence of the human genome.
+So how was it done? The location
+of the gene was homed into using a
+technique called linkage analysis.
+This powerful tool came about as
+geneticists like Thomas Hunt
+Morgan discovered that gene-pairs
+deviate from Mendel's Second Law
+of Inheritance. Why is it that we
+never see people with jet-black hair
+sporting blue eyes? A rather naive
+conclusion would be that the genes
+for brown eyes are linked to black
+hair. (Naive because we have not
+performed a statistical analysis on
+the human population to ascertain
+this casual observation.) So, if every
+sufferer of HD has black hair, we can
+conclude that the H D gene was
+linked to the genes for hair colour.
+And if we knew on which of the 22
+pairs plus two chromosomes the
+genes for hair-colour resides, our
+search would be narrowed down to
+about 35 volumes of the bard's
+works.
+That is the concept of linkage in
+rather crude terms. In fact, the H D
+gene was first found to be linked not
+to some visible trait, but to a certain
+variant (a polymophism) of a
+segment of D N A (known as G8) on
+chromosome 4. This was done using
+the then freshly emergent tools of
+molecular biology (and a rather large
+slab of luck); and it took more than
+three years of sifting through blood
+samples of Macaraibo Venezuelans.
+G8 can be thought of as a marker -
+much like black hair - and this result
+was first published in 'Nature' in
+November 1983.
+It was to take another ten years
+and a score of scientists working in
+several countries, using G8 as a
+springboard, to pin-point the gene.
+Now we know where the gene is and
+what it looks like, but we still do not
+know what function it codes for.
+What does this breakthrough
+mean? It means that if you were that
+person in the beginning of the article,
+we could tell you if you carried that
+time-bomb. Perhaps more
+importantly, if you were a carrier,
+and was with child, we could tell you
+if your foetus has inherited the
+disease gene.
+The work, really, has only begun.
+For in sequencing the gene, we now
+have a handle with which to study
+what it actually does. This may lead
+to some medical therapy (gene
+therapy?) in the future when we may
+be able to cut the fuses off the
+Huntington's Disease gene before
+the clinical symptoms rear their ugly
+heads. Or we may be able to replace
+the disease gene with a normal one in
+the fertilised embryo. In addition,
+like our studies on cancer, dissecting
+the disease process would
+undoubtedly lead to our
+understanding of some very basic
+biology, like the ageing process.
+Perhaps in The Complete Works
+of Shakespeare the gene would start
+as: "The web of our life is of a
+mingled yarn, good and i l l
+together..." and when we have
+discovered how it originate, all's
+well will end well!
+/
+/ft.:/''.
+Further reading:
+Genome: The Story of our Astonishing Attempt to Map all the
+Genes in the Human Body. Jerry E. Bishop and Michael Waldholz.
+1990. Touchstone Books (Simon & Schuster).
+This book gives a wonderful historical account of the Wexler story and
+how the search for the HD gene has led to the most ambitious
+intellectual endeavour this century - the mapping of the human
+genome.
+Huntington's Disease. Chapter 3 in Advances in Human Genetics,
+Vol 20. James F. Gusella. 1991. Plenum Press.
+The state of play in 1991. Gusella provides a very clear account of the
+disease, but the genetics portion is quite jargonised. The sections on
+clinical symptoms and epidemiology, however, are very good.
+A Polymorphic DNA Marker Genetically Linked to Huntington's
+Disease. Gusella, J.F. et al. 1983. Nature 306: 234-238.
+The original paper describing the G8 marker. Rather technical.
+The End of the Beginning. In News and Views. Peter Little. 1993.
+Nature 362:408-9.
+A short and incisive article describing the search. Rather jargonised,
+but it describes the process leading up to...
+The Huntington's Disease Collaborative Research Group. A novel
+gene containing trinucleotide repeat that is expanded and unstable on
+Huntington's disease chromosomes. Cell 72:971-983.
+Finally! The gene sequence. This paper, however, is extremely
+technical and complex. Get a biologist/biochemist/medic to explain it to
+you.
+

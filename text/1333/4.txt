@@ -1,0 +1,230 @@
+SCIENCE science.felix@imperial.ac.uk
+4
+felix
+www.felixonline.co.uk Thursday 3 November 2005
+on third-generation solar cells.
+This design is expected to become
+prevalent as the world’s everyday
+solar panel. Third-generation solar
+cells, or Quantum Well Solar Cells
+(QWSCs), have the potential to be
+cheaper, more versatile and, as
+Tibbits is preparing to demonstrate,
+more efficient than any other single-
+junction solar cell in existence.
+The basic principle of solar cells is
+that when radiation hits a particular
+class of material known as a semi-
+conductor, electrons in this material
+are excited and released from their
+normal position, or ‘hole’. If you can
+trap these electrons before they fall
+down again, it is possible to store
+reach of the average homeowner,
+despite potential savings in the long
+run. But then, if the leader of our
+country believes this issue to be so
+important, where are the billions of
+pounds of investment?
+Professor Barnham believes there
+are several possible reasons for this,
+but pinning them down is difficult
+and speculative. Investment is split
+between a wide range of technolo-
+gies vying for attention. That’s why
+he is overseeing research designed
+to make solar the obvious choice.
+Tom Tibbits, a former student of
+Professor Barnham and now a con-
+sultant at the Centre for Integrated
+Photonics, is currently working
+charge and thus create a voltage,
+which generates electrical current.
+Third-generation solar cells have
+several advantages over earlier
+designs. They use semiconductor
+material that allows the use of a
+wider range of radiation from the
+sun, reducing wasted energy. Also,
+because the active, light-absorbing
+region is just 3 millionths of a metre
+thick, they can be manufactured into
+very thin, and therefore cheap, lay-
+ers.
+QWSCs are formed by combining
+the semiconducting layer with other
+layers that provide the electrical
+contacts and anti-reflective coat-
+ings. A concentrator is then used to
+focus light from a wide area onto the
+active region of the cell.
+The efficiency of solar cells is
+measured by the ratio of energy
+that hits the cell to the energy it
+generates. At present, the efficiency
+world record is 27.6%, achieved by
+the Spire Corporation back in 1991.
+Tibbits is preparing to test his devic-
+es over the next few months and is
+confident of breaking the 28% mark.
+The danger is the ever-present
+threat of being overtaken by com-
+petitors in Japan and the United
+States, who are working on similar
+projects with bigger budgets.
+On a wider scale, however, this
+kind of competition is good news.
+Many ideas are around to develop
+these devices into marketable prod-
+ucts. One possibility is the ‘smart-
+windows’, mentioned by Tony Blair.
+Windows incorporating material that
+is capable of both shielding us from
+sunlight and generating electric-
+ity from it will provide clean energy
+and reduce our need for it and stop
+the insane practise of drawing the
+blinds to turn on the lights.
+While we still have light years
+to travel before we can ban fossil
+fuels, at least we have a direction. It
+appears that burning fossil fuels is
+not a necessity in an industrialised
+society. There is a growing senti-
+ment that we can and should keep
+hold of the freedoms that technol-
+ogy has given us, but the habit-
+ability of our planet must obviously
+be a priority. If we are prepared to
+invest both financially and politi-
+cally, it should be possible to live in
+a developed world without changing
+the make-up of our planet.
+science.felix@imperial.ac.uk
+Imperial to become world
+leader in solar energy
+Toby Ferenczi talks to Professor Barnham of the Experimental Solid
+State Group and reports on the potential of third-generation solar cells.
+science
+News in
+Brief
+Tracing tRNA’s dance
+Scientists have employed the
+sixth fastest computer in the
+world to simulate how the
+ribosome accurately constructs
+proteins. Although the techni-
+cal achievement has shattered
+the previous record for biologi-
+cal simulation, ribosome spe-
+cialists are wary of the study’s
+conclusions. Because of limita-
+tions in computing power, the
+simulation had to occur tens of
+millions of times faster than it
+occurs naturally within the cell.
+Birds v. windmills battle
+heads to California courts
+Two environmental groups
+have gone to court with the
+aim of shutting down the farm
+at Altamont Pass, CA for three
+months during the migra-
+tion season to help protect
+red-tail hawks, golden eagles,
+and other raptors killed by
+the mills. The nearly 6,000
+windmills on the rolling hills of
+Altamont Pass, 60 miles east of
+San Francisco, make up one of
+the largest wind farms in the
+country.
+Red Planet comes close
+to Earth
+Mars had a close encounter
+with Earth, approaching to
+within 69.4 million km of our
+planet in the early hours of
+Sunday. Conditions were cloudy
+over most of the UK, meaning
+amateur astronomers had dif-
+ficulty seeing the planet. Mars
+will not swing this close to
+Earth for another 13 years.
+I
+’m not the only one concerned
+about global warming. As Tony
+Blair warned last year, global
+warming poses “a challenge
+so far-reaching in its impact
+and irreversible in its destructive
+power, that it alters radically human
+existence”.
+Whether you think human exist-
+ence will be altered or not, there is
+now a consensus that greenhouse
+gas emissions are changing our cli-
+mate, and with this summer’s hurri-
+canes, melting ice, floods and more
+hurricanes, there is greater urgency
+in the question, ‘What can be done?’
+Encouragingly, for many scientists
+the question is not so much ‘What
+can be done?’ but ‘Why aren’t we
+doing it?’
+Professor Keith Barnham of the
+Experimental Solid State Group at
+Imperial is a leading advocate of
+solar energy. He thinks that tech-
+nologies capable of satisfying our
+energy needs without polluting the
+atmosphere already exist.
+The sun is a power station of unim-
+aginable scale. “The radiation which
+falls on buildings in this country is
+seven times greater than the elec-
+tricity used within them.” Therefore,
+covering just a fraction of buildings
+in reasonably efficient solar cells
+would remove entirely the need for
+conventional energy sources.
+While Professor Barnham believes
+that other alternatives such as wind
+and wave power will all play a role
+in the energy budget, solar energy
+presents several key advantages.
+Firstly, as the sun shines every-
+where, electricity can be produced in
+ample supply at the location where
+it is required, reducing the need
+for inefficient power lines stretch-
+ing hundreds of miles. Secondly,
+solar panels can be incorporated
+into building design, and so do not
+require large scale infrastructure
+of their own. And thirdly, because
+our energy consumption is greatest
+during the day, solar energy produc-
+tion matches our usage patterns, so
+storage is less of a problem.
+Thus we may well ask: if solar pan-
+els are the solution to global warm-
+ing, why are they not everywhere
+already? Why are we still talking
+about nuclear power and natural
+gas? Crucially, the cost of install-
+ing solar panels puts them out of
+“While we still have
+light years to travel
+before we can ban
+fossil fuels, at least we
+have a direction.”
+Blue-sky thinking: Tom Tibbits is attempting to create the world’s best
+single-junction solar cell. Inset: a single cell, pictured with a 5 pence
+piece. Arrays of these could meet future energy needs.
+“The radiation falling on
+buildings in this country
+is seven times greater
+than the electricity used
+within them.”
+

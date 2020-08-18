@@ -1,0 +1,197 @@
+The credit
+revolution
+Over the past five years the
+majorfinancialinstitutions
+have become concerned about
+the ever-increasing amount of
+credit card fraud. It seems
+that "magnetic strip" cards
+are easy to decode and many
+counterfeits are being
+produced daily. Not only are
+the banks becoming
+dissatisfied with these
+conventional cards but
+individual card holders want
+security in their transactions
+and fewer cards to carry.
+This has led to research into
+security through encryption
+(data secrecy) and
+authentication (data protection
+against unauthorised change).
+There are three barriers to the
+introduction of this type of sophisticated
+system. The coding has been too
+complicated for a layman to use; the
+cards would be an unwieldy size and the
+cost of introduction will be high.
+However, a new silicon chip card, which
+can handle a wider range of applications
+than any of its wallet-size counterparts,
+has been recently developed by Siemens
+in Germany. It replaces the long,
+exposed magnetic strip with a chip
+proper identification. To ensure no
+tampering can occur, all data is stored
+on an EEPROM which is extremely
+unstable and data is destroyed by any
+external scanning energy. The tiny
+charge carriers in the memory cells are
+instantly neutralised when touched by a
+probe and if anybody tries to examine
+it under an electron microscope, the data
+changes in a totally unpredictable
+manner.
+In addition a special protective coating
+on the chip itself destroys any sensitive
+information in the event of a break-in.
+Siemens claim that it is totally
+unhackable. The new 'smart' card is
+fundamentally different from the
+magnetic strip card in three ways: the
+card can story any transaction data; data
+cannot be abused; and the card cannot
+be copied
+It is hoped that as the card is
+introduced, it will be used not only as
+a cash card but also as an ID card and
+an intelligent key that can only be used
+when a PIN has been entered. Siemens
+envisage the storage of medical histories
+'the smart card
+embedded in plastic to protect it from
+damage and the elements.
+It is because of the technology inside
+this chip that the card can be made
+secure against manipulation and can
+prevent unauthorised alteration of stored
+data. Component miniaturisation has
+made it possible to pack major
+processing power into semiconductor
+devices the size of a one penny piece and
+. at an affordable cost. The chip contains
+a number of sophisticated memories
+(RAM, ROM, EPROM AND
+EEPROM) plus an active
+microprocessor capable of executing
+cryptographic algorithms. This enables
+the cardholder to be identified
+unambiguously and guarantees the
+security of transaction data. The
+cardholder will be able to give instant
+proof of authorised access by inserting
+the card into a point-of-sale (POS)
+terminal and entering a personal
+identification number (PIN). A check
+will then be carried out on the
+authenticity of both the card and the
+terminal. There will be no paperwork
+required as all money will be transfered
+automatically from the purchaser's
+account to the retailer's, after an
+exchange of electronic signatures. The
+new card claims to be hack-proof
+because it is impossible to decode secret
+data, such as the PIN, from the card;
+account data is only accessible to the
+cardholder; and specific data can only
+be altered on a bank terminal after
+on the cardholders chip and the
+integration of the users fingerprints or
+voice patterns as a further security
+measure. They are planning to create a
+'super smart' card complete with
+miniature keypad and display.
+This new card may sound wonderful,
+if a shade big brotherish, but it does have
+a few shortfalls. The PIN isn'tfiledin
+any central, external memory so if the
+cardholder forgets it, no one can help,
+not even the bank. The only thing to be
+done is to throw it away. As well as this,
+of the 13 million smart cards on order,
+less than 1 million have been delivered
+because the chip failure rate is still
+unacceptably high. Finally, no matter
+how secure the chip may be, there is still
+no safeguard against human error, such
+as writing the PIN on the card!
+Undoubtedly a version of this smart
+card will be introduced into our high
+streets within the next decade to combat
+the massive fraud that's occuring at the
+moment. However the makers have to
+produce reliable chips and the banks will
+have to outlay many millions of pounds
+to install all the POS terminals required.
+The smart card and its point-of-sale
+terminals are being gradually introduce
+into West Germany over the next three
+years. It will be decided after this trial
+period whether or not the system is
+viable for worldwide use.
+Information by courtesy of Siemens
+Aktiengesellschaft.
+U N D E R ! H T H E
+MICROKCOPE
+Super Ceramics
+HIGH speed computers using ceramic
+superconductors may be as little as three
+years away, according to scientists, and
+thefirstdevices to make use of the new
+technology may be available within
+twelve months.
+These are the latest estimates from top
+researchers six months after a team at
+the University of Houston developed a
+material, which exhibited super
+conductivity at 98K (- 175°C). This has
+triggered widespread interest in
+superconductor technology, and has
+prompted several governments to pledge
+massive financial support for national
+research institutions.
+Until recently superconductivity was
+only possible in a few materials kept at
+the temperature of liquid helium, a few
+degrees above absolute zero (-273°C).
+Since the spring of 1986, when a team
+of IBM scientists in Zurich produced a
+superconductor at 23.2K (-250°C),
+ceramic materials which became
+superconductors at higher and higher
+temperatures have been developed.
+Though most of the superconductors
+have been found to be too unstable for
+any practical application, there are
+widespread possibilities for
+superconductors in the electronics and
+heavy electrical industries.
+Grave Robbing
+A FRENCH expedition to recover
+treasure from the wreck of the Titanic
+has been condemned as 'grave robbery'
+by representatives of the Titanic
+Historical Society.
+The expedition is being run by the
+French Institute for Research and
+Exploration of the Sea (IFREMER).
+In the summer of 1985 this group
+helped a team from the Woods Hole
+Oceanographic Institution to find the
+wreck of die liner. The Woods Hole
+team, led by marine geologist Robert
+Ballard, were able to photograph the
+wreck, and completed their exploration
+in the summer last year. At Ballards
+instruction, the US Congress declared
+the Titanic an undersea memorial,
+making it illegal to salvage anything
+from the wreck. Though the US
+proposed drawing up an international
+treaty to protect the Titanic, which lies
+in international waters, there was no
+support for this from France or the UK.
+8 Friday August 14th 1987 FELIX
+

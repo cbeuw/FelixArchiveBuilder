@@ -1,0 +1,270 @@
+PUZZLES
+Slitherlink
+2 2 2
+3
+0
+2
+3 2
+3
+1 1
+2
+3 3
+2
+3
+1
+2 2 3
+1
+2
+2
+2 2 3
+1
+3
+1
+2 2 2
+2 3 0
+2 3 3
+1 3 2
+2
+2
+1
+2
+3 2
+3
+3
+2
+3
+1
+2
+1 2 4 3
+4 2 1
+6 5 3
+2
+1
+3 3 2
+4 5 3
+1 1
+6
+4
+2
+3
+2
+3
+2
+4
+2
+3
+3
+4
+3
+1
+4
+Wordoku
+Scribble box
+N
+F
+Y
+I
+I
+R
+P
+Y
+N
+T
+A
+P
+R
+R
+A
+Y
+I
+F
+R
+P
+T
+F
+O
+N
+Y
+N
+Generic Solution
+H
+A
+R
+D
+P
+E
+N
+I
+S
+N
+P
+S
+A
+I
+R
+E
+D
+H
+I
+E
+D
+N
+H
+S
+R
+P
+A
+D
+H
+I
+R
+N
+A
+S
+E
+P
+E
+N
+A
+P
+S
+D
+I
+H
+R
+R
+S
+P
+I
+E
+H
+A
+N
+D
+A
+I
+H
+E
+R
+P
+D
+S
+N
+S
+D
+N
+H
+A
+I
+P
+R
+E
+P
+R
+E
+S
+D
+N
+H
+A
+I
+Bridges
+3 2 2
+2
+3
+2
+3
+2
+1
+2
+3
+2
+2
+3
+2
+1
+2
+3
+3
+3
+3
+3 2 1 1
+2
+3 2
+1 2 1
+2
+1 3 1
+0 2
+1 2
+1
+3
+Welcome Freshers...to the Puzzles Sec-
+tion. First up, we’ve got Bridges. You’re
+gonna love it. Those circles over there
+are islands, and the number in the centre
+represents the number of bridges out of
+it. Bridges extend out horizontally and
+vertically – maximum of two each way!
+Generic Solution
+Generic Solution
+A personal favourite, right here. Tran-
+scending the boundaries of 2-D space
+and wasted time comes the almighty
+Slitherlink. Students love it, lecturers
+love it and you definitely love it.
+If you’ve ever played minesweeper,
+and let’s face it, you were probably
+bored enough at some point in the
+distant past, then you should be able
+to understand this puzzle. The num-
+ber in each box represents the num-
+ber of lines that can exist around it.
+Lines can never cross, so look out for
+that. Normally, it’s a good idea to start
+with the ‘0’ boxes. In the end, you
+should (fingers crossed) end up with
+a closed loop.
+If you’re a bit lost (and I don’t
+blame you), have a gander at the ex-
+ample solution to the left. All should
+become clear. If it doesn’t, ask a hall-
+mate. Just don’t ask me, I’m up to the
+eyeballs in puzzles at the moment.
+Better get some practice in now,
+I hear there might be a super mega-
+awesome puzzles leaderboard turning
+up very soon in the weeks to come.
+I don’t even feel dirty for just writ-
+ing that expression, it’s seriously that
+good. I’m not even kidding, just you
+wait.
+Sudoku, but with words. Or to be more
+precise, letters instead of numbers. And
+as we all know, everything is ten times
+better in words than it is in numbers.
+Just imagine this is a normal sudoku,
+and make sure each grid features each
+of the nine letters. Each row and column
+must consist solely of the same nine let-
+ters. When complete, a row or column
+will spell out a word – in this case, a
+clue being ‘something you should ex-
+pect from every Wordoku we print this
+year’.
+There’s a handy example over there of
+how to complete this puzzle like a com-
+plete boss. Happy puzzling!
+Scribble box
+WE NEED YOU TO EDIT THIS PAGE.
+Like, for real.
+Seriously.
+Are you a puzzle fiend? Eat crosswords for break-
+fast? You might just be what we so desperately need.
+If you fancy being a Puzzles Editor, then fire off an
+email right away to puzzles.felix@imperial.ac.uk or
+come down to the Felix Office in the West Basement
+of Beit Quad for a shot at the big time.
+FELIX Friday 30 september 2011 23
+Puzzles Editor: James Hook
+puzzles.felix@imperial.ac.uk
+

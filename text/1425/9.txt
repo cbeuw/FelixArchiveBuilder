@@ -1,0 +1,260 @@
+16 felix Friday 20 February 2009
+Science
+science.felix@imperial.ac.uk
+A new device has been developed
+by Imperial College, London and its
+spinout company DNA Electronics
+that is capable of testing patients to
+see if they will react badly to certain
+prescribed medications, such as anti-
+depressants and cholesterol control-
+ling drugs.
+The prototype device, known as
+SNP Dr (pronounced ‘snip doctor’)
+works by analysing the DNA in saliva
+or cheek swab samples. The process is
+so quick that it can be carried out by a
+GP before they prescribe the patient’s
+medicine without the cost of labora-
+tory analysis.
+The device works by analysing genet-
+ic variations called Single Nucleotide
+Polymorphisms (SNPs) which are the
+parts of human DNA that control our
+individual responses to disease, bacte-
+ria, viruses, toxins or medication.
+The researchers are also focusing
+on how the snip doctor device might
+be able to detect genetic sequences
+which control the speed of our metab-
+olism, something else which can af-
+fect the body’s reaction to a medicine.
+Slow metabolisms can make the drugs
+last longer in the body and therefore
+increase the risk of side effects, whilst
+someone with a fast metabolism is
+likely to process the medication to
+quickly for it to have any adverse
+effects.
+The NHS spends £460 million a
+year treating patients suffering ad-
+verse reactions to prescribed medi-
+cations, with their symptoms rang-
+ing in severity from dizziness and
+nausea to even heart palpitations and
+unconsciousness.
+Although the device is still a pro-
+totype (about to begin clinical trials
+thanks to a newly formed partnership
+with the pharmaceutical company
+Pfizer), there is hope that not only will
+GPs be able to personalise a patient’s
+treatment but according to Dr Leila
+Shepherd, Chief Technology Officer of
+DNA Electronics, the introduction of
+the SNP DR might enable new drugs
+to become readily available in a cost
+effective way: “At the moment, some
+cancer fighting drugs are deemed une-
+conomical because they only work for
+a certain subset of patients. If doctors
+had a method of screening patients to
+see whether these drugs work, then
+suddenly these therapies would be
+more cost effective to use.”
+‘Snip Doctor’ to test drug tolerance
+Last week felix reported that biofuel
+crops may not be worth the effort, and
+rank high on environmental impact.
+Indeed, this may be true. Biofuel crops
+must be grown upon arable land, fer-
+tilised, nurtured, harvested, and proc-
+essed. That’s a lot of costs that lessen
+the energy gain the resulting biofuel
+that they provide. But wait! Members
+of Kingdom Plantae may yet save our
+combustion-energy hungry lifestyles.
+Look under the swaying palm oil
+plantations, below the rolling green
+cornfields.
+Look to the greenish sludge chok-
+ing up the water filled ditch and the
+common stream. There lies a carbon-
+neutral and theoretically inexhaustible
+source of liquid fuel. It was the stuff
+you had to scrub out of fish tanks, and
+that you thought might kill you if you
+went swimming in certain lakes of
+the blue-green variety. It was around
+changing the Earth’s atmosphere mil-
+lions of years ago.
+Algae
+Before I ramble on further, allow me
+to simply summarise for the lecture-
+weary of you how biofuel is extracted
+from plants. Plants photosynthesise
+carbon dioxide and water into glucose
+and oxygen. (No sh*t, professor, I prob-
+ably learnt that one before I knew how
+the birds and the bees fitted together).
+The glucose is used for energy or re-
+assembled by the plant into anything
+else it needs- proteins, carbohydrates,
+lipids… Lipids- essentially, oil. There-
+fore a plant contains oil, much as many
+other living organisms produce and
+store oil.
+If the oil can be extracted, it can
+be converted into usable, burnable
+forms. Although ethanol from crop
+plants is used to make biodiesel, plant
+oils can be made into biodiesel. By
+compressing, by using enzymes, by
+firing minute particles into cells, by
+many means, oil can be extracted
+from plants to be processed and used,
+while the waste is used for fertiliser or
+animal feed.
+Enter algae. Enter a plant of single
+or few cells that lives in water, repro-
+duces rapidly, and produces oil. It does
+not need tracts of arable land to grow
+upon, it can double in volume in a sin-
+gle day under the correct conditions,
+and known strains produce a 50%
+body weight yield of oil, compared to
+soybean, the current leading biodiesel
+crop, which has a yield of 20% and a far
+longer maturation time. With tens to
+hundreds of thousands of current and
+undiscovered species, finding higher
+yields is not unlikely- and, dare I say
+it, there’s always genetic modification
+to consider. Currently, researchers
+estimate that one acre of algae could
+produce up to 10000 gallons of oil per
+year.
+What algae *does* need in order to
+become a feasible source of fuel are
+cleverly designed farms that optimise
+conditions without raising expensive
+costs. Conveniently, such things are
+entirely possible with human ingenuity.
+The 18th century economist, Thomas
+Malthus, famously placed unmoving,
+exponential limits on crop produce
+by tying their production to available
+land; the 20th century economist Ester
+Boserup removed this limitation by
+theorising that human ingenuity and
+technology would respond to demand,
+and she has been largely proven right
+till now.
+Currently, several algae biodiesel
+plants are open and running in the US,
+while engineers work on improving
+designs of sealed growth vats, stirrers,
+gas venters.
+Imagine a slew of algae biodiesel
+plants being built in rocky land in-
+hospitable to crops, but perfect for
+water-dwelling plants that only need
+sunlight, carbon dioxide, and water.
+Imagine algae biodiesel plants con-
+structed alongside traditional power
+plants to utilise the concentrated
+waste carbon dioxide- such things are
+being planned.
+Based on its potential as both motor
+and jet fuel, the UK government has
+provided the independent company
+The Carbon Trust with initial funding
+of up to £4 million for a Algae Biofu-
+els Challenge, which is ultimately in-
+tended to commercialise an algae-oil
+based biodiesel by 2020. Final project
+costs are anticipated to be £15-23 mil-
+lion, of which half will be funded by the
+Carbon Trust. In 2008 the U.S. military
+signed two deals worth about $35 mil-
+lion to develop biodiesel made from
+algae.
+All this optimism sounds too good
+to be true. I know, I’m a sourpuss too,
+really. It can’t be that easy- after all, re-
+searchers knew that algae could be a
+source of biodiesel in the 1980s. Why
+has the world been violently panicking
+about petroleum costs, why did any-
+one bother to revive and design elec-
+tric cars, were they just for fun? Dull
+day at the lab?
+Well, frankly, up until now, the cost
+of petroleum-derived fuel has just
+been too cheap in comparison. Prior
+to the credit crunch (don’t ask me for
+updates, I’m scared enough just check-
+ing my bank balance, never mind cur-
+rent global prices), the production cost
+of algal oil was still at about £2.80 /
+L, while petroleum diesel was lurking
+around $0.48 / L in the US. It still just
+wasn’t cost effective to go green, and
+petroleum produces so many other,
+useful things.
+Now? I can’t help but see my future
+visions of electric cars fading, the
+saintly masochism of restricting car
+journeys for nothing short of emergen-
+cies. No Mad Max style riots at petrol
+stations over dwindling fuel, no wars
+for foreign resources, no nuclear or
+hydrogen power taking centre stage,
+the development of cold fusion pushed
+further into a theoretical future. But
+who knows? There’s plenty of scope for
+the future to surprise us.
+As it stands, however, it seems that
+algae is the only biofuel crop with the
+potential to replace our need for petro-
+leum diesel.
+Future still green for biofuels
+Annabel Slater
+Science Correspondent
+An algae biodiesel plant design
+“(Algae) can
+double in volume
+in a single day
+under the correct
+conditions, and
+... produce a 50%
+body weight yield
+of oil”
+Felix Whitton
+Science Correspondent
+I’m so happy to see other people love algae too!
+“Some cancer
+fighting drugs are
+uneconomical”
+Picture
+of
+the
+Week
+Slovakian
+River
+Mist,
+by
+Stephen
+Gallagher
+We
+want
+to
+exhibit
+your
+art.
+Send
+in
+your
+photographs.
+felix@imperial.ac.uk
+

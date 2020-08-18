@@ -1,0 +1,522 @@
+ISSUE 1713
+FELIX
+20
+INVESTMENT icu.investmentsociety@imperial.ac.uk
+INVESTMENT
+Alexander Koh
+Head of Education ICIS
+Investment Writer
+I
+ndex funds refer to
+a mutual fund or
+Exchange Traded
+Fund (ETF) that
+track a specified basket
+of underlying securities
+(tradable financial assets).
+Moreover, ETFs are
+becoming an increasingly
+popular investment ve-
+hicle amongst both retail
+and institutional investors.
+More than 4,500 ETFs
+managed over 4.46 trillion
+USD worth of assets in
+2017. ETFs, in essence,
+are securities that are
+listed on stock exchanges
+and can be traded just like
+stocks. An ETF tracks a
+basket of securities that
+could range from indexes,
+stocks, bonds, to even
+commodities. Popular
+ETFs include the SPDR
+S&P 500 ETF (SPY) that
+tracks the S&P500 Index,
+Vanguard Total Stock
+Market ETF (VTI) that
+tracks the market-capital-
+isation weighted index of
+the entire U.S. equities
+market, and the United
+States Oil Fund (USO)
+that tracks the price of
+West Texas Intermediate
+(WTI) light, sweet crude
+oil.
+Since ETFs are traded
+on the stock exchange,
+they are priced and traded
+continuously throughout
+a trading day. Moreover,
+ETFs can be sold short
+or bought long and are
+traded just like stocks.
+One main advantage
+that ETFs offer is the
+low-cost diversification
+to minimise unsystematic
+risk during investing. For
+instance, mutual funds –
+professionally managed
+investment funds which
+pool small sums of
+money from various retail
+investors to buy a basket
+the emergence of ETFs
+with high leverages.
+Leveraged ETFs increases
+exposure to a certain
+index or asset class and
+an example would be
+triple-leveraged ETFs
+that triple the exposure
+for an investor. Some
+popular triple-leveraged
+ETFs would be Direxion
+Daily Financial Bull 3X
+share (Ticker: FAS) or
+ProShares UltraPro Short
+S&P500 (Ticker: SPXU),
+with FAS holding a long
+position for financial
+sector stocks and SPXU
+holding a short position
+for S&P500 index.
+Nevertheless,leveraged
+ETFs have a multitude
+of flaws and inherent
+riskiness associated with
+them. Naïve investors
+would believe that triple-
+leveraged ETFs would
+produce triple the daily
+return for the underlying
+investment (i.e. triple
+the return of the index in
+the long term). However,
+in the long term, such
+leveraged ETFs have a
+negative bias and would
+rarely match triple the
+underlying investment
+performance. Let’s
+demonstrate this in the
+following example:
+suppose we are tracking
+an index that starts at
+$100 and increases by
+30% on the first day
+($130) and falls 10% on
+the second day ($117) and
+falls another 20% on the
+last day ($93.6) with an
+overall net loss of 6.4%
+over the 3 day period. The
+triple-leveraged index
+increases the exposure
+by 3 times, i.e. a loss
+of 20% is magnified to
+60%. Suppose the triple-
+leveraged index starts at
+$100, at the end of the first
+day, it increases by 90%
+($190), decreases by 30%
+on the second day ($133)
+and decreases by 60%
+on the last day ($53.2).
+Overall, the net loss to an
+investor would be 46.8%.
+This demonstrates the
+negative bias of a triple-
+leveraged index which
+negative bias inherent to
+leveraged ETFs dictates
+that such ETFs should
+not be held as a long-
+term investments but
+should be used instead
+by professional traders
+who use them as a hedge
+against big market moves
+in the short term. Jack
+Bogle criticised leveraged
+or inverse ETFs investors
+as “Fruitcakes, Nut Cases
+and Lunatic Fringes”.
+While broad-based ETFs
+can act to diversify risk,
+retail investors need to be
+wary of exotic ETFs that
+tend to suffer from higher
+volatility.
+of securities – charge
+higher fees (average of
+0.51% expense ratio)
+relative to ETFs (average
+of 0.21% expense ratio,
+with some brokers even
+offering commission-free
+ETFs).
+Moreover, the passive
+investing nature of
+ETFs aims to track the
+performance of major
+indexes (e.g. S&P500 or
+FTSE100), that provides
+returns that are similar
+to that of active fund
+managers that own
+a diversified market
+portfolio. According to
+Jack Bogle, the founder of
+the Vanguard Group and
+one of the pioneers of the
+index funds movement,
+who believes in the cost-
+matters hypothesis that
+posits why index funds
+are so successful: The
+net return to an investor
+is equal to the gross
+return in the market as
+a whole, less the costs
+of obtaining that return.
+(Surprisingly, Jack Bogle
+is not a staunch supporter
+of the efficient market
+hypothesis that postulates
+the best way to beat the
+market would be to invest
+solely in the indexes.)
+Given that passive index
+funds provide a similar
+return to active fund
+managers at a much lower
+administrative cost, the
+net return for a passive
+index fund would be
+higher than the net returns
+for active investing with
+fund managers in the long
+run.
+With the rising
+popularity of ETFs, a
+multitude of niche ETFs
+targeted at niche areas
+of the market such as the
+biotech and healthcare
+sector e.g. HealthShares
+Emerging Cancer ETF or
+even socially responsible
+ETFs catered towards
+ESG investors.
+Since ETFs are
+generally more passive
+and track a basket of
+securities, this has led to
+“More than
+4,500 ETFs
+managed over
+4.46 trillion
+USD worth
+of assets in
+2017”
+ETF’s have be driven by the demand for technology in the indutry // Euronext
+AnInsightintoETFs-TheFutureofInvesting
+Will the Fed continue down its hawkish path? //Global Investors
+does not simply match
+triple the underlying
+investment performance.
+The magnified
+exposure, volatility and
+ISSUE 1713
+FELIX
+21
+INVESTMENT icu.investmentsociety@imperial.ac.uk
+INVESTMENT
+Dike Dijemeni
+Esuabom Dijemeni
+A
+ccording to The
+Global Impact
+I n v e s t i n g
+N e t w o r k
+(GIIN), impact invest-
+ment can be defined as
+investment made into
+companies, organisations,
+and funds with the inten-
+tion to generate social
+and environmental impact
+alongside a financial
+return. Hence, impact
+investing in Africa is the
+deployment of investment
+in African companies,
+organisations, and funds
+with intentions to gen-
+erate social, health, and
+environmental impact
+alongside a financial
+return. It is important
+to note that categorical
+impact investing in Africa
+is significantly different
+from charitable aids given
+to Africa as the latter
+does not usually drive
+investment / financial
+rewards for the charity
+giver. Impact investment
+in Africa attracts a broad
+range of investors, pri-
+marily fund managers,
+development finance
+institutions, institutional
+investors, and founda-
+tions. There is a broad
+range of asset classes
+the reality. According to
+a UNDP study “Impact
+Investment in Africa:
+Trends, Constraints and
+Opportunities”, the 9 key
+challenges facing impact
+investment in Africa are:
+1. General lack of
+awareness and
+understanding of
+impact investment;
+2. Difficulty in sourcing
+viable investments
+that meet both
+financial and social/
+environmental
+objectives in Africa;
+3. Limited availability
+of innovative fund
+and deal structures;
+4. Difficulty exiting
+investments;
+5. Poor visibility
+and inadequate
+recognition of social
+enterprise status;
+6. Lack of capital
+supply across the
+risk/return spectrum;
+7. Inadequate policy
+and regulatory
+environment;
+8. Poor linkages
+between social
+enterprise, investors,
+and innovation
+networks; and
+9. Poor and inconsistent
+impact measurement
+practice.
+In order to address the
+highlighted challenges
+facing impact investment
+in Africa, the Impact
+Investment Action Plan
+wasdevelopedasshownin
+Figure 1. The primary aim
+of the Impact Investment
+in Africa Action Plan is to
+support the development
+of a vibrant impact
+investment sector on the
+African continent. The
+overarching vision is the
+development of a vibrant
+impact investment sector
+in Africa. The stated
+vision is further supported
+with five key intermediate
+outcomes and a supporting
+pan-African action plan
+and action network as in
+Figure 2.
+One of the leading
+UK impact investment
+firms with an African
+focus is Uhusiano
+Capital Ltd. Uhusiano
+Capital is a boutique,
+regulated, financial
+advisory firm based in
+London with a specialist
+team primarily focused
+on impact investment in
+Africa. Uhusiano Capital
+addresses the capital
+needs for African-based
+projects and opportunities.
+The firm is driven
+by a strong founding
+principle grounded in the
+fundamental belief that
+commercial capital and
+impact/social capital can
+come together to generate
+sustainable long-term
+projects/funds/products
+in Africa. Founded in
+2016 and incorporated
+in 2017 by Christelle
+Kupa, Uhusiano Capital
+has grown to establish
+its expertise in three key
+domains: capital raising,
+deal flow origination and
+strategic marketing.
+Uhusiano Capital’s
+capital raising team offers
+an innovative approach
+to raising capital for
+exceptional projects
+and/or companies by
+utilising its deep and well-
+entrenched experience
+in the impact investment
+community in African
+markets. By utilising its
+innovative capital raising
+approach, Uhusiano
+Capital is able to bridge
+the gap between impact
+investors and impact
+opportunities in a unique
+and transformational way.
+Uhusiano Capital’s
+capital deal flow
+origination team are world
+leaders in harnessing the
+vast global network to
+support impact investors,
+whether new or well-
+experienced, to clearly
+and objectively identify
+the most talented and
+undiscovered mangers
+and projects in order to
+achieve their investment
+objectives: financial and
+social/impact gains.
+Navigating the African
+impact investment
+ecosystem is challenging,
+difficult, and sometimes
+almost impossible.
+Uhusiano Capital’s
+strategic marketing team
+over the years have
+developed revolutionary
+strategic marketing
+solutions and impact
+investment advisory
+teams and services
+to make navigating
+and marketing impact
+investments in Africa
+simple, effective, and
+rewarding. Furthermore.
+Uhusiano Capital’s
+strategic marketing
+team provides strategic
+recommendations and
+deep insights for making
+meaningful marketing
+of impact investments in
+Africa.
+In conclusion, Impact
+Investment in Africa has
+a gigantic potential to
+revitalise, recapitalise
+and rejuvenate
+African economies,
+African projects,
+African businesses
+and most importantly,
+African people.
+However, fundamental
+understanding of the
+conceptual imperatives
+of Impact Investing
+in African and the
+practicality and nuisances
+of impact investing in
+Africa is central and at
+the heart of whether or
+not impact investment
+will deliver on its lofty
+potentials in Africa. A
+strong belief in innovative
+and philosophical driven
+firms with Africa-focused
+impact investment
+and Africa expertise
+like Uhusiano Capital
+plays a significant role
+in translating impact
+investment concepts into
+financial returns and
+social/environmental
+impacts in African
+economies.
+which includes: equity,
+commodity, fixed income,
+foreign exchange, proper-
+ty, and derivates. Actual
+numerical quantification
+and data on the market
+size of impact investing
+in Africa remains very
+limited.
+The Sustainable
+Development Goals
+(SDGs) framework
+developed by United
+Nations serves as a driving
+force and framework
+for impact investing in
+Africa. An Annual Impact
+Investor Survey report
+by The GIIN showed
+that more than half of
+impact investors are
+tracking some or all of
+their performance against
+SDGs. Furthermore,
+there is strong appetite
+for impact investors to
+catalyse impact investing
+towards SDGs. However,
+the United Nations
+continues to argue the
+case for more capital and
+investment deployment
+to drive and grow impact
+investing in Africa and on
+a global scale. The UN
+estimates that USD 5-7
+trillion is needed annually
+to achieve the goals.
+Impact investing
+has been hailed as a
+transformational and
+revolutionary investment
+methodology for
+revitalising and growing
+African economies.
+However, the vision is
+increasingly distant from
+Figure1 // Impact Investment in Africa
+Impact Investing in Africa
+Figure 2 // Impact Investment in Africa
+Investment Writers
+

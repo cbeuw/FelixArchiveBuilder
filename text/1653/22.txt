@@ -1,0 +1,277 @@
+32 felixonline.co.uk/puzzles puzzles.felix@ic.ac.uk Friday 20 January 2017
+felix P U Z Z L E S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Send in your solutions to fsudoku@imperial.ac.uk before
+midday Wednesday to get your score added to our
+leaderboard. Make sure you include the name/team name
+that you’d like us to use!
+Slitherlink. Draw a single, continuous loop through
+adjacent points such that the number in each cell has that
+many borders filled. Each point should be connected to two
+or no other points.
+Nonogram. The numbers show, in order, the length of
+blocks to be filled along that row/column. Each block must
+be separated by at least one empty cell.
+Across
+7. Puppets on strings (11)
+8. Impart knowledge (6)
+9. Petition to a deity (6)
+10. Deteriorate (6)
+12. Cunning (6)
+13. Atmosphere (3)
+14. Robbery at sea (6)
+16. Overindulgence (6)
+18. Yearly (6)
+20. Innate (6)
+22. Star-gazers (11)
+Down
+1. Portent (4)
+2. Pointer (6)
+3. Scottish New Year
+celebration (8)
+4. Profound (4)
+5. Capital of Canada (6)
+6. Fire-resistant mineral (8)
+11. Eastern (8)
+12. One to whom money is
+owed (8)
+15. Grown-ups (6)
+17. It’s built by a spider (6)
+19. Big cat (4)
+21. Hazard (4)
+     
+
+  
+
+   
+   
+
+FUCWIT
+Leaderboard
+The Czechmates 206
+Anonymous 205
+NSNO		 199
+Willie Rush		 199
+Schrödingers Cat Strikes Back 186
+Sneezing Pandas 140
+Guinea Pigs		 104
+CEP MSC			96
+Les Nuls			96
+The Gravitons			82
+TIA			 74
+Puzzled			62
+Grilled Cheese Inc.		 59
+Yellow Fever		 53
+Chemical Brethren		 46
+Kenny Wangler, Cunnyfangler 41
+The Ultimate Fucwit		 38
+Big Mahmoud			36
+Grand Day in Cullercoats 25
+RollEEEr			25
+Lube Lords			23
+Banananana			20
+THE Crystallographer		 20
+The Mystical Spankyman 20
+Beasts				18
+Les Baguettes			18
+The Anti-Gravity Acorns 18
+Poulet				15
+Hillary Killed Harambe 14
+The Couple on the Train 14
+Computer Magic		 12
+G. Hackman			10
+Salmnon ft. Kanye		 9
+Pollux				 7
+Too gay 2 f(x)			 6
+Crosswordy McCrosswordface 5
+Singed Potato			 4
+TP-LINK_M5_B057AD		 4
+Palo and Hippo!		 3
+Fanny Schmeller		 2
+Points Available		 21
+Crossword			 6
+Nonogram			 3
+Chess				 6
+Slitherlink			 3
+Sudoku			 3
+Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+
+   
+ 
+
+
+    
+
+  
+       
+     
+     
+  
+   
+      
+     
+    
+     
+
+ 
+ 
+
+    
+ 
+ 
+ 
+
+  
+ 
+ 
+Forced checkmate in 4 moves (left) and 2 moves
+(right). White to move first in both problems.
+

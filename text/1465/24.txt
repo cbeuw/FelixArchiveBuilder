@@ -1,0 +1,240 @@
+25
+felix FRIDAY 11 JUNE 2010
+technology.felix@imperial.ac.uk TECHNOLOGY
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+I
+f you’re an Apple lover
+we’ve had quite a week.
+As you can see above
+Apple announced its
+iPhone 4 at WWDC 2010, but
+that’s not all Apple was show-
+ing off. iPhone OS has been
+renamed iOS, which isn’t ex-
+actly a surprise considering
+it now powers three different
+iDevices. Apple released the
+Golden Master (read: feature
+complete) iOS4 to developers,
+which was promptly spread
+across the greater internet. So
+if you’re an iPhone 3G/3GS
+wielder and want it now, and
+have a Mac for iTunes 9.2, you
+can install iOS4 right now and
+not have to wait till June 21st.
+Indeed there was even better
+news for iPhone 3Gers as some
+industrious fellows found that
+if you jailbreak an iPhone 3G
+with iOS4 on it, you can enable
+both multitasking and home
+screen wallpaper with a quick
+edit to a small settings file. Ap-
+ple doesn’t want you to have
+these features on your 3G, but
+after some experience with it
+I can tell you it runs just fine;
+Apple be damned.
+Safari 5 was also released
+this week at WWDC fea-
+turing a 30% increase
+in speed and Safari
+Reader, a readability
+based tool that strips
+out everything but
+the goods of an arti-
+cle, so you can read it
+without distractions.
+Google’s search index is now
+fully caffeinated as it has rolled
+out its new, faster search al-
+gorithm, Caffeine, to the rest
+of its data centres. You might
+not notice much of a speed
+increase, but believe me it is
+faster, it was just pretty fast to
+begin with.
+Twitter this week gave a pre-
+announcement that it’s going
+to start wrapping all links in its
+own link shortening service
+‘t.co’ automatically. Bad
+news for link shorten-
+ing services like ‘bit.
+ly’, as Twitter is go-
+ing to do it transpar-
+ently and on the fly,
+meaning you won’t
+have to shorten your own
+URLs before tweeting them.
+It may even be the case that
+you don’t see the shortened
+URL in the tweet either, just
+the expanded one.
+Twitter also let out some
+interesting subscriber stats
+showing that they have over
+190 million users and that
+they tweet 65 million times
+a day, which is up 30% since
+April. According to Costolo,
+Twitter’s COO, most users
+don’t tweet at all, but just read
+others’ tweets. It’s also not
+clear how many of those 65m
+tweets a day are automated
+spam tweets.
+Microsoft announced that
+its Windows 7 Service Pack 1
+will hit public
+beta in July.
+Mainly con-
+taining bug
+fixes and
+patches,
+SP1 does
+include new
+Remote
+Desktop
+support for
+Windows Server 2008
+SP1 features. Handy if you
+need some remote support,
+but frankly boring for anyone
+else.
+Google’s Nexus One got
+a shot in the arm thanks to
+some clever Android hacking,
+which enabled 720p video re-
+cording from its 5MP camera.
+It’s not currently available for
+Froyo, but it’ll only be a mat-
+ter of time. That’s the beauty
+of an open source OS, anyone
+can get stuck in and modify
+the ROM without too much
+trouble.
+And finally, as it’s nearly
+World Cup time, how about
+a David Beckham story? Ya-
+hoo have managed to sign
+Becks to be the public face of
+their World Cup and Premier
+League coverage. Dave will get
+his own channel where he’ll
+share his own experiences of
+the World Cup. Then during
+the forthcoming Premiership
+season, fans will be able to
+contact Goldenballs through
+Y!Messenger and Y!Mail. Nice.
+iPhone 4 - Here’s what you need to know
+Samuel Gibbs shows you what’s what with Apple’s latest and greatest, a fourth generation smartphone
+A4 processor
+Apple’s own A4 CPU from the iPad
+has been squeezed into the iPhone;
+powerful yet power sipping.
+9.3mm thin
+The iPhone 4 is 24% thinner than the
+iPhone 3GS making it the thinnest
+smartphone available.
+FaceTime
+iPhone 4 comes with video chat
+called FaceTime. It works over WiFi
+and needs no configuration, working
+with both front and back cameras.
+802.11n + BT
+Finally WiFi-N for high speed web
+browsing, email, video and FaceTime,
+joining the already present BlueTooth
+2.1 + EDR for music and headset
+support.
+Two cameras
+A front-facing VGA camera joins a
+5MP backside illuminated shooter on
+the back capable of HD 720p 30FPS
+video with enhanced low-light
+sensitivity and an LED flash.
+Glass front & back
+The scratch resistant hardened glass
+covering the front now covers the
+back too, bolting into a stainless steel
+frame that forms part of the antenna
+for the phone’s various radios.
+3.5” Retina Display
+960x640 IPS display with massive
+326 ppi (denser than the human eye
+can see) and a 800:1 contrast ratio.
+Key Features
+3-axis gyro
+iPhone 4 packs a 3-axis gyro adding
+to the existing digital compass,
+accelerometer and GPS for 6-axis
+motion sensing. Great for games.
+Dual mics
+Oneforvoicecallsonthebottomand
+another for noise cancellation on top.
+Bigger battery
+Apple has managed to squeeze in
+a 16% bigger battery in the iPhone
+4. Combined with the A4 provides
+7hrs talk, 10 hours video, 40 hours of
+music and 300 hours of standby time.
+H
+ere it is folks, I give you the
+iPhone 4! Yes, after much
+rumour and speculation,
+leaked prototypes and
+court cases, Apple’s iPhone 4 has offi-
+cially been unveiled. Steve Jobs took to
+the stage of the WWDC 2010 opening
+keynote to show off his latest creation.
+OK, so there’s nothing truly revolu-
+tionary here, but it’s a very compre-
+hensive package that is going to sell
+like hot cakes. The highlights include a
+screen that’s got a higher pixel density
+than the human eye can differentiate
+at over 320 pixels per inch. Apple calls
+it the Retina Display and what it es-
+sentially means is that text and images
+look incredibly crisp.
+Apple’s packed its little burner of
+a processor, the A4, into the iPhone
+4, which we’ve seen previously in the
+iPad. The rear camera has been im-
+proved with backside illumination and
+bumped up to 5MPs, which should
+make shooting in low-light conditions
+better. It’ll also provide you with 720p
+HD video recording at 30fps, which
+you can now edit right on the device
+with a portable version of iMovie.
+iPhone 4 also come with a VGA
+camera on the front ready for Apple’s
+FaceTime, a zero configuration iPhone
+4 to iPhone 4 Wifi-only (for now)
+video calling service that looks great.
+Whether you’ll use it, I don’t know.
+The battery is now 14% bigger, whilst
+the phone has thinned by 24% to an
+anorexic 9.3mm thick. Both front and
+back are made of hardened glass held
+together by a stainless steel band. Solid.
+Yours from June 24th with pre-orders
+starting on the 15th on most networks.
+e eased
+C fea-
+ease
+ri
+to sta t w
+own link
+‘t.co
+n
+i
+m
+e
+w
+Windows
+

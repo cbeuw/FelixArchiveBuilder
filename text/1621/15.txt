@@ -1,0 +1,81 @@
+4
+The Phoenix 5 winter 2015
+You’ve picked me despite the fact that there is a cheaper
+bottle
+of red just to my left. Very impressive. I do come from
+better climes: my Alta grapes are much better any shoddy
+old Merlot.
+At least you haven’t gone for Lambrini. I doubt anyone
+will notice at pre-drinks either way, but I promise
+I’ll be a good shout until you get three glasses in and
+realise that perhaps
+you’re not quite the heavy-weight you claimed to be at the
+Mingle yesterday
+and that 18% alcohol content is actually pretty good bang
+for your bottle.
+Don’t worry - what’s one missed 9AM lecture between freshers?
+I’m sure you didn’t need to be
+in that fire safety briefing anyway.
+A.M., Physics, Year 3.
+function Graduate = Imperial(Student)
+Student.Happiness = 100;
+Student.Knowledge = 0;
+Student.Money = 50;
+while Student.Happiness>0
+for year = 1:4
+		 Student.Knowledge = (TimeInLibrary/TimeNotInLibrary)*year;
+		 Student.Happiness = (TimeNotInLibrary/TimeInLibrary)/year;
+		 Student.Grades = Student.Knowledge*rand;
+		 Student.Money == 0;
+		if Student.Money == 0
+			if Student.Parents ~= Rich;
+				break
+				error(‘Student is Broke’)
+				while 1 == 1
+					Cry(Student)
+				no end
+			end
+		if Student.Grades < 40
+			break
+			error(‘Student has Failed’)
+			while 1 == 1
+				Cry(Student)
+			no end
+		if year == 4
+			if Student.Project == Interesting && Achievable
+				Student.Happiness = 100;
+				Student.Knowledge = 100;
+			else
+				break
+				error(‘Student has Failed’)
+				while 1 == 1
+					Cry(Student)
+				no end
+			else
+end
+end
+Graduate = Student;
+Graduate.Knowledge==100;
+Graduate.Happiness==100;
+Graduate.JobProspects==100*rand;
+End
+J.B., Physics, Year 4.
+At first you’re a lamb, with shak-
+ing legs and wide eyes, surrounded by
+wolves. You long to join the pack. So
+you get slaughtered on your first Sat-
+urday night away from home and wind
+up as fresh meat. Soon you’ll be a
+rotting carcass, like those who have
+gone before you. You’ll waltz up to
+the chopping block for the final blow,
+the last hurrah, and the sharp knife
+of reality in the form of “careers ad-
+vice” will come crashing down, slicing
+the last shreds of freedom away.
+Stay a lamb as long as you can.
+Biochemistry, Year 2.
+Notes to a
+Fresher
+Illustrations: Jingjie Cheng
+

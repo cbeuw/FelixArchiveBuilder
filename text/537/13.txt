@@ -1,0 +1,175 @@
+REACTION TO LAST WEEKS MICRO ARTICLE
+I w a s i n t e r e s t e d t o r e a d M a r y
+Attenborough's article in FELIX no. 536.
+Ms Attenborough presents a scenario and
+then just leaves it without pointing out its
+consequences or how things got like that. I
+refer to her remark "Of the people in work, we
+could be left with a technocratic elite and
+deskilled masses."
+No government would survive for very long
+if this state of affairs existed (except a regime
+like the one in Cambodia which was prepared
+to kill off a large fraction of the population for
+purely economic reasons), as the "unskilled
+masses" would 'revolt'.
+What is more interesting is how the
+situation could get that bad in the first place.
+The answer is that in this country it couldn't
+because of the way that the technology
+works. Very few of the factory 'robots' which
+will replace human jobs can do so without
+having been taught how to do that job by the
+human operator. Whenever a factory starts
+producing a new item, the machines have to
+be taught how to deal with them, by skilled
+human operators
+There are very few paint sprayers, for
+example, who would teach a machine to
+spray a chair if it meant the he/she and
+his/her mates would be out of a job as soon as
+they'd done it. S o what is the answer: Hide
+vour head in the sand (the Australians have a
+lot of that)? No, chiefly because the chip
+gives a great chance to improve the
+environment, as I shall explain.
+The answer is for the paint sprayer to
+copywrite his work, so that each time the
+machine paints a chair the company pays
+him, well actually not him, but a union who
+distributes the money amongst the paint
+sprayers who are registered as working for
+that factory.
+So what to do with the time that used to be
+spent spraying chairs? Oddly enough, much
+of it will be spent painting chairs because :the
+guy who gets the next job is the best paint
+sprayer around, so every one keeps in
+practice.
+The reason I say that micros are going to
+improve t h e e n v i r o n m e n t is b e c a u s e
+economic policy of firms is based on
+reducing unit costs, conventionally this is
+done by reducing labour costs, but if labour
+costs are fixed (as above) then the only way to
+reduce unit costs is to use less resources,
+land energy, raw materials etc, and therby
+doing all the things the environmentalists
+want us to do.
+Actually micros aren't that clever either, the
+brain surgery machine mentioned by Ms
+Attenborough couldn't deal with any thing it
+hadn't met before (well a c t u a l l y t's
+programmer, who would also have to be a
+brain surgeon) whereas the experienced
+human could, not for any spiritual reason but
+simply because the data storage and data
+handling capacity ofthe human brain cannot
+as yet be rivaled by any computer around
+today (or tomorrow).
+Any one who has written software for a real
+problem will know that most of the skill is
+defining the problem and selecting the
+c o m p r o m i s e s ( t h e r e a r e a l w a y s
+compromises). The coding is a very minor
+part of the work, computers can do the
+coding but none of the rest.
+So my view of the future is of a society
+based on skill not 'slog' where people do what
+they are good at, and sell the copyright on
+their skill. I believe this future is inevitable,
+economic and social pressures will ensure it
+goes that way.
+If you are frightened by, or even interested
+in micros then come to one of the micro
+computer club meetings at 7:00pm on
+Tuesdays. This week our illustrious editor is
+giving a talk.
+Tim Panton
+COMPOSING
+MUSIC BY
+COMPUTER
+BY THE FELIX EDITOR, COLIN PALMER
+Somehow they (micro club) managed to
+rope me into giving a lecture o n Music
+Composition by computers. Before you turn
+to page 12 of this illustrious newspaper I
+promise not to bore y o u with detailed
+descriptions of 12,000 line Pascal programs.
+For those of y o u who remember my
+election campaign for FELIX Editor, last
+March, you may recall a weird election poster
+based on my experiments with computer
+music composition. Most programmers
+create games packages which use up large
+amounts of units. In these days of cuts I
+believe one should write programs that create
+usable output rather than eat up units ....
+however the program had a 6 hour C P U
+execution time a n d thus defeated the
+objective of saving units (it was run over the
+summer vacation 1978).
+If you are interested in computer music
+composition then come to the Micro
+computer club next Tuesday (I don't know
+the venue but I suppose it's in the Union
+building?). T o wet your appetite i'll try and
+give y o u a brief description of the main
+elements of the program.
+Before composing music one has to write
+an output package that will display the notes
+in a readable format. It is useless trying to
+interpret millions of numbers and symbols.
+Fortunately several students have developed
+an attractive plotting package for the
+Kingmatic plotter (a great device that also
+produces attractive spirographic patterns).
+However, I decided it would be interesting to
+develop a package that would output musical
+scores on a lineprinter.
+After a few weeks the lineprinter was
+merrily churning out single voice random
+tunes. I was not satisfied with just one voice
+being composed and set to work producing a
+p r o g r a m , that w o u l d output four-part
+harmony o n the lineprinter! 3 months and
+20,000 units laterthe progrtam began to run. It
+included a self-checking subroutine that
+needed a checking routine to detect bugs in
+the check program. Before long the first aim
+to produce a program that composed music
+had been amended to producing a good
+output package.
+I was able to compose some canons which
+could never have been constructed by a
+h u m a n b e i n g b e c a u s e t h e y h a d a
+mathematical perfection and harmonic 'fit'
+that would have taken years to compose. The
+program was able to give a mark out of 60,000
+points for each attempt that it composed. The
+computer stored the 'best' attempts and
+reproduced them at the end of the search to
+find special canons. The ability for a machine
+to evaluate its performance smacks or
+artificial intelligence and that is one of the
+areas in which I next hope to write articles for
+FELIX.
+If you'd like to see some of the output
+please drop into the FELIX office.
+RCS C A R O L SINGING
+NEXT
+MONDAY
+MEET RCSU FOR
+FREE PUNCH
+AT 6 p.m.
+PROF. BREMSSTRAHLUNO
+Come an Pro)"'
+It's wmnina'
+refuse to beiieve t+ijir I
+ccjn be beaten b.j a. mierg
+rrKu-bin<- ... ,h
+r., thai : /
+Too bad Prof ! L j o u
+can't huff i t s king !
+13
+

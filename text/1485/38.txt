@@ -1,0 +1,223 @@
+SPORT sport.felix@imperial.ac.uk
+Sports Editors: Jovan Nedic
+David Wilson
+SPORT
+38
+sport.felix@imperial.ac.uk
+Sports Editors: Jovan Nedic
+David Wilson
+Felix Sports League
+sponsored by
+Will Mason
+I
+ce Hockey
+IC B’s 5-3 & 6-1 Cambridge
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1210 607 603 5.00
+2 Fencing M1 10 10 0 0 1229 919 310 5.00
+3 Table Tennis M2 11 11 0 0 156 31 125 5.00
+4 Water Polo W1 8 7 1 0 102 24 78 4.63
+5 Volleyball M1 11 10 0 1 22 4 18 4.18
+6 Volleyball W1 11 10 0 1 21 4 17 4.18
+7 Basketball M1 12 10 0 2 917 735 182 3.50
+8 ICSM Netball W1 12 10 0 2 493 312 181 3.50
+9 Lacrosse M1 11 9 0 2 154 85 69 3.36
+10 Tennis M1 12 9 1 2 84 60 24 3.25
+11 Table Tennis M1 12 9 1 2 84 60 14 3.25
+12 Basketball W1 9 7 0 2 464 348 116 3.00
+13 Netball W1 13 10 0 3 546 367 179 2.92
+14 Squash W1 11 8 0 3 31 12 19 2.55
+15 Hockey M1 12 8 1 3 46 25 21 2.50
+16 Rugby M1 14 10 0 4 344 191 153 2.43
+17 Hockey W1 13 9 0 4 67 24 43 2.23
+18 Lacrosse W1 9 6 0 3 110 64 46 2.00
+19 Table Tennis W1 6 4 0 2 20 10 10 2.00
+20 ICSM Football M1 9 5 1 3 28 18 10 1.67
+21 ICSM Hockey W1 20 10 3 7 54 48 6 1.40
+22 ICSM Rugby M3 10 6 0 4 252 266 -14 1.40
+23 Football M1 13 7 1 5 34 20 14 1.31
+24 Badminton W1 13 7 1 5 44 60 -16 1.31
+25 Hockey M2 12 5 3 4 22 26 -4 1.25
+26 Football W1 7 4 0 3 19 19 0 1.14
+27 Tennis W1 7 4 0 3 42 42 0 1.14
+28 ICSM Hockey M3 7 4 0 3 11 27 -16 1.14
+29 Netball W3 9 5 0 4 291 217 74 1.00
+30 Hockey M3 11 4 3 4 17 13 4 0.91
+31 Badminton M1 11 4 3 4 44 44 0 0.91
+32 Fencing M2 10 5 0 4 1122 1128 -6 0.90
+33 ICSM Hockey M1 10 5 0 5 25 20 5 0.50
+34 Netball W2 12 6 0 6 445 483 -38 0.50
+35 Badminton M2 10 4 1 5 43 37 6 0.20
+36 ICSM Hockey M2 11 3 3 5 19 29 -10 0.09
+37 ICSM Netball W2 11 5 0 6 341 360 -19 0.09
+38 Squash M4 6 2 1 3 8 7 1 0.00
+39 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+40 ICSM Football M3 0 0 0 0 0 0 0 0.00
+41 Lacrosse W2 0 0 0 0 0 0 0 0.00
+42 ICSM Football M2 5 2 0 3 14 16 -2 -0.40
+43 Fencing W2 10 4 0 6 1142 1170 -28 -0.40
+44 Fencing M3 10 4 0 6 1146 1201 -55 -0.40
+45 Football M3 11 3 2 6 22 30 -8 -0.45
+46 ICSM Badminton W1 9 2 2 5 32 46 -14 -0.67
+47 ICSM Badminton M1 10 3 1 6 24 56 -32 -0.70
+48 Squash M3 9 3 0 6 17 26 -9 -1.00
+49 Tennis M2 10 2 2 6 40 79 -39 -1.00
+50 Hockey W2 12 3 1 8 13 41 -28 -1.25
+51 ICSM Rugby M1 11 2 1 8 144 427 -283 -1.82
+52 Water Polo M1 3 0 1 2 23 30 -7 -2.00
+53 ICSM Rugby M2 12 2 1 9 200 438 -238 -2.00
+54 Rugby M2 14 3 0 11 194 356 -162 -2.07
+55 ICSM Hockey W3 5 1 0 4 4 17 -13 -2.20
+56 ICSM Hockey W2 10 2 0 8 21 42 -21 -2.20
+57 Rugby M3 10 2 0 8 71 357 -286 -2.20
+58 Hockey M4 11 2 0 9 15 32 -17 -2.36
+59 ICSM Badminton M2 6 1 0 5 16 32 -16 -2.50
+60 Squash M2 12 2 0 10 16 44 -28 -2.50
+61 Rugby M4 8 1 0 7 59 325 -266 -2.88
+62 Football M2 12 1 0 11 14 36 -22 -3.25
+63 Squash M1 7 0 0 7 5 30 -25 -4.00
+64 ICSM Netball W3 9 0 0 9 186 352 -166 -4.00
+65 ICSM Netball W3 7 0 0 7 134 257 -123 -4.00
+The Devils were confident going up against the
+bottom-of-the-league Cambridge, but remained
+cautious after their previous close call with Ox-
+ford Women’s.
+The game saw the Devils with the first 3-line
+roster this term, and some changes to the indi-
+vidual lines. This clearly paid off as the Dev-
+ils’ first line opened with a goal by Liljegren
+(23), assisted by Barakat (11) and Nolan (53), 1
+minute into the first period. The game was still
+open and both teams were still learning the play
+leading to a goal for Cambridge after a defen-
+sive mistake. Line changes were occasionally
+fumbled, but the Devils’ Forwards took advan-
+tage of the more inexperienced Cambridge De-
+fence to dominate the play. The Devils racked
+up 4 more throughout the first period by Wal-
+ther Buel (87), Grabham (80), Barakat (11)
+and Jones (40). Constant pressure prevented
+Cambridge from leaving their zone and setting
+up any play, odd breakaways were ably turned
+away by Devils’ Defence.
+Cambridge came back in the second period
+with a new-found energy and challenged the
+Devils far more. Play went end to end and the
+puck was heavily contested. Devils’ Forwards
+Guilds
+rugby
+day trip
+to Oxford
+Max Joachim
+C & G Ru g by
+C&G 44 - 29 Balliol College
+After a convincing win over the RSM last term,
+the City & Guilds RFC took on Balliol College,
+Oxford in the annual Gin match. It was to be
+a day of records; the most number of referees
+seen in a rugby match and the greatest number
+of bottles of Gin drunk in one evening. The au-
+thoritative word of vice-captain Graeme Ridler
+stated that the team would meet at 11.50am
+only for Ridler himself to arrive late.
+Upon safe arrival in Oxford, we swiftly made
+our way to the ground only to discover that no
+changing rooms were available and, more im-
+FELIX
+Friday 11 MARCH 2011
+fell foul of the referee for physical play, but de-
+spite three separate penalties the Devils refused
+to concede on the Penalty Kill. With the final
+penalty ending in the third period the Devils
+were back to 5 men and had an opportunity to
+make up for the goal-less second period. Sadly
+this was not the case as the Devils slowly dis-
+integrated from lack of energy. Unnecessarily
+long shifts and sloppy changes were causing
+the Devils to lose focus and Cambridge seized
+the chance using a breakaway to outskate the
+Defence and score. Still in the lead, this did not
+serve the wake-up call the Devils needed and
+Cambridge managed another shortly before the
+game was out. Overall, a win for the Devils; but
+with the negative goal difference from the Spit-
+fires still against us a 5-3 win was not enough.
+Player of the match was given to Goalie, Gem-
+ma Bale (84).
+Ahand-picked team of two lines with the con-
+fidence of a previous win under their belts and
+ably supported by Bench Coaches Matt Dolan
+and Tim Runcorn (numbers 28 and 36 of the
+A-Team, the latter also club President) stepped
+on to the ice with the game in their hands. Im-
+mediately the Devils could sense Cambridge’s
+trepidation and despite their attempts to hide
+it the Devils pounced. Another early goal for
+Imperial, Barakat (11) scored on a breakaway
+after 4 minutes of fairly open play to set the
+Ice Hockey: Double win for
+B team against Cambridge
+tone for the match. This was followed up with
+3 more in the first period; by scorers Jones (40),
+Liljegren (23) and Barakat (11) again.
+A confident first period, but the Devils were
+determined to score again and maintain mo-
+mentum unlike the previous game. Wise words
+from Dolan and Runcorn saw the team with
+the bit back between their teeth and ready for
+Cambridge who appeared to have just warmed
+up for the second period (much like before).
+The Devils maintained the upper hand but play
+was slowly degrading into coarse physical con-
+tact and bad passes. Defender Matt Nolan (53)
+fought through to score his maiden goal of the
+season, but this spurred Cambridge on. The Ref
+appeared to turn a blind eye to the girls’ indis-
+cretions and there were cries from the bench
+of foul play but the Devils soldiered on until
+a forced defensive error let Cambridge put one
+in. Outraged the Devils next line took to the
+ice and scored in return, a hat-trick for Barakat
+(11).
+Incensed, Cambridge took to dirty tactics tar-
+geting center, Liljegren (23), and holding her
+down on the ice. As the non-checking league
+the Devils were unsettled by rough play and
+were not used to fighting as commonly occurs
+in A-Team games. However, they held their
+own and would not be dragged down, nor con-
+cede again for the rest of the game.
+portantly for Messers Joachim, Jinks and Hill,
+no toilets. The game finally got underway after
+a two hour delay. It soon became clear that both
+teams wanted to play fast-flowing rugby with
+the C&G having the upper hand in the first half
+scoring another 3 tries by Nicholas Johnstone
+and two tries by Scotsman Michael O’Connell
+who added an extra two points with a difficult
+drop-goal conversion.
+At half-time with C&G leading 24-0, the ref-
+eree who was also the Balliol captain decided
+to get in on the action and handed over referee-
+ing duties to another player. The second half
+was a much tighter affair with the hosts finally
+putting together some good moves. Strong run-
+ning by their 8 and 10 saw them dot down two
+tries to close the gap to 24-10 but soon after
+O’Connell took his chance to seal his hat-trick.
+Balliol still didn’t give up but the fierce C&G
+defense held fast, led bravely by Jinks who
+made a number of crunching tackles.
+Tries by Ridler and Tom Beswetherick round-
+ed off a 44-29 victory for the mighty C&G, not
+before a third referee was brought into the fray.
+The victory meant that C&G remain unbeaten
+this season.
+Man of the Match went to Jinks whilst Chris
+McGeough reclaimed his beloved ‘distinct-
+ly average performance’ trophy. Johnstone
+snatched the Twat of the Match award for at-
+tempting a ridiculous drop-goal kick, a trait he
+has inherited from his brother.
+

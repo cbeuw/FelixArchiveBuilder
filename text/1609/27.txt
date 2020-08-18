@@ -1,0 +1,99 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 39
+12.06.2015
+FELIX
+38 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+12.06.2015
+Puzzles Editor Michael Faggetter
+Puzzles
+fsudoku@imperial.ac.uk
+Puzzles Editor Michael Faggetter
+Puzzles
+fsudoku@imperial.ac.uk
+FUCWIT
+Don’t forget to send in your
+completed puzzles.
+Points are awarded for each correct
+solution, bonus points (in brackets)
+are awarded to the first correct
+answer!
+Leaderboard
+Teams:
+1. Fully Erect 313
+2. L3Gendary 96
+3. WG		 74
+4. pintosRules 51
+5. Mindsuckers 48
+6. SAFCAF 29
+7. Dapper Giraffe 15
+8. AnyonebutKofi 8
+9. Ebolalala 7
+10. Aerodoku 2
+Individuals:
+1. Adam Stewart 106
+2. Catmelon 58
+3. Jem Ong 45
+4. Catmelon 58
+5. Ayojedi 22
+6. Kebab King 21
+7. Sach Patel 11
+8. Angus		 8
+9. Gene H. 7
+10. Fengchu Zhangjj 3
+Points avaliable this week:
+Tiny Sudoku (each) 3 points (+1)
+Each Sudoku 3 points (+2)
+Quiz		 3 points (+2)
+Slitherlink 3 points (+1)
+Small nonogram 2 points (+1)
+Large nonogram 3 points (+2)
+Super nonogram 5 points (+3)
+Bridges 4 points (+3)
+Last Week’s
+Solutions:
+Big and strongogram
+Bridges
+Bridges is played on a
+rectangular grid with no
+standard size. Some cells
+start out with numbers
+from 1 to 8 inclusive;
+these are the islands.
+The rest of the cells are
+empty. The goal is to
+connect all of the islands
+into a single connected
+group by drawing a series
+of bridges between the
+islands. The bridges must
+follow certain criteria:
+They must begin and
+end at distinct islands,
+travelling a straight
+line in between; They
+must not cross any
+other bridges or islands;
+They may only run
+orthogonally; At most
+two bridges connect
+a pair of islands; and
+The number of bridges
+connected to each island
+must match the number
+on that island.
+Super Duper Nonobellogram Tiny weeny sudokus
+Last Week’s
+Solutions:
+QUIZ
+ANSWERS:
+1) Prince Ali
+bin Hussein
+2) Uracil
+3) Xhosa
+4) Ozymandias
+5) Turkey
+6) Red
+7) Ouija
+8) Parsley
+9) Hound Dog
+10) Auxotroph
+

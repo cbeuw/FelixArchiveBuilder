@@ -1,0 +1,245 @@
+Science
+MAIN FLOW
+STEAM
+DRUM LEVEL
+FEED FLOW
+STEAM
+DRUM PRESSURE
+ROD INSERTION j
+7
+% POWER " " " j ^ ' , u u u a u u
+T I M E * 122 00
+Rod Fully tnsertwd
+• t
+EED
+.0W
+UCED I
+FEED
+FLOW
+REDUCED
+RODS
+MOVE TO
+COMPENSATE FOR
+INCREASED VCHDAGE
+1-23-00
+•
+TEST CHANGE
+STARTS TIMESCALE
+10s
+REACTIVITY THE INCREASE
+STARTS TO IN POWER
+RISE AND REACTIVITY
+TOOx FULL POWER
+This extra power comes from the
+stations own generators. After the
+steam supply is shut off and they
+start to run down, the turbines will
+spin fast enough to supply power to
+the first stage E C C S for 45 to 50
+seconds.
+The generators at Chernobyl
+reactor number 4 had just been
+modified to try and increase this
+time and it is because of mistakes
+made in tests o n the modification
+that the reactor exploded.
+The accident at Chernobyl was the
+culmination of a series of mistakes
+and miscalculations which has
+begun some 24 hours earlier with a
+test on the E C C S . The reactor was
+due to be shut-down temporarily for
+maintenance, and it was decided to
+take this opportunity to see how the
+recently redesigned turbine-
+generators could work the first stage
+E C C S . The test instructions are said
+to have been poor.
+Over the next twelve hours, the
+operators reduced the core thermal
+power output, initially 32 000 M W
+by half and reset the reactor to work
+just one generator. Then, as
+apparently instructed by the test
+procedure, they turned off the
+E C C S and several other safety
+systems. There followed a nine hour
+delay as the plant was brought in to
+cope with a sudden surge i n
+electricity demand. During this
+time, a different operator shift,
+possibly less aware of the test
+conditions, clocked in.
+When the reactor came off stream,
+the new operators resumed the test.
+They set u p an automatic control
+system to halve the power again.
+However, whoever set u p the
+system badly miscalculated, and the
+core power output dropped to a
+mere 30 M W , under 1% of the
+original power and well below the
+level at which the power coefficient
+becomes highly positive. The reactor
+would have become unstable.
+Such a rapid reduction of power
+naturally led to a build up of
+absorbing Xenon which had not had
+the time to be removed or to
+decay.This reduced the reactivitv
+but also made the reactor much less
+easy to control.
+The operators started to withdraw
+control rods and succeeded in
+increasing the power to the safer
+level of 200 M W . But because of the
+extra Xenon, the rods had to be
+withdrawn further than usual.
+Nobody knows whv the operators
+did what they did next: they turned
+on all the working and reserve
+coolant p u m p s a n d greatly
+increased the water flow to almost
+a ton a minute, fast enough to
+vibrate the pipes and damage the
+core. They also disabled safety
+systems designed to force a shut
+down in the event of a major
+pressure drop.
+The final two minutes
+The pressure did drop and with
+it the reactivity as the enormous
+volume of water flowing started to
+take effect. A s the pressure
+dropped, the water level in the
+steam drums dropped. Cooling
+water was diverted to top them up
+and this worked its wav to the core
+further reducing the reactivity. By
+now all the control rods were out of
+the core.
+To increase the volume of steam
+and increase the reactivitv and
+power, the operators slowed the
+coolant flow and shut off steam
+release valves. Half a minute later
+steam started to build u p and
+automatic control rods began to
+It has been observed experimentally
+that the mass of a nucleus is less-
+than the s u m of the masses of its
+parts. For example, and atom of
+Carbon-12 (six protons, s i x
+neutrons) is less massive than six
+single protons a n d six single
+neutrons. The difference is due to
+the 'binding energy'. This is the
+energy needed t o force the
+constituent 'nucleons' in an atomic
+nucleus apart. It is a measure of how
+much unused or potential energy is
+available within the nucleus: the
+more 'spare' energy there is, the less
+needs to be added to separate the
+nucleons.
+Very light and very heavy nuclei
+tend to be more weakly bound: they
+hold more spare energy than
+nucleus into two some of this
+energy can be released The former
+process is nuclear fusion, the latter,
+nuclear fission - the basis for all
+viable n ns.
+•
+drop. Much ot the Xenon had been
+washed out of the svstem and the
+power started to rise.
+It did not stop rising, although the
+control room seemed unaware of
+this, and the decision was taken to
+finish the test and cut off steam to
+the turbine. This caused an increase
+in pressure, some of the steam
+condensed a n d the reactivity
+dropped. Again automated control
+rods withdrew to conteract this and
+then dropped almost immediately
+as steam again stated to build up.
+It continued to build up and the core
+started to rapidly warm.
+The S C R A M button was pressed
+but it was too late: too manv control
+rods were too far from the core and
+some of those that were not jammed
+in distorted channels. The pressure
+build up was so great that it shut
+one-way valves in the cooling
+system. N o more cooling water
+could reach the core. What was
+already there eveporated and the
+core reached 100 times its safe
+maximum power. The pressure
+build up blew pressure tubes and
+the inadequate vault apart and left
+the World with its worst ever
+nuclear disaster.
+Jason Lander
+Splitting the atom
+and the available, fissionable fuel
+atoms, for example Uranium-235,
+allowed to release energy naturally
+by decaying into smaller particles:
+the process would be too slow to be
+usable. Atomic fission has to be
+artificially speeded up.
+Fission reactors take advantage of
+the fact that while Uranium-235 is
+comparatively stable, the heavier
+and m u c h rarer isotope
+Uranium-236 is not, a n d will decay
+rapidly releasing its energy in the
+form of fast neutrons. T o produce
+useful power, the lighter isotope
+must be converted into a heavier
+m e by bombardment with slow
+moving neutrons.
+A chain reaction can be set u p .
+Uranium-236 can be produced b y
+bombarding atoms of Uranium-235
+with the neutrons produced in
+Uranium-236 decays. What is
+needed is some means of slowing
+the neutrons from the decay
+sufficiently for them to be absorbed.
+This is achieved with a material
+known as a moderator which is-
+dense enough to interact w i t h the
+neutrons but stable enough not to
+absorb a significant n u m b e r .
+Graphite, used i n the R B M K , is by
+far the most common example.
+It must be possible to control the
+reaction. Here, some form of
+absorber is used. This is a material,
+such as Boron, that c a n readily
+accept excess neutrons. By changing
+the amount of absorber, it is possible
+to vary the number of neutrons ' i n
+circulation' and increase of decrease
+the reactors ability to sustain a
+reaction, or 'reactivity'. A higher
+reactivity means a greater power
+output. Xenon,- one of the by-
+products of Uranium fission also has
+absorbing properties and, if allowed
+to build u p can slow or even halt a
+reaction.
+The heat generated by the fission
+has to b e , r e m o v e d . • N o t
+surprisingly, this is done by a
+coolant In the R B M K , the coolant
+is light water ( ' H , 0 ) which also has
+the properties of a moderator and an
+absorber.
+March 3 I W I'll 1\
+

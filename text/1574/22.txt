@@ -1,0 +1,257 @@
+23
+FRIDAY 02 MAY
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+up, and is ready to be used straight after
+installation.
+I freely admit to being a bit of a
+Wordpress snob, it just seems so
+commonplace. While I must concede
+the fact that it is another extremely
+powerful blogging system with a
+friendly User Interface (UI), I think
+it has become the MySpace of the
+blogging world. There are so many
+plugins that the Wordpress (WP)
+platform has become a bit too cluttered.
+On an average WP blog, a visitor can
+be easily distracted by the page layout,
+the interesting widgets on the sidebar
+(including a count of the tens of people
+who have recently visited from across
+the world) and the ability to log in and/
+or leave a comment.
+Meanwhile I feel that Tumblr (or
+Yahoo for the commercially conscious)
+blogs are too sporadic in nature. They
+domains.”
+If you choose to go ahead with
+installing Ghost on a server, you should
+follow the easy official instructions
+available on the Ghost installation
+page. The platform runs on the modern
+Node.js web framework, so be ready to
+install it.
+Tip: Use the “nave” virtual
+environment manager for nodejs in
+order to keep your Node.js project
+dependencies separate. I’m sure you
+don’t want to break an older Node.
+js app by upgrading your currently
+installed version :)
+After following the fairly simple
+installation guidelines (make sure you
+pay special attention to the version of
+Node.js the project depends on - see
+packages.json file), the new blog will
+be available on port 2368 of your new
+server (also don’t forget to change to
+change the host to host: ‘0.0.0.0’ in
+config.js otherwise you won’t be able
+Google announced a few weeks ago
+via a Google+ post that it has plans
+to create its very own smartwatch.
+No concrete details on the wearable
+device are known as of yet, but
+the sources across the netscape
+indicate that it could build on already
+established partnerships with HTC,
+Asus, LG and others.
+The foray of Google into the
+wearable device industry raises the
+interesting fact that despite the
+assumption made by many that Apple
+is the most innovative company in
+the world, Google has in recent times
+done much to earn that recognition,
+and its announcement to create a
+smartwatch is further evidence of this.
+The company has skillfully built on
+software engineering, its business’s
+core competency, and has been able
+to generate innovative outputs like
+its driverless cars and the recently
+released Google glass. These two
+projects are a testament to its business
+environment which harnesses the
+creative talents of its workers, as
+opposed to ideas coming from a
+singular individual as was the case
+with Apple, if this is fair to say.
+Not all Google’s attempts at
+innovationhavebeenasuccessthough,
+in fact, these failings could easily be
+slated as the company’s falling short
+of developing a monopoly. A product
+like Google+, its social networking
+offering could arguably be classified
+as an over-reach, just as its attempts
+in buying Motorola to have a foothold
+As soon as I had finished installing
+Ghost on a cloud virtual server, my
+good friend Luke G-B pointed out the
+existence another awesome blogging/
+CMS platform called WagtailCMS.
+WagtailCMS is a Django-powered
+Content Management System created
+by Torchbox, a web design consultancy
+based in Oxfordshire. The project
+homepage also features a case study of
+the platform in use by our neighbours
+at the Royal College of Art (RCA).
+The platform is completely Open
+Source, with the source code available
+on Github along with a demo website
+and a handy tutorial by Serafeim
+Papastefanos.
+WagtailCMS requires a lot more
+configuration and customisation
+than Ghost in order to be useful. As
+well needing to define page types
+before being able to create an article,
+the platform also comes without any
+packaged style sheets, in fact you have
+towritethetemplatesforeachpagetype
+from scratch, which means that you can
+create a fantastically complicated blog
+with a lot of planning, but also have the
+chance to customise the application to
+your needs, once you understand how
+to use the system.
+While using the WagtailCMS
+platform requires a large amount of
+specialised technological expertise
+(if you don’t even know what Django
+is - apart form an awesome modern
+python-based web framework),
+with the right frame of mind, and an
+experienced Web Designer you can
+create works of art (have a look at the
+RCA website).
+Meanwhile, for those of you with a
+bit of server-admin know how, or more
+time than you know what to do with,
+the Ghost platform is fairly easy to set
+How to get into Ghostblogging!
+Choosing a platform
+Why Not Wordpress
+or tumblr?
+seem to be almost Twitter feeds made
+permanent, a few fleeting thoughts and
+a large pool of pictures poured into a
+disjointed list of posts. I am aware that
+David Karp, the 27 year old founder
+of Tumblr wished to make a blogging
+system with a difference, and he did
+achieve his aim, however I believe that
+it fails to meet the needs of the slightly
+more serious or mature blogger.
+The reason why I am such a fan of
+Ghost (so far) is its simplicity, clean
+design and Open Source nature. Any
+soul with a $5/mo (USD) server, or a
+kind friend (with a server) can easily
+host their own personal Ghost blog on
+a domain of their choice.
+Alternatively, you can pay $5 a month
+to have your blog hosted by Ghost
+themselves, which roughly adds up to
+£36 per year.
+The cost is more than the cost of a
+free WP blog, but this basic plan does
+boast
+“... premium email support, unlimited
+features, unlimited users, unlimited
+themes & apps, and support for custom
+to view the blog from outside the host
+server - which is only useful if you have
+a VPN via the server and want to keep
+your blog private).
+Logging on to http://your-domain-
+or-ip-address-here:2368/ghost brings
+you straight to the login page of your
+blog. This allows you to set up a user
+and start blogging!
+The blog posts are written in
+markdown, which is a fairly simple text
+markup (oh the irony) language (I’ve
+just learned it) and the writing interface
+is really easy on the eye and simple to
+use. The blog comes with a standard
+theme that can be easily customised or
+replaced with a pre-built theme.
+In order to get your blog ready for
+the production environment, the Ghost
+team suggest using the Nginx web
+server solution, rather than running
+the Node.js development web server. I
+am still on the Node.js web server (the
+application is running in a “screen”)
+however, I have also used the apache
+http_proxy module to route all requests
+for port 80 to port 2368(it took 5
+minutes and Google) which means that
+my blog now serves as the homepage of
+my domain.
+Finally, as an extra step, if you’d like to
+receive emails from the blog, (especially
+if you’d like to be able to reset your
+password one day), I’d also recommend
+following the instructions to set up
+an email address for the blog to send
+notices from. Gmail is particularly well
+supported, so the procedure should be
+simple.
+Tip: Remember to restart the web
+server application after changing the
+website’s configuration files on the
+server in order for the new settings to
+come into effect!
+So, Congratulations! If you’ve
+followed each step in the article (and
+the linked instructions) you should now
+have a fully functioning (and slightly
+hipster) blog to amaze your friends, or
+hide your deepest thoughts.
+How to install Ghost
+in the smartphone industry similarly
+proved futile.
+However, although it couldn’t
+establish a foothold through the
+conventional means of creating a
+smartphone, its inception of the
+android operating system which
+is openly licensed to smartphone
+makers has made it a major player
+in the industry, as far as operating
+system goes, with 76% market share.
+This can be chalked up as an example
+of innovative problem solving which
+again marks Google out from the rest
+of its competition.
+Returning to the smartwatch,
+Google aren’t the first to conceive
+of the idea of making the wearable
+device. Sony as a matter of fact are
+prepping the release of their second
+watch, while Samsung released its
+own smartwatch, the Samsung Gear,
+last year. As Ewan Spense of Forbes
+argues, the smartwatch industry
+is still “virgin territory”, despite
+these entries, which leaves it open
+to Google’s vision and let’s face it,
+resources, to dominate the industry,
+unless ofcourse, Apple has something
+to say about it.
+Time To Start Blogging
+Joseph Letts
+Felix Editor
+Google: Now the ultimate innovators?
+Tola Makanjuola
+Technology Writer
+

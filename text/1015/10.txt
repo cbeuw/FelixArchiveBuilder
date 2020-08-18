@@ -1,0 +1,150 @@
+BackChat
+question
+mm *
+reality
+of
+Servan Keondjian did not follow the usual
+career path for a Physics graduate. After
+leaving Imperial College in 1990, he first
+spent a year working at a small computer
+games company, and then went on tour as a
+pianist with a rock band. To mark the end of
+his first three years out of university, he
+founded a computer graphics company.
+However, you shouldn't get the
+impression that Servan didn't know what he
+wanted to do. It would, in fact, be more
+accurate to say that he knew what he didn't
+want to do, which was to head out into the
+world, BSc in hand, and stumble straight into
+a nice, sensible, boring job at a nice, sensible,
+boring company.
+The company that he founded,
+RenderMorphics, is now at the forefront of a
+3D graphics revolution which is sweeping the
+personal computer world. RenderMorphics'
+product, called RealityLab, is one of three
+high performance 3D graphics systems which
+have recently appeared on the market (the
+others being Criterion's RenderWare and
+Argonaut Software's BRender).
+The Product
+The best place to start the tale is back here at
+Imperial. Servan unenthusiastically recalls
+memories of his days as an
+undergrad: "I thought it was
+OK, but I did get quite fed up
+sometimes because it was all
+very serious and most of the
+people were pretty serious.
+That I found was a bit of a
+drag."
+RealityLab sprung from
+work Servan did in his spare
+time while at Imperial: "I
+wrote a simple 3D system at
+the end of my first year, and
+really that's where all this stuff
+came from."
+Servan was certain that
+he wanted to make money out
+of his 3D obsession. He got a
+job with Magnetic Scrolls, a
+software company specialising
+in adventure games. After a
+year there, Servan left because they didn't
+want to do any 3D stuff. So he joined a band
+instead.
+"I don't like working for people, I've
+always had a problem with it," he explains. "I
+didn't even go to any of the Careers Fairs,
+because I just wasn't really interested in that.
+I was pretty interested in playing in a band,
+actually. I did that for two years. I did about
+110 gigs, touring all over the country. That
+was alright, good for a break. And it also
+meant I could write graphics code during the
+day."
+It was Servan's friend, Kate Seekings,
+who finally got him to start a company to do
+something with his graphics, as she explains:
+"He kept whingeing about wanting to
+start a company, and every time I saw him he
+hadn't done it. I even bought him a book
+about how to start your own company, and it
+still didn't work. So I ended up doing it for
+him."
+Says Servan: "It was something I really
+wanted to do, but I wasn't sure about exactly
+how to direct it to begin with. It started off
+with us going to write a massive 3D game, bu
+it turned out that the 3D was so good that we
+could make something of that."
+Servan and Kate pulled in Doug
+Rabson, who he had met at Magnetic Scrolls,
+and together the three of them started
+RenderMorphics in Kate's back bedroom.
+"We set up the company at just about
+the time we'd finished the first version of
+RealityLab. So we were in the really
+advantageous position of having a nearly
+finished product when we started. Most
+people would set up a company, and get
+venture capital to develop the product. That
+puts them into debt, because it all takes a
+long time to develop."
+The Marketing
+So RenderMorphics had their product. The
+problem was that no-one knew about it. Kate,
+RenderMorphics' sales and marketing
+director, leaps in and takes up the story: "We
+tried to approach key strategic people, and we
+hoped that the word would trickle down, and
+that's basically what happened.
+"We made some mistakes initially. We
+drove all the way to Autodesk in Switzerland
+in a Renault 5 and then they weren't the right
+people. And we went all the way to Paris to
+see Microsoft, and saw some guy who tried to
+sell us Windows NT. So that trip was a waste
+of time too.
+"Then in November last year we did
+our first trip to America. I had to literally
+pick the phone and cold call companies, and
+in nine days we saw thirteen different
+companies. Our first graphics trade show was
+SIGRAPH last August. When we went to the
+show we were able to announce relationships
+with Matrox, Autodesk and Kaleida (an
+Apple/IBM consortium). So we arrived with a
+bit of a bang."
+The key to success at this early stage
+was not to give up, says Kate: "We just had to
+be persistent. I didn't always get to the right
+people, I'd just phone people up and ask for
+their person who was into 3D and talk to
+them. We also got ourselves a press agency,
+which was really expensive but was well
+worth it in America, and we got
+quite a lot of press coverage
+there."
+The Present
+Big Time: The three founders of RenderMorphics, (from left to right)
+Doug Rabson, Kate Seekings and Servan Keondjian. Photo: Mark Baker
+In the last twelve months,
+interest in RealityLab has really
+taken off.
+"It's been really hard
+work, it's just mad," says
+Servan. "We can't cope with the
+demand and everything that
+we'ie getting at the moment.
+We still need to expand and get
+more people. So we're getting
+another person from Imperial."
+That makes a total of five
+ex-Imperial students now
+working for RenderMorphics.
+"Imperial must have a
+F E L I X
+

@@ -1,0 +1,187 @@
+13 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+21.11.2014
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Artist's impression of the Philae lander appro
+the M
+the M
+the M
+How did you get involved with
+Rosetta?
+That goes back a long time. I was
+first involved in 1997. Our group is
+interested in space physics, making
+measurments of plasmas, particles
+and magnetic fields. At the time I
+was working on Cluster — a project
+to map the earth’s magnetic field.
+When the ESA was looking into
+Rosetta, they wanted a team to run
+the magnetometer, and they came
+to us because of our experience on
+Cluster.
+My Principal Investigator,
+Andre Balogh, got involved and
+came together with other groups
+to develop the instrumentation
+package, with Imperial as the main
+data processing centre. I later
+became the lead at Imperial.
+What is Rosetta trying to
+achieve that couldn’t be done by
+telescopes or previous spacecraft?
+Rosetta isn’t the first mission to
+a comet — there have been quite a
+few. The most famous is the Giotto
+mission to Halley in 1986, but there
+were two others in the same year:
+a Russian and a Japanese mission,
+which were looking at the comet as
+it was close to the sun, boiling off
+lots of gas and dust and making a
+big spectacle. They flew through
+this cloud, the coma of the comet, at
+about 10km/s, in just a few hours.
+What Rosetta is doing is
+fundamentally different. It’s no
+longer a fly-by mission as it’s in
+the same orbit as the comet and
+will travel with it, observing its
+evolution over a whole year as it
+boils off dust and gas. We needed
+10 years to get there as we had to
+get gravity assists from Mars and
+Jupiter in order to match the speed
+of the comet.
+Rosetta will also be making in
+situ measurements of its chemical
+composition. You can’t use
+instrumentation on earth if you
+want to sample what the comet is
+made of and investigate the dust and
+gas coming off it.
+Your group works on the
+magnetometers on the Rosetta
+orbiter. What are you trying to
+find out with this instrument?
+We’ve been involved with
+magnetometers on other space
+missions, particularly Cluster and
+Venus Express, and will be building
+the magnetometer for Solar Orbiter,
+the BepiColombo mission to
+Mercury, and the JUICE mission to
+Jupiter.
+The magnetometer on Rosetta was
+built in Germany. What we built is
+the ‘brain’ and the power supply for
+the whole consortium that connects
+the 5 plasma sensors. There’s also
+a separate magnetometer on the
+lander, Philae, run by a different
+group.
+We don’t know much about the
+magnetic field around a comet,
+although it won’t be very strong.
+You have a magnetic field from the
+sun and solar wind, which drown out
+any signal you’d get from the comet.
+When the comet starts boiling off
+lots of dust and water molecules,
+the particles coming off get ionised
+by UV radiation from the sun. This
+creates lots of highly conductive
+plasma around the comet, which
+shield off the solar wind. This
+should let us see how the comet’s
+magnetosphere develops. We hope
+to compare these magnetic field
+measurements with those from the
+lander to see what this can tell us
+about the nucleus.
+Have you discovered anything
+interesting so far?
+We’ve seen two things that we
+weren’t expecting.
+Water molecules boil off the
+comet and are ionised by solar UV
+radiation. These ions should gyrate
+and produce a magnetic field with
+a characteristic frequency. We’ve
+seen a frequency much lower than
+we expected — about 30-50mHz.
+This doesn’t really fit with our
+understanding of how ionised water
+molecules should behave.
+As well as that, we’ve seen low
+energy water ions coming directly
+from the comet at thermal speeds,
+as expected. We’ve also seen some
+at much higher energy. We think
+they have actually drifted past the
+spacecraft and been pushed back by
+the solar wind — they can achieve
+higher energies because they’ve had
+longer to be accelerated.
+How do you operate a spacecraft
+so far away from earth?
+In principle it’s run like any other
+mission. Emanuele Cupido is
+responsible for communicating
+between our group and the ESA.
+We have a set of protocols to
+send command instructions that
+are prepared in advance. This is
+necessary not only because it has
+to be carefully checked, but also
+because you don’t have real-time
+access. There is a half-hour delay
+in communication because of the
+distances involved, and the limit
+imposed by the speed of light.
+From our perspective it’s not
+much different to other missions.
+From the ESA’s perspective though,
+it’s very different because it’s a deep
+space mission, about 500 million
+kilometres away. You can only
+communicate using extremely large
+antennae, which requires dedicated
+facilities. The ESA’s are in Australia,
+but we also share NASA’s Deep Space
+Network.
+What challenges are there in
+operating an instrument for
+Rosetta compared to something in
+a lab on earth, or on a satellite in
+orbit around the earth?
+The earth orbit environment is
+usually worse. In deep space, we
+mostly have the constant radiation
+from the solar wind, but we also
+need to deal with occasional solar
+flares and very high energy cosmic
+rays. On Cluster, a satellite that
+"Rosetta
+will stay
+with the
+comet
+over a
+whole year
+as it boils
+off dust
+and gas."
+"We've
+seen two
+things
+that we
+weren't
+expecting."
+Chris Carr, our resident comet chaser Photo: Imperial
+Chris Carr talks to James Bezer on his
+role in the Rosetta expedition and just
+how hard it is to do science in space
+“Everyone thought it was
+a bit of a crazy idea.”
+

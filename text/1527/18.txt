@@ -1,0 +1,241 @@
+Good news, bad news
+Do you want the good news or the
+bad news ﬁrst? The bad news is that
+we are all hopeless optimists; but on
+the positive side, research published
+in PNAS last month suggests we can
+be cured.
+Previous research had shown that
+we tend to process positive and nega-
+tive information diﬀerently. When
+updating our beliefs in response to
+new intelligence, we react in the ra-
+tional and expected way in response
+to good news. However, when told
+something we don’t want to hear, we
+tend to discount it and fail to adjust
+our beliefs and expectations accord-
+ingly.
+This so-called ‘good news/bad news
+eﬀect’ is thought to contribute to the
+human error that occurs in such di-
+verse scenarios as medical decision-
+making, responses to natural disas-
+ters and ﬁnancial market bubbles.
+Here the researchers used tran-
+scranial magnetic stimulation (TMS)
+to disrupt the function of the infe-
+rior frontal gyrus (IFG), the region
+of the brain that previous studies had
+shown to be implicated in the ‘good
+news/bad news’ bias.
+Participants were given descrip-
+tions of ‘adverse life events’ and asked
+to estimate how much at-risk they
+personally felt in each case. Then they
+were given information about the av-
+Sarah Byrne Writer
+Love Science?
+(Even just a little bit?)
+Why not write for us? Get in touch now!
+science.felix@imperial.ac.uk
+Facebook facebook.com/Felixscience
+In the UK, 820,000 people suﬀer with
+dementia and by 2051 this ﬁgure may
+rise to 1.7 million. The Foundation for
+Science and Technology highlighted
+this societal challenge by inviting four
+speakers to talk about the issue from
+unique perspectives.
+The debate was started by Chief
+Medical Oﬃcer, Professor Dame Sal-
+ly Davies DBE FMedSci. She spoke
+about the need to diagnose earlier: “If
+it is picked up early, the drugs that are
+available can extend good quality pe-
+riod.” Only 31% of GPs feel they have
+had suﬃcient training to diagnose de-
+mentia.
+She also argued that in order to rid
+the stigma, all sectors of society must
+understand. This is being done by the
+Dementia Awareness Campaign as
+part of the Prime Minister’s Demen-
+tia Challenge strategy. “67% of peo-
+ple with dementia said they suﬀered
+loneliness, isolation, anxiety and de-
+pression. One person talked about his
+diﬃculties of getting his money out
+the bank because he can’t remember
+passwords and PIN numbers.”
+The following speaker, Professor
+Julienne Meyer, director of the My
+Home Life programme at City Univer-
+sity, develops action research and uses
+it to improve care home qualities. She
+works with the Government to carry
+out its initiative of creating dementia
+friendly communities involving those
+who live, die, visit and work in homes.
+“They are coming into care homes
+at a point of crisis so I really welcome
+opening up to volunteers to educate
+the public to start thinking about their
+own frailty and end of life.
+“Society has turned its back on care
+homes. We are ageist. We fear our
+own end of life. We fear dementia.”
+These social perspectives were com-
+plemented with a speech from Profes-
+sor James Goodwin, Head of Research
+at Age UK.
+Their Disconnected Mind project
+has led to more understanding of the
+biology of the disease. The project
+found that genetic factors account for
+24% of variation in change in cognitive
+ability.
+“We know what are the processes by
+which we can move research into tan-
+gible beneﬁts. The complex interac-
+tion between researchers and users is
+the rate-limiting step.” The researcher
+may not reach out to the policy mak-
+ers because they don’t trust policy
+makers to utilise their research well,
+and the practitioner may be sceptical
+of the applicative potential of research
+ﬁndings.
+He also said that limitation also
+comes under the form of funding,
+where only 0.2% of R&D in the UK was
+spent on dementia research in 2009.
+The ﬁnal speaker was Jan Hall,
+founder of the Evington Initiative
+which raises money for dementia re-
+search. She described how her family
+were aﬀected by her mother’s illness.
+This poignant speech concluded the
+speakers’ debate and brought home
+the necessity to tackle dementia.
+Lily Le Writer
+“
+”
+Circuits you can just wash away
+A well-known property of modern
+silicon-based electronics is their re-
+silience to change: a printed circuit
+board (PCB) doesn’t dissolve, and only
+melts at high temperatures. However,
+following research recently published
+in Science, this may no longer be the
+case, with the production of a compli-
+mentary metal-oxide semiconductor
+(CMOS) that can physically disappear
+at the end of use.
+A set of materials, based on either
+magnesium or silicon, dissolve af-
+ter a certain period of time through
+a chemical reaction where water can
+pull the metal centres of the CMOS
+structures, so forming a chemical
+bond, which then results in the CMOS
+being dissolved. This goes via a simple
+chemical reaction:
+Si + 4H2
+O -> Si(OH)4
++ 2H2
+.
+The diﬀerence between this and
+a traditional PCB is the way it is en-
+cased: the dissolvable electronics are
+enclosed within a silk structure, and it
+is the structure of this silk that aﬀects
+how well the circuit dissolves: circuits
+have been formed which last from 10
+minutes to nearly 12 days. This is all
+thanks to changing how crystalline
+the silk is. It is worth noting, however,
+that the team reported success with
+other biodegradable polymers.
+Extreme conditions are also not re-
+quired, with the structure successfully
+dissolving at both body temperature
+and room temperature, opening the
+avenue for medical applications.
+Trials of this technology in live or-
+ganisms has already been undertaken,
+with experiments on rats resulting in
+huge success: three weeks after im-
+plantation showed the structure hav-
+ing almost fully dissolved, with only
+faint residue of the original electron-
+ics remaining. The circuit in question,
+a set of two RF antennae connected to
+heaters allowed the heat of the circuit
+to be controlled via radio waves, to
+great success: the circuit could be seen
+in a thermal image when controlled.
+This also worked when implanted be-
+neath the skin.
+This speciﬁc application is useful as
+it shows how this technology can be
+used to facilitate thermal therapy after
+surgery to control infections.
+The Illinois team, lead by John Rog-
+ers is currently investigating full-scale
+manufacture of the dissolvable sys-
+tems through discussions with found-
+ries. Additionally, potential circuits
+are being devised for speciﬁc use cas-
+es, with possibilities available in both
+the medical and consumer markets.
+Rogers has made the news in the
+past for embedding circuits into life
+forms, with a ﬂexible, implantable
+LED array being announced in 2010,
+and last year saw a temporary tattoo
+containing electronic circuits, with
+similar medical applications as this.
+DOI: 10.1126/science.1226325
+Philip Kent Science Editor
+erage risks for their socio-economic
+group.
+The control group reacted as ex-
+pected, failing to update their risk es-
+timate in response to negative infor-
+mation. But the participants who had
+TMS applied to their IFG appeared to
+have an enhanced ability to process
+this information; the good news/bad
+news eﬀect was abolished, and they
+reassessed their risk correctly.
+However, our tendency to focus on
+the positive may have an evolution-
+ary advantage: the ability to screen
+out negative information in decision
+making may have promoted the ex-
+ploration and risk-taking that drove
+our advancement as a species, and
+may today function as a defensive
+mechanism which protects our men-
+tal health. We might be more rational
+without it, but we might not be hap-
+pier. That, we can probably agree,
+would make for some pretty bad
+news.
+DOI: 10.1073/pnas.1205828109
+Facing up to dementia
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 19 OCTOBER
+18
+the structure
+successfully
+dissolves at
+both body
+and room
+temperature
+

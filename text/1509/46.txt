@@ -1,0 +1,169 @@
+Felix Sports League
+...where do you stand?
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 5 5 0 0 403 233 170 5.00
+2 ICSM Football M2 3 3 0 0 11 6 5 5.00
+3 ICSM Hockey W2 2 2 0 0 10 1 9 5.00
+4 Lacrosse W2 1 1 0 0 7 2 5 5.00
+5 Tennis M1 4 4 0 0 38 10 28 5.00
+6 Tennis W1 5 5 0 0 56 4 52 5.00
+7 Ultimate Frisbee 1st 3 3 0 0 45 9 36 5.00
+8 Hockey W1 6 5 1 0 15 3 12 4.50
+9 Rugby M1 8 7 0 1 242 149 93 3.88
+10 Badminton W1 5 3 2 0 25 15 10 3.80
+11 Fencing M1 5 4 0 1 585 460 125 3.20
+12 Hockey M2 5 4 0 1 23 10 13 3.20
+13 Table Tennis W1 5 4 0 1 19 6 13 3.20
+14 Basketball M1 7 4 0 0 465 380 85 2.86
+15 ICSM Badminton W1 4 3 0 1 18 14 4 2.75
+16 Badminton M1 5 3 1 1 27 13 14 2.60
+17 Squash W1 5 3 1 1 11 9 2 2.60
+18 Tennis M2 6 3 2 1 40 32 8 2.50
+19 Fencing W2 6 4 0 2 564 585 -21 2.00
+20 ICSM Hockey W1 4 2 1 1 23 9 14 2.00
+21 Lacrosse W1 6 4 0 2 85 36 49 2.00
+22 Netball W1 6 4 0 2 240 195 45 2.00
+23 Football M1 7 3 2 2 12 10 2 1.57
+24 Badminton M2 5 3 0 2 13 19 -6 1.40
+25 Basketball W1 5 3 0 2 278 223 55 1.40
+26 Lacrosse M1 5 3 0 2 51 27 24 1.40
+27 ICSM Badminton M2 4 1 2 1 15 17 -2 1.25
+28 Football M3 7 4 0 3 13 14 -1 1.14
+29 Hockey W2 6 3 1 3 6 26 -20 0.83
+30 Football M2 7 3 1 3 17 19 -2 0.71
+31 Fencing M2 6 3 0 3 697 683 14 0.50
+32 Futsal M1 4 2 0 2 18 27 -9 0.50
+33 ICSM Football M1 2 1 0 1 4 6 -2 0.50
+34 ICSM Netball W1 2 1 0 1 82 72 10 0.50
+35 ICSM Netball W2 2 1 0 1 52 50 2 0.50
+36 ICSM Netball W4 2 1 0 1 47 50 -3 0.50
+37 ICSM Rugby M3 4 2 0 2 88 90 -2 0.50
+38 Squash M3 6 3 0 3 10 19 -9 0.50
+39 Table Tennis M2 6 3 0 3 53 49 4 0.50
+40 Rugby M2 7 3 0 4 92 132 -40 -0.14
+41 Golf Mixed 1st 4 1 1 2 7 10 -3 -0.25
+42 Table Tennis M1 5 2 0 3 38 47 -9 -0.40
+43 Basketball M2 3 1 0 2 225 195 30 -1.00
+44 ICSM Badminton M1 3 1 0 2 10 14 -4 -1.00
+45 ICSM Rugby M1 3 1 0 2 52 104 -52 -1.00
+46 ICSM Rugby M2 3 1 0 2 32 135 -103 -1.00
+47 Netball W3 6 2 0 4 109 100 9 -1.00
+48 Rugby M3 7 2 0 5 100 120 -20 -1.43
+49 Hockey M1 7 1 0 4 9 30 -21 -1.57
+50 Football W1 4 1 0 3 4 35 -31 -1.75
+51 Netball W2 5 1 0 4 95 164 -69 -2.20
+52 Squash M1 5 1 0 4 3 22 -19 -2.20
+53 Hockey M3 6 1 0 5 7 18 -11 -2.50
+54 ICSM Netball W5 4 0 1 3 25 185 -160 -2.50
+55 Squash M2 6 1 0 5 11 18 -7 -2.50
+56 Squash M4 6 1 0 5 3 15 -12 -2.50
+57 Fencing M3 4 0 0 4 437 521 -84 -4.00
+58 Hockey M4 5 0 0 5 3 38 -35 -4.00
+59 ICSM Basketball M1 1 0 0 1 46 64 -18 -4.00
+60 ICSM Hockey M1 3 0 0 3 6 26 -20 -4.00
+61 ICSM Hockey M2 3 0 0 3 3 19 -16 -4.00
+62 ICSM Hockey M3 1 0 0 1 0 3 -3 -4.00
+63 ICSM Hockey W3 1 0 0 1 0 7 -7 -4.00
+64 ICSM Netball W3 3 0 0 3 26 106 -80 -4.00
+Hockey: Men’s 2s remain unbeaten
+Hockey
+Jason Ye
+The Men’s 2nd XI are currently experiencing
+a season of two halves. Going into the latest
+BUCS match against Roehampton Mens’ 1s
+in the home fixture having beaten them com-
+prehensively 4-1 at the start of the season,
+we sit at the top of the league unbeaten with
+3 wins and 1 draw, and not having played
+the league leaders yet. In ULU we are sitting
+squarely at the bottom, with 3 defeats.
+A shakeup in the squad due to the rock that
+is Tinkerbell making a step up to the 1st XI;
+Unterbrøw deciding to contract an STI; and
+Doctor Fresher Tom twisting his knee the
+day before the match, meant we had lost our
+two central defenders and a key central mid-
+fielder. Luckily to plug this huge hole in our
+back four, we had our team captain B. Man
+Briggs, and esteemed fresher Meatspin com-
+ing in from right and left back respectively
+into the centre.
+We came out of the blocks early and fast.
+Some great passing down the right and left
+wings led to the some great attacking plays.
+SPORT
+FELIX
+Friday 03 february 2012
+46
+sport.felix@imperial.ac.uk
+Sport Editors: Indy Leclercq
+David Wilson
+Web: www3.imperial.ac.uk/sports
+Facebook: Search ‘Sport Imperial’
+Twitter: @SportImperial
+Within the first ten minutes our infamous
+70% defensive press paid off and Dirty
+Whaler pilfered the ball from under the nose
+of the Roehampton left-back, promptly pass-
+ing it to the newly bar-named Captain Slow
+who was lingering on the baseline. Some
+silky skills into their circle later, he pulled a
+pass back to Fresher Joe who slotted it into
+the goal past their keeper.
+Having poked our noses in front, we rev-
+elled in being awarded yet more short cor-
+ners in their circle– however our esteemed
+corner striker C. Bell fired blanks and we
+were unable to capitalise on the proverbial
+campsite we had set up around their goal.
+Consistently we were again unable to
+use the huge amounts of possession or the
+territory we kept gaining by pressing their
+defensive lines, which is something we
+should definitely work on at future training
+sessions. It took a breakaway counterattack
+by Roehampton’s sneaky centre midfielder
+to shoot towards goal, forcing an excellent
+save from Glory Hole. The ball fell to B.
+Man Briggs and in classic defensive fashion,
+he spanked the ball into a Roehampton play-
+er’s ankle. The umpire rightly gave a free hit
+to Imperial, despite the howls of pain of the
+Roehampton striker. At this point we experi-
+enced an interlude in play, while we waited
+for an ambulance to turn up. After half an
+hour of waiting around with icepacks, tinfoil
+and warm clothes, however, the ambulance
+never arrived due to the injury apparently
+not being severe enough to merit one and he
+was carried off the pitch by his teammates.
+Ironically, the same injured Roehampton
+player actually broke his thumb the last time
+he played us at the beginning of last term.
+The second half was pretty much yet more
+Imperial domination, with some moments
+of brilliance by Roehampton’s midfielders
+more than matched by Soggy Biscuit’s mag-
+ic tackle at the back. This is also when the
+half an hour “break” started to take its toll on
+us. As Dirty Whaler noted in his post-match
+comments, it was due to the accumulation
+of Christmas-induced layers of fat. A couple
+of members of the team such as Yellowbag
+seized up with cramp, leaving us to play To-
+tal Hockey, constantly switching in and out
+of each others’ positions in midfield.
+Towards the end, IC experienced a bar-
+rage of attacks and short corners, and it was
+a tribute to our strength and depth that our
+solid sellotaped makeshift defence held out
+to the finish line. Eventually the game fin-
+ished with the score at 1-0 to Imperial, and
+our unbeaten record in the BUCS league was
+further cemented.
+Men’s 2nd 1
+Roehampton 0
+He can shoot faster than his own shadow. Down a pint faster. too
+IC Hockey
+

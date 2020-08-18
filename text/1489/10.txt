@@ -1,0 +1,191 @@
+FELIX
+10
+In brief
+SCIENCE
+Science Editors: Charlie Harvey
+Kelly Oakes
+Thea Cunningham
+science.felix@imperial.ac.uk
+Friday 20 may 2011
+Wrinkles on the moon
+Almost everyone thinks that it is possible to get a
+rough idea of a person’s age by looking for wrinkles
+on their face, but did you know that this principle
+can also be applied to the moon? Scientists from
+the California Institute of Technology have put to-
+gether maps charting the slopes and roughness
+of the moon’s surface. By studying the roughness
+at a range of different scales, from metres to kilo-
+metres, the researchers were able to put together
+a complete picture of the ups and downs of the
+moon’s surface. But they are not just doing this
+for fun, the map can be used to work out how cer-
+tain lunar features were created. “Old and young
+craters have different roughness properties, they
+are rougher on some scales and smoother on oth-
+ers.” said Meg Rosenburg, the first author of the
+paper in which the map was revealed. For example,
+young craters tend to stand out because they have
+not yet been smoothed by constant meteorite bom-
+bardment. “It is remarkable that the moon exhibits
+a great range of topographic character: at the ex-
+tremes, surfaces roughened by the accumulation of
+craters over billions of years can be near regions
+smoothed and resurfaced by more recent volcanic
+activity” said Oded Aharonson, Rosenburg’s super-
+visor at the California Institute of Technology. Simi-
+lar techniques can be used to study the processes
+behind the surface features of other bodies in the
+solar system, such as asteroids and even planets.
+Kelly Oakes
+Everyone has heard plenty of apocalyptic
+predictions for the future of our planet, from
+coastal flooding and in-land droughts to dev-
+astating changes in temperatures. Worryingly,
+one of the most severe threats is the more-or-
+less unpredictable effects of climate change on
+vital food crops. A recent study in the journal
+Science negates the need for predictions by us-
+ing actual cause and effect and prompting agri-
+culture itself to turn over a new leaf.
+David Lobell, co-author of the paper, be-
+lieves that climate change is “not something
+we have to anticipate. It’s something we have
+to learn from and deal with right now.”
+Annual global temperatures have increased
+by more than 0.4 °C since 1980. Such small
+changes may seem insignificant but can have
+massive effects on finely tuned plants. To
+gauge these effects the study recorded yields
+between 1980-2008 of corn, rice, wheat and
+soya beans. These crops supply 75% of the
+calories consumed by the global population.
+Temperature and precipitation changes out-
+side of the normal seasonal variations were re-
+corded and related to changes in crop produc-
+tion. Results indicate that warming accounted
+for 3.8% and 5.5% losses in corn and wheat
+respectively, whereas rice and soybean yields
+remained the same.
+Intriguingly, the trends vary massively be-
+tween regions, with the United States and
+Canada suffering no climate linked decrease
+in food production, whereas in low latitude
+regions, an increase of 1°C has lead to a 10%
+increase in yields. There are some positive ef-
+fects of global warming as increased CO2
+and
+CH4
+in the atmosphere can boost plant produc-
+tivity, however in the future such benefits may
+be overthrown by damage to plants caused by
+the increased temperatures.
+Lobell aims to look at areas with the biggest
+temperature change, where agricultural adap-
+tations are needed the most.
+Climate change causing crop calamaties
+Katie Tomlinson
+As a biologist, I do not mind telling you that
+it is hard to find practical applications for be-
+havioural studies of animals. I can get incred-
+ibly excited about how animals can move as a
+group, reacting to their environment without a
+particular leader guiding them. The way they
+achieve this is fascinating. But useful? I would
+have trouble arguing that one.
+So when Dr Frantisek Stepanek gave a
+‘Friends of Imperial’ Lecture last Tuesday
+called ‘Swarm Robots - the Future of Drug De-
+livery’, I was fascinated. Dr Stepanek has been
+applying the biological concepts of swarms
+to a rather unlikely beast: nano-scale robots.
+Using the ways in which swarming animals
+communicate in order for the entire group to
+find source of food, Dr Stepanek has built na-
+no-robots (i.e. very, very small!) which could
+move through the body to a particular point, to
+deliver drugs to a certain region. Sounds a bit
+creepy, right?
+But these are not robots in the way we usu-
+ally think of them. They are a chemical com-
+pound housed in a tiny package that has been
+built to break down only when and where the
+designer wants it to. Dr Stepanek explained to
+the audience just how they can create these ro-
+bots to get around the problems with current
+drug therapies. Drug delivery systems have to
+be tiny to move around the body, so nano-scale
+systems are perfect for this function. However,
+there are challenges in working on the nano-
+scale. The forces acting on the particles are
+very different to those that engineers are used
+to. Dr Stepanek, as an expert in particle engi-
+neering, explained these ‘harsh laws of the mi-
+cro world’and how researchers can manipulate
+them. By building up nano-scale components
+around a chemical, he can modify exactly how
+they are stored to suit the desired outcome pre-
+cisely.
+Dr Stepanek explained how there were cer-
+tain chemical compounds that could be useful
+drugs, but are very unstable and so administer-
+ing them in pill form would be pointless. They
+would break down before they could have any
+effect. But a nano-robot could move through
+the body with the parts of the compound kept
+separate until they get to their destination in
+the body. Then, the robot would allow the parts
+to mix, creating the compound so it could get
+to work. This suggests that using nanotech de-
+livery methods, many drugs which are current-
+ly unusable could be available for treatments.
+Once the nano-robot has been built, recep-
+tors can be added to its surface, so that the
+contents will only be released when the robot
+plugs into a certain cell type. Normally, the ac-
+tive ingredient in a pill has much poorer speci-
+ficity, affecting every cell in the body, not just
+the ones which are causing the problem. This
+is usually relatively harmless, but in the case of
+treatments like chemotherapy, it can be harm-
+ful. Using nano-robots, on the other hand, will
+not release a drug until it meets a certain cell
+type. This way, in the case of a treatment like
+chemotherapy, the drug could only be released
+when it gets to cancer cells, making the debili-
+tating side effects of the treatment less severe.
+But building just the one robot is not much
+good. To get any kind of effect on the body,
+there needs to be thousands of them, each re-
+leasing a tiny bit of the drug. This is where
+using the concepts of swarm behaviour could
+improve how the robots work. In the same
+way that animals can release a signal to other
+members of its swarm to indicate they have
+found a food source, a nano-robot could re-
+lease a chemical signal to other robots once it
+finds its target cell, attracting the entire group
+to a particular site. This way, instead of the
+effects being distributed over the entire body,
+the swarm’s effect could be targeted to a sin-
+gle place, making drug delivery more efficient,
+and more effective.
+Anna Perman
+My Chemical Robots
+“You don’t look a day over 4 billion years, dear...”
+Nanorobots would be able to target certain cells, bypassing toxic side effects
+Targeted treatments possible with swarming nanorobots
+25 May 2011 5.30pm
+Lecture Theatre G16, Sir Alexander Fleming Building
+In the fourth Peter Lindsay Memorial Lecture, Pro-
+fessor Dame Joceyln Bell Burnell introduces the
+pulsing radio stars she discovered as a postgradu-
+ate student at Cambridge. The discovery of pulsars
+opened up a whole new branch of astrophysics and
+gained her supervisors a Nobel Prize in 1974.
+The pursuit of pulsars
+“[Climate change] is
+something we have to
+learn from and deal with
+right now”
+

@@ -1,0 +1,287 @@
+FELIX 3
+C R O S S W O R D S O L U T I O N
+BE FBOBTKM.
+a,b,o, hare no oommon factors.
+% 1.
+A
+2.
+B
+3.
+' c »
+4.
+e P e H %
+ft
+5.
+X T M
+6.
+*-» H P Q
+Across. Down.
+1. I0(o-a)+4b. I . Ila.
+4. l6a+5b-J3o. 2. a+b+c.
+5. 6b. 3. I5(b-c).
+6. o.
+MfflCIATUBE
+!hi figures in the squares are denoted
+lj the letters A,B, Q. as shown.
+'
+t
+h
+e last digit of..." shall be denoted
+• v C O *
+'tte last but one digit.." shall be
+iuotad by f . , J ' , e t c
+lit Ha[bj', S * fa]'.
+I
+O
+U
+J
+H
+Q
+N
+.
+ll), from © i t i s clear that,
+'litter a,b Ao are a i l even., or that
+aly o
+n
+e of a,b &o is _ ^*en.
+Pros g> i t i s clear that,
+ilther a,b Ac are a l l odd or that
+liy o
+n
+e at a,b Ao is even.
+law,one, and one only, of a,b Ac,
+U wen. — (S)
+t), P
+r
+o
+m '3 down' i t i s clear that
+^
+0 if bio are both odd or Q=5 i f either
+: or o is odd. QhAe cannot both be even
+Ira a). abovej.
+'m Q
+> (o)*from '6 across' so only pos-
+u
+b
+l
+e solution, .it
+,
+0
+, o odd. b even, a odd. —
+i), b
+b
+=
+5
+b
++
+b
+, b (from A ) i s even.
+B
+e
+n
+o
+e
+, C6bJ* = [t>J. # JJ
+h» '5 across', RbJ=L. Hence, (b)=L.
+(ha '
+1 down', Laj=N.
+(ran'2 down', [a+b+oj »P." -~ VL>
+d) . Froni <
+$
+> and ©
+Henoe.twy ». ftAJ"= 5. — ©
+e) . lyO since this would contradict «3)
+as both Mo would thus be divisible by 5.
+Hence we can restrict a l l the possible
+values of L to the following,
+L> 2 4 6 8. 1
+Correspondingly, from © ( _
+H- 1/9 3/7 3/7 1/9 V ©
+Correspondingly, from (J) 1
+P» 8/6 2/6 4/8 4/2 . J
+f) . The implication o f © and '6 across*
+is that for each value of II there are
+only eight possible values aof c.
+i.e.
+o= Mi 85 M325 M345 M145
+M965 M765 M785 M92&
+— ®
+g) .From Nomenclature,fa]=S,
+From '1 down', I=£s+Nj1
+h). fb./"= from Nomenclature 4
+L i s even, so [6Lj* = 1/2.
+Hence, ,
+C6bj'= CR+5+L/2) for Rodd , 1 #;i
+(6bJ = [R + L/2j*for R even, J
+noting that £6bJ = K,
+from ' 5 aoross
+Also.
+Cl5(o-b)JS C1
+5(r5) - 15(HL)J"
+Therefore,
+D 5(0-b)J-0 5^+7- D 5R}* - C15lJ
+=K...from '3 down'.
+Since, from (J) LAP are even,
+K , [ 7 - 5 - 3 V 2 J * for R odd,'
+- [7 - 31/23* for R even.
+"Comparing (i)A(ii), we see that,
+:18
+0
+The following table may thus be drawn up using a l l the f a c t s so f a r obtained;
+k Ml
+rith 1=
+U
+d Ha 1
+Hi -fa '
+C
+J
+O
+,
+B
+»
+la
+k
+, b. .,32 ..32
+M325 M765 M345 M785 M145 M925
+4 4 6 6 8 8
+3 7 3 7 1 9
+2 6 4 8 4 2
+9 9 5 5 1 1
+6 6 3 3 0 0
+..94 ..94 ..56 ..56 ..18 ..18
+from — <D
+from "I
+from ( — Q>
+from J
+from — ©
+since [bl 3 RL.
+P , S ^ ^ 6 / ^ 5 / ^ (
+* ) , J f
+° r e a
+° h TO1U
+'
+U 1. 6/1 8/3 1/6 3/8 1/6 3/8 6/1 8/3
+'
+m
+a i down', (a+b+o)'» J , — ©
+|U. . 6/1 9/4 0/5 2/7 8/3
+from (£>
+Hence we can add the corresponding values of J.
+0/5 1/6 .4/9.
+i
+s h
+a
+v
+e therefore, sixteen possible values of IJKL, which}from '5 across', is 6b.
+'
+a
+s
+,
+fib . 6692 8992 1064 3264 1836 3036 6108 8408
+1192 3492 6564 8764 6336 8536 1608 3908 and dividing these values by
+6 gives us just three values
+not contradicting © .
+lU.
+I...33, b-1094, o=M325.
+L 33, b=1056, o=M345.
+Lj.51, b=1018, o=M145.
+•ma 8
+Ira \ across', H=[l6a+5b-13q) =N
+(since a&c odd, b even),
+ha'3 down', H=[l5(c-b)J*
+r
+.
+l
+y the second p o s s i b i l i t y of
+i
+n
+f
+o
+r
+m to these two s t r i c t u r e s ,
+•ja, '3 down' shows that (o-b) <(6&.
+perefore, M=1.
+jianlo=1345, b=1056, A from a=833.
+w
+1. 2.
+a
+3.
+4
+?
+k
+4.
+I 1 1 3 %
+%
+5.
+a 1 3 e.
+6.
+1 s A S
+T H E B I G K N I F E
+Cast
+Charlie Castle...Les Allen
+Mrs Castle.•.Brenda Whyte
+Nat Danziger...John Webb
+Marx Teagle..•John Horrooks
+'Smiley Coy...Michail Barron
+Marcus Hoff.. .EdwardJ*ttan
+Patty Benedict...Brenda'Taplin
+Connie...Carolyn Rusaell
+Dixie Evans...Anne Mathews
+Buddy...John Featherstone
+Russell...Alan Ablewhite
+Br Frary... Ross Butler
+Since our regular theatre c r i t i c
+is not available,it f a l l s to my part
+to write s
+> exit, «f tThe Big JShifo."
+Last term's choice of play was not a
+happy one,but this play was quite a dif
+different matter."The Big Knife"as a play
+is vary good.It has something to say and
+i t says i t in the beat Amerioan manner.
+This does not necessarily make a good
+play,but Odetta has used his dramatic
+craft to good effeot.His use of the
+past of the characters(brought up in
+the course of conversation)is olever,
+as his use of atmosphere. .
+.
+e is Successful
+in making his characters live and,in
+faot,some of them really unpleasant.
+In general, the acting was good.
+The only cxitiosm I have to offer was
+that Brenda Whyte underplayed her. role,
+and Carolyn Russell overplayed bewHt
+Les Allen was (of course!) exoellent,
+and Edward Kattan was very good.
+Mike Baron's debut as the most e v i l
+character i n the play was excellent.
+I enjoyed i t .
+J E Z E B E L
+This year's Easter Parade,
+held i n Battersea Park, was centred round
+Jezebel, ably assisted by a few hundred
+;
+vehicles ranging from a 200 year o l d stage
+coach to the l a t e s t Renault Ploride equipped
+with equally modern feinale talent. In '
+spite of chaotic organisation Jezebel and
+her firemen managed to pass the reviewing
+sti-nd twice and reach top gear once.
+The following Saturday she took the „
+road once again to SilversJone with 1Q
+brave passengers f o r the VSCC spring
+meeting. The reluctance 'of the exhaust
+pipe to remain intact caused great anxiety
+and even great noise a l l the way to
+Silverstone where successful repairs were
+carried o.it i n the paddock. Following an
+interesting afternoon's racing the party
+invaded the narrow Northants* lanes and,
+having wined and dined w e l l , returned
+to London i n the usual manner, d r i v i n g on
+other people's headlights. In spite of
+a l l attempts to the contrary we returned
+i n t a c t .
+

@@ -1,0 +1,203 @@
+sudoku.felix@imperial.ac.uk
+35
+Friday 2 November 2007 felix
+Fun & Games
+Exclusive Competition from Hugo Fragrances!
+Hugo Competition
+HUGO Fragrances are giving you the chance to register for complimentary tickets
+to their next incredible HUGO URBAN RULES concert taking place in London
+on December 4th. US RnB star Amerie, upcoming funk-meisters Unklejam and
+the winner of the next round of the HUGO URBAN RULES music campaign will
+perform at an exclusive show at Neighbourhood especially for urban music fans.
+To attend this one-off musical showcase, and also receive free fragrance samples
+just register your details at www.hugofragrances.com/urbanrules. Hurry because
+the deadline is 25th November!
+To celebrate this event HUGO Fragrances are also delighted to be offering three
+lucky people the chance to win a HUGO Deep Red gift set. Deep Red is a dis-
+tinctive, seductive scent for the woman who insists on wearing a fragrance that
+is consistent with her values of fun and independence. For guys, there are three
+limited edition bottles of HUGO Green, the modern classic that’s as distinctive
+as the man who wears it.
+To win one of these prizes, please answer the following question:
+Amerie is following in the footsteps of which famous artists who have taken
+part in HUGO URBAN RULES over the last 12 months?
+Send your answers in to felix@imperial.ac.uk, including your name!
+For more info on the HUGO URBAN RULES campaign and how you can get
+involved, log on to www.hugofragrances.com
+Logic Puzzle: Rugby match
+Using the clues and logical deduc-
+tion alone, work out how all the
+people involved in the match relate
+to each other. The puzzle can be
+solved without guesswork. Make
+use of the grid to cross off and tick
+the combinations that you have
+worked out.
+Read through each clue and make
+any obvious or stated
+deductions. Find the
+corresponding row
+and column on the
+grid and place a tick
+for ‘Yes’ in the box,
+and a cross for ‘No’ in
+the cells next to this
+one vertically and
+horizontally.
+Ensure that you read the clues care-
+fully. They can sometimes reveal
+multiple hints! Remember that
+elimination of alternatives is a key
+method. That is where the grid is so
+important - it allows you to see the
+possibilities left with ease.
+LUKE
+ANJIT
+OWEN
+JOV
+JOE
+ODD SIZED FEET
+SHORT AND PLUMP
+SQUIDGY
+VERY LONG ARMS
+TALL AND FRECKLED
+SCARED OPPOSITION
+GOT SIN BINNED
+BALL TO THE BALLS
+MAN OF THE MATCH
+SCORED A TRY
+FLY
+HALF
+HOOKER
+FLANKER
+PROP
+NO.
+8
+SCARED
+OPPOSITION
+GOT
+SIN
+BINNED
+BALL
+TO
+THE
+BALLS
+MAN
+OF
+THE
+MATCH
+SCORED
+A
+TRY
+ODD
+SIZED
+FEET
+SHORT
+AND
+PLUMP
+SQUIDGY
+VERY
+LONG
+ARMS
+TALL
+AND
+FRECKLED
+(Any similarities
+to persons living
+or dead is purely
+coincidential!)
+1. The player with the odd-sized feet
+was a prop. He isn’t Anjit, who was sin
+binnned.
+2. Anjit isn’t short ot squidgy. The
+player who is tall and fleckled wasn’t
+the hooker.
+3. Owen wasn’t the prop and didn’t get
+Man of the Match or Scare the Oppo-
+sition like one of his teammates with
+his amazing haircut.
+4. The player who was squidgy didn’t
+have a ball to the balls. Neither the
+squidgy player or the tall, freckled
+player was flanker.
+5. The player who was Man of the
+Match isn’t short or squidgy.
+6. Joe (who isn’t squidgy or freckled)
+scored a try.
+7. The fly half was Luke, who wasn’t
+squidgy or freckled either.
+Slitherlink 1,385
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a dash of
+Sudoku.
+The object of the game is to draw lines be-
+tween the dots to create one long, and most
+importantly, looping line. It should have no
+start or finish; just like an elastic band.
+Each number indicates how many lines
+should be drawn around it, for example:
+Cells which don’t contain a number can be
+surrounded by any number of lines.
+Remember, the line must form a loop, so
+the line cannot branch. The following situa-
+tions are not allowed:
+Squares are not allowed either. There are
+never cells containing the number 4 in
+Slitherlink.
+So, where do you start? The most com-
+mon place to start on a Slitherlink grid is by
+drawing crosses around any zeros. Drawing
+crosses is purely done to so that you know
+where there can’t possibly be a line. So, take
+the pattern below as an example. Begin by
+drawing crosses, then by filling in some
+lines:
+Now the lines can only continue in the fol-
+lowing directions:
+Ha, ha! We’ve sprung a gigantic 10x10 on
+you this week. Enjoy and keep linking!
+3
+2 2
+3
+0
+x
+x
+x
+x
+3
+0
+x
+x
+x
+x
+Slitherlink 6 – Hard
+2
+2
+3 2 2
+1 2 1 1 3
+2 2 3 3
+2
+2 3 0 2 2
+3
+1
+3
+3
+0
+2 2 2 2 2 2 2
+3 2 1 2 1
+2 2 3 2 2
+2 1 2 2 2 1
+Answer for Slitherlink 5
+2
+3
+2
+3
+3
+3
+1
+1
+2
+3
+3 2
+

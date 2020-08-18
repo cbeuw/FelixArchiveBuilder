@@ -1,0 +1,217 @@
+7 December 1998
+Games 15
+Digital Media World 1998
+| | |
+This year Digital Media World showcased
+thc hardware and software powering
+computer generated images and multi-
+media show reels for the entertainment
+industry. This year's top films have all
+used some sort of computer
+trickery - from removing the
+odd stunt wire to recreating
+Godzilla and to fantasy worlds
+in 'Antz'. The software houses
+behind 3D Studio Max, Soft-
+image 3D and Maya, were all
+present showing off their
+capabilities with impressive
+show-and-tell classes.
+Kinetix, the makers of 3D
+Studio Max, have a strong
+hold in the computet games
+industry and titles such as
+Blade Runner (Westwood Stu-
+dios) and Tomb Raider II (Eidos) have
+shown the potential of this 3D tendering
+package. This year's main demonstra-
+tion was 3D Studio Max's integration of
+Discreet Logic's Paint & Effect software.
+The main problem with creating realistic
+mm mm
+3D images is with the textute that
+embodies the bare mesh. Creating a 2D
+bitmap that wraps around a solid object
+with the colours and shadings in the
+right place is a time consuming task.
+Discteet Logic's software, how-
+ever, allows colour editing to be
+done directly onto the 3D
+objects. Shaded areas are also re-
+editable since all drawing is done
+using vector graphics.
+Softimage is thc work-
+horse of many film and
+effects companies, and its
+history dates back further
+than kinetix's 3D Studio.
+Its ability to create realistic
+raytraced images is due
+to Softimage's industry
+leading mental ray Ten-
+derer and so has been used time
+and time again in films such as
+Lost In Space, Titanlic and Antz.
+The cost of these animation
+packages would give most people
+a heart attack (roughly twice the
+average grant) but MetaCreations Bryce
+3D at atound [200 has allowed it to
+gather a cult following among home
+users. Its main success must be due to
+its own intuitive interface, where realis-
+tic icons really do what they represent. It's
+gentle learning curve will have you cre-
+ating beautifully 3D animated pictures in
+minutes rather than hours, when com-
+pared with other packages.
+Magpie
+Since many of you are looking for jobs
+this year here are some tips for finding
+a job in thc computer graphics sector.
+Most of the students here won't
+have had any formal ttaining but it is
+important for engineering and science
+students to have a good show reel of
+demos and projects you have created.
+Know your software packages, use
+the back of thc popular games maga-
+zines to gauge what skills you need.
+Edge magazine is a good place to
+start and you will notice that knowl-
+edge of either 3D Studio or Soft-
+image is important. If you haven't
+got access to any of the top soft-
+ware titles try finding a job as a run-
+ner at a film/effect company, and
+then try to obtain some after hour
+training.
+Some major games compa-
+nies do have graduate recruitment
+schemes and since many of you
+will have programmed in C and
+C++ your foot is already in the door.
+Magpie
+Wargasm (PC) News
+Infogrames
+Hey wow man, like let's not fight any real
+wars but just like fight on the computers
+and not spill blood and kill like fellow
+man. But what would the world be like
+then. Countries would fight over silicon
+generated fields, with polygon people
+contesting the control of other coun-
+tries' resources. If this system was not
+secure, and don't kid yourself that mili-
+tary means intelligence, what's to stop
+rogue elements messing around with
+the system and exploiting it. Well wel-
+come to the world of Wargasm. This is
+where you attempt to achieve world
+domination by risking nothing but sotc
+atms, and ted taw eyes.
+DID has succeeding in creating a
+virtual battlefield without having to spend
+millions on military computers. They
+might therefore have cut a few corners,
+no Virtual Reality headsets or real size
+mockups of tanks and helicopters - but
+they have written it to be compatible with
+force feedback joysticks.
+Tanks skid and slide if you push
+them too hard on dusty surfaces. Heli-
+copters handle simply (no need to
+study a 200 page manual before
+breaking the chopper on thc floor).
+Even the footslogging infantry move
+with a realistic jog. The weapons are
+modeled just perfectly. Hitting a tank
+while traveling at near full speed might
+be difficult but the joy of it - well it
+almost made me want to drive thc teal
+thing.
+So perhaps it sounds a bit like Bat-
+tlezone, where you could play both com-
+mander and fighting unit during a battle,
+especially when you hear of the Multiple
+Wargasm mode. So those people who
+enjoy shooting enemy tanks controlled
+by people thousands of miles away can
+do so. But forgetting the gameplay and
+ignoring the multiple player options there
+is one reason and one huge reason for
+those people with good 3D
+acceleration catds to buy this ^ ^ ^ B
+game, and that is the graphics. PHHH
+They are not just good but so -jS
+w
+e
+l detailed 111. >l in, inn
+lime
+meant to be shooting and
+Instead siood tin01 louiisi i
+ing into the sun blasted deserts,
+01 al Ihe h isl i e
+n
+•
+< -mo . n •
+temperate zones. Tanks were j j p *
+there to kick up dust and to lay
+tracks in the sand and mud.
+Incoming, the eyecandy award winner
+from the summer, might as well just get
+its coat and sulk because Wargasm has
+crossed the borders and trampled its
+way to the top. The whole game is one
+complete visual-fcst. The soundtrack is
+similarly well presented. Along with the
+screams of gunfire is a classical score to
+stir you into action. Schubert rides into
+battle at your shoulder, so to speak.
+This is the closest thing to total
+immersion games without a body suit. It
+might not have the detail of model con-
+trol that a full tank or helicopter simula-
+tion has. It might be infuriatingly difficult
+at first, but if Christmas is a bit slow and
+the turkey is faking its time going down,
+pop on the headphones, fire up the PC
+and go take out some silicon slimebags,
+you might just leave the machine by
+New Year.
+Gary 5.
+•ISS
+Color Gameboys
+Yes, millions of people will be waking up
+to Xmas morning, with a special spelling
+mistake in their stocking. The Gameboy
+has been kicking around in various fla-
+vors (sorry flavours) and colours, but tili
+now its display has always been shades
+of black.
+So what's new, well thc colour
+screen for one. It will play the new
+colour games in proper (well almost
+proper) colour, as well as playing some
+in a weird pseudo-colour. Not all games
+arc compatible though NHL '95 refuses
+to play, though V-Rally works. A much
+sharper screen is also part of thc deal,
+along with a neat infra-red port. It's a bit
+more bulky than the pocket version, but
+that's progress.
+DreamCast Preview
+While the Dteamcast was appearing in
+numbers over the othet side of the
+world, a few here were treated to the
+next generation of console power. To
+claim a chasm inspiring leap in graphics
+when compared with other consoles
+would be an understatement. Godzilla
+generations was impressive as Godzilla
+flicked aside buildings and tanks. But will
+Sega get the price right in the UK? Will
+the PSX 2 do to the DeamCast what thc
+PSX did to thc Saturn? We will know by
+next Novembet.
+

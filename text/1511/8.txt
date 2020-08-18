@@ -1,0 +1,164 @@
+Scientists from the University of California,
+Berkley, have been able to successfully deter-
+mine fragments of people’s thoughts by decod-
+ing brain activity caused by words they hear.
+The study has given researchers further in-
+sight into how the brain processes language
+and paves the way for devices that may be
+able to help those without the power of speech.
+Researchers believe this may be the first step
+to primitive brain implants that can monitor
+people’s thoughts and speak on behalf of them.
+The study held in the US showed that a com-
+puter could play back words that the patients
+heard by analysing their thoughts, though the
+words played back were sometimes not clear.
+Speaking to The Guardian, Robert Knight,
+director of the Helen Wills Neuroscience In-
+stitute, said “this is exciting in terms of the ba-
+sic science of how the brain decodes what we
+hear. Potentially, the technique could be used
+to develop an implantable prosthetic device to
+aid speaking, and for some patients that would
+be wonderful.”
+“The next step”, he continued, “is to test
+whether we can decode a word when a person
+imagines it. That might sound spooky, but this
+could really help patients. Perhaps in 10 years
+it will be as common as grandmother getting
+a new hip.”
+The study involved playing a series of words
+to the patients for up to ten minutes while re-
+cording their brain activity from electrodes
+placed across the surface of their brain. The top
+of the patients’ skulls had been removed previ-
+ously in an operation to treat intractable epi-
+lepsy, allowing this procedure to be carried out.
+The activity from the electrodes showed that the
+brain broke down sound into their constituent
+frequencies and the program kept track of this.
+Another collection of words was then played
+to the patients to see whether the program could
+differentiate between words that were repeated
+from before and those that were new. The list
+of words included “Waldo”, “structure”, and
+“property”. The scientists got their best results
+when activity was recorded in the superior tem-
+poral gyrus, above the ear. Brian Pasley, a sci-
+entist on the team, compared the technique to a
+musician who could hear a piece in their mind
+just by knowing which notes are played.
+The study raises implications for potential
+mind reading programs, though the scientists
+point out that it would require the skull of the
+participant being opened up. Even if a device
+were to exist without such intrusive measures,
+Mind reading programs?
+Neural networks are used to simulate brain activity, but cannot interpret thoughts
+it would be difficult to differentiate between
+an inner monologue and words intended to be
+said aloud, therefore impacting any ability to
+aid the speechless.
+Though the scientists’ work must not be un-
+derestimated, Guardian blogger Mo Costandi
+wrote that “we are nowhere near being able to
+decode and reconstruct such complex neural
+activity [as our extremely rich stream of con-
+sciousness]”, and that “it may, in fact, never be
+possible”. It is likely that “your thoughts will
+remain private for a very long time.”
+DOI:10.1371/journal.pbio.1001251
+A paper in 1932 by William Holder Zacha-
+riasen hinted at the atomic structure of glass,
+which at the time was unexplored. This de-
+duction was based purely on the properties of
+glass known at the time. For example, the fact
+it does not have a crystalline structure indicat-
+ed that molecules within it are not symmetric.
+This work now appears to be vindicated fol-
+lowing new research reported in Nano Letters,
+which shows that a 2D layer of glass imaged
+using Transmission Electron Microscopy
+(TEM) has an extremely similar structure to
+that deduced in the 1932 work.
+As with many scientific discoveries, this one
+was partially accidental. The team intended to
+make graphene for an experiment; however,
+unintended consequences actually resulted in
+graphene with a layer of glass forming instead.
+The researchers suspect that this is due to air
+leaking into the process.
+Conventional glass (as found in windows) is
+made of silicon dioxide – also known as sil-
+ica. The process used to create the graphene,
+in this instance, involved a quartz substrate
+on carbon. When air leaked into the process,
+this caused the carbon to be oxidised (and the
+quartz subsequently reduced). This forms sili-
+ca in the same structure of glass – yet just three
+atoms thick, making it effectively 2D.
+This research is important for two reasons.
+The first of these is to allow direct imaging of
+molecules, some of which may not occur natu-
+rally.
+The other reason is that it opens the door to
+synthesising a wide variety of other 2D mol-
+ecules through the use of a graphene substrate:
+it may be possible to produce a glass from alu-
+minium oxide with this technique. Addition-
+ally the graphene support removes the need
+for the variety of conditions that 2D materials
+need to form, such as unreactivity.
+This provided an opportunity to investigate
+the properties of the rings within glass. One
+of the properties discovered was that the glass
+was not covalently bonded to the graphene –
+this would cause an unacceptable amount of
+strain within the molecule. This can be seen
+in graphical models, which show a large mis-
+match between the lattice of graphene and the
+glass.
+Instead, the van der Waals interactions cause
+the attraction to occur, resulting in a stabilisa-
+tion effect within the glass. This shows that
+graphene could be a core component of pro-
+duction of new 2D substances.
+As for the 2D silica-based glass, this could
+have a use in electronics, namely semicon-
+ductors, or as gate insulators in semiconduc-
+tors. This is thanks to the ease of which the
+graphene and glass can be stripped from the
+starting copper.
+Philip Kent
+FELIX
+Friday 17 February 2012
+8
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+Alexander Karapetian
+Swearing for Scientists
+by Maria Veiga
+Nasa’s New Horizons probe has entered the final
+stage of its journey to Pluto. It is currently twenty
+three times the Sun-Earth distance away from
+us, and is due to reach its final destination on
+July 14, 2015.
+It won’t be staying for long, however, and will
+fly past the dwarf planet gathering as much data
+as it can before it gets too far away again. From
+there, the probe will continue past Pluto’s moon
+Charon and then to the outer reaches of the solar
+system.
+Getting data back from such a distance will be
+a challenge. At the moment, the probe just over
+three light hours away from Earth, so a round trip
+for commands to reach the probe and data to
+come back would take over six hours.
+Kelly Oakes
+New Horizons nearly at Pluto
+networksandservers.blogspot.com
+World’s thinnest pane of glass unveiled
+

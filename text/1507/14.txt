@@ -1,0 +1,253 @@
+I
+feel like Computer Science stands
+out from the other subjects at Im-
+perial for a number of reasons, not
+all of them related to social ability
+or personal hygiene (I thought I’d
+open with a lazy joke to lure you in, for-
+give me). Like all subjects taught at Im-
+perial, the course contains a lot of high-
+level, greatly complex areas of study that
+are entirely inaccessible to outsiders. Yet
+there is a core to the course that is not like
+this, a core that is dressed up in the garb
+of ‘higher education’but is in fact hugely
+useful in everyday life, and surprisingly
+accessible to those with no grounding in
+computer science at all.
+There are a lot of reasons for this, fore-
+mostly a simple lack of computer science
+education in most countries’ education
+syllabi. Those interested in the educa-
+tion debate might be familiar with last
+year’s review published by the govern-
+ment looking into the state of computer
+science education, training and support
+in the UK. The report read like a lazily-
+written homework assignment by some-
+one who couldn’t care less about its con-
+tent, which it broadly was. They noted
+a lack of computer science content, but
+gave no solutions.
+What is important to realise about this
+is that even when the situation changes
+in our schools (for it surely must even-
+tually) those of you reading this in Fe-
+lix as it goes to press can never benefit
+from such a change. You are locked out
+Time for change
+New Year Resolution? Get Coding
+of that education forever, but you exist
+in a world of increasing technological
+complexity, where those with knowledge
+of programming, the internet, operating
+systems and electronics are increasingly
+distancing themselves from those with-
+out that knowledge.
+This distancing is more subtle in some
+places than others. Watch an episode of
+24 and the CTU technology ‘experts’
+will explain a situation to their superiors
+using unnecessary and intentionally con-
+fusing terms. They’re met with a stiff re-
+buke; ‘spare me the techno-babble’, ‘just
+give it to me in English!’, ‘I don’t need
+to know specifics!’ This presents a clear
+message to the viewer – you don’t under-
+stand what they’re doing, you never will,
+and you don’t need to.
+The hacking stories of last year (web-
+sites, rather than phones) have their
+perpetrators portrayed as mysterious,
+preternaturally intelligent individuals
+who exist in a confusing world of so-
+phisticated technology and complicated
+lists of information. In reality, many of
+the attacks carried out last year on high-
+profile websites were little more sophis-
+ticated than when my mother downloads
+iTunes, installs it, and uses it to play
+music. Read a BBC news article on the
+matter, however, and you enter a cyber-
+Tolkien world where hackers wield a
+magical power that you don’t, and never
+can, understand.
+This is wrong. This is not the attitude
+B
+ack in the dear old early
+14th century, “the pox”
+was considered a punish-
+ment from God. If you
+had it, you were evil and
+it was a just fate. You had wronged.
+You had failed. You deserved to die.
+The trouble with this idea was that there
+came a time when it struck a lot of peo-
+ple that this was not quite true. In the
+mid and late 14th century, a lot of peo-
+ple died of it. At once. Whole villages
+vanished. And this happened across Eu-
+rope, though sadly without BBC News
+to report it. Either way, the emphasis
+shifted a bit from individuals to groups
+of people being ‘bad’. The thinking
+was that the older generation had got
+it a bit wrong, but it is alright, because
+we have found out about it now. And,
+co-incidentally, all the bad people are
+dead so there is nothing more to worry
+about. Keep praying for good harvests
+and to avoid Armageddon and it will all
+be fine.
+And all was fine, until the next time.
+That came as an influenza outbreak in
+the 16th century that killed even Mary I.
+Influenza, like other infectious diseases,
+was not seen quite as a punishment from
+God, at least not by enlightened schol-
+ars. Despite that, talk of it was enough
+to put the wind up the peasantry, much
+as Fox News does today. We probably
+get a balanced view from Shakespeare,
+who seems to suggest that by this peri-
+od it was understood that such an illness
+could be spread, and thus could also
+be contained. Containment of a sort
+was achieved by restricting the move-
+ment of people (a plot device in Romeo
+and Juliet). Things had moved on a lot
+since the God-fearing Christians of pre-
+Renaissance England had thought that
+prayer and being nice to God would ab-
+solve them from death-by-anthrax.
+What stepped things on from this
+point was the discovery of the cell by
+Hooke about fifty years later. A while
+after this the bacterium was identified,
+and then not long after that the cause of
+the likes of scarlet fever, tuberculosis
+and so on were begining to be under-
+stood. It was infectious disease, and a
+lot of them could be knocked out by
+taking antibiotics. As a result we now
+enjoy a whole host of other ways to die,
+many of which were unknown in me-
+dieval Britain, chiefly because if you
+made it to 30 and had children you were
+having enough of a party not to give a
+damn one way or the other.
+This is not the whole story though.
+People in the dark ages were put to
+death for things we would term illness-
+es, or at least, long-term medical condi-
+tions. People who had Tourette’s syn-
+drome were considered to be possessed
+by demons. People with manic depres-
+sion or paranoid schizophrenia were
+thought of either as ludicrously spiritual
+and were revered, or just mad and were
+burned. Sadly, none of these things has
+the benefit of being caused by a plenti-
+ful life-form that can be observed under
+a microscope. It is ‘psychological’, and
+unless you know someone who is like
+that, it is an alien and often uncomfort-
+able world for to encounter. A world as
+terrifying as the one where coughs and
+sneezes meant you were an emissary of
+to technology that should be spread. The
+world is becoming increasingly reliant
+on software and hardware, and we are
+encouraging the population to shy away
+from understanding it, rather than em-
+bracing it and learning to bend it to their
+own ends. The average Imperial stu-
+dent – intelligent, motivated and already
+working closely within the world of sci-
+ence – is perfectly positioned to pick up
+and learn how to program, how websites
+work, how data is stored, how adverts tar-
+get users of certain websites, how bittor-
+rent users can be identified and how the
+world around them works. Once people
+such as yourselves have embraced this, it
+will make it easier to pass the knowledge
+A representation of how you look to others when you are a knowledgable
+computing lecturer
+The average
+Imperial student
+... is perfectly
+positioned to pick
+up and learn how
+to program
+”
+n how
+n how
+“
+The ave
+The ave
+Imperia
+Imperia
+on to others, and turn around the trend of
+avoiding technological complexity.
+And so to the nub of my article. I’m
+not one for resolutions generally, but this
+year I implore every one of you to learn
+something new about the technology that
+you use every day. If you wish to learn
+how to program, the website CodeYear
+can help you with regular lectures, re-
+sources and assistance. Imperial’s Ro-
+botics, Gaming, Wikipedia, and other
+tech-related societies are welcoming and
+well-informed. As any computer scien-
+tist can attest, you cannot know enough
+about technology. But the more you
+know, the better-equipped you’ll be for
+the future.
+Satan, I have no doubt.
+Needless to say, I do think it is ‘Time
+for a Change’. Treating illness with sus-
+picion and neglect is as bonkers as many
+of those who are neglected for that rea-
+son. What I am nervous of, however, is
+whingeing and moaning as a means to
+increasing awareness. Complaining that
+change is required puts ‘mental health
+issues’in the same bracket as every oth-
+er good cause, not least the most nause-
+ating of all, the ‘needy’.
+So what am I, and my fellow mental-
+ists, to do? Well, we need to play a long
+game. This is for the same reason that
+going to the Middle Ages and telling
+people the real reasons why they had
+syphilis would not work. People need
+to be educated at a pace at which they
+can learn. In order for that to work,
+all of us need to learn. We need to
+learn what causes people to be manic-
+depressive, or depressive, or whatever.
+That means spending money on science
+(obviously), but it also means talking
+about it, and it means changing. So, let
+us change.
+Samuel Furse
+Michael Cook
+Treating illness
+with suspicion
+and neglect is ...
+bonkers
+“
+Treating
+Treating
+with su
+with su
+FELIX
+Friday 20 january 2012
+14
+comment.felix@imperial.ac.uk
+Comment Editors: Tim Arbabzadah
+Sam Horti
+COMMENT
+

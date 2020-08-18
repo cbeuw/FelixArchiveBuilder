@@ -1,0 +1,172 @@
+science.felix@imperial.ac.uk
+11
+Friday 30 May 2008 felix
+Science
+One foot after the other, it advances,
+blue lights flashing, down the hall-
+way. Its blank, steely face stares blind-
+ly ahead of it as it marches steadily
+onwards.
+Is this the trailer for the next episode
+of Doctor Who? No, this is a video clip
+of Flame: 1.3 meters tall, 15 kg, and the
+hottest thing in the world of robotics.
+Flame is the brainchild of PhD stu-
+dent Daan Hobbelen of the Delft
+University of Technology in the Neth-
+erlands. Walking robots are often de-
+signed using industrial engineering
+techniques, but Hobbelen has taken a
+slightly different approach. "This type
+of robotics research is mainly focused
+on trying to mimic the human motion
+system," he says. "If you look at the ro-
+botics world, that's something that's
+not often done"
+Flame uses algorithms to stabilise
+itself, ensuring that the next step is
+placed in a way that prevents it from
+falling. Mirroring the way children
+learn to walk, Flame walks by falling
+forward in a controlled fashion and
+righting itself using a built-in compu-
+ter. The result looks disconcertingly
+human.
+As well as learning to walk like a hu-
+man, Flame could provide further in-
+sights into how people walk. "We know
+that the stiffness of the ankle joint in-
+fluences the stability of walking," ex-
+plains Hobbelen. "With these robots,
+we can actually change the stiffness
+value to make it higher or lower, and
+see what the result is".
+Studies like these will help scientists
+understand more about how the ankle
+works, so people with walking difficul-
+ties could benefit.
+What's more, people who are miss-
+ing a limb altogether could be lent a
+helping hand – or leg – from the likes
+of Flame. Hobbelen explains how his
+research could improve the design of
+leg prostheses for amputees. "If you
+understand better the actual func-
+tion and working of the joints, you
+can make a much better replacement,"
+he says. "They could just walk as they
+would typically have done before they
+had an amputation and they wouldn't
+have to use extra energy".
+Hobbelen hopes that in the future
+walking robots like Flame might be
+useful for assisting with dangerous as-
+signments, such as carrying out tasks
+in nuclear plants. And they might also
+be handy round the home to help out
+with the housework. But Flame's true
+moment of glory will come later this
+week when it is presented as part of the
+Dutch RoboCup team that will play in
+this summer's RoboCup Soccer cham-
+pionship in China.
+It might look like one of Doctor
+Who's Cybermen, but Flame's poten-
+tial to provide insights into walking, to
+brave nuclear plants and even do the
+vacuuming sounds far from threaten-
+ing. And who knows, one day Flame
+might even give David Beckham a run
+for his money.
+Robot to the rescue: Hobbelen's no-hobble bot
+Daan Hobbelen's robot Flame learned to walk like a child does, and might help people with disabilities
+There is a question that has long fas-
+cinated mankind. Most people have
+gazed up at the stars at some point and
+wondered: Are we alone? This week
+a spacecraft completes its ten-month
+flight to Mars, and we may soon be
+closer to knowing whether life exists
+on another planet.
+A good way to begin the hunt for
+Martian life is to look for what living
+things need – such as water. “We’ve
+never been in a position to look for
+water,” explained Dr Tom Pike, from
+Imperial College London. He leads a
+research team that has developed sili-
+con discs with a finely etched surface
+for holding Martian soil samples. “The
+water on Mars is below the surface, it’s
+not on top. And nobody has dug down
+to any great depth.”
+But on the 26th of May, NASA’s
+Phoenix spacecraft will land on Mars
+and its central mission will be the
+search for water at the planet’s north
+pole. A robotic arm will dig for ice that
+has already been detected under the
+red planet’s surface by NASA’s Mars
+Odyssey.
+Dr Pike’s team will work at mission
+control at the University of Arizona to
+study microscope images of the Mar-
+tian soil. The images are capable of
+showing features one thousandth the
+width of a human hair – the highest
+resolution ever used on soil from an-
+other planet.
+Once Phoenix returns its data, the
+researchers will be among the first
+people to conduct the most detailed
+analysis of Martian soil and dust sam-
+ples. They can then look at questions
+about the history of the ice: was it once
+part of an ancient ocean? Is it the re-
+mains of a retreating ice sheet?
+This may tell us more about the
+climate cycles on Mars, for instance
+Nicely done, especially in perspective. In fact, Phoenix passed 20 km in front of Heimdall crater, and landed successfully just days ago, beating
+the best efforts of the "great galactic ghoul", which has claimed so many previous Mars missions., including both of Phoenix's progenitors. In
+other news, if you've not spotted, the BBC is running a diary from Imperial's Dr. Tom Pike – well worth a read!
+Mission to Mars: Phoenix examines soil using Imperial technology
+Tamsin Osborne
+whether the ice occasionally melts. If
+so, microbes may be able to live in the
+melted ice, provided that other factors
+are right. NASA’s Phoenix will also
+search for these other features, such as
+compounds containing carbon. These
+carbon-based compounds include the
+chemical building blocks of life and
+substances used as an energy source.
+However, Phoenix is unlikely to show
+that life definitely exists on Mars, “un-
+less we see a little bug crawl across the
+substrate under the microscope – we’re
+not expecting that,” says Pike. But a fu-
+ture European mission, ExoMars, will
+search specifically and thoroughly for
+signs of Martian life.
+For now, the scientists hope to find
+out whether anything could live on
+Mars. “We are going to be able say
+whether Mars is a potential home for
+life, rather than directly answer the
+question of whether there is life on
+Mars.”
+Katrina Pavelin
+NASA/JPL-CALTECH/UNIVERSITY
+OF
+ARIZONA
+Flame in action – by falling in a controlled fashion, before righting itself, the robot mimics the way children
+learn to walk. Those hamstrings must help it on the RoboCup pitch – as must its sure-footedness
+For more on Flame, including
+movies, follow the "Walking like a
+human" link through from
+http://home.tudelft.nl/en/
+Apology: The spruce mentioned
+last week is found in Dalarna
+province, not Darlana, as
+reported. Sorry.
+

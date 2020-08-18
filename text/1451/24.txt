@@ -1,0 +1,379 @@
+24
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 29 JANUARY 2010
+Big Brother Internet
+Feroz Salam takes a look at the global state of internet censorship
+Just the same
+now bigger
+I
+t’s here, the mythical Apple tab-
+let, the saviour of the computing
+universe, the Apple iPad. Wait a
+minute, iPad, you having a laugh?
+You sure it doesn’t come with ‘flexy
+wings’ and should be kept in a woman’s
+handbag? OK.
+Yep, the Apple iPad, not the iSlate or
+iTablet, but iPad. To be honest I’m not
+quite sure why Apple didn’t call it the
+iPod touch HD or iPod Maxi, because
+that’s essentially what it is. A giant iPod
+touch. I have to admit, I’m a little dis-
+appointed. I would have liked some-
+thing more like an OSX touch tablet,
+not some iPhone OS running maxi
+iPod touch.
+Anyway, the proof will be in the play-
+ing with it, as to whether it’s any good
+or not. Apple’s trying to slide this one
+in a space in between the laptop and
+the smartphone. I’m not entirely sure
+there’s actually a market position in
+there for the iPad to fill. It’s not as ca-
+pable or cheap as a decent netbook
+and it’s not as portable as an iPhone or
+Nexus One.
+The iPad’s also got a dock connector
+and it’ll take accessories like an iPhone
+or iPod touch like the dock keyboard.
+Great a portable keyboard for the iPad,
+I’ve been after one for the iPhone for
+ages. Nope, Apple’s dock keyboard is
+a full size keyboard that sits on your
+desk. Yes that’s right next to my com-
+puter with it’s own full size keyboard.
+Who’s stupid idea was that? I mean
+surely if it’s full size and sits on your
+desk why the hell wouldn’t you just use
+your computer? Novelty value? Now,
+if they made a docking a collapsible or
+mini physical keyboard now that might
+make sense, but no sign of anything
+that useful.
+It may look pretty and it’s apparently
+a pretty slick experience, but where’s
+the need for it? Perhaps you could get
+it and buy a dumb-phone, forgo the
+SamuelGibbs
+SamuelGibbs Technology Editor
+C
+hina and Google have begun
+squaring off in what is bound
+to be a protracted political and
+legal battle that might take years to set-
+tle. Yet whatever the outcome, the fu-
+rore over China’s attempts to infiltrate
+Google has kicked up an issue which
+has been brewing for many years now
+– the effects of internet censorship. I
+spent the majority of my childhood in
+Saudi Arabia, where the state of the
+internet is markedly different from
+the rest of the world. Not only are the
+standard ‘morally corrupting’ websites
+blocked, but so are most websites that
+we take for granted here in the UK,
+such as Facebook and Myspace - the
+latter remained blocked when I last left
+the country in 2007.
+As we enter a decade where perpet-
+ual internet connectivity isn’t as much
+a luxury but a necessity and access to
+the internet is being legally defined as a
+human right in a handful of countries,
+the extent of global internet censorship
+is rather surprising. Most governments
+maintain some form of filtering; even in
+the UK all ISPs are required to monitor
+traffic for suspected child pornogra-
+phy. Yet a handful of governments take
+this much further, blocking access to a
+wide variety of websites, justifying the
+censorship as vital to their national or
+religious interests. The culprits tend to
+be monarchies, pseudo-democracies
+and the handful of communist nations
+that still remain - countries that have a
+lot to lose by allowing citizens free ac-
+cess to view and transfer information.
+Of course maintaining censorship
+incurs quite a hefty economic cost as
+well as deterring otherwise profitable
+foreign investment projects. To put
+the task of internet censorship into
+perspective, one need only consider
+the fact that China has 300 million in-
+ternet users, about the same number
+as the entire population of the US. To
+handle filtering of that kind of traffic,
+China spent five years designing the
+majestically named ‘Golden Shield
+Project’. Mere preliminary work on
+the system cost roughly a billion dol-
+lars. Saudi Arabia has taken a different
+approach to the problem, routing all
+traffic through a server farm at a uni-
+versity, where all requests are filtered
+with those relating to blacklisted URLs
+immediately blocked. This filtering
+is of course a major limitation on the
+national internet infrastructure. Saudi
+internet providers are among the few
+to still offer dialup connections, with
+their fastest DSL connections maxing
+out at 10 Mbps, costing a whopping 42
+pounds per month excluding installa-
+tion (makes BT in the UK look posi-
+tively cheap).
+The political nuances involved in
+reducing internet censorship doesn’t
+help things either. While the US was
+quick to denounce the Chinese at-
+tempts to infiltrate Google, with Hilary
+Clinton warning of an ‘information
+curtain’ that is descending across the
+world, it’s surprising that an American
+company maintains the blacklist that
+allows Saudi Arabia to block all web-
+sites “related to drugs, bombs, alcohol,
+gambling” and most vaguely, “pages in-
+sulting the Islamic religion or the Saudi
+laws and regulations”. The close mili-
+tary and political relations between the
+West and Saudi Arabia also means that
+many free speech related human rights
+transgressions go virtually unnoticed.
+Just three years ago a prominent Saudi
+blogger, Fouad al-Farhan, was arrested
+and held without charge, seemingly
+to set an example to those who might
+question the government about policy.
+The issue raised very little attention
+internationally, with 5 months passing
+before he was released without charge
+and being told to “tone down” his com-
+mentary by the authorities.
+Whatever the result of Google’s bat-
+tle with China is and whatever Google’s
+motivations, it’s obvious that there’s
+a deeper issue that’s slowly coming to
+the fore in many countries that practice
+widespread censorship. The internet
+has changed from a luxury to a neces-
+sity. Globally, individuals need easy ac-
+cess to a good connection, while busi-
+nesses require the confidence that they
+can move confidential information
+across the globe in a secure and quick
+manner. Without being able to provide
+these assurances, these countries run
+the risk of creating a data black hole,
+letting the pervasive computing band-
+wagon pass by without harnessing it’s
+potential for growth and possibly cre-
+ating a connected divide.
+smartphone experience for the larger
+‘smart-tablet’, but I don’t know about
+you, if it won’t fit in my pocket it’s not
+likely to come with me.
+Of course there’s also the bog-com-
+puting segment. That one place where
+you sit but can’t really have a laptop
+on your legs. Bit pricy for me, perhaps
+Steve Ballmer might be interested.
+There’s also the often lucrative medi-
+cal or educational sectors that the iPad
+might be useful in. Of course, we fit
+squarely in the educational sector so
+can you see it in your work flow? Per-
+haps as a much more flexible and faster
+eBook reader for text books? But then
+there’s no multi-tasking so no Spotify
+whilst you scan through Molecular
+Microbiology of the Cell.
+Talking about eBooks, Amazon
+should be seriously worried at Ap-
+ple’s announcement of the iBooks
+store. It was bound to happen with
+the release of an Apple tablet device.
+iBooks could do for the eBook market
+what the iTunes music store did for
+music downloads. They’re support-
+ing the ePub format which is nice and
+they’re making as many distribution
+deals as possible. OK, so the iPad may
+not be the best reader around as read-
+ing from backlit LCD is always much
+more tiresome to the eyes than print
+or E-ink, but I think the eReader is a
+dieing breed. It’s too limited and the
+refresh-rate of the E-ink display is far
+too low to support any intuitive UI.
+In fact I think if OLED screens ever
+get into a device like the iPad, reading
+from a tablet screen might just be good
+enough. I know I’ve been dreaming of
+an eReader device that’s good enough
+to read journal articles and be able to
+scrawl notes on them. It sure would
+save paper and be a hell of a lot more
+portable than that stack of articles you
+need for that literature review you’ve
+got to hand in tomorrow.
+Internet freedom, you take it for granted but should you?
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+You could be forgiven for
+thinking that this was an Apple
+only week. But the blackhole of
+non-Apple related news that is
+an ‘Apple Event’ let slip a few
+interesting tidbits which I’ve
+selected for your enjoyment.
+Have you ever thought that
+your ordinary everyday RC car
+was looking a bit 20th century?
+Wondered what would hap-
+pen if it was powered by sugar?
+Yeah, me neither, but Tomy has
+just unveiled the Ene Pocket.
+This hideous looking box of a
+RC car runs on the Sony Bio
+Battery which uses the energy
+released from sugar break-
+down to generate electricity.
+Of course efficiency is entirely
+dependent on what kind of
+liquid you feed
+it. Coke is
+good but
+grape
+juice is
+appar-
+ently the
+best. All
+you have
+to do to power this
+little eco-racer is top it up with
+soda and watch it fly. Don’t
+expect it to break any speed
+records, but it’s certainly an
+innovative (if somewhat odd)
+use of sugary drinks. No word
+on when it’ll hit retail but if it
+takes off we could see a whole
+host of sugar powered toys.
+More weird tech hit the news
+this week including a pair of
+shoes that can Tweet. Obvi-
+ously the makes of the Rambler
+Sneakers have a low opinion of
+the inane chatter that occurs
+on Twitter, creating a pair of
+shoes that tweets every time
+you take a step. What’s next?
+A toilet that tweets every time
+you... Think I’ll pass thanks.
+Ever lost a small pet and
+thought, I wish I could carry
+my essays and presentations in
+‘Hammy’? OK, maybe not, but
+now with the Taxidermy USB
+stick you can put your dead ro-
+dents and other small
+pets to use as USB drives com-
+plete with red LEDs for eyes.
+Just remember to eject before
+unplugging OK?
+This week saw the first real
+time tweets from space, as the
+ISS got hooked up to the ‘net.
+Essentially astronauts on the
+ISS can remotely access a com-
+puter on the ground from the
+station. It’s no broadband, but
+better than nothing I suppose.
+More Google action this
+week too, with the roll out of
+a feature called ‘Answer High-
+lighting’. Essentially what this
+does is identify and extract
+structured data and puts it
+right in your search results.
+Excellent if you want an an-
+swer quick, but it could be re-
+ally damaging for content web-
+sites. Users won’t need to leave
+Google to find the answers
+they’re looking for and so
+they won’t bother going to the
+original site. Rupert Murdock
+has accused Google of ‘steal-
+ing content’ and this move by
+by the search giant certainly
+seems like it.
+Exoskeletons have always
+been the dream of the SciFi sol-
+dier, to be encased in a metallic
+fighting suit, able to lift enor-
+mous weights and possibly
+more importantly fire
+enormous guns. Soon,
+the weight carrying
+aspect might actu-
+ally reach reality
+if Lockheed has
+anything to do
+about it. Packing
+a 3-day capable
+fuel cell the
+HULC pow-
+ered exoskel-
+eton helps
+soldiers easily
+march with
+200lb loads.
+Next up shoul-
+der mount-
+ed auto-
+cannons!
+Samuel
+Samuel
+Gibbs
+Gibbs
+Technology
+Editor
+liquid
+it.
+go
+g
+ju
+a
+e
+b
+yo
+to do to pow
+es
+d other sma
+ortantly fire
+guns. Soon,
+t carrying
+ight actu-
+h reality
+eed has
+to do
+Packing
+capable
+the
+pow-
+oskel-
+helps
+asily
+with
+oads.
+houl-
+-
+

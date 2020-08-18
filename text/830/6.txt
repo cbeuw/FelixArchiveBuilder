@@ -1,0 +1,188 @@
+Science
+(f^ £ l j It is almost three years since the Chernobyl disaster and what has now been forgotten amid all the cries of
+On the 26th April 1986 one of the
+nuclear reactors at the Chernobyl
+nuclear power plant near Kiev in
+the Soviet Union exploded. The
+blast, however, was not nuclear: the
+reactor was literally blown apart by
+the pressure of an enormous and
+rapid build-up of steam, showering
+the area with radioactive Uranium
+fuel. The fire that followed spewed
+clouds of smoke and radioactive
+particles into the atmosphere to
+spread and contaminate much of
+Europe. Even today, meat from
+some areas, including Cumbria and
+North Wales, is too radioactive to
+eat.
+The Chernobyl reactors are of a
+type k n o w n as the R B M K , found
+only in the Soviet Union and unique
+in being the only type of reactor to
+combine the use of a graphite
+moderated core with fuel held i n
+water carrying pressure pipes (See
+box). The fuel is allowed to boil the
+water and the steam produced is fed
+to electricity producing turbines.
+This is not a naturally safe design.
+A large number of safety systems
+have to be built in to enable the
+reactor to shut d o w n if there is a
+fault. If these systems are shut off
+as they were at the time of the
+explosion, the reactor becomes
+unstable.
+The fission chain reaction itself
+takes place'in the reactor core, a
+cylinder of moderating graphite
+some 12m across by 7m high
+through which pass almost 2000
+channels running from top to
+bottom. The majority of these
+channels hold the fuel and coolant;
+the rest hold moveable rods of
+absorber k n o w n as 'control rods'.
+Each fuel channel contains a thin
+pressure resistant pipe or 'pressure
+tube', just under 9cm i n diameter,
+which holds the fuel and through
+which the coolant flows. Inside this
+are suspended 18 long thin fuel
+pins.
+Each p i n consists of a central
+cylinder of Uranium Dioxide fuel,
+specially enriched so that it contains
+more of the usable isotope
+Uranium-235, clad i n a Zirconium
+metal coat. The water coolant passes
+through the tube, from bottom to
+top, to be heated by the reacting
+fuel.
+'it couldn't happen here' is that the accident was very much the result of human error and human error, like
+radioactive fall out, is no respecter of national boundaries. Jason Lander asks what went wrong.
+A verv human error
+The control channels hold rods of
+the absorber Boron Carbide attached
+at the top to motors which allow
+them to be raised and lowered. By
+altering the position of these rods it
+is possible to remove neutrons and
+alter the reactivity of the core.
+In emergencies the reactor can be
+'tripped', in which all the control
+rods are simultaneously and rapidly
+inserted into the core. This mops up
+all available neutrons and halts the
+chain reaction. In the R B M K it is
+possible to partially trip the reactor:
+that is, to let the rods drop but to
+stop them before they reach the
+bottom if, for example, the fault
+clears. A n operator can manually
+trip the reactor i n what is k n o w n as
+a S C R A M .
+The R B M K reactor is not a
+naturally safe design. A boiling
+water coolant is inherently unstable.
+To use the jargon, the R B M K has a
+highly positive 'void coefficient of
+reactivity'.
+Water and steam have very
+different properties: water is a good
+absorber of neutrons whereas steam
+is not. A s the power i n the reactor
+core increase, more water will boil
+and less will be available to absorb
+free neutrons. With more neutrons
+available, the chain reaction will
+accelerate and the power will
+increase, boiling more water.
+Without the absorbing control rods,
+the reactor power and temperature,
+would rapidly increase until the
+reactor blew itself apart. A t very low
+power, near shut down even a fully,
+controlled R B M K reactor is
+dangerously unstable.
+Even with these inherent faults
+the reactor could still have been
+made safe. This the designers failed
+to do. The core of the reactor is
+enclosed in a leak proof concrete
+and steel vault filled w i t h a
+Nitrogen-Helium mixture. Even at
+the high temperatures involved i n
+nuclear fission, these gases will not
+react with the graphite of the core:
+graphite which is required by the
+design to absorb large amounts of
+energy. However if the vault is
+breached, highly reactive Oxygen
+can enter from the atmosphere and
+the Graphite will catch fire.
+The vault itself is not designed to
+w i t h s t a n d exceptionally large
+The RBMK reactor
+pressures: it could burst under the
+pressure produced by the breakage
+of a few pressure pipes.
+Furthermore, there is no effective
+outer containment surrounding the
+vault so the radioactive particles
+from the burning core will be
+released straight into the
+atmosphere.
+The core itself is made up of
+graphite blocks. The pressure pipes
+are held within these blocks, nearly
+touching the sides. If one of these
+pipes is moved or vibrated, the
+bricks could move and cause
+damage that can spread throughout
+the core dislocating other pipes and
+even blocking vital fuel channels.
+That is not to say that the reactor
+could have exploded at any time, its
+many layered safety system would
+have been able to cope. The reactor
+was designed to reduce power or
+even to shut itself down in an
+emergency.
+If the primary cooling circuit is
+damaged, the 'emergency core
+cooling system' (ECCS) comes into
+play. This consists of three sub-
+systems activated in two stages. It
+is assumed that if there is a failure,
+only one half of the circuit will be
+affected and the first task of the
+E C C S is to provide coolant for this
+section. Fast acting, electrically
+driven pumps can spring into action
+with 4 seconds of a fault occurring.
+These will carry water from reserve
+tanks straight into the damaged loop
+and keep the water flowing until the
+second stage can be started.
+During the second stage the other
+two E C C S sub-systems are started.
+These are designed to keep the
+reactor cool in the longer term: each
+cools half the core, like the primary
+cooling system, working with a
+large store of water and using
+p u m p s p o w e r e d by diesel
+generators.
+It is critical that a high voltage
+source is available to power the first
+stage E C C S . If an external source,
+such as electricity from another
+power station, is available, the
+reactor can call on this. If not, it has
+to find the power to cool itself from
+within itself.
+Page 6 FELIX March 3 1989
+

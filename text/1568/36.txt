@@ -1,0 +1,265 @@
+37
+FRIDAY 17 JAN
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+with contactless cards in two ways.
+One, some places don’t accept them
+and equally not every bank doesn’t
+issuecontactlesscards.Soaubiquitous
+experience isn’t there. However, if
+someone is using them and they
+work, it works really well but what
+a contactless card doesn’t do what
+Yoyo does, is it doesn’t enable you to
+automate the whole stamping of the
+loyalty card, it doesn’t enable you to
+receive ofers. What we are building
+is fundamentally very diferent.
+What we have got is, efectively, a
+marketing tool for retailers to have a
+better relationship with consumers,
+by sending them more ofers or giving
+them more rewards.
+ME: One aspect that seemed to put
+a lot of people off Yoyo was security
+issues, and one of the things that did
+worry them was the whole pin thing,
+if you lose your phone for example.
+MR: Let’s put this into some context.
+On the table in front of me, I have
+my wallet and my phone. Which
+one is easier for you to get access to
+money from? he wallet, right? So the
+minute you have access to my wallet,
+you have access to any cash I have in
+my wallet, access to my contactless
+card, my credit cards and you had to
+do nothing to get there. Now if I say
+you have my phone, away you go. If it’s
+locked, there’s not much you can do.
+So there is a reliance that most people
+do have a irst line of authentication to
+get into the device, be it ingerprint,
+pin or passcode. hen on the app
+itself if someone wants to add a PIN
+on top of that, on the next version we
+are releasing, then they can do that. So
+we have two layers of authentication,
+which is more than on a wallet.
+Equally, once you have my card details
+you can go online and do all sorts of
+things. One can probably get your
+card, ind out date of birth and address
+pretty easily, believe it or not, and do
+whatever they want. With Yoyo, the
+minuteyou’velostyourphone,you will
+realise. You will realise you lost your
+phone before you’ve lost your wallet.
+Your phone is your third arm. So the
+irst you can do is then lock the phone,
+end of story. hen you can Yoyo, and
+ask us to block your account. here is
+a whole bunch of things that you can
+do very quickly, that you can’t do with
+a wallet. It’s very simple.
+ME: Another thing that comes to
+mind, it seemed incredibly easy
+to set up a yoyo account. You only
+needed a name, account number,
+sort code and address. So what stops
+me, finding out that information
+of someone else, and then putting
+their account details onto my Yoyo
+account?
+MR: We do a lot of background
+checking, we match your username
+versus bank details. We are also
+partnered with GoCardless, which
+is a very well established direct debit
+management platform. I hope though,
+that the irst thing that would stop
+you, is that you aren’t a criminal.
+However you can’t rule it out, though I
+strongly advise anybody studying here
+not to do it. On the basis that they are
+messing with their future.
+ME: Lastly in terms of secturity:
+We currently live in the world of
+Big Data. Obviously Yoyo get data
+from the users, what is your policy
+on that?
+MR: Around data, and anything we do
+whether it’s on Facebook or Twitter,
+everything is accessible to everybody.
+hey govern this under a term called
+the privacy policy, which is exactly
+the opposite. So what we have done, is
+turned that on its head a bit. We have
+come up with something called the
+transparency agreement, and as part
+of that transparency agreement, what
+we state is that we will never share
+your data with a merchant. What that
+means, is your contact information,
+even your name, because there is no
+need to. What we can let the retailer
+know is what you are buying, but they
+know that anyway. What we do is give
+it to them in a way that at least gives
+them a little insight, to better engage
+you with ofers that are relevant. So
+what we do share is for the beneit of
+driving better ofers, better rewards
+for diferent customer segments,
+diferent users. What we don’t share is
+the personal identifying information.
+We don’t share any of the inancial
+information around funding methods,
+or anything like that. So we see
+ourselves as a kind of ilm in between,
+which manages the relationship on
+both sides, user and retailer, for the
+beneit of both in a way that doesn’t
+conlict anyone in anything they don’t
+want to be conlicted in.
+ME: So given now that you have all
+the aforementioned data, will you
+be able to give personalised offers?
+MR: Absolutely. In fact my next
+meeting is with Catering Services, to
+talk about Yoyo speciic only ofers.
+Going forward, this is totally what
+this is about. Actually you can start to
+categorize people into segments pretty
+quickly, based on an understanding of
+what they buy.
+If you are buying cofee two times
+a day, you may sit to the right hand
+side of a spectrum of cofee drinkers.
+hen what would the segment cofee
+drinkers like to eat with their cofees.
+Perhaps a cofee and pastry type of
+ofer would work for them and if
+they are buying cofee at 8:30 in the
+morning, then we should send their
+ofers 8 o’clock, so they can think
+about it and then take advantage of it.
+So, where we are going with Yoyo, is
+actually about creating, from the user’s
+perspective, a personalised commerce
+environment. You are deined by your
+behaviour, your behaviour is where
+you choose to spend money. We are
+not suggesting where you do it, we are
+ofering you the ability to manage the
+world in the way you want it, so you
+can see the ofers and rewards that are
+most meaningful to you.
+What we all recognize, we, the
+founders of Yoyo, are consumers, too.
+A lot of the things that lead to Yoyo,
+are because I found being bombarded
+by e-mails and texts really annoying. I
+don’t care that I am near a Starbucks,
+I just don’t care. So every time it pings
+up in Passbook, I just turn it all of.
+But what I do care about for example
+a Fernandez and Wells - which is my
+favourite cofee joint - I would like to
+know if I am near one. So to be able
+to personalise that experience in a
+way where I don’t have to download
+multiple retailer apps would be great!
+ME: So are you planning to expand
+out of universities?
+MR: What we are building is deinitely
+for the high street as well as for the
+campus, the reason being is that we
+want to start bringing is the ability to
+give more to you, the consumers, of
+things that they like. As a consumer,
+what do we really want out of any
+transaction? We want to pay less,
+and we want to get more, and that is
+totally what Yoyo is relying on doing.
+Yes, a retailer wants to sell more, but
+obviously it also wants to provide
+a great customer experience and
+wherever possible they want to save
+money. Saving money is equivalent
+to not wasting money. By enabling
+retailer to ofer rewards that are more
+appropriate for diferent segments,
+ticking the boxes that they want to
+tick. Most importantly for a users
+perspective, you are starting to get
+things that are relevant to you, and not
+just homogenised for anybody.
+ME: So on a completely different
+note, why Yoyo? What’s with the
+name?
+MR: Choosing a name is very diicult
+in today’s world of startup boom.
+he irst thing about Yoyo is that
+everyone knows what a yoyo is. It’s
+very international in terms of its
+pollination of language. Yoyo is a
+yoyo everywhere you go and most
+people, unless you had one ping you
+in the eye, have a positive experience.
+It’s very playful and very engaging.
+Equally if you think of the process of
+spinning a yoyo out, and then coming
+back to you, it’s the same thing when
+you think about paying for something
+and what you get back is rewards and
+ofers. So, it’s a very engaging process,
+and it’s memorable, right?
+ME: Any last thoughts, any thing
+left to say? Maybe why imperial
+students should use yoyo?
+MR: he reason why we chose
+Imperial is because there is a high
+concentration of smart people in one
+place and you know, if we are going
+to build something relevant for the
+world, what better place than to launch
+it at Imperial. he feedback we get is
+invaluable to help us create a better
+consumer experience, which we all
+love and all consumers would beneit
+from that. It’s something that’s very
+quick and simple. Our belief is that if
+we get it right here, and get it right at
+the other universities we are going to
+roll Yoyo out at, that the concept that
+we can go to the world with is that
+smart people buy with Yoyo. I would
+encourage everyone to download it,
+use it and start taking advantage of the
+Yoyo speciic rewards and ofers.
+ME: Sorry to keep you, but one last
+question; You had this 10% offer for
+topping up in January. Sadly that’s
+over now, but do you have any other
+promotions to encourage more
+people to start using Yoyo?
+MR: : In February, we are running
+prize draws, whenever you pay with
+Yoyo on campus you have a chance
+of winning either £10 or £50 of Yoyo
+balance (there are multiple winners).
+We will be doing the irst draw at the
+end of this week, and that is running
+throughout the whole of February. You
+can get the updates on the winners on
+Twitter at @justyoyo, and On our page
+on Facebook.We are deinitely making
+sure that there is a chance for people to
+win and enjoy their Yoyo experience.
+#yoyonotyolo
+

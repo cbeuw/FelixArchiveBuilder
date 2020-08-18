@@ -1,0 +1,313 @@
+ISSUE 1706
+FELIX
+CLUBS & SOCIETIES felix.clubsandsocieties@imperial.ac.uk
+32
+Imperial College Model United Nations in Cambridge
+CLUBS & SOCIETIES
+Danel Medelbekova
+Imperial College Model
+United Nations Society
+Secretary of Training
+Cyber-attacks and condom attacks
+F
+ollowing the suc-
+cess of ICMUN’s
+five-man dele-
+gation in Oxford
+earlier in the year, we have
+sent a delegation almost
+twice that size to the
+Cambridge International
+Model United Nations
+conference, to once again
+act as representatives of
+different countries saving
+the world. To say that
+the weekend was full of
+surprises would be an
+understatement, and to
+say that the resolutions
+passed would at all reduce
+the chances of us dying in
+World War Three would
+be a blatant lie.
+Our delegate in the
+Disarmament and Interna-
+tional Security Committee
+was deeply shocked to
+witness Russia working
+alongside the USA to lead
+a unanimous condem-
+nation of cyber-attacks.
+However, the future of
+humanity once again
+began to look grim when
+the session ended with the
+passing of a resolution
+encouraging global rear-
+mament with lethal killer
+robots, despite Canada’s
+best efforts.
+the precise nature of the
+two Chairs’ relationship).
+A different, slightly
+higher-profile relation-
+ship under scrutiny was
+President Macron’s “un-
+conventional love story”,
+as the delegate of France
+got lightly roasted in the
+UN Women committee
+and the room was split in
+three by the discussion of
+the #MeToo movement.
+Day 2, club night after the formal dinner: Happily ruling the world, though it’s a bit of
+a blur // ICMUN
+Day 1, pre-debates and pre-socials: Refreshed and ready
+to rule the world // ICMUN
+“To say that
+the weekend
+was full of
+surprises
+would be
+an under-
+statement”
+“Things
+escalated
+when
+delegates
+began
+throwing
+condoms at
+the Chairs as
+the committee
+moved on
+to the topic
+of access
+to contra-
+ceptives”
+Burkina Faso and Turkey.
+Our delegate in the World
+Health Organisation
+witnessed the entire room
+(with the exception of
+DPRK) working together
+to eliminate medical black
+markets and safeguard
+electronic health records.
+“Ultimately,
+ICMUN has
+fulfilled its
+sacred mission
+of proving
+that scientists
+can indeed do
+politics and
+contribute to
+the demolition
+of the world” Day 3, after 2 days of debate and 2 nights of socials:
+Smiling through the sleep deprivation // ICMUN
+The Human Rights
+Council made leaps in
+dealing with the Rohingya
+refugee crisis, by some
+miracle managing to
+convince the delegation
+of Myanmar to give up
+their “not our territory,
+not our problem” attitude.
+Yet, things escalated when
+delegates began throwing
+condoms at the Chairs as
+the committee moved on
+to the topic of access to
+contraceptives.
+The debate in the
+Economic and Financial
+Committee was equally
+heated, with the room
+politics being “straight out
+of the House of Cards” as
+terrorist financing was
+discussed (in addition to
+On the brighter side,
+a number of resolutions
+that might postpone our
+certain doom were passed
+unanimously, including
+COP24’s monster 40-
+clause resolution on com-
+bating marine pollution
+and UN Women’s master
+plan for protecting women
+in conflict zones.
+In addition, the vast
+majority of delegates in
+the UN Development
+Programme voted in
+favour of a resolution
+fighting corruption in
+development projects,
+with an interesting
+anti-corruption alliance
+forming between Ukraine,
+The ICMUN delegate in
+the Historical Crisis was
+relieved to see the preven-
+tion of World War Two,
+as Germany sold off its
+colonies over the course
+of the 1919 Paris Peace
+Conference and emerged
+as the richest country in
+the world following World
+War One.
+Ultimately, ICMUN
+has fulfilled its sacred
+mission of proving that
+scientists can indeed do
+politics and contribute
+to the demolition of the
+world just as well as the
+humanities squad, having
+tons of fun in the process.
+CLUBS & SOCIETIES
+FRIDAY, 23RD
+NOVEMBER, 2018 FELIX
+33
+felix.clubsandsocieties@imperial.ac.uk
+Imperial’s Space Society launches High-Altitude
+weather balloon
+CLUBS & SOCIETIES
+Medad Newman
+Imperial Space Society
+Payload sadly lost over Norfolk due to GPS failure
+O
+n 3rd
+November,
+members of
+the Imperial
+College Society
+for the Exploration and
+Development of Space
+headed off to Elsworth,
+Cambridgeshire, to launch
+our payload on board a
+large weather balloon.
+However, as soon as
+we let off the balloon,
+we realised that the GPS
+had lost lock and lost
+track of the position of
+the balloon. However, the
+transmitter was sending
+back pressure and temper-
+ature data over radio. We
+hoped that we could home
+in on the signal by using
+our directional antenna
+to pick the location of
+the payload. Using data
+from the NOAA weather
+service, we expected the
+payload to descend on the
+parachute and land near a
+The flight computer all packed away in a polystyrene box // Sena Harayama
+Filling up our massive weather balloon with helium//
+Sena Harayama
+“We are
+planning on
+designing a
+tracker and
+balloon for
+a mission
+to CIRCUM-
+NAVIGATE the
+world”
+On board, we had 2
+compact cameras as well
+as a flight computer,
+relaying telemetry on
+its location, altitude,
+temperature and pressure
+to our tracking station on
+the ground. All looked
+fine before launch with a
+healthy stream of telem-
+etry received at our base
+station on the ground.
+With great anticipation
+for a High altitude balloon
+chase around the English
+countryside, we released
+the balloon.
+village called Reepham in
+Norfolk.
+Undaunted by the loss
+of GPS data, we headed
+off in our van towards
+Norfolk. As long as the
+payload was in the air, we
+could pick up telemetry
+due to the clear line of
+sight. After around 1
+hour of flight, we knew
+the balloon had burst
+and started descending
+because the pressure
+readings started to rise, in-
+dicating that it was falling
+towards the ground. The
+payload’s descent was
+slowed by a parachute
+that deployed as soon as
+the balloon burst. Based
+on the pressure readings,
+the highest altitude trans-
+mitted was 28.5 km, three
+times higher than any
+commercial Jet would fly.
+After the landing, we
+could not get any signal
+from the payload due to
+land features blocking the
+radio signals. Our hopes
+were slightly lifted when
+we managed to pick up
+extremely faint signals
+from the payload near
+the village of Reepham.
+However, by then it had
+become dark and we had
+to give up on our quest to
+find the payload.
+Our post mortem
+analysis of the launch
+concluded that either the
+antenna for the GPS was
+accidentally shielded by
+a battery pack or spurious
+interference from the
+cameras may have caused
+the GPS to loose lock.
+We hope to do better
+next time. We have
+several exciting new
+plans for future missions.
+We are planning on
+designing a tracker and
+balloon for a mission to
+CIRCUMNAVIGATE
+the world. We are always
+on the lookout for more
+people to join our team.
+Send an email to pwroject
+leader, Medad Newman
+at mrn3317@ic.ac.uk for
+more information.
+Many thanks to the
+Imperial College Robotics
+Society for maintaining
+the lab for the develop-
+ment of our payload.
+

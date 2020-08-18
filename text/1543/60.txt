@@ -1,0 +1,144 @@
+PUZZLES
+61
+FRIDAY 08 MARCH
+Puzzles Commanders:
+Sotirios Karamitsos
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+Ophis 5
+2
+2
+6
+6
+9
+2
+6
+8
+4
+6 2 4 8 6 4 6
+4
+Fill the cells with a
+continuous line (the
+“snake”) that does not
+pass through a cell twice,
+doesn’t intersect with it-
+self, and passes through
+all white boxes (but no
+black boxes). The num-
+bers show you how many
+times the snake turns in
+the corresponding row
+or column. The snake
+enters and exits the grid
+at the shown points (and
+only those points).
+That tiny thing won’t hurt us...
+The numbers in each row and column tell you
+how many groups of black squares are in a row
+or column, as well as how many black squares
+each group is made up of. Filling in the grid
+produces a pretty picture, which in turn pro-
+duces points if you send it in, so get solving!
+
+
+ 
+
+     
+        
+        
+        
+        
+        
+        
+        
+        
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                               
+                               
+                              
+                              
+                              
+
+Will it? See last week’s
+solutions for a hint.
+

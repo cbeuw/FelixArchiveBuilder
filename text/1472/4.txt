@@ -1,0 +1,211 @@
+NEWS
+FELIX
+4
+In brief
+Should Union profits pay for
+student bursaries?
+Union President Alex Kendall’s plans to consider us-
+ing “a proportion of the Union’s commercial services
+profits to fund bursaries” received a mixed reception
+at this week’s Union Council meeting. The money
+would be given to the college to use as part of its
+bursary scheme in order to eliminate logistical diffi-
+culties in deciding which students should receive it,
+but many were ideologically opposed to giving away
+Union funds.
+The opposition was lead by Deputy President for
+Finance and Services, Ravi Pall. It is his belief that
+the money made by bars and shops should be rein-
+vested in these same services, improving them for
+the benefit of students.
+RCSU representatives were also worried that if
+the Union gave away some of its money the College
+would believe that it has a surplus, and therefore cut
+its £1.2 million subsidy, which is completely sepa-
+rate from the commercial profits. Kendall stated that
+he didn’t believe that the College would take this
+“immoral” course of action. He also dismissed Pall’s
+claims that the subsidy might be reduced in the
+future for other reasons, meaning that the profits
+would be needed for running the union, as unlikely.
+Many were also concerned that giving Union mon-
+ey to just some violated the Union’s mandate to
+help all. Supporters of the policy argued that a large
+proportion of students, (about 40 percent), would
+have access to the bursaries, and that helping the
+neediest was clearly the right thing to do. There was,
+however, a lot of anxiety about the possibility of fail-
+ing international students, who would be unable to
+access many of the bursaries.
+Pall’s motion that this issue should not be dis-
+cussed at further Council meetings as it would be a
+waste of time was defeated by a large majority. The
+final decision on whether to support the bursaries,
+however, will be left until the College and govern-
+ment finalise their higher education funding policies.
+Judging by this week’s events, the debate over that
+decision is likely to be heated.
+Maciej Matuszewski
+News Editors: Matt Colvin
+Alex Karapetian
+news.felix@imperial.ac.uk
+Metric launch date announced
+Unsecured networks leave
+student data at risk
+being used, such as WPA, the captured packets
+can be analysed effortlessly to derive the data
+which is being transmitted. This could equate
+to a Facebook status, a downloaded E-mail or
+even background information such as a cookie
+authenticating the user to the website.
+The problem lies here, as Felix tested this tool
+around various parts of the campus. FireSheep
+is a Firefox extension which appears as a side-
+bar in the popular Internet browser. The side-
+bar hides the complexities of packet inspection
+from the user and performs various tasks in
+the background. It requires a packet captur-
+ing driver to be installed, called WinPCap, and
+using this, it monitors all traffic visible to the
+machine’s network card (particularly packet
+data corresponding to other users on the same
+wireless network) and attempts to hijack ses-
+sion cookies for websites.
+Should an unsuspecting user log in to one of
+the listed services over the same network the
+hijacker is on, their picture and username will
+be displayed in the sidebar and the hijacker can
+gain access to the service, fully authenticated
+as the person captured, by simply double click-
+ing on the name in the sidebar.
+Felix was not able to successfully use the
+tool over the Imperial-WPA wireless network
+on campus, since packets are encrypted with
+protection, although this type of network is
+still vulnerable to other types of attacks. The
+IC-DoC network, situated in the Department of
+Computing in the Huxley building, however, is
+unsecured. As a result, Felix was able to use
+the tool to its full extent. Armed with an old
+laptop with a network card that allowed captur-
+ing packets in ‘promiscuous mode’, where the
+user has access to all packets visible to the card
+(some laptops protect against this), screen-
+shots of private messages within Facebook ac-
+counts, phone numbers from ‘numbers please’
+groups and other private information, Felix
+approached Computing’s security team (CSG)
+and Imperial’s ICT security for a response.
+Regarding the FireSheep tool, ICT comment-
+ed that it is ‘very interesting’, and that ‘unen-
+crypted wireless networks have always been a
+security issue, but they’ve never been so high
+profile’, adding that ‘the release of FireSheep
+might generate enough publicity for home
+wireless users to think seriously about whether
+encryption is enabled on their home networks,
+and whether a wireless network is safe to con-
+nect to.’
+‘ICT has always had security in mind when
+designing the College wireless service’, they
+added, ‘we provide a number of different wire-
+less networks to accommodate the huge range
+of devices which we support. It is planned that
+staff and students in Computing will be migrat-
+ed to use the main College wireless network’,
+Imperial-WPA.
+Felix interviewed two students from the De-
+partment of Computing who were affected by
+this issue. Approached with information he ex-
+pected was private, Josh Forman-Gornall said:
+‘I was surprised when I saw my account was ac-
+cessible by anyone else. I expected the depart-
+ment would have measures to protect against
+this’, adding ‘I think it’s a travesty how they
+have unprotected wireless. It should be WPA.’
+Upon explaining the alternative of using the
+Imperial-WPA network, Josh added ‘I would
+use it but the signal strength of IC-DoC is
+stronger so it’s my first point of call. I have
+good speed, but it seems I lose my privacy
+as a result.’ Commenting on the tool itself, he
+said ‘it’s quite a scary prospect that the author
+has made it so simple and put it out there. It
+means anyone can do it without knowing how
+it works. Pretty much everyone’s bound to be
+using that tool soon. It would wreak havoc, but
+I hope it doesn’t get that far.’
+Felix also approached Danish Khan with less
+of an emphasis on network security but more to
+do with the websites’ lack of SSL encryption,
+who said ‘if FireSheep worked regardless of
+network security, I guess I’d have to stop using
+them or switch to a wired connection.’ He add-
+ed that ‘Facebook and other sites could offer
+an HTTPS service which used SSL throughout,
+for networks you don’t trust, but you’d expect
+to be able to trust DoC’.
+David McBride, of the Computing Support
+Group, responded to these comments in an
+interview explaining that there will be a com-
+putational cost associated with services such
+as Facebook providing SSL throughout the
+session, but that the problem is the underlying
+assumption of privacy in an otherwise unen-
+crypted session on a website without SSL.
+He explained that the IC-DoC network is
+unsecured to allow test devices, research ma-
+chines and robots that are not compatible with
+encryption to connect to networked resources
+or be controlled over the wireless network.
+Coverage issues with the DoC network can
+be investigated and fixed, but ultimately, for a
+reasonable expectation of security, the entire
+session from the moment the website is visited
+must be encrypted, not just the authentication
+and login.
+‘Don’t panic’, he added, explaining that the
+attack has existed for many years, and that us-
+ers should associate with the Imperial-WPA
+network for increased protection against this
+type of attack. ‘If in doubt, if the padlock isn’t
+there when you started using the website, it
+isn’t safe’.
+Google’s Gmail service switched to SSL in
+January this year, but services such as Face-
+book have yet to follow suit. Twitter currently
+provides an SSL only option as a feature, and
+Felix advises users with doubts to both associ-
+ate with the Imperial-WPA network where pos-
+sible. The attack, formally known as HTTP ses-
+sion hijacking, is an inherent problem with the
+way the websites are presented to the user and
+not the fault of the wireless networks and their
+security measures. Firefox extensions such as
+HTTPS-Everywhere and Force-TLS can be
+used to enable encryption where possible to
+thwart snoopers over a wireless network.
+FireSheep allows rather more subtle Facebook snooping than this
+...Continued from Front Page
+After a summer of construction work and successive
+delays, the Union has finally set a date for the long-
+overdue launch of Metric.
+The club will open on Saturday the 20th of Novem-
+ber with a host of live bands and djs, including Ro-
+bots in Disguise, Tape the Radio, Citadels and Miss-
+ing Andy.
+The new club, which replaces the old dBs, was
+originally set to open at the beginning of October,
+in time for Welcome Week. However problems with
+removing a pillar that would have blocked the stage
+meant that this was pushed back to the 29th of Oc-
+tober.
+Unfortunately the discovery of asbestos dashed
+Union hopes of launching with a Halloween party.
+With the success of the new bar, FiveSixEight, ex-
+pectations are high for Metric. Hopefully it will have
+been worth the wait.
+Metric launch: 20:00 - 03:00, Saturday 20th
+Friday 05 November 2010
+Photo by Kadhim Shubber
+

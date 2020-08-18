@@ -1,0 +1,554 @@
+28
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 23 OCTOBER 2009
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+Goodbye Vista, hello 7
+Microsoft launches its latest and greatest hope to unseat XP from
+your desktop but will it succeed? Simon Worthington reports
+Vista Be Gone!
+W
+ell you could be for-
+given for thinking this
+is a Windows week with
+Microsoft launching
+the much heralded Windows 7 onto
+the unsuspecting public. Us Brits even
+managed to get it early for a change,
+due to the bloody postal strikes. Si-
+mon’s got a great article for you on that
+to your left along with a down right
+fantastic deal for students.
+Microsoft also had some leaks of
+the mobile variety this week. After the
+decidedly lackluster launch of Win-
+dows Mobile 6.5, some leaked mock-
+up comparison shots of WM6.5 and 7
+surfaced. Instead of the same old ‘Win-
+dows 95’ style interface we’ve come to
+expect, WM7 looked downright touch
+friendly. Microsoft best be pushing
+hard to get the seventh iteration of
+its mobile operating system out of the
+door asap, otherwise it might just find
+that the market space it once had has
+been swallowed up by Android.
+Apple of course couldn’t let Micro-
+soft take all the limelight this week, en-
+tering the press with a refresh of their
+consumer level computers. First up we
+had a ‘new’ iMac, which to be hon-
+est isn’t all that new except for bigger
+screens and some Core i7 love. What
+Apple thinks it’s playing at with no Blu-
+Ray support in a $2000 machine is any-
+one’s guess.
+The little brother of the Mac world
+also got some love with a spec bump
+and the release of a Mac Mini Server,
+which is something people have been
+using Mac Mini’s for, ever since they
+first released them. The white poly-
+carbonate MacBook also got a kick in
+the pants with bumped specs, an in-
+tegrated ‘7 hour’ battery and an LED
+backlight. Why anyone would buy one
+of these over the marginally more ex-
+pensive 13” MacBook Pro is beyond
+me, but I guess there must be some.
+After a suit from the owners of the
+Mighty Mouse patent, Apple went
+ahead and changed their whole mouse
+design concept. The Magic Mouse,
+yet another crappy name, dispenses
+with things like buttons and scroll
+wheels/balls and moves everything to
+multi-touch. Normal mousing is still
+performed by moving the thing, but
+scrolling and clicking are done through
+the touch sensitive surface. Ok, the
+Mighty Mouse wasn’t a great mouse
+for any extended use but is this thing
+any better? It doesn’t even feature re-
+chargeable batteries. I guess well have
+to see what the public’s reaction to it is.
+Finland this week pushed forward a
+law to make broadband internet access
+a human right. What this will mean for
+the whole ‘disconnect the file sharers’
+movement to tackle piracy is anyone’s
+guess. For more on the subject Feroz
+has got a spiffing article for you over
+on the right.
+Also this week Ben, our very own
+felix photographer, takes a look at the
+new drool worthy Canon 1D Mk VI,
+a must read for anyone interested in
+DSLRs. The 1D is something that most
+of us wish we could buy but simply
+can’t afford it. If however you’re the
+kind of person with an enormous trust
+fund and a penchant for photography,
+hit me up at the usual address.
+SamuelGibbs
+SamuelGibbs Technology Editor
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+This week Spotify announced a deal
+with 3 to bundle it’s music subscrip-
+tion service in with mobile phone con-
+tracts. In a move that essentially locks
+customers into a two year subscription
+with Spotify, 3 users will get all you
+can eat music in a similar fashion to
+what Spotify has made available on the
+desktop. Spotify is not the first to offer
+music subscriptions as part of a mobile
+phone contract. Both Vodafone and
+Nokia have similar services, but Spoti-
+fy’s brand for music and availability on
+the desktop might make this a winner.
+Spotify is also looking to push the serv-
+ice out to many platforms and carriers
+after starting with the UK’s most open-
+minded network 3.
+More mobile news this week from
+Samsung who introduced the Samsung
+Blue ‘eco-phone’. The outer shell of the
+not unattractive handset is made from
+recycled plastic bottles. Shame about
+all that silicon and metals in the circuit
+boards but it’s a start right?
+DVD-Jon is back again this week with
+an update to his iTunes replacement
+DoubleTwist. The update re-enables
+iPhone syncing, which, with the recent
+announcement that DoubleTwist is
+going to get an Amazon MP3 store in-
+tegration, makes it a worthy competi-
+tor to, what at least on Windows, is a
+rather unwieldy piece of software.
+unsuspecting users without even a lit-
+tle bit of warning, resulting in Firefox
+blocking the plugin assuming it was
+malware. Microsoft threw up a hissy-
+fit when Google announced Chrome
+Frame an add in for IE saying it was a
+security risk yet they do the exact same
+thing to your Firefox installation.
+Microsoft’s Hotmail was also in
+the spotlight this week for blacklist-
+ing the NHS for 7 days. For the sec-
+ond time addresses ending in nhs.uk
+were blocked by Microsoft resulting
+in many patients and candidates fail-
+ing to receive important emails and
+documents. As the world’s third larg-
+est employer, the NHS has a lot of ad-
+dresses, which play an important role
+in both patient care and administra-
+tion. If you haven’t already, maybe it’s
+time to make something else other
+than the aging Hotmail your primary
+email account.
+The WiFi alliance this week an-
+nounced the WiFi Direct certification
+, which in effect replicates the direct
+connection facility that BlueTooth al-
+ready provides but with much higher
+bandwidths. Think of it as a beefed up
+ad-hoc wireless profile with easier and
+faster direct connections between de-
+vices. What this will mean for the up
+and coming BT 3.0 standard is any-
+one’s guess, but for now, low power
+devices that use BT are unlikely to be
+A
+s you read these very words,
+a digital revolution is oc-
+curring. All over the world,
+people young and old are
+waking up to a new era of user-centric-
+ity and unparalleled performance. Ok,
+ok, before this turns into a nauseating
+torrent of Microsoft marketing babble
+(or even worse, another Launch Party
+video) let’s cut to the chase: Windows
+7 is here, so let’s get the lowdown on
+what it means for me and you.
+To the untrained eye, Windows 7
+will, for many people, be very remi-
+niscent of Vista. There are still lots of
+shiny Aero Glass and transparency ef-
+fects, and the core features like Win-
+dows Explorer and the Start menu
+remain mainly unchanged. However,
+there have been numerous more sub-
+tle changes that could take people a
+little while to get used to. The first is
+the new taskbar which is pretty much
+a complete rip-off of Apple’s dock.
+It uses big, glossy icons to represent
+programs instead of the little rectan-
+gles we’re used to. It does this regard-
+less of whether or not they’re open or
+not, providing a place to ‘pin’ favourite
+programs in place of the now-removed
+Quick Launch bar. They’ve also added
+several new features under the “Win-
+dows Aero” banner, including the abil-
+ity to snap windows to the edges of the
+screen and a big button to briefly hide
+all the Windows to see what’s on the
+desktop. All of this is shuffling around
+the features we’ve all actually had for
+ages, but presenting them in a fresh
+and more user-friendly way.
+Windows 7 isn’t just an old dog with
+new tricks however, the majority of
+changes that those crazy Microsoft de-
+velopers have put into the new version
+have been under the hood, providing
+a myriad of performance-related im-
+provements. In benchmark tests on the
+Windows 7 release candidate it con-
+sistently out-performs Vista at pretty
+much everything, and in some cases it
+even does better than XP. It is usable
+sooner on boot, shuts down quicker
+and uses fewer system resources. In
+fact it does everything you’ve always
+been able to do (and more) and it’s had
+a bit of liposuction to boot. A lot of
+commentators suspect that Windows
+7 will quickly become the platform of
+choice for hardcore PC gamers instead
+of XP, finally delivering the goods to
+elitists where Vista so sluggishly failed.
+This isn’t just good news for those of
+us with beefy tower computers though.
+Windows 7 has also been designed
+with laptops, netbooks and tablets in
+mind, so anyone upgrading should see
+a considerable performance increase
+on lower-end systems over Vista. It
+may not even matter if your laptop is
+a few years out of date, as the system
+requirements for Windows 7 have
+only changed very slightly since Vista,
+requiring only slightly more memory
+and a very slightly faster processor.
+The graphics requirements remain un-
+changed and the amount of disk space
+you’ll need has in fact dropped by sev-
+eral gigabytes. Performance increases
+like this could breathe a new lease of
+life into old laptops and save the user
+quite a bit of money as previously
+bumbling hardware gains a spring in
+its step from Windows 7.
+Speaking of money, you’d expect to
+have to pay through the nose for the
+new version as is usual with new Mi-
+crosoft releases. If you were anyone
+but a student you’d be right, with the
+retail Ultimate edition of Windows 7
+weighing in at a whopping £299.99.
+There is a way for students to get it for
+considerably less however, and I’m not
+talking about BitTorrent. Everyone
+with an “ac.uk” email address (that’s
+everyone at Imperial) can take advan-
+tage of the “Ultimate Steal” offer which
+allows us to get the Home Premium
+version for the low, low price of £30.
+For more information, check out:
+http://www.microsoft.com/uk/
+education/studentoffer.
+Windows 7 is set to become the new
+operating system of the moment for
+the PC world. Whether you’re ready or
+not, odd’s are that it’ll start appearing
+on Imperial computers in the future,
+so even though there are a few changes
+that might take a while to get used to,
+in the long run, making the jump is
+something that is inevitable.
+SamuelGibbs
+SamuelGibbs Technology Editor Armed with pedal power the Trike can
+go where the Street View cars can’t and
+photograph even more of the country.
+Mind you, the Trike riders better keep
+their wits about them, riding around
+with thousands of pounds worth of
+camera equipment attached.
+WolframAlpha, the computational
+engine, released an iPhone app this
+week. How much for the convenience
+of not going to the iPhone optimised
+site? An extortionate £30! I say thanks
+but no thanks. The only useful thing
+I’ve managed to get out of WolframAl-
+pha has been the amount of vitamin C
+contained in a lightyear3
+of strawber-
+ries. OK, not that useful.
+Dell unleashed the new, anorexic
+Adamo XPS to the world this week co-
+inciding with the Windows 7 launch.
+Measuring in at a positively wafer like
+0.39” thick and using a ‘heat-sensing
+strip’ to automatically open the lid, this
+epitome of indulgence can be had for a
+cool $2000. Just don’t expect it to en-
+code that YouTube video of you farting
+in your mates face whilst he’s passed
+out drunk in HD too quick OK?
+Being a Windows week, Micro-
+soft couldn’t get everything right and
+in this case had its grimy mitts on
+Firefox. The Windows Presentation
+Foundation plugin was pushed upon
+upgraded with WiFi Direct.
+This week, Google announced the
+Street View Trike, showing that there’s
+nowhere to hide from Street View.
+

@@ -1,0 +1,219 @@
+GAMES
+FELIX
+Friday 21 JANUARY 2011
+Games Editor: Simon Worthington
+games.felix@imperial.ac.uk
+era to the record set by the DSi for a grand total
+of three cameras, one on the inside and two on
+the outside of the lid. Using these two cameras
+it will be possible to take 3D photos, saving
+them onto the 2GB SD card that comes with
+the system. It was also revealed a depth slider
+can be used to adjust the 3D effect.
+Shortly after Wossy made another Sachsgate-
+esque comment about Laurent Fischer’s wife
+(we think), ‘SpotPass’ and ‘StreetPass’ were
+named as the two new ways to take advantage
+of the DS wireless functionality. SpotPass is
+Nintendo’s always-on Internet connection:
+whether playing games or in sleep mode (with
+the lid closed), the 3DS will connect automati-
+cally to compatible access points and down-
+load content in the background. Eurosport and
+Aardman were named as partners who will be
+delivering exclusive 3D content via SpotPass.
+StreetPass instead uses a local Wi-Fi con-
+nection to exchange details with nearby 3DS
+Web Games
+Each week we’re going to bring you a selection of
+fresh, free and fun web games that you can play right
+away in your browser. Unless otherwise specified,
+you’re going to need the Adobe Flash Player plug-in
+which can be installed from http://get.adobe.com/
+flashplayer/.
+Goblin War Machine
+bigblockgames.com/games/goblin
+Sometimes it can all get on top of you. Girlfriend trou-
+ble? Exam stress? Then maybe it’s time to kill some
+people... in this vehicular-action game of course!
+Take to this cannonball-firing monster truck and jump,
+drive and shoot all over the native human population
+of hamlets, villages and towns. Towers and buildings
+stand in your way, and warriors will fight back with
+spears, siege towers and even parachutes.
+Although the gameplay is really fun when it gets go-
+ing, the war machine’s general bouncyness and in-
+stability means the car is constantly flipping onto it’s
+back from which it’s not possible to recover. Players
+can press ‘F’ to flip the wheels back over, but both
+hands are on the arrows and mouse so this is awk-
+ward. Otherwise, graphics fit well with the mood and
+the upgrade system keeps the game going for longer.
+Although Nintendo let their big bosses have
+the honour of announcing the Nintendo 3DS,
+the successor to their current range of handheld
+consoles, the task apparently fell to Jonathan
+Ross to host the latest press conference on the
+upcoming device.
+With disgusting beard and sharp quips in evi-
+dence, Ross took the stage on Wednesday along
+with Nintendo marketing exec and Clooney-
+lookalike Laurent Fischer and even Ubisoft
+CEO Yves Guillemot. Together they revealed
+a wealth of information about the new console
+and also announced a March 25th launch date,
+no doubt chosen to coincide with the end of
+term at Imperial.
+Along with the no-glasses-required 3D
+screens, it was revealed that the 3DS will also
+feature a motion sensor and a new circular di-
+rectional pad. Proving again that you can make
+products better by simply sticking more stuff
+inside, Nintendo have added yet another cam-
+30
+owners, and is again active even when in sleep
+mode. This allows users ‘in the street’ to ex-
+change Miis and exclusive game content auto-
+matically just by walking past each other. DS
+owners will also be pleased to know that the
+disgustingly complicated friend code system
+has been simplified to give one code per system
+instead of one per game.
+Nintendo also showed off some cool aug-
+mented reality features, a new Mii Maker stu-
+dio capable of making Miis automatically from
+pictures taken with the cameras, and ‘Face
+Raiders’ – a shooting gallery made up of the
+faces you’ve taken. So, you can take your own
+picture, insert it into the gallery and shoot your-
+self in the face. Brilliant!
+Also announced were the games: Metal Gear
+Solid: Snake Eater, Pro Evolution Soccer 3D,
+Dead or Alive Dimensions, a new Resident
+Evil title and even remakes of The Legend of
+Zela: Ocarina of Time and Starfox 64.
+The next level for web games
+programming. This has also opened the way
+for 3D graphics directly in the browser without
+the need for any third-party plugins like Flash
+through a yet-to-be-standardised technology
+called WebGL. Couple this with the myriad of
+improvements in JavaScript, the programming
+language that makes the web interactive, and
+suddenly game developers have a new, usable
+platform for making online games.
+But HTML5 is entering an already saturated
+playing field. With Adobe’s Shockwave Flash
+by far the most popular platform, and Micro-
+soft’s Silverlight and Java being less widely
+used alternatives, it might be hard to see what
+room there is for another way of creating and
+deploying online games. HTML5, however,
+has some significant advantages over the
+competition. Because HTML is the part of the
+Gaming is no longer all about consoles. Web
+games have gone from being the domain of be-
+spectacled nerds to the salvation of the chroni-
+cally bored masses. As game authors set the bar
+increasingly higher and tax our browsers to the
+limit, a new contender enters the eternal web
+format wars. To make a difference, it’s going to
+have to be fast, good-looking and feature-rich.
+Every webpage you have ever visited was writ-
+ten in a special computer language called HTML,
+or ‘HyperText Markup Language’, which tells
+your browser what to display, where to display
+it and how it should look. As it’s the language
+the runs the entire Internet it’s pretty important
+that everyone is speaking it in the same way, and
+for this reason HTML is a standardised language
+with a static set of features. The last update to the
+standard was in 1997 with HTML 4.0, and back
+then the web was a much simpler beast. No-one
+watched videos on YouTube and no-one chatted
+on Facebook, and it was impossible to see how
+the web would evolve and to design HTML with
+this in mind. Almost fifteen years of progress lat-
+er and HTML 4.0 just doesn’t cut it for building
+web sites to the standard we’ve come to expect.
+HTML5 is the name given to a collection of
+new technologies, championed and standardised
+by web watchdog the World Wide Web Consor-
+tium, that updates the core technology that lies
+at the very heart of the web. Offline storage,
+rich browser-site communication and all-new
+graphical effects are among the features that will
+be landing in browsers soon, if not already: up-
+to-date users of Firefox, Chrome and Opera can
+start using HTML5-enabled sites immediately.
+It hasn’t been around for long and not every
+web browser supports it, but HTML5 has already
+begun making ripples in online game develop-
+ment. HTML5 effectively adds a ‘canvas’ to the
+web, allowing game developers to ‘draw’ shapes
+and sprites to the screen just like in conventional
+very fabric of the web the content is rendered
+right in the browser without the need for any
+third-party plugins or extensions. This is of
+particular advantage to phone users: HTML5
+is already supported on the iPhone and iPad
+(where Flash isn’t allowed to tread) and on
+Android phones, and games built using it can
+be played on all three without modification.
+HTML5’s strength is also unfortunately it’s
+downfall. When it comes to displaying the
+graphics and running the game the browser
+is strictly in charge, but this also means that
+the browser sets the limit of what’s possible.
+Flash outperforms HTML5 in a number of key
+performance areas because it can be given ac-
+cess to a computer’s graphics card via ‘hard-
+ware acceleration’, and because Flash runs the
+game and moves the screen around simultane-
+ously where HTML5 and JavaScript do them
+one after the other it can handle more taxing
+graphical effects and physics. Browsers get
+better every day, but developers still have to
+work hard to match the performance of Flash
+whilst still having visuals that look as sweet.
+But there is some good news for develop-
+ers. To write a game for Flash or iPhone needs
+specialist software which, naturally, Adobe
+and Apple charge large sums for. HTML5,
+however, is a free and open standard, meaning
+that anyone can start using it without having to
+buy licenses or programs. This is great for the
+home developer and opens up the world of on-
+line games to anyone and everyone who wants
+to have a go at making their own. Plus, there
+are already scores of specially-built libraries
+that can make writing a game significantly
+easier and quicker than starting from scratch.
+The community at Internet news site reddit.
+com have compiled (redd.it/f094j) a large list
+of available libraries that solve problems in
+key areas like game physics, graphics, anima-
+tion and sound, so there’s no excuse for the
+budding developer not to give HTML5 a go.
+Simon Worthington
+Wossy reveals Nintendo 3DS details
+Five HTML5 games to try!
+• Pirates Love Daisies pirateslovedaisies.com
+The most impressive title in this list! A fully-
+featured tower-defense game that’s just as fun
+and good-looking as any Flash title.
+• This Shell thisshell.com
+Cool jigsaw game where the pieces are a live
+music video!
+• Z-Type phoboslab.org/ztype
+Awesome-looking typing game. Type the words to
+shoot the incoming aliens.
+• The Legend Of Sadness tinyurl.com/losadness
+Zelda-inspired RPG game. Short and looks a bit
+weird, but fun nonetheless.
+• Torus benjoffe.com/code/games/torus
+3D rotating Tetris! A moden twist on the classic.
+@FelixGames on Twitter
+For all the latest gaming news from
+a source you can trust... me!
+

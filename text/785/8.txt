@@ -1,0 +1,193 @@
+The
+empire
+strikes
+back
+A lot of scientists think that President
+Reagan's Strategic Defence Initiative
+is dangerous and unrealistic. There
+are two good reasons for this: we
+cannot write ,and test computer
+software reliably enough to use in
+spotting and destroying high speed
+missiles; and even if we could, the
+necessary weapons would be just as
+offensive as the nuclear weapons they
+are supposed to replace. The whole
+project often seems just like an excuse
+to gain a decisive military lead over
+the USSR (or 'commie bastards' as
+the proponents of SDI call them).
+Those in favour of SDI point out
+the basic morality of a system that
+renders nuclear weapons obsolete and
+removes the present threat of
+Mutually Assured Destruction.
+Presumably, if they were so driven
+by moral considerations then they
+would not have to lie to Congress
+about the likely success of the
+programme. Recent evidence
+suggests they have been doing just
+this.
+The villian of the piece is Edward
+Teller, the man most often credited
+with inventing the idea of Star Wars,
+although a certain religious figure
+with horns and a forked tail has also
+been mentioned. He is a very capable
+scientist and invented, among othei
+things, the Monte Carlo Method,
+which is an efficient way of doing
+physical simulations on computers.
+He is not the most anti-communist
+person in the USA in the same sense
+that Ronald Reagan is not the
+President. One of his frustrated
+ambitions appears to be to establish
+a League of Scientists and
+Technologistsfor an Instant Nuclear
+War. He claims, of course, to be
+acting from the highest moral
+principles.
+Teller is the man who has to
+convince congress that SDI is worth
+the money. Recendy he told them that
+work on the X-ray lasers, a vital
+component in missile-screwing
+weaponry, was proceeding extremely
+rapidly and that a viable weapon
+U N D E R T H E
+MICROSCOPE
+by Steve Black
+Editor's bit—oops!
+Part of last week's news story on Chaos got slightly mangled in the typesetting
+and pasting up. Here is the part of the explanation in a slightly different form
+(which is easier to follow and less likely to get confused in type).
+The do-it-yourself investigation of chaos involves playing with the function:
+f(n)=a.f(n-l).(l-f(n-l)), where n is the number of iterations and f(n) is the
+value of the function after n iterations. This is called a recurrence relation
+and defines, from any given starting point, a unique sequence of numbers
+where each number is calculated from the previous number in the series. Values
+of a between 0 and 4 produce the interesting results. Starting values of the
+function (ie f(0)) should be between 0 and 1. If you have a programmable
+calculator or computer, it is worth following the sequence for several hundred
+iterations (plot a graph of f(n) vs n) If a is less than 3, the sequence will rapidly
+converge on one number. For a between 3 and about 3.7, the numbers will
+oscillate between several values. For a above 3.7 there is no discernable pattern
+in the numbers: this is true chaos. Each series is an apparendy random list
+of numbers, yet every series is completely determined given the starting
+number.
+I hope to have a more detailed exposition of chaos in a future FELIX. This
+will include some very pretty diagrams and an explanation of what strange
+attractors, catastrophe theory and fractal geometry have to do with each other.
+I can be contacted via the Chemistry letter racks or on int 4642 if you have
+any comments or suggestions about this column. Would anyone like to
+volunteer as a reporter and interview members of staff about their work?
+would be ready in a couple of years.
+A senior worker, Roy Woodruff,
+who was director of X-Ray laser
+work, at the Lawrence Livermore
+Laboratory, where the experiments
+are done, complained that Teller's
+presentation to Congress had ignored
+all the snags and difficulties of the
+project. He also complained that the
+director of the Laboratory had let
+Teller go ahead knowing that he was
+telling whopping great fibs. Woodruff
+is no crypto-commie pinko
+subversive: he is perfectly happy to
+make kill-cannons and X-Ray lasers:
+he just doesn't want to tell lies to
+Congress about the actual success of
+his projects.
+Woodruff was shunted into a non-
+job for his complaints. Because the
+American Official Secrets Act isn't as
+good as ours, it only took him a year
+to get a serious hearing for his
+complaints. Congress are not
+investigating the issue, and the
+principle of the right to dissent
+appears to have been firmly
+•established. Other workers at the
+laboratory, while not disagreeing with
+SDI, are now pointing out that many
+of Teller's claims are seriously
+misleading.
+Those who oppose Star Wars have
+always believed that the proponents
+of it had less than wholesome
+motives. But, they have always
+replied that they were acting from the
+highest moral considerations. If this
+was true, then they wouldn't have to
+lie about the likely success of the
+programme.
+Any scientist who cares about
+science or about the future of the
+human race, should do his best to
+prevent science from being hijacked
+by those who are engaged in fanatical
+crusades. We will all suffer if they
+don't.
+Green
+tea
+stops
+cancer
+We have always known that coffee is
+bad for you in large quantities, and
+there have always been some people
+who argued that tea was better. Now
+we have the definitive evidence: tea
+stops cancer.
+Caffeine is a natural insecticide that
+kills insects by making them
+hyperactive. Most students use the
+high caffeine content of coffee to help
+them get through exams (but not
+many seem to suffer the same fate as
+the insects). Coffee is about 30-50%
+caffeine, and the other chemicals are
+similar in type and taste but not as
+good at killing bugs or keeping
+students awake. Tea is a much more
+complex mixture. The total amount
+of caffeine in it is similar to coffee,
+but much of it is stuck to other large
+molecules that only let go of it slowly,
+giving your bloodstream a chance to
+cope with it and therefore not making
+you hyperactive. Tea is superior to
+coffee in other ways—it has a much
+wider variety of chemicals in it for a
+start. One of these chemicals has just
+been shown to be a good inhibitor of
+cancer.
+The chemical, epigallocatechingal
+late (or EGCG for those who want to
+avoid severe strain of the tongue),
+occurs in large quantities in green tea.
+Some Japanese scientists investigated
+it because people who drink green tea
+in Japan seem to have a lower cancer-
+rate than most Japanese. They
+discovered that the chemical is very
+effective in preventing tumours in
+mice (though how the mice were
+persuaded to drink tea I don't know)
+probably because it sticks to some
+delicate receptors on the cell surface
+that are susceptable to attack by
+carcinogens.
+The only problem is this, there is
+very little of the chemical in the black
+tea drunk in Britain, and British taste
+buds are not about to be weaned onto
+the green stuff. Anyway more and
+more people prefer to drink coffee,
+which is mainly insecticide and
+contains nothing useful for human
+health.
+8 Friday November 20th 1987 FELIX
+

@@ -1,0 +1,215 @@
+arts.felix@imperial.ac.uk
+17
+Friday 18 January 2008 felix
+Arts
+Hey, can you guess what I am, yet?
+Ever thought you’re too rational to be a real artist? Michael Cook meets the little robot that could
+I
+think we can all agree that some
+things in life are designed to be
+kept separate. For instance, I try
+not to practice my weightlifting
+techniques at the same time as
+my lying-on-a-bed-of-nails party trick,
+for obvious reasons. My subscrip-
+tion of Meat Weekly, with free sample
+of bloody animal flesh, tends to get
+they don’t lend themselves well to art
+because they’re always trying to make
+the lives of the humans that use them
+easier, and we don’t always want that.
+Art’s about struggle, not about paper-
+clips popping up and offering you as-
+sistance in venting your soul.
+But this perception of computers
+could be about to change, thanks to a
+artiste.
+Dr. Colton has done much work in
+Computational Creativity, the field
+of getting machines to work in a way
+similar to humans when we create and
+invent, but The Fool is his most crowd-
+pleasing achievement. and it’s easy to
+see why. The Fool doesn’t just look at
+a photo and make a rough copy of it.
+The pictures you can see littering this
+page have been thought about in great
+detail. The materials, the brushstrokes,
+everything. The Fool isn’t a glorified set
+of Photoshop filters. It’s a machine that
+wants you to feel something when you
+look at its work.
+“I’m not sure I’m creative myself yet,”
+the project website states, in a slightly
+unsettling first-person tone, “I mainly
+work from digital images to produce
+artworks.”
+Now, that might not sound like
+much, but to fully understand The
+Fool’s talent you have to learn a little
+about the other key members of the
+team - namely Maja Pantic and Michel
+Valstar.
+Pantic and Valstar aren’t strictly Cre-
+ativity researchers. Their real strength
+lies in Machine Vision, the sort of tech-
+nologies that can use images and film
+to analyse people and places. When
+they were brought into the project and
+taught The Fool how to understand
+what emotions people were feeling,
+the creative options really began to
+open up.
+Late last year the team began to use
+their newfound knowledge of human
+emotion to make a series of paintings
+based on the happy, happy film Ame-
+lie. Over 220 portraits were made from
+various stills in the film, all capturing
+the main character in different kinds
+of emotional states. Each painting, as a
+result, is a unique blend of styles, me-
+dia and colour. The full gallery, which
+is viewable online, is an extremely im-
+pressive end result.
+With a new surge in confidence,
+The Painting Fool was ready to enter
+the big leagues and begin looking for
+that thing every child prodigy craves
+- appreciation for their art. And so in
+December last year Simon Colton and
+Michel Valstar took The Painting Fool
+to the annual Machine Intelligence
+Competition, sponsored by Electrolux
+and held on behalf of the British Com-
+puting Society in Cambridge. Though
+the third member of their team, Dr.
+Pantic, was too ill to attend, The Fool
+still performed to its best.
+Despite technical difficulties, The
+Fool performed two live portaits in just
+fifteen minutes, one on Michel and a
+second on a member of the audience.
+The results, all of which are available
+online, show just how well The Fool
+can now react to new subjects and set-
+tings. Deservedly, the team received a
+prize for the best live demonstration,
+giving a huge boost to the research
+and, of course, The Fool’s needy artis-
+tic ego itself.
+The story of the first cyber-Cezanne
+doesn’t stop there, though. Colton and
+his team are already looking ahead to
+a far harder, but arguably more cru-
+cial milestone - making The Fool paint
+something from imagination alone.
+“One of the tests of creativity is using
+imagination,” Dr. Colton told the Lon-
+don Metro, “I want to get the compu-
+ter to do this to a create a new image.”
+The little fella (lady?) himself is pretty
+eager, too.
+“Imagination is not something that
+is easy to simulate. I’m currently work-
+ing on painting scenes which don’t ex-
+ist. I hope to launch a new gallery of
+these images in early 2008. Watch this
+space...”
+Why is it so much harder to do? It’s
+partly because of the way such tech-
+nologies work. At the moment, The
+Fool’s strength comes from knowing
+how to analyse what it’s seeing. But
+for humans, we don’t have to be see-
+ing something without eyes to com-
+mit it to paper. The world of free-form
+creativity is still unconquered, but Dr.
+Colton and his creation look like one of
+mailed to my home address rather than
+my vegetarian best friend’s. So when
+I’m relaxing in the leather armchairs
+of the Felix Office, beret in hand and
+brandy glass resting on my head, I have
+to fight hard to keep myself from blab-
+bering inanely about all things Compu-
+tery. I can confess it to you all – I’m a
+Computer Scientist.
+At this point it’s probably worthwhile
+listing everything that computers have
+ever done for the world of the arts, and
+they would be as follows: Adobe Il-
+lustrator, digital cameras, those funny
+little audio guide things you get at the
+V&A and that’s about it. Even with
+these three, many people would argue
+they’ve not made much of a contribu-
+tion. The Adobe suite in general seems
+to provide ‘artists’ with a quick shortcut
+to the end, digital cameras have killed
+the individuality and ‘rough’ feeling
+to film photography, and those audio
+guides are always narrated by someone
+irritating.
+That’s the problem with computers –
+research project in Imperial’s Depart-
+ment of Computing that’s really be-
+ginning to come of age. In Imperial’s
+glamourous Huxley building, past
+the XKCD comics pinned on doors
+and people swearing at monitors, a
+whole host of researchers, Professors
+and more are hiding the Department
+of Computing’s Artificial Intelligence
+group.
+Leading up a team of Machine In-
+telligence researchers, Dr. Simon Col-
+ton spends much of his time thinking
+about how to get machines thinking
+about how they themselves think. If
+that sounds complicated to you, im-
+agine how it is for Dr. Colton’s team.
+Nevertheless, in 2001 they gave birth
+to a very special baby. The Painting
+Fool was born.
+The Painting Fool wasn’t like many of
+the clever ideas born in the Computing
+department. It had something special,
+something that made it stand out. Oth-
+er ideas just wanted to be clever. The
+Fool, however, wanted to become an
+the best opportunities yet to do so.
+But there are many who feel that
+perhaps conquering it wouldn’t be
+such a good idea. Certainly, there are
+those who feel uneasy about the idea
+of a robot talking to us, or asking us to
+do things, but those fears are generally
+borne of the notion that computers
+can’t do anything remotely humanlike.
+The Painting Fool goes to show that
+this isn’t the case.
+Does this mean that we’ll feel more
+at ease with the idea of artificial intelli-
+gence? Will seeing the softer side of the
+wires and chips make us more open to
+robotics? Or will this ghost from the
+mahine actually make us even more
+worried that one day, we could have
+created something that at least seems
+to understand us all too well.
+For my part, I think The Fool goes
+to show that computers and humans
+aren’t all that different. The research
+makes me hopeful, too, that in the fu-
+ture computers could be put to use in
+ways that are currently unimaginable.
+But when I’m sitting in the Felix offices
+with my beret and my brandy, trying
+very hard to look reflective, I have to
+pretend otherwise.
+The best you can do is decide
+for yourself. Find out more by
+heading to www.thepaintingfool.
+com
+

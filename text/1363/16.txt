@@ -1,0 +1,264 @@
+femm
+femm
+Friday 13th October
+Matty Hoban Music Editor in-
+Chief Jenny Gibson & Thomas
+Whitson Public Relations Music
+Editors
+reviews editorial
+H
+ello and welcome to another
+Femm. This one proves to be
+bigger than the last with a tasty
+amount of musically-related
+goodness for you to munch
+down on. Not only do we have more content
+to give you we also have some Diesel Music
+Awards 2006 canvas bags to give to you. We
+have a lot of them and I can’t remember why,
+someone may have been drunk and logged
+onto Ebay. Anyway, all you need to do to get
+a bag is e-mail music.felix@imperial.ac.uk
+with the title, “I would like a Diesel bag so
+don’t make me bleed you!” It’s that easy, so
+e-mail us to get a nice hard-wearing bag to
+carry your overly burdensome books in.
+According to some of my friends, my photo
+makes me look fatter than in real life. I can
+assure you that in reality I am hunky, 7’6”
+Portuguese body-boarder. But this is ir-
+relevant. I also said in Felix last week that
+I was going to put in a feature of the inde-
+pendent music media in this issue of Femm.
+I’m sorry to inform you that said article will
+not feature until December since I ran out
+of space in this issue. I hope you can wait
+until then.
+I have noticed lately that this new genre
+called ‘New-Rave’ seems to be on every-
+body’s lips (or just NME’s). It does make
+me guffaw that having a guitar band use
+acid house sirens (The Klaxons) is the ba-
+sis for an amalgamation of shit indie and
+even shitter rave. Hard electro is the only
+way to go, and that rhymes so it must be
+true. But in fitting with the mention of this
+new genre I decided to unearth the part of
+London where a lot of this hyperbole came
+from ie, Shoreditch and Hoxton. Sure
+enough, Trash is on New Oxford St but a
+lot of the scenesters have emerged from
+the east. I actually like a lot of what is hap-
+pening in East London at the minute with
+various alternative and avant garde shows
+happening. I know the idea of Imperial sci-
+entists embracing those good-for-nothing
+arty types is repugnant, and truth be told
+a lot of those artists are tedius (just watch
+Nathan Barley), but only good can come
+out of it. Otherwise they’ll keep inventing
+genres and drive us all insane.
+There is another Kids Will Be Skeletons
+gig night on Thursday 16th November
+with Yuchi from Brighton headlining and
+two brilliant London bands (Silent Front
+and The Sailplanes) supporting. £2 to get
+in and a lot of fun and giggles to be had.
+Come on down and pester me, or hug me,
+I like hugs. Have a good read.
+bitrate
+S
+o, you’re hoping to get that shiny
+new 15,000 GB mp3 player that fits
+into your wallet for Christmas, but
+alas, all your music is still stuck on
+the archaic format of a CD, or even
+worse the prehistoric vinyl record. What’s
+more you don’t want to use the crappy rip-
+ping software that comes with either itunes
+or God forbid, Windows Media Player to
+convert your favourite tunes to computer
+format.
+First things first, this beautiful article will
+not only teach all you crazy kids how to rip
+a nice mp3 and what all those weird options
+mean (using some decent free encoders) but
+we’ll also show a few clever ways of getting
+rid of that pesky DRM protection you get on
+iTunes mp3s that you’ve bought from their
+online store so you don’t have to use one of
+those stinking iPods to listen to it, and you
+can even send them to your mates if you feel
+like running some sort of charity.
+Hooray, let’s start with the illegalness. Re-
+member kids, downloading music is illegal
+and it destroys everyone involved in the mu-
+sic industry especially the directors of the
+big record companies who might only earn a
+£34m salary this year because of it, so if you
+try any of this, you are going straight to hell
+for eternity. Sweet.
+MP3 encoding can be confusing for the
+newcomer, although since we’re at Imperial
+College, I’m sure most of you know every-
+thing there is to know and could probably
+program your own encoder with your eyes
+shut, but I’m writing this article for the
+benefit of those who can’t do that (yep, ge-
+ologists and the dudes at Wye). Who would
+like to be a bit more adventurous than use
+the built in ripping software in their media
+player, and enjoy the host of new options
+available to you when using a good compres-
+sion software. So before you start, go down-
+load EAC (Exact Audio Copier) and LAME
+encoder (all links at the end of the article),
+I assume you all know how to install some
+software so we won’t go through that part,
+just install EAC and unzip the LAME encod-
+er into its directory (or anywhere else you
+won’t delete it). Now open up EAC and go to
+EAC then Compression Options and select
+the External Compression tab. Now select
+‘use external program for compression’ box,
+select LAME from the dropdown menu then
+below that, find where you’ve unzipped the
+LAME encoder .exe file to. For the bitrate
+select 192 or above (unless you want horren-
+dous quality tracks), you can also select var-
+iable bit rate which basically increases the
+bit rate in certain, more complex parts of a
+song, and reduces it in simpler parts making
+for a smaller file size.
+If the instructions for installation were too
+brief I apologise, but there is a configuration
+wizard and help files you can use if you need
+more info, so onto the actual stuff in the pro-
+gram. If you look in the compression options
+there’s a host of useful things, most of them
+pretty self-explanatory so just check them
+out, one nice option is you can select your
+own format for file naming of the mp3’s and
+you can even save the uncompressed .wav
+files if you want to fill your hardrive up with
+maximum quality music. Once you’ve de-
+cided all your options, just put your CD in
+the drive and rip away. You can even use the
+FreeDB option to automatically detect your
+album and name all the songs correctly.
+Another handy function of the program is
+being able to compress stored .wav files into
+mp3 so if you’ve decided to record some vi-
+nyl onto your pc using an audio cable or are
+stealing music from MySpace by recording
+it, you can make it into a nice, small mp3 and
+not some hideous 60Mb .wav file. Once it’s
+ripped and compressed, bask in the sound of
+superior, un-Apple/Microsoft tainted mp3s.
+For those of you who prefer to buy your
+mp3s directly from iTunes Music Store and
+bypass those stupid CDs, you may have no-
+ticed that some of their files have that an-
+noying Digital Rights Management protec-
+tion on them, meaning you can’t play your
+mp3s on anything other than an iPod, or a
+couple of computers with iTunes installed.
+That’s a bit annoying so our next section is
+how to remove it, resulting in lovely playable
+mp3s (although instead of doing this I’d sug-
+gest you just buy your mp3s from e-Music or
+some other store that does not claim own-
+ership of the items you’ve paid for). We’re
+going to ignore the ultra-time-consuming
+method of real-time recording of the mp3
+as a .wav then re-encoding it, that’s just silly
+unless you only want to do a single song.
+The first method is the simplest, but also
+results in a small (although sometimes in-
+audible) loss in sound quality. Just burn your
+album of mp3s as an Audio CD then simply
+rip it back to mp3. This will remove any DRM
+from the files leaving you with proper mp3s,
+but is unfortunately somewhat wasteful of
+CDs (unless you use a re-writable CD), time
+consuming, and as mentioned, re-encoding
+an mp3 results in a loss of quality (imagine
+making a photocopy of a photocopy and re-
+Gregory Mead
+femm 2
+Friday 10th November 2006
+Matty Hoban
+peating that thousands of times, the final
+image would be totally horrendous).
+Of course, if you want to go all out and
+unlock your mp3s completely without any
+loss in sound quality then you can, by using
+some clever script that does it all automat-
+ically for you! There are two lossless DRM
+removal programs available, the first (and
+best) is JHymn which is a free protection
+removal program, that even keeps the
+metadata of the tracks (song name, track
+number, album etc.) in the resulting mp3.
+Unfortunately this only works with iTunes
+3, 4 and 5 so if you’re using iTunes 6 you
+need to use the second removal tool avail-
+able, QTFairUse 6. The only drawback
+with this one is that it’s a Python script,
+so you need to know some stuff about that
+to actually use it, also it doesn’t keep the
+metadata from the tracks, so you’d need to
+go through all the mp3’s re-naming them,
+but then, who cares? That’ll only take 30
+minutes or so for your whole collection.
+Using these tools is the best and quick-
+est way to unprotect your mp3s. It takes
+much less time than ripping a CD, and
+does not lose any sound quality. So, what
+are you waiting for? Throw away that
+crappy iPod with its retarded battery and
+go buy a decent mp3 player. And one more
+thing, remember kids, don’t aid music pi-
+racy, sharing 15,000 audio tracks online is
+silly, plus you might get in trouble as Apple
+have more money than you poor students
+for lawyers. There are consequences to
+going around and being careless with ar-
+tistic works.
+Raconteurs at Brixton Academy:
+“As they play it's clear to see that
+they are true musicians toying
+with their songs throughout the
+set, deconstructing them and
+adding new depths to the album
+tracks.”
+features
+4
+6
+Casey Cohen, founder of the Yel-
+low Bird Project: “I’m not trying
+to change the world, I’m just try-
+ing to make a difference in peo-
+ple’s lives in the same kind of
+way that these artists do.”
+“It is full of art students, bad
+haircuts and tight-fitting gar-
+ments. So naturally it is a hive for
+numerous musos and brilliant,
+small gigs, Femm takes you on
+a magical journey through Lon-
+don’s East End.” PAGE 10
+Also in this month’s issue we
+interview The Cooper Tem-
+ple Clause and Battle at a
+recent gig at Camden Koko.
+We have a page devoted to
+listings of gigs that you may
+not have known about. The
+listings is a new feature so
+any apologies for inaccura-
+cies and limit to the cover-
+age. If you can help then
+come and join the team!
+It’s a flattened iPod and still looks nice
+

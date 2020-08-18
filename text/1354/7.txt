@@ -1,0 +1,191 @@
+SCIENCE science.felix@imperial.ac.uk
+7
+felix
+Thursday 1 June 2006 www.felixonline.co.uk
+T
+he difficult job of a professional sci-
+ence writer got that little bit eas-
+ier with the launch, last week, of
+WriteSci.com, an internet service
+designed to aid the fraught proc-
+ess of turning hard science into
+easy reading. Angela D’Angelo, the
+site’s founder: “We’re hoping to
+help those afflicted with linguistic impediment dis-
+order, or Writer’s Block, by providing a number of
+automated tools to help them translate cutting-edge
+science for the lay reader.”
+The most exciting tool on WriteSci.com is the
+Prominent Scientist Quote Generator (PSQG). The
+service has been endorsed by dozens of leading
+scientists, science communicators and historians,
+and will provide instant quotations on a variety of
+subjects from across the Academy. Surprisingly, the
+quotes will be entirely automatically-generated.
+The PSQG engine allows the user to specify a
+subject area, a subcategory, and a scientist. “So far
+we have Stephen Pinker, Richard Dawkins, Susan
+Greenfield, Martin Rees and many others signed
+up,” D’Angelo said. The entire body of printed and
+recorded commentary by each Prominent Scientist
+is put on the PSQG system. The engine scans that
+archive for matching opinions and uses a syntactic
+algorithm to put those opinions into a coherent
+quote. The user can even specify the length and
+tone of the statement.
+However, certain opinion topics will be restricted
+to certain scientists. Stephen Hawking will com-
+ment on astrophysics, alien life, the Universe, and
+God. Historian of science Lisa Jardine will com-
+ment on the Royal Society, the Enlightenment and
+the Scientific Method. Dawkins will comment on
+anything. Indeed, the more forthright commenta-
+tors are proving hard to integrate into the PSQG
+system, as chief coder Sam Spode described: “We
+had to create a separate subroutine for Richard
+and we ran over a thousand test cycles of the
+Dawkinator before we produced a single quote that
+didn’t libel anyone.”
+As D’Angelo points out, the service is doubly
+beneficial:
+“It helps the science writer and the Prominent
+Scientist. The writer gains by being saved the dif-
+ficulty of tracking down a scientist who tends to be
+unavailable just as the copy deadline approaches.
+The scientist is saved the trouble of having to
+remember what his or her opinions are on every
+little issue.
+“It’s especially helpful for Stephen [Hawking]
+– he won’t need to do nearly as much clicking… In
+fact, we predict that the research productivity of
+our Prominent Scientists will shoot up once we’ve
+got going – they will actually be able to do some
+science!”
+ThePQSGwillalsobeaflexibleservice.Prominent
+Scientists will be able to log in regularly, edit their
+opinion profiles, and tweak the rules that govern
+their automated responses.
+For instance, Jared Diamond could be pushing
+some new writing, so he ensures all his automated
+quotes include the phrase: “For example, in my new
+book…”, thus ensuring effortless publicity, even
+whilst he sleeps.
+D’Angelo is negotiating with some older scientists
+to “archive their views before their gene-vehicles
+cease to function. We’ve got Freeman Dyson and
+James Watson on board, but sadly we missed out on
+John Maynard Smith and Fred Hoyle.”
+D’Angelo, however, revealed they are developing
+Poe – the Past Opinion Extrapolator – a tool which
+generates quotes on subjects many years after the
+source has died. “Poe will extrapolate an opinion
+on a contemporary subject on the basis of what is
+known about a particular scientist’s historical atti-
+tudes. We’ll be able to have Marie Curie on nuclear
+power, Galileo on the Mars Programme and Newton
+on String Theory!”
+Writer’s
+Block
+Duncan
+McMillan
+h
+e
+Newer
+Scientist
+Central London admittedly, but the
+dissection was extraordinary and the
+specimens were truly flawless.
+As I continued through the exhibi-
+tion, I spoke to an elderly couple star-
+ing intently at a nearby body. I asked
+them what they thought of the exhibi-
+tion and why they travelled all the way
+to Earl’s Court from Brighton, a ques-
+tion which was certainly met by an
+interesting response. Not attracted
+by the gore and hyperbole, the cou-
+ple were actually considering donat-
+ing their bodies to medical research.
+Never before had I met someone who
+was serious about doing such a thing
+– I expected the attendees at the
+exhibition to be sensation-seekers,
+not potential body donors!
+The educational worth of the dis-
+plays was forced upon us throughout
+the exhibition; anatomy snippets of
+trivia were plastered across the walls
+with an explanatory plaque positioned
+boldly next to each exhibit. I think the
+line was crossed, however, when we
+fell victim to a room full of foetuses
+around an obscure half-way corner.
+The room seemed to shock more than
+educate, babies at various stages of
+development were curtained in dark-
+ness and set out in a similar fashion
+to watches on a jeweller’s table.
+Moving through the exhibition,
+human interaction returned with
+a vengeance. Set out like a market
+stall, a solitary staff member stood
+in wait for passers-by with the aim of
+allowing visitors to feel and ‘experi-
+ence’ a selection of specimens. As I
+approached the table, I was offered
+a slice of brain and a bone to ‘play
+with’. Wrongfully identifying the bone
+as a femur, I was promptly corrected
+and embarrassed by my non-exist-
+ent level of anatomy knowledge after
+three years of medical school!
+Surrounding the table were numer-
+ous glass cases containing diseased
+body parts – a part of the exhibition
+that forced us to think about the
+impact of everyday ‘pleasures’ on
+our own health. A healthy lung was
+displayed alongside a diseased black-
+ened smoke-tarnished specimen, and
+close by was a glass case contain-
+We tend to
+design inefficient
+systems that
+are uncontrolled
+and lead to
+exhaustion and
+collapse We
+tend to design
+inefficient
+ing hundreds of cigarette packets, a
+stark reminder of the consequences
+of some of our everyday actions.
+There is no doubt that the exhibi-
+tion set out to teach us some valu-
+able lessons about the body in both
+disease and health; however, I could
+not help but wonder whether such
+elaborate gestures were necessary to
+provide us with a deeper insight into
+our being. As the boundary between
+science and art becomes more tenu-
+ous, it is difficult to comprehend how
+sensationalist displays of bare human
+flesh can help us further our own
+understanding of our bodies and con-
+vey the sense of respect we naturally
+hold for the dead.
+Visitors at the end of the exhibi-
+tion were invited to fill out cards
+to describe their experiences during
+the day. One girl wrote: “Tell us a
+bit more about the bodies – who are
+they?” She might well have a point.
+BODIES…The Exhibition is now on
+at Earls Court. For more details visit
+www.bodiestheexhibition.com.
+Top: An exhibit showing the circulatory and respiratory systems. This was achieved by injecting coloured
+plastics into the bodies and then removing all other parts. Bottom: The bodies were arranged in a variety
+of positions, but unlike the previous Body Worlds, they were more athletic in contrast to their aesthetic
+counterparts. (Photos: Vitali Lazurenko)
+

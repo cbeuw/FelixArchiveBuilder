@@ -1,0 +1,172 @@
+90 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+06.03.2015
+Puzzles Editor Michael Faggetter
+Puzzles
+fsudoku@imperial.ac.uk
+FUCWIT
+For Issue 1600 there are three pages of puzzles! This is a serious
+opportunity to get ahead in the FUCWIT league.
+Once again, just a reminder that to keep this section going, we need
+your support! If you have any ideas for puzzles that you would like
+to see here, or want to get involved in any other way, then please just
+drop us an email!
+As always, don’t forget to send in your completed puzzles.
+Points are awarded for each correct solution, bonus points (in
+brackets) are awarded to the first correct answer!
+Leaderboard
+Teams:
+1. Fully Erect 128
+2. L3Gendary 74
+3. Mindsuckers 48
+4. WG		 27
+5. pintosRules 23
+6. Dapper Giraffe 15
+7. AnyonebutKofi 8
+8. Ebolalala 7
+9. Aerodoku 2
+10. Guang <3 Le 1
+Individuals:
+1. Adam Stewart 106
+2. Jem Ong 40
+3. Catmelon 39
+4. Kebab King 21
+5. Sach Patel 11
+6. Angus		 8
+7. Gene H. 7
+8. Fengchu Zhang 3
+9. Gabriel Quek 2
+Points avaliable this week:
+Weekly Quiz		 4 points (+2)
+Word Stars		 3 points each (+1)
+Cross-Number		 4 points (+2)
+Quick Crossword 4 points (+2)
+Word Search		 2 points (+2)
+Word Ladders		 1 point each (+1)
+Sudoku			 2 points (+1)
+4pics1word		 1 point (+1)
+Slitherlink		 3 points (+2)
+HoR Dingbats		 2 points (+3)
+Last Week’s Solutions
+Weekly Quiz
+Sudoku
+Quick Crossword						 Jamie Dutton and Ben Harvey
+Across
+1) Sound intensity unit (7)
+4) A variety of bet (4,3)
+8) ____ Mayweather; American boxer 		
+(5)
+11) Gestured (5)
+12) Idiotic (7)
+13) Yet to be married (5)
+14) Information (informal) (3)
+15) Donkeys (5)
+16) Hold back from (7)
+19) Serbian-American inventor; Nikola
+_____ (5)
+20) The ___; British rock band (3)
+21) Style of the recent past (5)
+22) Nationality of former F1 driver
+Mika Häkkinen (7)
+23) In addition (5)
+24) Desensitize (5)
+25) Pool; pot the cue ball (7)
+26) Eternal (7)
+Down
+1) Embezzle (7)
+2) Member of newspaper production
+team (9,6)
+3) Small hotel (3,3,9)
+5) In any circumstance (4,4,2,5)
+6) Voluntary community
+organisation (6,9)
+7) Jewish language (7)
+9) Musician Benny Goodman
+nickname (4,2,5)
+10) City in Minnesota (11)
+17) S Club 7 member; Rachel _____
+(7)
+18) Football manager; Brendan ____
+(7)
+Word Ladders					
+TOFU COOK JUMP HARD
+EASY
+BARN
+MEAT
+FILE
+Climb down the ladders by placing four-letter words in the gaps, changing a single letter each time.
+1) Lisergic Acid
+Diethylamide
+2) Italy
+3) Mork
+4) Stadium entrance/
+exit
+5) Lemniscate
+6) Into The Wild
+7) Green Party
+8) Hydroxyzine
+9) Elizabeth Taylor
+10) Limelight
+3 6 1 5 2 4
+2 5 4 1 6 3
+1 2 3 6 4 5
+5 4 6 3 1 2
+6 3 2 4 5 1
+4 1 5 2 3 6
+6 4 2 1 3 5
+5 1 3 2 6 4
+1 2 4 3 5 6
+3 5 6 4 1 2
+2 3 5 6 4 1
+4 6 1 5 2 3
+2 3 5 1 6 4
+1 6 4 5 2 3
+6 5 2 3 4 1
+4 1 3 2 5 6
+3 2 6 4 1 5
+5 4 1 6 3 2
+3 6 1 5 2 4
+2 5 4 1 6 3
+1 2 3 6 4 5
+5 4 6 3 1 2
+6 3 2 4 5 1
+4 1 5 2 3 6
+6 4 2 1 3 5
+5 1 3 2 6 4
+1 2 4 3 5 6
+3 5 6 4 1 2
+2 3 5 6 4 1
+4 6 1 5 2 3
+2 3 5 1 6 4
+1 6 4 5 2 3
+6 5 2 3 4 1
+4 1 3 2 5 6
+3 2 6 4 1 5
+5 4 1 6 3 2
+3 6 1 5 2 4
+2 5 4 1 6 3
+1 2 3 6 4 5
+5 4 6 3 1 2
+6 3 2 4 5 1
+4 1 5 2 3 6
+6 4 2 1 3 5
+5 1 3 2 6 4
+1 2 4 3 5 6
+3 5 6 4 1 2
+2 3 5 6 4 1
+4 6 1 5 2 3
+2 3 5 1 6 4
+1 6 4 5 2 3
+6 5 2 3 4 1
+4 1 3 2 5 6
+3 2 6 4 1 5
+5 4 1 6 3 2
+Cross-number
+hint:
+7a,
+Nvnumber
+two
+in
+binary.
+Wreck,
+Tangle!
+

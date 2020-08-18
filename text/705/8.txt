@@ -1,0 +1,254 @@
+FROM THE astronomers of antiquity
+through to modern day photographers people
+have been making use of the principles of
+Remote Sensing. With the advantage of
+earth orbiting satellites and other space
+missions, a whole new dimension has been
+brought to this area of science.
+Remote Sensing is really the ability to
+perceive and study an object from a distant
+location, and it is a technique that is
+providing important information about
+natural resources and the environment.
+The most common way of studying an
+object is to record the electromagnetic.
+energy emanating from it, but it is also
+possible to look at seismic waves,
+gravitational force, or sonic waves.
+Techonological developments in recent
+years have enabled us to sense data beyond
+the normal range of human perception,
+and useful information can now be gained
+from electromagnetic radiation of most
+wavelengths, from gamma-rays and x-rays
+through to radio waves. There are a
+number of different carriers available from
+sensors including aeroplanes, helicopters,
+balloons, satellites and others spacecraft.
+Over the last decade or so satellites have
+been increasingly used as carriers because
+they provide a means rapidly to monitor
+large areas of the earth's surface. Although
+the data obtained from satellites is of low
+resolution, it can be complemented with
+other data, for example aerial
+photography, if necessary. A n important
+feature of Remote Sensing data, especially
+that from satellites, is that it provides an
+easy and econimical way to study even the
+most hazardous terrain.
+Interpretation of data plays an major
+role in Remote Sensing, and becomes
+particularly complex.when the information
+collected is transmitted to the ground in
+the form of digital data. Complex
+computer processing is then necessary to
+produce usable pictures, and the process is
+known as image processing. Technological
+advances in data handling and processing -
+techniques are contributing to the
+increased value of Remote Sensing.
+Using Remote Sensing techniques
+information can be gained that is valuable
+in a diverse range of research areas, and in
+many cases it can provide a unique tool.
+Research activities at the Centre for
+Remote Sensing involve a number of
+departments and include studies in Earth
+resources, botany, agriculture, geology,
+atmospheric sciences, oceanography and
+planetary sciences. To support research
+and to help meet industry's needs it is
+important that there is continuous
+technolgical advancement. So there is
+extensive research in data handling, optical
+and digital image processing, and pattern
+recognition.
+Earth orbiting satellites make global
+surveillance possible and the information
+gained is giving a new insight into the
+Earth's atmosphere oceans and man's
+effect upon the climate. The Centre
+Remote
+Sensing
+THE CENTRE FOR Remote Sensing was established at Imperial
+College in 1983, and has Dr Gary Hunt as Director. It represents
+all the departments that have an interest in Remote Sensing, and
+aims to use links between the College, Government, and Industry,
+at both national and international levels, to form a firm foundation
+for future expansion of the subject. To ensure that the activities
+of the Centre keep in touch with industry, the management and
+policy are controlled through an inter-departmental Advisory
+Committee which has representatives from industry as well as
+from College.
+One of the Centre's major achievements has been the setting
+up of an MSc course in Remote Sensing, in conjunction with the
+other colleges of the University of London. It is the first of its kind
+in the United Kingdom, and is designed to fulfil needs at national
+and international levels for well qualified graduates in Remote
+Sensing. A measure of the success of the course is the interest it
+is attracting from people working in industry who feel that they
+need further education about this subject.
+The Centre is located on the seventh floor of the Huxley
+building, where there is extensive image processing facilities.
+There is also a large archive of digital images from satellites,
+(including Meteostat, Landsat, Tiros, Goes, and Seasat) other
+space missions (Voyager and Galileo) and aircraft. This data is
+available to other institutes of the University of London,
+Government, and Industry, as well as staff and students of
+Imperial College.
+directly receives and processes data from a
+number of satellite missions including the
+European spacecraft Meteostat, and the
+NOAA polar orbiting spacecraft. Theses
+observations provide the means for
+investigating atmospheric and oceanic
+phenomena, with time sequences being
+used to study the development of synoptic
+systems which are used as a basis for
+weather forecasts. The Centre provides
+weather forecasts for a number of
+television programmes including the BBC's
+Breakfast Time, and Thames's News at
+Six, and also for a Brazillian T V Channel.
+The Centre is also involved in
+oceanographic investigations of the sea
+surface temperature, sea state, and marine
+biological problems in preparation for the
+European Ers-1 satellite mission which is
+due to go up in 1987. It will carry a
+number of microwave instruments
+including radar and will be carrying out
+ocean observations.
+One of the most interesting research
+programmes at the Centre is looking at
+Planetary atmospheres beyond the Earth.
+The Centre has the most extensive archive
+of planetary data outside of the United
+States, and is also the only place outside of
+the United States processing data from the
+Voyager mission. Observations from the
+Voyager mission have already given a new
+insight into atmospheric phenomena on
+Jupiter, Saturn, and Titan, and in the
+future there will be data on Uranus and
+Neptune. Spectropscopic studies from the
+International Ultraviolet Explorer (IUE)
+satellite are also providing information
+about the planets. Another interesting
+project is using data from the Viking
+spacecraft to look at the atmosphere and
+geology of Mars. Future investigations at
+the Centre will be making use of
+observations of Jupiter from the Galileo
+mission, and observations of the planets
+from the Earth orbiting Space Telescope.
+Information gained from Remote
+Top right: A Metostat picture
+of the earth
+Right: The receiving dish on the
+roof of the Physics building
+Sensing data has proved to be extremely
+valuable in the study of geological
+processes. In particular, interpretation of
+aerial photographs and satellite data can
+give information about the structure and
+nature of rock formations. The satellite
+images provide a quick appraisal of the
+regional geology and can be supplemented
+in the key areas by the greater detail of
+images from planes. A major research
+project at the Centre uses aerial
+photographs and data from Landsat for
+geological mapping in mineral exploration,
+engineering and tectonic hazard
+monitoring. The major study areas include
+Ireland, S W England, the Pyrite Belt of
+Portugal, Spain, Southern Africaand
+Mozambique. There are also a number of
+research topics under development which
+include studies of gold and other minerals,
+engineering geology mapping in Brazil and
+the assessement of the uses of thermal and
+radar imagery for mineral exploration in
+glaciated terrain.
+Another area where Remote Sensing can
+provide a unique tool is in the evaluation,
+classification and mapping of vegetation.
+There is a long-term research programme
+at the Centre looking at the fundamental
+interaction between radiation and
+vegetation canopies. Extensive field
+measurements are being carried out which
+are providing an understanding of this
+interaction, and can be used to monitor
+and calibrate the data obtained from
+airborne and Landsat instruments. The
+work has revealed irregularities in
+vegetation caused by underlying mineral
+deposits which will be useful in mineral
+explorations.
+There is a need for continuous advances
+in software and hardware to support the
+research and teaching at the Centre. One
+aim is to develop specialised hardware,
+with a major step forward being the
+CD 03 ^ 33
+H 3 C
+D 3
+O O o 3
+T to B) °
+03 XJ W C
+D
+§?:sf
+S m l .
+03 C
+O
+2 * 3r
+—• -j <B
+3 C
+D 03
+CD » =t
+_. —
+>
+03 03 C
+D
+m
+construction of an image Archiving System
+(IAS) for digital storage of large quantities
+of imaging data. It has the capability of
+storing 2xl01 0
+bits of data on a single one
+hour video cassette with an error rate of
+only 1 in 107
+, and is ideal for storage of
+large quantities of data as received direct
+from satellities. A n important feature of
+the IAS is that it can be easily used with
+major computer systems. One of the most
+important software developments has been
+the modification of the Vicar systems in
+conjunction with the Jet Propulsion
+laboratory in the United States. The
+Centre also supports an easy to use 'user-
+friendly' command language which is being
+devloped in conjunction with Nasa
+establishments in the United States.
+The Centre is providing a focal point for
+Remote Sensing activities at Imperial
+College, and has allowed the subject to
+develop in a way that would have been
+difficult without central co-ordination.
+Research groups who find that Remote
+Sensing could help them now have
+extensive facilities available. As well as
+showing how inter-departmental work can
+be carried out sucesssfully the Centre
+shows that academic institutions can work
+together and also work with industry and
+government institutions. This area of
+science is particularly costly and contracts
+with industry may help to finance the
+running of the Centre.
+8 Friday 24 May 1985
+

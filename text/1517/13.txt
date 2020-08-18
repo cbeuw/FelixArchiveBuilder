@@ -1,0 +1,243 @@
+SCIENCE
+FELIX Friday 11 may 2012 13
+GM debate: dialogue or déjà vu?
+B. Franklin Pugh, Penn State University
+In March this year the British Science
+Association released a survey that indi-
+cated, at least to some degree, that the
+British public is slightly less concerned
+about the prospect of embracing ge-
+netically modified food. This comes in
+stark contrast to the hostility exhibited
+towards the technology a decade ago,
+when it was rejected in an outright fash-
+ion in the nationwide surveys dubbed
+GM Nation. This essentially halted the
+push for GM crops by Tony Blair’s gov-
+ernment and put research in this area
+on the backburner. But GM has now
+found its way back onto the radar; more
+flexible EU legislation regarding the
+technology combined with the survey
+results means that perhaps the public is
+once again in the mood for a conver-
+sation about the technology.
+All the interest groups,
+from anti-GM campaign-
+ers to researchers have
+been airing their ar-
+guments and fram-
+ing the debate in a
+very public fashion
+over the past few
+weeks. When interest
+groups frame a debate as part
+of their strategy to appeal to the public,
+they simplify the issues, lending more
+weight to certain aspects over others.
+So how is the GM debate being framed
+by the two main two opposing groups?
+Anti-GM campaigners
+At the top of the GM-debate headlines
+has been the mass action ‘Take The
+Flour Back’. Anti-GM campaigners
+behind this appeal are planning on up-
+rooting a field of genetically modified
+wheat at Rothamsted Research on 27
+May. The group has summed up their
+arguments in an open letter by appeal-
+ing to ideas of ‘Frankenstein foods’ and
+suggesting that scientists are opening
+up a Pandora’s box by using GM; they
+say that the GM wheat being trialled at
+Rothamsted has artificial genes
+‘most similar to a cow’ and
+that the repercussions of
+this are unknown and
+could be potentially di-
+sastrous. They are also
+drawing on economics
+by pointing out the con-
+strained market for GM
+wheat across the world and
+saying that tax-payers will
+receive very little benefit from the
+research they are paying for.
+Rothamsted Research
+Scientists at Rothamsted Research re-
+plied to the group of activists with an
+open letter and an online video plea of
+their own, trying to convince the anti-
+GM protestors to not trash the field.
+The tone of the researchers’ message
+invited anti-GM campaigners to come
+and have a conversation on the 27th of
+May so that the two groups might find
+a ‘middle way’. They also appealed
+to the campaigners by suggesting that
+their actions would undermine ‘social
+progress’; trampling the fields would
+destroy not only GM crops but other
+research which is fundamental to envi-
+A mass sensor has been developed by
+a group of Spanish scientists, lead by
+Julien Chaste from the Catalan Institute
+of Nanotechnology, capable of weigh-
+ing individual molecules, atoms, and
+even protons.
+Sensors of this type, known as nano-
+mechanical mass sensors, have been
+developed before. However, previous
+developments only yielded a resolution
+of about 7000yg (yottagrams) for a mi-
+crofabricated sensor, and around 200yg
+for a carbon nanotube based sensor. In
+this development, which is an improved
+version of the nanotube based sensor,
+the researchers achieved a resolution of
+1.7yg, which allows weighing of indi-
+vidual protons.
+These sensors work by oscillating
+a resonator, either nanomechanical or
+carbon nanotube, at its characteristic
+frequency (the frequency at which reso-
+nance occurs, this is usually just below
+the natural frequency). A computer can
+measure this frequency. When atoms
+or molecules land on the resonator, the
+characteristic frequency of the reso-
+nator changes, and the computer can
+measure this change. The change in fre-
+quency can then be used to calculate the
+change in mass of the nanotube, which
+is the mass of the molecule or atom just
+adsorbed onto it.
+Changes by the Spanish team to
+improve the sensitivity of the sensor
+come in 3 parts. Firstly, to make the
+changes in resonance frequency more
+pronounced, the length of the carbon
+nanotube was shortened, with the part
+of the tube able to oscillate only being
+150nm (this is the part of the tube over
+a trench). This means there is a notice-
+able change in frequency of the resona-
+tor even if only a few atoms are present.
+Additionally, by cooling the system
+down to 4K, and measuring within a
+vacuum, the error caused by other par-
+ticles being present is reduced.
+However, the final and most impor-
+tant improvement was to run a small
+current of approximately 8 microamps
+through the tube. Before this change
+was applied, the resonance frequency of
+the resonator exhibited much variance.
+The team suspect this is due to other
+contaminants in the system.
+The team have successfully weighed
+both xenon atoms and naphthalene
+(C10
+H8
+) to high degrees of accuracy. Fu-
+ture uses for this research could be into
+new mass spectrometers, more accu-
+rately measuring the mass of incredibly
+tiny particles. However, a more closely
+linked application of this technol-
+ogy could be to allow further research
+into the nature of molecular diffusion
+through nanotubes, as well as investi-
+gations into the nature of magnetic par-
+ticles within a nanotube.
+DOI:10.1038/nnano.2012.42
+Weighing a
+single atom
+Philip Kent
+A well-known consequence of global
+warming is rising sea levels, caused
+by the melting of polar ice as the Earth
+heats up. Now, scientists have found
+evidence that sea level rise this century
+will fall short of the expected worse case
+scenario. A team at the University of
+Washington have found glacial flow in
+Greenland to differ from that of previ-
+ous expectations. This latest research re-
+sults in two main findings: that glaciers
+are moving a lot slower and that this
+movement is not likely to slow down.
+Glaciers are responsible for the trans-
+portation of ice and snow from land-
+masses into the sea. This, along with
+the direct melting of ice sheets when
+temperatures increase, results in ris-
+ing sea levels. The glacial flows from
+Greenland and Antarctica alone con-
+tribute the most to rising sea levels. A
+staggering 250 billion tonnes of ice is
+pushed into the sea each year, result-
+ing in an annual 1.5mm increase in sea
+levels on average. As glaciers flow, they
+accumulate more matter and move fast-
+er. A faster glacier will deposit more ice
+into the sea, increasing the water levels.
+Previous studies suggested that glacial
+flow would increase by 100% by 2010
+and eventually reach a constant speed.
+However, the new research estimates
+glacial flow is only increasing by 30%,
+with nothing to suggest that the speed
+would remain constant once this volume
+of shifting ice had been reached. In the
+largest glaciological study conducted so
+far, satellite data from 2000-2010 were
+collected from over 200 glaciers and
+their movement patterns.
+Previous extrapolations suggested sea
+levels could rise by 46cm by 2100 as a
+worst case scenario. In light of recent
+research the movement of Greenland’s
+glaciers places this increase much lower,
+at barely above 9cm. This may sound
+like good news, but even a 30% increase
+in sea levels poses a threat to low-lying
+countries such as Bangladesh.
+Such contradictory findings from gla-
+ciological studies suggest the dynamics
+behind glaciers are extremely complex
+and scientists do not fully understand
+them yet. In addition, the 10-year time
+period may be too short for any conclu-
+sion about the end of this century to
+be meaningful. In the meantime, more
+studies will have to be carried out be-
+fore anyone is any closer to knowing
+just how consequential climate change
+will be during our lifetimes.
+DOI:10.1126/science.1219985
+Glaciers go slow, but they might not stop
+Jessie Durk
+Juan Casasbuenas
+Commonwealth glacier, Taylor Valley, Antarctica, January 1956
+Ross Sea Info
+Crop trial at Rothamsted Research. Left: Image from GM protest flyer
+Caroline Stocks
+ronmental work. Whilst there was an
+element of trying to discuss some of the
+actual science, the researchers tended to
+steer clear of this approach, presumably
+because it may not appeal to the hearts
+and minds of protesters or the public
+It seems that the disagreement be-
+tween campaigners and scientists
+continues to be as polarised as ever,
+with each framing their arguments in
+slightly different ways. Perhaps the
+biggest change in the debate is that the
+researchers at Rothamsted are embrac-
+ing the challenge of dialogue. It puts
+the campaigners in a difficult spot and
+it will be interesting to see if they ac-
+cept the researchers’ invitation.
+

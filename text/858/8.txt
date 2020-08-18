@@ -1,0 +1,178 @@
+I
+Will computers ever be able to simulate the human brain?
+Artificial minds
+For a long time, philosophers have believed that in a
+distinction between the mind and the ton. The brain
+is that massive and complicated network of neurons
+which is found in the vast majority of the animal
+kingdom. It is the brain which controls the 'instincts'.
+The mind, on the other hand, is a concept. It controls
+those traits we consider to be specific to ourselves:
+logic, thought, creativity and emotion.
+Rene Descartes (1596-1650) was the first
+proponent of the idea of a seperate brain and mind,
+a philosophy known as 'dualism.' 'You cannot doubt
+you have a mind,' he argued, 'as the very act of
+doubting calls for you to have.' Hence the
+philosophers' infamous phrase: 'Cognito ergo sum'-'l
+think, therefore I exist.'
+Today, scientists have evolved a new idea of mind,
+more useful to Psychologists and Artificial Intelligence
+(Al) researchers alike. They see the mind as the effect
+of certain neural firing patterns, the results being
+thoughts and creativity.
+It was inevitable that man's curiosity would
+eventually lead him to wish to unravel the mysteries
+of the mind. If the latter definition of mind was
+correct, then would it not be possible to emulate the
+workings of the mind? Nature has shown us that it
+is possible to do the same 'job' using different
+'machines', in the form of 'homoplastic' species. As
+an example, both birds and bats have wings, both can
+fly, but both have evolved quite separately. An
+analogy can be drawn between the birds and the bats,
+and the mind and a computer model of the mind. Al
+researchers began to design such models.
+Alan Turing was possibly the first scientist to set
+standards by which a machine could be qualified as
+'Intelligent'. He stated that a machine could be
+classified as 'Intelligent' if a human who was 'talking'
+to it, could not distinguish it from another human. This
+is the 'Turing Test',
+An early example was the computer program,
+ELIZA. Its inventor, Weizenbaum, allowed ELIZA to
+talk to a number of people and found that, even after
+being told the truth, many insisted that they had
+conversed with another person.
+Turing's classification of 'Intelligence' was short
+lived. It was pointed out that computers are
+'syntactic', they take symbols and manipulate them
+in order to gain a result. This is the basis of a 'Turing
+Machine'. The mind, on the other hand, is 'semantic',
+for each of the symbols, events etc presented to it,
+it attaches some meaning, conotation or inference. In
+reality, psychologists had known this for years.
+Bartlett (1930) asked a number of subjects to
+memorise a passage of text. He showed that they only
+recalled what they expected the passage to have said
+rather than what it actually said. It was concluded that
+man remembers abstracts of 'episodes' (known as
+'episodic memory'), stored 'semantically'.
+This posed problems for the Al researchers, as they
+now had to adapt their systems such that for any
+episode or event, there were now numerous such
+semantic references. The combination of Minsky,
+Rummelhart and Ortony created a new model of the
+mind, including elements of choice, decision and
+memory, known as SCHEMATA.
+The limitations to this system are quite obvious, it
+Page 8
+is in no way a good representation of the mental
+processes. Unfortunately the Al establishment now
+faced a problem. They had stretched their software
+to its limits and yet did not seem significantly nearer
+to a true model of the mind. Only one thing remained;
+the hardware had to change. They started research
+into Parallel Processing.
+The early machines had been serial computers,
+processing information sequentially, one item at a
+time.Researchers began to concentrate on not only
+modelling the mechanisms of the mind but moulding
+the structure of their machines to that of the brain.
+The brain differs from a serial computer most
+significantly by the fact that it can execute a few
+million processes simultaneously.
+The need for parellel processing is obvious. The new
+machines were built from individual interconnected
+'neurons'. The 'neurons' are in fact small RAM
+(random access memory) circuits, each with a
+weighting and threshold level. The diagram gives a
+basic idea to a simple connection between three
+'neurons'. Individual neurons can either stimulate or
+inhibit their neighbours and the power of the
+computer-mind lies in the strength of these
+connections.
+'Perceptrons' use such circuitry to recognise
+objects. These machines are able to read handwriting,
+an impressive task when one thinks of the infinite
+variety of ways in which people write individual
+letters.
+One feature of intelligence is the ability to learn from
+mistakes. How can a machine learn? The answer may
+lie in 'Backward Error Propagation'; comparing the
+results with the original information and ajusting the
+connections accordingly.
+It would appear that Artificial Intelligence is, at last,
+heading in the right direction. The researchers are now
+able to model the complex visual systems, so surely
+a complete model cannot be far behind?
+Unfortunately there is one major difference between
+the computer-based and human brains: the brain has
+no Backward Error Propagation. Once again we may
+find ourselves hitting the limitations of the system
+before coming close to a full model. Cynics would
+agree with the Al pioneer John von Neumann that
+'There will be no more simpler model of the Brain than
+the Brain itself.
+Jason Housecroft
+NO OOVl'T VJORM,
+IT DOtSH'T HURT i
+• 'Mad Cow' disease has been shown to spread to
+laboratory mice through eating brain tissue from an
+infected cow. This has increased fears that humans
+may be able to contract a form of this disease, bovine
+spongiform encephalopathy (BSE), from consumption
+of infected beef produce. BSE is a disease which
+gradually destroys the cow's nervous system. Recent
+research has concentrated on feeding the mice with
+brain tissue, but further work is being performed with
+spleen and spinal cord material to see if these too
+carry the infection.
+• Debris in space has been recognised as a serious
+problem. Abandoned satellites coupled with parts of
+spent rockets now pose a significant threat to the
+success of future space operations. The world's seven
+space agencies have so far failed to agree any policy
+on space litter
+NASA uses almost all of its debris clearing budget
+on the region of Low Earth Orbit (LEO). The European
+Space Agency (ESA) has a budget of just 10 per cent
+of this, but has a programme for Geostationary Orbit
+(GEO) as well as LEO clearing. A Geostationary orbit
+is a path on which a satellite will rotate at the same
+speed as the Earth, thus holding a constant position
+above the Earth's surface.
+It is estimated that there is now in excess of three
+thousand tonnes of space junk orbiting the Earth with
+the majority of it made up of particles less than 1cm
+across.
+Clearly the 'Star Wars' Defense Initiative tests could
+contribute significantly to this though the Americans
+have now decided to operate at low altitudes where
+most of the fragments from tests will rapidly fall to
+earth.
+• Robots may be able to operate on humans within
+ten years. A surgical robot is being designed at IC for
+prostrate surgery. The predicted time taken for a robot
+to perform this operation is about five minutes as
+opposed to the hour usually required for a surgeon.
+The law as it stands does not allow a robot to carry
+out such tasks. Present experimental robots in some
+respects are not yet sophisticated enough; if they
+were to develop a software fault possible twitching
+could have potentially disastrous results. Fail-safe
+software, however, is not implausible.
+• Letter
+Dear Sir,
+I was fascinated by your report in last week's FELIX
+of a prototype electromagnetic tank gun capable of
+propelling a 3mm ball 'at a speed of 4.2kmh~1
+'.
+I estimate I can do about five times better than this
+with a peashooter. Any offers?
+Yours faithfully,
+Brian Barker.
+Reply
+Oops; it was a late night! Of course the projectile was
+fired at 4.2kms~ '.
+

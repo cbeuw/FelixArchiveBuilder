@@ -1,0 +1,197 @@
+36 felix Friday 22 February 2008
+Electrostatic Loudspeakers?
+Richard Lai reminds you of this forgotten, but superior, speaker technology
+W
+elcome to another
+weekly instalment
+of the Tech section.
+Once again we’ve
+had a good amount
+of news this week so let’s dive right in.
+By the time this hits print the US
+navy should have shot down the fall-
+ing spy satellite allowing it to burn up
+in the atmosphere instead of crashing
+to earth. A 1400 mile long section of
+the Pacific has been cleared and planes
+and shipping have been ordered to
+stay away as assumedly this is where
+the missile will ditch if anything goes
+wrong. Some debris from the satellite
+may fall on Canada. Accidental or not
+I’ll let the conspiracy theorists resolve
+this one.
+Mesh PC’s have begun to offer the
+first of AMD’s Phenom 3-core proc-
+essors in some of its machines. The
+intention of these models is to offer
+something in the large price gap be-
+tween the majority of dual and quad
+core machines. Maybe this will give
+AMD a bit of an edge in a market that
+is constantly being taken away from
+them by Intel.
+A Ukranian hacker has found a
+loop-hole in American insider trad-
+ing laws that may allow him to keep
+his ill-gotten gains. Oleksander Doro-
+zhko used information gained from a
+hack into IMS Health’s system to bet
+that their share price would drop. He
+was correct and made a tidy $250,000.
+The loop-hole is that in US law to be
+an insider trader you must actually be
+involved in the company you’re trading
+on and since Oleks is not it seems he
+could be onto something.
+According to some “ground-break-
+ing” research at Northampton Uni-
+versity some people are addicted to
+mobile gadgets. It’s always interesting
+when someone comes along and offi-
+cially states the obvious but there are
+some new interesting bits of informa-
+tion. They claim the problem is not the
+addiction but the fact people are get-
+ting fired for constantly checking their
+texts during work. I don’t think this is
+addiction to the devices as you could
+just as easily chat via emails which I
+doubt your boss will want to stop you
+using. There is no real way to stop this
+happening short of removing all sourc-
+es of communication within offices as
+you have to remember most people
+are, in fact, social.
+Scientists have unveiled plans to test
+new hazardous chemicals on cells pro-
+duced in a lab as opposed to testing on
+lab animals. Expanding on this, and
+getting a bit more techy, they want to
+use machines to perform the tests as
+they do the work far faster; allowing
+for a broader range of tests.
+Silicon Valley is going green with
+most companies hoping to make the
+move to solar power to take advantage
+of the wonderful weather they have
+over there. Before they all go and in-
+stall it they want to drive the technol-
+ogy forward to get the most of it. So
+maybe we might get to see some dras-
+tic improvements in the validity of so-
+lar power in the coming decade.
+Anyway I’ll let you get on with our
+nice big Loudspeaker article and a top-
+up on the whole HD-DVD thing.
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+James Finnerty
+Technology Editor
+N
+owadays, there is no
+doubt that consumers
+are increasingly aware
+of high-definition video,
+mainly due to the on-
+going battle between Blu-ray and HD
+DVD – the two next-gen HD video
+formats. However, it is uncommon to
+hear about high definition audio: the
+market is flooded by low-grade digital
+music, as well as low-resolution loud-
+speakers that can still sell because con-
+sumers believe the wattage is the main
+feature. Should you care?
+To answer this, imagine you are sit-
+ting in front of a jazz band: somewhere
+on the left you can feel the plucking
+and hear the delicate reverb of the gui-
+tar strings, and right in front of you
+come the saxophones and the trumpets
+tickling your ear canals, along with the
+trombones that gently shake your en-
+tire body, and the piano with tones that
+comfortably fade away. This is what
+you should look out for in a concert –
+there is no way you can reproduce the
+same sensation back at home, unless
+you have the money to hire the band
+plus the ownership of the same concert
+hall and making it your home. This is
+where the challenge is: can you bring
+a similar sensation back to your actual
+home?
+If you are one of those who have
+taken up the challenge, you are then
+known as an audiophile. Most audi-
+ophiles swear by analogue playback,
+which include the use of vacuum tube
+amplifiers with vinyl record players,
+and most refuse to go digital wherever
+possible due to their belief in the lack of
+warmth (or even soul, as said by many
+audiophiles) in digital formats and
+devices, even though current technol-
+ogy proves otherwise. Ignoring all the
+digital audio devices, the audiophiles’
+absolute latest favourite technology
+would probably be the superior yet
+less-known electrostatic loudspeakers
+(ESLs) – essentially flat panel speakers,
+definitely nothing close to your ordi-
+nary speakers. I wouldn’t be surprised
+if you have not heard of this technol-
+ogy before, but trust me, they are way
+better than what most of us are using
+right now.
+So what is wrong with our everyday
+magnetic coil speakers? Well, placing
+one in your hand, you would imme-
+diately notice its heavy weight due to
+the magnet and metallic coil (usually
+hidden). This actually kills any delicate
+signals – such as the tiny reverb of the
+piano – in a well-recorded soundtrack.
+Unlike the average consumer, any ex-
+perienced audiophiles would be able to
+spot these tiny missing details. There
+is then the coil-driven motion of the
+driver: to reproduce sound, the inner
+coil and the diaphragm constantly are
+pushed in and out to change the air
+pressure around it. Such large move-
+ments will easily distort the sound,
+and on top of that, a large diffraction
+is also introduced to the sound waves
+due to the shape of the cone, therefore
+allowing the sound quality and vol-
+ume to deteriorate very quickly over a
+short distance. This is why audiophiles
+always have to carefully find the so-
+called “sweet spot” before they can sit
+down for three hours or so of music.
+Looking at a bigger picture, a com-
+plete speaker requires a cabinet – usu-
+ally wooden – to go with the magnetic
+coil drivers. This is to prevent destruc-
+tive interference by the sound waves
+produced from the back of the drivers,
+as well as making the bass punchier.
+However, this often adds unnecessary
+flavour to the reproduced sound, which
+defeats the whole objective of hi-fi, or
+high fidelity, meaning close-to-original
+I think you would be more likely to get your wife to approve this than a a set of 6-foot tall monsters
+reproduction. Some people may like
+this additional flavour, but the veterans
+are strictly allergic to it.
+To understand how ESLs defeat such
+problems, we should look at the gen-
+eral structure of them: originally de-
+signed by Quad Electroacoustics of UK
+in 1955, these flat panel speakers con-
+sist of a polarised plastic diaphragm
+Nakamichi HD-A ESL
+

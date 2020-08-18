@@ -1,0 +1,98 @@
+15
+felix FRIDAY 15 JANUARY 2010
+technology.felix@imperial.ac.uk TECHNOLOGY
+ow 2010 - Our highlights and picks from
+exhibition straight out of the City of Sin
+Talking of Android, the growing maturity of the platform as an operating system
+for low-end computers and smaller devices was quite obvious at CES, with a slew
+of new Android-packing devices announced. Aside from Google’s own Nexus
+One ‘superphone’, announced just before the start of the exhibition, AT&T an-
+nounced it would carry five new Android handsets this year, with LG and Mo-
+torola also announcing new smartphones running the Linux-based OS.
+The Android story didn’t stop there either, with HP, Dell and Lenovo announcing
+netbooks and tablet PCs running the system. The emergence of Android at what
+is traditionally a Microsoft stomping ground is very noteworthy. Android could
+prove to be what many die-hard Linux enthusiasts have been waiting for: a widely
+adopted, consumer targeted, open source OS promoted by a major company. With
+at least a dozen new Android products on the way (and more to be announced
+at the Mobile World Congress in February), the OS looks like it’s on the way to
+be truly competing with Apple and Microsoft for market share across platforms.
+The quest to make the humble sheet of paper obsolete continues with vigour this
+year at CES with the launch of yet more e-readers. The main focus for designers
+this year seems to not be on actually reading books but instead on what else they
+can do, with many new offerings able to play HD video, synchronise calendars
+and emails and even browse Twitter. Plastic Logic’s QUE proReader pushes the
+envelope with its broad feature set which also includes opening most Microsoft
+Office documents, but unfortunately like most e-ink devices on show it suffers
+from really sluggish response and loading times. One company with the answer
+to that is display designer Pixel Qi, who comes to CES this year in Notion Ink’s
+impressive ADAM tablet flaunting a new dual unit that sports a unique LCD that
+can be either full-colour and backlit or standard monochrome. Oh, and it actually
+gets easier to read in sunlight. The huge advantage of this is the ability to switch
+between the two at will, making it easy to view colour images or video and then
+switch to black and white for text reading that is just as crisp as Amazon’s Kindle
+e-reader, which by now is looking rather long in the tooth.
+Ah yes, the iPod dock. Once the must-have gadget for people with too much
+money, these glorified speakers now litter the electronics market and nowhere
+more so than CES. The whole iPod idea hasn’t really changed much since last year,
+so the focus has been on innovation, which, as is typical when creativity is left un-
+checked, has produced some truly bizarre bits of hardware. This even winds up
+being ridiculously impractical in some cases, particularly with Branex’s iTamTam
+docking stools. Putting aside for the moment that it’s named like a women’s sani-
+tary product, this ‘funky’ 60s-style stool’s docking point is right on the edge of the
+rim making it too easy to sit down and simply snap your iPod in half. Sony’s Trik
+is another offering which is a bit of an odd choice in the design department, be-
+ing reminiscent of massive 80s boom-boxes that got carried on shoulders. It does
+feature changeable skins though, and the speakers provide a not-too-shabby 75
+watts. The true winner of weird this year though goes to Seiko with their ‘Ocean
+Theatre’ iPod dock. Its main selling point, in addition to the alarm clock and iPod
+attachment, is its ability to project marine life, such as whales and seaweed, onto
+your wall. If that wasn’t lame enough, it does so with crappy pixelated images and
+at about five frames per second, which puts it on par with about 1980s technol-
+ogy. What it’s doing at CES 2010 is anybody’s guess.
+USB 3.0 finally seems to be making its way into consumer electronics, with the
+first officially certified USB 3.0 products set to hit shelves later this year. The
+specification, a fully backwards compatible successor to USB 2.0, makes use of
+a noticeably chunkier cable to offer data transfer rates of up to 3.2 Gbits (even
+with other overheads taken into account), an order of magnitude faster than the
+speeds USB 2.0 was supposed to provide.
+While your standard USB 2.0 cables will still work on these newer ports, you’ll
+be unable to take advantage of the speed boost - and your new USB 3.0 cables
+will not work on older ports. Is investing in the new standard worth it? Sony,
+Apple and Intel would like you to think otherwise - they have been working on
+a completely different technology, dubbed “Light Peak”, that promises to offer
+faster speeds than USB 3.0 while connecting a much larger range of devices.
+Whether this will be enough to convince consumers to pay for the complete
+wiring overhaul that Light Peak requires is yet to be seen; there are no Light Peak
+devices due in the near future while USB 3.0 ready laptops from HP will be hitting
+shelves in the coming months.
+USB 3.0
+lets
+eBook readers, but that didn’t keep the tablet
+course now that Apple may or may not call their
+blet form factor is getting labelled with the term.
+s press conference with the unveiling of the HP
+stage, showing off Windows and the PC Kindle
+and can even play games of a sort with Ballmer
+he audience. Look for this one hitting the shelves
+IdeaPad U1 Hybrid. The clue’s in the name but
+party piece in the form of a detachable resistive
+mbo device harbours an Intel CULV processor
+remium, pretty standard fare. The unusual thing
+owered by a separate Snapdragon CPU running
+ok OS. Pull out the slate, switch over to Skylight
+at CES in the form of the ICD Vega 15-inch
+chipset and running a heavily customised build
+he family market. In reality what that means is
+shared calendars, SMS/MMS messaging and a
+ks WiFi, an FM radio, on-demand TV and 1080p
+n is only 1366x768. Pricing and availability have
+bscription to be involved.
+mily computing and we’ll even get it in the UK!
+Android eReaders
+iPod Docks
+Could this be the one cable to rule them all or is Light Peak going to kick ass?
+Careful where you sit, it could be expensive.
+Google’s Android powered ‘superphone’ the Nexus One.
+The QUE makes Amazon’s Kindle look like a not-so-cheap plastic toy.
+

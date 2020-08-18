@@ -1,0 +1,166 @@
+A study of the reproductive success of 6000
+Finnish people born between 1760-1849 sug-
+gests that the technological and social advanc-
+es of the agricultural revolution did not put a
+stop to human evolution.
+“It is a common misunderstanding that evo-
+lution took place a long time ago, and that to
+understand ourselves we must look back to the
+hunter-gatherer days of humans,” says project
+leader Virpi Lummaa, of the Department of
+Animal and Plant Sciences at the University of
+Sheffield.
+But in a collaborative study, involving teams
+from Germany and Finland as well as the UK,
+Lummaa and colleagues looked at the life cy-
+cles of a large set of individuals using church
+records going back 250 years. They conclud-
+ed that “significant selection has been taking
+place in very recent populations, and likely
+still occurs.”
+By tracking variables such as survival to
+adulthood, mate access, mating success, and
+fertility per mate, the researchers found that
+the intensity of Darwinian selection in the
+population they analysed was in line with that
+measured for species ‘in the wild’. The find-
+ings also appear to suggest that sexual selec-
+tion can still be at work in a society where the
+marriage system is strictly monogamous.
+This is in stark contrast to the traditional
+view, held by many evolutionary psychologists
+and social scientists, that selective pressures
+in human evolution have been significantly
+weakened – if not put on hold entirely – by the
+flexibility our species gained through social
+and cultural adaptations.
+The researchers also found that evolution-
+ary rates varied between men and women.
+Though individuals in the population were
+assumed to maintain monogamous relation-
+ships, men were more likely to remarry af-
+ter the death of a spouse, exposing them to
+Humans are still evolving
+FELIX
+Friday 25 may 2012
+10
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+Researchers at Disney and Carnegie Mellon Uni-
+versity have published new research which could
+make everyday objects and even the human body
+into a touchscreen.
+This could mean traditional interfaces would
+no longer be needed, as smartphones could be
+silenced by holding a finger to the lips, and the
+volume on mp3 players could be controlled with
+a tap of the hand.
+The technology, known as Touché, uses Swept
+Frequency Capacitive Sensing, which is similar
+to the technology used in smartphone screens.
+Smartphones only detect electrical signals on
+one frequency, allowing them to know when they
+are being touched. Touché takes this one step
+further by using a range of frequencies, so ob-
+jects not only detect touch, but ‘sense’ how they
+are being touched.
+Everyday objects can be equipped with the new
+technology by attaching only one electrode. “It
+could immediately be used to create new and ex-
+citing ways for people to interact with objects and
+the world at large,” says Ivan Poupyrev, senior
+research scientist at Disney Research.
+The researchers envision a Touché-equipped
+home where the television is turned on when the
+user sits down on the sofa. The lights automati-
+cally dim when the user leans back to enjoy the
+show, and if they fall asleep, the room darkens
+and the television is turned off.
+The research, presented at the Conference on
+Human Factors in Computing Systems in Texas,
+investigated how this could be used in existing
+tablet computers. Depending on which fingers
+were used to touch the screen, and whether a
+‘pinch’ or ‘grasp’ motion was used, the computer
+could perform different functions, such as zoom-
+ing in or right-clicking. Touché technology can
+also be applied to liquids, detecting whether one
+finger or a whole hand is submerged in a con-
+tainer of water.
+By wearing electrode on the wrists in a similar
+way to watches, smartphones, mp3 players and
+computers could all become gesture-controlled.
+“This might enable us to one day do away with
+keyboards, mice and perhaps even conventional
+touchscreens for many applications,” says Mune-
+hiko Sato, a PhD student involved in the work.
+Disney is also conducting research into how
+living plants can be made into surround sound
+systems for use in their theme parks.
+Siobhan Chan
+Disney want to make all the world
+a touchscreen
+slightly greater sexual competition on aver-
+age over their lifetimes.
+However, selection seems to have been in-
+different to social status. “Surprisingly,” says
+Lummaa, “selection affected wealthy and poor
+people in the society to the same extent.” Yet
+another thing that money can’t buy?
+DOI: 10.1073/pnas.1118174109
+Douglas Heaven
+A new study has identified three key proteins
+in plants that may help the development of
+improved crops yielding higher qualities and
+quantities of oils. The scientists, of the Salk
+Institute for Biological Studies and Iowa
+State University, say that such plants could
+help to reduce the growing global demand for
+food and fuels, and negate the detrimental ef-
+fect such demand may have on our environ-
+ment and ecosystems.
+The research, headed by lead authors Jo-
+seph Noel and Eve Syrkin Wurtele, anal-
+ysed genomic plant data and pinpointed the
+proteins responsible for regulating the me-
+tabolism of fatty acids in thale cress plants.
+These three proteins, dubbed FAP1, FAP2
+and FAP3, control the molecular pathways
+responsible for plant oil production and bind
+fatty acids such as omega-3.
+“This work has major implications for
+modulating the fatty acid profiles of plants,”
+says lead author Joseph Noel. The research-
+ers found that altering the expression of these
+proteins changed the amount and quality of
+plant oil produced via these pathways.
+Plant oils are triglycerides and are stored
+in seeds. They consist of three linked fatty
+acids, which are very high-energy molecules
+formed in a plant using solar energy. Utilis-
+ing these acids could therefore provide a very
+efficient method for producing biorenewable
+chemicals and fuels. This would help to al-
+leviate fears over petroleum security and
+global climate change, as well as aiding in-
+ternational industry, nutrition and transport.
+FAP1, 2 and 3 are linked ancestrally to
+Trio of proteins to ease food demand
+enzymes that control flavonoid production,
+compounds that play many roles within a
+plant and have great nutritional and health
+benefits in human diets. Further study of
+plant proteins may result in a greater un-
+derstanding of how proteins evolve into en-
+zymes, a mechanism that has huge industrial
+promise.
+DOI:10.1038/nature11009
+Nicola Guttridge
+Tree or surround sound system?
+The internet is potentially making huge strides in changing the way we think
+Part of the ribbon diagram for an X-ray crystal structure
+Nature
+

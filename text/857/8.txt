@@ -1,0 +1,168 @@
+This
+Yjeek
+• The first successful foetal heart survery has
+been carried out at Guy's Hospital. The operation
+involved inserting a balloon into the heart of the foetus
+and inflating it so that its previously blocked aortic
+valve was cleared. However two operations were
+required before birth. On the first attempt the balloon
+burst while inside the heart and is still lodged there
+but has not yet caused any problems. The second
+operation though was a success and a third operation
+after the boy was born made sure that the valve was
+fully opened.
+• The number of homes affected by the build up
+of the radioactive gas, radon, is thought to be three
+times as many as previously estimated. This is the
+main conclusion of a report published last week by
+the National Radiological Protection Board (NRPB).
+Previously the NRPB believed that 25,000 houses
+were affected mainly in areas of granite foundation
+rock such as South West England and North East
+Scotland. The new value is said to be 75,000
+dwellings. The gas seeps up through cracks in the
+rocks into houses and accumulates due to better
+draught proofing and less ventilation in modern
+buildings. The Board's new estimate follows revised
+maps charting the presence of the gas however it is
+exaggerated since the action level has been halved.
+The NRPB says that 2,500 deaths each year from
+lung cancer are directly attributable to inhalation of
+excessive levels of radon gas. This cause of lung
+cancer is second only to smoking.
+• An American .consortium set up by seven
+companies to manufacture dynamic random access
+memory (DRAM) chips was abandoned last week.
+Their intention was to provide computer
+manufacturers with a viable alternative to the
+Japanese monopoly in this field. The venture failed,
+however, after insufficient investment and
+commitment from the American computer
+manufacturers to buy the chips.
+Meanwhile IBM still intend to manufacture new high
+memory integrated circuits with the compact
+synchrotron, Helios, being built by the British
+company Oxford Instruments. This is an electron ring
+producing X-rays which will be used in X-ray
+lithography. Most present production techniques rely
+on ultraviolet light or electron beams to 'etch' tracks
+and junctions into the silicon. The resolution is
+dependent on the wavelength of the radiation used.
+By using X-rays it is possible to make the circuits
+smaller and thus of a higher density allowing for larger
+memory on a single chip.
+• A new electromagnetic gun test site planned to
+be situated in Kirkcudbright (in Dumfries and
+Galloway) will be funded jointly by the US Department
+of Defense and a division of the British Ministry of
+Defence. These guns rely on the electromagnetic
+force acting on an armature, which accelerates it
+along a conducting barrel to propel a projectile. The
+idea is to develop the technique as an alternative to
+using explosives since the potential launch speeds are
+far higher. Scientists working at Fort Halstead have
+built prototypes which have fired a 3mm ball bearing
+at a speed of 4.2kmh " 1
+. It is thought that this type
+of gun could be installed in a tank within ten years.
+Confusion by Simon Haslam
+Water covering the particle accelerator at Sandia National Laboratories discharges electric
+machine fires its beam towards a fuel pellet.
+With the ultimate demise of any hopes for room
+temperature fusion, as proposed by Pons and
+Fleischmann in March last year, our attention once
+again turns to 'hot' fusion.
+Fusion takes place when light atoms join together
+with the resulting nuclei having a lower mass than
+their constituents thus releasing energy according to
+Einstein's famous equation Energy = change in mass
+x (speed of light squared). The fuel normally used is
+deuterium often known as heavy hydrogen since there
+is one extra neutron in the deuterium nucleus than in
+the hydrogen. Tritium is also used which has two
+extra neutrons in the nucleus and has the ability to
+release more binding energy but is very unstable.
+Enviromentally, fusion is far sounder than fission
+where large atoms are broken apart. These large
+atoms, such as Uranium, tend to be highly radioactive
+for a long period of time. Although high energy
+neutrons are released by fusion the radioactive nature
+is far less dangerous than fission. The possibility for
+an out of control chain reaction does not occur since
+as soon as the compression of the fuel is lowered
+fusion processes stop.
+There are currently several methods employed to
+achieve the goal of a controlled fusion reaction. Firstly
+huge magnetic coils are arranged around a doughnut
+shaped, toroidal vessel, creating a very high magnetic
+field. Atoms at high temperatures experience such
+high thermal energies that the bonds between
+electrons and protons disassociate, forming a sea of
+electrons and nuclei known as a plasma. Such a
+plasma, contained in a high magnetic field can
+undergo fusion processes as significantly energetic
+nuclei combine to form larger ones.
+One example of an experiment in this area is the
+Joint European Taurus (JET) situated in Abingdon,
+Oxford. This is part of the European fusion
+programme, which has a budget of £250m per year.
+JET has cost around £600m over its 12 year life; a
+small fraction of these resources.
+Some researchers believe, however, that the first
+objective should be to build smaller vessels to aim for
+'ignition,' that is to have enough energy produced to
+sustain fusion events; the so called energetic
+breakeven. This energy emission would be orders of
+magnitude away from what would be required for
+economic power generation from fusion. The
+limitation of the Taurus approach is the maximum
+magnetic field produced by conventional
+electromagnets today; science needs stronger
+magnets to contain these plasmas.
+Intertial confinement is also being developed. The
+technique involves the compression of a fuel pellet
+causing an implosion then leading to fusion. One
+method used is to fire an intense pulse of laser
+radiation at a tiny capsule of heavy water from all
+directions. The resulting thermal and electromagnetic
+effects cause the pellet to implode as its shell burns
+away. Such a reactor exists in the Rochester
+Laboratory in America. A neodynium laser produces
+24 beams which are split using lenses and mirrors into
+250,000 individual rays. A pulse of less than 1
+nanosecond (10~9
+seconds) duration causes the
+temperature of the fuel to rise to between 10 and 50
+million degrees. This is only successful and entails
+fusion when the energy density striking the Yt mm
+diameter capsule varies by less than 1% in all
+directions. At present this machine can only meet a
+minimum of 3% variation.
+In order to make such a reactor viable on a
+commerical basis fuel pellets would need to be fed
+continuously through the target area several times a
+second. The power output would then be dependent
+on the rate at which fuel pellets were supplied rather
+than the size of the laser. Present lasers, however,
+can often only be fired a few times per day otherwise
+they overheat. High powered, semiconductor lasers
+built from arrays of chips which are not economical
+at the moment, may well be so in the future.
+Lasers do have more than one rival as a means of
+inertial confinement. One such case is the use of high
+energy particle beams. Another American laboratory
+at Sandia has built such a machine (see figure) where
+protons are focussed onto a spot with an energy
+density greater than 1 0 1 6
+Watts per mm2
+.
+Many research scientists believe that the first
+commercial plants will be possible within forty years,
+twenty years with a concerted effort. They have been
+making claims like this ever since the first research
+some forty years ago.
+As natural resources become more scarce
+alternative means of power generation will become
+increasingly necessary and in many respects this will
+be the fusion establishment's greatest ally.
+

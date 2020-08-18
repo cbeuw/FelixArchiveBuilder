@@ -1,0 +1,295 @@
+East Meets West 2009
+Sama Zaman and Kavita Aggarwal review this year’s event at the Theatre Royal, Drury Lane, as well
+as giving a quick insight into the show’s past
+A
+fter many months of preparation and much anticipation, the country (and
+Imperial’s!) largest and oldest student show, East Meets West, presented by
+Indian Soc, returned to the stage on Sunday 22nd February 2009 at the Thea-
+tre Royal, Drury Lane. With an illustrious 17-year history, the show has es-
+tablished its own special place in the hearts of both performers and audience
+alike, and with expectations even higher after last year’s stupendous success at the London
+Palladium, the pressure was certainly on. The evening began with a spectacular opening
+act, after which we were introduced to the event’s celebrity host, legendary comedian Nina
+Wadia, who brought with her a most delightful surprise in the form of fellow Goodness
+Gracious Me actor Kulvinder Ghir, whose perfect comic timing and hilarious quips had
+the audience in stitches for the entire show. The acts themselves were a joy to behold not
+only due to their exceptional high quality performances, but also due to their variety, which
+is exactly what East Meets West represents and what makes the show so memorable and
+so unique. The spectacular array of talent seen included the renowned street dance form
+of Funkology, which was executed with so much passion that it looked almost effortless;
+scintillating traditional Russian ballet; an incredibly enthusiastic Light Opera performance
+and what many considered to be the highlight of the evening: bhangra by the Groundshaker
+team. Overall the evening was extremely enjoyable and certainly delivered on its promise of
+‘the ultimate celebration of culture’ whilst raising proceeds for and awareness towards three
+very worthy causes: Save the Children, the Care Trust Education and this year’s RAG char-
+ity the Winnicott Foundation. With yet another successful year to add to the show’s legacy,
+we look forward to seeing what East Meets West will offer next year!
+In the beginning...
+Starting out in Imperial College’s Great Hall, the inaugural show was a great success with a
+sell-out audience of 400 people. It began with the simple idea of merging classical eastern
+acts with more contemporary western performances, and has since grown into the incon-
+ceivable, ever widening and ever-diversifying production that it is today.
+Previous venues have included the highly exalted Shaftesbury Theatre, Shepherd’s
+Bush Empire, Hammersmith Apollo, as well as the Barbican and many more prestigious
+locations.
+And now...
+Set in the heart of London, the prestigious Theatre Royal, Drury Lane is the perfect setting
+for this magical evening. The Theatre Royal is found in the West End of London. Officially
+situated on Catherine Street, the theatre backs on to Drury Lane just to the east of Covent
+Garden. It was designed by Benjamin Wyatt and opened on October 10th, 1812 with a
+production of Hamlet. The interior has been redesigned and overhauled many times since
+then and now boasts a seating capacity of 2,205. It is one of the West End’s largest venues
+and is currently the home of the hit West End production of Oliver with Rowan Atkinson.
+24 felix Friday 6 March 2009
+technology.felix@imperial.ac.uk
+Technology
+Technology Editor – Richard Lai
+Richard Lai
+Technology Editor
+A
+pologies for my absence
+last week - we spent more
+time and effort than ex-
+pected into our group
+project presentation, but
+I think it paid off. At the same time, I
+also had the opportunity to put Apple’s
+iWork ‘09 - specifically Keynote - to
+practical use instead of making price
+comparison slides of new Apple prod-
+ucts, and the result was beautiful. Mac
+users are strongly encouraged to try
+it - you can download the trial version
+from Apple’s website.
+Now to the subject: by now most of
+you gadget fans should have heard of
+or read about the Amazon Kindle 2
+e-book reader. It is no doubt a great
+improvement from its predecessor:
+better button layout, slimmer design,
+25% longer battery life, faster display,
+new dictionary, and the controversial
+“Read-To-Me” text-to-speech feature;
+but I still have doubts about whether
+the current range of e-ink devices will
+win the hearts of traditionalists.
+You see, the success of any new
+piece of gadget depends heavily on
+how natural one feels with its interface
+and form factor. To some the problem
+with the Kindle 2 and similar devices is
+that the reading experience on them is
+still very different to the real deal. Let
+us start off with their form factor: we
+tend not to read books in a tablet form,
+and I personally like to hold my nov-
+els with my one hand holding below
+the V-shaped gutter. To satisfy me and
+like-minded readers, the device would
+have to utilise some sort of folding in
+the middle.
+Fine, the rest of you may argue that
+some like to fold their books in half,
+but what about the softness of the
+book? That is another sensation which
+the e-ink devices lack (the Kindle 2
+has a cold metallic back!), and will no
+doubt be a challenge for the develop-
+ers to come up with a durable material
+that gives the same feel as paper. This
+should be possible, as demonstrated by
+the current Wacom drawing tablets:
+back in the early days the tablets I used
+were very slippery, not comfortable to
+use after long periods; when I read that
+Wacom’s Bamboo tablet offers a “pa-
+per-like work area for a natural experi-
+ence”, I bought one straight away and it
+really feels like writing on paper.
+Next we have the page-turning expe-
+rience: for me I get a greater satisfac-
+tion with flicking through pages of pa-
+per compared to using the scroll bar or
+scroll wheel. Understandably, since the
+e-book devices are not multi-paged it
+is hard for them to offer the same sen-
+sation. One possible solution is to im-
+plement a touchscreen and have a lag-
+less sliding animation like the one used
+on the iPhone’s photo viewer, but this
+would restrict the device’s form factor
+as I don’t think this is possible on flex-
+ible materials yet, and let us not forget
+that this would need greater graphics
+power too (thus money and battery).
+I’m probably moaning too much, but
+I am very keen to see a device that will
+give the right e-book experience. What
+do you think? Drop me line on Twitter
+at http://twitter.com/richardlai .
+Thoughts on
+e-ink devices
+Living in the Cloud...
+Richard Lai compares some of the hottest cloud sync services
+Y
+ou may or may not have
+heard of cloud computing,
+but the chances are you are
+already using a few servic-
+es offered by such technol-
+ogy. In a nutshell, cloud computing is
+computing using various online serv-
+ices, i.e. using the Internet (or meta-
+phorically the “cloud”) instead of your
+desktop PC as your computing plat-
+form. Think about Google Maps: users
+do not have to install any extra apps on
+their computers in order to use it (that
+is assuming the computer already has a
+compatible Internet browser), as all the
+data is stored in the cloud.
+Obviously, the fact that such services
+are on the Internet means that you can
+access them from anywhere - specifi-
+cally on any devices equipped with an
+Internet browser or relevant app. You
+don’t even have to worry about which
+operating system you are using, as most
+of these services are designed to be at
+least accessible with all major browsers
+in the form of a website.
+Don’t get me wrong though: cloud
+computing is not just for mass-data
+services like Google Maps, nor is it just
+for enterprise services like Amazon’s
+Elastic Cloud Computing (EC2). Here
+are a few options for us majority users:
+Google has been one of the long-
+est cloud service providers with their
+Google Apps platform, with Google
+Docs being their main cloud storage
+product. I’ve personally used it to store
+member records (as a spreadsheet) for
+a student association outside Impe-
+rial College, but since I’m not free to
+edit it all the time, I share the full edit-
+ing access with another secretary and
+the chairman - all they needed to do
+was to sign up for a Google Account.
+Google Docs also has the essential on-
+line editing tools for word documents,
+spreadsheets and even PowerPoint
+presentations, saving us from having to
+download and upload files for even the
+smallest changes. Two other features
+Are you an iPhone
+developer?
+Here’s a chance for you to show off your
+apps to your 12,000 fellow students/
+potential customers at Imperial College.
+Sendinthefollowingdetailstotechnology.
+felix@imperial.ac.uk by 7pm next Monday:
+Name and link of your app(s)
+•
+Large resolution screenshots (5 max.
+•
+for each app)
+An interesting description in around
+•
+220 words (do talk about what
+inspired you, the difficulties you had
+during development etc.)
+Your high-res mugshot (optional)
+•
+Selected apps will be featured next week!
+The three major cloud storage service providers fighting for coverage.
+worth mentioning are: revision history
+for each document - an essential tool
+for group collaborations, and an offline
+mode which allows you to view and
+edit documents in your browser with-
+out Internet connection (and syncs
+with server when next online).
+Microsoft offers a similar service
+with their Windows Live platform.
+Their Google Docs equivalent is Office
+Live Workspace and shares many com-
+mon features with it, apart from the
+lack of web apps for viewing and edit-
+ing the documents - you need to have
+Office installed! But the service that I
+want to highlight is Live Mesh: a sync
+service between multiple computers
+(including Mac) and the cloud. This
+involves installing a client app on your
+machines and then choosing which lo-
+cal folders you want to sync with the
+cloud. Likewise, you can also sync your
+machines with the other folders already
+on the cloud server. This excellent fea-
+ture eliminates the need of manual file
+transfer from one computer to another,
+as the Live Mesh client syncs with the
+cloud instantly as you edit and save the
+files. I use this to keep my lecture notes
+and felix documents synced across my
+two laptops (a Dell and a MacBook),
+and if neither machines are with me,
+I can use any computer and log onto
+my “Live Desktop” to view all my cloud
+files. Now you can see why I hardly
+ever use my pen drive these days!
+Last but not least, we have the famous
+MobileMe service from Apple. Unlike
+the previous two, MobileMe is a paid
+service but includes a more advanced
+sync service (that be push e-mail, push
+contacts and push calendar) for iPhone
+users. As well as some generous stor-
+age space, the package also offers a web
+hosting service for your personal web-
+site, and photo-sharers have an elegant
+gallery to play with as well. I person-
+ally wouldn’t pay £58 for a year given
+the free alternatives, but it does sound
+like a great gift for Mother’s Day (22nd
+March!).
+While these three services offer
+slightly different services, they all allow
+you to choose what is private and what
+is available for public viewing. Have a
+look at the table below - you’re bound
+to need more than one! Use them wise-
+ly and your life will be a lot easier!
+Docs
+Windows Live Mesh
+ “Sync-as-you-edit” connectivity
+ Public folder
+ Virtual desktop to view cloud files
+ Group collaboration on folders
+ Free
+Google Docs
+ Online apps for editing
+ Revision history for each file
+ Group collaboration on docs
+ Offline editing mode
+ Free
+MobileMe
+ Website hosting service
+ Elegant photo gallery
+ Public folder
+ Direct public link to each file
+ Assign expiration dates for links
+ 20GB of email and file storage
+ Push data for iPhone
+ No direct public link to each file
+ Lacks online apps for editing
+ 5GB only (but it’s free!)
+ Still in beta
+ No direct public link to each file
+ Only supports 4 types of files
+ Still in beta
+ £58-per-year subscription
+ Lacks online apps for editing
+ 200GB monthly data transfer limit
+

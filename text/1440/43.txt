@@ -1,0 +1,309 @@
+43
+felix FRIDAY 16 OCTOBER 2009
+coffee.felix@imperial.ac.uk COFFEE BREAK
+How to play:
+It’s quite simple, all numbers are in a
+cell and must be surrounded with a
+corresponding number of lines. Lines
+cannot split and there can only be one
+continuous line. Any cells with no
+numbers can have any number of lines.
+Look at the solution above for help.
+Slitherlink 1,440
+Solution 1439
+I am glad you all decided to send in so
+many entries last week, well done to
+Susan Jones who was the first off the
+mark, and a little too keen for my liking
+with her Friday submission.
+Mentalist Maze
+Wordoku 1,440
+Solution 1439
+As promised, last week’s was a
+topical answer, and can be seen
+to the left. I am not feeling spe-
+cial again, so can’t be arsed to do
+the full solution. Get over it. This
+issue’s I can assure you is child-
+ish. Big well done to Dave Jones.
+Scribble box
+Going underground
+So, all the Arsenal was the correct sta-
+tion for last week. Personally I think
+it a bit of a dump, but meah. Each to
+their own. This week’s is a little closer
+to home. Well done to Ian Fulton who
+was the biggest fan last week. Remem-
+ber to get those answers in quick.
+B A N K
+2 1 14 11
+28
+= 2+1+14+11=28. Job done.
+So which London tube station sums to 71?
+_ _ _ _
+Each letter in the alphabet is assigned a
+value, 1-26 (see table) and when added
+together for a specific word the sum
+equals the total shown. All you have to
+do is scan and send the Underground
+station that is hidden each week to su-
+doku.felix@imperial.ac.uk
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers
+with letters. Complete the puzzle
+and then send the whole grid to
+sudoku.felix@imperial.ac.uk.
+You will not get credit for just the
+word alone. It’s not an anagram.
+71
+=
+_ _
+S
+A
+E
+R
+O
+N
+P
+T
+F
+O
+R
+P
+F
+T
+A
+S
+N
+E
+T
+N
+F
+E
+S
+P
+R
+O
+A
+R
+T
+O
+S
+N
+F
+E
+A
+P
+A
+P
+S
+T
+E
+R
+N
+F
+O
+F
+E
+N
+A
+P
+O
+T
+R
+S
+E
+S
+A
+O
+R
+T
+F
+P
+N
+N
+F
+T
+P
+A
+S
+O
+E
+R
+B
+U
+S
+W
+A
+N
+K
+E
+R
+A B C D E F G H I J K L M N O
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+P Q R S T U V W X Y Z
+16 17 18 19 20 21 22 23 24 25 26
+Seen that special
+person? Could be
+the one? Want to
+see them again?
+Text Love
+Lovestruck
+struck
+to get a free union
+lunch together!
+“You, hungry honey I see you in
+physics lectures, and I like what I
+see. Fancy sucking my nipples while
+I finish off your quantum problem
+sheets?”
+Haralambos
+“Desperately seeking a 10 minute
+meeting with AJdM his arrogance
+gives me the horn, but as yet my lust
+is unrequited.
+”
+Aviva for life
+“I see you in hall. I want sexy time
+with you. You on Floor 1. Me on
+street outside. Me with giant seeing-
+into-your-room device. ME LIKE
+WHAT I SEE. LET ME HAVE.
+felix
+felix Love
+Lovestruck
+struck
+07726 799 424
+MUST HAVE.
+”
+Champ
+“You, eating a baguette in the SAF
+cafe. Me, staring at you from first
+level of SAF. We caught eye contact,
+you cowered and pointed me out
+with a look of disgust to your friend.
+Drink?”
+Sexy, I promise
+I understand you wanted meaning-
+less sex, but really I wanted love.
+We did it, but it turns out I have
+VD. Now that’s what I call love. We
+finally share something. Ring me.
+Anonymous
+“I’ve lost my boyfriend to an iPhone.
+Bare depressing. He’s satisfied in
+every way too. That iPhone’s been
+into places the sun don’t shine.
+Vibrate mode I presume. I’m just
+another App to him now. Anyone
+fancy a drink?”
+Zeenya
+“You, in Union toilets in cubicle
+next to me. We both grunted. I fell
+in love.
+”
+Girly Shitter
+“Fugly girl wearing purple about the
+Union. Always with blonde lesbian
+lover. Repulsive. Threesome?”
+Not Dan at all
+2
+2
+2
+2
+2
+3
+2
+1
+2
+2 1
+1 2
+2
+3
+3
+1 2
+2
+2
+2
+2 2 2 2
+2 3
+3 1
+1 1 2
+2 2 2 1
+3 2
+3 1
+2
+2
+1 3
+1
+2
+2
+3 2
+0
+3
+3
+1
+1
+3
+1
+2 3
+2
+3
+2
+2
+3 1
+3
+2
+2 3
+2 3
+2
+2
+2
+3 2
+3
+1 2 2
+2
+1 2
+2 2
+2 2
+3
+2 2 1
+2
+2
+3
+0 2 2
+2
+2
+2
+2
+3
+E
+L
+R
+M
+E
+B
+K
+C
+B
+L
+C
+I
+E
+K
+L
+L
+I
+M
+C
+U
+R
+U
+M
+C
+L
+R
+B
+C
+L
+

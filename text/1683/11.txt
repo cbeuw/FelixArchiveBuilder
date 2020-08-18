@@ -1,0 +1,248 @@
+TECH
+FRIDAY, 2ND
+FEBRUARY, 2018 FELIX
+tecfelix@imperial.ac.uk
+16
+Organs-on-Chips – A catalyst for drug testing?
+TECH
+Krithika Balaji
+Tech Writer
+The FDA and research groups collaborate with Emulate Inc. to evaluate the ability of Organs-on-Chips to speed
+up the drug testing process.
+A
+ccording to the
+World Health
+Organization
+( W H O ) ,
+antibiotic resistance in
+bacteria is one of the
+biggest threats to global
+health today. Bacteria
+gaining resistance is a
+natural process, but this
+has been accelerated by
+the misuse of medicines.
+The consequence of this
+is that bacteria remain
+unaffected by our current
+medications, leading to
+longer stays in the hospi-
+tal, greater medical costs
+and increased mortality.
+The way to combat antibi-
+otic resistance in bacteria
+is to develop new drugs
+that can kill them. The
+drug development process
+set by the Food and Drug
+Administration (FDA) is
+a long and costly process,
+coupled with uncertainty
+on whether a new drug
+will actually succeed to
+the next stage.
+While this ensures the
+medicines you use are
+safe, the downside is that
+it can take decades for
+a drug to finally reach
+the shelf of your local
+pharmacy. To accelerate
+the process, scientists and
+engineers across disci-
+inside a research system
+similar to a computer. The
+instrument is designed to
+recreate the environment
+of the human body, such
+as airflow. Medicines,
+FDA announced that they
+are entering a multi-year
+research and development
+agreement with Emulate
+Inc. They will be evaluat-
+ing their Organs-on-Chips
+(OOCs) technology to
+check if they can be
+used in the drug testing
+process. There are three
+components to OOCs:
+Organ-chips, instrumenta-
+tion and apps.
+The organ-chips are
+the size of an AA battery.
+They are lined with living
+human cells and have
+microfluidic channels that
+can allow the flow of air
+or blood, just like in the
+human body. The chips are
+flexible, allowing motions
+like breathing or muscle
+contraction to be simulat-
+ed. They are also transpar-
+ent, allowing researchers
+to analyse the organ’s
+functionality, behavior
+and response at a cellular
+level. Some examples of
+OOCs include: Blood-
+vessel-chips, liver-chips,
+lung-chips, etc.
+OOCs are placed
+them.
+Apps help provide
+precise control of an
+OOC’s living microenvi-
+ronment and configure the
+cell architecture amongst
+other functions.
+Recently, a team of
+researchers from the
+Division of Hemostasis
+and Thrombosis at Beth
+Israel Deaconess Medical
+Center (BIDMC) col-
+laborated with the Wyss
+Institute and discovered,
+using a blood-vessel-on-
+a-chip, small molecules
+called parmodulins. They
+provide anti-inflammatory
+and antithrombotic pro-
+tection to endothelial cells
+without interfering with
+the blood clotting process.
+This property makes par-
+modulins good candidates
+for new drugs. Through
+this study, one can see
+how OOCs can accelerate
+the safer development and
+evaluation of drugs.
+Wyss Institute founding
+director Dr Donald Ingber
+also proposed that OOCs
+can replace animal testing
+early in the drug devel-
+opment process to ensure
+greater efficacy and safety.
+One of the main problems
+with animal testing is that
+the drugs are tested in cells
+that don’t function exactly
+like those in the human
+body. Hence, researchers
+need to do extensive
+experiments to check for
+potential side-effects in
+humans, which can take
+many months. According
+to the Nature journal,
+85% of drugs fail in early
+clinical trials due to this.
+Dr Ingber proposed that
+by injecting drugs into
+an OOC, researchers
+can analyse the effects
+of the drug on human
+tissue itself at an early
+stage without poten-
+tially harming humans.
+However, while animals
+can shed light on how the
+drug can affect behavior,
+OOCs only show physio-
+logical effects of the drug
+on a small group of cells.
+If OOCs are to become
+the next-generation
+method of drug devel-
+opment and research in
+various industries, they
+need to be able to be
+mass-manufactured and
+automated, ensuring
+that they are produced
+continuously with quality
+control. Up till now, they
+have been manufactured
+in small batches to be used
+in academic research.
+Earlier this month,
+Harvard published a study
+in the journal Biofabrica-
+tion that described a new,
+faster method for manu-
+facturing hearts-on-chips.
+Dr Lisa Scudder, co-lead
+author of the study, said:
+“Our new heart-on-a-chip
+fabrication method uses
+a UV laser to pattern the
+hydrogel, employing
+riboflavin to sensitise the
+gel for optical ablation…
+[This] creates features on
+the gel much faster, but
+with the same resolution
+and reproducibility, as
+traditional moulding tech-
+niques.”
+Dr Janna Nawroth, the
+co-lead author, added that
+the process is scalable,
+60% faster than the old
+process, and gives uni-
+formity without altering
+the hydrogel properties.
+This makes the technol-
+ogy a step closer to mass
+production and use by
+pharmaceutical compa-
+nies.
+Though OOCs are not
+yet ready to be mass-pro-
+duced and distributed,
+good progress has been
+made in showcasing its
+potential in drug-test-
+ing, suggesting a more
+efficient future for the
+process.
+“Antibiotic
+resistance in
+bacteria is one
+of the biggest
+threats to
+global health”
+“It can take
+decades for a
+drug to finally
+reach the shelf
+of your local
+pharmacy”
+Yes, that’s an organ // Harvard
+plines are collaborating to
+find new drugs and drug
+testing methods. One such
+group is Emulate Inc.,
+a Wyss Institute (from
+Harvard University) start-
+up.
+In April of last year, the
+chemicals and other toxins
+can be introduced into the
+chip via the instrument
+and the effect of them on
+the cells lining the chip
+can be analysed due to
+the modular nature of the
+system. OOCs can also be
+connected together using
+the instrument to better
+understand the interac-
+tions between different
+organs and the effect of
+foreign substances on
+

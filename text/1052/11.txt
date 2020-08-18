@@ -1,0 +1,139 @@
+Russian crystal technology has been used in a joint research effort at •
+Imperial College to develop an ingenious laser with eye surgery potential. > 1 "VS
+James Porteous reports on some focused work in the Blackett Laboratory. —
+Crystal Laser Vision
+I
+t is often the case in science that
+researchers inadvertently 'discover'
+important new ideas and techniques
+while searching for the answers to ques-
+tions about something entirely different. In fact,
+we owe much of the growth and diversification
+of teclinology to such accidental revelations. A
+case in point is an on-going collaboration
+between Russian and Imperial College scien-
+tists. While looking at the properties of new
+semi-conducting materials they realised that a
+unique Russian crystal and a sliver of semi-con-
+ductor can be used to build an unusually cheap
+and compact laser with the potential to be used
+in corrective eye surgery.
+The focus of the excitement is an extreme-
+ly pure garnet crystal, grown meticulously in a
+laboratory at the General Physics Institute in
+Moscow and brought to London to be harnessed
+to the equipment of the Solid State
+Experimental Research Group at Imperial
+College. Made up of the elements erbium and
+chromium, the crystal is special because it
+absorbs and emits near infra red light at the
+unique wavelength of about 2.98 microns. Using
+the crystal as a light 'generator', the combined
+team developed a laser to test the light emitting
+properties of semi-conducting material at
+Imperial College. The happy spin-off from
+their research was the realisation that they
+had engineered a laser which, with its
+particular wavelength and short, accu-
+rate pulses, would be idealforuse in
+delicate eye surgery.
+At nearly three microns, the
+laser's near infra red wavelength
+corresponds to the pea
+water's light absorptior
+spectrum. Because humar
+tissue is mostly water, it
+means the laser does
+not penetrate deeply
+into tissue, but is
+instead absorbed
+almost immediate-
+ly at a very thin depth.
+"It's quite amazing to watch" said Dr. Chris
+Phillips of the Department of Physics at Imperial
+College. "If you put your hand in front of the
+laser, it will burn a tiny hole in your hand, but
+you can't actually feel that hole
+because the penetration depth is w v - - «
+about five microns and the nerves in ^k. 1
+your hand are deeper than that. You
+can effectively tattoo your hand and
+not feel a thing. Consequently healing
+occurs in just a couple of days." In eye
+surgery, where precision and minimal
+damage are imperative, this new
+Russian crystal laser has ideal proper-
+ties and very exciting potential.
+Although laser technology is now
+widely applied in eye surgery, the crys-
+tal laser has some special bonuses that
+should make both technology compa-
+nies and opthalmologists itchy with
+expectation. An ultra violet laser has
+already been developed in the U.S.
+for an eye surgery technique called
+photo-refractive keratectomy, or
+PRK, which treats mild degrees of
+nearsightedness by shaving micro-
+scopic layers off the cornea to change
+its shape and, therefore, alter the focal
+point of light on the retina.
+The PRK technique removes thin
+layers of the cornea by dismpting the
+chemical bonds between tissue mole-
+cules, but the new crystal laser can
+potentially do the same job, better.
+With its very short (80 milkon-mil-
+lionths of a second) and very intense
+(10 million watts) pulses of light, the laser
+can remove tissue just a few microns thick
+without affecting the chemical structure
+of surrounding tissue or damaging
+nerves. The real magic of the crystal
+aser light is its unusually shallow
+penetration of the eye compared to
+other ultra violet and infra red
+lasers which require local anaes-
+thesia. There is a possibility
+that surgery with this new
+shallow' laser may not
+even need anaesthetic
+help, but aside from
+that potential innova-
+tion, the laser's special
+characteristics mean it
+could be easily employed in eye surgery other
+thanforcorneal shaping.
+But where does the sliver of semi-conduc-
+tor come into the story? Answer: as an extra
+piece of clever innovation which not only gives
+the new laser its impressive pulses, but which
+could actually revolutionise how lasers are engi-
+Chris Phillips (above) and Kostya Vodopyanov are part of
+the Solid State Experimental Research Group in the
+Blackett Laboratory, Department of Physics.
+neered. The Russian and Imperial College
+research team developing the laser technology
+have patented the use of a semi-conductor
+'wafer', just a few atoms thick, which is a substi-
+tute for the expensive and bulky electronic
+equipment currently used to pulse laser beams.
+The wafer which is made from indium and
+arsenic, and grown atom by atom at Imperial
+College, acts as a kind of light 'valve' or shutter,
+by only emitting light of a certain wavelength. As
+light of increasing intensity is shone through the
+crystal and onto the wafer, it suddenly becomes
+transparent and emits light for just 80 million-
+millionths of a second before 'shutting' again,
+creating a pulse of intense, near infra red light.
+Trains of these pulses make up the beam which
+is then amplified by mirrors to laser intensity.
+According to Dr. Chris Phillips the crystal
+and semi-conductor wafer combination is beau-
+tifully simple conceptually and very efficient in
+practice. It means a potential end to very expen-
+sive "garage-sized" lasers, and because it is all
+solid state material rather than gas or liquid tech-
+nology, consistency and reliability are built in.
+

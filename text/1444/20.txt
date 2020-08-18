@@ -1,0 +1,538 @@
+20
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 13 NOVEMBER 2009
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+Strike Three!
+You’re Outta Here!
+Feroz Salam reports as the dark Lord Mandelson pushes for three
+strike filesharer disconnection without trial in the UK
+Fighting the
+good fight
+R
+upert Murdoch, you know
+that old guy who keeps rant-
+ing about things that he obvi-
+ously doesn’t understand, hit
+the headlines this week for his ham-
+fisted abuse of Google. Murdoch in-
+sists that Google is profiteering off of
+stolen News Corp content. What he
+seems to not understand is that yes,
+Google does make money from search,
+and perhaps search including News
+Corp articles, but when someone
+searches for something in his articles
+they end up going to that article on his
+website. Surely the fact that they can’t
+capitalise on that is their own prob-
+lem? Murdoch even went as far as to
+say:
+‘If they’re just search people.... They
+don’t suddenly become loyal readers’
+Murdoch wants to make all of News
+Corps online content paid for and
+make users access it directly. Well for
+one, I don’t see that actually working
+(would you pay for The Sun online?).
+And second of all, if you don’t want
+people to be able to search your arti-
+cles, then why not block search en-
+gine spider access? It’s pretty simple,
+you just put a ‘don’t access this’ in the
+Robots file on your domain and the
+search engine will ignore.
+Google itself responded to these ac-
+cusations with a statement to the effect
+of ‘Whatever man’ telling Mr. Murdo-
+ch that all he needs to do is tell Google
+to not index his sites and just as easy as
+that they’d be removed. What I don’t
+think Murdoch understands about all
+this is that without Google and other
+search engines leading users to the
+content, not many are actually going to
+find and read the content. OK, a few
+dedicated people might read it like a
+newspaper, browsing around it, but at
+the end of the day News Corp content
+for the most part is hardly unique. Peo-
+ple will just go somewhere else rather
+than pay.
+In other search news, Google has
+SamuelGibbs
+SamuelGibbs Technology Editor
+Today I’d like to introduce you to an-
+other student friendly free service that
+helps you keep your bookmarks, pass-
+words and other things in sync across
+multiple computers, browsers and
+operating systems. Now this doesn’t
+sound all that exciting but if you’ve
+ever used a college computer and
+wished you had access to all the book-
+marks and passwords you’ve got stored
+on your home machine then Xmarks is
+for you.
+So what is Xmarks? Well it started as
+a plugin for Firefox called Foxmarks,
+which simply synced your bookmarks
+between Firefox browsers via cloud
+storage. Of course Firefox isn’t the
+only browser on the planet and so the
+company branched out to other brows-
+ers and other platforms including In-
+ternet Explorer and Safari on OSX
+and changed their name to Xmarks.
+Google’s Chrome on both OSX and
+Windows is also currently supported
+in a limited capacity through a new
+Xmarks alpha build and the Chrome
+dev channel, which leaves only Cami-
+no and Opera out of the major market
+players unaccounted for.
+Xmarks essentially gives you a sync
+service for all your bookmarks across
+multiple systems and browsers with
+one login. Bookmarks are synced
+seamlessly as well as logins and pass-
+words, if you use Firefox 3, for any and
+all sites that your browser happens to
+save. The client syncs the data in the
+background to the Xmarks servers
+with encryption to keep your logins
+safe on their servers and across the In-
+ternet. When you next logon to a com-
+puter Xmarks updates any changes you
+happen to have made, allowing you to
+continue where you left off, regardless
+of which computer or browser you
+happen to have in front of you.
+If you find yourself in front of a com-
+puter that you can’t install the sync
+client on then Xmarks also provides
+you with a handy online repository of
+all your bookmarks. Simply browse to
+Xmarks.com, which includes a mobile
+optimised site, and login to find all
+your bookmarks laid out for you. This
+is especially handy if you just want to
+show something to someone on their
+T
+he ethical issues involved in
+piracy have been in the news
+a lot over the last decade or
+so. As the music and film in-
+dustries tried to come to terms with an
+entirely new distribution format and a
+new generation grew up with Limewire
+and the Pirate Bay, conflicts sprouted
+everywhere as the industries attempt-
+ed to strong-arm the file-sharers, only
+to be met with stubborn resistance. At
+the end of the first decade of the 21st
+century, the dust has settled a fair bit.
+The Pirate Bay lost their court battle
+against the recording industry, several
+large torrent trackers were shut down
+(with the fate of many more uncertain)
+and Limewire (along with all the ad-
+ware that is bundled with it) has more
+or less been consigned to history.
+That said, it appears that the RIAA
+and the MPAA aren’t done yet. In a
+new piece of legislation that will come
+into force in the summer of 2011, per-
+sistent filesharers can be blocked from
+their internet connections as part of
+a “three strikes policy”. This, as the
+name suggests, is an American con-
+cept that coincidentally has previously
+only largely been used on murderers
+and rapists, never before on the aver-
+age spotty teenager. The implementa-
+tion of this law therefore, raises some
+interesting questions. Is your average
+music thief banned from using the
+internet for life? What if he moves
+house? What about the people who
+move into his old house? Can he work
+somewhere with access to internet or
+is this an all-encompassing burden he
+must carry with him to his grave? Most
+importantly, where is he to find quality
+Japanese tentacle porn?
+The obviously confused man be-
+hind this new law, Lord Mandelson,
+had shown little interest in piracy and
+copyright issues until he flew to Corfu
+for a meeting with Dreamworks’ co-
+founder David Geffen (Dreamworks
+being the studio that churns out me-
+diocre animated films that no one has
+ever really watched). Immediately af-
+ter his small trip, Lord Mandelson saw
+it fit to attempt to push this law into
+existence, all the while denying the two
+events were linked, in the same way
+that me setting fire to my carpets and
+my house burning down would not be
+linked.
+Aside from the political aspect of the
+law, there’s the issue of innocent users
+incorrectly being identified as illegal
+filesharers. The ISP TalkTalk, in a re-
+cent stunt, showed that roughly 34% of
+wireless connections in your average
+street have either little or no security at
+all. Wireless security hasn’t been able to
+keep up with the explosion in wireless
+internet; the average user probably has
+no idea about the differences between
+WPA and WEP, and probably doesn’t
+care. To cut these users off from the
+internet is rather like permanently ban-
+ning a supermarket just because there
+was a shootout in their parking lot. It
+makes no sense.
+Looking at the broader picture, one
+has to ask whether such laws are really
+required, and whether they add any-
+thing in the long term. The meteoric
+rise of Spotify has been a testament to
+the fact that financially viable free mu-
+sic distribution is possible. By pushing
+this new law forward as strongly as he
+is doing, Mandelson is taking away any
+incentive the recording companies have
+to innovate and giving filesharers an
+incentive to find smarter ways to beat
+the system, setting the stage for another
+round of long and bloody legal battles.
+As we drift along into 2010, it’s worth
+recalling a relatively small music shar-
+ing service that operated between June
+1999 and July 2001, Napster. Facing a
+massive set of lawsuits from big name
+record labels at the turn of the millen-
+nium, Napster declared bankruptcy
+and slipped into oblivion. Yet the prac-
+tice of filesharing wasn’t affected much
+as users simply moved on to different
+technologies. 10 years on, it appears
+that the film and recording industries
+have learnt little, if anything, from the
+past – and with laws being drawn up
+by politicians who apparently have no
+understanding of the underlying issues,
+there doesn’t seem to be an end in sight
+to the vicious cycle.
+SamuelGibbs
+SamuelGibbs Technology Editor computer without overwriting all their
+bookmarks and passwords.
+For students this means that you can
+carry your bookmarks for research,
+notes, articles and of course YouTube
+videos and time wasters (everyone
+needs a little break here and there
+right?) between home, college and an-
+ywhere else. I would have killed for this
+kind of service in my 1st year simply
+for research, let alone everything else.
+The kicker is that it’s totally free, no
+catch, no ads, just a great service and
+something everyone should be using.
+So what you waiting for? Head on
+over to www.xmarks.com to register
+and get your sync on.
+Xmarks the spot for free bookmark and password sync across multiple browsers
+finished testing of its new back end
+search architecture, nicknamed Goog-
+le Caffeinated, and will start rolling it
+out across its data centres in the near
+future. You won’t notice anything dif-
+ferent about the Google search page,
+but you might about your searches.
+Polls have shown that generally peo-
+ple think their searches are better with
+Google Caffeinated over regular old
+Google. Will your searches be better?
+I guess that will depend on your use of
+Google, but overall Google Caffeinated
+seems like a win for all. Whether you’ll
+notice however, is debatable.
+One of my favourite programs this
+week is going HD. The new series
+of Top Gear starts Sunday and is be-
+ing broadcast in both SD and HD.
+For those with Virgin, Sky or FreeSat
+it’ll surely make the rampaging chal-
+lenges and beautiful cars even more
+visceral. For those stuck with SD TV,
+you’ll probably be able to get it in HD
+on iPlayer, which shows quite a lot of
+programs these days in HD. After all,
+almost all programs recorded for TV
+are currently shot in HD only to be
+converted later to SD with a lot of im-
+age processing.
+Talking about TV, Channel 4 is run-
+ning a 3D week next week with vintage
+3D films and shows being shown in all
+their glory. Admittedly, the technology
+Channel 4 are using to broadcast in
+3D isn’t the most up-to-date but free’s
+free right? Derren Brown will feature
+and there’s also a greatest 3D moments
+from TV, film and music videos show.
+The highlight of the week, however,
+has to be the first ever broadcast of
+the Queen’s coronation in 3D, allow-
+ing views to step back in time and be
+in some small way, a part of it. Now I
+don’t know about you but I’m not that
+fussed about Derren Brown in 3D, but
+the royalist in me is pretty stoked about
+Queenie in 3D. Get on over to your near-
+est Sainsbury’s to get some funky glasses
+to watch C4’s 3D week while stocks last.
+

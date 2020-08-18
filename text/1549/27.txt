@@ -1,0 +1,260 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 31 MAY
+28
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+1
+Slitherlink
+Rules
+are
+as
+always:
+draw
+a
+single
+closed
+loop
+by
+vertically
+and
+horizontally
+joining
+the
+dots
+so
+that
+the
+numbered
+squares
+are
+surrounded
+by
+the
+corresponding
+number
+of
+lines.
+3
+3
+3
+3
+3 3
+3
+3
+3 3 3
+3
+3
+2 2
+2
+2
+2
+2
+2
+2
+2
+2 2
+2
+2
+2
+2
+2
+2
+2
+2 2
+2
+2
+2
+2
+2
+2 2
+2
+2 2
+2
+2
+2
+2
+2
+2
+2 2
+2
+2
+2
+2 2 2
+2
+0
+S
+p
+e
+c
+i
+a
+l
+Crossword
+Across
+1. Expressing adverse or disapproving
+judgements (8)
+5. Fish often sold in tins (6)
+10. Strong, robust, with sexual desire
+(5)
+11. Writing fluid (3)
+12. Amber coloured, protein rich liquid
+(5)
+13. Part of the circumference of a circle
+(3)
+14. Originating from a nearby country
+(5)
+16. Suitable (3)
+17. Mary-Kate and Ashley surname (5)
+18. A place to stay (3)
+19. Lacking on quantity or quality (6)
+20. Previously resided (5)
+22. Violent, uncontrollable anger (4)
+24. Game with pawns and knights (5)
+26. Wrongful deception for personal
+gain (5)
+28. Someone who attacks in search of
+‘booty’ (8)
+29. Roman goddess of the moon (4)
+30. 2012 film about a bear that comes
+to life (3)
+31. Spy, representative (5)
+32. Sea movements caused by the moon
+(5)
+33. Press lightly with absorbent material
+(3)
+34. Multiples of three feet (5)
+35. Be scattered over an area (6)
+Down
+1. Element with 20 protons (7)
+2. Initiate, bring on (9)
+3. Evergreen climbing plant (3)
+4. Creature (6)
+6. Leave hurriedly and secretly to avoid
+detection (7)
+7. Scores (5)
+8. Propose a candidate (8)
+9. Moving on ice, wheels or board (7)
+15. Back parts of feet (5)
+21. Well informed (8)
+22. Felt bitterness or indignation to-
+wards something or someone (8)
+23. Liquid waste discharged into a river
+or sea (8)
+24. A commercial business (7)
+25. Looked quickly but not thoroughly
+(7)
+27. Owe money, negative finances (2.4)
+Hashi
+Connect all the islands
+with vertical and hori-
+zontal non-intesecting
+bridges so that you can
+get from any island to
+any other one. There
+can be up to two bridg-
+es between any two
+islands. Each island in-
+dicates the number of
+bridges starting from
+it.
+FUCWIT
+League Table
+INDIVIDUALS
+Yufan Zhao 21
+Wael Aljeshi 14
+Gabriel Quek 3
+Solutions. Send ‘em.
+puzzles.felix@imperial.ac.uk.
+Last week’s solutions
+Sudoku with a twist
+Fill in the grid with numbers 1-9
+such that:
+a) Each row and column has each of
+the numbers only once
+b) Each bordered set of 9 squares
+also has the numbers 1-9 once
+solikeasudokubutastrangeshape!
+3 1
+5
+5 3
+2 7
+5 5 3
+4 3
+1
+7
+4 7 5
+2 3 3
+4 2
+1 1
+2 2 3
+2 5 3
+2 4
+4 1
+3 1
+4
+2 2
+              
+              
+              
+              
+               
+               
+               
+              
+              
+               
+                
+              
+              
+              
+              
+Too busy to send in answers?
+Take a revision break so we feel like we
+aren’t wasting our time here.
+3 4
+2 6 1
+1 9 8 2
+5 6
+2 1
+9 8
+8 3 4 6
+4 1 9
+5 7
+

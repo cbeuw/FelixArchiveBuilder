@@ -1,0 +1,321 @@
+SCIENCE
+FRIDAY, 5TH
+OCTOBER, 2018 FELIX
+science.felix@imperial.ac.uk
+15
+Zombie cells
+SCIENCE
+Lucy Rowlands
+Science Writer
+T
+he zombies are
+here, except
+turns out it’s on
+a cellular scale,
+so stop boarding up your
+windows and pick up
+that microscope! In new
+research from Dr Baker at
+the Mayo Clinic, scientists
+found that removing se-
+nescent cells, also known
+as ‘zombie’ cells, reduced
+symptoms associated with
+age related degenerative
+diseases.
+Senescent cells are
+unable to perform the
+functions of a normal
+cell but are unable to
+die, meaning that they
+build up over time and
+are associated with a
+number of age-related
+diseases including ather-
+osclerosis, osteoarthritis
+and Alzheimer’s. It had
+been thought that these
+were simply innocent by-
+standers that do not cause
+damage, however recent
+work has suggested that
+they release inflammatory
+signals, which disturb the
+surrounding cells.
+Scientists found that
+when they cleared se-
+nescent cells in the mice
+brains, using a genetically
+modified enzyme, the
+mice retained the ability to
+form new memories and
+showed reduced outward
+signs of cognitive decline.
+They were also able to
+identify that two types of
+brain cells, ‘microglia’
+and ‘astrocytes’, were the
+types that became senes-
+cent. These are immune
+cells linked to neuronal
+health and signalling.
+This is one of the first
+pieces of evidence that
+senescent cells play a
+role in neurodegenerative
+diseases and opens po-
+tential new avenues for
+treatment. The scientist,
+in this study, also used
+drugs that have been
+shown to damage senes-
+cent cells to see if the
+drugs had a similar effect
+to the enzyme. When the
+drug was administered
+for the first six months
+of the mouse’s life, their
+brains had fewer tangles
+of a protein called tau,
+a marker of cognitive
+decline.
+Whilst these findings
+are promising, a cure
+for neurodegenerative
+diseases isn’t quite on
+the horizon yet. The
+approach taken in these
+experiments represents
+the best-case scenario
+and would be difficult to
+apply clinically as it was
+a preventative measure.
+Also, targeted treatments
+can be difficult, as older
+people tend to have lots of
+cells that look like these
+harmful senescent cells,
+and so it remains to be
+seen if a treatment can
+distinguish between the
+two.
+In the future, Dr Baker
+and his team will focus
+on treating animals after
+the disease has started,
+looking at specific alter-
+ations that happen on a
+molecular scale in the
+cells they identify.
+Bacteria in poop: the key to losing weight?
+S
+ummer is offi-
+cially over and,
+temporarily, we
+don’t need our
+summer bodies. However,
+losing weight is not just
+about looking nice on
+sandy beaches; obesity is
+one of the key risk factors
+that causes cardiovascular
+disease and other chronic
+diseases.
+Obesity is a multi-facet
+condition: genetics,
+activity level and diet all
+contribute. Solutions to
+this issue are obviously to
+exercise and eat healthily.
+On the extreme side,
+surgery is also an option.
+However, associated risks
+can be severe, and there-
+fore only morbidly obese
+individuals are offered
+this treatment in the UK.
+Recently, the role of the
+immune system in obesity
+has also been investigated.
+There are many different
+populations of micro-
+organisms living in our
+digestive tracts, known as
+gut flora. The relationship
+between gut flora and us
+can be beneficial; some
+help us digest dietary fibre
+in vegetables, breaking it
+down so we can absorb
+it. Gut flora also produce
+vitamin B and K for us
+and prevent the growth of
+harmful organisms.
+Nevertheless, like a
+well-organised company,
+this beneficial effect only
+works with a specific
+population of flora. In
+a company, we need
+a certain number of
+employees, each with
+different talents and roles.
+That way, the company
+can efficiently carry out
+its daily routine. If most of
+the employees decided to
+quit one day, the company
+would face crisis and less
+ideal candidates may be
+hired to keep the company
+going.
+Antibiotics, like an
+economic crisis to our
+imaginary company, can
+wipe out the good bacteria
+and affect the host’s
+ability to digest food. The
+absence of these florae
+may also fail to stop
+pathogens from growing,
+leading to diarrhoea. Fur-
+thermore, it has also been
+shown that people who are
+obese have a different gut
+flora profile. While it is
+unclear whether the shift
+in gut flora population
+causes obesity or the other
+way around, there is cer-
+tainly a clear association
+between the two.
+The shift in gut flora
+profile activates the
+immune system, exac-
+erbating the situation
+and increases the risk of
+cancer and autoimmune
+diseases. A research group
+in the University of North
+Carolina has tried to
+manipulate the immune
+system in mice to inves-
+tigate its effect in obesity.
+They suspected that
+high-fat diet induces the
+imbalance of the delicate
+gut flora ecosystem by
+increasing inflammatory
+response in the body.
+NLRP12, a leucine-rich
+repeating protein (NLRP),
+is a mediator of the
+immune system and
+promotes the resolution
+of inflammation. None-
+theless, its role in obesity
+is unknown in reality. To
+investigate, the research-
+ers hypothesised NLRP12
+can reduce weight gain
+by damping down the
+immune system and
+reducing inflammation
+to the gut and fat tissue
+whilst the removal of this
+protein would have the
+opposite effect. Putting
+the theory to test, the
+scientists knocked out the
+gene coding for NLRP12,
+Senescent cells can lead to Alzheimer’s//Wikimedia
+so the mice didn’t have
+these receptors in their
+cells.
+As a result, these
+knockout animals were
+relatively fatter despite
+having the same diet and
+lifestyle as the control
+group. These mice were
+also less sensitive to
+insulin,makingthemmore
+susceptible to diabetes.
+The obese mice also had
+more immune cells in
+their fat tissue, with a very
+specific pro-inflammatory
+cell population (M1 mac-
+rophages). Elevated levels
+of pro-inflammatory cell
+signalling molecules, like
+TNF (tumour necrosis
+factor) and IL-6 (interleu-
+kin-6), which are released
+from the fat tissue, were
+also found in the obese
+mice.
+Furthermore, analysing
+the gut microbiome in
+the mice, they found that
+mice with a high-fat diet
+and NLRP12 knockout
+had a lower bacterial
+diversity in the intestine,
+correlating to inflamma-
+tion and obesity. Faecal
+transplants from obese
+mice to other mice also
+promote weight gain
+and putting normal and
+knockout mice together
+in one cage can reduce
+obesity in the knockouts
+by coprophagic-transfer
+of microorganisms
+(poop-eating). Upon
+analysing the popula-
+tion, the researchers
+also identified families
+of bacteria that are more
+predominant in obese
+mice, namely, the Erysip-
+elotrichaceae promotes
+weight gain. Contrarily,
+the Lachnospiraceae
+family seemingly has
+a beneficial effect on
+weight loss.
+While faecal trans-
+plant seems unhygienic
+anddifficulttoimplement
+in humans, chemical
+products that the good
+bacteria produce could
+potentially be packaged
+as supplements to treat
+diabetes and obesity.
+Though more experi-
+mental data is required
+to verify the beneficial
+bacterial population, this
+strategy is certainly a rel-
+atively inexpensive and
+easy (in terms of lifestyle
+changes) solution.
+“The shift
+in gut flora
+profile
+increases
+the risk of
+cancer and
+autoimmune
+disease.”
+SCIENCE
+Sarah Wong
+Science Writer
+“Obese
+people have a
+different gut
+flora profile.”
+

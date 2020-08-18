@@ -1,0 +1,163 @@
+14 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+05.12.2014
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Keith Barnham, Professor of Solid State Physics and inventor of the world's most efficient
+solar cell. Photo:Keith Barnham
+James Bezer talks to Professor
+Keith Barnham about his vision
+for the future of solar energy
+You originally started your career
+in particle physics—why did you
+change to researching solar panels?
+I loved particle physics: I worked at
+CERN and Berkeley and it was very
+exciting at both places.
+When I joined Imperial, I
+spent much of my time at CERN.
+Collaborations were getting bigger
+and bigger and it hit me that I would
+have to spend more of my time in
+Geneva. We used to bring bubble
+chamber film back to Imperial for
+analysis, but as the beam experiments
+built up, you had to spend more of
+your time there. Did I want to keep
+commuting to Switzerland, instead of
+working and teaching at Imperial?
+And how useful was particle
+physics—it was fascinating, but what
+practical use is was it in a world with a
+lot of problems?
+Photovoltaics have historically
+been expensive and inefficient,
+but this has improved a lot in
+recent years. What technological
+advances have made this possible?
+It’s because of the fall in the cost of
+silicon, by around a factor of four.
+This wasn’t technical, though, but
+political. The Germans decided to
+stimulate demand with a feed-in
+tariff. They hoped this would build
+the market, causing mass production
+and a fall in price.
+That happened, but it was a big
+surprise that EU and US industries
+didn’t invest as much as the Chinese.
+They made a political decision to
+put money into big systems, initiate
+mass production: that’s where the
+drop in cost really came from, to the
+detriment of EU production and my
+own company.
+You group created the most
+efficient solar cells in the world.
+What was novel about your design?
+It’s very different technology to
+other photovoltaics. Ours is based on
+Gallium Arsenide semiconductors,
+which most resembles the technology
+in mobile phones. There’s at least
+one such chip in everyone’s mobile
+phone.
+First you have three cells grown
+on top of each other by the same
+techniques used to make LEDs. The
+three cells are arranged to make best
+use of the solar spectrum. The first
+has a very wide band gap, so it only
+absorbs high-energy blue-green light.
+Red and orange go through to the
+second cell where they are absorbed.
+Low-energy infra-red passes all the
+way down to the bottom layer.
+Each photon gets absorbed in
+the appropriate sub-cell. It’s the
+goldilocks principle: each cell is just
+right for the photons they absorb.
+The three cells are then put
+together in series: the voltage adds up,
+giving a very high efficiency of over
+40%.
+To make this very efficient, you
+want to optimize the band gap of each
+cell. Our technology, uniquely, uses
+quantum wells to adjust the band
+gap, by changing their depth. 50 of
+them in our photovoltaics enables us
+to adjust the band gap and optimize
+highly efficient cells for different
+spectral conditions. It’s the same
+principle behind all lasers: that’s
+how you make them emit different
+colours.
+Currently, solar cells are often
+used in deserts, where there’s plenty
+of sunlight. The spectrum in the UK
+is very different from in the desert,
+though: we have a redder sun, more
+cloud and diffuse blue light. In the
+future we could generate electricity
+using smart windows by putting
+photovoltaics on blinds. This would
+have a different light spectrum again,
+that we could optimize our cells to.
+Ultimately it could be used with
+lenses to concentrate light onto
+the system, and with high enough
+concentration, our technology could
+be even cheaper than conventional
+Chinese-made silicon devices.
+With quantum wells, we can
+optimize the cell for different
+spectral conditions.
+The whole idea is just solving the
+Schrodinger equation for a square
+well: the first, simplest quantum
+mechanics problem we teach
+to physics students and here’s a
+practical application of it. What I
+really like about it is that the simplest
+part of quantum mechanics has
+practical applications in solving
+global warming.
+How do your cells compare to
+other technologies like plastic
+electronics?
+I would say they’re complimentary.
+They’re all great areas that should be
+researched. Ours offers three times
+the energy for the same area of cells.
+That doesn’t matter in the desert
+because space is cheap. However,
+it could be useful in applications
+like replacing petrol in cars, where
+getting three times the energy for the
+same area is very useful. Technology
+similar to ours with high efficiency
+and a 25 year lifetime has proved
+itself in satellites, for example, where
+“If we could produce
+our own, free, solar
+fuel on our rooftops,
+we could use it in fuel
+cells to power cars.
+You’d have free mileage
+for life.”
+"How useful
+was particle
+physics in a
+world with
+a lot of
+problems?"
+"It’s the
+goldilocks
+principle:
+each cell is
+just right
+for the
+photons it
+absorbs."
+

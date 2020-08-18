@@ -1,0 +1,188 @@
+COMMENT
+Comment Editors: George Barnett,
+Navid Nabijou, James Simpson
+comment.felix@imperial.ac.uk
+FRIDAY 07 DECEMBER
+44
+Christopher Kaye
+Democracy and the law
+omen are safer
+drivers. That is
+a fact backed up
+by overwhelm-
+ing statistical
+evidence. By being male I pay more
+for my car insurance.
+Surely, then, I should welcome the
+fact that, as of 21st December, ‘gender
+discrimination’ in the insurance in-
+dustry is to be banned?
+No, I don’t welcome it at all. In part
+because it would be very hypocriti-
+cal for me to criticise the self-styled
+‘equality’ movement when it tries to
+censor Felix, only to then keep quiet
+on the rare occasions it beneﬁts me.
+But there’s a greater principle at stake
+here: democratic legitimacy.
+On a concept as controversial as
+this, you would think that Parliament
+would’ve spent months debating such
+a bill; ping-ponging its way between
+Commons and Lords until ﬁnally, af-
+ter many late evenings, the enacting
+scrawl ‘Elizabeth R’ turns the bill into
+an Act. But no. On this issue, none of
+that has happened.
+You see, this ban on ‘discrimination’
+is not something our elected MPs have
+decided to introduce. In fact, the UK
+Government is ﬁrmly against it. It
+W
+The EU’s implementation of “equality” legislation is undermining
+national democracy, argues, Christopher Kaye
+wasn’t even the European Parliament
+(who, in theory at least, is vaguely ac-
+countable) who nodded it through.
+Instead it was the European Court of
+Justice who in March 2011 decided to
+amend European Directive 2004/113/
+EC because its provisions speciﬁcally
+allowing gender-sensitive pricing was
+“incompatible with the principle of
+equal treatment in EU law”. That is
+despite the fact such a derogation was
+explicitly included in the original Di-
+rective!
+Now, last time I checked, the ECJ
+was not elected by anyone. Call me
+old-fashioned, but I always assumed
+that it was a judiciary’s job to uphold
+law; what the law actually says. Not
+what they think the law should say.
+Because the UK is a member of the
+EU, we are obliged to implement EU
+Directives whether we like them or
+not. Our Government didn’t like this
+amended Directive. Among other
+things, HM Treasury pointed out that
+female drivers would be eﬀectively
+subsidising male drivers, also incenti-
+vising the purchase of higher risk cars
+by men.
+In addition to motoring, life insur-
+ance will also become more expensive
+as fewer women (who have longer life
+expectancies) can aﬀord to buy it, thus
+increasing the risk-pool for the insur-
+ance company.
+Despite their sensible opposition,
+the UK Government still ultimately
+bent over and took it. We will soon
+ﬁnd out whether Parliament will also
+bend over and accept Votes for Pris-
+oners too. Whatever your view on
+these issues, you have to ask: Where
+is the scrutiny?
+Personally I would be against such
+meddling regardless of who intro-
+duced it. But at least if it was our
+Government, I could use my vote to
+show them the error of their ways at
+the next election. Sadly, as long as EU
+law is supreme over national law, with
+Euro-judges making up laws on the
+spot, there’s bugger all we can do.
+Online
+In response to “Pick-up artistry & arseholery”, 30th November:
+I believe this article is clear sexism against men, there is so much
+hate into it. I believe that when there is a problem it is always more
+than one’s fault. So girls that fall from this ‘’tricks’’ (as you suppose)
+should actually wake up as well. Maybe guys should create a Guys
+Society (there is a Feminist society) so that they ﬁght against sexist
+articles like these one. (Feminist Society=Sexism Source). My point:
+The answer to sexism is not sexism!
+- Anonymous
+Anonymous, I’m sorry, but no: it’s really not, and I agree with you
+entirely that sexism shouldn’t be fought with further sexism. De-
+spite what you may think, feminism ﬁghts against sexism towards
+men too, and we don’t condone articles like this. That said, I don’t
+think this is anywhere near as problematic as PUAs themselves
+who literally believe in manipulating women into sex.
+- Keir Little
+I got stalked by a fat girl back at school and she didn’t leave me
+alone till I stomped on a Frube and it went all over her. If you can’t
+understand that the guy at the union wearing a stupid hat who
+claims to be in IBD at Goldman and a adult ﬁlm star is lying you
+deserve what’s coming your way. Seriously who cares?. With all the
+articles about female right recently in Felix I think it’d be better
+managed by Rupert Murdoch.
+- Annoyed Penguin
+This article is awesome. Some nerdy loser tried this on me in the
+union once. He was so conﬁdent, until he asked to read my palm
+and I realised what was going on. The second I said “OMG you
+are NOT just trying the game on me?!” His face dropped and his
+entire conﬁdence-act vanished completely. I’m not even angry at
+the guys whose self-esteem is so low that they feel their only way of
+getting women to sleep with them is by insulting them and lying. I
+just have one piece of advice for guys who think tehre is any value
+in this: The ultimate path to being alone forever is building all
+your social interaction “skills” with women on lies an manipula-
+tions, so I suggest you think about what’s more important to you
+in the long run.
+I also personally think that this kind of behaviour completely
+objectifies women, and that is an insult to every single girl, espe-
+cially within Imperial. We all have brains, that’s why we’re here...
+- Anonymous II
+Annoyed Penguin, well, you’re clearly a charmer. Here’s why it mat-
+ters: Imperial has a terrible reputation for sexism. This is so well
+known now that it’s now known by other universities around Lon-
+don. This is not to say that other universities don’t have their own
+problems with sexism (they do), but at IC it is blatant. It prevents
+women from doing what they want or need. It’s embarrassing and
+limits the university’s outlook. You are also aﬀected by it and it
+sways opinions about whether people should go there for under-
+graduate and postgraduate study.
+- Old Boy IC Graduate
+Imperial only has a terrible reputation for sexism because no-one
+will shut the fuck up about it. I seriously can’t be the only one who
+opens comment, sees the sexism article of the week (because there
+is -always- one) and goes “Oh for FUCK’S sake...
+”
+- Park Jae-sang
+---
+In response to “Clubs with Wordpress sites need to upgrade or
+be hacked... intense”, 30th November:
+It’s too easy to hide behind the whole ‘OMG USE SSL’ thing, just
+because one of the Ss stands for “secure”. Most browsers won’t
+warn about iframes or cross-domain AJAX requests, particu-
+larly if the user has ticked the “don’t warn me again” box. It’s
+no substitute for writing secure code, and I would have thought
+that Wordpress, as an open source community-reviewed pro-
+ject, would be far more resilient to attack than some contributed
+code by Imperial students. I have seen code written by the cur-
+rent Union President and ex-Sysadmin that has made me feel
+physically sick. I say you force everyone to use PDO prepared
+statements.
+- Careful
+I’m not using SSL as some form of silver bullet that will magically
+solve all these issues, it’s part of a number of things I am doing.
+Don’t worry! I’m not going to sit in my chair and relax now! An
+added beneﬁt of mandating SSL will hopefully be realised once
+I get the necessary approval from the powers that be, but you’ll
+hopefully ﬁnd out about that one soon.
+- Philip Kent
+---
+In response to “Sexism and science”, 23rd November:
+Warning: word “sexism” detected! Brace for impact of 9000-mega-
+ton rage bomb
+- Anonymous
+evi
+for
+S
+fact
+disc
+Well, she’s not
+getting insurance
+driving like that
+

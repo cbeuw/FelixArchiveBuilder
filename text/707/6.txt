@@ -1,0 +1,64 @@
+CFELIX;
+Tinker
+Here is another of my favourite puzzles which I have saved until
+last.
+As most of us know, the only socially acceptable way of
+eating Rech Tai biscuits is to dunk them in coffee and then
+nibble at the soggy bits. If, then, we have a full cup of coffee of
+diameter D, what is the largest circular biscuit which may be
+completely eaten, with just four dunks into the coffee?
+The puzzle in its original form (from Jeremy Smith) used just
+three dunks but required extra constraints to prevent a trivial
+solution. There are many different stategies for the four dunk:
+problem but in this one the most interesting method does give
+tbe largest biscuit diameter.
+I used the following recursion formula to check the solution
+was the best of all the methods, but you can solve the problem
+without it by generalising the arguments used in the three dunk
+problem.
+Solutions to me by Monday 17 June.
+There have been no offers to take over the column from me
+and if no one comes forward it will have to fold, which would be
+a shame. If anyone had thought of taking over they need not be
+interested in the sort of puzzles I have used, indeed a totally
+different line would probably make a good change.
+Assistant Sub-Warden
+Selkirk Hall
+Applications are invited for the post of
+Assistant Sub-Warden in Selkirk Hall for
+the academic year 1985-86. The function
+of the Assistant Sub-Warden is to help the
+Warden and Sub-Warden with the
+organisation and social life of the Hall.
+Selkirk Hall consists of approximately 48
+male and 24 female residents and is
+situated in Southside, Princes Gardens. It
+is expected that the successful applicant
+will be a postgraduate student. A rent-free
+study-bedroom is provoided.
+Applications comprising a CV and the
+names of two College referees should be
+sent to:-
+The Warden, Dr M H R Hutchinson
+by 17 June.
+Fancy Dress
+Party
+Thursday 13 June
+9.00pm to 1.30am
+JCR
+£1.50
+RSM/IF
+Day trip to
+Boulogne
+Sat 15 June
+Celebrate end of
+Exams
+Coach door to
+door
+Only £19.50
+less Subsidy
+See Mark Masento
+Biochem Room 103
+Ext 4114
+6 Friday 7 June 1985 FEUX
+

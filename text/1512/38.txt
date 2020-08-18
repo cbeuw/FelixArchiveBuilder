@@ -1,0 +1,165 @@
+Felix Sports League
+...where do you stand?
+5 points for a win | 2 points for a draw | -4 points for a loss
+IC Archery
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1152 741 36 5.00
+2 Rugby W1 2 2 0 0 77 0 -20 5.00
+3 Tennis M1 4 4 0 0 38 10 -232 5.00
+4 Tennis W1 5 5 0 0 56 4 -18 5.00
+5 Ultimate Frisbee 1st 3 3 0 0 45 9 -20 5.00
+6 Hockey W1 10 9 1 0 39 3 5 4.70
+7 Rugby M1 10 9 0 1 242 149 -103 4.10
+8 Fencing M1 9 8 0 1 1075 847 28 4.00
+9 Badminton M1 9 7 1 1 59 13 0 3.67
+10 ICSM Hockey W2 6 5 0 1 29 5 -2 3.50
+11 Table Tennis W1 5 4 0 1 19 6 -124 3.20
+12 Badminton W1 10 5 4 1 49 36 0 2.90
+13 Fencing W2 8 6 0 2 699 647 93 2.75
+14 ICSM Badminton W1 4 3 0 1 18 14 0 2.75
+15 Netball W1 8 5 0 1 334 252 -9 2.63
+16 Squash W1 5 3 1 1 11 9 -12 2.60
+17 Tennis M2 6 3 2 1 40 32 -64 2.50
+18 Lacrosse W1 7 5 0 2 101 37 -3 2.43
+19 Hockey M2 9 5 2 2 27 22 2 2.33
+20 Basketball M1 10 7 0 3 662 583 0 2.30
+21 Fencing M2 9 6 0 3 1078 908 52 2.00
+22 ICSM Hockey W1 4 2 1 1 23 9 -12 2.00
+23 Football M3 8 5 0 3 15 15 24 1.63
+24 Lacrosse M1 5 4 0 3 71 36 -9 1.60
+25 Football M1 9 4 2 3 15 14 228 1.33
+26 ICSM Badminton M2 4 1 2 1 15 17 14 1.25
+27 ICSM Football M2 7 4 0 3 15 12 -2 1.14
+28 Basketball W1 9 5 0 4 505 404 77 1.00
+29 Football M2 8 3 2 3 20 22 46 0.88
+30 Badminton M2 8 4 0 4 22 34 0 0.50
+31 ICSM Football M1 2 1 0 1 4 6 1 0.50
+32 ICSM Netball W1 2 1 0 1 82 72 2 0.50
+33 ICSM Netball W2 2 1 0 1 52 50 -3 0.50
+34 ICSM Netball W4 2 1 0 1 47 50 -40 0.50
+35 ICSM Rugby M3 4 2 0 2 88 90 28 0.50
+36 Rugby M2 10 5 0 5 92 132 -6 0.50
+37 Squash M3 6 3 0 3 10 19 -77 0.50
+38 Table Tennis M2 6 3 0 3 53 49 -37 0.50
+39 Hockey W2 8 3 1 4 10 32 79 0.13
+40 Netball W3 9 4 0 5 185 157 -52 0.00
+41 Futsal M1 7 3 0 4 31 40 13 -0.14
+42 Golf Mixed 1st 6 1 1 2 7 10 4 -0.17
+43 Table Tennis M1 5 2 0 3 38 47 -12 -0.40
+44 Futsal W1 3 1 0 2 2 11 52 -1.00
+45 ICSM Badminton M1 3 1 0 2 10 14 170 -1.00
+46 ICSM Rugby M1 3 1 0 2 52 104 4 -1.00
+47 ICSM Rugby M2 3 1 0 2 32 135 -22 -1.00
+48 Lacrosse W2 3 1 0 2 15 21 -9 -1.00
+49 Football W1 7 2 0 5 4 43 13 -1.43
+50 Rugby M3 10 2 0 8 100 120 -39 -2.20
+51 Squash M1 5 1 0 4 3 22 -19 -2.20
+52 ICSM Netball W5 4 0 1 3 25 185 -9 -2.50
+53 Netball W2 6 1 0 5 123 200 -4 -2.50
+54 Squash M2 6 1 0 5 11 18 -160 -2.50
+55 Squash M4 6 1 0 5 3 15 -7 -2.50
+56 Hockey M3 7 1 0 6 8 20 8 -2.71
+57 Hockey M1 10 1 0 9 9 46 82 -3.10
+58 Basketball M2 3 0 0 3 142 266 411 -4.00
+59 Fencing M3 5 0 0 5 424 656 36 -4.00
+60 Hockey M4 9 0 0 9 3 67 64 -4.00
+61 ICSM Basketball M1 1 0 0 1 46 64 35 -4.00
+62 ICSM Hockey M1 3 0 0 3 6 26 3 -4.00
+63 ICSM Hockey M2 3 0 0 3 3 19 101 -4.00
+64 ICSM Hockey M3 1 0 0 1 0 3 -2 -4.00
+Archery at BUCS Championships
+Archery
+Stephen Wood
+Last weekend Imperial’s Archery Club trav-
+elled to Telford for the 2011-2012 BUCS
+indoor championships. This event is the most
+popular student archery competition on the
+calendar and this year was no exception with a
+new record of over 520 entrants descending on
+the Telford International Centre.
+Despite the early start of 8:15am, all 14 mem-
+bers travelling to the competition were in good
+spirit and looking forward to the day ahead.
+Normally, whenever theArchery Club travels
+we get quizzical looks from passers by because
+of our large unwieldy bags with long arrow
+tubes sticking out of them. This year however,
+after the walk from the station to the Interna-
+tional Centre in the pouring rain, the team was
+greeted by the the MCM Expo happening at the
+same time in the other hall at the centre.
+The first session of the day was running late,
+so this gave a good distraction for those with
+cameras, and the entire team was (perhaps too)
+excited to see at least 7 people in Stormtrooper
+outfits.
+At least we all seemed fairly normal.
+The standard indoor round for student ar-
+chery competitions (termed a Portsmouth)
+involves shooting 60 arrows towards a 60cm
+diameter target face at a distance of 20 yards
+(18m), giving a maximum possible score of
+600. At BUCS indoors, each archer is given 2
+minutes to shoot the 3 arrows of an end. These
+are then scored and totalled, the whole process
+being repeated 20 times.
+Hannah Beasley-Suffolk, a first year bio-
+chemist, took the gold medal in the ladies se-
+nior recurve category, fending off the challeng-
+es from archers of Edinburgh, Birmingham and
+Nottingham universities.
+SPORT
+FELIX
+Friday 24 february 2012
+38
+Web: www3.imperial.ac.uk/sports
+Facebook: Search ‘Sport Imperial’
+Twitter: @SportImperial
+sport.felix@imperial.ac.uk
+Sport Editor: Indy Leclercq
+The winning score of 573 with 60 hits and
+35 golds was a full 7 points clear of the nearest
+challengers. Her round was exciting too; there
+was a nerve racking moment when Hannah
+didn’t realise it was her turn to shoot, resulting
+in having to shoot 3 arrows in just 40 seconds.
+Thankfully records officer Adam Holliday re-
+alised this, saved the day and Hannah was still
+able to put in a 10-9-9 end!
+There was yet more drama at this year’s in-
+door championships for the Imperial team than
+ever before.
+An unfortunate moment of tiredness for
+equipments officer Richard Yim meant that he
+was unable to shoot his third arrow within the
+time limit, which resulted in a zero scored for
+that arrow.
+Captain Jonathan Hutt also managed a mo-
+ment of panic when he reached the target and
+thought he had only shot two arrows in one end.
+The crisis was averted when he realised that it
+was just a soft part of the target and his arrow
+had passed nearly all the way through!Despite
+the drama that occurred throughout the shoot,
+both team scores were also good.
+The senior team (Hannah Beasley-Suffolk,
+Richard Yim, Jonathan Hutt and Stephen
+Wood) came 9th out of 43 with a cumulative
+score of 2183 and the novice team (Ben Hou,
+Yun Shi and Cassie Epps) came 20th out of 36
+with a score of 1270.
+All in all it was a fun and eventful day, and
+the club is now looking forward to several open
+competitions in the next few weeks, as well as
+the British University Team Championships
+(BUTC) taking place in Coventry on Saturday
+10th March.
+Later in the year we also have the BUCS
+outdoor championships; this is always a good
+weekend spent outdoors camping and shooting
+and we are again hopeful of good results.
+Like Legolas, but without the pointy
+ears
+Don’t mess with them – those smiling faces hide some deadly marksmanship
+IC Archery
+

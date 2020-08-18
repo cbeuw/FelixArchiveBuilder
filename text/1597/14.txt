@@ -1,0 +1,184 @@
+14 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+13.02.2015
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Making light work of ammonia
+Ammonia is crucial for producing fertilisers. Photo: Wikimedia Commons
+Andrew Crawford on an eco-friendly way to make fertilisers
+Resveratrol: hope or hype?
+Resveratrol is a protective compound produced by
+plants when they are under stress. It is mostly found in
+black grapes (and thus red wine) but it is also found in
+foods such as blueberries,raspberries,dark chocolate
+and peanuts.
+Resveratrol is an antioxidant,a compound that
+prevents the formation of free radicals in the body,
+which have been linked to cancer. Its potential health
+effects have made it the subject of a huge amount of
+research in recent years,with many studies on cells and
+in animals showing promising findings.
+In vitro,it has been observed that it suppresses the
+proliferation of tumour cells,by penetrating the cell and
+helps DNA repair from free-radical damage that may
+otherwise lead to a tumour.It has been found to inhibit
+the formation of inflammatory factors and reduce
+cholesterol levels,suggesting it could have a role in
+preventing heart disease.
+These potential benefits have led some to suggest the
+consumption of red wine may be behind the“French-
+Paradox”: how French people have low incidence of
+cardiovascular diseases while consuming large amounts
+of saturated fats. Red wine,though,contains far lower
+concentrations of resveratrol than have been given to
+human volunteers in some small-scale clinical trials.
+And what should also not be neglected is that most of
+the trials for the beneficial effects for resveratrol have
+been tested mostly in animals,and the experimentation
+in humans is limited.
+Unfortunately,resveratrol may not be as perfect as
+considered,since resveratrol supplements have been
+found to cause pancreas abnormalities in fetuses when
+consumed by pregnant monkeys,in experimental trials.
+And also despite all these potential benefits,this does
+not mean that drinking excess red wine can offer these
+health effects.As the ancient Greeks said“pan metron
+ariston”,meaning all in moderation,we should not
+forget that red wine contains alcohol so can cause liver
+disease and also increase the risk for heart disease.
+NEFELI MARIA SKOUFU PAPOUTSAKI
+"Making
+ammonia
+uses nearly
+2% of global
+energy
+supply."
+"Fertilisers,
+as well as
+plants,
+could be
+derived
+from energy
+from the
+sun."
+Every nitrogen atom in every
+chemical used by people
+originates from nitrogen
+gas (N2
+) in the atmosphere, and
+this plethora of different uses is
+all accessed from one molecule:
+ammonia.
+The production of ammonia
+from N2
+is a fundamental chemical
+transformation called nitrogen
+fixation. Plants need nitrogen to
+grow, and the major anthropogenic
+use of ammonia is to produce the
+fertilisers essential to boosting crop
+yields, in order to feed the world’s
+growing population.
+As well as being important,
+nitrogen fixation is also extremely
+difficult, because N2
+is very, very
+unreactive. In N2
+the two nitrogen
+atoms are connected by a strong triple
+bond, which must be broken to form
+ammonia.
+Unlike other molecules with triple
+bonds, it is the very first stage of
+breaking the N2
+triple bond which is
+the hardest part, limiting the possible
+approaches significantly. In fact, N2
+is so stubbornly unreactive in almost
+every measurable way it is used as
+an inert gas in food preservation,
+incandescent light bulbs, and aviation
+fuel tanks.
+Consequently, all current nitrogen
+fixation happens with a huge energy
+cost. Man-made ammonia via the
+Haber-Bosch process uses massive
+temperatures and pressures (400o
+C
+and 250 atmospheres) to drive the
+reaction. This one process uses nearly
+2% of the entire global energy supply.
+In nature, enzymes called
+nitrogenases have evolved over
+billions of years to catalyse the
+conversion at ambient temperature
+and pressure. This sounds better, but
+still needs a vast amount of energy (in
+the form of ATP) to work. A perfect
+nitrogen fixer would work efficiently
+at mild conditions, or be coupled
+to some plentiful renewable energy
+source, but has eluded all attempts at
+identification.
+A new development addressing
+this has recently been reported by
+Kanatzidis and co-workers, inspired
+by a ‘crazy idea’ and a biomimetic
+approach. They copied the mixture
+of elements doing the work in
+nitrogenase (iron, molybdenum and
+sulphur), and prepared a chalcogel;
+a high surface area network that
+models a ‘solid state’ nitrogenase.
+The clusters of atoms in the
+chalcogel strongly absorb light, and
+crucially, are able to absorb in the
+ultraviolet region. This causes high
+energy excitations in the clusters, and
+Kanatzidis found that this energy
+could be harnessed to break the N2
+bond, leading to ammonia formation.
+There are a couple of really great
+things about this work. Firstly, the
+concept works extremely well from an
+energy point of view. A system which
+works at ambient conditions, and
+uses an abundant, renewable energy
+source to pay the high cost of splitting
+N2
+has a lot to be said for it.
+Secondly, the chalcogels did not
+lose their activity over time, a highly
+desirable property when designing
+a catalyst. The whole process also
+uses water as the solvent, making it
+greener than a ChemDraw logo.
+As well as these good things,
+however, there are also drawbacks.
+The N2
+splitting works well, but the
+actual ammonia formation uses
+sacrificial chemical sources of H+
+and e- (essential components of N2
+fixation), and is not as elegant as
+current routes.
+The real trouble, thougwh, is the
+rate of the process. At just about
+a thousand times slower than
+nitrogenase, this system would have
+difficulty delivering the 200,000,000
+tonnes of ammonia we use annually.
+The authors are confident
+that further work will deliver
+significant improvement in this area
+(improvement, in fact, they say has
+already started). So watch this space,
+and let this current report be an
+interesting proof of concept, en route
+to an appealing scenario where our
+fertilisers, as well as the plants, are
+derived from energy from the sun.
+DOI: abs/10.1021/ja512491v
+Found in grapes and other fruits, in vitro tests of resveratrol have
+shown positive effects on cell health. Photo: Wikimedia Commons
+

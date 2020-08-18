@@ -1,0 +1,150 @@
+felix
+to be a priority. You might choose to take the
+situation into your own hands to speed up the
+process. One way to do this is to temporarily
+change your computer’s MAC address to that
+of your console and then register the MAC in
+the normal way using your web browser. Please
+note that is probably against College ICT pol-
+icy and therefore I am too much of a pussy to
+actually recommend you do this.
+First, you’d need to work out the MAC ad-
+dress of your console. Connect your console to
+any networking port on your computer or lap-
+top and wait for it to aquire an address. Then,
+on Windows, open Network Connections and
+then the Status window for the port to which
+you connected the console, and click Details.
+The ‘Physical Address’ is the code you are
+looking for, and once you have it download
+the free MacMakeup tool from http://tinyurl.
+com/6b7b6. Follow the instructions on that site
+to change the MAC address of your Internet
+connection to the one of your console, and then
+proceed with registration in the normal way.
+Boom, you’re done! Don’t forget to change the
+MAC back after, though! Again, this might be
+against College policy and so you do it at your
+own risk.
+One even more illegal method would be just
+to use a router or share your computer’s inter-
+net connection, but this is even more explicitly
+against College policy so I shouldn’t even men-
+tion it. Oops, did I say that out loud?
+So now you’re online, all that remains is to
+load up your favourite game and blast away to
+your heart’s content. Enjoy!
+22
+GAMES
+FRIDAY 01 OCTOBER 2010
+Web Games
+Each week we’re going to bring you a selection of
+fresh, free and fun web games that you can play right
+away in your browser. Unless specifically mentioned
+to the contary you’re going to need the Adobe Flash
+Player plug-in which can be installed from http://get.
+adobe.com/flashplayer/.
+Dino Run
+pixeljam.com/dinorun
+Chat Noir
+In this 8-bit sidescroller, you control a tiny dinosaur
+trying to outrun and survive the oncoming apoca-
+lypse. Doomed stegosauruses, tar pits and smoul-
+dering craters block the path to freedom while eggs
+and even smaller critters provide tempting diversions
+for extra points. The adrenaline really kicks in, howev-
+er, when you get too far behind and the screen starts
+to flash red and black as a torrent of rocks and fire
+threatens to consume your unlucky dino.
+Even if you’ve played the game before, it’s worth re-
+visiting it again for the new multiplayer mode that
+allows racing up to four other players online. This
+mode adds a strong competitive element that height-
+ens the intensity of this already exciting game.
+The concept is deceptively simple: click the big dots
+to block the cat and stop it escaping off the screen.
+In reality though you will rarely taste success as the
+titular character dodges your attempts to surround it
+and disappears off the screen with a smug pattering
+of paws. To say this game is addictive is be an under-
+statement, as after the first few frustrating failures
+your one and only goal in life becomes to beat that
+damn cat no matter what it takes. Victory is sweet
+though despite the anti-climax the game gives you,
+so don’t let me put you off!
+Just arrived and already
+bored? Time to get online!
+Our easy guide to getting your console on College internet
+Simon Worthington
+You’ve arrived at your new university and
+you’re already stressed out. You’ve got to
+cope with Welcome Week events, meeting
+new people and the challenge of moving into
+your new halls, and what you really need is a
+quick game of Modern Halo Call Of Warfare 2
+Strike Deluxe to take the edge off! But, disas-
+ter! You can’t even connect to the lobby! How
+are you ever going to survive the year? Never
+fear Imperial noobs, for with our step-by-tiny-
+step guide you will have your console of choice
+online and ready to rock in no time.
+The first step is to understand the hoops you
+need to jump through in order to get yourself
+connected. Imperial internet is some of the fast-
+est around, but in order to use it your device
+must be registered in the College systems. Reg-
+istration is based on the MAC address of your
+device, which is a unique code that identifies
+your console or computer from all the others.
+The registration process ties this number to
+your College username, so College can provide
+and log access. So, all you need to do to get
+online is to register your MAC address. Easy!
+Well, nearly. Registration happens when you
+first try and browse to a web page, and is done
+through your browser. So for consoles with a
+web browser function the easiest way to per-
+form registration is with the console itself.
+However, this is a problem for consoles and
+other devices lacking a web browser function
+as the registration page will never be reached.
+One solution is to get Imperial’s ICT service
+to register your console for you. You can find
+all the information online at imperial.ac.uk/ict,
+and if you use the generic request form there is
+an option for “registering a device or computer
+for network access”. If you do take this route
+you’ll need to provide information about which
+network port your console is plugged into, your
+college username and CID and possibly any-
+thing else the technicians would like to know.
+While this is by far the recommended solu-
+tion, it can take some time especially during
+the start of term when lots of new things need
+setting up and configuring, and for some rea-
+son registering games consoles doesn’t seem
+This is actually how the Internet works.
+Have your say on this article at
+felixonline.co.uk
+Four new games to get hot for
+Batman: Arkham City
+Release Date: 2011
+For: PS3, Xbox 360, PC
+Portal 2
+Release Date: Feb 9, 2011
+For: PS3, Xbox 360, PC, Mac
+Professor Layton and the
+Unwound Future
+Release Date: Oct 22,
+2010. For: DS
+LittleBigPlanet 2
+Release Date: Nov 12, 2010.
+For: PS3
+tinyurl.com/chatnoir
+“Imperial internet is
+some of the fastest
+around, but in order to
+use it your device must
+be registered in the
+College systems”
+

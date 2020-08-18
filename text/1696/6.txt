@@ -1,0 +1,273 @@
+ISSUE 1696
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+9
+Bringing in a new era of healthcare data
+G
+DPR is in full
+effect, and
+t e c h n o l o g y
+companies are
+sweating to work out
+the appropriate strategy
+to comply with new
+regulations governing
+digital data. However,
+amidst this data frenzy
+around our web footprint,
+a new conversation
+around a different kind
+of data is taking place:
+healthcare data! Big data,
+AI, and analytics have
+made a buzz in all busi-
+ness sectors today. Their
+rising importance has
+also captivated leaders in
+medical technology.
+Medical science was
+once the science of ob-
+servation. Today, it is the
+science of data. More and
+more healthcare facilities
+are focused on collecting
+largesetsofdatafromtheir
+patients using a myriad of
+measurements, including
+genetic sequencing, whole
+body imaging, and metab-
+olomics, to name a few.
+This makes it possible to
+understand a patient’s test
+results in the context of
+the whole body, as well
+as observe and understand
+its progression over time,
+leading led improvements
+in both prognosis and di-
+agnosis of many diseases.
+The idea of systems
+medicine (personalised
+medicine) dates back to
+the days of the human
+genome project in the
+early ‘90s, where it was
+well understood that many
+diseases have a genetic
+basis. If we could read the
+entire genome of a person,
+then we can identify the
+genetic peculiarities in
+them, and understand the
+causes of the disease.
+Today, it is well
+accepted that genome
+alone is not the complete
+repository of everything
+which happens in the
+body. There has been
+rapid improvements in
+technologies which can
+quickly measure com-
+plementary properties
+like proteome, transcrip-
+tome, and metabolome
+alongside digitisation of
+medical records. These
+changes are driving a new
+era in the digitised foot-
+print of medical records.
+These technologies are
+currently still very expen-
+sive, though some of them
+are more widely used than
+others. The most prom-
+inent example of such a
+technology is Magnetic
+Resonance Imaging, a
+technique which can be
+used to measure metabo-
+lome.
+However, the cost of
+these devices is quickly
+reducing. The first human
+genome cost ~ $3 billion
+to sequence, but now the
+industry cost of sequenc-
+ing is down to $1000.
+Though the cost of genetic
+testing is still beyond
+the regular means of an
+average earning person,
+celebrities like Angelina
+Jolie have benefited from
+systems medicine by un-
+dergoing genetic testing
+for susceptibility to breast
+cancer and subsequent
+preventive surgery.
+Precision medicine has
+become the talk of the
+town in healthcare with
+every pharmaceutical
+giant investing heavily
+in it. The rise in data
+has brought the need for
+software, web pipelines,
+and databases to store the
+data, as well as new al-
+gorithmic based methods
+to analyse them. Google,
+Microsoft, and Apple
+have all started investing
+heavily in healthcare.
+Google, under its parent
+company, has developed
+a separate division named
+Verily, specialising in the
+medical sector. Micro-
+soft, with its ‘Microsoft
+in Health’ initiative, is
+partnering with healthcare
+experts to provide robust
+digital infrastructure for
+their data storage, trans-
+mission, and analysis.
+Apple, their longtime
+competitor, is also pro-
+viding similar services in
+the healthcare sector. This
+paradigm shift with the
+use of digital technology
+is making the medicine
+sector more accessible to
+patients. In an interview
+with Mckinsey, Dr. Eric
+Schadt, the founding
+director of the Icahn
+Institute for Genomics
+and Multiscale Biology,
+explained big data will
+play the leading role in
+providing personalised or
+precise medical solutions
+tailored to each patient.
+This will be a new era of
+medicine!
+Exam stress? Time to cure your fear of spiders
+I
+s the end of term
+getting you all
+stressed out? The
+latest research sug-
+gests now may also be
+the perfect time to tackle
+that fear of spiders…
+yes, you heard right –
+spiders! A new study
+from Professor Oliver
+Wolf at Ruhr-University
+Bochum has shown
+stress can increase ex-
+tinction learning, which
+unlinks two previously
+paired stimuli, and
+drives improvement in
+anxiety therapies.
+Extinction learning is a
+key component of expo-
+sure therapy, which aims
+to reduce anxiety related
+symptoms by helping the
+brain unlearn fear-related
+connections and develop
+new ‘safe’ networks. It is
+one of the leading strate-
+gies for treating anxiety,
+post-traumatic stress
+disorder, and other related
+conditions. The main
+problem with exposure
+therapy however, is that
+it is very dependent on
+the situation. This means
+that whilst the harmful
+connections may be easily
+generalisable, the new
+‘safe’connections are very
+context specific. Since
+a therapist’s office does
+not effectively mimic the
+original situation bringing
+about anxiety, there is an
+increased likelihood of a
+connection reforming, and
+the anxiety association
+returning.
+This study was based
+on the fact that many of
+these harmful connections
+can be formed when the
+body is subject to a lot
+of stress. Therefore, to
+increase the generalisabil-
+ity of extinction therapy,
+a mild artificial stress
+response was used. In the
+initial phases of the exper-
+iment, participants were
+subjected to a mild elec-
+tric shock when shown
+certain coloured light.
+This meant, understand-
+ably, that they displayed
+anxiety when shown the
+lights. Subsequently, one
+half of group put their
+hands in ice water for
+three minutes in order to
+provoke a stress response,
+while the other half put
+their hands in warm water.
+Both groups then under-
+went exposure therapy in a
+different location to where
+they had acquired the fear.
+Key differences emerged
+the next day, with the
+‘stressed group’ showing
+less relapse of anxiety
+when back in the original
+location. Previous results
+have shown that an injec-
+tion of the stress hormone
+cortisol can increase the
+effectiveness of anxiety
+treatment; however, this
+study provides important
+evidence of an underlying
+mechanism and demon-
+strated that it can also hold
+across different situations.
+Besides curing your
+deep fear of arachnids,
+this study has great im-
+plications in psychiatric
+medicine, with pharma-
+cological trials planned
+soon. Further work is
+planned by Professor
+Wolf’s group to determine
+if this stress response can
+be used to increase the
+effectiveness of exposure
+therapy.
+SCIENCE
+Varshit Dusad
+Science Writer
+SCIENCE
+Lucy Rowlands
+Science Writer
+Big data is coming to healthcare // CC
+Spider-haters look away now // Wikimedia
+

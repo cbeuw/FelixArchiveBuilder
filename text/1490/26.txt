@@ -1,0 +1,157 @@
+FELIX
+26
+GAMES
+Games Editor: Simon Worthington
+games.felix@imperial.ac.uk
+Friday 27 MAy 2011
+GAME
+What did you study at Imperial?
+I did the BSc in Physics from ‘97 to
+2000, although even then I was fiddling
+with computers a lot more than I was
+paying attention to my physics course,
+unfortunately.
+So you finished your BSc and then
+what happened?
+So then what happened was I ended up
+getting a job in a software company that
+made network management software for
+financial services companies. I didn’t go
+straight into the games industry at all,
+and that wasn’t what I was planning
+at all. I started out as a Sysadmin, but
+quickly discovered that programming
+could help me solve a lot of the prob-
+lems that I faced as a Sysadmin and I
+ended up actually heading the program-
+ming team at the place I worked.
+So your first job got you into pro-
+gramming, but how did you move
+from general programming into, spe-
+cifically, games?
+Well, actually I got a call from [co-
+founder of Media Molecule] Alex
+Evans, who has been a friend of mine
+for many years, saying that they were
+looking for a server programmer. For
+a while I was a little bit reluctant, be-
+cause I knew the games industry was
+famous for certain hours and practices
+and so on and I was quite comfortable
+in my financial services job. But, when
+Alex explained what they were making,
+and the whole concept behind LittleBig
+Planet, I just had to give it a try and just
+thought, ‘well, if I can do this then it’ll
+just be fantastic!’
+You mentioned that you initially had
+quite a lot of preconceptions that it
+was long hours and not necessarily
+good pay. Has your view changed?
+Do you still think it’s long hours and
+poor pay?
+We do sometimes work some long
+hours but we try to keep that to an abso-
+lute minimum. Really, we see that as a
+sign of poor planning, so it’s not some-
+thing that we build into the schedule. I
+have been pleasantly surprised by
+the [post-release] crunch: at
+least, with LittleBigPlanet 2
+I was pleasantly surprised
+by the crunch but with
+LittleBigPlanet we did
+have quite a nasty
+crunch period. I think it probably goes
+with the territory of smaller studios
+that there’s just less of everything and
+more to do. So overall, I think my view
+has changed in the sense that the better
+you manage your planning, and the bet-
+ter you manage your project, the more
+you’re able to deliver what you want to
+deliver in the time available. It’s a kind
+of discipline – to deliver great stuff in
+the time available rather than trying to
+squeeze ever more stuff into ever di-
+minishing time slots.
+So now you’re in the games industry,
+is it where you want to stay?
+That’s a very good question. I am re-
+ally interested in how technology can
+bring people together, and how technol-
+ogy can enable people to achieve things
+that they were not necessarily able to
+achieve before, or that they didn’t even
+know were possible to achieve. And so
+in that respect I would love to work in
+anything where game mechanics apply.
+Obviously, the first place to look for
+that is the games industry, but there are
+more applications of those kind of prob-
+lems. With this whole emerging trend of
+‘gameification’, I think a lot of people
+are looking to game mechanics now to
+inject a bit of dynamism into their prod-
+uct experiences. On the other hand, it’s
+not just about injecting dynamism, it’s
+about injecting joy - for me - and it’s got
+to be a genuine attempt to try and make
+people’s lives more enjoyable, or better,
+bring people together. So yes, the games
+industry is one example where that hap-
+pens a lot, and compared to a lot of the
+other IT-type professions, there’s a high
+incidence of that in games.
+Now, being a physicist, as I well
+know, although we do a bit
+of programming, it’s not
+really done very rig-
+orously. We do pro-
+gramming to “do
+stuff”, we don’t
+really look at the
+fundamentals. Do you feel that was
+something that hindered you, or do
+you think it’s not really an issue?
+No, I think the usual canard that’s used
+is: in computer science things are done
+rigorously and in industry programming
+is just used to solve problems, to “do
+stuff” as you said. In that sense, the kind
+of programming that I learnt during
+my physics degree was the same kind
+of level of pragmatism: just “get stuff
+done”. On the other hand, there are cer-
+tain things that happen in professional
+programming that don’t happen very
+much in either the sciences or in com-
+puter science. That’s things like how
+software teams work together as teams,
+how you plan stuff, how you deliver
+stuff on time, how you make sure that a
+build from three years ago is still build-
+able, if you check it out from source
+control - oh, did I mention, you should
+At Imperial’s very own
+games conference,
+Simon Worthington
+chats to two Imperial
+alumni who describe
+their experience in
+(and getting in) to the
+industry
+James Fairbairn
+from Media Molecule
+“It’s just great to
+have been there for
+LittleBigPlanet and
+to have gone through
+that whole process;
+really, it was an
+honour”
+GAMES AND MEDIA EVENT
+Left: Marc Hull of Frontier Developments (Kinectimals and RollerCoaster Tycoon). Right: James Fairbairn of Media Molecule (LittleBigPlanet)
+2011
+doc.ic.ac.uk/game/
+

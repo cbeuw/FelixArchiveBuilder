@@ -1,0 +1,138 @@
+Beyond Prison Architect
+Where did the name Introversion come
+from?
+We’d just learnt at university about Myers–Briggs’
+personality test. It’s basically a model to codify
+different personality types into one of 16 categories.
+Both Chris and I were intrigued that this was possible.
+Both of us, when we learnt about the personality test,
+had resonated quite a lot with the categories we ended
+up in.
+When Chris wrote the opening sequence for Uplink
+it flashed through all of the Myers–Briggs indicators,
+ending on introversion. We named the company when
+we wrote the business plan, and when we asked Chris
+what to call it he suggested Introversion Software.
+We thought it sounded pretty cool. Nowadays, we’d
+probably have to call ourselves something like “Bing
+Bang” or some fucking nonsense word, or put a monkey
+in it. Game Gibbon?
+With the financial success of Prison
+Architect, what’s next for Introversion?
+Are you looking to expand?
+No, we’re not going to expand. We like our size. Well,
+we’ll expand slowly at our own rate. We take interns
+from Imperial and we’ve had about three now. I’m
+trying to make that process, which in the past has been
+a bit ad hoc, more formal.
+This was the first year that we had advertised for an
+intern and we selected one recently who’s going to
+come and work for us. If our interns are very strong,
+and they want to work for us, there will probably
+be a place. That’s how we will expand, rather than
+aggressively thinking we need to hire loads of coders.
+Each game project has its own unique requirements.
+Because of the indie revolution, the ecosystem now is
+much richer than it once was. The guy who did all the
+art for Prison Architect, a very talented man called
+Ryan Sumo, had been the artist on Spacechem. Chris
+knew roughly what sort of talent he wanted for Prison
+Architect. Now Ryan lives in the Philippines but after
+a few emails and contracts, suddenly we had a world
+class artist working with us. Now that the game has
+come to an end, Ryan’s doing his next thing. That’s
+important because the next game from Introversion
+doesn’t require a 2D top-down art style.
+Short-term for Introversion we have Prison Architect
+coming out on Xbox One, Xbox 360, and PS4. We’re
+not doing that work yourself. I like to describe the team
+porting a game as like a car tuning company; they
+take a really well crafted core game experience on
+PC and turn it into an outstanding console experience.
+They rework every interface, the control mechanisms,
+fix annoying bugs, and add in support to make the
+progression a little more gentle for the console
+audience. They don’t dumb the game down; that’s
+wrong. They make the ramp into the game less steep
+than it is for the PC audience.
+We’ve got some other platforms in development
+but we want to move away from Prison Architect this
+year. Internally, we’re working on some new ideas that
+we’re going to be showing at Rezzed. With these new
+prototypes we want to do a market test and see which
+prototype players resonate with the most. We can then
+use that information to feed into what we’re doing for
+the rest of the year.
+Prison Architect is a simulator. What do
+you think makes a good simulator? How
+do you balance the complexity with a
+game actually simple and fun to play?
+Balance is the key word. There are a lot of factors
+that you have to get right. The player has to be able
+to understand action and consequence. That was
+something we always worked really hard on with
+Prison Architect.
+We could simulate everything but the player has to
+know why that prisoner just died. If it’s too covert then
+there’s no fun in that situation. There might be a degree
+of fun in trying to figure it out but you have to get the
+balance right.
+A really good example of this is the contraband
+screen. When you find contraband it backtracks through
+the contraband flow into your prison. There’s a deadly
+fight and you have a dead prisoner on your hands.
+Now you need to know that one of the prisoners used a
+screwdriver to kill the guy and you need to understand
+where that screwdriver came from. Then you need to
+know what you can do to prevent that from happening
+in the future.
+If you make that process too easy, then people are
+not interested in playing because there’s no challenge
+to it. If you make it too hard, you’ll lose players quickly
+because they won’t understand why all this shit’s going
+on. So a lot of the work we did was about trying to
+manage that.
+What worked well was the alpha process, being
+able to drop in new systems on a monthly basis and
+to see whether that system worked or not. Rather than
+dropping the entire complexity bomb out there at once,
+which would have been a QA nightmare, we were able
+iteratively add new systems like contraband distribution
+via the laundry system.
+We’d then look to see if we had broken the game. If
+not we could then move forward and layer something
+else in. There were some features we’d add in that
+would ruin the game, and then we would backtrack.
+>>>
+You released Prison Architect in “early
+access” on Steam. The process you have
+described is what many in software
+development would call agile. Do you
+think you’d develop a game in that way
+again?
+I think that it applies to some games more than others.
+That development methodology particularly worked
+for Prison Architect but it also had a massive impact
+on our ability to market the game. Chris and I made
+monthly update videos, and we’ve built an audience
+now that expect a monthly update from us. And we’ll
+attempt to continue with that.
+As we move onto different projects we’ll see a drop
+off but we don’t know yet how big that will be. We
+hope that Chris and I will be able to transition Prison
+Architect fans into core Introversion fans – fans that
+want to understand about game development and
+enjoy the banter between Chris and I in the videos. We
+want to give people an insight into what we’re doing
+but always backed up with something that they can
+play now. It’s an exciting time.
+Prison Architect.
+Darwinia.
+We want to give people
+an insight into what we’re
+doing but always backed
+up with something that
+they can play now
+9
+8
+

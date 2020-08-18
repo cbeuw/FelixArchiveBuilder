@@ -1,0 +1,214 @@
+SF
+Sherfield
+Ca
+QL
+Queen’s Lawn
+Q
+Queen’s Tower Rooms
+GH
+Great Hall
+Junior Comm
+SCR
+Senior Common Room
+Level
+2
+Level
+2
+Leve
+Level
+1
+(Ground)
+BQ
+SAF
+QL
+QLT
+CP
+GH
+SF
+SCR
+SF
+SCR
+Sports zone
+Charity & Volunteering zon
+Faith & Ch
+Cultural zone
+Stalls 1-15
+Stalls A-C & 1-70
+JCR
+JCR
+JCR
+Queen’s Lawn Terrace
+8
+A B C
+1 2 3 4 5 6 7 8
+27 28 29 30 31 32 33 34 35
+9 10 11 12 13
+65 66 67 69 70
+68
+1
+2
+3
+4
+5
+43
+6
+7
+8
+9
+10
+48
+11
+12
+13
+14
+15
+44
+16
+17
+18
+19
+20
+49
+21
+22
+23
+24
+25
+42
+26
+27
+28
+29
+30
+47
+31
+32
+33
+34
+35
+41
+36
+37
+38
+39
+40
+46
+51
+52
+53
+54
+55
+45
+58
+59
+60
+50
+14 15
+A
+9
+10
+11
+12
+7
+6
+5
+4
+3
+2
+1
+43 42 41 40 39 38 37 36
+6
+7
+14
+20
+19 21 22
+1
+2
+3
+4
+5
+6
+16
+7
+8
+9
+19 18 17 15
+21
+26 25 24 23
+18
+22
+39
+44 43 42 41 40
+33
+38 37 36 35 34
+27
+32 31 30 29 28
+10
+20
+14 13 12 11
+13
+9
+3 5 7
+10
+1
+2 4 6 8
+50 49 48 47 46 45
+8
+9
+10
+15
+16
+17
+1
+A
+B
+E
+F
+C
+D
+25
+2
+6
+21
+22
+23
+24 20 19 18 17 15
+14
+16
+13
+12
+11
+12
+11
+10
+9
+5 6 7 8
+4
+3
+2
+61
+62
+63
+64
+56
+57
+19
+17
+15
+18
+16
+14
+IN CASE OF
+WET WEATHER:
+QL62-QL70, CP1-CP7,
+CP13-CP14 will move to SAF ;
+QL56-QL60,QL63-QL64 will
+move to ICME/MEF ;
+QL1-QL20 will move to the
+Union Gym (Level 3 in Beit
+Quad) ;
+QL20-QL43 will move to SCR;
+QL44-QL45, QL47-QL50,
+QL52-QL55, QL61-QL62 will
+move to the Beit Quad.
+

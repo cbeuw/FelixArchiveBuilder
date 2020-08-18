@@ -1,0 +1,162 @@
+Tips & Hacks
+technology.felix@imperial.ac.uk
+BlackBerry OS may be licensed
+It’s not uncommon knowledge that RIM – the com-
+pany behind the BlackBerry smartphones – aren’t
+enjoying an easy ride in either the phone or tablet
+sectors. In the last year we have seen them suffer
+a large hit on their profits, the massive outage that
+affected millions of users, and the two CEOs of the
+company stepping down to try and ‘shake up’ the
+firm. They have warned of a loss for this quarter,
+and may have to make job cuts in order to survive.
+It seems the physical keyboard and excellent email
+system aren’t enough to keep existing customers
+and attract new ones – RIM are going to have to
+start bringing something new to the table. One defi-
+nite plan is the release of BlackBerry 10 – a new
+operating system that will, among other things, run
+Android apps on the BlackBerry device. However,
+some experts think this is ‘too little, too late’, and
+that the company may have to resort to more ex-
+treme measures, for example licensing their propri-
+etary operating system to other phone manufactur-
+ers. Only time will tell whether or not RIM can pull
+themselves back into the land of profit.
+The Kana: a mouse for all
+FELIX
+Friday 01 june 2012
+15
+Technology Editors: Chris Bowers
+Feroz Salam
+TECHNOLOGY
+The Pirate Bay blocked by ISPs
+At the end of last month, leading UK Internet Ser-
+vice Providers were ordered by UK courts to pre-
+vent their customers from accessing the popular
+torrent site The Pirate Bay. Virgin Media began
+their block just two days later, whereas BT have
+asked for “a few more weeks to consider its posi-
+tion”. This is something of a landmark occasion
+for anti-piracy campaigning in the UK, as it is likely
+any similar bans will pass through the courts with
+some ease after this first occurrence. However,
+The Pirate Bay themselves couldn’t care less. The
+day following the ban, they claimed to have had
+12 million visitors more than their previous record.
+Along with advice on how to bypass the ban, they
+are quoted as saying “We should write a thank you
+note to the BPI” with regards to the extra traffic.
+The problem with all this is almost all users of the
+site will easily bypass the ban, supporters of a
+completely open internet will be riled by the deci-
+sion, and the copyright holders have – in effect
+– gained nothing.
+cursor/gun/whatever did it too, with no skips
+or jumps.
+My only minor (and it is minor) gripe with
+the Kana is that the side buttons are almost a
+little too easy to press. Sometimes when I put
+my hand back on the mouse, I would acciden-
+tally hit the button on the right-hand side. Cer-
+tainly not the biggest deal in the world, but it
+could be a nuisance if that button were mapped
+to something important.
+Other than that, I find it very difficult to
+fault this mouse. It has great performance, and
+ticks the boxes of both comfort and aesthetic
+appeal. The software adds rather than detracts
+to the package as well, allowing unlimited
+profiles, easy button mapping, and even a heat
+map of how much you press each button over
+some time period. Oh, and did I mention the
+scroll wheel is illuminated on each side (which
+can have different brightness settings based on
+the active profile)? How cool is that!
+If you’re looking for a reliable, high-per-
+formance gaming mouse for around £40, the
+SteelSeries Kana may well be for you.
+all manner of coiling and use, and promises to
+be tangle-free.
+So the mouse looks good, and feels good,
+but how does it perform? I used it as my
+mouse for a week, for general use as well as
+gaming – including Call of Duty, where a slip
+of the mouse can be the difference between
+life and death. Regardless of the surface I was
+playing on – be it my multi-coloured mouse
+mat or the seat of the sofa – the Kana didn’t
+miss a beat. The sensor within is evidently of
+very high quality. Whatever my hand did, my
+The SteelSeries Kana is a gaming mouse
+promising a good specification but at a rea-
+sonable price. Armed with a high resolution
+sensor (3200dpi), two side buttons, two on-
+board profiles and a resilient, braided cable, it
+certainly looks good on paper. I’ve been using
+it for the past week, so let’s take a look at how
+it is in practice.
+First impressions were good – the Kana is
+certainly a striking mouse. Whichever colour
+you choose (it’s available in white/black and
+black/orange), the contrast looks great. How-
+ever, the colour doesn’t really impact how
+good the mouse is, but thankfully SteelSeries
+hasn’t sacrificed in that department to deliver
+on prettiness.
+The Kana is an ambidextrous mouse – com-
+pletely symmetrical. While this took a while
+to get used to (I usually use an ergonomic
+mouse), once over that bump the mouse is
+comfortable, and you could definitely use
+it for hours of continuous play. This design
+means there’s a large button on each side of
+the mouse, which can be mapped in-game or
+using the SteelSeries Engine software.
+The rest of the buttons are as you’d expect,
+with the addition of a profile toggling button
+– which allows you to switch between two
+on-board sensitivity settings on the fly. This
+all connects to your computer with a braided,
+durable cord, which feels like it will survive
+Chris Bowers
+Who can resist an orange glowing scrollwheel?
+A company has produced a new USB device,
+dubbed Leap, that creates an interaction space
+of 8 cubic feet in which hand gestures up to
+an accuracy of 0.01 millimeters can be recog-
+nised. The company, Leap Motion, uses tech-
+nology which proves cheaper than the current
+state of the art: Microsoft’s Kinect sensor.
+The technology, predicted to work with ei-
+ther a higher resolution camera or by using in-
+frared Light Detection And Ranging (LIDAR),
+is about ‘two-hundred times more accurate
+than existing products and technologies on the
+market’, reports the manufacturer.
+The Leap device is expected to ship next year
+for roughly $70, and the technical details be-
+hind its operation are kept secret by Leap Mo-
+tion, who only cite a ‘patented mathematical
+approach’ in their methods. The methods used
+in improving the device will start to emerge
+in the public domain as developers eventually
+get their hands on the Leap, and the company
+looks set to take the direction of Microsoft
+with their Kinect sensor, opening it up for the
+masses to use to improve their wide variety of
+applications - from research to leisure.
+Leap’s use case extends to a plethora of
+technological applications, including virtual
+gesture based keyboards in mobile devices and
+futuristic, accurate navigation in desktops. The
+device gives rise to questions about the future
+of touch and gesture based navigation in cur-
+rent technology and has the potential to usher
+in an era of Minority Report style computer
+control.
+Kana reasonably priced gaming mouse perform? THERE, I PUNNED
+A big Leap for gesture control?
+Alexander Karapetian
+Is this box going to revolutionise how we control our technology?
+

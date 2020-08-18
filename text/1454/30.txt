@@ -1,0 +1,504 @@
+30
+COFFEE
+BREAK
+Coffee Break Editor
+Coffee Break Editor Charlie Murdoch
+Charlie Murdoch
+coffee.felix@imperial.ac.uk
+felix
+Scribble box
+FRIDAY 19 FEBRUARY 2010
+Yanni: “I don’t dwell in the past; I don’t wallow in old events and emotions. I don’t waste time on regret. No use going over and over the details of what already happened.”
+Quote of the Week
+Wordoku 1,454
+Solution 1453
+How to play:
+Wordoku is identical to Sudoku; we’ve just replaced
+numbers with letters. Complete the puzzle and then
+send the whole grid to sudoku.felix@imperial.ac.uk.
+You will not get credit for just the word alone. It’s not
+an anagram.
+Evil Wordoku is exactly the same... only harder... and
+there’s a letter missing... that MAY be a duplicate -
+just solve it like normal and insert the letter that you
+believe makes the word. And worth double.
+N
+I
+O
+T
+A
+F
+E
+C
+R
+A
+C
+R
+E
+N
+O
+F
+I
+T
+E
+F
+T
+I
+C
+R
+O
+N
+A
+T
+E
+C
+A
+O
+N
+I
+R
+F
+F
+O
+A
+R
+E
+I
+N
+T
+C
+I
+R
+N
+F
+T
+C
+A
+O
+E
+O
+T
+F
+C
+I
+A
+R
+E
+N
+R
+N
+E
+O
+F
+T
+C
+A
+I
+C
+A
+I
+N
+R
+E
+T
+F
+O
+My week in
+many words
+CharlieMurdoch Coffee Break Editor
+Char
+Char
+A
+nother week, and anoth-
+er insightful trip into the
+world of Charlie. Some of
+the brighter individuals
+amongst you may have by now real-
+ised that I use this space to quietly
+rant about the world and its inhabit-
+ants. You would be correct, so if you
+don’t like it I’ll get Kanye West to come
+over there and give you a Taylor Swift
+style beat down, whatever the f*ck that
+is. Sounds like some sort of pre-1930s
+Jazz movement. Ask Joe “King” Oliver
+for further information if you are con-
+cerned. Tell him I sent you.
+Unfortunately I’ve been too busy to
+have time to reach the levels of anger
+your used to. I ran the Hyde Park Re-
+lays, and like any self-respecting drink-
+er would, I ran ludicrously slowly and
+almost vomited at the end. However
+the upside of all that pain is that all
+the cross country girls are, as my good
+friend Ben Hanson esq. would put it,
+‘bang tidy.’ No, I don’t know either.
+However I think he is pointing towards
+the fact that all cross country girls ap-
+pear to be rather pretty. This would be
+the case. So if any of you are looking
+to chase a few girls whilst remaining
+within the law, then go find those uni-
+versity level Paula Radcliffs. Best take a
+bucket as she’ll probably try to shit on
+you. If anyone else attended the HPR,
+you could really see the correlation be-
+tween times and size of person. At the
+front, pushing out the 15 minute runs
+you have the skinny tossers who you
+really think should know better. The
+runners get slower and fatter, until you
+see a 120 kilo heavyweight boxer, com-
+plete with Converse shoes, looking like
+he has just wandered in by mistake.
+What really is beginning to piss me
+off to levels that are far beyond hu-
+man comprehension (excluding Carol
+Vorderman, because she is just fantas-
+tic) is the state of the bloody Fulham
+Road. Seriously what the f*ck is going
+on there? To my knowledge they have
+been digging up that road, without
+break, for about three years now. Pre-
+vious to coming to university I didn’t
+know that there could be that much
+pipe in the world. Apparently, I’m told
+there is. Secondly, if the road it dug
+up, and all the pipes are taken out for
+replacement, what happens to the wa-
+ter in them? It doesn’t bear thinking
+about. I ramble.
+mmmmmm.....
+How to play:
+Insert these numbers into the grid to on the next
+page, from left to right and top to bottom, in the
+unshaded cells (left by solving the ‘Nonogram’).
+Then proceed as normal for a ‘Slitherlink’.
+It’s quite simple, all numbered cells must be sur-
+rounded with a corresponding number of edges.
+There may only be one continuous line. Any
+cells without a number can have any number of
+edges.
+Well done to David May who won last week’s
+puzzle. Good job. Send your solutions to su-
+doku.felix@imperial.ac.uk.
+3
+3
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+0
+0
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2 2
+2
+1
+1
+2
+2
+2
+2 3
+3
+1
+1
+3
+3
+0
+0
+3
+3 2
+2 2
+2 2
+2
+3
+3
+2
+2
+2
+2 2
+2 3
+3
+2
+2 2
+2 3
+3
+3
+3 3
+3
+2
+2
+2
+2
+3
+3
+1
+1 2
+2
+2
+2
+2
+2
+1
+1 1
+1 1
+1
+3
+3
+2
+2
+FUCWIT The Felix University/
+College-Wide Invitational
+Tournament League is
+new and improved, with
+an iPod nano for both the
+team and the individual
+with the most points at
+the end of the year.
+5 points for the 1st cor-
+rect answers for all puz-
+zles on these pages, 4
+points for 2nd, 3 points
+for 3rd, 2 points for
+4th and 1 point for 5th.
+Now then FUCWITs, an-
+swers to sudoku.felix@
+imperial.ac.uk. Go!
+The Cool Kids and Fergal 33 Points
+Harry Potter Trio 182 Points
+Sheryl 106 Points
+The Tough Brets 136 Points
+Kelvin Wong 59 Points
+Matthew Colvin 125 Points
+Individuals:
+Individuals:
+Teams:
+Teams:
+League Table
+Wordpath 1,454
+Slithergram 1,454
+How to play:
+Make a path from the origin word to the destination
+word by taking steps between words using one of the
+three following methods:
+Letter Substitution: Substitute just one letter.
+e.g. WORD -> WARD
+Anagram: Rearrange the letters.
+e.g. WARD -> DRAW
+Wordslide: Replace the current word with a new 4 letter
+word from any 5+ letter word that contains them both.
+e.g. DRAW -> WING (via DRAWING)
+No consecutive steps may be made by the same method.
+e.g. WORD -> WARD (by LS) -> WARE (by LS) would
+be invalid.
+Points are awarded for the earliest SHORTEST valid path
+between the two words. Dubious words will be checked
+against the OED. Send your solutions to sudoku.felix@
+imperial.ac.uk.
+ORIGIN:
+E A S T
+DESTINATION:
+W E S T
+Scribble box
+Solution 1453
+NINE
+LINE (LS)
+LIFE via
+LIFELINE
+FILE (An)
+FIVE (LS)
+Solutions 1453
+Well done to the
+first-timer Jacky
+Wong who stormed
+ahead to victory.
+There were lots of
+entries for this last
+week so we’ll keep on
+making them.
+Remember to get
+answers is as quick
+as possible.
+T
+I
+U
+J
+C
+I
+B
+I
+B
+E
+K
+J
+K
+I
+B
+U
+C
+C
+K
+T
+I
+E
+T
+B
+Z
+C
+J
+T
+K
+Z
+Well done to Kelvin
+Wong who won the
+Intermediate and
+Harry Potter Trio
+who won the double
+points Evil edition.
+Well done and all that
+jazz.
+Remember to send
+those solutions in as
+prompt as possible.
+M
+Q
+E
+Q
+L
+M
+4
+F
+L
+F
+E
+U
+L
+I
+Q
+U
+Q
+L
+M
+F
+E
+A
+F
+M
+F
+L
+U
+INTERMEDIATE EVIL
+2 1 2 2 1 3 3
+2 3 2 3 3 3 2
+2 3 2 1 2 2 3
+0 2 0 2 1 2 2
+3 2 2 2 2 2 1
+2 2 2 3 2 2 1
+3 1 3 2 3 3 3
+Here’s the solution to
+last issue’s Nonolink
+without the lines of the
+Slithergram - have fun.
+Points still available.
+Puzzle Captain
+I
+A
+R
+N
+P
+H
+E
+L
+D
+N
+L
+P
+E
+D
+R
+H
+A
+I
+E
+D
+H
+I
+L
+A
+P
+R
+N
+R
+N
+L
+D
+H
+E
+A
+I
+P
+P
+H
+I
+L
+A
+N
+D
+E
+R
+A
+E
+D
+R
+I
+P
+L
+N
+H
+D
+I
+A
+P
+R
+L
+N
+H
+E
+H
+P
+E
+A
+N
+I
+R
+D
+L
+L
+R
+N
+H
+E
+D
+I
+P
+A
+

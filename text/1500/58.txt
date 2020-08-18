@@ -1,0 +1,333 @@
+Last Week’s
+Solutions
+Slitherlink
+Crosswords
+Giant Prize Double Crossword
+Nonogram
+CRYPTIC - Across 1. Speed Bump
+6. Havoc 9. Tissues 10. Pasteur
+11. Nun 12. Looney Tunes 14.
+Fleece 15. Proximal 17. Employee
+19. Idiots 22. Deerstalker 23. Eat
+25. Operate 27. Primate 28. Kitty
+29. Twenty-One Down 1. Satin 2.
+Essence 3. Double Cross 4. Upshot
+5. Puppetry 6. His 7. Vietnam 8.
+Chrysalis 13. Taxidermist 14. Field-
+work 16. Decadent 18. Present 20.
+Oregano 21. Skopje 24. There 26.
+Any
+QUICK(ish) - Across 1. Question
+5. Waffle 10. Aspen 11. Cafeteria
+12. Tsunami 13. Espouse 14.
+Tedium 16. Ashtray 19. Archery 21.
+Lyrist 25. Humerus 26. Optimal
+28. Apartheid 29. Sinai 30. Totter
+31. Empyrean Down 1. Quantity
+2. Expound 3. Tonga 4. Orchid 6.
+Antipathy 7. Formula 8. Enamel 9.
+Offense 15. Usherette 17. Brisket
+18. Stallion 20. Rampant 22. Im-
+mense 23. Thwart24. Condom 27.
+Tasty
+Chess
+1. Nf6+ Kh8 and upon 2. Ne8!!
+The threat of Qf8+ is pretty much
+unpreventable, since 2...Qf1+ 3.
+Kh4 leads to nothing.
+1 2 3 4
+13
+11 12
+18
+13 19 14
+17 18
+19
+20 21 28
+33
+24 25
+26 39
+15
+16 17 18
+22 23 24
+26
+34
+38
+27
+22
+14
+5 6 7 8
+10
+16
+15 16 20
+16
+18 19
+29 22 23 31
+35
+40 41 42
+14
+15
+19 20
+21
+25
+23
+30
+24
+9 10 11 12
+10
+17
+15 16
+16
+18 19 26
+32 22 23
+25 36
+37
+43
+15
+19 20
+21
+25
+25
+21
+17 44 18
+46 19
+20 21
+24 25
+26
+22 23 24
+26
+52
+54
+48
+17
+16
+19 45
+49 22 23
+53
+55
+21
+25
+16
+19
+47
+50 22 23
+51
+21
+25
+QUICK (well, not really...)
+Across
+1. Children’s outdoor game (4,3,4)
+7. Star of Gunight at the OK Corral,
+Spartacus (4,7)
+13. Reach a compromise through
+discussion (9)
+14. Site of Custer’s Last Stand (6,7)
+15. Southern Grecian city (6)
+16. Well known from long or close
+association (8)
+17. Having a troublesome situation
+from which resolution is tricky (2,1,4)
+19. Treat with suspicion (4,4,1,5,2,4)
+22. Phone number to a source of
+speciic information (7)
+23. One doing a degree (7)
+25. Discovers, investigates (7)
+27. Spun thread; tell a story (4)
+28. Reference symbol to an annota-
+tion (8)
+31. Combination of string, woodwind,
+percussion and brass (9)
+34. (Of sword, tool etc.) large or
+unwieldly (3-6)
+35. Genesis vessel (5,3)
+36. Pronoun used to identify a speciic
+thing close to hand (4)
+38. Monetary unit of Brazil, Mexico
+(7)
+40. Gloves lacking separate inger
+sections (7)
+43. 15th letter of the Greek alphabet
+(7)
+44. 1968 ilm - characters include
+Caractacus Potts nd Truly Scrump-
+tious (6,6,4,4)
+48. One from Emilia-Romagna region
+of Italy (7)
+49. Close friend or associate (derived
+from Spanish) (8)
+50. Pester (6)
+52. Variety of cookie (9,4)
+53. Competitor who has little chance
+of winning (4,5)
+54. Future-predicting device (7,4)
+55. Legal authorisation (11)
+Down
+1. Free of deceit (6)
+2. 1975 Al Pacino ilm (3,3,9)
+3. Contrast or opposition between two
+things (10)
+4. Tie; compose picture (4)
+5. Short hairs on the face (9)
+6. Murder (7)
+7. North Atlantic grey gull - genus
+Rissa (9)
+8. Measuring instrument; dictator (5)
+9. Questioned about a completed
+mission (9)
+10. Not certain (12)
+11. Watchman (7)
+12. Abrasive device/tool (6)
+18. Did in a subtle or delicate manner
+(8)
+20. Ideas or vague conceptions (7)
+21. Killer (of a prominent person) (8)
+22. Pile of dry grass (8)
+24. A joining together (5)
+26. he ____ - JD Salinger novel
+(7,2,3,3)
+29. (Of disease) regularly found (7)
+30. Dishonest man (5)
+32. Examples of these include Freaka-
+zoid! and Johnny Bravo (8)
+33. Milton poem “to justify the ways
+of God to men” (8,4)
+37. Dictator of the ictional world of
+Oceania (3,7)
+39. Alert (2,3,4)
+41. Victorious (9)
+42. Recovered from a night on the
+lash (7,2)
+44. With little attention to detail (7)
+45. Tedious journey on foot (7)
+46. Rhizome used to induce vomiting
+(6)
+47. Legally seize (6)
+49. Claw of a crab (5)
+51. Perching bird; make a sound of
+delight (4)
+CRYPTIC
+Across
+1. Book star police department (11)
+7. Support for completely even algebra. One is quite
+sobering! (11)
+13. Humiliated, death is good when pursued (9)
+14. Letter from horseman for one star (5,8)
+15. Chinese fruit contained within. Cool it, chill (6)
+16. Judging at bar trial careless (8)
+17. Keen consideration of home (7)
+19. Have bad start with poor high jump technique?
+(3,3,2,3,5,4)
+22. Crazy grandmother in the deep, nearly (7)
+23. Advocate killing animal, it is said (7)
+25. November in disarray until meet up without plan
+(3,4)
+27. One who roasts is part of Rachmaninov encore (4)
+28. Pretty alien in space (8)
+31. Disturbing pest on hot ash at the start of Autumn
+(9)
+34. Predicted one considering point is mainly excellent
+negotiator (9)
+35. Changes once again to comprehend intelligent
+Southerner (8)
+36. Groove for second lot (4)
+38. Endless currents within scorch cheese (7)
+40. Spin-wash herring (7)
+43. Plunderer’s assistant in Rolls-Royces (7)
+44. Treating supericially, taking of top? (10,3,7)
+48. Middle eastern beheaded Prime Minister (7)
+49. Nylon tangled up, one is French (8)
+50. Mischievous imp hidden in painting of hollow (6)
+52. Common sense on he X Factor? (5,8)
+53. Camping perhaps, positive plan (9)
+54. Stimulus in spinning screens brings revivals (11)
+55. Writer on controversial issues he let in with baby
+around (11)
+Down
+1. Indulge old king closing in on D-Day (6)
+2. Eleventh redesign with hopes up to exceed current
+limits (4,3,8)
+3. Savagely hunted boar that’s lightless (10)
+4. Confront person (4)
+5. Persistence of nut, moron encapsulates Royal Acad-
+emy (9)
+6. Not hearing much, lifeless, cut tail of aquatic animal
+(7)
+7. Best place to put socks? (3,6)
+8. Handicapped but got up, having one electronic
+memo (1-4)
+9. Bizarrely agree ater concluded to be too enthusiastic
+(9)
+10. Drink and sandwiches by arrangement of anteater?
+No! (9,3)
+11. Most powerful rising pairing in case of outsider (7)
+12. Followers of thoughts of Kotarbinski’s sister disturb-
+ing (6)
+18. Kills prostitute, say, at sea (8)
+20. Relecting serious thought in beginning and end of
+opera, not Act Four. South Paciic, for example (4,3)
+21. I think deeply about no cargo in ship (8)
+22. You rise, fenced in by restriction, extremely coura-
+geously showing resilience (8)
+24. Discourage animal eating tree initially (5)
+26. Distinguished man, right, in dodgy Zeppelin gain-
+ing order of chivalry award for promoting unity (5,5,5)
+29. King day - Bow! (7)
+30. Crack - Charlie has a thousand! (5)
+32. Disciple in exile, perhaps to end weakly (5,3)
+33. Minor collision for whammy bar on Stratocaster?
+(6,6)
+37. Change for gamblers storing false tree containing
+irst of emeralds (10)
+39. Pay back concerning copycat musical group (9)
+41. People in Brixton are recluses surrounding chief
+tough guy (9)
+42. Communist committee constructs dim uprise (9)
+44. Composer to investigate outside scale of expertise
+(7)
+45. Two containers, one lited up, for clothing (4,3)
+46. One that talks Easterner into silly risks (6)
+47. Second bath of chemicals for druggie (6)
+49. Scientiic reasoning about mathematical function at
+Imperial (5)
+51. Describe something tetchy, not edgy (4)
+Send in the answers to either set of clues to puzzles.felix@imperial.ac.uk by November 16
+to be in with a chance of winning a bottle of champagne/other similarly priced alcohol. One
+correct entry for each crossword will be selected at random. The editor’s decision is final.
+PUZZLES
+FELIX
+58
+Puzzles Editor: James Hook
+puzzles.felix@imperial.ac.uk
+Friday 04 november 2011
+3
+3
+2
+3 3 3
+2
+0
+2
+1
+1
+1
+3
+1
+3
+2
+3 2
+2
+2
+1
+3
+2
+2
+3
+2 1
+1 2
+2 3
+1 1 2
+3
+3
+2
+2
+2 1
+3
+

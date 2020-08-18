@@ -1,0 +1,211 @@
+science.felix@imperial.ac.uk
+10 felix Friday 28 September 2007
+Science
+Science Editor – Ed Henley
+ESA’s taking a tilt at asteroids, not windmills. But the latter are more photogenic. Well, easier to find
+Shooting down shooting stars
+ESA, the European Space Agency, cer-
+tainly can’t be accused of being faint-
+hearted. The recent appearance of a
+crater in the Peruvian Andes, widely
+attributed to a meteorite, may at face
+value seem to be an event so unusual as
+to remain permanently in the “Acts of
+God” category. Even if it turns out that
+the crater, said to have emitted noxious
+gases, was due to a meteorite, trying to
+do something to prevent impacts may
+seem to be a fool’s errand.
+It could be argued that, laying fic-
+tional concerns (Kryptonite) and solu-
+tions (Bruce Willis and a large nuclear
+weapon) aside, any realistic solution
+would hardly come cheap, and would
+use up valuable resources better
+spent on dealing with more frequent
+disasters.
+But this down-to-earth (ahem) point
+of view is a classic example of our
+limited ability to deal with what Nas-
+sim Nicholas Taleb has termed black
+swans, in his recent book The Black
+Swan: The Impact of the Highly Im-
+probable. He takes the eponymous
+fowl as a rather innocuous example
+of our limited ability to deal with in-
+frequent events – the European as-
+sumption, based on experience, that all
+swans were white seemed reasonable,
+until the discovery of black swans in
+Australia. (The pedants amongst you
+can object that young swans are grey,
+but if you’re going to get picky, we’re
+prepared to argue at length that they’re
+cygnets. And besides, you’re missing
+the point. Concentrate.)
+Taleb argues our assumption that life
+never strays far from under the skirts
+of the bell-curve extends far beyond
+ornithology, and means we are un-
+able to correctly assess the risks (or
+benefits) presented by many unlikely
+events, even if they have far-reaching
+effects. Crashes in the stock-market
+and best-sellers are two examples,
+but so are meteorite impacts – argu-
+ing that a meteorite impact powerful
+enough to wipe out humanity is so un-
+likely as to be negligible skirts over the
+fact that, by definition, just one such
+event would be enough – statistical
+improbability is of cold comfort to an
+astronomer with a “dinosaur-killer”
+looming into sight.
+Recent studies should limit such
+nasty surprises, and help improve
+Inspired by a wannabe Iberian knight, ESA takes a chivalrous approach to large lumps of space debris
+our understanding of the statistics of
+space debris. A worldwide network of
+astronomers is cataloguing asteroids
+with diameters above 1 km, and other
+studies are planned, so that up to 90%
+of all near Earth objects above 140 m
+should be being monitored by 2020.
+Edmund Henley
+Science Editor
+Improving our knowledge of the
+threat presented by the smaller rocks is
+not an easy task, as it is hard to moni-
+tor their orbits (and hence predict their
+trajectories) from the ground, and as
+such they may represent a greater dan-
+ger. However, we can take heart from
+the fact that their size may make these
+objects easier to deal with, if observa-
+tions suggest any are likely to collide
+with Earth.
+This is all very well in theory, but
+actually knocking a threatening as-
+teroid off an impact trajectory is likely
+to be significantly harder in practice,
+especially without prior experience of
+course alteration. Accordingly, ESA
+has been planning a mission to do just
+this, checking the effect present tech-
+nology can have on an asteroid with a
+diameter of about 500 m.
+Dubbed Don Quijote, an appropri-
+ate moniker given the approach the
+agency is considering, the mission will
+comprise two spacecraft, Sancho and
+Hidalgo, and if approved, will launch
+early in the next decade. Sancho would
+arrive at the target asteroid first, after
+travelling for a little over two years,
+and would spend several months
+monitoring the asteroid’s shape, posi-
+tion, mass and gravity field.
+Having taken a different orbit,
+Hidalgo would arrive later, and would
+use a high-resolution camera to steer
+itself towards the asteroid, impacting
+at a nippy 10 km/s. Sancho will record
+any changes in the asteroid’s position
+withahighdegreeofaccuracy,andwill
+then release a small package of instru-
+ments, which would passively free-fall
+towards the crater left by Hidalgo, to
+aid in determining the chemical, ther-
+mal and mechanical characteristics of
+the asteroid surface.
+A number of asteroid are currently
+contenders for the dubious honour of
+a run-in with Hidalgo, but the front-
+runner is Apophis, which caused
+a scare in 2004, as initial measure-
+ments suggested it might collide with
+the Earth in 2036. Although this was
+subsequently ruled out, the finding
+served as a sobering reminder that as-
+teroids present a danger which should
+not be ignored, and which call for the
+bold approach espoused by missions
+such as Don Quijote. Taking a tilt at
+an asteroid may seem an act worthy
+of the Hidalgo himself, but the knowl-
+edge gained may well prove invaluable
+should a genuine threat arise.
+At the end of their tether
+In other space-related news, an experi-
+ment on the ESA Foton-M3 mission
+has had partial success in an attempt
+to master technology just as significant
+for space science as Don Quijote.
+The €2.7 million Young Engineers’
+Satellite 2, project (which went by the
+go-getting acronym of YES2) involved
+more than 450 students, who worked
+on developing the 36 kg payload in
+conjunction with Delta-Utec, the
+prime contractor. The aim was to de-
+ploy a 30 km tether from the satellite,
+the longest ever used in space.
+In theory, tethers present an attrac-
+tive way of manœuvring payloads in
+space. The most outlandish designs
+call for thin ribbons built of very strong
+materials, extending from a planet into
+space. Known as beanstalks or space
+elevators, these cables would allow
+payloads to be lifted into orbit without
+the use of rockets. Any giants (or Ver-
+micious Knids) reading this can rest
+assured that unfortunately, there are
+several barriers to using these tether
+applications on Earth.
+However, their satellite-based cous-
+ins look far more promising: as report-
+ed in Nature News this week, payloads
+on satellites can be returned to Earth
+easily using tethers, as they allow the
+payloads to be slowed sufficiently as
+they are lowered, without the use of
+retro-rockets.
+To be light enough to be practical
+(a key consideration in all space mis-
+sions) the tether needs to be very thin,
+requiring it to be made of very strong
+material. The tether on YES2, a mere
+0.6 mm thick, used a polyethylene fibre
+called Dyneema, allowing it to weigh
+in at only 5.5 kg, slightly lighter than
+the 6 kg capsule and heat shield it was
+returning to Earth.
+According to the preliminary mis-
+Cosmo Kray
+Not quite the sort of tether and payload they had in mind
+sion report on the YES2 website (www.
+yes2.info), the first stage of the deploy-
+ment went to plan: 3.4 km of tether
+were released, with software exerting
+considerable control on the deployer
+mechanism, to keep tether oscillations
+to within ~10o of the ideal vertical
+position.
+The problem occurred in the sec-
+ond stage, as friction from unknown
+sources caused the rate of deployment
+to slow significantly, and led to 15-20o
+oscillations before the preprogrammed
+controls cut the tether. This meant that
+in total, only 8.5 km of tether were re-
+leased. Although this was short of the
+target, the report concluded that the
+operation was still a success: it repre-
+sented the first tether flight for over a
+decade, and achieved over half the mis-
+sion goals. The team is currently look-
+ing for the capsule, thought to have
+landed in Kazakhstan, so as to improve
+future mission analysis. Ask Borat?
+

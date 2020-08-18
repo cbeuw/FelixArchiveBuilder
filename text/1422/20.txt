@@ -1,0 +1,523 @@
+sport.felix@imperial.ac.uk
+38 Friday 30 January 2009
+felix
+Sport
+39
+felix
+Friday 30 January 2009
+sport.felix@imperial.ac.uk Sport
+Saturday 24th January
+Football
+ULU Cup
+Men’s 1s 2-5 LSE 1s
+Men’s 4s 8-1 Royal Holloway 4s
+Lacrosse
+Men’s 1st 5-15 University of Hertfordshire 1st
+Sunday 25th January
+Volleyball
+BUCS Tournament
+Men’s 1st 2-0 UCL 1st
+Men’s 1st 1-2 University of Essex 1st
+Women’s 1st 2-1 UCL 1st
+Women’s 1st 2-0 University of Reading 1st
+Monday 26th January
+Netball
+Women’s 1s ULU 14-52 UCL 1s ULU
+Women’s 3s ULU 15-10 King’s College 4s ULU
+Water Polo
+Mixed 1s ULU 20-2 UCL 2s ULU
+Wednesday 28th January
+Badminton
+Men’s 1st 2-6 Brunel University 1st
+Women’s 1st 4-4 UCL 1st
+Fencing
+Men’s 2nd vs Royal Holloway 1st
+Football
+BUCS Cup
+Women’s 1st 0-4 University of Kent 1st
+ULU
+Men’s 5s ULU 3-2 UCL 5s ULU
+Hockey
+Men’s 3rd vs Royal Vets 1st
+BUCS Cup
+Women’s 1st 4-4 RUMS 1st
+ULU
+Men’s 1s ULU 4-2 Imperial Medicals 1s ULU
+Women’s 2s ULU 1-1 RUMS 2s ULU
+Lacrosse
+Men’s 1st vs Royal Holloway 1st
+Women’s 1st 26-0 University of Kent 1st
+Rugby
+Men’s 1st 22-10 Oxford University Greyhounds
+Men’s 2nd 0-36 St Barts 1st
+Men’s 3rd 27-3 University of Sussex 2nd
+Squash
+Women’s 1st vs UCL 1st
+BUCS Cup
+Men’s 1st 4-1 University of Sussex 1st
+Men’s 2nd 3-2 Imperial College 3rd
+Volleyball
+Men’s 1st 2-0 UCL 1st
+Saturday 31st January
+Fencing
+BUCS Tournament
+Women’s 1st vs Oxford University 1st
+Women’s 1st vs University of Kent 1st
+Football
+Men’s 2s ULU vs LSE 1s ULU
+Men’s 2s ULU vs RUMS 1s ULU
+Men’s 3s ULU vs King’s College 1s ULU
+Men’s 4s ULU vs LSE 5s ULU
+Men’s 5s ULU vs LSE 4s ULU
+Men’s 6s ULU vs Imperial Medicals 3s ULU
+Men’s 7s ULU vs RSM 1s ULU
+ULU Cup
+Men’s 5s vs Royal Vets 1s
+Men’s 6s vs Heythrop College 1s
+Tennis
+Women’s 1st vs Brunel University 1st
+Sunday 1st February
+Basketball
+Men’s 1s ULU vs Royal Holloway Men’s 1s ULU
+Fencing
+Women’s 1st vs University of Cambridge 1st
+BUCS Tournament
+Women’s 1st vs University of Bristol 1st
+Hockey
+Men’s 3s ULU vs St Barts 2s ULU
+ULU Cup
+Men’s 1s vs King’s Medicals 1s
+Men’s 2s vs Goldsmiths 1s
+Women’s 1s vs St George’s 1s
+Lacrosse
+Women’s 1st vs Royal Holloway 1st
+Fixtures & Results in association with Sports Partnership
+Rugby
+Women’s 1s ULU vs Royal Holloway 1s
+Tennis
+Women’s 1st vs LSE 1st
+Monday 2nd February
+Netball
+Women’s 2s ULU vs Uni of the Arts London 1s ULU
+ULU Cup
+Women’s 1s vs RUMS 1s
+Squash
+ULU Cup
+Women’s 1s vs RUMS 1s
+Women’s 2s vs St George’s 1s
+Wednesday 4th February
+Badminton
+Men’s 2nd vs University of Surrey 1st
+Basketball
+Men’s 1st vs Canterbury Christ Church Uni 1st
+Women’s 1st vs Thames Valley University 1st
+Football
+Men’s 1st vs Roehampton University Mens 1st
+Men’s 2nd vs University of Hertfordshire 3rd
+Men’s 3rd vs Imperial Medicals 2nd
+Women’s 1st vs University of Surrey 1st
+Men’s 5s ULU vs LSE 5s ULU
+Men’s 6s ULU vs SOAS 2s ULU
+Men’s 7s ULU vs St Barts 3 ULU
+Sports league
+Team P W D L F A Diff % FI
+1 Squash Men's 1st 10 10 0 0 44 6 38 100 5.00
+2 Fencing Men's 1st 7 7 0 0 934 533 401 100 5.00
+3 Volleyball Women's 1st 7 7 0 0 14 1 13 100 5.00
+4 Tennis Men's 1st 6 6 0 0 51 9 42 100 5.00
+5 Lacrosse Women's 1st 9 8 0 1 139 31 108 89 4.00
+6 Hockey Men's 1st 8 7 0 1 45 11 34 88 3.88
+7 Netball 2nd 7 6 0 1 262 134 128 86 3.71
+8 ICSM Netball 3rd 7 6 0 1 227 114 113 86 3.71
+9 Squash Men's 2nd 7 6 0 1 23 10 13 86 3.71
+10 Badminton Men's 1st 10 7 2 1 52 28 24 70 3.50
+11 ICSM Badminton Men's 1st 4 3 0 1 18 14 4 75 2.75
+12 Fencing Women's 1st 4 3 0 1 524 444 80 75 2.75
+13 ICSM Hockey Women's 1st 9 6 1 2 45 17 28 67 2.67
+14 Table Tennis Men's 1st 10 7 0 3 114 56 58 70 2.30
+15 ICSM Netball 2nd 6 4 0 2 192 117 75 67 2.00
+16 Hockey Women's 1st 9 5 1 3 28 22 6 56 1.67
+17 Hockey Men's 2nd 8 5 0 3 32 22 10 63 1.63
+18 Hockey Men's 3rd 7 3 2 2 15 24 -9 43 1.57
+19 Basketball Women's 1st 7 4 0 3 326 309 17 57 1.14
+20 Badminton Women's 1st 10 5 1 4 46 34 12 50 1.10
+21 Badminton Men's 2nd 6 2 2 2 24 24 0 33 1.00
+22 Hockey Men's 4th 5 2 1 2 12 20 -8 40 0.80
+23 ICSM Football Men's 1st 8 4 0 4 12 17 -5 50 0.50
+24 Rugby Union Men's 3rd 8 4 0 4 163 164 -1 50 0.50
+25 Squash Men's 3rd 6 3 0 3 11 9 2 50 0.50
+26 Basketball Men's 1st 6 3 0 3 432 412 20 50 0.50
+27 Fencing Men's 2nd 6 3 0 3 722 690 32 50 0.50
+28 Squash Women's 1st 9 1 5 3 15 25 -10 11 0.33
+29 Rugby Union Men's 2nd 11 5 0 6 217 240 -23 45 0.09
+30 ICSM Rugby Union Men's 2nd 9 4 0 5 123 143 -20 44 0.00
+31 ICSM Hockey Women's 2nd 6 2 1 3 16 19 -3 33 0.00
+32 Tennis Men's 2nd 6 2 1 3 27 33 -6 33 0.00
+33 Football Men's 1st 7 2 1 4 13 18 -5 29 -0.57
+34 Volleyball Men's 1st 8 3 0 5 7 10 -3 38 -0.63
+35 ICSM Rugby Union Men's 3rd8 3 0 5 98 179 -81 38 -0.63
+36 Football Men's 2nd 6 2 0 4 14 23 -9 33 -1.00
+37 Tennis Women's 1st 7 2 0 5 26 44 -18 29 -1.43
+38 Football Women's 1st 7 2 0 5 10 25 -15 29 -1.43
+39 ICSM Rugby Union Men's 1st 11 3 0 8 209 308 -99 27 -1.55
+40 ICSM Netball 1st 10 2 1 7 254 362 -108 20 -1.60
+41 ICSM Hockey Men's 2nd 8 2 0 6 13 12 1 25 -1.75
+42 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+43 Netball 3rd 6 1 0 5 62 204 -142 17 -2.50
+44 Football Men's 3rd 6 1 0 5 11 25 -14 17 -2.50
+45 Lacrosse Men's 1st 7 1 0 6 40 93 -53 14 -2.71
+46 Hockey Women's 2nd 7 1 0 6 6 32 -26 14 -2.71
+47 ICSM Hockey Men's 1st 7 1 0 6 12 23 -11 14 -2.71
+48 Rugby Union Men's 4th 7 1 0 6 78 300 -222 14 -2.71
+49 Rugby Union Men's 1st 11 1 0 10 114 380 -266 9 -3.18
+50 ICSM Badminton Women's 1st 9 0 1 8 10 63 -53 0 -3.33
+51 Netball 1st 7 0 0 7 137 271 -134 0 -4.00
+52 ICSM Hockey Women's 3rd 5 0 0 5 3 32 -29 0 -4.00
+53 Table Tennis Women's 1st 4 0 0 4 3 12 -9 0 -4.00
+54 ICSM Hockey Men's 3rd 4 0 0 4 0 12 -12 0 -4.00
+55 Rugby Union Women's 1st 1 0 0 1 0 80 -80 0 -4.00
+Hockey
+Men’s 1st vs Canterbury Christ Church Uni
+1st
+Men’s 2nd vs King’s Medicals 2nd
+Men’s 3rd vs Royal Holloway 2nd
+Men’s 4th vs University of Portsmouth 4th
+Women’s 1st vs Brunel University 2nd
+Women’s 2nd 1-1 RUMS 2nd
+Netball
+Women’s 1st vs Canterbury Christ Church Uni 1st
+Women’s 2nd vs LSE 3rd
+Women’s 3rd vs University of Reading 4th
+Rugby
+Men’s 1st vs Imperial Medicals 1st
+Men’s 2nd vs University of Essex 1st
+Men’s 3rd vs Imperial Medicals 3rd
+Men’s 4th vs University of Portsmouth 4th
+Squash
+Men’s 2nd vs UCL 2nd
+Men’s 3rd vs University of Kent 2nd
+Tennis
+Men’s 1st vs Brunel University 1st
+BUCS Cup
+Men’s 2nd vs University of Surrey 2nd
+Volleyball
+Women’s 2nd vs King’s College 1st
+As most students slept through their
+9 o’clock lectures on Wednesday 21st
+January the Imperial College Riding
+1st Team were busy getting ready for
+their first competition of the season.
+Being a home competition at Trent
+Park Equestrian Centre (one stop from
+the famous Cockfosters station) the
+pressure was on the IC riders to per-
+form their best.
+In the dressage phase (aka ballet
+for horses) we were drawn to go first
+with Trisna Tungadi the first rider in
+the arena on our secret weapon Chess.
+Unfortunately we had been hoping she
+would be the last rider on him as, ever
+the exuberant horse, Chess goes better
+the more time there is to wear him out!
+Sadly he remained as lively as ever, not
+helped by someone scaring him mo-
+ments before they went in to do their
+test. Nevertheless, an admirable per-
+formance saw Trisna lying in 6th place
+after the dressage.
+My horse James & I did not fare so
+well, finding the photographer partic-
+ularly spooky and, like Trisna, I felt I
+would have benefited from being a lat-
+er rider on him to allow him more time
+to settle. A disappointing performance
+saw me lying 10th individually after the
+dressage. Thankfully Kathleen Duclos
+on Phoebe and our team captain An-
+dré Wilmes on Smithy rode fabulous
+rounds, with André easily lying in first
+place individually after the dressage.
+Going into the showjumping we were
+in first place as a team and had high
+hopes of success. André was the first
+IC rider to jump and one pole down
+left him briefly concerned until he saw
+the other riders on Dan also suffer sim-
+ilar fates. Good rounds from Trisna on
+Charm and Kathleen (who managed to
+put aside her nerves of falling off the
+big jumping Abbey) meant a win for
+Imperial was inevitable. With only the
+top 3 scores from each team counting,
+the team results were already decided
+and my jumping round was a mere
+formality. Nevertheless, riding speed-
+machine Trio, I managed to jump the
+only clear round of the IC team.
+With obvious jubilation for winning
+our home competition (and thus one
+step closer to regional qualification) it
+was also great to discover the success
+of individuals. Kathleen and Trisna
+finished 5th and 6th respectively and
+André wowed the other competitors so
+much that they felt the need to double-
+check his very high score before con-
+firming his individual win.
+After disappointment in previous
+years at the home competitions, it was
+great to see IC Riding back on top form
+and we now have high hopes for our
+remaining two competitions before the
+regional qualifying teams are decided
+in the near future.
+The white horse manages to clear the fence with ease
+IC Riding 1st team kicks off
+the season well
+Chloé Sharrocks
+(ed - For brownie points, can you spot
+the 10 aviation themes in the article?)
+Following the unbeaten run in 2009,
+ICUAFC 4th XI have shed last year’s
+baggage, reclaiming their rightful posi-
+tion at the top of Division 1. With soar-
+ing confidence and Holloway failing to
+put up little resistance this one was a
+truly one sided game.
+It was Holloway, however, who drew
+first blood with an early goal ten min-
+utes into the game where a sliced cross
+from a man who had slipped under the
+radar crept in at the back post.
+However Imperial controlled the re-
+mainder of the half and Deen, recently
+compared to Diego Tristan, steadily
+built towards a remarkable average of
+2 goals per game netting a first half
+hat-trick.
+Mamzi, Marc and Rich also pro-
+duced goals straight from the top
+drawer, adding their names to the rap-
+idly growing score sheet. Imperial fin-
+ished the first half a staggering 6-1 up
+against Holloway.
+Captain Jeremy painted a debonair
+portrait on the touchline as his tactical
+decisions, which have been previously
+criticised for the way he throws subs
+on at half-time, paid dividends as fresh
+legs on the wings from French Jeremy
+and Ciaran continued to cause their
+full backs (one nicknamed ‘Ghandi’,
+presumably because he too was shit at
+football) problems.
+Johnny Hill and Deen added to the
+Imperial 4ths vs Holloweiii!
+James Skeen
+Football
+Imperial Men’s 4th XI 8
+Royal Holloway 4th XI 1
+IC 4s march on to ULU Cup quarter finals with run-a-way
+victory at Fortress Harlington against Holloway 4s
+SBM Photographic (http://www.sbmphotographic.co.uk)
+This can only mean two things: Hyde
+Park relays and Valentines Day. Unfor-
+tunately this year they fall on the same
+day (14 February, just to spell it out)
+but since if you are reading this, you
+probably go to Imperial, it’s not a hard
+choice really is it?
+For those of you who haven’t heard of
+the Hyde Park relays, it’s a yearly event
+where teams take it in turns to run
+round Hyde park, in an attempt to get
+the lowest total time. Naturally there
+are prizes - best men’s, best women’s
+and the coveted wooden spoons.
+A perfect time to prove how much
+more of a (wo)man you are than your
+friends, coursemates, colleagues and
+everyone else.
+With this short distance even non-
+hardcore “50 miles a year, not 50 miles
+a week” people can have a go and have
+February is upon us again...
+a laugh.
+And its not just a race. Oh no! There
+is a meal afterwards, complete with a
+party in the union. Style not needed.
+To all these fun events we add about
+800 foreign students (including some
+lovely Italian men for your consump-
+tion) and students from other univer-
+sities! Men - this means more women!
+Women - this means less geeky men!
+What have you got to lose, apart from
+a few pounds?
+For the women’s teams you need
+four runners running 3km each, and
+for mixed and men’s teams your team
+must have six runners running 5km
+each.
+To register go online to http://www.
+imperialcollegeunion.com/cross-
+country-71/category.html
+So this February, instead of doing
+something with the one you love (your
+hand doesn’t count) come run and have
+a laugh in Hyde park!
+Tom Ward
+Cornish beasting out 5km in last years epic HPR (final time of 23.01)
+J. Skeen Magical 1-on1 save, and rejected a 30 yard lightning bolt
+to highlight another (near) perfect performance. Minus 1
+to limit ego.
+9
+P
+. Meier Faultless performance at right back. As solid at the back
+as dangerous on the break. Paul Scholes’ love child.
+1
+M. Southern “Golden Shins” failed to add to his tally for the season
+but produced a number of good tackles. Allowed Hol-
+loway a 1v1 play.
+7
+M. Allen 1) Pushed on in the 2nd half (but rarely returned).
+2) Limited moaning at the referee.
+3) Solid running down of the clock.
+3
+M. Greatorex Quality goal to open the onslaught. Involved in at-
+tacks and causing problems to Holloway’s substandard
+defence.
+9
+M. Roshid Always wanting the ball which got him on the end of a
+Deen pass, and finished by casualy skinning the keeper
+to put one in the onion bag.
+8
+M. Smith Didn’t shoot all game which dramatically reduced the
+total number of throw-ins and goal kicks compared to
+usual.
+8
+J. Hill Good game and a class goal, but highlighted for the ri-
+diculous comment about the cup run being like Eminem,
+“One chance, one opportunity.”.
+1
+A. Childs Looking to attack the hole at the back door and get in be-
+hind helpless defenders. Looked dangerous off the ball.
+5
+R. Collins Right footed wonder volley, and made Holloway question
+whether to play with two left backs to quell the threat.
+9
+D. Bakare Another 4 goals to take his taller to 8 in 4 games.
+Deeeaaannnooo!!!
+10
+C. Mcilwham
+(R. Collins, 45)
+Produced the worst shot in recorded history which could
+have taken the score to 9-1.
+2
+J. Turcaud
+(M. Roshid, 45)
+Usual French flair, combined with much theatrics and
+complaining to the officials.
+8
+J. Lovett
+(Manager)
+If he’d used the conventional 4-4-2 it would have been a
+cricket score. Predictable subs lacked inspiration.
+1
+goal fest, ending the game 8-1.
+With the January transfer window
+set to close and a number of new arriv-
+als, IC 4s believe they have the strength
+and depth to really take off in this high-
+ly competitive cup.
+1 2 3 4 5 6 7 8
+9 10
+11 12
+13 14
+15
+16 17 18
+19 20 21 22
+23
+24 25
+26 27
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,422
+Across
+9 Tiger seen roaming the desert (9)
+10 Military organization linked to
+popular television show characteristic
+of Arab country (5)
+11 Fancy type of party thrown together
+for formerly petrified woman (7)
+12 Those not involved with the church
+cover up a fraud using as few words
+as possible (7)
+13 Instrument homeless people have at
+heart (4)
+14 Accompanied Charon across the
+receding deep (10)
+16 The more confusing type of
+mathematical statement (7)
+17 Word of praise? (7)
+19 Study of life-forms strikes gloomy
+note (10)
+22 In the Middle East, Iran will instigate
+action (4)
+24 Slowly approaching central tenet
+found in ancient spiritual text (7)
+25 Support structure found in any
+disorganized state (7)
+26 To bring forth emotions is acceptable
+in the evening (5)
+27 Bird makes loud indication in easy
+situation (9)
+Down
+1 x or •, for instance (1,4,2,3,5)
+2 Brutish oaf once pursued editorship,
+bringing together the top characters
+who worked on Vanity Fair (8)
+3 Retinue returns, come together (5)
+4 Angels spare him being disfigured (8)
+5 Can excite the Queen’s husband – so
+I hear (6)
+6 Because sleep produces the most
+truthful... (6)
+7 ...body of work, requiring new,
+original, explosive device (6)
+8 Approximate timing of a third hymn
+throws off internal clock (9,6)
+15 Parliaments without leaders run off
+the tracks set down for them (9)
+17 Mahogany-floored celebration of
+New Year’s Eve (8)
+18 Looking out for gin and tonic with a
+twist (8)
+20 Add to the end a way of approaching
+situations (4,2)
+21 Inheritance caged up, reduced in
+size and held by lawyers selling their
+wares (6)
+23 A loud indication to cut dynamite
+short and duck (5)
+Behold.
+		 Enoch
+N I S A N C E S M A R I S
+O R T O C O O T
+A B O V O U P H O L S T E R
+H N N P I I A
+A C I L L E S T E N D O N
+U N E M R R G
+I R R I G A T E R E V E R E
+N T S C S S
+C H A M P S C H E S S S E T
+U I A O O O C
+B A N A N A R E P U B L I C
+A D B P E R I
+T R I L O B I T E R A C E S
+E N R T R U L B
+S A N T A S I S Y P H E A N
+H
+U
+Solution to crossword 1421
+

@@ -1,0 +1,144 @@
+A telescope on the web
+Sabine Louet
+W
+e live in the age of the Hubble Space
+Telescope, of orbiting observatories
+and Very Large Arrays. The cost of
+stargazing is truly astronomical. But a British
+group has set up a telescope that brings these big
+boys' toys within everyone's reach.
+The Bradford Robotic Telescope is a mod-
+em 46cm telescope sitting on a hilltop in the
+Yorkshire Dales. It can be accessed through the
+world wide web, making it available to millions
+of people. What makes this telescope unusual is
+that it does everything itself. It checks that it is
+not raining or cloudy. It checks that nobody is
+snooping around the site and most important of
+all, it knows when it gets dark!
+The telescope is a prototype built by the
+Engineering In Astronomy (EIA) group within
+the University of Bradford's Department of
+Industrial Technology. "The site is designed to be
+used by lots of different people", says Dr John
+Baruch, of the EIA group. The group hope to
+make access to the telescope as open as possible.
+They are already working with a number of
+schools who can use the telescope as a learning
+aid. Ultimately, they would like to see a network
+with telescopes in Tenerife, Japan and Australia.
+and a car that tells you
+where to go...
+Andrew Lloyd
+T
+he Cybergeneration is about to bring
+advanced technology to driving. In
+Britain, two hardware companies, Bosch
+and Philips, will launch versions of a computer
+guidance system this summer. Meanwhile,
+Psychologist Paul Jackson, of the University of
+London Centre for Transport Studies has been
+examining individual responses to guidance in
+order to improve existing devices.
+In the British system directions are stored
+on a simple C D Rom containing maps of every
+big city in the country. The on-
+board computer tells you where
+you are and asks you where you X I
+want to go. Simultaneously, the 28 orbiting
+US military satellites constantly update and
+pinpoint your position on the computer
+map. The system then guides you directly to
+your final destination, saving you time and
+petrol. In order to focus the driver's atten-
+tion on the road and not the screen, an elec-
+tronic voice gives the directions.
+Aiming a guidance message at the dri-
+ver requires more than advanced technolo-
+gy, it also needs an understanding of individ-
+ual responses to information. Paul Jackson
+concentrated his research on the way people
+react, depending on their age, gender and
+driving ability. Contrary to popular beliefs, gen-
+der is not important. Neither sex showed a bet-
+ter ability to find their bearings. Surprisingly,
+when it comes to navigation, age counts for more
+than experience. Young women drivers fare bet-
+ter than older, yet more experienced, male dri-
+vers.
+Research is now focussing on whether cer-
+tain messages have more impact on us than oth-
+ers. For instance, the order of presentation
+changes people's response to the guidance sys-
+tem. Hence if the voice tells you "at the garage,
+turn right", it might prove more efficient than
+"turn right at the garage".
+Using the telescope is free, once on-line you
+just have to spend two minutes registering with
+the computer to get a password. You can then
+tell the telescope what you want to look at, and
+sit back and wait lor the results. It automatically
+stores each request, and when conditions are
+good, it carries out as many observations as it can.
+When it has taken the picture you asked for, it
+sends you an E-mail message inviting you to look
+at the results. In good weather, this could be the
+next morning.
+With the less than perfect Yorkshire weath-
+er, there is often only a short time each night for
+observations. Nevertheless, the reward for per-
+severance can be some spectacular images.
+Indeed, on a recent visit with a BBC film crew,
+Sir Patrick Moore was moved to say, "It was just
+what I expected, only 50 times better."
+The site is fairly unique on the Internet. "It
+is the only one with an autonomous robot and
+the only one where you can request astronomi-
+cal observations," says Dr Baruch.
+If you have access to the world wide web
+you can find the telescope at http://www.tele-
+scope.org - and be that rare breed of astronomer,
+one with their nights free for other pursuits.
+events going on all over the country, here are a
+March, pleaseritjgfortimes 0171 7'M 7S0S
+Venue Imperial college
+IMpMMMrX'rl '''V'--7 77.77y : i f e i " > - . , 7 7 7 7 & > y y
+!
+" 7 v v 7 7 r , y y . . r b ; f 7 ' / 7 . 7 . &^K:i
+tWl'-\
+'•kiMiv 7 7 ' y ? ; K . : y / y 7 7 - 7 - \ 7 7 7 7 7 . 7 7 7 7 7 7 : :
+:
+%fj|
+7 7 7 7 7 7 >'7777''/!": V y X s X ^';:';7'7::.':y;;:s37::':v;K''':: •<;•'
+7 : . 7' • •yy
+tMAy;i:M^pPi'''< v.7:: 7:,;];7;a^77'-;
+|
+• : 7 7 H w v , : / . : y ; 7 ; l l f ^ i 7 j ; ~ . ; y y y y 6 . y y . 7 f 7
+mip}p&[p:y
+:hMx:: .7:7l;7:
+:7:.:!
+j-:7;7 yoxMJppixM 7
+7 7 7 ; - , . 7 7 ' k-^pppp iv;-;:
+'.-.'7':
+7''.!y,;:;U>"/-: 7'f7y-fe7:\
+:
+'.-:':y77--7:7i [•:• y ' ' ' ' ' y ' - ' , r - w . - . : X 7 :
+" - .
+] y
+: y
+x : X ' r m y T w 0 y : :^ ! / - J : : p f r :
+K ^ . r ; : K i % ;
+77|77i 7.-'-..-:;:y;
+->-;;f77.7 7 7 : - ' - , : r i - Y : - ' 7 ' . , v X :
+'' 7 , 7.
+• '• -777i ; :
+777:
+' •<---:":• 7 7 7 - y y ; 7 7 - - : 7 - M : £ $ M ' ;
+77". •'
+!;,.''.;<;7 7y [,.:•:: p. , '"'777 :;. :::; 7!
+7?
+7777ye G
+7 - 7 .="". ••rmSPK, 7 7 y 7 c # l * :
+7 v . 7 7 % J | | ™ •
+Kteie ; M 7 M v 7 7 7 y , ; y y -. M%r. T diWl&:.
+

@@ -1,0 +1,130 @@
+Felix
+Q T 1 H I H Scientists at Imperial College are now adapting one of the simplest and
+-T - L /
+oldest optical instruments, the pinhole camera, for use in holography. Their
+— • liiii i — experiments may eventually lead to optical computers. Sunny Bains
+J investigates.
+— 0
+Points of light
+Making a pinhole camera out of a
+shoe box is a standard experiment
+done in science classes all over the
+world. Scientists i n the Optics
+Section of the Physics Department
+have extended this simple device
+and made pinhole holograms:
+h o l o g r a m s w h i c h m a y have
+applications i n optical computing
+and information processing.
+A n ordinary hologram is recorded
+using a laser beam which is split into
+two. One half, the 'object beam', is
+reflected off the object and onto a
+photo-sensitive plate. The rest of the
+beam is directed onto the plate
+unaltered. This is k n o w n as the
+'reference beam'.
+The object and reference beams
+interfere as they h i t the
+photographic plate to produce a
+pattern. W h e n light is shone on the
+developed plate, it is unevenly
+reflected i n such a way that it
+appears to have been reflected off
+the original object. In effect, it seems
+that the object is there.
+The Imperial scientists have
+placed a pinhole between the object
+and the recording plate. This
+effectively becomes part of the
+object and when the hologram is
+reconstructed, all the light from it
+passes through this point, as if the
+real pinhole were still there. Other
+devices can be placed at this point
+to manipulate the image.
+One of the experiments carried
+out by Shenchu X u , Geraldo
+, Mendes, Stephen Hart and Chris
+Dainty was to make two holograms
+of different objects o n the same
+holographic plate, moving the
+pinhole slightly each time. They
+could then block out one of the
+images by putting a small object
+(they used a knife edge) at the
+position of the appropriate pinhole,
+l e a v i n g the other image to
+reconstruct normally.
+In this way it is possible to make
+a h o l o g r a m c o n t a i n i n g m a n y
+different images, each with its o w n
+pinhole in an array. Shutters placed
+in front of the pinholes can be open
+and closed to give any combination
+of these images.
+It would also be possible to
+replace the shutters with a liquid
+crystal device which, instead of
+simply allowing an image to be 'off
+or 'on', could give gradual changes
+in intensity. In either case, it would
+allow the image, and hence the way
+the light is reflected, to be changed.
+It would be programmable.
+Another experiment carried out at
+Imperial College involved putting a
+diffraction grating in the way of the
+pinhole. This gives many images
+side by side. Other optical elements
+could be used in a similar way to
+manipulate the image.
+If each point of light in the image
+Object Reference Beam
+Pinhole
+Plate
+Hologram
+Holographic Image
+'Image' of Pinhole
+\
+Incident
+Beam
+Recording and reconstructing a pinhole hologram
+activates its o w n detector, then a
+device consisting of a pinhole
+hologram and a shutter or optical
+system could act as an optical
+'interconnect' or switch and so
+could be used in optical computing.
+So far, researchers have used
+arrays of 273 points, each 50 microns
+in diameter and separated by 250
+microns, in their experiments giving
+an image only a few millimetres
+across. This is only slightly larger
+than would be needed for an optical
+computer, and the researchers
+believe this work can be scaled
+down.
+Southkenders
+-TAP | VJ iTrt N 0 U R. V I S I O N
+fXNP T. N f E G R. I T y y o a
+C0Kk\.O lA\\<e T r i e C H K N b E !
+f i N - f r t t S f A \ t ^ 9 \
+P u v t i - c c r v e R - s 1
+OP , S THINK
+~10U. t M C H T g E ( U 6 H f
+W \ T H f w e M - r < t e R.EP
+?>OOK no o p t UKMP ANP
+OTtft R
+- , i t L S T A R T f r i t
+R e v o t u T l o w . fOO
+c o r \ f R . o n i S £ . i M o
+N O frlrAfMCK;
+§
+f U t A S t , P L t t e E VOTE FOR. Mt.
+I ' L L <\U)fc-< SfAMtTiE S .^v
+'.
+N>0 C o i A P ^ O f A v S E ?
+Page 4 FELIX February 24 1989
+

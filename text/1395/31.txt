@@ -1,0 +1,245 @@
+32 felix Friday 8 February 2008
+One of the most enduring genres of
+PC gaming is that of the common
+RTS. Over time the skills required to
+play competitively in these games have
+become as diverse as the games them-
+selves. Working through a web of tech-
+nical terms for different play aspects
+can be daunting, as can learning how
+much each type of strategy is needed
+in each individual game to achieve
+the best balance of your brain’s clock
+cycles. This brief guide should help
+people nail down the basics required
+for the more standard multiplayer RTS
+games out there. While these tips are
+not designed for squad-based strategy
+games, turn based strategy games or
+single player games, some tricks might
+still apply.
+The largest facets of strategy which
+appear to a greater or lesser degree in
+all RTS games are those of microman-
+agement, macro-management and
+unit strategy. Achieving a balance of
+these three attributes can be difficult
+in any given game due to it varying be-
+tween games so greatly. More interest-
+ing however is how many of the more
+complicated concepts are simply a col-
+lision between two of the facets.
+Micromanagement
+First to be covered is the aspect of mi-
+cromanagement. As the name suggests
+micromanagement (or simply micro)
+is the art of little things, attention to
+detail. Micro can take many forms in
+a game, ranging from focusing fire
+on key targets in skirmishes to plac-
+ing turrets in a perfect arc as to focus
+fire on a choke point to meticulously
+spreading units out to avoid splash
+damage attacks.
+An important thing about micro is
+that it requires a time investment, so
+although it allows your forces to oper-
+ate more effectively under given cir-
+cumstances, it can be to the detriment
+of other areas. Those who want to im-
+prove micro will do well to memorise
+the hotkeys in the game, although hav-
+ing good basic control of the mouse
+will also work wonders.
+Macromanagement
+On the opposite end of the scale is the
+art of macro-management (or sim-
+ply macro). Again opposite to micro,
+macro is the skills of looking at the big
+picture. While micro is metaphorically
+a leader in the field pointing and say-
+ing “shoot that, attack its weak point
+for massive damage!” or “build turrets
+in a perfect hyperbolic arc here”, mac-
+ro would be the general asking how
+many tanks can be made in 5 minutes
+or pushing those cool coloured blocks
+around a map.
+The largest aspect of macro in games
+is that of base building, map control
+and resource generation. Basically it is
+important to try to keep your empire
+at maximum efficiency, with incom-
+ing resources being maintained in an
+almost perfect equilibrium with out-
+going costs. If any imbalance in your
+economy springs up it should be recti-
+fied immediately by either more forces,
+more factories or simply searching out
+additional resources.
+In general, you should always be
+producing forces except in the cir-
+cumstance when you are not sure
+what your opponent has in reserves, in
+which case keeping some emergency
+resources on hand can allow a counter
+to be built within short order.
+Unit Strategies
+The third major aspect in strategy
+games is that of the unit strategy. In its
+most basic form unit strategy takes the
+guise of what counters what in a game,
+but it also is important for figuring out
+unit combinations.
+Unit strategy varies greatly between
+games due to the individual units
+themselves varying, unlike macro and
+micro which remain almost univer-
+sal between games in the RTS genre.
+Those who want to improve unit strat-
+egy in particular have two main routes
+to follow, either learn or research ef-
+fective counters and combinations
+and stick by them, or alternatively one
+could memorise a variety of the most
+important unit stats to allow counters
+and combinations to be thought of on
+the fly for a particular situation.
+Those who do not play strategy
+games often will usually find simply
+learning various counters sufficient,
+but those who plan to play a particu-
+lar game often will find it particularly
+useful to be able to recite various im-
+portant stats about each unit. A solid
+knowledge of each unit's strengths and
+weaknesses can allow a single effective
+counter to be found against combina-
+tions of enemy units, as well as letting
+sickeningly cost-effective combina-
+tions to be found against your oppo-
+nents forces.
+Before investing much time trying to
+learn several tables of unit stats howev-
+er it is worth checking how much unit
+strategy affects the game you are learn-
+ing to play, as depending on the game a
+single unit can wipe out armies, while
+in a different game the perfect counter
+may still only be capable of fighting a
+battle at a 2:1 efficiency.
+Reconnaissance
+Now learning what counters what is
+nice and all, but it just makes it all the
+more important to know quite what
+you need to counter in the first place,
+as this is the place of reconnaissance in
+games (usually just called recon). Good
+recon in games takes quite a lot of mi-
+cro, but the end result is that you know
+your opponents units and movements
+so an effective counter can be found.
+Due to micro mostly helping you find
+what units your opponent has, it plays
+a much greater part in games with an
+emphasis on unit strategy. But as well
+as checking what your opponent has,
+recon also plays several other roles,
+such as keeping your own forces safe
+from harassment, or highlighting im-
+portant choke points on the map to be
+defended.
+The final thing recon does for you is
+to allow you to stifle early expansions
+on your opponents’ part, as they can be
+difficult to defend and are quite an in-
+vestment for your foe. But the best part
+of recon in games? It only takes time.
+Give or take a single unit all it takes is a
+bit of micromanagement on your part
+and all these benefits can be yours.
+Knowledge of your opponent’s army’s
+location can allow easy harassment of
+everything he/she owns that isn't right
+next to his/her forces. A vigilant player
+can easily make quick attacks followed
+by equally quick retreats to chip away
+at the opponent's bases or pockets of
+supporting forces with little to no cost
+to his own economy. In addition to the
+slow wearing down of your opponents
+supporting forces, harassment is also
+psychological attack where your op-
+ponent may become excessively defen-
+sive to try to stop your attacks if you
+are lucky, or might try a rash attack
+with his current army to try to end the
+game before he takes too many losses
+which may or may not be to your ben-
+efit. Building a suitably mobile group
+of units with which to harass your op-
+ponents can seem like quite an invest-
+ment, but remember that those units
+can regroup with your main army
+quickly if needed and offer much-
+needed support.
+Critical Mass
+A little trick that only appears in cer-
+tain strategy games is that of the criti-
+cal mass. Certain units in certain games
+The Player’s Guide to Real Time Strategies
+Alex Stubley have to be treated differently when in
+very large numbers. Typically the units
+that critical mass are long-range, some-
+times with associated splash damage,
+and usually rather fragile.
+Counters to an individual unit will
+either not work against the critical
+mass, or sometimes will work even
+more effectively against the mass than
+the individual.
+Counters of the former kind are usu-
+ally due to having shorter ranges than
+the mass (less ranks firing at once, or
+simply dying before getting in range
+due to sheer volume of fire), while the
+latter counters are due to either some
+sort of immunity against the mass or
+simply because they command a splash
+damage attack. This dividing of the
+counters can usually be figured out
+by remembering unit stats, saving the
+number-centric players much hassle
+when it comes to defeating an oppo-
+nent's force.
+Critical massing is often used late-
+game to help cover weaknesses in larg-
+er armies, as a mass usually only relies
+on small amounts of support to keep
+particularly nasty counters away, while
+the other half of the counters are ren-
+dered less effective due to the massed
+firepower. Fighting against a mass that
+uses support is a matter of either find-
+ing a counter that neither the mass can
+beat nor the support, or using micro to
+eliminate the support with lightning-
+fast strikes followed by a crushing at-
+tack using all of the counters for the
+mass itself.
+Mass on mass combat, however, is of-
+ten determined by sheer numbers and
+monetary investment, although some-
+times one mass might be more “mass-
+able” thereby giving the advantage,
+so it can be important to learn which
+mass beats which mass. In general the
+“massability” of a unit is proportional
+to its range divided by its size, as they
+are the two factors that decide how
+much withering fire it can hail down
+on anything that opposes it.
+Turtling
+games.felix@imperial.ac.uk
+Games
+

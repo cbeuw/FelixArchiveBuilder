@@ -1,0 +1,516 @@
+sport.felix@imperial.ac.uk
+42 Friday 13 February 2009
+felix
+Sport
+43
+felix
+Friday 13 February 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Squash Men's 1st 11 11 0 0 49 6 43 100 5.00
+2 Tennis Men's 1st 9 9 0 0 78 12 66 100 5.00
+3 Fencing Men's 1st 8 8 0 0 1069624 445 100 5.00
+4 Volleyball Women's 1st 8 8 0 0 17 1 16 100 5.00
+5 Lacrosse Women's 1st 9 8 0 1 139 31 108 89 4.00
+6 Netball 2nd 9 8 0 1 329 157 172 89 4.00
+7 Fencing Women's 1st 9 8 0 1 1188942 246 89 4.00
+8 Hockey Men's 1st 8 7 0 1 45 11 34 88 3.88
+9 Badminton Men's 1st 10 7 2 1 52 28 24 70 3.50
+10 ICSM Netball 3rd 8 6 0 2 253 171 82 75 2.75
+11 Squash Men's 2nd 8 6 0 2 25 13 12 75 2.75
+12 ICSM Badminton Men's 1st 4 3 0 1 18 14 4 75 2.75
+13 Table Tennis Men's 1st 11 8 0 3 124 63 61 73 2.55
+14 ICSM Hockey Women's 1st 10 6 1 2 45 23 22 60 2.40
+15 Hockey Men's 2nd 9 6 0 3 35 24 11 67 2.00
+16 ICSM Netball 2nd 6 4 0 2 192 117 75 67 2.00
+17 Hockey Women's 1st 10 6 1 3 37 22 15 60 2.00
+18 Hockey Men's 3rd 8 3 3 2 16 25 -9 38 1.63
+19 Badminton Women's 1st 11 6 1 4 54 34 20 55 1.45
+20 Tennis Men's 2nd 8 4 1 3 35 36 -1 50 1.25
+21 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+22 Basketball Women's 1st 7 4 0 3 326 309 17 57 1.14
+23 Rugby Union Men's 3rd 9 5 0 4 185 174 11 56 1.00
+24 Badminton Men's 2nd 6 2 2 2 24 24 0 33 1.00
+25 Hockey Men's 4th 5 2 1 2 12 20 -8 40 0.80
+26 ICSM Football Men's 1st 8 4 0 4 12 17 -5 50 0.50
+27 Basketball Men's 1st 6 3 0 3 432 412 20 50 0.50
+28 Fencing Men's 2nd 6 3 0 3 722 690 32 50 0.50
+29 Squash Women's 1st 10 1 6 3 17 27 -10 10 0.50
+30 Football Men's 1st 8 3 1 4 16 20 -4 38 0.13
+31 ICSM Rugby Union Men's 2nd 9 4 0 5 123 143 -20 44 0.00
+32 Tennis Women's 1st 9 4 0 5 39 51 -12 44 0.00
+33 ICSM Hockey Women's 2nd 6 2 1 3 16 19 -3 33 0.00
+34 Football Men's 2nd 7 3 0 4 18 26 -8 43 -0.14
+35 Rugby Union Men's 2nd 12 5 0 7 220 276 -56 42 -0.25
+36 Volleyball Men's 1st 8 3 0 5 7 10 -3 38 -0.63
+37 ICSM Rugby Union Men's 3rd 8 3 0 5 98 179 -81 38 -0.63
+38 Football Women's 1st 7 2 0 5 10 25 -15 29 -1.43
+39 ICSM Netball 1st 10 2 1 7 254 362 -108 20 -1.60
+40 ICSM Rugby Union Men's 1st 12 3 0 9 219 345 -126 25 -1.75
+41 Hockey Women's 2nd 8 2 0 6 8 32 -24 25 -1.75
+42 ICSM Hockey Men's 2nd 9 2 0 7 14 14 0 22 -2.00
+43 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+44 Football Men's 3rd 6 1 0 5 11 25 -14 17 -2.50
+45 Lacrosse Men's 1st 7 1 0 6 40 93 -53 14 -2.71
+46 Netball 3rd 7 1 0 6 73 240 -167 14 -2.71
+47 ICSM Hockey Men's 1st 7 1 0 6 12 23 -11 14 -2.71
+48 Rugby Union Men's 4th 9 1 0 8 95 393 -298 11 -3.00
+49 Rugby Union Men's 1st 12 1 0 11 120 416 -296 8 -3.25
+50 ICSM Badminton Women's 1st 10 0 1 9 11 70 -59 0 -3.40
+51 Rugby Union Women's 1st 1 0 0 1 0 80 -80 0 -4.00
+52 Table Tennis Women's 1st 4 0 0 4 3 12 -9 0 -4.00
+53 ICSM Hockey Women's 3rd 5 0 0 5 3 32 -29 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Netball 1st 7 0 0 7 137 271 -134 0 -4.00
+1 2 3 4 5 6 7 8
+9
+10
+11
+12 13 14 15 16 17
+18 14 19
+20 15
+21 22
+23
+24 25
+26 27 28 29
+25 32
+33
+34
+35
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,424
+Across:
+3. Flyer sounds drunk... and thin.
+(4-7)
+9. Aggressive sounding shops. (4)
+10. Forty-nine classed having sexual
+attraction shown. (11)
+11. Skeptics have it retained. (4)
+12. Sounds like cattle following the
+UN, silently. (7)
+18. Sanctify cereal for a rodent. (5)
+19. Vegetable skin? (5)
+20. Viewpoint? Vegetable contains a
+number. (7)
+21. Harvest quietly, ye who looks after
+freshers. (2-3)
+22. Egg white is out, for the record. (5)
+23. I, Egyptian God in marquee, will
+come again. (7)
+24. Doo’ a’ little enzyme test. (5)
+25. Hellenist provides lesbian sitcom.
+(5)
+26. Curled up in chocolate money. (7)
+32. Neat eruptor. (4)
+33. Like dead people? (11)
+34. Non-fiction in Madrid, perhaps.
+(4)
+35. Bearded lion becomes covered in
+bullets. (11)
+Down:
+1. Diversion provided by fire door?
+(11)
+2. Ma, in a particle, and I, get in a
+vehicle we can’t help nicking stuff!
+(11)
+4. Woody sounds like a partridge. (5)
+5. One side of a girl is frigid... (5)
+6. ...the other side sounds holy. (5)
+7. Approval for Imperial, perhaps. (4)
+8. Drug lair in the garden. (4)
+12. Sounds like you kill Ian Heavenly!
+(7)
+13. He fries chopped cows. (7)
+14. Girl is a large problem. (7)
+15. Professor consumed penny, which
+was given away! (7)
+16. Sounds like ability lies without
+your drawbacks. (11)
+17. Refer back to blokes on chart that
+can make beer. (11)
+27. Chuck out past-lover (quietly) to
+the Spanish. (5)
+28. String is identical, perhaps to the
+East. (5)
+29. Diet drug, perhaps, is the best. (5)
+30. Break feet at the carnival. (4)
+31. Speech sounds audible. (4)
+S U E A M I S H S P E E D
+C E R E B G A T O T R T Q E
+A N A G R A M P N E A T E S T
+R A N A A E B E A B O R I E
+F L I S Y P E Y E L I N E R
+O B U E I C B A C E E O A E R
+C O M M O N R O O M E B L U E
+O H E O N E O M O T A N N N
+N E R D A L A M B H O T P O T
+C N A O U O D O E Y R S I I R
+L A M P P O S T M S T O R M S
+U N P H R N W A N I R A H L
+D I A B O L O T P O L E N T A
+E V N K A R H E F L I H C T
+D E T E R D I S P A R A G E
+M
+Q
+Solution to crossword 1423
+Sunday 8th February
+Hockey
+Men’s 2s ULU 2
+King’s Medicals 2s ULU 1
+Monday 9th February
+Netball
+Women’s 1s ULU 16
+St George’s 1s ULU 39
+Squash
+Women’s 1s ULU 5
+King’s College 1s ULU 0
+Wednesday 11th
+February
+Badminton
+BUCS Cup
+Women’s 1st 8
+Oxford Brookes University 1st 0
+Fencing
+BUCS Cup
+Men’s 1st 135
+Aberystwyth University 1st 91
+Women’s 1st 131
+University of Liverpool 1st 64
+Football
+Men’s 1st 3
+Roehampton University 1st 2
+Men’s 2nd 4
+University of Hertfordshire 3rd 3
+Men’s 6s ULU 1
+Queen Mary 4s ULU 1(a.e.t)
+(Queen Mary won 3-2 on penalties)
+Hockey
+Men’s 2nd 3
+King’s Medicals 2nd 2
+Women’s 2nd 2
+RUMS 2nd 0
+BUCS Cup
+Women’s 1st 9
+University of the Arts London 1st 0
+ULU
+Men’s 1s 9
+King’s College 1s 0
+Men’s 4s 2
+St Barts 2s 0
+Netball
+Women’s 2nd 26
+University of the Arts London 2nd 13
+Women’s 3rd 11
+University of Reading 4th 36
+Rugby
+Men’s 1st 6
+Swansea University 1st 36
+Men’s 3rd 22
+Royal Holloway 2nd 10
+Men’s 4th 5
+University of Portsmouth 4th 69
+BUCS Cup
+Men’s 2nd 3
+University of Chichester 1st 36
+Squash
+BUCS Cup
+Men’s 1st 5
+University of Liverpool 1st 0
+Men’s 2nd 2
+Royal Holloway 1st 3
+Table Tennis
+BUCS Cup
+Men’s 1st 10
+University of Plymouth 1st 7
+Tennis
+BUCS Cup
+Men’s 1st 10
+University of Kent 1st 0
+Men’s 2nd 7
+Kingston University 1st 3
+Women’s 1st 7
+University of Brighton 1st 3
+Volleyball
+BUCS Cup
+Women’s 1st 3
+University of Exeter 1st 0
+Women’s 2nd 10
+Brunel University 1st 0
+Saturday 14th February
+Football
+Men’s 1s ULU vs LSE 3s ULU
+Men’s 2s ULU vs LSE 2s ULU
+Men’s 3s ULU vs King’s 3s ULU
+Men’s 4s ULU vs Royal Holloway 4s ULU
+Men’s 5s ULU vs Queen Mary 3s ULU
+Men’s 6s ULU vs Royal Holloway 6s ULU
+Sunday 15th February
+Hockey
+Men’s 2s ULU vs Royal Veterinary College 1s
+ULU
+ULU Cup
+Fixtures & Results
+Yes everyone, Enoch is on a break in
+order to give his mind a rest, but keep
+a look out for the big one at the end of
+the term where he might make a guest
+appearance.
+Last week’s crossword was courtesy
+of Wailer Ned, who was a crossword
+setter for felix back in 2001 (You’ve got
+to love the new digital archive we’re
+setting up!!!).
+Anyway this week we have another
+one from him. Enjoy!
+			 Jov
+The Italian job
+Hockey
+Imperial Men’s 1st XI 1
+C.U.S. Pisa Youth XI 5
+It was a difficult task to follow up last
+year’s tour weekend to Amsterdam but
+with Santa’s Little Helper’s mafia con-
+tacts in his homeland a trip to Pisa and
+Florence was no problem.
+We rocked up in Pisa at midnight on
+the Friday and it wasn’t long before an
+Irish pub was found and of lesser im-
+portance, our accommodation for the
+night/early morning.
+After informing the Pisa hockey
+club that we were in a national hockey
+league, big mistake by Santa’s Little
+Helper, they sent out their youth team
+and it turned out not to be the kind of
+game we had anticipated.
+The pitch was your average away
+game pitch with mountain views and
+grandstand and our only hope was that
+at 1-0 down they would revert to the
+Italian mentality of sitting back and de-
+fending. Error.
+However, the use of eight substitutes
+helped in the first half with good per-
+formances from players who the DeIV-
+iants had missed for much the season
+such as Alcaseltza and Karma Suture.
+The half ended 1-1 with Mr Pacman
+cancelling out the Pisa goal. In the sec-
+ond half three quick goals and far too
+much running took its toll and we were
+not used to playing in the sun.
+Imperial Hockey men’s 4ths go to Pisa for a one off game
+Elliott Dye
+On to Florence it was for the remain-
+der of Saturday, with the accommoda-
+tion ideally situated next to a nunnery.
+We headed for central Florence for our
+largest meal & fines circle of the sea-
+son with heavy fines for newly named
+Freshly Squeezed and also for Easy Ac-
+cess due to his recent antics.
+The main problem anyone will find
+when going out in Florence is the poor
+value of the pound with most drinks
+around €5. Regardless, the city itself
+was stunning at night and in the day,
+though the English rain on Sunday
+didn’t help. We were more grateful
+of the rain on our return, with heavy
+snowfall greeting us as we arrived.
+We will now have to be content with
+continuing winning ways in BUCS and
+ULU.
+England train at Harlington
+Mustapher Botchway
+Last Monday Sport Imperial and Har-
+lington were host to the England Rugby
+6 Nations squad for a training session.
+They were preparing for Saturday’s
+match against 2008 winners, Wales.
+Sport Imperial were able to accom-
+modate the squad at short notice after
+The Stoop, their usual training ground
+and other pitches in the area were
+flooded or waterlogged due to the ex-
+treme weather conditions of the previ-
+ous week.
+England trained on the 3G (astro-
+turf) pitch, which is more commonly
+used by Queens Park Rangers FC and
+the College football teams. Coinciden-
+tally, ICURFC also trained on the pitch
+Monday evening.
+The indoor gym facilities of The
+Third Runway, the latest moniker for
+Fortress Harlington were also used by
+the national team which pleased the
+Head Coach Martin Johnson as his
+charges were able to have an inten-
+sive training session, possible gaining
+a one-up over their more north-based
+rivals.
+After an unconvincing victory over
+Italy last Saturday England are looking
+to reverse last year’s 19-26 loss to Wales
+in the 2008 6 Nations Championship.
+The team have signed a rugby shirt
+to be awarded to one lucky winner at
+Varsity on the 25th February which
+will certainly piqueé the interest of all
+you paraphernalia fans out there.
+A
+fter almost two weeks
+of hibernation for the
+outdoor sports things
+are gradually returning
+to normal with only a
+third of Harlington being playable on
+Wednesday!
+It seems that Varsity preparation
+has severely curtailed the availability
+of our captains. Surprisingly both the
+Medical School and College football
+men’s 1st XI captains couldn’t partici-
+pate in an interview. Expect a double
+whammy next week.
+Continuing, we would like you turn
+back a page (obviously after reading
+this ‘informative’ column) to see a hint
+of what the Varsity magazine is to look
+like. Building on the success of last
+years pullout Jack, Jov and myself are
+creating a magazine, in a similar vain
+to Another Castle, i,science and Phoe-
+nix the gaming, science and arts maga-
+zines respectively. This will be Varsity
+centric with hopefully all of the par-
+ticipating sports having some column
+inches. If you would like to produce
+something for the magazine, flick your
+contribution to sport.felix@imperial.
+ac.uk.
+Staying on topic, we’re here to serve
+the student body so if you have any ide-
+as or suggestions please email us and
+we’ll try our best to implement them if
+they are viable.
+The second term normally means
+knockout competitions, ACC bar
+nights, club dinners, and elections.
+Jack Cornish &
+Mustapher Botchway
+Sports Editors
+Extra,Extra.
+Readallaboutit!
+Imperial teams are well represented in
+the latter stages of both the BUCS and
+ULU cups and we hope the silverware
+will be in abundance come the end of
+term.
+Wednesday night’s ACC bar night
+was as always, good fun, though I think
+postponing it for a week got a few peo-
+ple overexcited which ultimately led to
+a false fire alarm. Keep your elbows to
+yourselves people and keep the inter-
+sport rivalry friendly!
+Club dinner is the flagship event in
+the calendar for most of the clubs and
+I can do nothing but strongly recom-
+mend it. These events normally attract
+oldboys/girls so for all you freshers out
+there you will get the chance to meet
+and socialise with former legends of
+your club. Start saving up!
+Along with the sabb elections later on
+this term there will be elections for the
+committee for the various sports clubs
+at IC. If you are interested in having an
+impact on your club next year try and
+speak to the current committee to gain
+an insight on the running of your club.
+I would like to congratulate the RSM
+men’s 1st XI team in their victory
+against ICUAFC 7th XI. The score was
+in fact 3-1 not 3-2 as reported in the
+last issue. Along with James Brown’s
+comical explanation for his side’s loss,
+the hockey men’s 4th team seem to be
+living the life, being able to travel to
+Pisa to play a youth team! Also con-
+gratulations to the women’s futsal team
+in reaching the BUCS championships!
+Men’s 1s vs UCL Men’s 1s
+Lacrosse
+ULU Cup
+Mixed 1s vs Royal Holloway 2s
+Rugby
+Gutteridge (ULU) Cup
+Men’s 1s vs SOAS 1s
+ULU Cup
+Men’s 2s vs Goldsmiths 1s
+Men’s 3s vs Royal Holloway 2s
+Women’s 1s vs St George’s 1s
+Monday 16th February
+Netball
+Women’s 1s ULU vs St Barts 1s ULU
+Squash
+ULU Cup
+Men’s 3s vs LSE 3s
+Wednesday 18th February
+Badminton
+Men’s 2nd vs Royal Holloway 1st
+BUCS Cup
+Men’s 1st vs University of Hertfordshire 1st
+Women’s 1st vs Bournemouth University 1st
+Basketball
+Men’s 1st vs University of Kent 1st
+Women’s 1st vs University of Surrey 1st
+Football
+Men’s 1st vs St Mary’s University College 3rd
+Men’s 2nd vs UCL 2nd
+Men’s 3rd vs Canterbury Christ Church Uni 7th
+Women’s 1st vs University of Reading 1st
+Men’s 5s ULU vs LSE 4s ULU
+Men’s 6s ULU vs RUMS 4s ULU
+Men’s 7s ULU vs St Barts 4s ULU
+Hockey
+Men’s 1st vs St Barts 1st
+Men’s 2nd vs University of East London 1st
+Men’s 3rd vs Royal Veterinary College 1st
+Men’s 4th vs Brunel University 3rd
+Women’s 1st vs University of Chichester 1st
+Women’s 2nd vs Royal Holloway 2nd
+Men’s 1s ULU vs St Barts 1s ULU
+Lacrosse
+BUCS Cup
+Men’s 1st vs University of Birmingham 1st
+Women’s 1st vs Swansea University 1st
+Netball
+Women’s 1st vs RUMS 1st
+Women’s 2nd vs Brunel University 5th
+Women’s 3rd vs Roehampton University 2nd
+Rugby
+Men’s 1st vs Cardiff University 1st
+Men’s 2nd vs Royal Veterinary College 1st
+Men’s 3rd vs King’s College 2nd
+Men’s 4th vs St George’s 2nd
+Squash
+Men’s 2nd vs LSE 1st
+BUCS Cup
+Women’s 1st vs University of Exeter 1st
+Table Tennis
+BUCS Cup
+Men’s 1st vs Bournemouth University 1st
+Tennis
+Men’s 2nd vs Brunel University 1st
+BUCS Cup
+Women’s 1st vs University of Gloucestershire 1st
+Volleyball
+Women’s 2nd vs University of Essex 1st
+England RFC in action at the superb facilities at Harlington, one of the few places immune to heavy snow.
+ICHC Men’s 4th XI posing in Pisa after some hockey. It’s alright for some!
+in association with Sports Partnership
+

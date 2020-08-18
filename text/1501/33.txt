@@ -1,0 +1,228 @@
+CLUBS & SOCIETIES
+FELIX Friday 11 november 2011 33
+European success for Imperial at iGEM
+The iGEM (international Genetically
+Engineered Machine) competition is run
+every year with hundreds of teams from
+all over the world competing for the top
+prize in synthetic biology – a shiny piece
+of glass. It is now in its eighth year run-
+ning and bigger than ever before, with
+the grand finale at MIT now preceded
+by three regionals in Europe, Asia and
+America. The objective of the competi-
+tion is to essentially engineer bacteria
+to do something awesome – find land
+mines, produce fiery luminescence, you
+name it.
+We were but lowly undergraduates
+when we signed up to be part of this
+year’s Imperial iGEM team but can now
+easily be identified by a lack of personal
+grooming usually observed exclusively
+in the late stages of PhD thesis writing,
+and if you are unfortunate enough to
+catch one of us in a bar you will likely
+be subjected to a rant about Gibson as-
+sembly (it never works, man) or Bio-
+Brick standards (it’s pointless, man). But
+I digress.
+Our team of biologists, biochemists
+and bioengineers started out enthusiasti-
+cally (and maybe a tiny bit naively) in
+early July, when we brainstormed for
+ideas on how to engineer microbes to do
+something awesome. After two weeks
+of coming up with concepts that ranged
+from feasible to completely wacky, we
+finally found the project of our dreams:
+AuxIn. Named after the phytohormone
+auxin, the project does what the title
+says: we engineered E. coli to produce
+indole 3-acetic acid, a type of auxin that
+enhances plant root growth. We were
+interested in expressing this hormone
+as it makes plants grow highly branched
+roots that can be used for holding down
+top soil in areas prone to soil erosion and
+desertification.
+Once we had settled on a project, we
+Rebekka Bauer jumped straight into the “human prac-
+tices” component of our idea. We talked
+to ecologists, plant scientists, social sci-
+entists from LSE, charity founders and
+a Greenpeace scientific advisor to make
+sure that our project was viable and
+could be implemented in a sensible way.
+This led us to design Gene Guard, a con-
+tainment device that prevents horizontal
+gene transfer (bacteria passing on DNA
+in the envrionment). We also looked at
+how we could implement our project in
+a culturally sensitive and responsible
+way and designed a concept of using a
+seed coat to cover seeds in our bacteria,
+which could then be shipped to countries
+such as Australia and India where soil
+erosion poses a big problem.
+The project was completed with a third
+module, which enables bacteria to swim
+towards the root exudate malate to en-
+sure that the compound reaches roots.
+Amazingly, we also found a paper pub-
+lished last year describing how plants
+Student projects share at symposium
+Are you part of a student-led project
+at Imperial? Or perhaps you’d like to
+join one – or better yet, even start your
+own? No doubt you’ve heard of the
+achievements of some of the College’s
+most ambitious student projects, which
+include e.quinox, who deliver electric
+power to rural villages in Rwanda, and
+Raincatcher Imperial, who aim to im-
+prove the availability of clean water to
+residents in Tanzania. Such projects
+clearly have a wealth of experience and
+knowledge in implementing solutions
+that are of benefit to the wider commu-
+nity.
+The Students-Led Projects Sympo-
+sium (SPS) aims to bring these soci-
+eties together under one room, such
+that they can meet with each other and
+benefit from each other’s experiences.
+Jointly organised by both Imperial Col-
+lege London and Loughborough Uni-
+versity students, the event provide an
+optimum interactive environment for
+keynote speakers, representatives from
+the Union and the societies to network
+and exchange their thoughts and ideas
+on student-led projects. In the words
+of Merwin Man, who came up with
+the idea of the symposium in the first
+place, ‘the purpose of the conference
+is to create a community to encourage
+knowledge transfer between student-led
+projects and its members, something
+that does not exist in a functioning form
+at Imperial College’. He believes that
+by encouraging student projects to share
+their opinions and experiences on what
+works and what doesn’t, they will de-
+velop a better understanding of the steps
+they can take in order to successfully
+meet their goals. He also hopes that the
+symposium will inspire other students to
+get involved in one of the most reward-
+ing aspects of student-life.
+The SPS, which is due to happen on
+16th November 2011, will be a national
+event held at Imperial College London,
+with students from universities around
+the UK coming down to participate in
+the symposium. This event aims to bring
+James Chia
+these projects together and give recogni-
+tion to the endeavours of students who
+have already started using their skills for
+the benefit of the wider community. By
+sharing their ideas and presenting their
+work to the public and other students,
+the SPS focuses on encouraging and
+developing current and new student-
+led initiatives. The symposium kicks
+off with panel discussions that involve
+representatives from the Union and the
+societies themselves, who will discuss
+how they went about starting their proj-
+ects, and how they are run today.
+Earlier this year, Imperial College
+London saw its first Global Citizenship
+Symposium (GCS), a symposium of a
+From e.quinox to Raincatcher Imperial; students gather to discuss their experiences
+similar nature, held at a smaller scale
+and targeted at Imperial College stu-
+dents. The discussions revolved around
+the ever-important issue of money, with
+an emphasis on raising funds, and at
+how the Union and CAG can support the
+student’s idea or project. Simon Moss,
+the co-founder of the Global Poverty
+Project, who has spoken at prominent
+conferences in the past, including G20
+and WEF summits, was invited to the
+symposium to give a presentation to the
+GCS.
+The SPS will be beneficial for anyone
+with an interest in student-led projects,
+as well as to students currently involved
+in their own projects. “The symposium
+will let us know what other projects ex-
+ist and what they do,” says Karen Ng of
+Robogals, who encourage girls at school
+to take a greater interest in science and
+technology. “It will help us develop
+our own and others’ project, whilst
+also enabling us to give more back to
+the student community and to our sup-
+porters!” As places are limited, prompt
+registration at the website below is rec-
+ommended, with the event promising to
+be a stimulating overview of student-led
+projects at Imperial College London,
+Loughborough University and others.
+November 16 2011 – go to www.
+union.ic.ac.uk/cag/symposium to reg-
+ister for free.
+are able to break down their own cell
+walls and eat bacteria – a great platform
+for modifying plants without directly en-
+gineering them.
+And then we started living in a lab
+on SAF’s 5th floor. Communist atti-
+tudes towards sharing lab space quickly
+morphed into imperialist conquests for
+working pipettes. Tempers flared, friend-
+ships were tested. However, by the end
+of the summer, we came out exhausted
+but happy. Our bacteria produced auxin
+that could be seen to affect plants; they
+swam towards malate and were taken up
+into the roots and our Gene Guard mod-
+ule was only a week away from comple-
+tion. On top of that, our engineers had
+done some amazing modelling and de-
+signed an entire website from scratch.
+We had also presented our project at the
+Natural History Museum and set up a
+radio show around iGEM, which we are
+told other people listen to.
+Full of good hopes, we boarded a
+plane toAmsterdam on the first weekend
+of term. With iron determination we ig-
+nored the temptation of illicit substances
+and spent our time in the hotel room
+running over our vital, final 20-minute
+presentation. Nervosity ran high but we
+had our Disney movie moment when we
+were announced as finalists and Chris
+and Nikki got up to deliver the most
+amazing speech of their lives.
+This experience could only be topped
+by what followed soon – the Imperial
+iGEM team was crowned Grand Prize
+winner in the first ever regional jambor-
+ree.
+Happy and tired, we flew back to Lon-
+don and took a few days of deserved rest.
+But the journey is not yet over. Soon
+we will be flying out to Boston to present
+our project again, this time competing
+against the top teams from Europe, Asia
+and America. We will continue to work
+on our project until then and hopefully
+find a great end to an amazing summer.
+Imperial previously hosted its first Global Citizenship Symposium
+

@@ -1,0 +1,178 @@
+22 felix Friday 13 March 2009
+technology.felix@imperial.ac.uk
+Technology
+Technology Editor – Richard Lai
+Richard Lai
+Technology Editor
+A
+few weeks ago I prom-
+ised to try out Windows
+7 on a netbook (Acer As-
+pire One), but sadly this
+never happened. In fact,
+before I started writing this column I
+was at the Post Office to return the said
+netbook back to its eBay seller.
+All this fuss started back in early Feb-
+ruary when I won an eBay auction for
+the faulty netbook: all the seller said
+was that the screen didn’t turn on, so
+I assumed it would be an easy fix by
+upgrading the BIOS (as suggested by
+my good friend, Google). What actu-
+ally let me down was that the seller
+took pretty much forever to send the
+item to me, coming up with all sorts
+of excuses: heavy snow for the first
+week (fair enough), then in the second
+week he needed to get the shop to ex-
+tract personal data from the hard disk
+(should have done that before the auc-
+tion ended!). In fact it was the fourth
+week when the seller finally shipped
+the netbook, but my joy was short-
+lived: upon booting I discovered that
+the screen was cracked.
+Naturally, I had some suspicion that
+maybe this was a dark fact that the sell-
+er covered up in the auction listing but
+on the other hand it could have been
+Royal Mail’s fault. Anyhow, I contacted
+the seller to see if I could get some sort
+of refund: £70, which is the standard
+rate for a new screen on eBay, or a full
+refund if I return the netbook. At this
+point I must point out that the refund
+request is reasonable: I’d be happy to
+claim the compensation from Royal
+Mail myself, but the problem is that
+the applicant must be the holder of the
+proof of delivery – that was the seller
+in this case.
+The seller’s initial responses were
+disappointing: he claimed that he had
+contacted Royal Mail but was told that
+they were “not too sure what they could
+do”. Not good enough. In fact, the sell-
+er’s claim sounds more like a steam-
+ing pile of something that he collected
+from the park, and by ignoring my e-
+mails since then made it obvious that
+he wasn’t willing to do anything about
+this, so I filed a dispute with PayPal.
+The process goes like this: you file a
+dispute in order to get eBay’s attention,
+who will assist you to deal with your
+counterpart if requested; you escalate
+the dispute to a claim in order to get
+PayPal’s attention, who will actively
+contact your counterpart to get an an-
+swer. In my case, I heard nothing from
+the seller a week after the dispute was
+filed, so I escalated it to a claim.
+As the title suggests, PayPal man-
+aged to get the seller to speak to them,
+and eventually decided that I was eligi-
+ble for a full refund (including postage)
+upon returning the item via tracked
+delivery. They won’t be whipping the
+seller for me, but at least I get all my
+money back. Isn’t that great?
+Be warned though: had the seller
+not sent the item to me via tracked de-
+livery, PayPal would not have given a
+shit about this, so always double-check
+when buying from or selling on eBay.
+Finally, don’t forget to pick up the
+new issue of Another Castle!
+PayPal FTW!
+Create your style
+Special Introductory Offer
+£23 only
+for medium devices
+£45 only
+for large devices
+How to qualify:
+Choose a design from
+1. www.myDIGISKINdesign.com or use
+your own high resolution picture
+Send your order (inc. device type) to
+2. sales.uk@mydigiskin.
+com for an invoice (pay by debit card, credit card or PayPal)
+Once payment is received, pop down to the
+3. Nokia Flagship
+Store at 240 Regent Street and ask for a DIGISKIN staff
+An hour later you can pick up your skinned device!
+4.
+Found out more by calling us on 08443 571 134.
+Pimp up your iPhone
+Richard lists a few great iPhone apps that you can’t live without
+TwitterFon £ Free
+If I haven’t got you hooked onto Twitter yet,
+this app will: out of the many Twitter apps I’ve
+tried on the iPhone, TwitterFon turned out to
+be the fastest and most powerful of the lot. All
+the buttons are at the right place, so you’ll be
+tweeting with a minimum learning curve.
+Also try: Tweetie £1.79
+Similar app but supports multiple accounts.
+Flixster £ Free
+Chem. Eng. bad boy, Tadek (@tadekk on
+Twitter), kindly pointed out that Cineworld
+is currently doing a 2-for-1 student offer on
+studentbeans.com, so go get the voucher and
+then get this free app to locate your nearest
+Cineworld cinema anywhere, anytime – well,
+Mondays to Thursdays only for the offer.
+Also try: VLC Remote £0.59
+Watch movies at home instead with this handy app.
+Bloom £2.39
+Despite the price, Bloom is an app which, with-
+out doubt, will be used more than once after
+purchase. You can compose relaxing, ambi-
+ent music by simply tapping anywhere on the
+screen (thus leaving behind a beautiful radial
+trail), or you can just let the bot make music
+for you. Great for the exam season. (Thanks,
+@VentnorBlog)
+Also try: Koi Pond £0.59
+Let the fish clear your stressed mind.
+( )
+)
+(
+)
+(
+London Tube Maps £0.59
+*By Ben Fearnley, Computing undergraduate*
+Ben talks about the development of this app:
+London Tube Maps was designed from the
+start as a useful way to find your way around
+the London Underground network, and it has
+turned out to be just that! With thousands of
+users it has become a popular way to view the
+transport system.
+Of course, with success of a small app comes
+a giant company wanting to milk it for every
+penny they can sue its creator for. Very early
+on in the life of the app, Transport for Lon-
+don’s artwork designers, “Pulse Creative”, de-
+manded payment to use their maps or else
+they “would be forced to take legal action”. In
+the end a settlement was agreed and with the
+use of their original, high quality maps London
+Tube Maps is now the perfect way to view the
+Underground.
+The development cycle continues though; the
+next stop for London Tube Maps is tube sta-
+tuses (in this shot you can get a sneak preview
+of what’s coming). This addition will make
+the app an invaluable utility for planning your
+journey through London.”
+Also try: Tube London City £2.99
+Pricey but has route planner and live information. )
+(
+“
+”
+Easy-to-navigate linear view with search
+A sneak peek of the upcoming status feature
+

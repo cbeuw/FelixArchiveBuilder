@@ -1,0 +1,187 @@
+7 February 2000 • Felix Science 11
+Rebels or Rejects?
+As mounting excitement surrounds Installfest 2 0 0 0 , Ewan Jones finds out about Linux
+For hours the discussion had been raging, with
+strong disagreements about the module's con-
+struction giving way to a quieter, more technical
+dialogue. For a moment the chat room was
+silent, until suddenly a message seethed across
+the page. It read "Happy New Year."
+This is possibly the most common stereo-
+type of the Linux enthusiast. Even the word
+"enthusiast" casts up images of bearded, mid-
+dle-aged men with personal hygiene issues,
+strangely keen to discuss their sole interest with
+a number of pimpled, solitary youths. But
+maybe the image of the enthusiast is about to
+undergo its biggest change since the invention
+of the Thermos flask, as it is these people who
+pose the biggest threat to the global capitalist
+conspiracy.
+"Linux" refers to a group of PC operating
+systems including Suse (which resembles D O S
+to the uninitiated), to Red Hat (which looks like
+a funkier version of Windows 98). But there, I'm
+assured, the resem-
+blance ends. So I
+went to Tottenham
+Court Road (or TCR to
+its inhabitants) to find
+out what makes
+Linux, and its users,
+so different.
+Having a desire to type
+which is matched only by a similar lack of cash,
+I have made a few contacts in the computer
+world. Upon entering the computer fair, howev-
+er, I was still seized by a natural defensive
+instinct to yell "You're all virgins!" and run out
+into the sunlight. But my room mate's jumper
+and National Health glasses, together with
+about four days facial hair, put me more at my
+ease, and I headed towards the Linux area.
+Unfortunately, having to confess that I had
+never heard of a "scuzzy" rather blew my cover.
+However, from my conversations with the
+scuzzies, I learnt the following about Linux:
+Unlike the secretive, shady work of such sin-
+ister capitalists as Microsoft, Linux is freely cre-
+ated and distributed by an International Broth-
+erhood of programmers. This was made possi-
+ble by a program written by a man called Linus
+Torvatis, called the Kemal, which calls on other
+small programs, called modules, to perform all
+the individual tasks necessary in order to run a
+computer. Unlike Microsoft's Windows, all of
+the code behind these modules is freely avail-
+able, and Linux's International Brigade will
+rewrite these modules (and continually invent
+more) in order to make their machines work
+better, and will usually then make their work
+available.
+This system of development has a number
+of effects. Firstly, unlike commercial program-
+mers (who have "disillusioned idealist" written
+all over them), Linux's programmers are moti-
+vated only by a desire to make their system work
+in the best, most efficient way. As a result of this,
+Linux is streamlined, making it use less of your
+system than the shaky electronic giants. It also
+leads to the well known (and worrying) view-
+point that Linux "feels more stable", which
+could be a godsend to the user who is used to
+seeing an article follow the 2nd law of thermo-
+dynamics.
+Secondly, it is a well known fact that you
+can give a set of computer enthusiasts two ran-
+dom three letter acronyms (or TLAs) and they
+will debate for hours the relative merits of the
+two systems you have just inadvertently
+described. The same holds with Linux -as users
+debate the merits of one module or another,
+Linux evolves into a number of different species,
+with many versions of each. Suse is preferred for
+many servers, while graphical interfaces such as
+Red Hat are the choice of the general user,
+allowing a standard wallpaper of a desired
+female or component.
+In theory, it seems,
+Microsoft should
+have nothing to
+worry about. Hav-
+f ing cornered the
+market in operat-
+I X ^ U V U S . i n
+9 systems,
+browsers and com-
+mon software, and hav-
+ing ruthlessly purged its rivals, it could afford to
+start annexing small countries by now. But Linux
+is not really a commercial venture, and so can-
+not, by definition, be driven out of business. Its
+main market currently lies in system administra-
+tors such as in the Department of Computing,
+where Linux machines have pride of place,
+while NT machines are hidden away in a less
+desirable room (one with windows). Servers,
+both local and internet, it seems, prefer Linux,
+as a network is much less likely to crash of its
+own accord. X% of servers are believed to run
+Linux. It also has the advantage that the admin-
+istrator can (fairly) easily tailor the system to his
+or her exact needs.
+An even bigger threat, it is predicted, will
+come as more software is developed to run on
+graphical Linux systems, providing reliability
+and ease of use (and hopefully eliminating the
+need for your computer to become an antique
+curiosity within nine months) for the ordinary
+user without a degree in computing and with
+other interests. It has the potential, with some
+manoeuvring, to weaken Windows share of the
+market.
+As the last of the computer fair visitors hurry
+home to catch Star Trek, I head back to a wel-
+come shave and a date. But perhaps as Bill
+Gates' empire begins to lose its grip, it is time
+to start looking at the alternatives.
+Ewan Jones has never been a member of
+the Gloucester Road Popular Front
+IN THE NEWS
+The US National Institute of Health has expressed
+concerns over the number of failed genetic thera-
+py experiments on humans. Researchers are sup-
+posed to r e p ^ i deaths and failures, but often foil
+to because of the commercial nature of the work.
+China are believed to be preparing to mark the
+new year by launching their Inst astronaut, using
+the Sherizhou capsule. The craft is based an reli-
+able'Soviet technology.
+An international effort has been launched to find
+the missing Mars Polar Lander. MPL was believed
+to have been destroyed, but new data from the
+Christmas period shows two blips which suggests
+the probe may '.till be alive.
+Horttculturalists tn Cofiforhia} :
+te
+germinate seeds of the rare Corpse flower The
+ffo'wer blooms very rarely, producing a smell
+described as a combination of raw sewage and
+rotting flesh.
+Scientists in China have produced the wcspps
+smallest nanotubes. with diameters of just O.Snm
+Nahorubes are essentially tubular versions of
+"buckybbl^|;Cf:
+grouping of carbon atoms in:the
+f t e p s of a football,
+Genetic researchers have located a gene which
+mokes men susceptible to testicular cancer. It is
+hoped that the discover/ will allow screening of
+vulnerable individuals, with the hope of catching
+pPdised;
+Sf.i;idrty.
+Fragments of a meteorite which fell to Earth in
+November have been recovered m Ireland The
+rock is believed to be of lunar origin by scientists
+at the Natural History Museum, and is the first
+meteorite to be recovered in Ireland since 1 3o5
+The US Notional Secuntv Agency has admitted
+that it suffered a serious computer crash lost week
+which affected the processing of intelligence infor-
+mation I lotional security is not believed to have
+been jeopardised.
+.Psion and Motor^ia^ to develop
+•.; series of mobile internet products. The device;
+should hove integrated voice and data capacity,
+and are expected to be launched early next year.
+The European Union is considering a total ban on
+all US-produced meats, due to fears over hor-
+monal contamination The contaminants are legal
+in America, but are suspected of causing heal
+problems in children.
+Nasa have postponed the launch of the Space
+Shuttle Endeavoui until at least ne>t Wednesday,
+Jut to •computer problems. Meanwhile, a Science
+columnist has undertaken not to runarty, more
+Nasa features for at least one month.
+

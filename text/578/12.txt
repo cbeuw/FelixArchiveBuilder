@@ -1,0 +1,165 @@
+Camborne
+Congratulations to Mines on retaining the
+Bottle.
+Take note of front page photo, and lengthy
+article.
+Please send Mines Half-Colours in plain
+brown wrapper forthwith.
+Consoc Opinion Poll
+The Consoc opinion poll, while not necessarily
+representative of IC as a whole certainly
+contains some very interesting results.
+By far the most interesting result is that a
+substantial majority "don't know" when asked
+about John Passmore, Liz Lindsay, and Rachel
+Snee. The main way they are likely to get
+"known" is through the pages of FELIX and
+unless they do something to alleviate the
+stagnant state of I C U soon, they are liable to
+be forgotten completely.
+It amazes me that it is just these type of
+people who are awarded pots and U G A s at the
+end of the year for "their unfailing devotion to
+the Union".
+I think Scaramouche is gradually taking over
+the back page. Aaarrrgh!!!!!!
+M o r e p r o b l e m s for P r i m e l i a C o l l e g e
+O r c h e s t r a . T h e y have been planning an
+informal musical evening for the week after
+their c o n c e r t , but apart from a general
+consensus that it should consist of five pieces,
+the third being for oboe and piano, everyone
+has a different opinion over what music should
+be played.
+Nevertheless, after much discussion, the
+following has been agreed on. There must be a
+piece for clarinet and piano immediately before
+a piece by Beethoven. Something by Mozart
+should immediately follow a piano trio. There
+must be a string quartet, which cannot be
+played next to the piano trio, but must go next
+to a work by Brahms. A n d there must be a
+piece by Schumann, and a piece for horn next to,
+but on opposite sides of, a piece by Saint-Saens.
+N o w t h e r e must be a way to please
+everyone. But how?
+Solutions, comments, criticisms to me c/o
+FELIX Office. There is a prize of £5 (donated
+by Mend-a-Bike) and two tickets to the IC
+Orchestra concert for the correct entry
+randomly selected at 1:00pm next Tuesday.
+Last Week's Solution
+J_ I J_ 2_ 2_
+4 , 4 , 2 " 3n , 3TT .
+Imagine the can divided into two identical
+cylinders, and consider the top cylinder. After
+the first p o u r i n g , the empty part of this
+cylinder is the same size and shape as the part
+which contains beer. Thus the first student
+gets a quarter of the beer.
+A n identical argument applied to the whole
+can shows that half the beer remains after the
+second pouring. So the second student gets a
+quarter of the beer.
+N o w to calculate the fourth (and thence the
+third) student's share, I'm afraid you do have
+to use calculus, but there's one easy approach
+and several hard ones. The easy way is to take
+volume elements parallel to the axis of the
+cylinder. T h e F E L I X typesetter won't do-
+mathematical symbols, so we'll have to change
+typeface here.
+Now the volume elements are rect-
+l
+angular with length x.— and width
+2 2
+2/(r - x ) . So the volume required is
+V = JJj x . | . 2 / ( r 2
+- x2
+) dx
+21 ,r .
+11
+x2
+)* dx
+r
+1
+, 2 2,2 ,r
+[- ^Cr - x ) ]0
+2
+o 2
+3 * .
+Since the volume of the whole can is
+2 2
+Tir I , the last student's share is -r—
+1 2 ^
+and so the third student gets ^ - -JJJ-
+The winner is A Shiekh.
+There can't be many students at IC who
+don't have A-level maths, and so I had no qualms
+about setting a puzzle which needs calculus
+even if it did cause several people to pour
+coffee over their lecture notes last Friday.
+This week's puzzle, in case you haven't
+guessed, is a plug for IC Symphony Orches-
+tra's concert on March 6, not to mention their
+informal musical evening on March 12. Next
+week's puzzle is a plug for IC Choir. Mend-a-
+Bike are still offering discounts to F E L I X
+readers. A n d I feel more like an advertising
+agency every week.
+What's On
+Friday, February 27
+•Socialist S o c i e t y B o o k s t a l l , lunchtime, J C R .
+Saturday, February 28
+• F r o e b e l S t u d e n t s ' U n i o n R a g B a l l , with Eddie and the
+Hot Rods, 8:00pm, Montefiore Hall, Froebel Institute.
+• F o r u m on 'Singapore's Development — a model for
+Malaysia?", 7:00pm, U L U , Malet St.
+Sunday, March 1
+• W a r g a m e s C l u b M e e t i n g , 1:00pm, S C R .
+Monday, March 2
+•Socialist S o c i e t y 'Your Local Candidates for the G L C
+Elections', 6:30pm, Union Upper Lounge.
+Tuesday, March 3
+• I C H o c k e y C l u b A G M , 1:00pm
+• M a r k C a r l i s l e , Secretary of State for Education, 1:15,
+Huxley 213.
+• C h r i s P r i c e s , M P on 'The Tory Education Cuts', 1:00,
+Maths 341. Free.
+• R a i l s o c : 'Swiss and Austrian Mountain Railways', 5:40,
+Maths 340.
+• G e r r y B e n n e t t from Campaign C o - o p , 6:30, Green
+Committee Room.
+• P h o t o s o c L e c t u r e : Northern Italy, 7:30, with A G M
+at 6:30pm.
+Wednesday, March 4
+•Indsoc T r i p to C E G B Power Station at Dungeness, meet
+12:00, Beit A r c h . For further details contact Mark Skeates,
+D O C 1 .
+• W a r g a m e s C l u b M e e t i n g , 1:00pm, S C R .
+Thursday, March 5
+• U n i t e d N a t i o n s S o c i e t y , 1:00pm, Union S C R . With
+'Study in the Shadow of the G u n ' , a talk by two Palestinian
+_ students from Bir Zeit University.
+• L u n c h h o u r c o n c e r t , the Music Room, 53 Princes Gate.
+• H a n g G l i d i n g C l u b , 1:00pm, above Stan's Bar.
+• S T O I C t r a n s m i s s i o n , 1:00 and 6:00pm, J C R and Halls.
+• G l i d i n g C l u b M e e t i n g , 5:30pm, A e r o 254.
+• I C H o c k e y C l u b D i n n e r , 7:00 for 7:30pm, Southside
+S C R / S D R .
+• R e a l A l e S o c i e t y M e e t i n g , 7:30pm, C r u s h Bar, second
+floor, Union Building. Beers: Tidsbury bitter, King and
+Barnes mild and Ringworm bitter.
+• U L U G a y s o c M e e t i n g , 8:00pm, R o o m 2 D , U L U , Malet
+Street.
+Don't miss the
+GUILDS ELECTION BARNIGHT
+Starting at 7:30 pm
+This Sunday in the Union Bar.
+All the usual fun PLUS
+Find out who the candidates are
+AND SEE DAVE GAYER'S HEAD
+BEING SHAVED!
+FELIX is published by the Editor for and on behalf of the Imperial College Union Publications Board, and is printed by the Union Print Unit, Prince Consort Road, London,
+SW7 2BB. (589 Sill ext. 1048/int. 2881) Copyright FELIX 1981. Editor: S.J Marshall. Advertising Manager: MA. Smith. Registered at the GPO as a newspaper
+

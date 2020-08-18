@@ -1,0 +1,461 @@
+sport.felix@imperial.ac.uk
+38 Friday 15 May 2009
+felix
+Sport
+39
+felix
+Friday 15 May 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 12 12 0 0 105 15 90 100 5.00
+2 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+3 Fencing Men's 1st 11 10 0 1 1457861 596 91 4.18
+4 Fencing Women's 1st 11 10 0 1 1445 1160285 91 4.18
+5 Lacrosse Women's 1st 11 10 0 1 162 43 119 91 4.18
+6 Volleyball Women's 1st 9 8 0 1 17 3 14 89 4.00
+7 Hockey Men's 1st 13 11 0 2 65 19 46 85 3.62
+8 Squash Men's 2nd 13 11 0 2 40 21 19 85 3.62
+9 ICSM Netball 2nd 12 10 0 2 452 226 226 83 3.50
+10 ICSM Netball 3rd 12 10 0 2 444 225 219 83 3.50
+11 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+12 Table Tennis Men's 1st 15 12 0 3 163 88 75 80 3.20
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 12 9 0 3 404 226 178 75 2.75
+15 ICSM Hockey Women's 1st 14 9 1 4 65 29 36 64 2.21
+16 Hockey Women's 1st 16 9 2 5 54 38 16 56 1.81
+17 Basketball Men's 1st 11 7 0 4 780 709 71 64 1.73
+18 Hockey Men's 3rd 12 4 5 3 23 30 -7 33 1.50
+19 Hockey Men's 2nd 12 7 0 5 50 36 14 58 1.25
+20 Hockey Men's 4th 8 4 1 3 19 23 -4 50 1.25
+21 Badminton Men's 2nd 11 5 2 4 49 39 10 45 1.18
+22 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+23 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+24 Fencing Men's 2nd 9 5 0 4 1100 947 153 56 1.00
+25 Rugby Union Men's 2nd 17 9 0 8 358 334 24 53 0.76
+26 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+27 Basketball Women's 1st 10 5 0 5 453 425 28 50 0.50
+28 ICSM Hockey Women's 2nd 11 4 2 5 27 43 -16 36 0.36
+29 Football Men's 1st 12 5 1 6 25 29 -4 42 0.25
+30 Tennis Men's 2nd 12 5 1 6 42 69 -27 42 0.25
+31 ICSM Football Men's 1st 13 4 3 6 17 26 -9 31 0.15
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Football Men's 2nd 11 4 1 6 24 35 -11 36 -0.18
+34 ICSM Rugby Union Men's 2nd 16 6 1 9 271 244 27 38 -0.25
+35 Rugby Union Men's 3rd 15 6 0 9 264 324 -60 40 -0.40
+36 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+37 ICSM Rugby Union Men's 1st 17 5 1 11 306 467 -161 29 -1.00
+38 ICSM Rugby Union Men's 3rd 14 4 0 10 152 429 -277 29 -1.43
+39 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+40 Football Men's 3rd 11 3 0 8 18 33 -15 27 -1.55
+41 ICSM Football Men's 2nd 10 2 1 7 13 28 -15 20 -1.60
+42 ICSM Hockey Women's 3rd 9 1 2 6 11 39 -28 11 -1.67
+43 Hockey Women's 2nd 11 2 1 8 10 46 -36 18 -1.82
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 Football Women's 1st 10 2 0 8 11 34 -23 20 -2.20
+46 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+47 ICSM Hockey Men's 2nd 11 2 0 9 17 24 -7 18 -2.36
+48 ICSM Hockey Men's 1st 11 1 1 9 18 45 -27 9 -2.64
+49 Rugby Union Men's 4th 15 2 0 13 162 623 -461 13 -2.80
+50 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+51 Netball 3rd 12 1 0 11 127 452 -325 8 -3.25
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Netball 1st 11 0 0 11 220 428 -208 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+1 2 3 4 5 5 6 7 8
+9 10 11
+12 13
+14 14
+15 15 16 17
+18 19 20 21
+22
+23 24
+25 32
+26 27
+34
+28 29
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,432
+Across
+1. Neo-Nazi leader goes after
+southern family (8)
+5. Eat jokingly, by the sounds (6)
+9. Novelist is dumbass, no BS (5)
+10. Breathe in forcefully – something
+to do in winter (9)
+12. After combining vehicle and
+writing implement, attempt
+woodwork (9)
+13. In the past, time was reversed,
+and a man might wear this (4)
+15. Meaning well, being funny with a
+point (6)
+16. Mess with nature, left without bias
+(7)
+18. I’m a fruit to accuse public official
+of misconduct (7)
+20. Time to dine outside the post
+office – it might be good for a brew
+(6)
+23. Egg constituent changes hands in
+town (4)
+24. Guys into robotics with
+connections and facilities (9)
+26. EU make Ali upset, causing
+illness (9)
+27. Inappropriate to sleep in it (5)
+28. Artist, one who discriminates
+between boxes? (6)
+29. Convince rude apes
+mischievously (8)
+Down
+1. Deuces somehow entice (6)
+2. I’m over a river, almost to plunge
+into water (7)
+3. Mad hairy Celts are uncontrollably
+emotional (10)
+4. Army figurehead sustained brachial
+bulletwound – this could give a lift
+(1,4,2,3,3)
+6. What’s usual for weird moron who’s
+lost a ring (4)
+7. Charm English with American
+belonging to us (7)
+8. Elation conjured by piggy’s adorn-
+ment? (7)
+11. Whiter than white, a step too far
+(6,3,4)
+14. Person one associates with history
+or languages, perhaps (10)
+15. Tramp, or what one sits on (3)
+16. Aesthetic work displayed at party (5)
+18. Picturesque lakes, 500 in Italy’s
+borders to the north and a great
+university to the south (7)
+19. Sparkling wine Republican knocked
+over to unsettle someone (7)
+21. Look in a watery place for hidden
+P E N S E S E E D I B L E
+L E A E U G X T T E R A Q C
+A N T E L O P E S E L I N E D
+N A E A L E E I A E O I Y
+O F F E C R E T A G N T S
+H B C E D C T A O E A O A E I
+I S H A A C O R N U C O P I A
+P H E O S E P T O Y A E N S
+P L W R G H T R P E L T
+O N P O E O N O E Y T S I S
+D S S A T S F I D A S S
+R N K H R N O E N N R D H C
+O K A P I E N O N E N T I T Y
+M V T K N E H C F I I D C A
+E N E R G R T E A S P O O N
+S
+Solution to crossword 1431
+A
+E
+L
+I
+Y
+E
+Y
+Congratulations to Ian Gilmore who
+was the first person to get the correct
+answer in this week. If we keep getting
+people who aren’t at the top of the table
+submitting the correct answers in then
+we might be in for a real upset folks!
+Here is another delectable brain tick-
+ler from our crossword setter for you
+all to try out. Answers, as ever, in to
+sudoku.felix@imperial.ac.uk please.
+Good luck!
+Crossword by: Sam Wong
+X
+E
+I
+to push-off while they awaited their
+stroke. Stainthorp had just crossed
+the finish in the beginner 8+ and had
+to dash into the quad. After a desper-
+ate push-off, bow Tamsin Bromley
+reported the steering to have ceased
+functioning. Already late the crew
+could not turn back and had to steer
+up to the start by pressure. Despite
+the rush the crew were passed in the
+opposite direction by their race at the
+1500 metre mark and shouted at by an-
+other Marshal who took great pleasure
+in informing the crew of their misfor-
+tune. There was no time to wallow in
+self-pity as three of the crew members
+had to be back to race in the champ
+8+ (WC8+). The 8+ was now also late
+as a result of having to wait for the
+quad members and after more seat-
+switching the crew (Hart/Symmonds/
+Graham/Thompson/Philips/Duffy/
+Rouse/Bromley) hastily made its way
+to the start line but suffered a shoddy
+performance as a result. Luckily all los-
+ing boats were sent to the repechage
+where the crew improved form enough
+to secure a place in the final, but were
+not strong enough to medal. Stern pair
+Louise Hart and Chloe Symmonds
+were already exhausted having won the
+opening heat of the intermediate pairs
+(WI2-) and missing out on gold in the
+final by 11 seconds.
+The men’s intermediate quad (MI4x)
+of Tom Bell, John Dick, Matt Lunt and
+Andy Gordon finished third in their
+heat, second in their rep and fourth
+in the final behind winners Reading.
+Boatman Paul put the results of that
+race into perspective (and actually
+made the crew feel less disappointed),
+“2 novice scullers and 2 lightweights
+in a scratch crew managing to finish
+4th... I think that’s pretty good”. Dick
+was appreciative of the comment: “It’s
+the nicest thing I’ve ever heard him
+say.” On Sunday John Dick and Danny
+Bellion teamed up for the intermediate
+doubles (MI2x) and finished second
+in their heat. Due to time restraints
+between races Tom Bell took the bow
+seat for the repechage getting them
+into a final where they finished fifth.
+Bell returned crestfallen and drenched
+from head to toe. As he dripped his
+way towards the tent there were muf-
+fled questions as to whether the crew
+had capsized during the race. “They
+must have, how could he be *that*
+wet?” When John appeared completely
+dry it was clear that Bell’s wetness was
+the result of a splashing Dick. Again.
+In the women’s intermediate double
+(WI2x) Chloe Symmonds and Chris-
+tina Duffy boated with ample time to
+warm-up and practise some starts. At
+the 1000 metre mark on the way to
+the start the collar from Symmonds’
+stroke-side blade came loose and the
+boat had to make it’s way painfully
+back down the return lane to find a
+screw-driver. With time now slipping
+away the blade was re-geared and the
+crew set off at full pace to the start line.
+However the boat continually veered
+towards the bank on the way back up
+and by the 1500 metre mark it was
+concluded that the steering fin was still
+attached to the stern despite removing
+the foot steering earlier. Coach Ross
+Smitheman had been following on a bi-
+cycle and took pity on the traumatised
+crew. The boat pulled over to the bank
+and Smitheman waded into the lake to
+remove the fin mumbling something
+about killing Duffy if he got bird shit all
+over him. Sadly the crew were blown
+from lane 6 throughout the race and
+finished fourth missing the repechage
+by less than two seconds.
+One of the few crews to have trained
+together was the men’s intermediate
+coxed four (MI4+). The four of cox
+Libby Richards, Iain Palmer, Richard
+Winchester, Bruce (Tom) Arnott &
+Gareth Brown won both their opening
+heat and semi-final but were pipped to
+pole position by Durham in the final
+and had to settle for silver.
+The disappointment of the weekend
+went to Georgie Philips who despite
+winning a silver medal in the women’s
+beginner single sculls event (ahead of
+IC’s Ella Burroughes who claimed an
+impressive bronze) was devastated
+at not winning gold. As she made her
+way to the medal ceremony the official
+asked how her race went; a question he
+later regretted. Philips offered a cynical
+smile for the photo and headed back to
+the ICBC tent emotionally distraught.
+Comfort was sought from Bruce who
+offered an inspirational speech about
+how little things can mean a lot to
+some people and to be grateful of her
+silver medal. With a glazed eye and
+wistful stare across the lake he shared
+stories of his days down under with
+his mates and his rubber dinghy. “We
+loved that dinghy. Because it was our
+dinghy.” Silence befell the mini-bus as
+we clung to his every word. Philips left
+composed, smiling and uplifted. “Good
+onya! She’ll be apples”. As the door shut
+Arnott admitted “I’m not happy with
+my f-cking silver, let’s get real… this is
+shit, it’s all about the gold.”
+There were plenty of Dingo’s break-
+fasts (a yawn, a scratch, a leak and a
+good look round (i.e. no breakfast)) be-
+fore weigh-in for the men’s lightweight
+8+ (cox Henry Fieldman/Ole Tietz/
+Adam Freeman-Pask/Andy Gordon/
+Matt Lunt/Oli Mahony/Patrick Hud-
+son/Alex Gillies/John Beaty). Gillies
+seemingly irrepressible energy levels
+were fuelled in the preceding weeks by
+cups of tea and coffee, marshmallows,
+lollipops, honey sandwiches and cans
+of red bull in order to make weight.
+The IC crew won their opening heat
+over Durham A and B but were beaten
+to first place by a strong Cambridge
+crew in the final by a time difference of
+over 10 seconds.
+The championship men’s lightweight
+quad event (MCLwt4x) saw Adam
+Freeman-Pask, Oli Mahony, Ole Tietz
+and Alex Gillies sail through the open-
+ing heat finishing a comfortable sec-
+ond. The crew made the classic error
+of confusing the women’s Empacher
+quad with the non-existent men’s
+lightweight quad. Bowman Gilles had
+to row feet-out for the race as he could
+not fit into the steering shoe.
+Despite Steve’s email during the week
+claiming “it is unlikely to be wet” the
+sunny weather turned to rain on Mon-
+day and the wind picked up resulting
+in racing being temporarily postponed.
+All crews returned to the finish in
+time to witness four female Durham
+rowers being plucked from the lake
+as their coxless four sank underneath
+them. With no signs of improvement
+repechages were cancelled and finals
+were drawn based on fastest qualifying
+times. This left crews who had raced in
+slower heats out for the final, i.e. IC’s
+men’s intermediate 8+ who dominated
+their heat and finished first by rating
+18 for the last 500 metres. Further rac-
+ing in the beginner sculls was cancelled
+and gold was awarded to IC’s Patrick
+Hudson as fastest qualifier. Condi-
+tions slightly improved and finals were
+run in the evening. Erica Thompson
+and Louise Hart claimed silver in the
+women’s championship double sculls
+(WC2x) event before jumping into
+the championship coxed four (WC4+)
+(cox: Richards/Hart/Thompson/Gra-
+ham/Symmonds) and winning another
+silver for the club, without Captain
+Thompson having to sniper any of the
+Durham crews. Henry Goodier and Si-
+mon Hislop won bronze in the men’s
+championship double sculls (MC2x),
+and the mens’ lightweight quad now
+racing in the larger BBG for stability
+(and shoes that fit), finished a respect-
+able second.
+Well done to all 52 students who con-
+tributedtothegreatresultsandshowed
+good support over the weekend. Train-
+ing is underway for the women’s squad
+who will be competing in Ghent this
+weekend as well as a men’s crew who
+will be racing in the Odra Cup in Po-
+land. Good luck to all involved.
+Imperial Boat Club bring home the points after
+winning 37 medals at BUCS Regatta
+Continued from back page
+Emotional Intelligence
+R
+ecent research suggests
+that success in life is not
+necessarily determined
+by intelligence levels, as
+measured by IQ tests, nor
+the level of education reached. This is
+regardless of whether “success” is de-
+fined as wellbeing, meaning in life or
+the accumulation of material posses-
+sions. Other factors such as Emotional
+Intelligence (EI), personality and the
+ability to apply knowledge in a wise
+manner have been demonstrated to be
+at least as important. In fact one of the
+leading psychologists in the field of EI,
+Dan Goldman, has stated that the abil-
+ity to problem solve using emotions
+may be the prime driver of success.
+Over the last 15 years UK education
+has emphasised testing and formu-
+laic teaching of a broad national cur-
+riculum. During the same period there
+has been a general improvement in
+the number of students attaining top
+grades. There is also some evidence
+that intelligence, as measured by the
+narrow definition of IQ, has also in-
+creased. However a number of reports
+suggest that many new graduates find
+the application of their broad knowl-
+edge in complex work and social en-
+vironments challenging. This may be
+due to the educational emphasis on
+results rather than the development of
+wisdom but equally it could be due to
+wider social factors such as reduced so-
+cial interaction among young people.
+Like general intelligence, EI can be
+measured using psychometric tools
+and can be developed through coach-
+ing. EI can be defined as the ability to
+problem solve using emotions and is
+subdivided into the ability to recog-
+nise, understand the complexity of, use
+and manage emotions. Unlike an IQ
+score, EI has four separate components
+and it is the shape of the profile, rather
+than the overall score, which is of sig-
+nificance. For example an individual
+may have a heightened ability to rec-
+ognise emotional signals in faces but
+a low understanding of how they may
+have arisen and a low ability to manage
+the consequences of those emotions
+arising. The interplay of those abilities
+shapes thinking styles, actions and at-
+tainment of goals. Raising awareness of
+your unique profile provides a spring-
+board for personal development.
+Andy Roberts explains how being intelligent and having a high
+level of education may not necessarily be a recipe for success
+without social skills
+To apply to take the psychomet-
+ric test and receive a one to one
+coaching session contact Andy
+Roberts at andy@breathe-london.
+com or call 07766 34 39 31. Book-
+ings can be made at the Ethos
+Centre on Wednesday evenings.
+For more information visit www.
+breathe-london.com
+Sir Alan Sugar = LEGEND!!
+The women’s coxless four race to the finish
+MLwt8+ nudge ahead in their opening heat.
+I
+A
+

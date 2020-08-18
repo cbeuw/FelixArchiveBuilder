@@ -1,0 +1,221 @@
+FELIX
+38
+SPORT
+Sports Editors: Jovan Nedic
+David Wilson
+sport.felix@imperial.ac.uk
+Friday 20 MAY 2011
+Felix Sports League
+sponsored by
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1210 607 603 5.00
+2 Fencing M1 10 10 0 0 1229 919 310 5.00
+3 Table Tennis M2 11 11 0 0 156 31 125 5.00
+4 Water Polo W1 8 7 1 0 102 24 78 4.63
+5 Volleyball M1 11 10 0 1 22 4 18 4.18
+6 Volleyball W1 11 10 0 1 21 4 17 4.18
+7 Basketball M1 12 10 0 2 917 735 182 3.50
+8 ICSM Netball W1 12 10 0 2 493 312 181 3.50
+9 Lacrosse M1 11 9 0 2 154 85 69 3.36
+10 Tennis M1 12 9 1 2 84 60 24 3.25
+11 Table Tennis M1 12 9 1 2 84 60 14 3.25
+12 Basketball W1 9 7 0 2 464 348 116 3.00
+13 Netball W1 13 10 0 3 546 367 179 2.92
+14 Squash W1 11 8 0 3 31 12 19 2.55
+15 Hockey M1 12 8 1 3 46 25 21 2.50
+16 Rugby M1 14 10 0 4 344 191 153 2.43
+17 Hockey W1 13 9 0 4 67 24 43 2.23
+18 Lacrosse W1 9 6 0 3 110 64 46 2.00
+19 Table Tennis W1 6 4 0 2 20 10 10 2.00
+20 ICSM Football M1 9 5 1 3 28 18 10 1.67
+21 ICSM Hockey W1 20 10 3 7 54 48 6 1.40
+22 ICSM Rugby M3 10 6 0 4 252 266 -14 1.40
+23 Football M1 13 7 1 5 34 20 14 1.31
+24 Badminton W1 13 7 1 5 44 60 -16 1.31
+25 Hockey M2 12 5 3 4 22 26 -4 1.25
+26 Football W1 7 4 0 3 19 19 0 1.14
+27 Tennis W1 7 4 0 3 42 42 0 1.14
+28 ICSM Hockey M3 7 4 0 3 11 27 -16 1.14
+29 Netball W3 9 5 0 4 291 217 74 1.00
+30 Hockey M3 11 4 3 4 17 13 4 0.91
+31 Badminton M1 11 4 3 4 44 44 0 0.91
+32 Fencing M2 10 5 0 4 1122 1128 -6 0.90
+33 ICSM Hockey M1 10 5 0 5 25 20 5 0.50
+34 Netball W2 12 6 0 6 445 483 -38 0.50
+35 Badminton M2 10 4 1 5 43 37 6 0.20
+36 ICSM Hockey M2 11 3 3 5 19 29 -10 0.09
+37 ICSM Netball W2 11 5 0 6 341 360 -19 0.09
+38 Squash M4 6 2 1 3 8 7 1 0.00
+39 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+40 ICSM Football M3 0 0 0 0 0 0 0 0.00
+41 Lacrosse W2 0 0 0 0 0 0 0 0.00
+42 ICSM Football M2 5 2 0 3 14 16 -2 -0.40
+43 Fencing W2 10 4 0 6 1142 1170 -28 -0.40
+44 Fencing M3 10 4 0 6 1146 1201 -55 -0.40
+45 Football M3 11 3 2 6 22 30 -8 -0.45
+46 ICSM Badminton W1 9 2 2 5 32 46 -14 -0.67
+47 ICSM Badminton M1 10 3 1 6 24 56 -32 -0.70
+48 Squash M3 9 3 0 6 17 26 -9 -1.00
+49 Tennis M2 10 2 2 6 40 79 -39 -1.00
+50 Hockey W2 12 3 1 8 13 41 -28 -1.25
+51 ICSM Rugby M1 11 2 1 8 144 427 -283 -1.82
+52 Water Polo M1 3 0 1 2 23 30 -7 -2.00
+53 ICSM Rugby M2 12 2 1 9 200 438 -238 -2.00
+54 Rugby M2 14 3 0 11 194 356 -162 -2.07
+55 ICSM Hockey W3 5 1 0 4 4 17 -13 -2.20
+56 ICSM Hockey W2 10 2 0 8 21 42 -21 -2.20
+57 Rugby M3 10 2 0 8 71 357 -286 -2.20
+58 Hockey M4 11 2 0 9 15 32 -17 -2.36
+59 ICSM Badminton M2 6 1 0 5 16 32 -16 -2.50
+60 Squash M2 12 2 0 10 16 44 -28 -2.50
+61 Rugby M4 8 1 0 7 59 325 -266 -2.88
+62 Football M2 12 1 0 11 14 36 -22 -3.25
+63 Squash M1 7 0 0 7 5 30 -25 -4.00
+64 ICSM Netball W3 9 0 0 9 186 352 -166 -4.00
+65 ICSM Netball W3 7 0 0 7 134 257 -123 -4.00
+forts were rewarded later with a silver medal
+in the men’s intermediate double sculls when
+he paired up with Steele. Other ICBC crews
+fell foul of fate as steering incompetence of
+their rivals and rogue waves blocked the pro-
+gression of strong Imperial crews and their
+chances of medals.
+This was the first chance for Imperial’s nov-
+ice squad to experience side-by-side six lane
+racing and all took to it like ducks to water. The
+women’s (cox: Jess Johnson/Sarah Tattersall/
+Maddy Whybrow/Rosie Davies/Harriet Cross)
+and the men’s (cox: Johnson/Tom Carpenter/
+Robbie Hernandez/Alex Quigley/Tommy
+Hirst) beginner fours came fifth and ninth re-
+spectively. Meanwhile, the women’s beginner
+eight (cox: Alice Wickham/Bowler/Whybrow/
+Davies/Cross/ Tattersall/Joanna Taylor/Rowe-
+na Harrison/Lucy Adkins) qualified third fast-
+est for their finals and were eight overall after
+ICBC look towards Henley
+following impressive
+display in Nottingham
+... Continued from back page a tight finish.
+The remaining medals (all gold) were won
+by the lightweight men’s squad. The four of
+Tom Pearson/Tim Richards/Kimberley/Paddy
+Hudson set the tone on the first day of racing
+as they won their heat, despite Paddy not sit-
+ting on his seat from the second stroke of the
+race. They won the final by a convincing six
+seconds. Tension was high on day two as the
+lightweight eight (cox: L Richards/Pearson/P
+Hudson/Kimberley/Brown/T Richards/Car-
+penter/ Jones/Ben Joakim) tested the scales;
+most were on or below weight, with the excep-
+tions of Paddy and Wilf.
+Both managed to lose about 500g through
+exercise but Kimberley was having trouble
+losing the last 200g. A quick change of kit,
+multiple trips to the facilities (including one
+infamous occasion) and standing oddly on the
+scales eventually paid off. Every last ounce of
+sweat was worth it as the eight eased through
+their heat over the course.
+In the final, they beat off the competition,
+winning gold, making the late pushes from
+Nottingham and Cambridge look futile. After
+winning in the eight, there was no rest for the
+wicked. The quad (Pearson/T Richards/Kim-
+berley/Brown) jumped out of one boat into
+the other and was back at the start in no time.
+They led from start to finish. On day three, the
+lightweights completed the gold rush when the
+lightweight double (Pearson/ Kimberley) and
+pair (T Richards/P Hudson) won both finals
+easily.
+If one existed, the Man of the Regatta award
+would go to Mr Wilf Kimberley for getting the
+most medals (4 gold and 1 bronze) and for ban-
+ter provision.
+A scrumptious barbeque was the fuel for the
+annihilation of the competition and now all
+eyes turn to the rest of the regatta season and
+the road to Henley 2011.
+Football complete Plate
+and Cup double after over-
+coming spirited King’s
+and leaving the plate as the team’s final chance
+for silverware.
+With so much riding on the game, Imperial
+understandably started the game nervously,
+takingl 10 minutes for Imperial to settle and
+gain an ascendency in terms of possession.
+However when ball reached midfielder Flo
+‘Hitzelsberger’ Klein at the edge of the box,
+the german non international fired an absolute
+cannon of a strike into the far corner to give
+IC a 1-0 lead.
+The cup final was a few weeks ago now,
+and the more time passes the better this goal
+is in my memory. It was undoubtedly a stun-
+ner though.
+With nerves somewhat settled, Imperial fi-
+nally began to dominate possession and look
+more composed on the ball. However just
+a few minutes later a long ball over the top
+caused an unexpected error from a man who
+had previously been regarded of as one of the
+brightest males in north London of African de-
+scent. As the ball sailed harmlessly to ‘keeper
+Dave the Save, Ogunbiyi inexplicably tore
+down the opposing striker Tom Daley.
+With the ball nowhere near the Kings player,
+the penalty was a harsh decision, but one has
+to wonder what such a smart man was doing.
+Once again, Haringey council’s 1994 commit-
+tee were placed under scrutiny.
+Unperturbed by Dave’s reputation and ensu-
+ing nickname, the Kings captain slotted home
+the penalty to level the scores.
+However, almost immediately, Imperial re-
+sponded. A good move saw the ball spread to
+danger man Andy down the left wing. His pull
+back met Bizzel who went pow and stepped
+over the ball allowing it to run across the face
+of goal. Former captain and 5th team veteran
+Mike ‘two bites’ Ridge was there at the back
+post to finish, in a fashion which was remini-
+cent of a Hollywood-esque script. One must
+ask how many nights he must have spent
+dreaming of this moment; the ball was directed
+perfectly towards him and the goal was gaping
+however, Ridge missed. The ball hit his stand-
+ing foot and ballooned, fortunately he had a
+second bite at the cherry as the ball landed at
+his feet. Ridge’s second attempt was more suc-
+cessful and he scored much to the relief of the
+rest of the team.
+The second half saw Imperial dominate fur-
+ther, creating many excellent chances to put
+the game beyond King’s. However none of the
+chances came into fruition. You may not know
+about him, but Bizzel was absolutely dominant
+in midfield. Combinations of Andy , Captain
+Pricey, Flo, Wozza and Sim looked dangerous
+up front, and Mike lead the line exceptionally.
+Although the goal never came, the 5s played
+out the remainder of the game in the opposi-
+tion half and finished the game on top despite
+the addition of further goals which their perfor-
+mance deserved.
+I’d also like to use this opportunity to thank
+those who came but didn’t come on, and those
+who came to watch. Imperial’s fans were a joy.
+Constantly enquiring as to the whereabouts of
+King’s fans and friends, their chants were in-
+novative and vocal.
+Tactical advice was also on tap. Right back,
+and 5s captain in waiting, Adam Watkin was
+consistently reminded to hold the line to his
+displeasure. Man of the match was mobo
+award winner failed.
+... Continued from back page
+

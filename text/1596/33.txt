@@ -1,0 +1,121 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 33
+06.02.2015
+FELIX
+Puzzles Editor Michael Faggetter
+Puzzles
+fsudoku@imperial.ac.uk
+Word Star			 Sudoku
+Last Week’s Solutions
+Word Search
+Weekly Quiz
+Sudoku
+1. Aglet
+2. Nine
+3. Arabic
+4. Lambda
+5. Greece
+6. Edison
+7. Soul
+8. Interstellar
+9. Charles I
+10. Analgesic
+Find 5, four-letter words using the clues written below.
+Fit them all into the star (the arrows indicate the direction in which the word is read).
+Clues:
+1. Cheap fat used for cooking and adding texture to pastry
+2. The fourth community card in Texas Hold’em
+3. Kangaroo stabilizer
+4. Having a double purpose
+5. Symbol of toughness
+6 5 1 8 9 3 7 2 4
+4 2 8 7 6 5 3 9 1
+3 7 9 2 4 1 8 5 6
+2 8 3 1 7 6 5 4 9
+1 4 6 9 5 8 2 3 7
+5 9 7 3 2 4 6 1 8
+7 6 5 4 3 9 1 8 2
+9 1 2 5 8 7 4 6 3
+8 3 4 6 1 2 9 7 5
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+2 6 1 7 8 3 4 5 9
+7 5 8 1 4 9 2 3 6
+3 4 9 6 5 2 7 1 8
+4 8 7 3 1 5 6 9 2
+6 1 5 9 2 7 8 4 3
+9 3 2 4 6 8 1 7 5
+8 2 3 5 7 4 9 6 1
+5 7 6 2 9 1 3 8 4
+1 9 4 8 3 6 5 2 7
+Crossword
+VOLLEYBALL
+BADMINTON
+BILLIARDS
+MOTOCROSS
+OCTOPUSH
+POOL
+PENTATHLON
+PARASCENDING
+CANOEING
+JAI ALAI
+TAG
+SAILING
+SAMBO
+IAIDO
+LUGING
+POLO
+PELOTA
+DECATHLON
+BOXING
+BANDY
+BOULES
+GA-GA
+SIPA
+KUNG FU
+ROWING
+DIVING
+SKIING
+SOCCER
+SHUTTLECOCK
+HOCKEY
+AIKIDO
+MARATHON
+PING-PONG
+SKEET
+KENDO
+SKYDIVING
+SCRAMBLING
+CROQUET
+DARTS
+TRIATHLON
+TAE KWON DO
+QUOITS
+RUGBY
+SQUASH
+GOLF
+BASEBALL
+BOWLS
+JUDO
+SUMO
+BASKETBALL
+PETANQUE
+WEIGHTLIFTING
+TENNIS
+SWIMMING
+TRAMPOLINING
+TOBOGGANING
+SHOWJUMPING
+MOUNTAINEERING
+NETBALL
+GLIDING
+GYMNASTICS
+SNOWBOARDING
+The remaining letters spell out MILTON KEYNES, DONS, and CREWE ALEXANDRA
+Benedict
+Cumberbox
+

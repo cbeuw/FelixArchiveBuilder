@@ -1,0 +1,303 @@
+18
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 21 MAY 2010
+Privacy Paradigm Shift
+Leaves Facebookers Open
+Feroz Salam investigates whether you can really trust Facebook
+O
+n May 12th, the New York
+Times published an info-
+graphic (right) that would
+have looked more at home
+in a science textbook - their break-
+down of Facebook’s privacy options.
+The final count reached 50 settings
+containing 170 options in total, rang-
+ing from those related to the public
+availability of your status updates to
+those about who gets to see what you
+“Like” and who doesn’t. Facebook’s
+privacy policy is currently longer than
+the United States constitution, and has
+grown a massive 480% in the last five
+years. Making sense of the tangle of
+options and jargon is practically im-
+possible, and unfortunately it seems
+like Facebook might be banking on this
+to sell your information for a profit. app I use on Facebook? Not so much.
+It’s a problem that Facebook has had to
+grapple with continuously as they have
+tried to monetise their service; trying
+to find the line, which crossed, leads to
+users no longer feeling comfortable us-
+ing the site.
+find their Facebook page. Facebook
+pages were internal to those on Face-
+book. Three years on and the list of
+information from Facebook accessible
+to the wider internet is surprising: your
+name, photo, picture, gender, network
+information (and possibly even your
+wall posts) are available by default.
+These changes to the service would
+be fine if Facebook clearly notified
+their users each time a change was
+made, or making the changes opt-in.
+Problem is time and time again they
+haven’t, simply moving all users to
+the new, more open privacy settings
+by default. It’s a stalker’s paradise but
+a job seeker’s nightmare. Even if you
+maintain a strict handle on your own
+settings, your privacy is also in the
+hands of people whom you are in pho-
+tos with, and whose walls your write
+on. Safely maintaining that extended
+presence on the internet is practically
+impossible.
+I
+n a week of privacy being in the
+technology press spotlight, we’ve
+had several offenders. Facebook
+of course has taken centre-stage,
+but let’s not forget about Google. Fa-
+cebook might own your ‘private infor-
+mation’, but Google owns almost all of
+that and more. The difference is that
+Google owns up when it’s done some-
+thing shady, like this week with the
+revelation that its StreetView cars have
+been collecting terabytes of data from
+unsecured wifi routers on their travels.
+Apparently due to a programming er-
+ror, the data collected has been deleted
+and Google said ‘sorry’
+. As connected as
+we are, it’s easy not to share too much,
+but don’t be one of those people to get
+caught out. Think before you post it.
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+B
+am, another week is
+done! Yeah, they’re
+flying by now, and the
+news is pretty thick
+and fast, so here’s a quick run-
+down to keep you up-to-date.
+In a week filled with Face-
+book bashing, the company
+re-launched its stripped out
+‘lite’ version, Facebook Zero.
+This time however it’s aimed at
+the ‘emerging markets’, which
+apparently will include the
+UK, and can be accessed free
+of charge due to partnerships
+with quite a few network carri-
+ers in countries like Indonesia
+and Bolivia that are already in
+place. The text only site is aim-
+ing to be the free sample that
+hooks you into the crack that is
+the Facebook ecosystem.
+Everybody’s favourite (or
+loathed) London Mayor, Boris
+Johnson, hit the tech news this
+week with an announcement
+that he wants London to be the
+world’s biggest WiFi hotspot.
+BoJo plans to use lampposts
+and bus stops to blanket the
+city in WiFi, all in readiness
+for the 2012 Olympics. Many
+US cities have tried and failed
+to do the same, but fingers
+crossed Mayor Blondie can get
+it done.
+Even if WiFi can’t get the job
+done, we might have ubiqui-
+tous local networking thanks
+to LEDs and some Chinese
+boffins. Of course things have
+moved on a bit since the days
+of IrDA (remember those
+days Grandpa?), with 2Mbps
+demonstrated using ceiling-
+mounted blue LEDs that serve
+as lighting at the same time.
+We’re not talking Gigabit
+speeds here, but it would be
+a great way to serve all those
+connected appliances we’ve
+been promised, Internet fridg-
+es, toasters, microwaves and
+plant pots, all that ‘future’ tech.
+Spotify has been busy this
+week too, introducing new
+price plans in an attempt to
+move its streaming service to
+a more viable business model.
+By introducing a new free plan
+called Spotify Open, new users
+can get 20 hours of streaming
+music a month supported by
+adverts. If that’s not enough,
+you now have Spotify Unlim-
+ited which is £4.99 a month,
+providing unlimited ad-free
+streaming to your computer
+only. If you want to go mo-
+bile, then you’re going to have
+to fork over £9.99 a month for
+Spotify Premium. Current ad-
+supported users won’t be af-
+fected by these changes, so fear
+not all you stingy-streamers.
+Last but not least, DuPont
+the company best known for
+Lycra among other things,
+wants to print up a 50” OLED
+display for you in just two min-
+utes. Using its latest tech, Du-
+Pont reckons it can compete
+on cost with LCDs and deliver
+15-year lifespans in the near
+future. 50” OLED? I’ll take one.
+Samuel
+Samuel
+Gibbs
+Gibbs
+Technology
+Editor
+Privacy.
+What’s Privacy?
+SamuelGibbs
+SamuelGibbs Technology Editor
+Mark Zuckerberg’s development of
+the website. Before Zuckerberg even
+coded Facebook, he worked on a small
+project called Facemash, which al-
+lowed users of the website to rank stu-
+dents from Harvard by attractiveness.
+The only problem was Zuckerberg
+needed users on his website, and to get
+those users he hacked into Harvard’s
+student database, downloading the re-
+quired information to kick the website
+off. He then joined a team of students
+working on a social networking project
+called “ConnectU”, and then bailed to
+start Facebook using their ideas. Face-
+book paid $65m to the other members
+of the team after a lawsuit, an amount
+sizeable enough to suggest that there
+was some truth in the allegations that
+Zuckerberg stole ConnectU’s ideas.
+And finally, a chat transcript from early
+in Facebook’s days catches Zuckerberg
+calling users “dumb f***s” for upload-
+ing all their personal information onto
+his website. A healthy attitude for a
+man now in charge of 400 million user
+accounts.
+Yet the one thing that has kept people
+on Facebook has been inertia. Once
+you have built up a friends list contain-
+ing a network of hundreds of friends
+and family, no one is going to want to
+switch networks and rebuild that. Even
+more valuable are the pictures, vid-
+eos and other content you might have
+saved on the website, a fact Zuckerberg
+is keenly aware of.
+Changes to Facebook have been
+ruthlessly bold, with features being
+introduced without any beta testing
+and seemingly without regard to user
+response. The same goes for the pri-
+vacy policy; no one really cares until
+something bad happens to them, and
+by then it’s too late.
+Even May 31st being launched as
+“Quit Facebook Day” hasn’t raised
+anywhere near the amount of attention
+required to even make a statement to
+Facebook.
+If Zuckerberg is banking on apathy, it
+looks like a safe bet.
+When Facebook was in its infancy, a
+social network run only for college stu-
+dents at Harvard, the cost of maintain-
+ing a largely text and photograph based
+service would have been relatively low.
+At its current state as the primary so-
+cial network for roughly 400 million
+people across the globe, serving huge
+amounts of video, flash-based games
+like Farmville and high resolution im-
+ages, the cost of maintaining the site
+must be enormous, and that gives rise
+to the question of monetisation.
+Websites like Google have an easy
+and obvious source of revenue with
+advertising based on searches. Face-
+book also looked to use revenue from
+searches, and they had a trump card,
+vast amounts of your personal infor-
+mation. Yet the problem with sharing
+personal data with third parties has
+always been, how much is too much.
+While I’m fine with Google picking
+keywords out of my emails to give me
+targeted adverts, would I be fine with
+my pictures being used to advertise an
+Facebook’s attitude towards finding
+this proverbial line has made the prob-
+lem many times worse than it should
+be. Over half a year ago, Facebook
+made a change to its Terms of Service
+without making it clear to users. One
+of the new paragraphs added stated,
+in short, “your stuff is our stuff”. Eve-
+rything you published on the service
+was owned by Facebook, indefinitely.
+After an initial uproar, this was quickly
+withdrawn, but it typifies their angle
+towards privacy issues: change the
+rules first, then wait and see if anyone
+notices. A few months back, Face-
+book made another new, more subtle
+change: allowing an increasing amount
+of information to be indexed by search
+engines. Three years ago, it wasn’t pos-
+sible to Google someone’s name and
+The concerns about Facebook’s atti-
+tude towards privacy are heightened
+by the apparent nature of founder
+NYTs infographic showing the maze of Facebook’s privacy options
+Then why not check out the
+latest episode of the Wrap
+Sheet podcast talking internet
+privacy, the Dell Streak on O2
+and hands on with the Nokia
+N8.
+Available
+free on
+iTunes,
+Facebook
+or the blog
+www.thewrapsheet.co.uk
+Not enough?
+Monetisation
+Monetisation
+Attitudes towards Privacy
+Attitudes towards Privacy
+Questions about Zuckerberg
+Questions about Zuckerberg
+Can anyone be bothered?
+Can anyone be bothered?
+

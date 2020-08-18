@@ -1,0 +1,154 @@
+Multiple Sclerosis
+research at IC
+MYELIN SHEATHS
+WHIZZ* ezzmzzz
+AXON
+OLIGODENDROCYTE
+Around one in a thousand people in the UK suffer from
+Multiple Sclerosis (MSI. It is a disease of the central
+nervous system prevalent in Europe, North America,
+Australia and New Zealand, affecting young adults
+from 20 to 50 years of age. The reason for the
+confinement of MS to these regions is as yet
+unknown. Although a virus has often been implicated,
+the cause of MS is also a mystery.
+In the healthy nervous system insulating fat rich
+sheaths of myelin wrap around the processes of nerve
+cells (axons). Electrical impulses jump along the nerve
+from one gap in this sheath to the next. Without this
+insulating cover each axon would need to be a few
+millimeters in diameter to carry its signal rapidly. The
+squid, for example, has no myelin sheathing and has
+a giant axon two millimetres in diameter, the largest
+in the animal kingdom.
+In MS patients this myelin is stripped off, leaving
+large areas of bare axons. In the absense of myelin
+impulses cannot reach their destination, resulting in
+symptoms ranging from spasticity and paralysis to
+blindness and speech difficulties, depending on the
+site of myelin loss. A characteristic feature of many
+MS cases is the relapsing/remitting course of the
+disease. From the onset of the disease complete
+recovery may occur during remissions which can last
+for many years. As the disease progresses, patients
+may be left with some permanent handicap after an
+attack and their condition may worsen as periods
+between relapses shortens.
+Myelin does recover to a certain extent during some
+stages of the disease. Lesions, or demyelinated areas,
+are thought to be in a constant state of flux,
+remyelination competing with demyelination. The
+reason for incomplete remyelination in MS is unkown.
+The cell type which produces myelin has been noted
+in increased numbers around the lesions of MS
+patients. This would suggest that the cells are there
+to remyelinate the region but for some reason they
+Page 6
+are unable to.
+Research underway in the Department of
+Biochemistry (South Kensington site) aims to discover
+why remyelination is not effective in MS. By studying
+the development of the remyelinating cell in culture,
+we hope to better understand the processes which
+allow them to produce myelin. It seems that these
+'oligodendrocytes' are capable of developing from
+their precursors to mature myelinating cells when
+cultured in the absence of neurones. This indicates
+that chemical signals from neurones may not be
+necessary to instruct these cells to begin to produce
+myelin. A signal may be needed, however, to ensure
+sufficient and correct myelin production. We are at
+present trying to find molecules which stimulate
+oligodendrocytes to produce myelin which is capable
+of wrapping around nerve axons.
+It may be the case that oligodendrocytes of MS
+sufferers can produce myelin but that for some reason
+it does not wrap around the axon. In healthy people
+not all types of neurone become myelinated but it is
+not clear how the oligodendrocyte knows which types
+of axon to myelinate and which types to leave
+unmyelinated. It may be that an axon which requires
+myelinating will carry special molecules on its surface.
+By comparing the effect on oligodendrocytes of
+neurones which are not destined to become
+myelinated and those which are, information may be
+gained as to the mechanisms and molecules involved
+in the wrapping of myelin around the nerve axon.
+If any fault of the oligodendrocytes present in the
+MS lesions can be overcome by adding some growth
+factor or other signal, then perhaps remyelination can
+be persuaded to conquer over demyelination. Before
+this is possible, however, much work must be done
+in order to better understand the myelination process,
+both during development and in demyelinating
+diseases like Multiple Sclerosis.
+Rebecca Hardy, Dept Biochemistry.
+• A computer system has been developed which
+can construct a 3D model of a landscape from two
+or more photographs. The system has been developed
+jointly by UCL, Thorn-EMI, The Royal Signals Radar
+Establishment and Lasercon (a map making
+company).
+Traditionally, such views have been made manually
+which was laborious and prone to human error. The
+new technique is far quicker and more versatile. The
+film produced by NASA's Jet Propulsion laboratory
+showing the surface of the Uranian moon, Miranda,
+took several months to make and used equipment
+costing $ % million. It is claimed that the new aparatus
+could have done this for $10,000 in several days.
+A project involving NASA and the Soviet Academy
+of Science will use such software to build up a
+topographic map of Siberian volcanoes, without the
+region having to be visited. Less than 40% of the
+Earth's surface is adequately mapped; with this
+approach it could be done within a decade.
+There are many other uses such as aircraft
+simulators with real landscapes and robot vision for
+quality control.
+• The 'Searching for Extra-Terrestrial
+Intelligence' (SETI) project has been approved by
+NASA. The $100 million programme, planned over ten
+years, will hunt the electromagnetic spectrum
+between 1 and 10GHz ( 1 0 9
+- 1 0 l o
+H z ) for signs of
+alien activity. It will revolve around a new radio
+receiver, to be built in California, which is reported to
+be capable of scanning 14 million channels
+simultaneously. This is the largest such scheme so far
+and compares to a budget of one to two million dollars
+a year during the eighties. The move follows a survey
+which calculated that 80-90% of ordinary Americans
+believe that alien life exists, mainly on our
+neighbouring planet, Mars.
+• The cost of altering computer software for the
+year 2000 could be billions of pounds. Much of
+today's business software still uses a six figure
+number for dates with no provision for years after the
+turn of the century. The biggest bills are likely to be
+incurred by the banks and insurance firms. One major
+company recently modified its pension system at an
+expense of £120,000. Each charged line of code
+costs 10 times as much to alter as it did to write in
+the first place.
+• The British have now joined two international
+teams competing to produce the first cost-effective
+solid fuel cells. These cells, which may well prove to
+be the power source of the future, utilise a fuel such
+as natural gas and an oxidising agent, making a highly
+efficient, silent-running power supply with almost no
+noxious gas emission.
+The two projects are funded by the European
+Commission as part of the JOULE (Joint Opportunities
+for Unconventional Longterm Energy supply) initiative.
+It is hoped that by 1992 an economical 1kW solid
+oxide fuel cell will have been developed with the
+capability to be scaled up to a 200kW unit sufficient
+for a small industrial electricity supply.
+Plug: Roger Penrose, the distinguished author of 'The
+Emporer's New Mind' is giving a talk entitled
+'Concerning Computers, Minds, and the Laws of
+Physics'. This will take place in Huxley 213 on
+Wednesday 21 February at 1.15pm.
+

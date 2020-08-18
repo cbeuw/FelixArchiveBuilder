@@ -1,0 +1,219 @@
+Bones Laid Bare
+Debbie Wilkes looks at a new electric analysis system to
+aid the study of childhood bone development.
+Determination of the
+skeletal maturity of children
+is of great value in
+diagnosing growth related
+disorders, and for giving a
+general indication of
+physical development. Dr R
+King and Dr A Kwabwe,
+from the Electrical
+Engineering Department,
+are working in conjunction
+with Professor J Tanner of
+the Institute of Child Health
+to develop a new fully
+automated system which
+will assess skeletal maturity
+with great accuracy.
+The most convenient way
+of assessing skeletal
+maturity involves
+monitoring the bones of the
+hand and wrist. Each bone
+shows a sequence of
+recognisable stages along
+it's developmental path,
+and attains a reasonably
+constant final shape.
+Straightforward
+measurements of stature
+can't be used, because of
+the natural variation in final
+adult heights attained. At
+present the assessment is
+carried out by highly skilled
+physicians, who analyse
+the X-ray of the child's
+hand to obtain the value for
+skeletal maturity. This value
+can then be compared with
+the normal value for a child
+in their age group. This
+process, however, is time
+consuming, and frequently
+imprecise. When the new
+system is completed it will
+provide an objective
+assessment, with greater
+reproducibility, greater
+accuracy, and which can
+be obtained by unskilled
+staff.
+The new system will take
+the X-ray of the hand and
+digitise it to give a 2,000 by
+1,000 array of pixcels,
+having 256 grey levels.
+Then edge detection and
+enhancement technique
+will be used to identify the
+edges of the bones, so that
+they can be labelled and
+their positions recorded.
+The system will then
+concentrate only those
+bones that give the most
+accurate information, in
+Hook of hamate
+Hamate
+Capitate
+Tnquetra
+Figure 1
+Fig, 1 these are the bones
+shaded. Each individual
+bone can be classified into
+one of eight stages from A
+to 1, with each stage
+having significant features
+which are used for
+identification. The
+knowledge base used for
+this detailed evaluation is
+based on a standard
+classification devised by
+Professor Tanner, using
+clinical experience. An
+example of the kind of
+image that the system uses
+for classfication can be
+seen in Fig 2; which shows
+an edge detected picture of
+Figure 2
+a radius and it's
+mataphysics, at stage G of
+development. Finally, an
+overall maturity assessment
+can be obtained using a
+weighted sum of the scores
+from each separate bone.
+A major advantage of this
+system is that it can
+interpolate between stages,
+for instance, it could give a
+final assessment as 90%
+towards F and 10% towards
+G, whereas a physician
+would only state either F or
+G. This is particularly
+important if the child is
+suffering from a hormone
+imbalance, as it gives an
+accurate measure of the
+extent of the problem.
+So far, the system has
+been perfected for the
+radius bone, and the
+techniques developed can
+now be applied to the other
+bones. The ultimate aim is
+to produce an automated
+system which will take an
+X-ray , process it fully, and
+then produce a value for
+skeletal maturity.
+Visas While You
+Wait
+Any Overseas Student
+whose visa expires on the
+31 October or later, need
+not travel all the way to
+Croydon this year to have
+their visa renewed as the
+Home Office are coming to
+you.
+All you need to do for the
+present is to bring your
+passport into Student
+Services, preferably by
+Friday 18th October but no
+later than Wednesday 23rd
+October, and register your
+details with Lesley
+Gillingham, the Welfare
+Adviser, who in turn will
+register your details with
+the Home Office before the
+expiry date in your
+passport.
+The Home Office will be
+sending three staff
+members to Imperial
+College on Monday 25th
+and Tuesday 26th
+November to renew visas
+on the spot. The whole
+process will take 15
+minutes; considerably
+better than seven hours in
+Croydon. It also means that
+at no time will you have to
+give up your passport,
+which is a considerable
+improvement as there is no
+possibility of documents or
+your passport being mislaid
+or lost in the post.
+This is the first time the
+Home Office have come to
+Imperial with their
+extension scheme. The
+more students who use the
+A
+scheme the greater the
+likelihood of the scheme
+being repeated next year,
+and any student who has
+wasted a whole day in
+Croydon will agree that it's
+a lot more convenient than
+any previous situation.
+Remember, as long as your
+details are registered with
+Lesley before the expiry
+date in your passport, you
+can use the scheme. Check
+your visa carefully as any
+student whose visa has
+already expired and has not
+already registered their
+claim will have to make the
+trip to Croydon.
+Welfare Adviser on the move
+Lesley Gillingham, the
+Welfare Adviser, will be
+'setting up shop' outside
+Student Services Office
+now, in the coming weeks.
+She will be visiting
+College Houses or Head
+Tenancies on the following
+dates:
+Monday 21st Oct 7-9pm
+Lexham Gardens, Flat 4,
+79/81
+Thursday 25 Oct 7-9pm,
+Bernard Sunley House, The
+Office, House 42
+Monday 28 Oct 7-9pm
+Montpelier Hall, The Office
+Besides being on hand to
+give advice, Lesley will also
+have samples of all leaflets
+and information sheets
+available from Student
+Services.
+FELIX Friday 18 October 5
+

@@ -1,0 +1,312 @@
+26
+COFFEE
+BREAK
+Coffee Break Editor
+Coffee Break Editor Charlie Murdoch
+Charlie Murdoch
+coffee.felix@imperial.ac.uk
+felix
+Scribble box
+FRIDAY 15 JANUARY 2010
+Dave Mustaine: “Don’t ever give up on something or someone that you can’t go a full day without thinking about.”
+Quote of the Week
+Wordoku 1,449 Solution 1448
+Okay.. so I forgot to put the letters in
+the right order last issue, well the word
+was ODALISQUE (where the missing
+letter was a U). Well done to the win-
+ner The Harry Potter Trio who still
+managed to get a corrent answer in.
+Big hand to Kelvin Wong who got it
+right too, We’ve given you two this
+week to make up for it.
+How to play:
+Wordoku is identical to Sudoku; we’ve just replaced numbers
+with letters. Complete the puzzle and then send the whole
+grid to sudoku.felix@imperial.ac.uk. You will not get credit
+for just the word alone. It’s not an anagram.
+Evil Wordoku is exactly the same... only harder... and there’s
+a letter missing... that MAY be a duplicate - just solve it like
+normal and insert the letter that you believe makes the word.
+A
+E
+L
+U
+S
+D
+Q
+O
+I
+S
+U
+Q
+O
+I
+L
+E
+D
+A
+I
+O
+D
+A
+E
+Q
+S
+L
+U
+D
+I
+A
+S
+O
+U
+L
+E
+Q
+Q
+S
+O
+I
+L
+E
+U
+A
+D
+E
+L
+U
+Q
+D
+A
+I
+S
+O
+L
+A
+I
+D
+U
+S
+O
+Q
+E
+U
+D
+S
+E
+Q
+O
+A
+I
+L
+O
+Q
+E
+L
+A
+I
+D
+U
+S
+R
+R
+B
+C
+S
+T
+T
+B
+S
+N
+U
+B
+C
+B
+N
+R
+C
+O
+S
+R
+U
+K
+T
+K
+R
+O
+C
+N
+Hi. Don’t come
+in, just sod off
+CharlieMurdoch Coffee Break Editor
+H
+i
+Char
+Char
+H
+i welcome back to the New
+Year. Right that’s all the
+pleasantries over. Christ-
+mas was good wasn’t it?
+Well apart from the small sprinkling
+of snow that brought the whole fuck-
+ing country to a standstill. Now if I was
+Kim Jong-Il and wanting to piss Brown
+off I would seize the opportunity whilst
+Britain was immobilized and bomb us.
+We should count ourselves lucky that
+Hitler didn’t have the foresight to at-
+tack us in deep Winter, because we’d
+have been fucked. But then he only
+had one ball. Thinking about it, that’s
+probably why he was so fucking wound
+up all the time- some nobber had taken
+one and put it in the Albert Hall. I as-
+sume this was some type of pre Dam-
+ien Hirstt exhibition, that’s where ole
+Maggie Thatcher got her good looks
+from, she was a pickled exhibit too.
+Now, I don’t claim to be some type
+of specialist train engineer, but I am
+pretty sure that the Underground runs
+underground, hence the name. So why
+do you cancel the services because of
+the snow? Fuck knows. And as for the
+constant announcements telling me to
+watch my step on the platform due to
+the ‘adverse whether conditions.’ I’m
+not a complete moron. Arsehole. What
+does that even mean? Watch your step?
+You want me to look at my feet as I
+walk? I’m a little preoccupied with the
+sheet ice for that. Maybe next week eh?
+Besides one of the great benefits, no
+the only benefit, about snow is watch-
+ing people fall arse over tit, landing in
+a crumpled heap on the floor. More of-
+ten than not these people are girls. In
+stilettoes. Are you fucking stupid? It’s
+shitting icy out here you dumbfuck.
+But don’t worry, a bunch load of lead-
+ers went for a conference about global
+warming in Copenhagen. Turned out
+that America was just spoiling every
+ones day, especially the trees. Well, I for
+one didn’t see that coming. So shocked
+I had to go and roundhouse kick an old
+lady just to bring me back to reality. So
+Brown used his brain and decided that
+the world would be a much better place
+if he solved the problems associated
+with turning cold water into hot wa-
+ter. Obviously hoping to get rid of the
+snow too. He rang up Darling and told
+him to offer subsidies of up to £400 for
+those replacing inefficient boilers. Dar-
+ling replied: “Look mate, I’ve got a shit-
+ting financial meltdown here, so fuck
+your boilers yeah?”
+Stuff Imperial students like:
+11. Tankards:
+We all love a good tankard, and it
+appears that us here at Imperial
+have taken tankard loving a little
+too far. Seriously, there are tankards
+for literately everything behind the
+Union bar. Even RCC clubs and shit
+like Live? have some.
+I propose a cull of all tankards that
+are not associated with extreme
+laddish behaviour. The only way we
+can decide if the tankard is eligi-
+ble for laddish behaviour connota-
+tions, is to have a boat race. Yes, I
+want everyone who has a tankard to
+come to that bar and down a pint.
+All at once. Not only will profits of
+the bar fucking sky rocket, it will
+cut the wheat from the chaff. The
+wheat can stay, the chaff can take a
+hike. And be melted down. No se-
+riously this is happening, this place
+has gone to the dogs.
+And what is wrong with a glass?
+mmmmmm.....
+felix
+felix Love
+Lovestruck
+struck 07726 799 424
+A
+R
+E
+T
+I
+I
+M
+E
+M
+R
+S
+O
+M
+T
+S
+E
+A
+O
+I
+R
+S
+I
+A
+R
+M
+Wordpath 1,449
+INTERMEDIATE EVIL
+How to play:
+Make a path from the origin word to the destination word by taking
+steps using one of three following methods:
+Letter Substitution: Substitute just one letter for another to
+produce a 4 letter word.
+e.g. WORD -> WARD
+Anagram: Rearrange the letters to form a 4 letter word.
+e.g. WARD -> DRAW
+Wordslide: Replace the letters with ANY consecutive 4 letters from
+a 5, 6 or 7 letter word containing the former 4 letters consecutively.
+e.g. DRAW -> RAWE (via DRAWER)
+No two consecutive steps can be made by the same method.
+e.g. WORD -> WARD (by LS) -> WARE (by LS) would be invalid.
+Points are awarded for the earliest SHORTEST path between the
+two words. Send your solutions to sudoku.felix@imperial.ac.uk.
+ORIGIN:
+HUNT
+DESTINATION:
+GOLD
+Scribble box
+“I’ll come over for a coke if you come
+and fine me in the PC room.
+”
+I meant cock
+“Dan Wan, as your penis is so under
+used at the moment, do you fancy
+giving me hard anal tomorrow night?
+Pease.
+’’
+Fuuuuuuuurk
+“dan wan loves girls. especially ones
+that are under the age of 16. preferably
+those that are less than 12. I
+know because he raped me in the
+disabled toilet after luring me into
+the union.
+”
+Raped
+“Fuck of. i might be an American
+hoe, but why the fuck are you
+wearing a pink glove in the union.
+Not even two.. just the one. You are
+a fool.
+”
+Amy the American
+

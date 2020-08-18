@@ -1,0 +1,165 @@
+The winner of Slitherlink 1,394 was
+Patrick Burr who even managed to
+send in two solutions, although one
+was wrong. We should probably add:
+there was an error in last week’s. Sor-
+ry! Good luck with this one.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+The Polygon of Ginormous Grundfuttocks
+sudoku.felix@imperial.ac.uk
+37
+Friday 8 February 2008 felix
+Fun & Games
+T
+A
+E
+L
+T
+E
+D
+Slitherlink 1,395
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,394 solution
+3
+0
+x
+x
+x
+x
+3
+1
+3
+3 3
+1
+1
+2
+3
+1
+2
+3
+2
+2
+1
+2
+2
+1
+3
+3
+2
+2
+2
+3
+3 3
+3
+2
+2
+2
+3 3
+2
+3
+1 2
+2
+3
+1
+3
+3 3
+1
+1
+2
+3
+1
+2
+3
+2
+2
+1
+2
+2
+1
+3
+3
+2
+2
+2
+3
+3 3
+3
+2
+2
+2
+3 3
+2
+3
+1 2
+Local Rudeboy by Rayvon
+Last week’s solution:
+LEATHER
+Congratulations if you got leather!
+Other words included:
+aether, earth, eath, ether, haet. hale,
+haler, halt, halter, haltere, hare, harl,
+hart, hate, hater, heal, healer, hear,
+heart, heat, heater, heel, here, hereat,
+hel, lath, lathe, lather, lehr, lethe, rath,
+rathe, reheat, rhea, thr, thae, thaler,
+thee, there, three.
+How to rate yourself:
+Under 8 words: Get yourself a dic-
+tionary, but don’t read it cover-to-cov-
+er. Just batter yourself to death with it.
+8 - 13 words: Why did you even both-
+er? I mean come on, is there nothing
+between your ears, except dust...?
+14 - 19 words: So close. Just like that
+time I almost got hit by a lorry.
+20 plus words: Well done, you cun-
+ning linguist. Phabulous phonics!
+How to play
+Using the letters given, not more than
+once, make as many words as possible.
+They must be at least four or more let-
+ters long and each word you come up
+with must include the central letter.
+Capitalised words, conjugated verbs
+(past tense etc), adverbs ending in
+“-ly”, comparatives and superlatives are
+disallowed.
+

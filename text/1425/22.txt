@@ -1,0 +1,473 @@
+sport.felix@imperial.ac.uk
+42 Friday 20 February 2009
+felix
+Sport
+43
+felix
+Friday 20 February 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Squash Men's 1st 11 11 0 0 49 6 43 100 5.00
+2 Tennis Men's 1st 9 9 0 0 78 12 66 100 5.00
+3 Fencing Men's 1st 8 8 0 0 1069624 445 100 5.00
+4 Volleyball Women's 1st 8 8 0 0 17 1 16 100 5.00
+5 Lacrosse Women's 1st 10 9 0 1 153 34 119 90 4.10
+6 Netball 2nd 9 8 0 1 329 157 172 89 4.00
+7 Fencing Women's 1st 9 8 0 1 1188942 246 89 4.00
+8 Hockey Men's 1st 9 8 0 1 51 11 40 89 4.00
+9 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+10 Badminton Men's 1st 10 7 2 1 52 28 24 70 3.50
+11 Table Tennis Men's 1st 12 9 0 3 133 68 65 75 2.75
+12 ICSM Netball 3rd 8 6 0 2 253 171 82 75 2.75
+13 Squash Men's 2nd 8 6 0 2 25 13 12 75 2.75
+14 ICSM Netball 2nd 7 5 0 2 231 131 100 71 2.43
+15 ICSM Hockey Women's 1st 11 6 1 3 47 26 21 55 1.82
+16 Basketball Women's 1st 8 5 0 3 387 345 42 63 1.63
+17 Hockey Men's 3rd 8 3 3 2 16 25 -9 38 1.63
+18 Hockey Women's 1st 11 6 1 4 38 28 10 55 1.45
+19 Hockey Men's 2nd 10 6 0 4 37 30 7 60 1.40
+20 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+21 Basketball Men's 1st 7 4 0 3 496 474 22 57 1.14
+22 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+23 Badminton Men's 2nd 6 2 2 2 24 24 0 33 1.00
+24 Squash Women's 1st 11 2 6 3 20 28 -8 18 0.91
+25 ICSM Hockey Women's 2nd 7 3 1 3 21 21 0 43 0.71
+26 Tennis Men's 2nd 9 4 1 4 35 46 -11 44 0.67
+27 ICSM Football Men's 1st 9 4 1 4 15 20 -5 44 0.67
+28 Football Men's 1st 9 4 1 4 19 20 -1 44 0.67
+29 Rugby Union Men's 3rd 10 5 0 5 192 192 0 50 0.50
+30 ICSM Rugby Union Men's 2nd 10 5 0 5 158 143 15 50 0.50
+31 Fencing Men's 2nd 6 3 0 3 722 690 32 50 0.50
+32 Rugby Union Men's 2nd 13 6 0 7 231 286 -55 46 0.15
+33 Football Men's 2nd 8 3 1 4 19 27 -8 38 0.13
+34 Hockey Men's 4th 6 2 1 3 13 22 -9 33 0.00
+35 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+36 Volleyball Men's 1st 8 3 0 5 7 10 -3 38 -0.63
+37 ICSM Rugby Union Men's 3rd 9 3 0 6 105 241 -136 33 -1.00
+38 Football Women's 1st 7 2 0 5 10 25 -15 29 -1.43
+39 Hockey Women's 2nd 8 2 0 6 8 32 -24 25 -1.75
+40 ICSM Rugby Union Men's 1st 13 3 0 10 236 394 -158 23 -1.92
+41 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+42 ICSM Hockey Men's 2nd 10 2 0 8 15 18 -3 20 -2.20
+43 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+44 Football Men's 3rd 6 1 0 5 11 25 -14 17 -2.50
+45 Rugby Union Men's 1st 13 2 0 11 158 423 -265 15 -2.62
+46 ICSM Hockey Men's 1st 7 1 0 6 12 23 -11 14 -2.71
+47 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+48 Netball 3rd 8 1 0 7 86 284 -198 13 -2.88
+49 Rugby Union Men's 4th 10 1 0 9 95 421 -326 10 -3.10
+50 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+51 Rugby Union Women's 1st 1 0 0 1 0 80 -80 0 -4.00
+52 Table Tennis Women's 1st 4 0 0 4 3 12 -9 0 -4.00
+53 ICSM Hockey Women's 3rd 5 0 0 5 3 32 -29 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Netball 1st 8 0 0 8 162 306 -144 0 -4.00
+1 2 3 4 5 6 7 8
+9 10
+11
+12 12 13 15 14
+15 14 16
+17
+18 19
+20
+21 22
+23 26 24 25
+26 27 32
+28 29
+34
+30 31
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,425
+Across
+1 Variation of Maoist philosophy? (6)
+4 Sit atop wayward missiles led astray.
+(8)
+9 Book describes Piaf’s regret in the
+East. (6)
+10 His extremities cut off, Titus is
+mutilated with Roman mythical
+beast. (8)
+12 Expel French writer – his first two
+must go. (4)
+13 A reverberation is heard by grand
+reptile. (5)
+14 Almost eccentric criticism. (4)
+17 Care to present a simian with
+snake’s head. (4,1,7)
+20 Knowing a great deal, we left Chris-
+tie (without finishing) by the sea.
+(4-8)
+23 I trick idol. (4)
+24 Look around empty vehicle for
+rocks. (5)
+25 Presenter has love in his heart but
+no score finally in combat arena.
+(4)
+28 In a new interpretation, I do Lear
+with another character, his daugh-
+ter. (8)
+29 Coin ‘e put before a defunct cur-
+rency. (6)
+30 Expecting nutritious starter with
+mashed grape and hollow nut. (8)
+31 Ace begins to release relative. (6)
+Down
+1 Hot, bothered, coarse and exhaus-
+tive. (8)
+2 With king absent, reshot movie kiss
+is lacking something. (8)
+3 Pour liquids in it, but it makes a bad
+smell if you put tea in it. (4)
+5 Not easily offended – might Dick-
+ens think badly? (5-7)
+6 With the end missing, a large book
+can’t be made any smaller. (4)
+7 With sailor on board, payment can
+be achieved. (6)
+8 I’ve got it: ignore monsieur and
+build French road the other way
+around. (6)
+11 Memory about a philatelist’s pride.
+(12)
+15 After Cain’s head, Abel is trans-
+formed into another Bible charac-
+ter. (5)
+16 Regular boy or corny poet? (5)
+18 Arrogant Italian has two thousand
+songs. (8)
+S U E A M I S H S P E E D
+C E R E B G A T O T R T Q E
+A N A G R A M P N E A T E S T
+R A N A A E B E A B O R I E
+F L I S Y P E Y E L I N E R
+O B U E I C B A C E E O A E R
+C O M M O N R O O M E B L U E
+O H E O N E O M O T A N N N
+N E R D A L A M B H O T P O T
+C N A O U O D O E Y R S I I R
+L A M P P O S T M S T O R M S
+U N P H R N W A N I R A H L
+D I A B O L O T P O L E N T A
+E V N K A R H E F L I H C T
+D E T E R D I S P A R A G E
+M
+Q
+Solution to crossword 1423
+Saturday 14th February
+Football
+Men’s 1s ULU 2
+LSE 3s ULU 2
+Men’s 2s ULU 2
+LSE 2s ULU 1
+Men’s 3s ULU 1
+King’s 3s ULU 0
+Men’s 5s ULU 3
+Queen Mary 3s ULU 2
+Men’s 7s ULU 0
+Royal Veterinary College 2s ULU 1
+ULU Cup
+Men’s 4s 4
+Queen Mary 2s 3
+Sunday 15th February
+Hockey
+Men’s 2s ULU 1
+Royal Veterinary College 1s ULU 1
+ULU Cup
+Men’s 1s 4
+UCL 1s 4 (a.e.t)
+(UCL win 4 - 3 on penalty flicks)
+Lacrosse
+ULU Cup
+Mixed 1s 11
+Royal Holloway Mixed 2s 3
+Rugby
+ULU Cup
+Men’s 3s 19
+Royal Holloway 2s 12
+Monday 16th February
+Squash
+ULU Cup
+Men’s 3s 5
+LSE 3s 0
+Wednesday 18th February
+Badminton
+BUCS Cup
+Women’s 1st 3
+Bournemouth University 1st 5
+Basketball
+Men’s 1st 64
+University of Kent 1st 62
+Women’s 1st 61
+University of Surrey 1st 36
+Football
+Men’s 1st 3
+St Mary’s University College 3rd 0
+Men’s 2nd 1
+UCL 2nd 1
+Men’s 3rd 3
+Canterbury Christ Church Uni 7th 0
+Men’s 6s ULU 2
+RUMS 4s ULU 1
+Men’s 7s ULU 2
+St Barts 4s ULU 2
+Hockey
+Men’s 1st 6
+St Barts 1st 0
+Men’s 2nd 2
+University of East London 1st 6
+Men’s 3rd 0
+Royal Veterinary College 1st 0
+Men’s 4th 1
+Brunel University 3rd 2
+Women’s 1st 1
+University of Chichester 1st 6
+Women’s 2nd 0
+Royal Holloway 2nd 11
+Lacrosse
+BUCS Cup
+Men’s 1st 0
+University of Birmingham 1st 21
+Women’s 1st 14
+Swansea University 1st 3
+Netball
+Women’s 1st 23
+RUMS 1st 35
+Women’s 2nd 23
+Brunel University 5th 22
+Women’s 3rd 13
+Roehampton University 2nd 44
+Rugby
+Men’s 1st 38
+Cardiff University 1st 7
+Men’s 2nd 11
+Royal Veterinary College 1st 10
+Men’s 3rd 19
+King’s College 2nd 6
+Men’s 4th 0
+St George’s 2nd 28
+Squash
+BUCS Cup
+Women’s 1st 3
+University of Exeter 1st 1
+Fixtures & Results
+Volleyball qualify for Sheffield
+Emanuel Balsamo
+Wednesday 11th February saw the
+Imperial College women’s Volleyball
+Team qualify for the final 8s at the
+BUCS Championships after defeating
+Exeter University in the last sixteen
+playoff, 3-0 (25-18, 25-8, 25-23).
+Having won the Southern Confer-
+ence 1A convincingly, the side were
+drawn to play at Ethos and took full
+advantage.
+Inspirational captain Alana Johnson
+passed a late fitness test on her elbow
+to lead the attack line. The first set was
+tight up until the midway point, with
+both teams exchanging point after
+point.
+Imperial began to impose themselves
+on the opposition with some heavy hits
+and tight defence. An excellent serv-
+ing run by playmaker Ashly Devon
+Black raced Imperial into an unassail-
+able lead and they ran out 25-18 win-
+ners. Defensive specialist Regina Zoby
+showed Brazilian class with a flawless
+passing game.
+Imperial now had the upper hand
+and it was imperative that they car-
+ried the same intensity and level of
+performance into the second set. They
+did, and produced an emphatic set of
+volleyball winning 25-8.
+French phD student Amelie Seguret
+was in scintillating form, demonstrat-
+ing a great range of attacks from strong
+hits to deft drop shots. First year Linda
+Vaccari was also impressive as middle
+hitter, showing great determination
+and immense blocking ability. More
+serving pressure from Barbara Kisko-
+vski saw Exeter fail to reach double
+figures.
+In the third set, a few unforced errors
+crept into the Imperial game and Ex-
+eter started somewhat of a fight back.
+At one point the opposition were 19-
+15 ahead.
+Time-outs called by Head Coach
+BALSAMO gave the team a chance
+to regroup and begin their own trade-
+mark comeback. They fought their way
+back into the decisive set with some
+real hustle.
+First year Jen Smith produced some
+crucial winners and overall had im-
+pressive hitting stats, using the ball in-
+telligently every time.
+Imperial edged it 25-23 to complete
+an impressive and historic victory.
+With BUCS volleyball giants Lough-
+borough sensationally knocked out by
+Dundee University, the finals in Shef-
+field are wide open and Imperial will
+be challenging for the prestigious title.
+The other qualifying universities are
+Bath, Birmingham, Durham, Leeds,
+Manchester and Oxford.
+Table Tennis
+BUCS Cup
+Men’s 1st 9
+Bournemouth University 1st 5
+Tennis
+Men’s 2nd 0
+Brunel University 1st 10
+BUCS Cup
+Women’s 1st 5
+University of Gloucestershire 1st 5
+(Gloucestershire win on tie-break shoot out)
+Volleyball
+Women’s 2nd 0
+University of Essex 1st 3
+Saturday 21st February
+Football
+Men’s 1s ULU vs Royal Holloway 2s ULU
+Men’s 2s ULU vs Queen Mary 1s ULU
+Men’s 3s ULU vs UCL 3s ULU
+Men’s 7s ULU vs St George’s 3s ULU
+ULU Cup
+Men’s 4s vs King’s College 2s
+Men’s 5s vs King’s College 4s
+Sunday 22nd February
+Lacrosse
+Mixed 1s ULU vs UCL Mixed 1s ULU
+Rugby
+Women’s 1s ULU vs King’s College 1s ULU
+Monday 23rd February
+Basketball
+Men’s 1s ULU vs SOAS 1s ULU
+Men’s 2s ULU vs UCL 2s ULU
+Netball
+Women’s 1s ULU vs LSE 1s ULU
+Women’s 3s ULU vs LSE 7s ULU
+Squash
+ULU Cup
+Women’s 1s ULU vs RUMS 1s ULU
+Water Polo
+Mixed 1s ULU vs UCL Mixed 1s ULU
+Wednesday 25th February
+Fencing
+BUCS Cup
+Men’s 1st vs Northumbria University 1st
+Women’s 1st vs University of Cambridge 1st
+Football
+Men’s 3s ULU vs King’s College 1s ULU
+Hockey
+Men’s 3rd vs Royal Holloway 2nd
+Men’s 4th vs University of Portsmouth 4th
+Squash
+BUCS Cup
+Men’s 1st vs University of Birmingham 1st
+Women’s 1st vs LSE 1st
+Table Tennis
+BUCS Cup
+Men’s 1st vs Cardiff University 1st
+Tennis
+BUCS Cup
+Men’s 1st vs UCL 3rd
+Men’s 2nd vs London Metropolitan University 3rd
+Volleyball
+BUCS Cup
+Men’s 1st vs Oxford Brookes University 1st
+Women’s 2nd vs King’s College 1st
+in association with Sports Partnership
+19 Speak in support of cad, veto a
+punishment. (8)
+21 Provincial type reportedly stands
+on vessel, making involuntary
+spasm. (6)
+22 Grouchy church informant. (6)
+26 Harsh average. (4)
+27 Chaps you heard detailing prices.
+(4)
+Volleyball
+Imperial Women’s 1st XI 3
+Exeter Women’s 1st XI 0
+Retain your Bottle RSM and College may
+return with the JPR Williams Cup next week
+Game on. It truly is... A week of passionate sport and long lived traditions starts here in felix as 25 February
+2009, Varsity approaches. First off however, a brief introduction to The Bottle match.
+Now in its 107th year, the annual Bot-
+tle Match between the Royal School of
+Mines (RSM) of Imperial College and
+the Camborne School of Mines (CSM)
+of the University of Exeter is the sec-
+ond oldest varsity match in the world.
+The link between RSM and CSM is
+thought to have formed in the 1850-
+1870’s when the two schools were es-
+tablished and became the two premier
+mining schools in the country, and in-
+deed the world.
+The first recorded RSM vs CSM
+rugby match was played on the 16th
+December 1902 and though it was de-
+scribed as an honourable draw, we are
+unsure of the score.
+Since then the match has taken place
+every year, and was named the Bottle
+Match in 1946 when some RSM stu-
+dents procured a 3 ft beer bottle from
+a Bass lorry and this was made the
+trophy.
+It was adorned with the crests of the
+two schools, one on each side, and is
+currently displayed in the Union bar as
+the RSM were victorious in 2008.
+Of the recorded matches, RSM have
+won the rugby 39 times, CSM 33 times,
+and there have been six draws.
+In the case of a draw, the winning
+team from the previous years match
+keeps the Bottle.
+This year the RSM are fielding 77
+athletes playing golf, squash, Hhckey
+(men’s and women’s), football and
+men’s rugby.
+The competition will be at home this
+year, starting today (Friday 20 Febru-
+ary) with an afternoon of golf out at
+Trent Park, followed by squash, which
+starts at 7.30pm in Ethos.
+It’s an early start at Harlington on
+tomorrow for the hockey players with
+the ladies match at 9.00am.
+This is followed by back to back
+men’s hockey and football and then fi-
+nally, at 2pm, the all important rugby
+match!
+After showers it is back to South
+Kensington for the Players’ Dinner and
+the always-entertainig awards ceremo-
+ny in dB’s from 9.00pm.
+The Bottle Match has, and always
+will be, the main annual event for the
+RSM because of its tradition and the
+passion that surrounds it.
+This year, not only do we have the
+largest pool of players from which our
+captains have been able to pick from,
+but also the most supporters we have
+ever had by a long way!
+Everyone is now ready to smash
+Camborne apart and we plan to make
+this trip to London one they’d rather
+forget! Watch this space…
+Timothy Chalk
+Alana and her charges prepare for another well rehearsed move
+Will RSM return back to dominance on Saturday? They have won 10 of the last 11 encounters
+

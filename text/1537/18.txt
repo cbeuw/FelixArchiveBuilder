@@ -1,0 +1,148 @@
+Turning the heat back on?
+Shiladitya Ghosh guides you through a novel way to manipulate heat
+A
+Royal Institution may sell its Mayfair Home
+Arianna Sorba Science Writer
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 25 JANUARY
+18
+researcher at the Mas-
+sachusetts Institute of
+Technology (MIT) has,
+through his self-devised
+technique, managed
+to successfully exercise control over
+heat the same way we enjoy control
+over light through mirrors and lenses
+(most disappointingly falling short
+of developing a giant heat ray, for
+the time being). This new technique,
+which utilises semiconducting alloy
+crystal nanostructures and similar
+materials, manipulates the physical
+separation between atoms so that
+they correspond to the wavelengths
+of heat phonons.
+To elucidate how heat and sound
+phonons are diﬀerent, Martin Mal-
+dovan, the researcher in question,
+directs us to consider their associ-
+ated frequencies: sound phonons are
+on the order of kilohertz, while heat
+phonons vibrate in the terahertz fre-
+quencies. Sounds simple enough.
+In developing this technique, the
+initial step was to manipulate the heat
+phonons’ operational frequency so it
+would be reduced and similar to the
+range of sound phonons, described
+as “hypersonic heat”. For this to be
+possible, germanium nanoparticles
+of a particular range of sizes were in-
+tegrated with silicon alloys, with the
+resultant crystals having the desired
+atomic separation needed for this hy-
+personic heat. Furthermore, the fre-
+quency range was narrowed through
+the creation of thin ﬁlms on the edges
+of the material, utilising optical prin-
+ciples to ‘concentrate’ the frequencies
+of the phonons. Not nearly as simple.
+As a result, about 40% of the total
+ﬂow of heat is not only streamlined to
+a range of several hundred gigahertz
+(considerably closer to kilohertz than
+terahertz was!), but also focussed to
+travel in one general direction, simi-
+lar to the ﬂow of photons in lasers.
+That is deﬁnitely no mean feat!
+With this end-product, the heat
+phonons can be controlled in a vari-
+ety of ways using analogs of sound-
+controlling phononic crystals that
+have already been developed. Some
+potential important applications
+highlighted by Maldovan are the
+improvement of thermoelectric de-
+vices (which output electricity from
+temperature gradients), and the de-
+velopment of thermal ‘diodes’ which,
+crucially, “could be useful in energy-
+eﬃcient buildings in hot and cold cli-
+mates” – now that’s deﬁnitely some-
+thing I’d honestly appreciate and be
+very grateful for.
+Perhaps the fanciest application he
+mentions is the creation of invisibility
+cloaks for heat: for objects to become
+perfectly undetectable by heat sen-
+sors and the like. Honestly though, I
+can only foresee how something like
+that can be misused in the future
+for non-peaceful purposes on inter-
+national scales. Nonetheless, this is
+merely the ﬁrst breakthrough of this
+nature in heat-manipulating materi-
+als; soon, we may well be channelling
+the excess heat in the atmosphere
+back out into space to counteract
+global warming. Or building that gi-
+ant heat ray, of course. Just in case
+we get embroiled in The War of the
+Worlds.
+DOI: 10.1103/PhysRevLett.110.025902
+The Royal Institution in Mayfair
+has been a centre for scientific re-
+search and communication for over
+two centuries. Previously the work-
+place of such scientific greats as
+Michael Faraday and George Por-
+ter, the Ri now focuses on outreach,
+running courses, book clubs, school
+events, and the famous Christmas
+Lectures, in their 18th cen-
+tury building.
+But an incredibly
+badly timed £22m
+refurbishment back
+in 2008, combined
+with years of mis-
+management, has
+left the charity in fi-
+nancial turmoil. The true extent of
+the crisis was unknown to the gen-
+eral public until last week, when it
+was reported in The Times that the
+charity had secretly put the May-
+fair site on the market for upwards
+of £60, in an attempt to recoup its
+mounting debts.
+The Institution has insisted that
+the selling of the building is just one
+of many options being considered,
+but nevertheless outrage and dis-
+may have been expressed by some
+members of the scientific com-
+munity and the general public.
+Twitter campaigns have sprung
+up to ‘save the Ri’, whilst physi-
+cist Jim Al-Khalili has com-
+mented that ‘it seems crazy
+that at a time when science and
+science communication is riding
+a wave of popularity not seen for
+generations, we hear that the very
+epitome of a British scien-
+tific institution is under
+threat.’
+I think I heard a tenner from the
+gentleman at the back of the room
+http://www.hsmagazine.net
+When he released the single
+Nelly didn’t know hot to
+control heat, but maybe
+researchers at MIT do...
+

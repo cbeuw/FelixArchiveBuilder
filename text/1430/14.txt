@@ -1,0 +1,498 @@
+sport.felix@imperial.ac.uk
+26 Friday 1 May 2009
+felix
+Sport
+27
+felix
+Friday 1 May 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 12 12 0 0 105 15 90 100 5.00
+2 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+3 Fencing Men's 1st 11 10 0 1 1457861 596 91 4.18
+4 Fencing Women's 1st 11 10 0 1 1445 1160285 91 4.18
+5 Volleyball Women's 1st 9 8 0 1 17 3 14 89 4.00
+6 Hockey Men's 1st 13 11 0 2 65 19 46 85 3.62
+7 Squash Men's 2nd 13 11 0 2 40 21 19 85 3.62
+8 ICSM Netball 2nd 12 10 0 2 452 226 226 83 3.50
+9 ICSM Netball 3rd 12 10 0 2 444 225 219 83 3.50
+10 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+11 Lacrosse Women's 1st 11 9 0 2 162 43 119 82 3.36
+12 Table Tennis Men's 1st 15 12 0 3 163 88 75 80 3.20
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 12 9 0 3 404 226 178 75 2.75
+15 ICSM Hockey Women's 1st 14 9 1 4 65 29 36 64 2.21
+16 Hockey Women's 1st 16 9 2 5 54 38 16 56 1.81
+17 Basketball Men's 1st 11 7 0 4 780 709 71 64 1.73
+18 Hockey Men's 3rd 12 4 5 3 23 30 -7 33 1.50
+19 Hockey Men's 2nd 12 7 0 5 50 36 14 58 1.25
+20 Hockey Men's 4th 8 4 1 3 19 23 -4 50 1.25
+21 Badminton Men's 2nd 11 5 2 4 49 39 10 45 1.18
+22 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+23 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+24 Fencing Men's 2nd 9 5 0 4 1100 947 153 56 1.00
+25 Rugby Union Men's 2nd 17 9 0 8 358 334 24 53 0.76
+26 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+27 Basketball Women's 1st 10 5 0 5 453 425 28 50 0.50
+28 ICSM Hockey Women's 2nd 11 4 2 5 27 43 -16 36 0.36
+29 Football Men's 1st 12 5 1 6 25 29 -4 42 0.25
+30 Tennis Men's 2nd 12 5 1 6 42 69 -27 42 0.25
+31 ICSM Football Men's 1st 13 4 3 6 17 26 -9 31 0.15
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Football Men's 2nd 11 4 1 6 24 35 -11 36 -0.18
+34 ICSM Rugby Union Men's 2nd 16 6 1 9 271 244 27 38 -0.25
+35 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+36 Rugby Union Men's 3rd 15 6 0 9 264 324 -60 40 -0.40
+37 ICSM Rugby Union Men's 1st 17 5 1 11 306 467 -161 29 -1.00
+38 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+39 ICSM Rugby Union Men's 3rd 14 4 0 10 152 429 -277 29 -1.43
+40 Football Men's 3rd 11 3 0 8 18 33 -15 27 -1.55
+41 ICSM Football Men's 2nd 10 2 1 7 13 28 -15 20 -1.60
+42 ICSM Hockey Women's 3rd 9 1 2 6 11 39 -28 11 -1.67
+43 Hockey Women's 2nd 11 2 1 8 10 46 -36 18 -1.82
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 Football Women's 1st 10 2 0 8 11 34 -23 20 -2.20
+46 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+47 ICSM Hockey Men's 2nd 11 2 0 9 17 24 -7 18 -2.36
+48 ICSM Hockey Men's 1st 11 1 1 9 18 45 -27 9 -2.64
+49 Rugby Union Men's 4th 15 2 0 13 162 623 -461 13 -2.80
+50 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+51 Netball 3rd 12 1 0 11 127 452 -325 8 -3.25
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Netball 1st 11 0 0 11 220 428 -208 0 -4.00
+1 2 3 4 5 6 7 8
+9 10
+11 15
+14 12
+13 18 14
+15
+16 17 18
+19
+25 20 21
+22 32
+23 24
+34
+25 26
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,430
+Across
+1 Area of London sounds as if it’s
+constructed from beer (5,4)
+6 Not a taxi heading west for
+philosopher (5)
+9 King with fish wavers (5)
+10 I tried hen, somehow acquired
+from parent (9)
+11 Away in the company of senior
+teacher? Execute him! (3,4,3,4)
+13 Returned competent from place
+of exile for 18’s famous son (4)
+14 Crazy man with biscuit used to
+break shells (10)
+16 Indie band fail kosher test (3,7)
+17 Poet banned, we hear (4)
+20 I was lengthwise unfortunately,
+perhaps filled with Semillon
+(5,4,5)
+23 Food provided by health centre
+in front of immigrant districts?
+(9)
+24 Anna chooses to have a snack
+(5)
+25 Extra snake with unusual tail (5)
+26 Fix mother a part in
+complicated procedure (9)
+Down
+1 Puppet character from video game
+on the web, say (10)
+2 Strangely fine story that can’t be
+spoken (9)
+3 Donkey to feel unwell in attack (6)
+4 A member of school with an empty
+bottle – one in an unfamiliar situa-
+tion (1,4,3,2,5)
+5 Clannish genetic engineering might
+achieve this (6,9)
+6 Oddly, Brit rota had many a celebra-
+tory event (8)
+7 A platform for Felix perhaps to go
+on strike(7)
+8 Poem in support of north point (4)
+12 Quiet communist is to ask to make
+one vulnerable (10)
+15 Scottish leader Edward has skin
+condition repaired (8)
+18 Part of stoic Cajan turns up in
+Mediterranean port (7)
+19 A long duration and, peculiarly, a
+schedule (6)
+21 Difficult to keep ring in treasure (5)
+22 Motorist’s body found with silicon
+implant in eastern land (4)
+E B R A C R O S S I N G N
+B E N E A G O T V O R A Q P
+E N V I R O N D E N L A R G E
+S A E A E E G R A A O W I O
+I D L A B A R B E R H O P
+D B O E T C C A O E I O A E L
+E X P R E S S W A Y S U L E E
+O H E O S E T R O I A T N C
+N I S C N D I N A V I A
+E N R O E O T O C Y G S I R
+S H O U L D E R E D E M I R
+E N W H L N L L N R R P H I
+L I N E A G E S E X A M I N E
+F V I K T S H G F C I R C R
+S N E V E S A Y N E V E R E
+E
+Z
+Solution to crossword 1429
+A new term, a new set of crosswords
+for you all to feast your eyes on. Con-
+gratulations to Mochten sie mein
+Manshaft who won the last cryptic
+crossword of the term, there were
+some very close seconds so the race is
+definitely on to get those big points for
+the FUCWIT League.
+Best of luck everyone!
+Crossword by: Sam Wong
+B
+S
+A
+A
+O
+P
+M
+R
+Imperial Immortals downed
+by vicious Cobra venom
+Done and dusted. The Imperial Col-
+lege Immortals (ICIs) chalked up their
+first game of the season on Sunday. A
+fair crowd turned up to support ICIs
+battle against one of the UK’s top sen-
+ior teams, The London Cobras.
+It was clear from the start who the
+pros were when on the first play ICI
+barely returned the kick-off for more
+than 10 yards before their wedge
+busters destroyed our feeble first
+wedge consisting of Quincy (No. 52),
+Mac (55), Jan (58) and Arthur (77) and
+totally flattened Big Geoff (88). The of-
+fence which was lead by Kennedy (9)
+were unsuccessful on their first drive
+and were forced to punt on the 4th
+down, which was returned for the first
+touchdown for the Cobras.
+ICI were clearly rattled with no one
+really ready for the brutal physical
+challenge ahead. It was not until the
+second quarter that they started to get
+their act together. The defence lead by
+Goose (42) started to bond. Big open
+field tackles came in from the two
+standout defensive backs Fisher (20)
+and Ramirez (25) with Quincy doing it
+for the D Line gave the defence some
+confidence.
+The offence was able to feed off this
+success and with one of the last play
+of the first half, the O-Line of Sanches
+(78), Sikorski (68), Tovell (63), Mac and
+Quincy held strong and Kennedy was
+able to dodge a tackle and make our
+first ever 1st down, which consider-
+ing the quality of the opposition was a
+huge achievement.
+The second half began and the wedge
+seemed to have a new lease of life,
+holding form to allow a longer return.
+Both the offence and defence worked
+tirelessly for the whole game with the
+home team picking up two more first
+downs from Newton (16) and Tino
+(81).
+It is true that ICI were outclassed on
+the day but each and every player gave
+it their all and the experience gained
+from coming face to face with a team
+who only conceded 9 points in their 10
+game regular season is priceless. The
+Immortals are now league material. So
+next year they look forward to games
+against other universities and hope-
+fully making it to the play-offs.
+Sadly we are saying farewell to a cou-
+ple of members of the team. Thank you
+very much for all the hard work put
+in over the year from Stan, Ramirez,
+Binnie and Sanches. These places will
+need filling up next year so bulk up and
+get in touch!
+George Barnes
+Imperial fencing finishes
+off a brilliant season with a
+resounding win
+“It’s weird. Last year, we had finished
+all our matches before the Christmas
+break...” Our president, Chris Namih,
+uttered those words before we set
+off to Southampton at the beginning
+of this term for our last (postponed)
+league match.
+Winning it made us undefeated
+south-east conference champions. It
+also meant that the season was still on
+for a while yet... Two months on, we
+had narrowly lost a BUCS champion-
+ship quarter-final to Northumbria, and
+fenced our way into a playoff match for
+promotion into the highest league di-
+vision in the country, the Premiership.
+Winning this meant fencing against
+the likes of Oxford and Cambridge (the
+top two teams in Britain) next year, and
+would give us the chance to start a ri-
+valry with UCL (it’s not that we don’t
+like them, or think we’re the better
+London uni, but I’m just saying...)
+Our opponents were Bath, last-
+placed in this year’s premiership with
+a none-too-flattering record: just one
+win out of six matches played, and
+one walkover conceded. The team
+that turned up only consisted of three
+fencers! As we warmed up, many of
+us couldn’t help feeling that the pre-
+miership was within our reach. Some
+club novices and friends, as well as the
+BUCS silver medallist women’s team,
+had turned up to cheer us on; they got
+the win they were hoping for as Impe-
+rial dominated the match from start to
+finish. The sabre wasn’t much of a con-
+test as Jean-Romain, Naren, Wookie
+and Maiyuran made it 45-16; the foil
+even less so with Chris G, Namih, Lit-
+tle Ed and Indy getting a score of 45-8.
+Big Ed, Ale and Marcello rounded off
+the match with a comfortable 45-13
+win in the epee. That was it, Premier-
+ship. Sorted!
+Despite a slight anticlimactic feeling,
+after what was our largest win of the
+year, we were still pretty chuffed at the
+season we’d had. The win was the cue
+for a whole evening of fun, as we went
+on to shave the president’s hair off at
+the union (and, in a related incident,
+Andreas’s, Wookie’s, Maiyuran’s and
+Sjoerd’s) and then went out for a 30-
+strong dinner and a bit of partying! I
+think everyone in the club, from the
+novices to our adored president, de-
+serves a special mention for making
+this year such a great one for fencing
+at Imperial. Cheers guys, and see you
+next year in the Premiership!
+Fencing
+Imperial Men’s 1st 135
+Bath Men’s 1st 37
+Indy Leclercq
+At least we still have the Gutteridge Reserves Cup
+In the twilight of what had been a suc-
+cessful season for the Imperial 2nd XV,
+the players were determined to seal a
+trophy, especially off the back of a huge
+and comprehensive 69 – 0 victory of
+Middlesex in their midweek league
+match. Despite having not played a
+game in the Reserve Cup so far, IC
+knew they were in for a stern test from
+what would be a dogged, albeit less tal-
+ented, UCL 2nd team. Moreover, the
+2s were now Imperial’s flagship rugby
+team in all ULU competitions, given
+the shock exit of the 1st XV a fortnight
+ago.
+In the pre-match huddle, Coach
+Brimah’s instruction was to bring out
+the running game from the word go.
+Straight off the UCL kick-off the 2s ran
+their now famous Brunel ball; a strong
+crash up the middle from Adam Foley
+being followed by a burst up the blind
+side from Rob Dowden and China Lite.
+Imperial recycled well and soon earned
+a penalty inside the UCL 22, which,
+without any hesitation, was kicked for
+goal to put Imperial 3 – 0 to the good.
+Despite this electrifying start, Impe-
+rial then stuttered. A workmanlike at-
+titude from the UCL forwards coupled
+with some poor decisions with ball
+in hand led to UCL having consist-
+ently good field position. Fortunately,
+the UCL kicker did not have the same
+composure as his counterpart, and
+failed to capitalise on a penalty that
+was imminently kickable. Imperial
+then began to claw their way back to
+their early match form. Despite con-
+ceded the majority of the possession
+to their opposition, UCL never threat-
+ened, and soon the Imperial back three
+showed their class with some searing
+breaks from deep. On one occasion
+fullback and man-of-the-match Dow-
+den made 50m in one break that mark-
+edly resembled a knife cutting through
+soft butter. Unfortunately, the support-
+ing players failed to show the required
+slight-of-hand required to score the try
+that was deserved.
+No matter; Imperial were now reju-
+venated and had the ball deep in the
+opposition territory. A short chip from
+fly half Scott Greening, which was
+well pressurised by Foley, forced UCL
+into conceding a lineout on their own
+5m line. Following on from previous
+games, the Imperial forwards showed
+utter domination in the lineout, with
+the catch and drive resulting in Im-
+perial’s first try of the game; the ball
+having been put down finally by Ben
+Moorhouse.
+The wide conversion shanked; the
+Rugby
+Imperial Men’s 2nd 20
+UCL Men’s 2nd 3
+Scott Greening
+score was 8 – 0. Imperial should have
+carried this lead into the halftime in-
+terval, however indiscipline gave away
+a penalty that even UCL couldn’t
+miss, allowing them to score their first
+points, leaving 8 – 3 as the halftime
+score.
+The second half began in a similar
+vein to the first half, Imperial failed to
+exert their authority in the opening 10
+minutes of the half, allowing UCL too
+much ball and then kicking away the
+possession they had. It was a moment
+of vision and opportunism that led
+to Imperial’s second try. From a pen-
+alty in Imperial’s half, rather than kick
+for touch, Greening noticed the UCL
+team idling, clearly trying to recover
+their breath. Greening took a quick tap
+and chipped over the static UCL line.
+Despite the covering winger and full-
+back the bounce of the ball was good
+and was caught by the chasing fly half.
+Despite bouncing off the attempted
+double tackle, Greening responding
+to calls from David Bowe and span the
+ball out to Lite to touch down in the
+corner. The wide conversion was again
+failed, leaving the score at 13 – 3.
+From this point out Imperial oozed
+class and exerted their marked supe-
+riority. The whole team ran its pat-
+tern just as they had trained, with the
+forwards securing quick ball, and the
+backs running with pace and from
+deep. Lite made continuous breaks
+down the right flank, repeatedly out-
+pacing his opposite man, despite be-
+ing “shown” the inside. Powerful runs
+from Imperials big boys, most notably
+Conan O’Rourke, made deep inroads
+into the UCL defense. After 10 phases
+of superb organisation and distribution
+from scrum half Penfold, Imperial span
+the ball wide through the hands, allow-
+ing Bowe to run through a gap so big
+he could have moon-walked through.
+This time the touchline conversion
+was successful, bringing the score to
+it’s ultimately finality, 20 – 3.
+Imperial continued this pattern to
+the death, running continuous phases
+and looking dangerous. Unfortunately,
+no more points could be added. It was
+no matter, UCL knew they had been
+beaten by a class act in the second
+half.
+The Reserve Cup was therefore re-
+tained for another year by Imperial.
+This trophy was no less than the team,
+led expertly by Captain Andy Mac-
+fadge, deserved after a hard and ulti-
+mately rewarding season.
+Dismal end to an abysmal
+season for both rugby 1sts
+Jovan Nedić
+Editor in Chief
+The end of the season couldn’t have
+come any sooner for Imperial College
+RFU and Imperial Medicals RFU 1st
+teams. Both sides have had a difficult
+season in the BUCS Southern Premier-
+ship B, fighting for survival and pride.
+Despite their best effort, including a
+nail-bitting Varsity that saw the match
+go into extra time yet again, neither
+team managed to make a very success-
+ful season of it in the league. Both teams
+were, however, hoping for better suc-
+cess in the ULU cups, something which
+both clubs have managed to have a
+firm grip over the past few years. Impe-
+rial’s 1sts managed to get a bye straight
+into the quarter-final of the Gutteridge
+Cup, a competition which they have
+dominated over the years and planned
+to do the same this year.
+College managed to get a walkover
+over SOAS who were unable to field
+a team, which left on King’s College
+in the way of them and another Gut-
+teridge Cup final. Having beaten King’s
+many a time before in the competition,
+the side was ready for the match, how-
+ever, it seems that the King’s side want-
+ed to get to the final more than Impe-
+rial did. The end result, King’s beating
+Imperial and eventually beating Royal
+Holloway.
+This was not the only success for
+King’s College, as their own medi-
+cal school, GKT, were yet again in the
+United Hospitals Cup against Imperial
+Medicals. The UH Cup is oldest rugby
+cup competition, predating the Cal-
+cutta Cup by four years, and the Medi-
+cals have been the holders of the pres-
+tigious cup for the last seven years. It
+seemed, however, that lady luck wasn’t
+on their side either as their 1sts, 2nds
+and 3rds all managed to lose to GKT
+in the final.
+Hopefully the new season will bring
+better fortune for both sides as they try
+to retain the former glory they once
+had.
+Imperial’s 2nd XV with the mighty Gutteridge Reserves Cup
+IC 1st XV looking dejected after this year’s closely fought Varsity
+The Imperial fencers avoiding a lunge attack from the Bath fencer
+The newly formed Imperial Immortals, Imperial’s very own American Football team
+photo by Joe Muddiman
+

@@ -1,0 +1,196 @@
+32 felix Friday 9 May 2008
+Social networking evolved
+Alistair Turnbull discusses social networking sites of the past, present and future
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+Headlines we
+couldn’t fit in
+MP3 Trojan
+floods peer-2-peer
+networks
+Torrentspy forced
+to pay $110m to
+MPAA
+GTAIV breaks lots
+of records making
+lots of money
+Freesat launches
+across the UK
+Japan to tax MP3
+players
+Home PCs
+legalised in Cuba.
+Internet still
+banned
+EU launches
+public consultation
+of roaming
+regulations
+Google Executive
+Elliot Schrage
+jumps ship and
+joins Facebook
+Pole dancing
+kit coming to
+Nintendo Wii
+Microsoft backs
+down from Yahoo
+takeover bid
+I
+nthebeginningtherewasMyspace.
+It was new, fresh and exciting. The
+youth of the world flocked to this
+site, connecting with their old
+friends and making new ones. It
+quickly became one of the most popular
+sites on the internet. People could add
+anything to their profile page, and unfor-
+tunately lots of people did. Most profiles
+became a nightmare of badly implement-
+ed HTML, garish colours and automati-
+cally playing songs.
+But then along came Facebook; with its
+fancy AJAX interface and simple yet styl-
+ish design it became a second home for
+a generation of university students. The
+novel way of connecting people through
+events and tagging in photographs for-
+ever changed the way people interacted
+online.
+Then in May 2007 Facebook intro-
+duced applications. While on Myspace
+most people spent their time staying
+in touch with friends and visiting band
+pages, Facebook’s applications added a
+whole new dimension to social network-
+ing. Almost overnight a plethora of ways
+to waste time arrived. Quizzes, games
+and hundreds of other applications for
+your profile suddenly appeared, and with
+them came application invitations. An-
+noyingly, these work in a similar way to
+pyramid schemes, by rewarding users
+for bombarding their friends with in-
+vites, who then often have to invite more
+friends to fully use the application.
+These days Myspace is becoming much
+more like Facebook by giving people an
+updateable status and introducing appli-
+cations. This is mainly due to the fact that
+Facebook’s user-base grows by hundreds
+of thousands a day and in some coun-
+tries has many more active users. This is
+bad news for NewsCorp who spent over
+$500million buying MySpace and have
+yet to turn any meaningful profit. There-
+fore, desperate to keep their users while
+they figure out how to make a profit, they
+have to resort to imitating features from
+other sites. In my opinion, this won’t help.
+Both sites became popular because they
+offered something new, and by copying
+Facebook, Myspace isn’t doing this. That
+is why I believe that in the future neither
+site will reign supreme.
+It reminds me of a statement I carry
+with me through life. As the story goes,
+King Solomon once asked his advisors for
+an assertion which would remain eter-
+nally true. They went away and discussed
+it and then came back with the phrase,
+‘This too shall pass’. All things change, for
+better or for worse. Though in the tech-
+nological world, they generally get better.
+The huge growth of Facebook in a mat-
+ter of years shows how easily people will
+change between social-networking sites
+when something new comes along and
+there is no reason to think this won’t hap-
+pen again. Innovation drives the world
+we live in and sure as the sun will set, a
+new social-networking experience will
+arrive at some point. But in what shape
+will it come?
+No-one can know, but perhaps it could
+take the form of 6pages.com, created by
+some of Imperial College’s own students.
+It may seem like an insurmountable hill
+to try and compete with massive cor-
+porations, but Facebook was created by
+students at Harvard: so perhaps they are
+trying to emulate the same success. The
+site clearly sports a similar clean and in-
+teractive feel to Facebook with all the ele-
+ments of the page flowing together. But is
+it anything else apart from another Face-
+book clone?
+From testing the site, apart from all the
+usual friends and groups, the main differ-
+ence seems to be the emphasis on user-
+generated articles which can contain
+news, funny Youtube links or anything
+else you might feel like sharing with the
+world. These are connected to the net-
+work of the user (e.g. Imperial College).
+Only popular articles then get filtered up
+into larger networks (e.g. London) and
+finally to the national level for the whole
+country to enjoy.
+This could, perhaps, put it in compe-
+tition with Imperial’s CGCU-run news-
+website, Live, which reports on news
+around Imperial College and the wider
+world. However, unlike a traditional
+newspaper or online news-site, everyone
+can be a writer on 6pages. The obvious
+problem here is the possible low quality
+of the content that Joe Bloggs might post,
+perhaps talking about his new trainers
+or a video of his drunken mate, although
+through a system based on popularity, all
+the useless articles should just fade away
+into the bowels of the Internet, leaving
+only enjoyable content behind.
+However, compared to the funded
+newspaper and website at Imperial, a site
+like 6pages.com would be free from any
+restrictions on what could be published.
+This could lead to very vocal opinions
+about various parts/members/policies of
+the union, more anecdotal experiences
+and generally a more ‘on the ground’
+view of life. This could be good reading
+for when people aren’t looking for ‘prop-
+er’ news.
+Another interesting feature they have
+integrated into the site is the media cen-
+tre, which brings together outside con-
+tent from news-sites, online TV streams
+and also online radio stations. While it
+contains all the obvious BBC services
+they also collate an interesting range of
+other services from ‘Martial Art TV’ to
+the latest news from ‘L’equipe’. It was ac-
+tually surprisingly useful to have all these
+services melded together so simply with
+no need to visit each site. Again, over time
+the most popular sources will be priori-
+tised to save users time, which appears to
+be a major aim of the site, to bring togeth-
+er lots of different Internet experiences in
+one place.
+While 6pages may still have a few bugs
+and usability issues, it’s still in beta and
+can only improve. Ironing out the last few
+creases in this web of networks could end
+up producing something very promising.
+A compelling mix between Facebook
+and Digg, squashed together with con-
+tent from all across the Internet. But don’t
+take my word for it, try it out yourself and
+see if you think it’s got what it takes to be
+the next big thing.
+6pages.com: Think Digg meets Facebook with a splattering of content from across the Internet
+Left: it all began with Myspace, and right: the mighty behemoth Facebook
+

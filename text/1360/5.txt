@@ -1,0 +1,250 @@
+City explained: derivatives demystified
+Read the FT on any given day and
+there is usually more than one ar-
+ticle full of derivatives jargon: op-
+tions, futures, swaps, CDOs, CDS,
+exotics, hybrids…the list is end-
+less. Warren Buffet once described
+financial derivatives as “weapons
+of mass destruction”, Alan Green-
+span and the countless number of
+investors (or is that speculators?)
+certainly didn’t seem to think so.
+The rise of derivatives and their
+use over the last decade alone has
+been startling. Look at Goldman
+Sachs’ balance sheet and you can
+quite easily see that income gener-
+ated from the sales and trading rev-
+enue streams, of which derivatives
+form a large part, outstrips M&A
+advisory income four times over.
+The industry in its current incar-
+nations has been around in some
+shape or form since the 70s, when 3
+academics from the Chicago Grad-
+uate School of Business – Myron
+Scholes, Fischer Black and Robert
+Merton – developed the Black-Sc-
+holes option pricing model. Futures
+have been traded on the Chicago
+Board of Trade (CBOT) since the
+mid-nineteenth century. The more
+quantitative development of areas
+such as credit derivatives has hap-
+pened more recently. A financial
+derivative is described most sim-
+ply as a financial contract which is
+valued on some underlying asset or
+event. This asset or event can liter-
+ally be anything – stocks, currency,
+wheat, weather, England winning
+the World Cup.
+Lets stick to wheat, for simplicity.
+Imagine a farmer who has a field
+on which he grows crops of wheat.
+In order to grow this wheat, the
+farmer has put forward a certain
+amount of initial outlay of capital,
+maybe it was his own, maybe he
+borrowed it. Either way, he had to
+pay for the land, prepare it, seed it
+and water it. He also would have
+bought fertilizers and pesticides. In
+order to make money, his expendi-
+ture needs to be lower than his in-
+come, simple. His ability to make
+money is determined on 2 factors:
+the amount of wheat he sells (vol-
+ume) and the market price of the
+wheat. For argument’s sake, lets
+discount the volume, and so price
+becomes the overriding factor, and
+he has an exposure to changes in
+the price. If it goes up, he will earn
+more, if it goes down it will squeeze
+his margins. There is a risk that the
+price could fall below what it costs
+him to produce the wheat, mean-
+ing he will run losses. This is where
+derivatives come in. He can enter
+into a derivative contract to man-
+age that price risk, he could sell the
+wheat in the future but at today’s
+price, or another mutually agreed,
+fixed price. This is a forward con-
+tract, or a future.
+In essence, what the farmer has
+done is eliminated uncertainty in
+his future earnings; he is protected
+from a huge fall in the price, but
+equally must give up any extra
+profit if it rises. Fine, but who wants
+to buy wheat forward? Someone
+with the opposite need, say a baker.
+A baker needs the wheat to make
+his bread and he may well have ex-
+actly the opposite risk exposure as
+the farmer: if wheat prices rise, the
+farmer gains but the baker loses
+out, if they fall, the farmer loses out
+but the baker gains. This is a deliv-
+ery settled derivative contract. One
+can speculate of course, and this
+is where cash settled derivatives
+come into play. You agree a price
+in the contract, called the strike
+price, but you don’t actually have
+the wheat delivered to your door.
+The farmer merely enters into
+the contract with a dealer, say an
+investment bank, without disrupt-
+ing his own trading relationships.
+If the price rises above the strike
+price, the farmer must give up the
+difference between the actual price
+and the strike price to the dealer
+in cash, if it falls below the strike
+price, the dealer will pay the farmer
+the difference.
+Herein lies the problem, the farm-
+er must always give up the extra
+revenue he would have generated if
+the price rises had he not entered
+into a futures contract. He doesn’t
+have to; he could enter into an op-
+tions contract instead, more spe-
+cifically in the case of the farmer a
+put option. A put is essentially an
+insurance against the price of the
+wheat falling. If it falls below the
+strike price of the put, the farmer
+is paid the difference by the dealer.
+If it rises, the farmer need never
+exercise the option and hence can
+reap the rewards of the price rises.
+He must of course pay the dealer a
+premium for the option, called the
+option premium, just like premium
+paid to an insurance company for
+car insurance. The premium is de-
+termined on the risk exposure the
+dealer assumes on entering into
+the contract. So we’ve helped the
+farmer, what about the baker? He
+is worried about price rises, so he
+could purchase a call option, if the
+price is below the strike price he
+can continue to buy at the market
+price, as soon as it hits the strike
+price the option triggers and the
+dealer must now offset the extra
+cost of purchasing wheat.
+The example of the farmer and
+baker is quite elementary of course,
+and the risks involved are hedged
+quite easily, this is not always the
+case. The investment banks in es-
+sence act as the dealers, they as-
+sume the risks, repackage them,
+and shift them off their balance
+sheet onto someone else. In short,
+someone else holds the ticking time
+bomb.
+Imperial’s entrepreneurs challenge
+Monday 9 October marked the
+launch of the Entrepreneurs Chal-
+lenge for the forthcoming academic
+year. The annual prize fund of £55
+000 attracted undergraduates and
+faculty alike, from all disciplines.
+Any individual – regardless of their
+previous experience – is invited to
+use the two-part competition as a
+forum for exploring business ideas
+without financial risk.
+Although as many as 350 000 busi-
+nesses open their doors each year
+in the UK, just as many go into liq-
+uidation. Bizhelp, a website provid-
+ing assistance to small businesses,
+identified ten major reasons for
+companies failing. “Lack of skills”
+tops the list. Many people have
+excellent ideas, but are deficient
+in the technical, management and
+marketing skills needed to put their
+concept into effect. The challenge
+gives such people the opportunity
+to harness the experience of indus-
+try professionals, whilst at the same
+time enhancing their knowledge.
+For the first part of the challenge,
+known as the “Ideas Challenge,”
+entrants must submit a two-page
+business plan with a 1 200 word-
+limit. The pro-forma includes vari-
+ous headings such as “who is your
+market?” Learning events, includ-
+ing lectures from the Tanaka Busi-
+ness School, and one-on-one tu-
+torials, are available to those who
+apply. The competition closes on 20
+November. Details on how to enter
+can be found on the website listed
+below. There are 10 prizes of £1,000
+and 10 of £250 which shall be award-
+ed on 7 December at 18.00 in room
+220 Mechanical Engineering.
+Thesecondpartofthecompetition
+is “The New Business Challenge.”
+This requires entrants to expand
+their ideas further and produce a
+10-page plan. This comprehensive
+proposal needs to include technical
+information such as cash-flow esti-
+mates. Teams must then present a
+marketing-pitch to a panel of inves-
+tors and judges, a nerve-racking,
+but potentially rewarding event.
+The first prize is £25,000 (£15,000
+on paid services), there are two
+runner-up prizes of £5,000 (£3,000
+paid services) and seven £1,000
+cash prizes. In the past, the entire
+prize was in cash. Unfortunately,
+some teams would spend it on their
+business, and others would indulge
+themselves. Thenceforth, part of
+the prize can only be spent on serv-
+ices for launching a new company.
+Last year, there were 300 entries,
+most of whom were undergradu-
+ates with no experience.
+All the teams took something pos-
+itive from the experience. Whether
+or not their ideas were taken fur-
+ther, their business knowledge
+grew, they learnt to structure their
+thinking and they learnt to sell an
+idea. The experience entrants ac-
+quire, makes an impressive ad-
+dition to any resume, in a world
+where universities are churning
+out thousands of talented people.
+Apply on www3.imperial.ac.uk/
+entrepreneurship/
+entrepreneurschallenge
+“To succeed in business it is necessary to make others see things as you see them.”
+Goldman Sachs’ income from derivatives sales and trading four times that of M&A
+Jayraj Chokshi
+Business Correspondent
+The international petrolium exchange is a one of the largest futures exchanges for energy products
+New business challenge winning team “Intervent” and runners-up “Nap-ease” and “A-fix” 23 March 2006
+Michael Olymbios
+Business Editor
+5
+felix
+Friday 20 October 2006
+BUSINESS business.felix@imperial.ac.uk
+

@@ -1,0 +1,236 @@
+SCIENCE
+FELIX 9
+Friday 18 NOVEMBER 2011
+It was a truly triumphant success for
+Imperial this November at MIT in Bos-
+ton, where the iGEM world champion-
+ship took place. iGEM, first launched
+in 2004, is the most prestigious and
+largest undergraduate competition in
+synthetic biology worldwide. Impe-
+rial has a long history of success in the
+competition, but the Imperial iGEM
+team managed to break all records this
+year.
+The group of nine students took
+home a series of major prizes from both
+the European jamboree in Amsterdam,
+where they were declared regional
+winner, and the world championship
+in Boston. Despite the strong competi-
+tion, Imperial was a proud finalist and
+1st runner up for the final grand prize,
+and won the iGEMers prize as well as
+numerous other prizes.
+With their project, the iGEM re-
+searchers have tackled the problem of
+world-wide soil erosion and deserti-
+fication of drylands. Lacking a stabi-
+lising and anchoring root system, the
+nutritious soil is highly vulnerable to
+erosive forces, such as rain and wind.
+Arable land, on whose cultivation ap-
+proximately two billion people de-
+pend, is being successively lost. Soil
+integrity is crucial to avoid the severe
+aggravation of food scarcity, and bio-
+diversity loss due to the effects of cli-
+mate change.
+The first module, ‘Phyto-Route’
+aimed at rewiring E.coli chemotaxis
+by introducing a malate chemoreceptor
+from a soil bacterium. The seeds would
+germinate and then secrete L(-)malic
+acid (malate), acting as chemoattrac-
+tant, E.coli would then move towards
+Researchers at the University of Gron-
+ingen, Netherlands have announced that
+they have succesfully produced a sin-
+gle-molecule ‘car’, capable of moving
+by use of its four ‘wheels’ when excited
+by a scanning tunnelling microscope
+(STM). This announcement follows
+previous research by the group, led by
+Ben Feringa, into light-driven molecu-
+lar motors, first reported in 1999.
+Molecular motors use light or other
+stimulation to rotate a hydrocarbon
+group around a double bond. After rota-
+tion to form an unstable isomer, an exo-
+thermic isomerisation process causes
+the groups to rotate into a more stable
+position (helix inversion), with the re-
+sult of movement. This process can be
+repeated to return to the original con-
+figuration.
+This new research involves a mole-
+cule designed with four of these motors
+about a central axis. Electrical pulses
+produced by the STM excite the mo-
+tors, and cause it to move across a cop-
+per surface; the direction of the pulses
+can be controlled by the operator of the
+STM, and so precise control over the
+movement is possible.
+The group experienced difficulty in
+making all the motors work in tandem
+– they reported that perfectly straight
+movement is not possible. However,
+their calculations predicted a maxi-
+mum of 7nm of movement per 10 STM
+pulses; with 6nm of movement being
+experimentally observed, meaning that
+the ‘swerving’ of the car is not as a sig-
+nificant problem as could have been.
+The molecule requires a STM pulse of
+500 millivolts or greater, so imaging the
+molecule is possible without movement
+by use of a lower voltage. In addition,
+negative voltages caused no movement.
+The direction of motion can be con-
+trolled by the configuration of the mol-
+ecule. Depending on the orientation
+of the groups on each side of the axis,
+the correct isomer can both produce
+forwards movement and no move-
+ment, depending on the ‘landing’ of the
+molecule – if the molecule is not cor-
+rectly absorbed in the right orientation,
+movement is prevented due to the front
+‘wheels’ moving in the opposite direc-
+tion to those at the back. In addition,
+isomers in an incorrect configuration
+produce haptic movement, due to the
+onside and offside of the ‘car’ moving
+in alternative directions.
+Conditions for the molecular ‘car’
+prohibit commercial use at present (vac-
+uum conditions and temperatures of 7K
+was necessary), however, lead author
+Tibor Kudernak told the BBC that this
+was the next problem to resolve.
+DOI: 10.1038/nature10587
+Philip Kent
+Imperial iGEM success
+Nanocars with four-wheel drive
+Cyborg yeast is out to get you
+Scientists have succeeded in creating
+an artificial feedback loop between
+a computer and yeast. Algorithmic
+programs on the computer controlled
+flashes of light to start and stop gene
+expression, thus regulating how
+much protein was produced. This in-
+novative technique could possibly be
+used in industry to control production
+of biofuel by microbes.
+The beauty of this technique lies
+in its simplicity, in contrast to the
+incredibly complicated biochemical
+pathways it could potentially control.
+Phytochrome, a molecule that de-
+tects light, has active and inactive
+forms in red and deep red light re-
+spectively. Upon becoming active, it
+can set off gene expression cascades
+to produce a desired protein.
+The level of gene expression can
+then be measured through the amount
+of fluorescence a reporter molecule
+emits in the presence of the desired
+protein
+The computer, with its algorithmic
+wizardry, analyses the fluorescence.
+Once a threshold level of protein ex-
+pression has been reached, deep red
+light is fired back to the yeast, the
+phytochromes are turned into their
+biologically inactive forms and the
+circuit is turned off.
+Feedback control allows for precise
+regulation of these artificial circuits;
+it is an important process already
+utilised by biochemical pathways in
+cells, famously in the krebs cycle and
+in engineering. However, in silico
+feedback control is the first time sci-
+ence has managed to transcend the
+communication barrier between com-
+puter and cell.
+The implications of synthetic cir-
+cuitry are wide; in silico feedback
+could be used to create biosensors to
+regulate the level of by-products gen-
+erated from manipulated metabolic
+pathways. It could be utilised within
+biofuel and small molecule drug pro-
+duction to allow for tight control of
+yield production.
+Whilst it is an exciting step for-
+ward, it is just a small part of the
+technical breakthroughs that will be
+needed to generate complex synthetic
+biological circuits.
+DOI: 10.1038/nbt.2018
+Jula Humphries
+xxx
+The nanocar in action on a surface of copper... It really is a car. Sort of
+Elsa Sotiriadis
+Farhan Abdullah
+the gradient and be actively taken up
+into the roots. Capillary assays have
+shown effective malate chemotaxis of
+cells containing the construct and the
+natural uptake by roots was demon-
+strated with confocal stack imaging.
+With the second module, “Auxin
+Xpress”, the students successfully ex-
+pressed the genes for Auxin expres-
+sion from Pseudomonas savastanoi in
+E.coli. They further determined the
+IAA expression level of the module
+and the IAA concentration treshold for
+optimal root growth, thereby laying the
+basis for further fine-tuning of gene
+expression levels. In simulations of
+soil erosion (watering with hoose) and
+application of the optimum concentra-
+tion of IAA, the team has demonstrated
+improvement to soil stability.
+The concerns about releasing GMO
+to the environment were addressed by
+the third module, “Gene Guard”. This
+safety mechanism should prevent the
+spread of synthetic DNA to naturally
+abundant soil bacteria with a combina-
+tion of separately existing toxins and
+anti-toxins, rendering the recipient cell
+of horizontal gene transfer non-viable
+and thereby minimizing the contami-
+nation risk of the natural rhizosphere.
+In the very short time span of a sum-
+mer, the group has paved the way to-
+wards a smart and safe solution that
+could improve the lifes of billions of
+people around the globe.
+Certainly, the enhanced engineering
+of biological systems with standard-
+ized parts, the fostering of synergies
+between systems and synthetic biolo-
+gy, and the study of ecological, human
+and ethical implications will continue
+to provide means for optimized, in-
+spired and impactful researching-dur-
+ing iGEM and happily ever after.
+Autofluorescent roots (blue) of Arabidopsis Thaliana and E.coli express-
+ing superfolder GFP (green)
+“The computer, with
+its algorithmic wiz-
+ardry, analyses the
+fluorescence.”
+“It is an important
+process already uti-
+lised by biochemical
+pathways in cells”
+Imperial College iGEM 2011
+

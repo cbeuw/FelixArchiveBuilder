@@ -1,0 +1,159 @@
+SCIENCE
+beside, and gas import/export and oil
+export underneath, the electrical power
+module on Piper. The first explosion
+seems to have incapacitated virtually all
+of the electrical system, including lights
+and the public address system. The radio
+room was also destroyed after the first
+explosion, so communications (including
+those to and from Claymore and Tartan,
+which were routed through Piper) were
+lost almost immediately.
+• There was questionable safety
+organisation. Because diving operations
+were in progress at the time of the initial
+event on Piper, both of the independent
+fire pumps were switched from automatic
+to manual operation, to prevent damage
+to divers operating in the vicinity of the
+sub-sea pump inlets following accidental
+starting of the pumps. Thus, when the
+worst happened, there was no fire water.
+remotely—a sufficient part. Safety also
+requires an appropriate management
+structure. But management cannot be
+merely prescriptive. Offshore safety in the
+Uk has traditionally been governed by
+regulations, generally emanating from the
+Department of Energy. The regulations
+have their uses: if the management of an
+installation fails to obey the regulations,
+they can be required to do so or face
+shutdown. But a regulations-bound system
+falls down because practices not covered
+by the regulations are simply not
+addressed. People become complacent
+when they are encouraged to think that
+safety can be ensured by regulations
+enforced by inspectors. This is precisely
+the reason w h y the Health & Safety at
+W o r k A c t was introduced in 1974: to
+replace a m y r i a d of regulations with
+placement of the primary responsibility
+• T h e r e was a questionable evacuation
+procedure. T h e only person who could
+order abandonjment of the platform was
+the Offshore Installation Manager, whose
+position was analagous to that of the
+Captain of the ship. He appears never to
+have ordered evacuation. Thus many of
+those who died were mustered (correctly)
+in the main accommodation module—and
+waited there while conditions
+deteriorated. Many w h o survived did so
+by ignoring the rules and taking their
+own chances.
+What are the lessons of Piper? What is
+the way ahead? It is clear from the
+failures just described that there were
+some technical failures but more
+importantly there were management
+failures. The technically perfect system
+can always be circumvented. Thus while
+technical measures are a necessary part
+of safety, they are in no sense—not even
+for safety with those w h o create the risks
+and those who work with them, in other
+words with the platform management and
+operators in the present context.
+Thus the real way ahead lies with
+changing the hearts and minds of those
+who w o r k offshore and those who
+manage them. A cultural change, where
+safety is an explicit part of everyday
+working life, is essential. T h e first and
+most significant step in this direction is
+the use of onshore methods offshore. The
+replacement of the Department of Energy
+by the Health & Safety Executive as the
+regulatory body and the replacement of
+the externally imposed regulations by
+self-regulation, as exemplified in formal
+safety assessments, are some of the most
+important recommendations made by
+Lord Cullen. W e need to be sure that the
+industry takes them up wholeheartedly.
+Otherwise, w e are just waiting for the
+next Piper.
+Three
+Mile
+Island
+On Thursday 29th November Professor
+Graham Wallis from Dartmouth College,
+Hanover U S A , gave the annual Newitt
+lecture in the Chemical Engineering
+department.
+Three Mile Island was the first major
+accident involving a commercial nuclear
+reactor. During the course of the incident,
+which lasted for over two hours, radiation
+was released into the containment
+building with very little being released
+into the environment. It has been
+estimated that around thirty people have
+died as a result of the accident, all
+cancers caused by the release of noble
+gases long after the initial incident.
+Following the accident the company
+responsible for the building of the reactor
+were sued for $4.5 billion, more than the
+they were worth.
+The pressurised water reactor (PWR)
+used 100 tons of Uranium Oxide to
+produce around 300 M W of heat. The fuel
+rods were made from pellets of the fuel
+contained within metal tubes. Hundreds
+of these rods stacked together formed the
+reactor core w h i c h is then contained
+within a pressure vessel approximately
+four by six metres with walls around
+twenty centimeters thick. T h e vessel was
+able to withstand a pressure of up to 170
+bar.
+The problems started w h e n the main
+feedwater to the boilers was shut d o w n
+due to problems with the supply. This
+was were caused by ion-exchange resin,
+used to remove impurities in the water,
+becoming entrained in the water and
+blocking valves and pipes.
+Within five seconds the residual water
+in the boilers began falling. In less than
+fifty seconds the boilers were almost dry.
+Thus the heat generated b y the reactor
+was not being dissipated. The reactor was
+then shut down, control rods were
+inserted stoping the chain reaction.
+Although this reduced the heat being
+produced, fission products continued to
+produce heat at a rate of 150 M W . This
+level fell during the course of the
+accident to around 30 M W within a few
+hours.
+To absorb the heat generated auxiliary
+cooling water should have come on
+automatically. Unfortunately the valves
+that connected the pipes to the boilers
+had been left shut during maintenance
+work. Only after three and a half minutes
+was this water available, and so the
+reactor began to gradually cool.
+Despite this, the water inside the
+reactor itself continued to heat up and
+eventually began to boil. The steam
+produced escaped through a safety value
+and began to flood the floor of the
+containment vessel. The level of water
+26
+

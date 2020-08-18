@@ -1,0 +1,120 @@
+The Department of Aeronautics,
+which is one of the smallest
+departments in College, does much
+work with Fluid dynamics which is
+of general application, and it is the
+expertise that has been built up in
+wind tunnel design that has lead to a
+prestigous contact with Honda.
+The Department is also involved in
+the design of a new real-time
+Simulator which represents a
+significant advance over
+conventional machines.
+ONE O F T H E W O R L D ' S most sophisticated
+wind tunnels is being constructed in the
+Department of Aeronautics at Imperial
+College.
+In recent years the Department has
+become increasingly interested in non-
+aeronautical work, including road vehicle
+aerodynamics. This particular interest really
+began with tests carried out on racing cars,
+which included some for formula one racing
+teams like Ferrari, Lotus, and Williams.
+There is already a wind tunnel in the
+Department which can be used for up to one-
+fifth scale testing, but it is in such demand
+from racing and sports car manufacturers
+that a great strain is being put on its
+traditional use for teaching and research.
+Also Dr Peter Bearman and Dr John Harvey
+are intersted in extending their research
+activities to cover the fundamentals of air
+flow around cars, so there is a real need for
+new facilities.
+The new wind tunnel forms part of a joint
+project involving the College and the
+Japanese car company Honda. There is a five
+year contract with Honda, which includes
+two years for the construction of the tunnel,
+and three years for research. At the end of the
+five year contract the wind tunnel will
+become the property of Imperial College. It is
+unusual for Japenese firms to place contracts
+outside of Japan, and the good reputation the
+College has built up in this area of work must
+have influenced their decision. But also,
+within the College as a whole, there is a drive
+towards increasing links with industry both
+in this country and abroad.
+The tunnel has been specifically designed
+to carry out road vehicle aerodynamics
+studies. It has a test section 5 feet high by 10
+feet wide by 30 feet long with the capability to
+test one-third scale models, and a maximum
+wind speed of 35m/sec. A moving ground
+facility based on a conveyor belt system
+means the effect of travelling along the
+ground can be simulated, as well as the effect
+of moving through air. It is also possible to
+rotate the moving ground facility to obtain
+the effect of cross winds. So conditions that
+may be encountered in real-life situations can
+be closely reproduced. The whole system is
+computer controlled, and it will be possible
+to measure wind forces on the cars, and a
+detailed pressure distribution on the models
+and in the surrounding air flow.
+In the past much of the research on
+passenger cars has been directed at reducing
+drag and so conserving fuel. But as fuel costs
+continue to rise car manufacturers are
+considering making more lightweight cars
+using new materials. It is conceivable that the
+weight of cars may be halved, in which case
+the design will need to be carefully studied to
+ensure stability and safe handling. One of the
+major areas of research, using the wind
+tunnel, will be looking at the problems of
+driving through crosswinds, such as those
+encountered on motorways.
+In a few days, work on the new wind tunnel
+should be completed, and the reseach can
+begin.
+Simulated Excitement
+A high speed simulator, which will have a
+computingpower to rival the largest computers
+in the world, is being developedby a team in the
+Aeronautics Department.
+The use of simulators for a wide range of
+tasks is on the increase. They are used to design
+and test mathematical models of aircraft so
+that prototypes are right first time. These
+complete models are so complex that using
+existing simulators it may take many computer
+hours to replicate a manoeuvre of only a few
+minutes or seconds. Real-time simulators are
+used to train pilots and crews. Modern
+simulators are limited by their relatively slow
+speed of computation, with the computer's
+version of the aircraft's movement only
+updated about 30 times a second. There is a
+need to update at least 1,000 times a second,
+particularly for helicopter simulation.
+The team headed by Mr Belcher is in the
+early stages of developing a real-time
+simulator with the capability of handling 1,000
+million operations a second. It will be possible
+to simulate 900 processes simultaneously with
+a high volume of data traffic between them.
+With around 1,000 updates a second it will be
+over 30 times faster than existing machines,
+and it will be far cheaper because it is
+specifically dedicated to this type of
+computation. It will havepotential application
+outside of aeronautics, and there is interest in
+using it to model the spread of disease through
+populations.
+6 Friday 17 May 1985 FELIX
+

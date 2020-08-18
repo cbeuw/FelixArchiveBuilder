@@ -1,0 +1,283 @@
+Core blimey! Flipping magnetism!
+Field reversals in a vat of molten sodium reproduce the irregular behaviour of the Earth’s magnetic field
+One of the thornier problems in
+understanding the Earth lies far
+beneath its surface, in the core,
+a region shrouded in mystery. As
+MIT’s David J. Stevenson pointed
+out in a somewhat off-the-wall let-
+ter (about which more later) to
+Nature in 2003, mankind has sent
+space probes 6 billion kilometres
+from Earth, yet the far greater en-
+ergies involved travelling through
+dense matter rather than a tenuous
+vacuum partly explains why we’ve
+only succeeded in drilling down to
+10 km – barely scratching the sur-
+face – to learn more about what lies
+beneath our feet.
+As a result, to understand the
+processes which govern zones such
+as the core, geophysicists rely on
+a combination of remote sensing,
+simulations, theory and guesswork.
+Employing these, they infer that
+Earth’s magnetic field originates
+from motions of the molten iron
+which makes up much of the core.
+Dynamo theory aims to explain how
+the motions of this electrically con-
+ducting fluid can generate currents
+and hence associated magnetic
+fields, which interact with them-
+selves in a complicated fashion,
+resulting in a roughly dipolar field
+for the Earth – as if it contained a
+bar magnet. At present this is ori-
+ented such that the Earth’s north
+magnetic pole lies in the southern
+hemisphere. This is why a com-
+pass needle indicates north – op-
+posite magnetic polarities attract
+each other, so the compass needle,
+a magnetic north pole, seeks out
+the south pole of the Earth’s mag-
+netic field, located (confusingly)
+in the northern hemisphere, pres-
+ently somewhere north of Canada’s
+mainland.
+To make matters worse, not only
+is this location known as the Mag-
+netic North Pole, but every couple
+of hundred thousand years or so,
+the Earth’s field reverses direction.
+Evidence for this can be seen in
+places like the Mid-Atlantic ridge:
+as out-flowing magma cools, it
+‘freezes’ the field direction at that
+time into itself. Going from the ridge
+centre outwards (from newer rock
+to older), a succession of bands of
+rocks containing oppositely direct-
+ed magnetic fields are seen. From
+this, it’s inferred the Earth’s field
+has switched directions abruptly
+many times in the past.
+Computational simulations have
+backed this up, but in a recent ar-
+ticle in Europhysics Letters, follow-
+ing up work reported in Physical
+Review Letters in January, a team
+from France’s ENS reports they’ve
+been able to observe field reversals
+in a physical simulation as well.
+Berhanu et al filled a large cop-
+per cylinder with 160 litres of liquid
+sodium, chosen as it conducts elec-
+tricity and has a low melting point
+(98C). Using counter-rotating iron
+paddles at each end of the cylinder
+to generate a turbulent flow, the
+Science: changing the public’s perception
+Science: a series of cogs working
+mechanistically and reductively; a
+systematic study of the nature and
+behaviour of the material universe,
+based on observation, experiment,
+and measurement; the formulation
+of laws to describe these facts in
+general terms. Can one conclude,
+like Keats, that scientific under-
+standing takes away the beauty of
+the rainbow?
+With the growing mistrust evident
+in an unforgiving and frequently
+sceptical society, some representa-
+tions of science have become weak
+and flawed. In this 21st century sci-
+entific and technological advances
+are perceived by some as a threat,
+scientists merely working as ama-
+teurs playing God, running all that
+is natural off-course and directly
+into the grave.
+In this plagued vision, nanotech-
+nology eats away at reality; robots
+inherit the earth; genetic modifica-
+tion defines ‘perfection’; diseases
+are cured but not prevented; and
+the powers of the scientific mind
+have fallen deep into the shadows of
+corruption. As the pessimism para-
+site infects, disreputable scientists
+in the public eye come to represent
+a majority, scientific progress ap-
+parently becoming the bane of our
+existence.
+In today’s world, science and so-
+ciety meet in an arena that is ten-
+tative, uncertain and sometimes
+even hostile. It is therefore impor-
+tant that the perception of science
+is handled with care. If negative vi-
+sions are to be associated with sci-
+ence, will it ever flourish?
+In order to change the tainted im-
+age of science, one needs firstly to
+understand that science is owned
+not by scientists, but by society.
+One must recognize that scientists,
+as the ‘caretakers’ of science, not
+the possessors, are only one link in
+a social chain of politicians, econo-
+mists and social planners jointly
+deciding whether scientific prac-
+tices are going to harm or benefit
+society. The decaying foundations
+of trust must also be rebuilt, with
+scientists openly and modestly
+addressing the taboos of science;
+embracing the downfalls, the er-
+rors, the missing links and most
+importantly answering questions
+of doubt. The journey that lies be-
+tween research and eventual public
+delivery of scientific discovery must
+also be highlighted, marking the ob-
+stacles placed by rigorous regulato-
+ry practices. “To every action there
+is an equal and opposite reaction”
+– learning from the words of Isaac
+Newton one must see that the mo-
+mentum of science will always be
+harnessed by forces of control.
+With honest communication, ap-
+propriate engagement, and dia-
+logue, the relevance and positive
+impacts of science in our everyday
+lives can be demonstrated. The
+golden promise of science can be
+given the opportunity to shine.
+In a vision of colour, scientists can
+be valued as they dedicate their
+lives to pioneering research on ne-
+glected diseases of the developing
+world. In the light of nanotechnol-
+ogy (working with objects that are a
+million times smaller than the milli-
+metre), new electronic devices and
+drug delivery systems are set to
+transform medicine. With a poten-
+tially revolutionary ability to repair
+diseased and damaged body tissue,
+stem cells may offer hope to those
+affected by cancer, diabetes, Par-
+kinson’s and Alzheimer’s disease.
+In this brighter picture, explain-
+ing something in a scientific way
+does not diminish it but rather, like
+learning of the complexity of our
+brains, stimulates a fascination and
+appreciation for our extraordinary
+existence.
+So let the cogs of cognition and
+scientific discovery keep on turning.
+Let the oceanographer venture into
+team was able to generate a sta-
+tistically stationary magnetic field
+(i.e. centred around a well-defined
+average value), as others have be-
+fore them. The breakthrough came
+when they investigated the effect
+of altering the speeds at which the
+paddles rotated. At certain values,
+the resulting field reversed direc-
+tion at irregular time intervals,
+much as the Earth’s field does.
+The resemblance extends further,
+however, as the time taken for the
+A “solid, ironical, rolling orb” or a dense, ductile and malleable
+spheroid? Depends who’s looking. (Photo: J. Caldwell, Dublin 2005)
+the uncharted 95% of our oceans;
+let physicists continue to work with
+electrons, positrons and mind-bog-
+gling quarks in order to learn more
+about the building blocks of our uni-
+verse. As geneticists pore over the
+three-billion-letter long genomes of
+humans and mice, let us paint the
+image of a science that searches
+for a solution, solving rather than
+creating the problem. Let the as-
+tronomer search our skies for new
+worlds, landing remote-control-
+led vehicles on comets to excite
+our curiosity. Let the geologists
+tell the world of the 1,000-foot-tall
+underwater volcano coloured with
+microbial life. Let us support the
+environmentalist and their efforts
+to save the ozone layer. Let the
+archaeologist illuminate Ancient
+Egyptian manuscripts using NASA
+imaging technology in an attempt
+to make greater sense of our civili-
+zation. Let us interpret more effec-
+tively the true meaning of science
+and the scientist.
+If our scientists and society can
+hand-in-hand nurture science, ad-
+dressing as a priority the challeng-
+es and controversial moral, ethical
+and social issues, then the vision
+of science can undergo a transfor-
+mation. Rather than a machine of
+deception and destruction, science
+can be perceived as a remarkable
+system of dynamics, sensitively
+working in order and motion to
+explore the Universe around us.
+Scientists and communicators can
+awake the beauty of science, inspir-
+ing us all.
+Jenna Caldwell
+Science is
+owned not by
+scientists, but by
+society
+experimental field to reverse direc-
+tion was always much shorter than
+the time the field spent in a par-
+ticular orientation. Again, this re-
+produces behaviour seen at Earth:
+reversals take place over hundreds
+or thousands of years, but on aver-
+age stay in a particular configura-
+tion for several hundred thousand
+years, as mentioned above. Overall,
+these similarities, and others not
+discussed here such as excursion-
+like signatures, suggest this experi-
+ment provides a good model for the
+Earth’s core.
+Shedding light on this remote
+region may well require getting
+hands dirty with experimental in-
+vestigations such as this. However,
+there’s a limit – the aforementioned
+Stevenson’s call-to-arms, as some
+readers may recall, proposed driv-
+ing sensors down cracks generated
+by vast quantities of iron, melted by
+an atom bomb. A vat of molten so-
+dium suddenly seems a lot tamer.
+Age of the Earth’s ocean-floor crust, red is young. As new rock cools, it records the magnetic field at the
+time. Transects across the Mid-Atlantic ridge reveal the history of the Earth’s field, and show it reverses
+Edmund Henley
+Science Editor
+5
+felix
+Friday 16 March 2007
+SCIENCE science.felix@imperial.ac.uk
+

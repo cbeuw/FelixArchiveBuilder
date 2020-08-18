@@ -1,0 +1,173 @@
+TECHNOLOGY
+Technology Editors: Jason Parmar
+Maximilian Eggl
+technology.felix@imperial.ac.uk
+Apple iOS7
+Max Eggl coos over iPhone’s latest mobile OS
+FRIDAY 14 JUNE 33
+pple has ﬁnally caught
+up with the rest of the
+mobile OS world. The
+keynote at WWDC has
+revealed a slew of new
+features, and yours truly has access to
+the beta to test them out for you, my
+dear reader. A little disclaimer, since
+I only have beta access, my experi-
+ence may not be the same as the ﬁnal
+product. I found that the music app is
+quite buggy, crashing several times.
+However, all in all, the beta is already
+quite smooth, with very few major
+problems. Now to the actual review.
+Keep in mind I will only be reviewing
+things I myself used on a major basis
+and found important.
+Design
+All previous iOS versions, right from
+the very start, were dripping with
+skeuomorphism (i.e. making pro-
+grams look like their real life equiva-
+lents – for example, notes looks like a
+yellow notepad) a favourite of ex-de-
+sign chief Scott Forstall. But when he
+was ﬁred, and Sir Jonny Ive installed
+in his stead, a lot of critics hoped for
+a more updated look in iOS 7. Ive,
+an award winning designer, who was
+previously solely in charge of the hard-
+ware design, was, and still is a known
+lover of simplicity, straight lines and a
+“ﬂat” look as is exhibited in the iMac,
+iPhone etc. Therefore, the consensus
+on the internet was that Ive would try
+to apply this approach to the software
+that ran the devices he designed. And,
+boy, did he deliver. Right from the
+loading screen his inﬂuence is felt, all
+the way to the absence of the felt tex-
+ture of the folders. However this just
+feels “right”. Apple device’s futuristic
+look clashed with the green felt and
+faux leather of previous software it-
+erations.
+The new lock screen just emphasises
+the beauty of the retina display, with
+no more grey bars in the way. Then
+when the lock screen gives way to the
+home screen, the animation looks just
+(sorry for the cliché) awesome. The
+new designs of the app icons, without
+the shadowing, are just great to look
+Sexy screenshots from iOS 7: “Control Center”, “Notes”, “Unlock Screen”
+At a time
+when
+confidence
+in Apple has
+been failing,
+they have
+released a
+much needed
+boost
+at and much more modern. An added
+touch that does speak volumes of Ive’s
+creativity and attention to detail is the
+opaqueness of various messages and
+screens. This means that your home/
+lockscreen really aﬀect the look of
+your phone as the colours do really
+bleed through. There is so much more
+I could tell you about the new design,
+however I would run out of space and
+time, so I apologize if I forgot any new
+design features. However the last thing
+I have to mention and also the thing
+that impressed me the most (I know,
+easily entertained), was the funky 3-D
+thing. My backscreen that moved de-
+pending on my viewing angle was just
+great! That touch was just something I
+found to be absolutely stunning, and
+the ﬁrst thing everyone asked to see.
+One con I just wanted to utter was
+that I found that when I ﬁrst saw the
+actual icons, while nice, I thought that
+the added colour palette did make it
+feel a bit less serious. However I guess
+that was just the new experience of it
+all.
+All in all the design is exactly what
+Apple needed to do and is a great way
+to start oﬀ the Jonny Ive era.
+Utilities
+There are several things that Apple
+has ﬁnally implemented features that
+the world had already a long time ago
+including a more eﬃcient multitask-
+ing, notiﬁcation center, control center,
+a new camera app as well as air drop.
+“
+At a time
+At a time
+when
+whe
+Firstly lets talk about the multitasking,
+in fact it’s directly stolen from Win-
+dows 8. However it just looks great in
+iOS 7, and works perfectly. The swip-
+ing up to quit apps is just divine and
+much more intuitive than tapping the
+red cross. The notiﬁcation center has
+been revamped in iOS 7, getting rid of
+the fake texture, introducing, in black
+and white, diﬀerent sections for “to-
+day”, “overall” and “missed”, that should
+ﬁnally (hopefully) add some actual use
+to the notiﬁcation center. Till now it
+hasn’t really done much for me. Next
+on the agenda is the control center.
+This feature, directly stolen from an-
+droid, is something that apple users
+have cried for for a long time. Directly
+swiping up on your phone brings up a
+mini settings area where you can eas-
+ily turn wiﬁ, bluetooth, screen lock
+etc. on and oﬀ, and aids you in avoid-
+ing the cluttered and complex settings
+app. This a great addition to iOS 7 and
+one of the reasons I decided to update
+early. Lastly we have the camera and
+air drop. The camera has been totally
+redesigned, and now, is just a dream to
+use. Instead of having to ﬂick a switch,
+or go into the settings to change cam-
+era mode, you just ﬂick from mode to
+mode. Also Apple have now hipster-
+ized the app with diﬀerent ﬁlters, so
+for all ya’ll instagrammers out there
+will certainly enjoy this. Lastly the air
+drop. This feature seems sick! The idea
+that I can instantly exchange ﬁles over
+wiﬁ is great, however at this point I
+A
+couldn’t ﬁnd anyone to do an iPhone
+to iPhone transfer, so future updates
+on that.
+Conclusion
+This is the update that iOS really need-
+ed. At a time when conﬁdence in Ap-
+ple has been failing, they have released
+a much needed boost. It has given the
+ageing system a new look while re-
+maining true to the iOS roots. The
+features are poignant and are what is
+needed to keep iOS competitive.
+All previous
+iOS versions,
+right from the
+very start, were
+dripping in
+skeuomorphism
+... a favourite of
+... Scott Forstall
+

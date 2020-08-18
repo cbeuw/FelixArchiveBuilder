@@ -1,0 +1,176 @@
+TECHNOLOGY
+Technology Editor: Jason Parmar
+tech.felix@imperial.ac.uk
+33
+FRIDAY 15 FEBRUARY
+Maximilian Eggl
+atson might be be-
+coming smarter
+than Holmes after
+all, if IBM gets its
+way.
+Watson was ﬁrst unveiled in a game
+show Jeopardy two years ago. Jeopardy
+is a game show where contestants are
+presented with the answers to questions
+they are supposed to come up with.
+Unsurprisingly, even though Holmes
+wasn’t on scene, Watson managed to
+beat the two human contestants (who
+were widely considered to be the best
+Jeopardy players) hands down. Now that
+Watson has defeated its human over-
+lords in a game of Jeopardy, it is ready to
+take on the task of curing cancer.
+Developed by IBM since 2005, Wat-
+son was always envisioned as having a
+higher purpose in medicine. Watson is
+an artiﬁcial intelligence (AI) system that
+is able to answer questions posed to it in
+a natural language (i.e. a language spo-
+ken by humans). It does this by analys-
+ing connections and trends in data that
+humans may not be able to. he clever
+Machine used this to play the game
+show and is using this now in cancer
+treatment. It compares a patient’s medi-
+cal records with what it has in its mas-
+sive database, before recommending
+treatments with conﬁdence levels
+on eﬀectiveness. However, Holmes,
+and in fact humans like the rest of
+us, need not be worried – Watson
+isn’t as smart as it seems.
+here are things that can stump
+Watson. Natural languages pose an
+extreme challenge to the AI, with
+its use of subtle nuances and implic-
+it meanings. his was demonstrated
+during the Jeopardy game when
+Watson answered several ques-
+tions wrongly due to the use of
+implicit meanings. Watson also
+depends heavily on its database
+to be able to generate its answers.
+It is fed with data, and using ma-
+chine learning algorithms,
+‘learns’ the information
+to build its database
+and make the neces-
+sary connections. So
+if there is something
+that is not in its da-
+tabase, Watson would
+not be able to know
+about that piece of in-
+formation. It would not
+W
+be able to make any ‘educated guesses’
+either. his all boils down to Watson
+not being what philosophers call a
+“Strong AI”.
+A “Strong AI” is roughly an AI that
+has an intelligence that matches or ex-
+ceeds that of humans whereas a “Weak
+AI” is simply an AI that can act intel-
+ligently. A “Strong AI” would be able
+to understand and act on information,
+showing signs of sentience. Watson is
+not a “Strong AI”. Watson is simply a
+machine that is following a set of in-
+structions to analyse what it has in its
+database. It does not “understand” the
+data it has in the same way that hu-
+mans do. his situation is illustrated in
+the “Chinese Room” thought experi-
+ment presented by John Searle.
+In the “Chinese Room” experiment,
+Searle hypothesised that if a computer
+can, given suﬃcient and comprehen-
+sive instructions, produce outputs to
+input Chinese characters in such a
+convincing manner that it passes the
+Turing Test, it will be able to convince
+a human Chinese speaker that the pro-
+gram is itself a live Chinese speaker.
+However, the question is whether the
+computer can literally “under-
+stand” Chinese, or is it merely
+simulating the ability to un-
+derstand Chinese. his is a
+case of “Strong vs Weak AI”.
+Sentient AI still remains in
+the realm of Science Fiction,
+and we are unlikely to see
+situations like those
+in the Matrix ﬁlms
+come true in the
+near future. Watson
+might be able to en-
+able us to cure can-
+cer in a more eﬀective
+way, but it is not going
+to be able to think for it-
+self any time soon.
+Elementary, My Dear Watson, Now Go Cure Cancer
+Yong Wen Chua is wondering if he could beat Watson at Jeopardy
+The News Bubble
+General news from around the tech world, so you can keep up to date
+with the newest, weirdest and most futuristic things around.
+Phone for a Pretty Penny
+Vertu, the maker of luxury smartphones, has just released its first android
+device. Previously owned by Nokia and producing symbian based phones,
+the British company has decided on android for its future models instead of
+Windows 8. These phones reportedly cost up to £7,000, and sport ruby keys,
+a titanium body and a scratch-proof sapphire screen. On the spec side, the
+phone does seem somewhat lacking. The big question for me is, who would
+want such a thing?
+Honey, there’s YouTube on TV
+YouTube is becoming a TV channel on subscription free Freesat. However it
+will not really be a channel, with shows and set-times etc., but more like an
+app on your TV. You will be able to watch videos and clips that you would
+normally see on your PC on yout TV. Yay?
+DON’T UPDATE YOUR iPHONE
+The new ios 6.1 was released roughly a fortnight ago, and it hasn’t come with-
+out controversy. According to various European mobile networks, including
+England’s Vodafone, iPhone users should not update. Apparently customers
+have recieved texts, warning them of the problems coming with the new soft-
+ware update. These include decreased battery life, weak 3G signal strength,
+loss of calls and throttling of Exchange servers.
+Lol Catz on Twittr, Srsly!
+Finally Twittr has gots wif teh trend, catz on teh internetz. While it still iz in
+beta, dis will be welcome addishun 2 teh micro-blogging siet when it finally
+comez out. How lotz da peeps will akshully use dis settin is still up 4 debate
+tho.
+iWatch the Time.
+Yes, everyone, you have read correctly. The next big product is purportedly
+to be released by the Cupertino tech giant. To combat the falling revenue on
+the iPod side of things, this little gadget is being readied to dominate the new
+emerging market of wearable tech. It seems pretty certain that this actually
+will come out as well as its role to hook up with your bigger iDevice. However
+what the “smartwatch” will actually do is still up to debate. The price voiced
+by experts range from $50 to $100, which all falls in the frame of a good watch
+anyway. Knowing Apple, the price could be double that though. It could either
+come with a touch-screen with in-built apps or used solely with Siri. Other fea-
+tures that the internet and consumers want to see are: unlocking your phone
+remotely, ringing when it gets to far from your phone (so you don’t lose or
+forget it), showing text messages and generally other notifications. Nobody
+seems to care about it showing the time though!
+Watson is
+not what
+philoso-
+phers call a
+“Strong AI”
+”
+ers call a
+ers call a
+rong AI”
+ong AI”
+I have not lived for years with Sherlock Holmes for nothing.
+Watson is
+ready to take
+on the task
+of curing
+cancer.
+Tech editor
+

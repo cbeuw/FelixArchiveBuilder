@@ -1,0 +1,387 @@
+16
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 04 JUNE 2010
+Android goes Froyo-tastic
+Feroz Salam shows you why Froyo is Android’s coming of age
+W
+hen Google announced
+the Android mobile op-
+erating system in late
+2007, the reaction it re-
+ceived was at best, lukewarm. Coming
+only a few months after the release of
+the iPhone OS, which had taken con-
+sumer markets by storm, most analysts
+were cautious about the announce-
+ment despite the fact that the OS had
+the backing of Google. The first release
+of the open source OS did nothing to
+enthuse them with only a relatively
+small number of manufacturers taking
+the OS on board and producing rather
+clunky handsets; Android proved to
+be unattractive and sluggish. Along
+with a relatively small developer mar-
+ket, there seemed no way that Android
+handsets could legitimately compete
+with the gloss of the iPhone or the
+sleek business chic of the Blackberry.
+Yet only two years down the line,
+there’s been something of a revolution
+in the mobile market. As the look and
+feel of the iPhone OS has remained rel-
+atively stagnant, Android has reinvent-
+ed itself in a new stylish format iterat-
+ing rapidly with each release building
+solidly on its predecessor. The develop-
+ing OS was backed by a lineup of neatly
+designed, powerful smartphones from
+major mobile manufacturers, which al-
+lowed Android powered handsets to
+overtake the iPhone to become second
+to the Blackberry in terms of sales fig-
+ures in the US. With the release of the
+next major update of the OS Android
+2.2 (codenamed Froyo) earlier this
+week, Google seems to be looking to
+consolidate this position, now market-
+ing the system as a mature OS that can
+compete with the best.
+Quantitatively, Froyo is stunning. It’s
+not often that the jump from version
+2.1 to 2.2 offers a 450% speed increase
+(yes, that’s 4.5 times faster), but Google
+has managed to pull it out of the box
+with some impressive optimizations.
+Neat improvements in the way code
+is run means that Android apps are
+nowhere near the sluggish monsters
+they were from the first few releases.
+The browser also got some attention
+in this iteration with Google proudly
+proclaiming that Android now has the
+fastest mobile browser and now comes
+packing in-browser Flash support
+while working smoothly with HTML5,
+something that the Google execs have
+rightful reason to crow about.
+In addition, the release also has a
+slew of new features designed to make
+it easier for both developers and users
+to manage the apps they download,
+from auto-updates to a new web-based
+Android market. Google has been very
+open about the fact that these im-
+provements have been made keeping
+developers in mind, seemingly look-
+ing to expand the Android Market to
+a size comparable to that of the incred-
+ibly successful iPhone App Store. That
+said, it has also managed to throw in
+a sizeable number of new features
+for users too, with a revamped media
+player, on-demand movie streaming,
+Exchange support and app storage on
+external media.
+All the signs seem to be pointing to
+2010 being the year in which Android
+makes it big. Slow unsteady begin-
+nings haven’t deterred Google from
+persevering with the operating system,
+and the results have been impressive.
+With a range of major hardware manu-
+facturers throwing themselves behind
+Android, there seems to be a consen-
+sus that Android is the way forward
+in an industry looking for an answer
+to the ambitious expansion of Apple’s
+product line. Froyo is certainly a firm
+step in the right direction from Goog-
+le, with enough for both the consumer
+and the developer to be a very success-
+ful release. The number of Android
+products to be released over the next
+year is a testament to the confidence
+that manufacturers have in this license
+free platform. So if you’re looking for a
+handset that’s cheaper and more versa-
+tile than the iPhone, you should defi-
+nitely give Android a good look.
+T
+ablets all around us! Yes, it
+seems just like the netbook
+before them, tablets are go-
+ing to be the must have PC
+in the home. Problem is for the most
+part the tablets that we’ve seen and are
+on sale now aren’t all that cheap. From
+the iPad at £429 the prices essentially
+go up. Still that’s the price you pay for
+bleeding edge, next generation tech
+right? Yes, but more often than not
+we’re not seeing bleeding edge, revolu-
+tionary or even evolutionary tech.
+Most of the non-ARM based tablets
+pack the ubiquitous and often tedious
+Intel Atom CPUs. OK, if you want to
+run Windows or another desktop OS
+then you’re going to have to use the
+x86 instruction set, which lumbers you
+with the Atom unless you’re willing to
+go the way of the Core 2 Duo CULV
+(that’s Consumer Ultra-Low Voltage
+for those at home), which often lum-
+bers you with sky high price tags.
+Intel’s ‘Oak Trail’ Atom based Sys-
+tem-on-a-chip, SoC for short, is on its
+way into tablets in the Q1 2011 time
+frame. Similar to Intel’s ‘Moorestown’
+SoC, which is aimed at smartphones,
+Intel is hoping that by combining the
+CPU with a full chipset all on one piece
+of silicon it will allow thinner, power
+sipping, fanless tablets with the op-
+tion of running Windows 7 along with
+other OSs like Chrome OS or MeeGo.
+Talking of Chrome OS, it looks like
+we’re going to see Google’s cloud com-
+puting, tablet orientated operating
+system this autumn on devices. It’s
+likely that Google will push out a beta
+version of Chrome OS in the interim,
+possibly even around Apple’s WWDC
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+W
+hat did this past
+week in tech
+hold in store for
+us all then?
+Well it’s been tablet fever
+over at the geekfest that is
+Computex this week. After
+the iPad launch last week here
+in the UK, we’re now hearing
+about a true cornucopia of new
+slate devices.
+First up we’ve got the ExoPC
+Slate, an 11.6 inch Windows 7
+tablet running a custom soft-
+ware layer that is both unique
+and incredibly easy to navigate.
+Of note here is that if you do
+need the full Windows 7 expe-
+rience, it’s just behind the
+gloss of
+the Connect Four style inter-
+face. The device is powered
+by a 1.6GHz Intel Atom N450
+backed up by 2GB of RAM
+and a 32GB SSD. They’ve even
+managed to squeeze in two
+USB ports, an SD card slot,
+an HDMI out, a webcam and
+Broadcom’s Crystal HD chip
+for 1080p playback. The touch-
+screen itself is capacitive and
+sports a 1366x768 resolution
+making it 720p. If you’re after
+a full Windows 7 experience in
+a slate form factor this might
+be your best bet, but we’re only
+talking 3ish hours of battery
+life here so best make whatever
+you’re doing quick.
+Asus was out in force
+at Computex, this
+year with its Eee Pad
+range. The 12 inch
+EP121 sports
+an Intel Core
+2 Duo CULV
+CPU, Windows 7 and a pur-
+ported 10 hours battery life. 10
+hours is pretty ambitious for
+a full desktop OS tablet, but
+Asus has had experience with
+its EeePC line at reaching en-
+viable battery life so I wouldn’t
+put it past them. Just don’t ex-
+pect it to be all that svelte hav-
+ing to pack a sizable battery.
+Also onboard the EP121 will
+be a webcam and ‘at least’ one
+USB port.
+Asusalsohada10inchNvidia
+Tegra powered tablet running
+Windows Embedded Compact
+7, which is Microsoft’s new OS
+for ARM powered devices that
+aren’t phones, but also aren’t
+powerful
+enough
+for a full
+Windows 7
+install. Other
+details are a bit
+sketchy at this
+time but both Eee Pads will
+range in the $399 to $499 price
+bracket on launch. Just don’t
+hold your breath for these be-
+cause we’re looking down the
+barrel of a Q1 2011 release
+window.
+If you were looking for some-
+thing to take down digital notes
+on, perhaps Asus’ Eee Tablet
+(not Eee Pad) will fit the bill.
+Rather unusually, it packs an 8
+inch 1024x768 greyscale TFT-
+LCD touchscreen without a
+backlight, meaning that it’s
+similar in appearance to
+E-ink just without the
+atrocious refresh
+rate. Asus is really
+pushing this as
+a note
+tak-
+ing device
+with a
+2450 dpi
+input sen-
+sitivity, a 2MP camera on the
+back for snapping lecture slides
+and a MicroSD slot. It’s got 10
+hours battery life, so it’s not in
+the E-ink class, but it should
+present text books and eBooks
+pretty well with the ability to
+make hand drawn notes at the
+same time. The Eee Tablet will
+be priced in the $199 to $299
+bracket and will launch in Sep-
+tember ready for the back-to-
+school season.
+MSI wasn’t to be outdone
+by its Thai com-
+patriot outing
+two tablets of its
+own. First up we’ve
+got the 10 inch, Intel
+Atom powered, Win-
+dows 7 Home Premium
+packing WindPad 100.
+The ubiquitous 1.66GHz
+Atom Z530 CPU is backed
+up by 2GB of RAM and a
+32GB SSD, whilst harbour-
+ing two USB ports, an HDMI
+output and a built-in webcam.
+MSI have included their Wind
+Touch UI, a basic skin on top
+of the Windows OS providing
+easy access to applications on
+the 1024x600 capacitive touch-
+screen, which should make
+using the finger un-friendly
+Windows 7 a little bit easier to
+manage.
+MSI also showed an Android,
+Tegra 2 powered 10 inch slate
+with a more curvaceous look,
+which will be aimed at the end
+of the year for $399.
+Slick as a Slate;
+Thin as a Tablet
+SamuelGibbs
+SamuelGibbs Technology Editor
+time frame, to steal some thunder.
+The problem with Chrome OS, as far
+as I see it, is Google’s other pretty suc-
+cessful mobile OS, Android. As you’ve
+read from Feroz, Android is coming of
+age and is finally at the point of being a
+mature mobile platform. Why is Goog-
+le trying to split the market with its
+Chrome OS? We’ve already seen An-
+droid running on tablets, smartphones
+and smartbooks, powered either by
+ARM or x86 CPUs. Why doesn’t
+Google just stick with Android and put
+the thoughts and UI paradigm from
+what it’s trying to do with Chrome OS
+into the little green machine?
+If you want an example of a decent,
+albeit small, tablet running Android
+you’ve only got to look at the recently
+released Dell Streak. It’s a 5 inch mo-
+bile device that does everything your
+phone does, but has just enough screen
+real-estate to make it as a small tablet.
+In fact, the pretty impressive Dell
+Streak has been in the news this week
+for two very good reasons. Carphone
+Warehouse are selling the Streak on its
+own for £429, but it’s available gratis
+with a £25 per month data contract or
+£35 per month voice and data contract.
+Of course O2 is the official carrier of
+the Dell Streak, but its price plans
+haven’t been announced at the time of
+going to print. Considering how much
+the Nexus One and iPhone 3GS cost
+on contract, the Streak looks like a
+veritable bargain, something that’s re-
+inforced, quite literally, by the amazing
+Gorilla glass that protects the device’s
+display. It’s able to take a full force
+stab with a ball point pen with nary-a-
+scratch. Impressive stuff indeed.
+Froyo is Android s coming of a
+gloss of t in force
+, this
+e Pad
+nch
+ts
+p
+f
+W
+ins
+deta
+sketch
+ht, meaning that its
+in appearance to
+ust without the
+us refresh
+sus is really
+g this as
+te
+evice
+a
+dpi
+en-
+b
+p
+tw
+ow
+got
+Atom
+dows 7
+packing
+The ubiq
+Atom Z530
+up by 2GB
+32GB SSD,
+its
+’ve
+tel
+in-
+m
+0.
+ur-
+

@@ -1,0 +1,161 @@
+Making a difference in Malawi
+S
+eptember 2011: From the
+air, it looked like a leopard’s
+coat: hills of dry grass were
+dotted with random dark
+spots of green mango trees
+and large boulders. I landed in the capi-
+tal of Malawi, Lilongwe, at the peak of
+the dry season in south eastern Africa.
+Independent since 1964, and demo-
+cratic since 1994, Malawi is a land-
+locked country of 15.5 million people,
+nestled between Mozambique, Zambia
+and Tanzania. Running from North to
+South along the Great Rift Valley.
+Malawi enjoys a healthy wildlife and
+stunning diverse landscapes with flat
+plains, woodlands, wetlands, rainfor-
+ests, and mountains up to 3,000m tall.
+Its eponymous lake, with warm crystal
+clear water and sandy beaches, is part of
+the lives of many Malawians whether it
+is for daily use, fishing, tourism or for
+98% of its hydro-based electricity. Nev-
+ertheless, with only 6% of the popula-
+tion having access to power, an aver-
+age life expectancy of just 50 years, an
+HIV/AIDS rate of 12%, and 65% of the
+population below the poverty line, sta-
+tistics unfortunately rank Malawi among
+the world’s least-developed countries:
+171/187.
+In the days following my arrival, these
+cold, hard facts about Malawi’s difficul-
+ties were quickly overshadowed by the
+exceptional kindness and friendliness of
+Malawians. Among them are the mem-
+Loïc Baboulaz makes his mark on the Malawian healthcare system
+“...truly one of my
+greatest and most
+memorable experi-
+ences”
+bers of Baobab Health Trust, a Malawian
+organization delivering medical infor-
+matics solutions to hospitals and clinics
+across Malawi. I noticed the office of
+Baobab Health one day while driving in
+Lilongwe and I met with founder Gerry
+Douglas to offer to work as a volunteer.
+The next day, and for the next three
+months, I worked at Baobab Health and
+was in charge of three projects related to
+image processing and electronics. Work-
+ing for a Malawian NGO with Malawi-
+ans engineers and for Malawians’ inter-
+ests was truly one of my greatest and
+most memorable experiences.
+Created in the USA in 2000, and of-
+ficially Malawian since 2008, Baobab
+Health is replacing Malawi’s traditional
+paper-based system of medical records
+with an electronic system in hospitals
+and clinics, with the goal of improv-
+ing healthcare delivery and reducing its
+costs through better planning. In Ma-
+lawi, there is on average one doctor for
+50 000 people (versus 400 in Europe and
+the USA) so the task of collecting and
+updating medical records is usually as-
+signed to health workers with no com-
+puter experience. Also, nurses and low-
+skilled clinicians provide most of the
+healthcare to people and would benefit
+greatly from a clinical decision support
+system for medical diagnosis. Existing
+medical informatics solutions from the
+Western world are not adapted to emerg-
+ing countries like Malawi, so engineers
+at Baobab Health have developed their
+own open-source software and custom
+hardware solutions by stripping down a
+computer to its bare essentials: a touch-
+screen, no keyboard and an intuitive,
+highly optimized, user-interface that
+guides clinical practitioners through
+each task (registration, diagnosis, pre-
+scription) while also preventing error
+entries.. The result is a much more accu-
+rate and faster data collection that ben-
+efits both patients and doctors, but also
+the nation in helping making policies
+and planning drug purchase.
+Malawi is a low-resource and chal-
+lenging environment for deploying
+modern IT technology. Power cuts, com-
+munication network outage and chronic
+fuel shortages regularly affect main hos-
+pitals. Health centres in the countryside
+reaching most of the population are sim-
+ply out of all grids. To overcome these
+problems, Baobab Health finds innova-
+tive and sustainable solutions with cus-
+tomized workstations, low-power serv-
+ers, alternative sources of energy and
+continuous power backup. This allows
+an HIV clinic to run with three touch-
+screen workstations, three label print-
+ers, a network switch and a server for
+less power than a single 100-watt light
+bulb. Engineers also set up their own
+communication antennas to interconnect
+the different centres for monitoring, sup-
+port or service delivery. Baobab Health
+can pride itself on having, in its system,
+1.5 million patients registered across 23
+sites and over 122 000 patients on anti-
+retroviral therapy.
+I first heard of Baobab Health in the
+book The Boy Who Harnessed The
+Wind. It tells the remarkable story of
+William Kamkwamba, a young 14-year-
+old Malawian boy, who had dropped out
+of school. Using books from the library
+and parts from a scrapyard, he managed
+to build his own windmill to power his
+family house. Baobab Health helped to
+spread the word of his engineering tal-
+ents at a TED conference in 2007. From
+that moment, William Kamkwamba
+became a media sensation and is now
+able to pursue his studies in the USA.
+This extraordinary and inspiring story
+is sadly unknown to most Malawians
+and its youths who desperately need role
+models and encouragement to believe in
+themselves and their future.
+Emerging countries can benefit tre-
+mendously from new technologies, pro-
+vided that they are carefully adapted to
+the particular needs and issues of each
+region. I left Malawi during the rainy
+season and the land was then covered
+with lush, green vegetation: it had trans-
+formed itself as much as Baobab Health
+has transformed my vision of engineer-
+ing.
+A rural landscape in Malawi
+Joining a Malawian primary school for the day
+TRAVEL
+FELIX
+Friday 03 february 2012
+36
+travel.felix@imperial.ac.uk
+Travel Editors: Dushi Arumuganesan
+Chris Richardson
+“...Baobab Health, a Malawian organization delivering medical informatics solutions...”
+“...Baobab Health
+has transformed my
+vision of engineering”
+

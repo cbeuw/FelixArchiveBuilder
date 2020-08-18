@@ -1,0 +1,330 @@
+If video games are your thing,
+have you ever thought of
+making a career out of them?
+Sophia Smith is an Imperial
+graduate who now works as a
+games developer. She tells us
+about her experiences.
+What did you do after
+you left Imperial?
+“I took a year out to earn
+some money and decide what
+I wanted to do. I soon decided
+that I wanted to get a Masters
+degree, so the following year
+I took an MSc in Intelligent
+Systems at Brunel University.
+After that, I started a full-time
+job.”
+How did you get into de-
+veloping video games?
+Did you have any jobs in
+between?
+“My first job was as a C
+programmer at Citibank in
+Hammersmith. This was
+a contract position which,
+although lucrative, wouldn’t
+have taken me anywhere
+in terms of career progres-
+sion. After 18 months I got
+a graduate job with EDS in
+their defence division where
+I worked for over four years.
+This was really interesting
+work, and I got on to var-
+ied projects and learned a
+lot. Eventually, there came a
+time when I felt the need to
+move on and only then did it
+occur to me to combine my
+passion for video games with
+my skills as a programmer!
+I managed to get into ECTS
+in Earls Court that year and
+check out the company that
+made my favourite games
+(BioWare). They seemed like
+a really nice bunch of people,
+so I sent them my CV and it
+progressed from there!”
+Do you think being at
+Imperial has equipped
+you well for your future?
+“I do. I got a good grounding
+in the subjects that I needed
+for my Masters degree and
+also took the opportunity to
+learn some Japanese along
+the way, which has been
+useful to me. Also, coming
+from a girls’ school, it was a
+big change for me purely in
+terms of gender ratio – a ratio
+that has persisted throughout
+my working life.”
+Can you give us more
+detailed information on
+what your work involves
+and the projects you
+have worked on?
+“I am on a game engine pro-
+gramming team. This means
+that we deal with game rules
+and objects. For instance, the
+first thing I worked on was
+the Encounter System, which
+detects when the player has
+entered a specific area and
+spawns one or more monsters
+of a level appropriate for the
+player to fight. The monsters
+are either a short distance
+away, so that the player even-
+tually comes across them,
+or hidden around a corner
+so that they can ambush the
+player. I also collaborated
+with game designers to work
+on the scripting system that
+controls the behaviour of the
+monsters in the game.
+Last year, I did some
+work on the graphical user
+interface, and I’m currently
+implementing combat rules.
+I’ve worked on Neverwinter
+Nights, Star Wars: Knights of
+the Old Republic and a tiny
+bit on Jade Empire, which is
+coming out soon. I’m current-
+ly on a project called Dragon
+Age, which is a roleplaying
+game in a fantasy setting.”
+Do you have any advice
+for students wishing to
+get into this field or
+advice resulting from
+your experiences?
+“You have to be passionate
+about games to work in this
+industry, and you have to be
+able to analyse why you like
+a game, what frustrates you
+about it, and how you would
+do it better. It always helps to
+have a knockout demo accom-
+panying your application.”
+What can you tell us
+about the games
+industry and the
+opportunities there
+are within it?
+“It’s a really fun industry
+to be in. Creating a game
+requires a team possessing a
+very wide range of skills: art-
+ists, writers, rules designers,
+animators, programmers,
+sound engineers... there’s
+something for everyone!”
+Passionate about video games?
+www.felixonline.co.uk
+Felix
+Thursday 3 February 2005
+14
+Careers felix@ic.ac.uk
+GABRIELLA SILVESTRI &
+CASSANDRA ALDRICH
+CAREERS EDITORS
+By Gabriella Silvestri
+and Cassandra Aldrich
+As a physics student you may
+never have thought of the
+NHS as a future employer,
+but, as Imperial graduate and
+medical physicist Rebecca
+Day explains, the profession
+may be worth a look.
+Did you always want to
+go into medical
+research?
+“The job I do is not primarily
+medical research, although it
+does involve some research. I
+didn’t always want to go into
+this job. I only decided on this
+career in my final year when
+I found out about the excel-
+lent medical physics training
+scheme.”
+What did you do after
+you left Imperial? Did
+you go straight into the
+NHS?
+“Yes, after a summer of trav-
+elling I went straight into my
+job in Edinburgh. In order to
+qualify for the grade A trainee
+scheme you need a degree in
+physics or engineering. They
+do not necessarily require a
+first; a 2:1 is fine. They are
+looking for people who are
+enthusiastic and will be able
+to work with a whole host
+of different people, including
+patients, medics and techni-
+cians. I got some experience
+first by shadowing a medical
+physicist at the Charing Cross
+hospital for two days. There
+is tough competition for the
+grade A training posts, so
+some medical physics experi-
+ence (even just two days) will
+stand you in good stead.”
+Do you think being at
+Imperial has equipped
+you well for your future?
+“Yes. Degrees from Imperial
+are well respected by employ-
+ers. Employers want to be
+sure that trainees have a
+good grounding in the basics
+of physics before they give
+you more specialist training.”
+Can you give us more
+detailed info on what
+your day to day work
+involves and the
+projects you work on?
+“I am currently doing a train-
+ing placement in the radio-
+therapy department at the
+Western General Hospital
+in Edinburgh. This week I
+have completed the following:
+Monday morning: CT scanner
+fortnightly quality assurance
+testing. Monday afternoon:
+As part of my training place-
+ment, I assisted with the CT
+scanning of patients in prepa-
+ration for their radiotherapy
+treatments. Tuesday: This is
+my MSc day. I commute to
+Glasgow where I have MSc
+lectures. Wednesday morn-
+ing: Planning of radiother-
+apy treatments for patients
+with head and neck can-
+cer. Wednesday Afternoon:
+Placement in the mould room
+where moulds are taken of
+patients heads so that masks
+can be made for their treat-
+ments. Thursday morn-
+ing: Head and neck treat-
+ment planning. Thursday
+afternoon: As part of my
+training I went to observe
+the radiotherapy treatments
+of patients with lung cancer.
+Friday: More quality assur-
+ance testing on one of the
+x-ray units plus some experi-
+ments concerned with patient
+doses.”
+Can you tell us more
+about the training
+scheme that the NHS
+runs for physics
+graduates?
+“For the first two years,
+trainees study part-time for
+an MSc in clinical physics,
+and they will complete three
+placements in different medi-
+cal physics departments.
+(For example I will be doing
+radiotherapy, diagnostic x-ray
+and nuclear medicine). The
+training scheme is known
+as the ‘Grade A Training
+Scheme,’ and there are about
+80 training places in hospitals
+throughout the UK. Trainees
+receive a salary and MSc
+fees are paid on their behalf.
+After the initial two years,
+on successful completetion of
+exams, trainees progress to
+grade B jobs and hopefully
+obtain state registration after
+another two years.
+Medical physics is con-
+cerned with the application
+and development of the prin-
+ciples and techniques of phys-
+ics to the diagnosis, treatment
+and prevention of human
+disease. Medical physicists
+have very diverse roles that
+can include comissioning new
+medical equipment, routine
+quality assurance of equip-
+ment or the development of
+new treatment and diagnosis
+techniques. There is a huge
+shortage of medical physi-
+cists meaning that a trained
+medical physicist will never
+be out of work! You can find
+out more at www.ipem.ac.uk
+or at www.nhsclinicalscien-
+tists.info.”
+Do you have any advice
+for students who want
+a career in research or
+advice resulting from
+your experiences?
+“Make sure you get some
+hands on experience in a hos-
+pital before you apply. Just
+ring up a medical physics
+department and ask them
+for a couple of days experi-
+ence.
+Take copies of your final
+year project report along to
+the interview (even if they
+don’t request a copy), and
+make sure you give all the
+interviewers a copy; it will
+impress them. Do lots of
+research on the subject area
+you are applying for.”
+Careers
+events
+Employer Drop-In
+Session
+Deloitte
+Wed 9 Feb 2005, 12 – 5pm
+Sign-up begins Mon 17 Jan
+2005
+Employer Skills Led
+Workshops
+KPMG - Interview Skills
+Wed 9 Feb, 1.30 - 3.30pm
+Venue: SAF 121
+Sign-up begins 24 Jan 2005
+Commercial Awareness
+Ernst & Young
+Wed 9 Feb, 1.30 - 3.30pm
+Venue: SAF 121
+Sign up begins: Monday 24
+January
+Careers for Physicists in the NHS
+Video gamers like these could find their dream job in the field
+

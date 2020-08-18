@@ -1,0 +1,312 @@
+4 FELIX
+NEWS
+Friday 24 june 2011
+FEATURE
+If you think the grass might be
+greener on the other side of the
+pond, here’s what you need to know
+to apply for a PhD at US universities.
+Generally, graduate studies in the
+United States take five years. This
+seems like a long time compared
+to the three years of a PhD in the
+UK. However, the first year of the US
+PhD is equivalent to the one year
+Masters of Science courses in the
+UK, which means that the effective
+time you spend doing PhD research
+is only a year longer than its UK
+counterpart. If you are considering
+an academic career this extra year
+might give you a crucial advantage
+when competing for postdoc posi-
+tions. As a PhD student you often
+have the most productive phase in
+your third and fourth years.
+During your first year of graduate
+studies you will do a Masters de-
+gree. Hence it is most convenient to
+continue in the US after your three
+year BSc course at Imperial College.
+However, a Masters in your pocket
+will not weigh you down. While you
+still have to take the so called quali-
+fying examinations for the US Mas-
+ters, the courses will often be very
+similar to the ones you have already
+done and you won’t need to do them
+again, which leaves time for re-
+search in your first year. If there is a
+considerable overlap, you might be
+able to do the qualifying exams at
+the beginning of your graduate stud-
+ies and obtain the US masters af-
+ter a few weeks in graduate school.
+Some universities even offer an ini-
+tial ‘free shot’ at these exams.
+So how do you get in? There is no
+central application system like UCAS
+and there are typically no interviews,
+which might be a relief for some of
+you given the track record of the av-
+erage Imperial Student at Oxbridge
+interviews. An application to US uni-
+versities has three components: a
+statement of purpose, GRE exams
+and letters of recommendation.
+The statement of purpose is much
+like your personal statement, where
+you elaborate on your motivations,
+experience and research interests.
+The GRE exams are like the SATs for
+News Editors: Matt Colvin
+Alex Karapetian
+news.felix@imperial.ac.uk
+The American Dream
+Graduate studies in the USA
+graduate students and are divided
+into a general GRE and a subject
+GRE. The general GRE consists of
+three sections that test your verbal,
+quantitative and writing skills. To
+see which scores will get you into
+which grad school you can check
+the university website and the www.
+gradcafe.com. You can book the
+exam up to two weeks before you
+plan to take it. You can even resit
+the exam, but be aware that the
+score report will show all your at-
+tempts. For PhDs where the subject
+GRE is a prerequisite, it is a crucial
+component of your application. It
+tests the knowledge of your subject
+at undergraduate level with 60-100
+multiple choice questions that you
+have to answer in almost 3 hours.
+Note that you should start prepara-
+tion at the end of the summer be-
+tween second and third year (third
+and fourth year for MSci students),
+because you can sit the exam at
+only one date in November. It is dif-
+ficult to prepare properly during the
+first term. Letters of recommenda-
+tion are very important and should
+be written by someone who knows
+you very well and ideally who is also
+known by many other researchers in
+your favourite field of research.
+Funding is often a deal breaker for
+most students considering a PhD
+in the US. Don’t be discouraged.
+Firstly, admission officers know that
+students are financially challenged
+and often enter graduate school with
+a considerable debt. For the record,
+US undergraduates pay between
+$30,000 and $50,000 annually
+throughout their 4-year Bachelor. You
+will be surprised to find that univer-
+sities compete for you with lucrative
+scholarships. The financial package
+attached to your offer of admission
+will obviously be greater the stron-
+ger your application is. This often
+covers your tuition fees for the first
+year (roughly $35,000) and you can
+always do a Teaching Assistantship
+(TA), where you work between 5 and
+20 hours a week for 9 months and
+earn a salary of $18,000. During
+the remaining years you will attend
+few classes and hence will only pay
+a small tuition fee. Additionally, you
+will have the opportunity to work as
+a ‘graduate research assistant’. This
+means you can assist your supervi-
+sor and do research contributing
+to your PhD for an annual salary of
+$19,000. Hence you are in the bliss-
+ful situation where you get paid for
+research that you would do anyway.
+It’s almost too good to be true.
+Tom Neiser
+Registration chaos for
+Business School courses
+The registration system for optional
+course modules in Business In Science,
+Engineering & Technology (BEST) was
+hit with problems on Monday. The De-
+partmental Student System (DSS) used
+for registering optional modules in
+courses across college was swamped
+with connection requests as students
+logged on to pick their chosen modules
+in the morning.
+The registration system is handled on
+a first come first served basis and reg-
+istration was due to open at 9:00am on
+Monday morning. Since a substantial
+number of connection requests were
+made by students trying to use the
+system concurrently, it appeared to be
+down as the connections were slowly
+handled. One student from the Depart-
+ment of Computing complained that
+by the time they gained access to view
+the system at 9:10am, all courses with
+the exception of two were already full,
+with one option from the previous year
+shown in error.
+Students complained of the system’s
+faults especially at such a critical time
+as registration and many were left
+without their preferred options. Tony
+Field, reader in Performance Engineer-
+ing at the Department of Computing,
+commented in an email that the system
+in place was “a new piece of software”
+and that “we can safely conclude it
+doesn’t work”, noting the lessons to be
+learnt regarding testing quality of ser-
+vice, performance and other require-
+ments in forward-facing systems for
+students and staff alike.
+Questions have been raised as to
+whether the problems ought to have
+been prevented due to its foreseeable
+nature and how these issues will be
+addressed. A number of students have
+also complained about the timing of the
+opening of registration. Exams are still
+ongoing across campus, and a 9:00am
+opening time may not be optimal. Stu-
+dents also may not know their timeta-
+bles for the coming year and may end
+up dropping options they register for
+due to clashes with compulsory mod-
+ules. In addition, third year students,
+notably in the Department of Comput-
+ing, are on industrial placements and
+are unable to check the system until a
+designated break.
+The issue of each student having an
+equal opportunity to take these courses
+has been raised, and Undergraduate
+Programmes Manager Edina Hamzic-
+Maguire commented that the faculty
+are “aware that the system is not per-
+fect and [they] are reviewing it.” Co-
+lin Love, Director of Undergraduate
+Studies explained to Felix that they
+“teach some 2200 students a year on
+BEST courses and demand for places
+outstrips supply by three times on av-
+erage.”
+Derryck Stewart of the Department
+of Physics apologised to their under-
+graduates and explained that “some
+places on some courses have now been
+reserved for Physics students”, raising
+more questions regarding equal oppor-
+tunities. Hamzic-Maguire went on to
+mention that “some departments have
+integrated these modules into their pro-
+grammes and those have had a chance
+to pre book spaces.”
+Colin Love explained that “the DSS
+“There’s no central
+application system
+like UCAS”
+system [they] are using this year is not
+owned by the Business School so the
+website capabilities are out of [their]
+control” and continued to mention that
+he understands “the first come first
+served allocation of places is not per-
+fect but in the absence of a better sys-
+tem [they] made no changes this year.”
+Regarding reserved places, he said
+that “departments were contacted in
+May and invited to hold some places
+for their students” and that the alloca-
+tion “is earmarked for particular cours-
+es but not for individual students.” He
+explained “where actual demand from
+a department exceeds the reserved
+places their students have to compete
+for places alongside everyone else.”
+Addressing the earlier complaint of
+the options not all being available in
+the morning, he said “the system crash
+caused this also as the production team
+could not log in to activate all the op-
+tions”.
+“We have done whatever we could
+in the run up to today to liaise with
+departments and ensure most students
+have a fair chance of registering on
+these extremely popular courses”. By
+10:00am on Monday over 60% of the
+BEST course places had been allocat-
+ed. The Business School online page
+linking to DSS noted that the technical
+difficulties were resolved at 9:40am.
+“We are delighted to say that by mid-
+day on Monday all 2200 places were
+allocated and we look forward to wel-
+coming those students to BEST classes
+from October.”
+Alex Karapetian
+The Union has publicly condemned the
+behavior of large academic journal pub-
+lishing companies, claiming that their
+services are detrimental not only to Im-
+perial, but to the Higher Education sec-
+tor in general.
+Currently, about 50% of Imperial Col-
+lege Library’s budget is spent on jour-
+nals, which are either provided on an in-
+dividual basis or as part of a larger deal
+through a publishing company, which
+instead allows staff and students access
+to thousands of academic references.
+At the most recent Union Council
+Union supports journal subscriptions campaign
+meeting, which took place on the 13th
+June, a policy was passed outlining the
+Union’s dissatisfaction against pub-
+lishing companies, with specific refer-
+ence and heavy criticism made towards
+the journal pricing of Elsevier and Wi-
+ley-Blackwell.
+In a note brought to the Council
+meeting by Deputy President (Educa-
+tion) Alex Dahinten, mention is made
+of publishing companies being “aware
+of the need for their product, which is
+reflected in the pricing,” moving on to
+explain that subscription prices rise by
+about 6% per year.
+Dahinten argued that over-priced
+journal subscriptions are compromis-
+ing the Library’s ability to provide a
+service to academics and students at
+Imperial.
+Director of Library Services Deborah
+Shorley is supportive of the Union’s
+position on the matter, remarking that
+the Library is “very grateful to [the
+Union] for its support.”
+“We are determined to do all we can
+to safeguard access to the information
+resources. Our students and researchers
+need to do their work but we don’t un-
+derestimate the task ahead of us so it’s
+great to know that the Imperial student
+body is right behind us.”
+Matt Colvin
+Complaints after high demand
+brings down registration system
+

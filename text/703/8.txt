@@ -1,0 +1,261 @@
+The general robot lab, Imperial College
+a s
+By the early eighties robotics work was well established at Imperial College,
+with several teams working in a number of different departments. However, as
+a wide range of technical expertise are used for the development and
+understanding of robots and automated systems, a focal point was needed to
+co-ordinate the existing activities and to stimulate new interdepartmental
+research and teaching. So in 1981 the Centre for Robotics and Automated
+Systems (CROBAS) was set up with Professor Tom Husband as Director. The
+Centre has adminstrative offices and a main robotics laboratory in the
+Mechanical Engineering Department, but also has access to many facilities
+throughout College. The work of the Centre covers the managerial, social, and
+economic issues involved with automation, as well as the technological
+aspects. So the Departments of Social and Economic Studies, and
+Management Science, play an important role in the activities of the Centre
+along with Mechanical Engineering, Electrical Engineering, and Computing.
+There are also a number of other groups throughout College, such as
+Astronomy and Metallurgy whose work is linked with the Centre.
+In all its activities the Centre aims to meet the needs of industry as well as
+the academic community. The main way this is achieved is through the joint
+academic/industrial Steering Committee. The committee consists of academic
+staff and representatives from industry, and meets twice a year to discuss the
+direction that teaching and research should take.
+British industry has an urgent need for well-qualified graduates with a good
+understanding of the potential of automated systems. To add to this many
+people in mid-career find that they need educating about the new
+technologies. So the Centre runs an MSc course in Industrial Robotics and
+Manufacturing Automation, and is keen to take on graduates with a few years'
+industrial experience, as well as fresh graduates. Along with this short courses
+of two to four days are run, giving practising engineers and managers an
+introduction to robotics and related activities, with the opportunity to see
+robots in action.
+The Centre is also a robotics consultant approved by the Department of
+Trade and Industry. In this capacity it can carry out specific studies to try and
+solve problems and make systems more efficient, or it can give advice on the
+introduction of automation into a factory.
+IT COULD BE said that we are
+in the midst of a robotics
+revolution, which has the
+potential to touch all of our lives.
+The speed of technological
+advancement over the last few
+years has been spectacular with
+many industrial processes now
+being largely automated. It
+seems likely that fully automated
+and unmanned factories may be
+with us in only a few decades.
+In the sixties industrial robots
+were first introduced, carrying
+out such tasks as spray painting
+and spot welding. These first
+generation robots are limited in
+their potential application
+because although they can be
+programmed to carry out a given
+task, they are unable to react to
+changing conditions. Now second
+generation robots are being
+developed that receive sensory
+information, typically visual and
+tactile, from their environment,
+and so have a limited capability
+to adapt to changing conditions.
+The next stage on from these will
+be the third generation robots
+that will receive every type of
+sensory input and will have
+'artificial intelligence' that will be
+used to solve problems. There
+will be a vast range of potential
+applications for these robots
+including assembly, inspection
+and many other activities which
+have long been associated with
+human skills of manual and
+mental dexterity. There will also
+be many non-industrial uses such
+as security work, space
+exploration, farming, helping the
+disabled, and many more.
+Research activities at the
+Centre cover many aspects of
+automated systems including
+robotics. The work is mainly
+carried out in the departments,
+with a substantial amount of the
+work being interdepartmental.
+Over fifty per cent of the funding
+for research is coming from
+industry, with there being a
+number of 'teaching company'
+projects where students are
+supervised jointly by College staff
+and companies such as Lucas,
+Philips, and Rolls Royce. As a
+result of one such project with
+Lucas, a vision system has been
+developed to be used in a flexible
+assembly systems. It allows
+headlamps on an input conveyor
+to be individually identified so
+that the robot can them perform
+appropriate operations on them.
+The development of vision
+systems opens up a wide range of
+applications, and some of the
+8
+The Omnigripper
+current research is aimed at
+producing more advanced vision
+systems. Other current research
+projects are looking at areas like,
+robotic assembly, safety and
+reliability, laser machining, use of
+robots in hazardous
+environments, use of robots in
+the meat processing industry, and
+many others.
+Robotic Assembly has been
+singled out as one of the most
+important applications for second
+generation robots, and it is
+predicted that it will become a
+major robot application within a
+decade. The underlying principles
+that govern robotics assembly are
+being studied by a team from
+Mechanical Engineering. The
+major interests are cost
+effectiveness and the ability of
+systems to react to changes in
+products and processes. A major
+development to come from this
+work is a form of 'Universal
+Gripper'. At present the grippers
+used in assembly work can only
+handle a few shapes and so have
+limited adaptability to any change
+in the process, with both time
+and money being lost when a
+gripper has to be changed. The
+new 'Omnigripper' shown is a
+largely universal gripper and may
+help to solve this problem. It
+consists of two parallel slightly
+separate 'fingers' each consisting
+of an array of eight by sixteen
+closely spaced pins, which can
+ride vertically up and down
+independently of one another. As
+the gripper is lowered over an
+object, some pins will be pushed
+out of the way, so creating
+'customised' fingers which mould
+to fit the part. For grasping
+objects either the two fingers can
+be brought together to grip the
+object externally, or else they can
+be moved slightly apart for an
+internal grip. There is feed back
+from each pin of the
+Omnigripper, providing tactile
+information about the object,
+including height details. So there
+is the potential for recognition of
+objects.
+In the meat processing industry
+de-boning is a major task. The
+work is very monotonous, but
+requires great concentration, and
+hand and eye co-ordination, and
+is at present carried out by
+skilled butchers. A team from the
+Departments of Electrical and
+Mechanical Engineering are
+collaborating with a meat
+processing company to develop a
+prototype robot system for de-
+boning bacon backs prior to
+slicing and packaging. The
+system is required to extract up
+to fifteen ribs and some other
+bones from the cured bacon.
+Work on this systems is near to
+completion, and the robot system
+is shown in the photograph. First
+the bone layout is registered by
+plunging needles into the bacon,
+these penetrate the meat but not
+the bone, and send back tactile
+information. Then a special tool
+cuts round each bone tip, and a
+moving loop placed over the
+bone tip pulls back and strips the
+bone cleanly from the meat.
+One of the most attractive
+potential uses for robots is in the
+assistance of disabled people with
+tasks like eating and page
+turning. This possibility is
+currently being studied and it is
+hoped that in the future further
+non-industrial uses, including the
+developmet of artificial limbs, can
+be studied.
+Lasers provide one of the most
+easily automated forms of enerc
+available to industry, and as a
+consequence they are being usee
+to cut and process metal. The
+use of robot mounted lasers for
+these processes is being studied
+by a team from Metallury and
+Materials Science.
+Safety and reliability of robots
+in the working environment is of
+the utmost importance, and
+forms the basis for a major
+research project at the Centre.
+This project is being carried out
+in collaboration with the National
+Centre for Systems Reliability
+and the Health and Safety
+Executive. Part of the work is
+covering the impact that the
+introduction of robots has upon
+health and safety in the working
+environment. Although robots
+can be fenced off there will still
+be occassions when humans
+come into close proximity with
+them, and this presents a
+potential safety hazard. For
+instance at pick-up points or
+where the robots maximum reach
+overlaps perimeter fencing, it is
+possible that someone could be
+trapped or crushed. The team
+from Management Science and
+Mechanical Engineering are
+looking at the effect of robot
+design on electronic and
+mechanical malfunction. Using
+information about the failure rate
+of individual components that
+make up the robot systems, it is
+possible to quantify the overall
+reliability of the robot and a
+typical cell in which it is used.
+The work at the Centre shows
+clearly how academics and
+industrialists can work together
+to satisfy both their needs.
+Although at present the
+capabilities of robots are still very
+limited, in the future they have a
+vast potential.
+Bacon de-boning - by robot
+10 May 1985 9
+

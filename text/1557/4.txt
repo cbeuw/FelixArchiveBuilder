@@ -1,0 +1,259 @@
+4 FRIDAY 25 OCT
+FEATURES Editors: VACANT
+felix@imperial.ac.uk
+I
+mperial’s iGEM (international
+Genetically Engineered Machine)
+team have just ﬂown back from
+Lyon, ﬁnishing in the top three
+in Europe in the international
+Synthetic Biology competition and
+progressing to the next round at MIT
+in Boston.
+We all know Imperial is good at
+Engineering. What you may not know
+is that they can even engineer living
+things. It may sound crazy but that is
+what the people here at the Centre for
+Synthetic Biology and Innovation are
+doing. Whether sitting all quiescent
+or quaking visibly (the latter being
+the iGEM team), ideas pop into their
+heads about what they would like
+living things to do, then they set about
+it. This is exactly what it is all about:
+can biology be used in those delicate
+and complicated situations where
+traditional engineering is failing us, in
+waste management for example?
+This is the focus of Team Plasticity’s
+project; turning a mixed waste
+which is actually the result of high
+tech recycling facilities into a plastic
+made inside living cells. Hundreds
+of thousands of tonnes of this waste,
+called Solid Recovered Fuel (SRF) are
+shipped to Europe to be incinerated
+every year. Now you may think ah,
+fuel, that is a good thing, right? Well,
+I am sorry to say this but, ugh-urgh,
+incorrect.
+No 1- it pollutes the environment
+and some studies have linked
+increased levels of cancer to nearby
+incinerators.
+No 2- it does not make economic
+sense, with millions of pounds per
+annum spent on disposal by each
+recycling plant.
+No.3- it is a downright waste of
+resources.
+One third of the SRF is made of
+plastics and the rest is paper, wood
+and ﬁbres. What if you could do
+something better with this? What
+if you could turn it into a viable
+alternative to petrochemical plastics
+which are causing so much pollution
+and at the same time recycle the
+plastics already in there? Well, this is
+what we have been working on.
+We did this as part of the iGEM
+competition which challenges over
+200 teams from around the world
+to design and make a system using
+the principles of Synthetic Biology
+(Syn Bio). This is the application
+of engineering principles such as
+speciﬁcations, modularisation and
+computer modeling to biology. Last
+weekend all the teams from Europe,
+60 in total, met to celebrate their hard
+work at the regional jamboree. There
+were some really incredible projects
+and we were lucky enough to place in
+the top three, earning a place in the
+ﬁnal at MIT, starting 1st November.
+We have engineered E.coli to
+produce the bioplastic poly-3-
+hydroxybutyrate (PHB) inside
+themselves when using this waste as
+their only energy source. PHB is pretty
+amazing. Not only can it be used
+as an alternative to petrochemical
+plastics, it can form tissue scaﬀolds
+which are broken down as the
+body heals and even be 3D printed.
+Importantly, it can breakdown in the
+environment, albeit slowly, into non-
+toxic compounds. One of the biggest
+issues stopping these plastics playing
+a more important role in our lives
+is their cost, which is largely due to
+their production from plant biomass.
+Our system aims to lower this price
+and deal with the environmental
+issues associated with incineration
+and petrochemical plastics. After the
+bioplastic has been used it will be fed
+into our recycling system, to ensure it
+itself is not wasted.
+iGEM is not just about the science. It
+is also a hotbed of creativity where the
+teams are encouraged to think about
+how their projects will impact on the
+world. This is all towards the goal
+of responsible innovation; ensuring
+that the technologies are causing
+more good than harm. Our system is
+designed to work at an industrial scale
+but we have also looked at how our
+world might look in the future, when
+waste is seen as a precious resource.
+We have designed a concept home
+bioreactor linked to a 3D printer,
+directly turning your waste into brand
+new objects. Maybe in the future you
+won’t have to take the bin bag out, but
+instead you will be able to print some
+new shoes!
+You can ﬁnd out more about our
+project here:
+2013.igem.org/Team:Imperial_College
+and more about the best from each
+region here:
+2013.igem.org/Jamborees
+From Trash to Treasure, via
+Synthetic Biology (iGEM)
+Iain Bower
+Imperial iGEM
+MAPLE – future waste recycler linked
+to a 3D printer
+IMPERIAL IGEM
+I
+mperial College has had a long
+tradition of hosting prestigious
+chess events in London, starting
+several decades ago with the
+Kensington Congress – this fell
+by the wayside somewhat in the early
+2000’s but was revived by Imperial
+College alumnus John Sargent in
+2011 with the help of IC Chess Club’s
+committee and the English Chess
+Federation.
+Now in its third edition, on a
+cool October afternoon a group of
+enthusiastic normally-players set
+aside some hours to turn the Union
+Dining Hall into a serious tournament.
+Having done this twice before things
+went extremely smoothly for the start
+of the congress, which is just as well
+because entries were so successful that
+the congress was full to capacity well
+in advance of the event taking place.
+By ﬁve o’clock, the room was ready
+and already the ﬁrst few players were
+turning up in advance, arriving at the
+Union representing clubs from all
+over England and in a few cases from
+mainland Europe as well!
+There was something else at stake
+for the top English (or resident) players
+in the Open section as well, as the
+highest ranked player at the end of the
+weekend not already qualiﬁed would
+be eligible for a place in the British
+Chess Championships in 2014.
+The ﬁrst round on Friday night
+proved to be particularly entertaining
+towards the end of the evening as the
+concert downstairs in Metric gave
+the remaining concentrating players
+a complimentary massage thanks
+to the bass causing more or less the
+entire building to vibrate! Players were
+forewarned and luckily the eﬀects
+weren’t too detrimental – although
+we’re not sure how many ﬁnished
+their games to go dancing downstairs
+afterwards.
+Top seed in the Open section Miguel
+Navarro-Cia, who is a Research Fellow
+at Imperial College in addition to a
+chess FIDE Master, was dramatically
+held to a draw by Denmark’s Helge
+Hjort, assuring that the pecking order
+in the top section would not necessarily
+dictate the weekend’s results. Another
+one of the top seeds Patryk Stanisz
+of Poland was defeated by England’s
+Stephen Prior to turn any semblance of
+expected top results on its head.
+Saturday saw a quieter day with
+mixed fortunes for the higher rated
+opponents in the other Major and
+Minor sections – generally the higher
+rated players had a good day in the
+Major to ﬁnish Round 3 roughly in
+the top quarter of the draw, but the
+Minor saw a lot of exciting, ﬁghting
+games allowing some of the lower rated
+players to prove themselves. By the end
+of Saturday evening, England’s David
+Gilbert was leading the standings here
+with two players under 120 ECF grade
+also in the top ﬁve – Cledwyn Davies of
+Wales and Southampton University’s
+Rob Hewitt.
+After a brief emergency (well,
+running out of sugar for coﬀee/tea) on
+Sunday morning, the stage was set for
+an interesting ﬁnish. Top seed Navarro-
+Cia would have to ﬁnd a way to battle
+back from a full point down while
+Stephen Prior (rated 300 FIDE points
+his junior) was leading the tournament
+with a perfect score but having to fend
+oﬀ some stiﬀ challenges in the ﬁnal
+rounds. Peru’s Frank Lozano in the
+mean time was half a point clear of the
+ﬁeld in the Major, and David Gilbert
+found himself in the same position in
+the Minor.
+Only half a point behind going into
+the ﬁnal round, the top board Isaac
+Craft and Stephen Prior (both ENG)
+drew, guaranteeing them a share of ﬁrst
+place but with the possibility of being
+caught for a share of the spoils. We
+thought we might have received an 80-
+move epic – turns out 75 of those were
+to be played over a blitz board outside
+the playing hall.
+Despite his best eﬀorts, however,
+Miguel was held to a draw by a resolute
+Steven Jones to ﬁnish half a point
+behind the leaders in an incredibly
+tense ﬁnish. The Minor was next for the
+top positions to be settled, with David
+Gilbert ﬁnishing on an imperious 4.5
+with Phil Foley and a strong showing
+by Rob Hewitt half a point behind.
+Finally, the Major section was won by
+Mateusz Dydak who won his last game
+to stay half a point clear of the ﬁeld – all
+three of the 2nd= players won their last
+round as well, chasing him all the way.
+Thank you very much to Adam
+Raoof (our esteemed FIDE arbiter),
+the Imperial College Chess Club, the
+Union and all the players for making
+the event incredibly enjoyable and
+memorable.
+Imperial College Chess Congress
+John Sargent
+IC Chess Congress Organiser
+JOHN SARGENT
+

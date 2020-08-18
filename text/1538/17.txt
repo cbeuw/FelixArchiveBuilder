@@ -1,0 +1,192 @@
+Influenza research restart
+SCIENCE
+Shakespeare’s sonnets encoded in DNA
+Nick Kennedy Science Writer
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+17
+FRIDAY 01 FEBRUARY
+P. mexicana doing it’s best “come-hither”
+glance- coupled with some fish-on-fish action
+Forget parchment in calf skin bind-
+ing. Forget mock pine ﬁling cabinets
+jammed with A4. Forget CDs, DVDs,
+MP3s – in fact, forget all digital, da-
+ta-storing acronyms.
+A team of scientists has stored all
+154 of Shakespeare's sonnets in DNA
+– the Bard of Avon quickly turns in
+his grave – along with 26 seconds
+of Martin Luther King's "I have a
+dream" speech, Watson and Crick's
+paper on the structure of DNA, and
+a photograph of the European Bio-
+informatics Institute where the re-
+search took place.
+he ﬁndings, reported in Nature,
+suggest that DNA is the perfect ar-
+chive. Enormous data sets can be
+stored concisely and accurately. If
+maintained in cold, dry and dark en-
+vironment, it could last for millen-
+nia.
+he team led by Nick Goldman
+translated computer ﬁles into DNA
+code, synthesised the DNA, se-
+quenced it, and reconstructed the
+ﬁles with 100 percent accuracy.
+All the data was stored on 153,335
+strings of DNA, each made up of 117
+nucleotides.
+Nick Goldman suggests that DNA
+storage could be used in large-scale,
+long-term projects, for example, at
+CERN, the European nuclear re-
+search centre in Geneva. Eighty
+petabytes – that is 1 million giga-
+bytes – of data about the Large Had-
+ron Collider currently stored on disk
+could be kept in a small amount of
+DNA.
+Technological advances are rapidly
+reducing DNA synthesis costs, sug-
+gesting this form of storage might be
+with us sooner than we think.
+Scientists have considered storing
+data in live vectors, such as bacte-
+ria. But mutations might change the
+text over time and storage conditions
+would have to be carefully regulat-
+ed. And perhaps the idea is just too
+strange: Martin Luther King, more
+than forty-ﬁve years after his assassi-
+nation, living on in a bacterial smear.
+Shakespeare's Sonnet 55 begins:
+Not marble, nor the gilded monu-
+ments of princes, shall outlive this
+powerful rhyme... A statement that
+appears eerily true.
+DOI: 10.1038/nature11875
+ith great
+p o w e r
+comes great
+re sp onsi-
+bility,” one
+wise man once said. Although he was
+unknowingly hinting at those with
+super powers to tread carefully, it too
+can be applied in the wider context to
+those that have the capacity to seri-
+ously aﬀect people, either for good
+or bad. Right now, scientists are the
+super heroes of the real world (that
+includes you, so feel free to give your-
+self a pat on the back right now. Yes,
+even if you are alone in the Library
+Café), and with technology acceler-
+ating at metaphorical speeds to the
+point where we had to even redeﬁne
+the greatest literal speed, great re-
+sponsibility needs to come into play
+too.
+Virologists are such people who
+have been treading carefully as of
+late. Last year they imposed upon
+themselves a moratorium to halt in-
+vestigations into the avian H5N1 vi-
+rus – a strain of inﬂuenza that is gain-
+ing momentum in infection, both in
+humans and birds, and which could
+lead to the next pandemic.
+Research was initially put on a 60
+day hiatus in January 2012 to discuss
+the biosecurity hazards of the investi-
+gations into H5N1. his was sparked
+by the attempt to publish previous re-
+search covering the mutations need-
+ed for the virus to allow transmission
+between ferrets and that could pos-
+sibly allow for human transmission
+too. Researchers reasoned that such
+mutations could just as easily occur in
+nature, and ignorance will deﬁnitely
+not lead to bliss if we just turn a blind
+eye. It is better knowing the capac-
+ity of the virus and being able to plan
+for a possible pandemic than feeling
+threatened by the hazards posed by
+carrying out such research in the ﬁrst
+place, the scientists reasoned.
+However, people who opposed this
+included the National Scientiﬁc Ad-
+visory Board for Biosecurity sector
+of the American government, who
+feared that without censoring the pa-
+pers, such data could be misused by
+small labs that could lead to an out-
+break of an artiﬁcially manufactured,
+dangerous strain of the pathogen. So
+despite research picking up consider-
+able speed, the hiatus was introduced.
+his “60 day” period halted as of
+last week however, and a letter from
+key researchers in the ﬁeld conﬁrmed
+that with the WHO, among others,
+issuing rules concerning biosafety,
+biosecurity and communication, in-
+vestigations will now proceed. Gov-
+ernments and institutions need to
+approve research before it is taken
+any further, and a biosafety level of
+3 or higher in labs is suggested as
+necessary for the work. With level 4
+being the highest and necessary for
+investigations into pathogens such as
+Ebola, another virus whose infection
+is lethal and currently has no cure,
+level 3 for a virus with a lethality that
+is considerably less was considered
+appropriate.
+However, how careful is too care-
+ful? “Scientiﬁc curiosity,” for want of
+a better phrase, has never been one
+to carefully toe the line between what
+is needed for scientiﬁc advancement
+and the relative views of the general
+public. Safety concerns, moral con-
+ﬂicts and technological constraints
+have all been known to hinder re-
+search, and it is how researchers con-
+duct themselves when overcoming
+these barriers, and the responsibility
+they exhibit, that can add, or dimin-
+ish considerable value to the papers
+that they then publish.
+Often, a balance has to be struck,
+and this may be an example of when
+the balance was just about right. he
+introduced safety measures may limit
+the lab numbers that can investigate
+H5N1, but at least the labs that will
+be able to will do so without danger
+to themselves and others. Advance-
+ment speed may be stiﬂed, but at
+least measures like these may stop sil-
+ly journalists wandering into labs and
+getting bit by whatever research is on
+show at the time. Because as much as
+we might like it, there are not enough
+Uncle Bens in the world to simply
+state that with “Great power comes
+great responsibility,” and hope that
+that alone does the job.
+DOI:10.1038/nature11858
+Philippa Skett on the H5N1 moratorium and why caution isn’t bad
+H5N1 – coming to a
+lab near you soon
+Deoxyribonucleic acid: THE BEST ACID
+http://www.westminster.ac.uk
+“
+W
+

@@ -1,0 +1,285 @@
+Not many people would deliberate-
+ly buy an all-in-one games compila-
+tion for the Nintendo DS, so that’s
+why we’ve done it for you.
+Nintendo’s 42 All-Time Classics is
+a collection of famous and not-so-
+famous games from Chess to Old
+Maid, Chinese Checkers to Koi Koi,
+and Darts to Soda Shake, where
+players take it in turns to shake a
+virtual soda bottle and the one shak-
+ing it when the top flies off, loses.
+It’s important to point out at this
+stage that 42 All-time Classics is a
+strictly multiplayer affair. The sin-
+gle-player portion is so lifeless and
+staid that to endeavour your way
+through will simply force you to
+play games you wouldn’t normally
+have tried and maybe find some
+hidden gems, as well as unlock-
+ing new games for your choices
+in multiplayer. The main single
+player game, Stamp, runs through
+each game one-by-one giving three
+stamps for a top performance and
+one for a poor performance. Each
+game requires three stamps to
+continue and, handily, if you hap-
+pen to get more than three on a
+particular game, then they do carry
+over. It shows that even if you come
+last that you get a stamp that Nin-
+Retro review - 42 All-Time Classics
+You call that retro? Jesse Garman provides some recommended background gaming
+Choo! Choo! Choo! Full steam ahead!
+Is Valve’s Steam platform the future of digital distribution? Should we be concerned?
+Out now
+“Run, you pigeons! It’s Robert Frost!”
+not to be.
+The other single-player game,
+called “Mission”, is a far more flex-
+ible idea, which has an element of
+Crazy Taxi’s mini-games about it.
+Each game is given a goal, which
+can be forgivingly easy or hor-
+rifically hard, for example, Hearts
+requires you to Shoot The Moon,
+whereas Dots & Boxes requires
+you to capture all boxes, a fiendish
+task in comparison. This mode is
+much more welcoming but still has
+the main flaw that it is intolerably
+dull. You’d be better off honing your
+poker skills in real life. Your reward
+for completing these tasks is a new
+icon, which you can use to repre-
+sent yourself over a network. This
+brings me on to the multiplayer…
+The multiplayer is where the
+game shines and for this I give it
+8/10. The interface is easily navi-
+gable and there is something for
+every mood from hyperactivity
+(such as Spit) to relaxed sedation
+(Checkers). Up to eight friends can
+play on one cartridge with little lag
+and means that although many var-
+iations are more fun when played
+with the actual board or playing
+cards, you’d be hard-pressed to find
+them all together in such an acces-
+sible package, assuming you have
+at least one other friend with a DS.
+The other feature is internet-con-
+nectivity. If you have a compatible
+wireless router in your house (any
+AOSS works), you can connect and
+find other games that are being
+played on the Internet with abso-
+lutely no extra components or soft-
+ware. Unfortunately, I was unable
+to test this as ours was not compat-
+ible but I would primarily use this
+game to play friends I could see and
+hear, the Internet play would most
+likely be of side interest.
+The Hearts card game - playable
+tendo don’t want you to linger on a
+game you don’t like for too long, but
+that’s part of the problem. I despise
+“Cheat” and to be forced to play it
+with the computer for 3 games in
+a row is my idea of hell. The option
+to skip a particular game would’ve
+been nice, perhaps one skip per lev-
+el could’ve been allowed but it was
+An old maid - not playable
+Steam is an online games distribu-
+tion network developed by Valve,
+makers of the Half-Life series. Be-
+fore Steam was created, Valve re-
+lied on WON (World Opponent Net-
+work) to run its multiplayer games
+and distribute patches. In 2001
+Valve acquired WON and began
+building Steam. The first version of
+Steam was available for download
+in 2002 during the beta test of Coun-
+ter- Strike 1.4. With the release of
+Counter-Strike 1.5 users of Steam
+and WON could play together on
+the same servers. Once enough
+testing was done, Valve shut down
+the last WON servers in 2004 and
+Steam took over.
+When Valve announced that they
+would distribute their sequel, Half-
+Life 2, through Steam, many were
+doubtful that it could work because
+of the amount of bandwidth needed
+to send an entire game over the In-
+ternet. However Valve had created
+a strong network which used peer-
+to-peer technology and the online
+release of Half-Life 2 was mostly
+successful. This was the beginning
+of online games distribution.
+Independent developers Introver-
+sion were able to reach millions of
+gamers around the world by selling
+their games Darwinia and more re-
+cently Defcon through Steam. This
+has allowed the bedroom coders to
+save money on distribution and to
+sell their games at a lower price by
+cutting out the middle man. Online
+distribution provides a more level
+playing field for developers and al-
+lows even small studios to become
+successful.
+Big game publishers are also us-
+ing Steam. Recently, 2K Games and
+Activision have signed contracts
+with Valve to distribute their games
+through Steam. This makes the
+Civilization and Call of Duty series
+available on Steam. Other publish-
+ers are likely to follow and Steam’s
+control of the games distribution
+market will increase.
+Steam has begun influencing
+game design as well. Valve have
+begun releasing small episodes of
+games such as their own Half-Life
+2 Episodes and the SiN Episodes by
+Ritual. The episode system allows
+you to buy a part of the game for
+less money than the whole game
+and then if you enjoy it, you can buy
+the next part. This will probably
+happen more often in the future as
+games companies find it increas-
+ingly harder to come up with new
+ideas for games.
+As Steam continues to grow secu-
+rity becomes an issue. When Half-
+Life 2 was released on Steam there
+were several hacks which could cir-
+cumvent Steam and allow users to
+download the games for free. Since
+then Valve has rewritten Steam’s
+authentication system and claims
+that users cannot play a game on
+Steam if they did not legitimately
+buy it. However the authentication
+servers go down sometimes. An-
+other problem faced by Steam is us-
+ers who steal account information.
+Valve needs to make Steam more
+secure if it wants to attract more
+publishers to use it.
+Currently Steam only accepts
+credit cards to purchase games
+and this limits who can buy games.
+However they are working on al-
+lowing PayPal and wire transfer
+as alternate methods of payment.
+This introduces the problem of age
+verification.
+Sony, Microsoft, and Nintendo
+are creating similar distribution
+systems for their PS3, Xbox 360
+and Wii consoles respectively. Sony
+has launched the Electronic Dis-
+tribution Initiative to offer games
+on the PS3. Microsoft is expand-
+ing its Xbox Live services to offer
+more content. Nintendo is creating
+the Wii Compact Software line of
+games which can be downloaded
+through the Wii. Valve is working
+on the third version of its Steam cli-
+ent which will manage connections
+better and feature an improved
+Friends chat client.
+Clearly online distribution is the
+future of the games industry and
+traditional retailers will have to
+adapt.
+Half-Life 2’s G-Man. A metaphor for corporate heartlessness, or
+merely a warning to wearers of bad ties? “Wake up, Mr Freeman.”
+Neverwinter Nights finally returns
+to game shelves this week with it’s
+sequel, looking to bring the technol-
+ogies firmly up to date, providing
+the average player with an engag-
+ing single-player experience as well
+as opening up the toolset for more
+natural, customisable module crea-
+tion. NWN2 is almost certain to be
+one of Christmas’ biggest releases
+for the PC.
+And speaking of dependable fran-
+chises, this week also sees the re-
+turn of Sam Fisher to PC and in lim-
+ited edition form on the Xbox 360.
+Splinter Cell: Double Agent is the
+fourth in the stealthy franchise, and
+the series certainly seems to have
+stopped dragging its heels after
+a pretty samey third incarnation.
+Double Agent is darker, slicker and
+seems more streamlined than it’s
+previous outings. An interesting
+change of pace for Tom Clancy’s
+finest.
+Or maybe you’re feeling a bit
+different this week? Desperate
+Housewives gets a much-needed
+gaming conversion. Felix Games
+only has this advice to offer you
+– it’s been released near a holiday
+involving fires for a reason.
+Things have been quiet on the
+Grand Theft Auto front for most
+gamers, but PSP owners can pick
+up a second dose of vehicular thiev-
+ery this week with the release of
+Grand Theft Auto: Vice City Sto-
+ries. If you weren’t enthused by the
+previous PSP title, Liberty City Sto-
+ries, then don’t expect to be blown
+away here, but the series has been
+updated with features like empire
+building. Most gamers may just
+wish to wait for the next-gen GTA.
+If you’re feeling sporty, and
+wouldn’t mind burning off a few
+calories, then Eyetoy Play: Sports
+comes out this week too. With each
+edition of the Play series, SCE Lon-
+don learn more about their ingen-
+ious toy. If you can’t wait for the Wii
+to get some crazy peripheral action,
+Sports is worth a look. If you’re feel-
+ing like something less strenuous,
+however, then you might prefer to
+take a look at FIFA Manager 07.
+Even with the controversy sur-
+rounding the breaking up of the
+Champ Man franchise, you may
+find that FIFA is the weaker of the
+two.
+Next week: Call of Duty 3, Medi-
+eval 2: Total War and Pro Evo 6.
+Splinter Cell 4 - green is still in
+ETP: Sports - being lazy is out
+– Manny, Grim Fandango
+19
+felix
+Friday 3 November 2006
+GAMES games.felix@imperial.ac.uk
+Victor Faion
+

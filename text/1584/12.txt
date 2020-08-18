@@ -1,0 +1,174 @@
+12 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+17.10.2014
+Science Editors James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+No change to understanding of radioactivity
+New diagnostic technique for ovarian cancer
+Researchers at Imperial College London are developing a more accurate test for diagnosing
+ovarian tumours Photo: Creative Commons
+Lauren Ratcliffe reports on the latest test to help doctors choose best treatment
+JAMES BEZER
+SECTION EDITOR
+"New
+approach to
+classifying
+ovarian
+tumours"
+The correct medical assessment
+of women with ovarian cancer
+is essential to ensure they
+receive effective, targeted treatment.
+Currently, a significant gap in the
+efficiency of care for ovarian cancer
+patients is due to accurate diagnosis
+of the exact stage of their tumour. If
+the stage is known then appropriate
+surgical procedures can be performed
+minimising the risk and potential
+impact on fertility. A more accurate
+method for diagnosing ovarian
+tumours before surgery would
+therefore help doctors prioritise
+patients for treatment based on the
+severity of their condition, improving
+the overall efficiency and flow of care.
+Existing models can help doctors
+discriminate between benign and
+malignant tumours but a lack of
+accuracy and the ability to further
+sub-classify tumours into their
+different classes doesn’t exist.
+This is all about to change, with
+research from an international team
+led by Imperial College London and
+KU Leauven, Belgium. With their
+combined efforts a new test, called
+ADNEX, has been developed that
+is able to discern between not only
+benign and malignant tumours, but
+also reliably distinguish between
+more specific stages of benign,
+invasive and metastatic ovarian
+tumours.
+Professor Tom Bourne, from the
+Department of Surgery and Cancer at
+Imperial College London, said “At the
+moment, the way we assess women
+with ovarian cysts for the presence
+of cancer and select treatment lacks
+accuracy. This new approach to
+classifying ovarian tumours can help
+doctors make the right management
+decisions, which will improve the
+outcome for women with cancer.”
+The ADNEX test is based on details
+of patients such as tumour marker
+blood tests and features that can
+be determined on an ultrasound
+scan, giving not only an accurate
+identification of the type of tumour
+but also gives the confidence of
+diagnosis as a percentage.
+The research looks sound, having
+used an extensive data set from 3,506
+patients from over 10 EU countries
+between 1999 and 2007 the team
+has determined which information
+available before an operation could be
+used to predict the diagnosis and then
+tested the model on a further 2,403
+patients between 2009 and 2012.
+Incredibly, doctors can even
+enter the patient’s details into a
+smartphone app – giving a futuristic
+efficiency to the medical procedure.
+The test is available online from
+iotagroup.org.
+The results from this extensive
+Good news for authors of
+physics textbooks! As we’ve
+long believed, the decay of
+radioactive isotopes doesn’t fluctuate
+depending on the time of year.
+So why is this news? In 2012, a paper
+was published by a group at Purdue
+University that seemed to show the
+rate of decay of Chlorine-36 varied
+periodically over the course of the
+year.
+Based on the times when the decay
+was fastest, the authors speculated
+that neutrinos emitted from the Sun
+could be causing this variation if
+the earth is closer to the sun, more
+neutrinos will hit the chlorine nuclei
+and this will cause more decays and
+more radiation to be emitted.
+Neutrinos are produced when
+radioactive nuclei decay to release
+beta particles. On the face of it then,
+it seems reasonable that they could
+be used to provoke a nucleus to decay
+and emit radiation.
+The trouble with this theory is that
+neutrinos are notoriously unwilling
+to react with anything at all. Just
+detecting their presence requires
+huge underground caverns filled
+with detectors, and even then, only
+a tiny handful of the trillions that
+pass through each minute will ever be
+picked up.
+A team of physicists in Germany
+have used a different equipment
+set up to see if they could replicate
+these apparent fluctuations. Their
+results, published in the journal
+Astroparticle Physics showed that the
+differences between measurements
+are an order of magnitude smaller
+than those seen in the previous
+research. What’s more, the variation
+was completely random, showing no
+relationship with the time of year
+and casting further doubt on the solar
+neutrino theory. The same group
+has also produced similar results
+for Strontium-90 which showed no
+seasonal variation in its rate of decay.
+While this new research may not
+seem quite as exciting as a ground-
+breaking, textbook-rewriting
+new discovery, it is a rather nice
+demonstration of the scientific
+process, and does confirm that what
+we think we know about radioactivity
+does still seem to be accurate.
+DOI 10.1016/j.astropartphys
+study, published this week in the
+British Medical Journal, signify a
+huge medical advancement in the way
+doctors treat ovarian cancer patients
+and will hopefully give more reliable
+diagnoses and further reduce the risks
+associated with such diseases.
+DOI 10.1136/bmj.g5920
+"Correct
+medical
+assessment
+of women
+with
+ovarian
+cancer is
+essential"
+"Decay of
+radioactive
+isotomes
+doesn't
+fluctuate
+depending
+on the time
+of year"
+Giving old research a new lease of life Photo: Discover magazine
+

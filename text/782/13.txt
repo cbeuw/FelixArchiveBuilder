@@ -1,0 +1,220 @@
+1
+% *
+*
+"
+•
+F e a t u r e
+Communications
+Communications satellites form only
+part o f the elaborate defence
+communications systems of the
+military. However, the US is placing
+greater emphasis on satellite
+communications, particularly with
+nuclear forces. The existing space
+component in the U S communications
+system consists of transponders
+aboard satellites such as the Fleet
+Satellite Communications satellites
+( F L T S A T C O M ) , as well as other
+satellites in polar orbits.
+Since satellites are becoming an
+essential part of C3
+I, it has become
+important to make them survivable.
+The U S A i r force has proposed a
+satellite for this specific purpose,
+called S T R A T S A T , which would
+orbit at an altitude of about 203 720
+k m in order to increase its
+survivability. It would also include
+extra resistance to jamming, and a
+manoeuvering ability. Although the
+satellite itself may become more
+resistant to attack its ground facilities
+remain as vulnerable. It is also worthy
+of note that all the satellites electrical
+systems are vulnerable to nuclear
+attack even without a direct hit. Pulses
+of neutrons and gamma rays seriously
+affect semi-conductor devices. It is
+because of this that strenuous efforts
+are being made to harden both the
+ground and space elements of C3
+I
+against nuclear attack.
+Anti-Satellite Systems ASAT
+With so much time and effort being
+devoted to protecting one's own
+satellites, it is hardly surprising that
+an equal amount of time is being spent
+determining how to destroy the
+opposition's satellites.
+The Soviet Union's efforts in this
+direction centre around the less than
+subtle approach of having a satellite
+move alongside its target, before
+blowing up. This method suffers from
+being a costly and strictly once only
+usage of a satellite. It does have the
+advantage of being very difficult to
+detect. It is almost impossible to know
+if a satellite is, in effect, a mine until
+it's too late.
+The U S takes a more direct
+approach with its anti-satellite
+weapons, relying on miniature
+homing vehicles launched on a missile
+from high altitude, about 20km. It can
+be used as a direct ascent system
+against any satellite in any orbital
+inclination and this combined with its
+small size makes it very survivable.
+Initial trials with the system from an
+F-15 fighter have achieved reasonable
+results.
+Chernobyl reactor complex as photographed by Landsat 5.
+Above—Hot water in ponds before disaster.
+Below—After reactors shut down.
+Recent Developments
+The 1983 Korean Airline incident was
+linked to US satellite activity over the
+area at the same time. The U S
+electronic reconnaissance satellite
+1982-41C was over the Kamchatka
+Peninsula at the same time as the
+airliner entered Soviet airspace. It has
+been suggested, more frequently by
+the Soviets, that the whole incident
+was an exercise by the U S to monitor
+Soviet reactions.
+Soviet ocean satellite launches have
+increased their knowledge of the polar
+ice cap and this has led directly to the
+Soviet U n i o n developing the
+capability to launch submarine
+launched ballistic missiles through the
+Arctic ice cap.
+The Soviet Union has also tried to
+increase the duration of flight for its
+reconnaissance satellites. They had
+been experiencing problems with
+satellite recovery, but are now using
+digital image transmission to
+overcome this.
+Space Weapons
+The strategic importance of satellites
+has spurred-on research into even
+more elaborate methods of destroying
+them. This has burgeoned into the so-
+called Star Wars system, the intent
+being to place weapons in space to
+deprive the opposition of the high
+ground. Huge amounts of expenditure
+is now being devoted to this aim by
+both super powers. Current space
+weapons can be divided into two
+groups, kinetic energy and directed-
+energy weapons. K E weapons derive
+their destructive energy from the
+momentum of a propelled object. In
+directed energy weapons, energy in
+the form of electromagnetic beams or
+particle beams is the destructive
+element.
+Kinetic Energy
+Two types of K E weapon are being
+investigated—the so called mass
+driver and the electromagnetic rail
+gun. The mass driver was first
+proposed as early as 1966. A
+travelling electromagnetic wave is
+used to accelerate a mass which is
+preferable ferromagnetic o r
+superconducting. The mass is
+accelerated through a series of coils
+while held in magnetic levitation. The
+greatest disadvantage is the
+comparatively modest accelerations
+produced at each step. Currently, to
+accelerate a mass of 0. l g to 150 km/s
+would require a 2km accelerator.
+The more promising device is
+called the rail gun. A current is
+allowed to flow down two rails, with
+a partially conducting armature placed
+perpendicularly across the rails. The
+projectile is placed in front of this.
+However, the mass of the armature
+limits the acceleration. This has been
+overcome by using a plasma, caused
+by electrical discharge between the
+rails, as the armature. Various more
+complex methods of increasing the
+efficiency of these weapons are under
+investigation. However, none of these
+weapons have the immediate prospect
+of becoming space based, and their
+extreme cost has directed the major
+space weapon efforts in the field of
+beam weapons.
+Directed-Energy Weapons
+In the field of directed-energy
+weapons, laser beam weapons are
+holding centre stage.
+Among chemical lasers, the
+chemical oxygen iodine laser (COIL)
+seems suitable as a weapon. The
+C O I L transmits at wavelengths of
+1.3 m. In such a laser, energy is
+transferred from excited oxygen
+molecules produced by a chemical
+reaction. Its main advantage is that
+easily handled liquid fuel can be used.
+Plans to build a 50kW C O I L are
+underway.
+X-ray lasers make a very attractive
+space weapon prospect because of
+their short wavelength. Two major
+problems complicate their
+application. A considerable amount of
+energy has to be used to raise the
+energy levels in the atom. Second, the
+probability of stimulated emission
+decreases sharply as the wavelength
+of radiation decreases.
+A further complication is that the
+lifetime of excited states is
+proportional to the wavelength
+squared. This means that atoms would
+stay in the excited state for as little
+as 10_ 1 3
+S. The necessary conditions
+can best be created by use of a
+powerful pulse of x-rays generated
+from a nuclear explosion.
+Clearly once again, this is a once
+only use weapon. The problems of
+beam direction and multiplicity would
+seem almost insurmountable.
+However, research continues.
+Arms Negotiation
+The proliferation of satellites with
+i military uses, and the consequent rush
+to develop space weapons to destroy
+them, has produced a paradox. The
+current state of military satellite
+technology makes verification of arms
+limitation treaties a relatively simple
+affair. There is just nowhere to hide
+anymore. Unfortunately, the
+associated rush to produce the so-
+called Star Wars systems on both
+sides has held up the very same
+process of arms limitation.
+I While satellites hold both the means
+to wage nuclear war and the means
+i to prevent it, there can be no easy
+solution to the problem.
+FELIX Friday October 30th 1987 13
+

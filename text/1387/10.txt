@@ -1,0 +1,205 @@
+science.felix@imperial.ac.uk
+10 felix Friday 16 November 2007
+Science
+Science Editor – Ed Henley
+Here is a picture with somebody pictured in it
+The LHC: Microscope or telescope?
+The Large Hadron Collider, or LHC,
+due to start operations at CERN next
+May has received enough coverage for
+many of you to be aware of its principle
+aim: the search for the Higgs boson.
+Doubtless you’ll also know that it is
+this particle which is thought to be re-
+sponsible for providing mass to all the
+other particles found in the zoo of the
+standard model.
+However, what may not be so famil-
+iar is that though the LHC is probing
+the very smallest scales of the universe,
+it will also be providing a wealth of in-
+formation relevant to cosmologists ex-
+amining the very largest, telling them
+about the structure and history of the
+universe as a whole.
+John Ellis nimbly straddled the gulf
+between these two extremes at his
+lecture in the Great Hall on Tuesday,
+explaining what he thought the funda-
+mental questions were at both scales,
+and outlining how this new accelerator,
+as much a telescope as a microscope,
+might be able to resolve many of them.
+Tackling the small side first, he in-
+troduced the Higgs boson using David
+Miller’s well-known analogy of a ce-
+lebrity (say Einstein) moving through
+a cocktail party – the party apparently
+being a decent representation of the
+hubbub of particles present in seem-
+ingly empty space. Much as people
+clustering round the celebrity impede
+his motion and provide him with an
+effectively heavier ‘mass’, a standard-
+model particle moving through the
+Higgs field (which permeates all space,
+and is linked to the Higgs boson) is also
+slowed from light-speed by its interac-
+tion with this field, gaining mass in the
+process. There were tantalising clues in
+the last days of the LEP experiment that
+the Higgs boson may have been seen,
+but only a more careful search with the
+LHC is likely to find the Higgs directly,
+or to place stronger limits on its energy
+than the official LEP results.
+Careful is an understatement when
+it comes to looking for evidence of
+physics relevant at the other end of the
+scale. The concordance model of the
+universe settled on by astrophysicists
+and cosmologists ascribes only 4% of
+the universe to matter as we know it –
+the rest is in the form of cold dark mat-
+ter (29%) or the even more mysterious
+dark energy (67%). Trying to explain
+the universe without an understand-
+ing of these last two is hopeless; fortu-
+nately Ellis believes that sifting through
+the torrents of data flowing from the
+LHC (coining a new unit, equivalent
+to finding a needle in a haystack, he
+quoted the task as being on the order
+of 100,000 haystacks) might provide
+just this.
+Some of the contenders for explain-
+John Ellis thinks it might be both. Not only will it tell us about the Higgs Boson, but by investigating super-
+symmetry it may shed light on the dark matter thought to influence the largest structures of our universe
+ing dark matter are the massive equiv-
+alents to the standard model particles,
+predicted by the theory of super-sym-
+metry, or SUSY. Though these ‘sparti-
+cles’ have not yet been incontrovertibly
+seen in any colliders, he thinks they
+stand a chance of being indirectly ob-
+served by LHC – an departure from
+energy being carried out by normal
+particles equally in all directions might
+suggest energy has been carried out by
+an unobservable dark-energy particle
+in such a way as to have preserved the
+isotropic distribution.
+For more on the LHC book to see
+Jim Virdee’s lecture on the 21st –
+go to IC’s Events page for details.
+Edmund Henley
+Science Editor
+Our Island Story, or How the Island Rule to come to an End (best beloved)
+Women like pink because their eyes
+had to get used to finding similarly col-
+oured berries when we were all hunter-
+gatherers. Kids don’t like eating their
+greens because they’ve evolved to be
+wary of potentially toxic plants. Blood
+is red because it signals danger when
+spilled!
+‘Just-so’ stories seem to be every-
+where in evolutionary theory some-
+times; it’s one of the main criticisms of
+natural selection from the Intelligent
+Design camp. The trouble is that these
+stories are popular because often they
+do seem to make sense, and it’s diffi-
+cult to prove them wrong.
+One of the less absurd ones is The
+Island Rule. Remember the Hobbit?
+Back in 2003 a bunch of anthropolo-
+gists discovered some fossils of mini-
+people, which were eventually nick-
+named ‘hobbits’ and given their own
+species in 2005; Homo floresiensis, or
+‘Man of Flores’.
+Flores is a small island in the Indone-
+sian archipelago, and its fossilised hob-
+bits are meant to be a prime example
+of the Island Rule. Others include tiny
+elephants weighing in at just 100 kilos,
+and enormous rats. The idea is that on
+sufficiently small islands, small mam-
+mals have fewer predators, so evolve to
+grow larger, whereas big animals don’t
+have enough food, so become smaller
+over successive generations.
+Kind of makes sense, but a new study
+led by Dr Shai Meiri has produced
+findings which suggest that this par-
+ticular ‘just-so’ story might also be less
+than accurate.
+Previous studies which backed up the
+Island Rule ended up being criticised
+for numerous reasons. Some used un-
+reliable indicators of size, looked at is-
+lands that were too big, or compared
+giant or dwarf animals with related an-
+imals on the mainland that turned out
+to be not particularly related at all.
+So Dr Meiri and her team rounded up
+records of numerous different papers
+on island mammal sizes and filtered
+them for studies that met their strict
+criteria, before doing a meta-analysis
+on the whole lot. They found that there
+was indeed some significant evidence
+of size change on islands, but it didn’t
+seem to be related to the original size
+of the particular creature.
+Carnivores did seem to get smaller,
+while rodents and artiodactyls – that’s
+ungulates like cattle, pigs and camels,
+not flying dinosaurs – got bigger, but
+there was no overall trend for small
+animals to become giants or big ones
+to shrink. In the paper “The island
+rule: made to be broken?” published in
+Proc. Royal Soc. B last week, the team
+point out that the hobbit-men of Flores
+shared the island with full-sized Stego-
+don, not miniature ones.
+It’s always worth speculating on our
+history, but as these findings have
+shown, there’s bound to be dangers in
+over-simplifying things. Like anything
+we learn about biology, a mammal’s
+size is due to a complex interplay of
+thousands of factors – whether it’s on
+an island or not.
+Imran Khan
+As many versions of SUSY lead quite
+naturally to dark matter, they may well
+explain why the matter in galaxies ap-
+pears to be distributed utterly unlike
+the motion of those galaxies would
+suggest – dark matter is required to
+explain this motion. Further causes for
+the present size and structure of the
+universe may come from ripples in an
+analogue to the Higgs field, the ‘infla-
+ton’ field. ‘Valleys’ in this rippled field
+would have attracted matter, leading
+to the denser regions observed in the
+early universe by the WMAP cosmic
+microwave background radiation, and
+also seen in the universe today.
+Better understanding of this latter
+topic should be forthcoming, with the
+imminent launch of the Planck satellite,
+but Prof. Ellis’ message – that the LHC
+contribution is not restricted to the
+very small – means much understand-
+ing of the universe will in fact be gained
+by looking inwards instead of out.
+Island. The Rule would predict
+some pretty big animals - wrong?
+The search for the ‘God Particle’ at the LHC goes on in tunnels like the one above, which lead to chambers so vast they can only be described as
+cathedrals to science. There’s a long waiting list, but it’s well worth booking up ahead to see this marvel if you’re passing through Geneva
+

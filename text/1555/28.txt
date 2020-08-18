@@ -1,0 +1,225 @@
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+28 FRIDAY 11 OCT
+Nexus 7 Review!
+Yong Wen Chua
+Technology Editor
+T
+he Nexus series of devices
+released by Google is now
+a staple amongst many
+Android users’ arsenal of
+devices. Initially touted as
+a benchmark setting niché series of
+devices, the Nexus series has spawned
+oﬀ its own fanbase for users who are
+interested in always having the latest
+version of Android free from any
+custom manufacturer’s skins. he
+original Nexus 7 released in 2012 was
+lauded as one of the best tablets upon
+its release. However, one year on,
+the Tegra 3 System-On-Chip (SOC)
+in it has shown its limitation with
+sub-par performance and battery
+life. Combined with the cheap ﬂash
+memory used in its manufacture,
+the original Nexus 7 now feels like a
+sluggish monster to use. Google has
+seeked to rectify this with the new
+Nexus 7 model. Starting at £199 for a
+16 GB model, the Nexus 7 is one of the
+most aﬀordable 7-inch tablets in the
+market, if you discount the recently
+released budget £119 tablet called
+“Hudl” by Tesco (which apparently
+does not suck at all!). he Nexus 7
+touts an impressive screen resolution
+of 1920 x 1200 pixels at 323 pixels
+per inch (ppi). And thankfully, it has
+ditched the Tegra series of SOC for
+the Qualcomm Snapdragon S4 Pro,
+and comes with a hefty 2 GB of RAM.
+he display is an absolute treat. With
+such an impressive ppi, I can hardly
+tell the pixels apart from each other.
+Text looks absolutely crisp and a joy
+to read. With a PDF of my report
+zoomed out to display an entire page
+on screen, I could read the text on it
+without needing to strain my eyes.
+he colours do seem a bit yellowish,
+but that could be due to the poor
+colour calibration on Google’s part,
+something which could be ﬁxed
+with some manual user calibration
+if they root the device, (then again,
+this is highly subjective.) he high
+resolution seems to also have taken
+its toll on the animations of some
+unoptimised applications. Scrolling
+through an article on the Guardian
+application is janky, and the page ﬂip
+animation of my PDF application is
+simply unusable. Although the battery
+is smaller in size than the original
+Nexus 7, the battery life is much better
+on this new model. Turning on the
+screen for prolonged usage, however,
+still destroys the battery life, although
+at a slower rate. he tablet boosts an
+amazing standby power consumption.
+I left the tablet overnight with WiFi
+The Torrid State of the Onion
+Apparently, the best 7-inch tablet you can get
+It was something like a 90s
+cyberpunk’s dream: an anonymous,
+hidden marketplace on the “deep
+web” where everything from research
+psychedelics to stolen credit card
+details could be bought. he Silk
+Road, considered by some a bold
+experiment in libertarianism, by
+others the biggest online hotbed of
+illegal trade, was ﬁnally shut down
+by the FBI last week after over
+two years of successful operation.
+Tor, he Onion Router, sends
+connections through several relays
+around the world, hiding users’ ip
+addresses from websites they visit. It
+also allows websites like he Silk Road,
+known as hidden services, which are
+only accessible via Tor and have a
+.onion domain name. Tor is widely
+used by journalists and activists to
+hide their identities and circumvent
+censorship in oppressive countries,
+but its hidden services are infamous
+for piracy and criminal activity.
+he Silk Road takedown is the latest
+in a recent spate of developments on
+the Tor network: two weeks earlier,
+another marketplace called Atlantis
+shut down, seemingly voluntarily. In
+August, the hidden webhost service
+Freedom Hosting, which served
+child pornography, was seized by
+the FBI. Later that month, millions
+of new clients connected to the
+Tor network, far more than natural
+growth in the service’s popularity can
+account for, most likely a criminal
+botnet. hese events have raised
+concerns for Tor’s users, especially
+in light of the recent NSA leaks:
+is the network as anonymous as it
+claims, or has it been compromised
+by law enforcement agencies?
+he Silk Road’s operator is known
+to its users as Dread Pirate Roberts.
+In real life, he is 29 year old physicist
+Ross Ulbricht, who lives in San
+Francisco, and who had earned around
+$80 million from the site. He was
+arrested last hursday and charged
+with narcotics trafficking, computer
+hacking and money laundering, but
+it was human error, rather than any
+ﬂaw in Tor’s anonymity, which led to
+his arrest: at the time of Silk Road’s
+launch in January 2011, a user called
+Altoid appeared on several forums
+advertisingthesite.Onepostcontained
+Ulbricht’s personal email address,
+which led to his being investigated.
+In the Freedom Hosting case,
+the owner attempted to set up a
+bitcoin-dealing company using his
+real identity, which the FBI linked
+to the hidden services. he FBI took
+control of the servers after his arrest.
+Both of these show that Tor hasn’t
+been compromised; however, Tor
+doesn’t protect from old fashioned
+cracking, an unsecured hidden
+service, while anonymous, is just as
+susceptible to attack as something
+accessible from the internet.
+Tor’s software is open source and
+extensively vetted, and the Tor Project
+say, “nothing about this case makes
+us think that there are new ways
+to compromise Tor (the software
+or the network)”. A recent leaked
+presentation from the NSA claims
+that, “we will never be able to de-
+anonymize all Tor users all the time”,
+turned on and woke up to ﬁnd that
+it has drained less than 5% of the
+battery life. Pretty impressive! On the
+number side of things, I can only say
+unscientiﬁcally that the device feels
+fast. It is a joy to use. If you are looking
+for the numbers on the device, I would
+point you to the excellent review that
+AnandTech (http://www.anandtech.
+com/show/7231/the-nexus-7-2013-
+review) has done. My only concern
+with the device is how it does not try
+to exceed the current hardware norm,
+and break the mold. While the price
+is really great for its hardware, the
+hardware is simply what is current at
+the time of its release. his means that
+the hardware will become outdated
+rather quickly. While it is inevitable
+for devices released today to become
+outdated tomorrow, I was hoping
+that Google would try and set a
+higher standard with its current line
+of Nexus devices, much like how the
+original Nexus One did. he Nexus
+7 is an excellent device. If you are in
+the market for a 7-inch device, and are
+unwilling to pay the price that Apple
+has asked for its iPad Mini, the Nexus
+7 should be at the top of your list. It has
+a good price, with excellent hardware.
+he device is also guaranteed to always
+run the latest version of Android,
+unencumbered by the lengthy
+delays that Android devices are
+infamous for their software updates.
+going on to say that with manual
+analysis they can reveal a very small
+fraction of users, but not on demand.
+Still, the conﬁdence of Tor’s users,
+many of whom are attempting to
+evade snooping by the NSA, has been
+shaken. When the FBI seized Freedom
+Hosting, they installed javascript
+code exploiting older versions of
+the Tor Browser Bundle which
+revealed many users’ IP addresses
+,not so much a chip in Tor’s armour,
+but a complete sidestep around it.
+he exploit was quickly ﬁxed, but
+raises deep concerns that similar
+vulnerabilitiescouldariseinthefuture.
+While Tor is certainly still safe
+for its intended purpose, hiding
+your ip from websites, these recent
+events show that Tor alone isn’t
+enough to protect you when hosting
+criminal activity. Paranoid users are
+looking towards alternatives such
+as i2p and Project Meshnet, but for
+most, the onion router’s anonymity
+hasn’t yet been peeled away.
+Kier Little on the shutdown of the webʼs biggest drug dealership
+

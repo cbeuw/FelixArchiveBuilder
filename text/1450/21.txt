@@ -1,0 +1,231 @@
+21
+felix FRIDAY 22 JANUARY 2010
+technology.felix@imperial.ac.uk TECHNOLOGY
+Google’s done with China’s censorship
+G
+oogle and China have nev-
+er really been the best of
+friends, and now finally it’s
+all over. Following security
+breaches of Google servers by hackers
+thought to originate from China, last
+week Google announced that it would
+be removing censorship from all of its
+Chinese services. Although the future
+is still uncertain, it’s extremely likely
+that we’ll see the end of Google.cn and
+the company effectively exiled from
+the country. As is usual, Google claims
+the moral high ground and reinforces
+its “don’t be evil” attitude, but other ev-
+idence suggests that Google may have
+another hidden agenda.
+In mid-December, attackers were
+able to gain access to two Gmail ac-
+counts of Chinese human rights activ-
+ists by using a previously undocument-
+ed flaw with Internet Explorer. Actual
+correspondence was not obtained,
+but the hackers were still able to get
+information on basic account details,
+including the subject lines of emails.
+Dmitri Alperovitch from computer
+security firm McAfee claimed that
+this was the most sophisticated hack-
+ing attack on a commercial company
+that he has ever been seen. The cor-
+porate servers of Adobe and at least 33
+other companies were also targeted in
+the ‘highly coordinated’ attack, which
+Google says originated from China.
+The level of sophistication entailed
+leads many to suggest that the hackers
+were agents of, if not directly employed
+by, the Chinese government.
+Google’s local presence in China
+began in 2006 when the company
+launched Google.cn, which is to China
+what Google.co.uk is for us. Although
+the company was obviously very posi-
+tive to be doing business in the country,
+the move attracted massive criticism
+after it was revealed that search results
+were being actively censored according
+to rules from the Chinese government.
+This included websites critical of the
+Communist regime and news and
+images from particular events, most
+famously the Tiananmen Square pro-
+tests. At the time co-founder Sergey
+Brin still tried to emphasise that they
+were doing the right thing. Part of the
+agreement was that Google could tell
+users that their searches were being
+filtered and by doing so, Brin claimed,
+it would let Chinese citizens know that
+their government was trying to hide
+information.
+Things continued in this way until
+2009 when the Chinese authorities
+began to tighten their grip on inter-
+net access in the country. Along with
+the demand for all home PCs to run
+‘Green Dam’, government censorship
+software masquerading as a parental
+control filter, the China Illegal Infor-
+mation Reporting Centre demanded
+that Google block several overseas
+websites of which many were sexual
+in nature. Then, in December, hackers
+infiltrated Google and tried to gain ac-
+cess to the Gmail accounts of Chinese
+human rights activists.
+Following the incident, and in con-
+junction with what they call ‘attempts
+over the past year to further limit
+free speech,’ on 12th January Google
+signalled the end to its censorship in
+China, even if it meant ‘having to shut
+down Google.cn’ and their Chinese of-
+fices. This does however seem a little
+suspicious, especially considering that
+some top security analysts have called
+the attack ‘routine’ despite its level of
+sophistication. Mikko Hypponen of
+security firm F-Secure said, ‘this wasn’t
+in my opinion ground-breaking as an
+attack. We see this fairly regularly.’
+Given also that Google has so far made
+no claim to be ending its compliance
+with US laws which limit freedom of
+speech, such as those which made it
+remove sites critical of scientology in
+2002, it’s easy to wonder if censorship
+really is the only item pushing Google’s
+agenda. After all, if such attacks are in-
+deed ‘routine,’ then why has this par-
+ticular incident made the company do
+such an abrupt U-turn on its censor-
+ship policy?
+Clearly, a company as big as Google
+does not act on impulse when pull-
+ing out of a market as large and with
+as much potential as China. The evi-
+Simon Worthington takes a look at the story that has the technology press going crazy over censorship
+number one visited website (which in-
+terestingly enough Google used to own
+a share in prior to setting up their own
+service). According to Alexa, while
+Baidu sits in the top spot Google ranks
+a paltry third, for once failing to domi-
+nate the search market. Given this rela-
+tively poor performance for the search
+engine giant it wouldn’t be surprising
+if quitting China has been on the cards
+for quite a while. Google does stand
+to lose $600 million annually from the
+move, but that is a tiny sum compared
+to their global revenue of $22 billion.
+What’s more likely is that Google
+have decided their “don’t be evil” im-
+age is worth more than the money they
+stand to lose. Indeed, although their
+stock price took a tumble after the an-
+nouncement just days later it was back
+to its original position as if nothing
+had happened. In 2006 many called
+for a boycott on the search engine and
+said that the company had betrayed its
+ideals. Google will be hoping that this
+move will restore its position in the
+public eye as a ‘nice’ company and win
+it some favourable publicity which will
+have much more financial benefit in
+the West. This move also puts pressure
+on rivals Microsoft and Yahoo who
+continue to operate under censorship
+and have much more to lose from quit-
+ting the Chinese market altogether.
+Although Google’s decision does
+send a strong message about censor-
+ship and freedom of speech, it cannot
+be denied that Google has a lot to gain
+personally from it. Taken at face value,
+this decision certainly will cost Google
+money up front. But in the long term
+their reputation of being a ‘nice’ and
+‘good’ company may serve them better
+and help them to succeed in the mar-
+kets they currently do not dominate,
+such as their ever-growing Android
+phone business, whose China launch
+has recently been delayed by Google.
+Google’s Chinese head-quarters, perhaps soon to be an empty shell should the pull out go ahead.
+6/2006
+Google sells its share in Baidu.
+“Clearly, a
+company as
+big as Google
+doesn’t act on
+impulse”
+dence may suggest that at least part
+of the reason for Google’s actions is
+self-interested or economic. Google.cn
+is very much an underdog in China to
+Baidu.com, the government controlled
+search engine that is currently China’s
+Sept 2004
+Google is found to be omitting
+news sources blocked by the
+Chinese government from its
+Google News China service.
+June 2004
+Baidu, a domestic Chinese
+search engine company,
+receives a ‘sizeable’ investment
+from a consortium of
+companies led by Google.
+Sept 2004
+Google opens up its popular
+advertising program, Adsense,
+to Chinese text ads.
+Sept 2002
+China blocks access to Google
+for 10 days. Traffic redirected to
+a government controlled search
+engine.
+May 2007
+Shareholders vote down an
+anti-censorship measure
+whichwouldhaveseenGoogle
+closing its Chinese services.
+Feb 2008
+Google goes head-to-head
+with Baidu by launching its
+own music download store.
+June 2009
+Chinese authorities order
+Google to block all access to
+pornographic material.
+Dec 2009
+Google servers are attacked
+by ‘sophisticated’ hackers
+thought to originate from
+China.
+Jan 2010
+Google commits to ending
+censorship on Google.cn, even
+if this means leaving China.
+Jan 2010
+Google delays launch of
+Android phones in China.
+GOOGLE-CHINA
+TIMELINE
+Jan 2006
+Google.cn goes live in China,
+complete with self-censorship
+of topics deemed controversial
+by the Chinese government.
+GOOGLE-CHINA
+TIMELINE (cont.)
+

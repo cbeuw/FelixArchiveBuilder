@@ -1,0 +1,192 @@
+ISSUE 1683
+FELIX
+TECH tecfelix@imperial.ac.uk
+15
+Should we trust governments with our faces?
+“The actions
+taken in China
+are worthy of
+condemnation
+and we must
+never go down
+a similar path”
+L
+ondon is one of
+the world’s most
+surveilled cities.
+Recently, China
+has begun using facial
+recognition to keep track
+of one of their district’s
+Muslim populations.
+Ethically speaking, I
+believe we can all agree
+that, this is one of the
+worst uses of modern
+technology we have seen
+to date. At the beginning
+of this year, I have de-
+cided to get an iPhone X:
+one of its flagship features
+was Face ID. It is a great
+feature and works flaw-
+lessly, allowing me to use
+my phone immediately
+after raising it up from the
+table. However, one might
+ask: how are companies
+and governments going to
+use my data?
+Practically speaking
+this is quite an easy
+question to answer; eth-
+ically, not so much. We
+can discuss examples of
+the uses of facial recog-
+nition software and judge
+whether they’re right or
+wrong. Does the law of
+this country, and of all
+Azure platform. Microsoft
+was one of many sponsors
+behind ICHack, providing
+a whole suite of solutions
+for application develop-
+ment – ranging from facial
+recognition to judging a
+person’s emotions from
+their expression. Now this
+all sounds great in theory,
+and I have nothing against
+Microsoft or its platform;
+I believe everyone should
+have access to great
+technology. However,
+it’s easy to forget in this
+excitement about how
+these services can be
+manipulated. Almost all
+ideas using these services
+would work best when we
+recorded the user without
+their attention; after all it’s
+best to see how someone
+is feeling without them
+posing for a selfie. If you
+were on the app-store and
+saw an app that would
+record you all the time,
+would you download it?
+Regardless of how much
+of an improvement it
+would make, would you
+say yes? How can you be
+sure that the company or
+individual behind it won’t
+misuse your data?
+In a perfect world we
+would not have to resort
+to tracking every person,
+however in this broken
+world we might just have
+to. A lot of good can come
+of it, we can stop terrorist
+attacks, burglaries and
+violent attacks to name
+a few by ensuring the
+location of dangerous in-
+dividuals are known to the
+authorities. Once again
+though, we are coming to
+a cross-roads where we
+must decide if this good
+is coming at the cost of
+too much of our privacy.
+Furthermore, we must
+ask ourselves whether
+the grainy CCTV pictures
+we always see on our TV
+are good enough for an
+artificial intelligence to
+judge whether someone
+was there or not. Ulti-
+mately, at any point in this
+debate, we can not resort
+to tracking minorities
+and vulnerable groups, as
+limiting as it may be to
+the scope of the mass-sur-
+veillance taking place.
+The actions in China are
+worthy of condemnation
+and we must never go
+down a similar path.
+One of the greatest
+privacy concerns of facial
+recognition is that it is
+able to collect its data in
+just a fraction of a second.
+In Russia, this technology
+is already at large, with
+an app called ‘FindFace’
+which allows you to find a
+person on Russia’s leading
+social media network,
+VKontakte. With our
+personalities and pictures
+increasingly out there, it
+will only become easier to
+find who we are and what
+we are like.
+In one way we’re
+already giving this power
+to our governments. A
+lot of people get emo-
+tional about privacy, but
+no one acts like it’s of
+any importance. Surely,
+it’s not as easy as: ‘If
+you’ve got nothing to
+hide you have nothing
+to worry about’? This is
+definitely something to
+think about, especially
+as cognitive-enabled
+applications are created.
+Artificial intelligence is
+causing a massive stir-up
+in our society, from robots
+taking over our jobs, to the
+weaponization of it to end
+the lives of other human
+beings more effectively.
+Algorithms can now recognize far more than just age or gender // Mac Observer
+Apple’s Face ID uses infrared scanning to let you sign in using just a snap of your face // Bloomberg
+“However,
+one might
+ask: how are
+companies and
+governments
+going to use
+my data?”
+TECH
+Robert Kaluzny
+Tech Writer
+others, allow for the rec-
+ognition of the difference
+between these right and
+wrong cases? As a com-
+puting student who enjoys
+development in his spare
+time, this is a question I
+ask myself often – most
+recently at ICHack 18,
+this year’s edition of
+the Imperial College
+Hackathon organised by
+DoCSoc.
+Oneinstanceofapplica-
+tion of facial recognition
+software is Microsoft’s
+Why the latest developments in facial recognition should leave us worried.
+

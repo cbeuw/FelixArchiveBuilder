@@ -1,0 +1,163 @@
+PUZZLES
+FRIDAY, 8TH
+NOVEMBER, 2019 FELIX
+42
+fsudoku@imperial.ac.uk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+H S R E K
+__ __ __ __ __ : [ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ ‘ __ __ __ __ __ __ __ ]
+10 5 12 19 24 : [ 13 0 0 24 10 14 3 18 25 22 18 12 16 14 18 18 15‘ 10 2 18 10 25 13 19 ]
+__ __ __ __ __ __ __ __ __ __ ‘ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ ?
+9 0 14 25 5 17 7 24 5 19 ‘ 10 2 0 21 3 19 7 10 18 25 17 7 1 22 0 12 10 0 21 19 25 5 17 7 1 ?
+CRYPTOGRAM
+The letters of the alphabet have been scrambled and numbered 0 to 25! A movie quote has been hidden in the secret
+message for you to decode. A grid has been provided to help you out! Hint: the first word is Shrek.
+Across
+1. 2008 Olympic locale (7)
+5. Like *click* this *click* clue *click* (5)
+8. Angry fruit in John Steinbeck novel (5)
+9. Has a famous triangle (7)
+10. Colour changer (3)
+11. Largest land mammals (9)
+12. Consumption recommendation for
+drugs (6)
+14. Important Russian general in WW2 (6)
+18. Trash dropper (6,3)
+20. Object of famous Andy Warhol paint-
+ings (3)
+21. Where Obama lived before DC (7)
+22. Detergent brand (5)
+23. One of twenty for humans (5)
+24.“Material Girl”singer (7)
+Down
+1. Capital of Iraq (7)
+2. Silly (5)
+3. Titanic’s demise (7)
+4. Fancy glass in the Harry Potter series (6)
+5. Like former Alaskan governor Palin (5)
+6. First Soviet satellite (7)
+7.“Four score and seven _____ ago”(5)
+13. Something to change on your phone
+(7)
+15. Gaunt (7)
+16. Plain and boring (7)
+17. Covered with flowers (6)
+18. Used to describe a state of mind, or a
+dream (5)
+19. Demand (5)
+20. Stacked rocks as a memorial (5)
+      
+ 
+    
+
+  
+ 
+ 
+  
+  
+ 
+Welcome to the first real week of November! The cold finally caught up with us, so another reason
+to stay inside, grab a mug of tea, and do PUZZLEEEES. On top of that, we’re introducing crypto-
+grams!
+SUDOKU
+GOGEN
+Fill letters from A to Y into each circle to form
+the listed words. Letters can be linked by mov-
+ing between adjacent cells horizontally, verti-
+cally or diagonally in any direction. You may
+use each letter in the alphabet only once. (Z
+is NOT used)
+Clues:
+BREAD CONQUEST FOXY
+JAUNT LIGHTS MANE
+PRY VEAL WILD
+  
+  
+ 
+
+
+ 
+  
+
+
+  
+   
+   
+ 
+ 
+ 
+ 
+ 
+  
+   
+SHIKAKU
+Divide the square into rectangles, such that each rec-
+tangle contains exactly one number. The numbers
+given represent the area of the containing rectangle.
+NONOGRAM
+

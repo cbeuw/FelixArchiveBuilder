@@ -1,0 +1,233 @@
+FELIX Friday 06 may 2011 27
+GAMES
+Games Editor: Simon Worthington
+games.felix@imperial.ac.uk
+H
+ello Felix readers, Cave
+Johnson here, founder
+and CEO of Aperture
+Science. Now I’m sure
+you’re all wondering,
+“Cave, why are you writing about Por-
+tal 2? Why are you breaking the fourth
+wall?” I’ll tell you why, it’s because I’m
+Cave Johnson and I don’t let silly little
+things like rules and regulations get in
+MY way. I’ll do whatever I damn well
+please and damn the consequences.
+Here at Aperture we believe in striv-
+ing for the best. We took the original
+Portal and thought, ‘What would make
+this bigger? Better? BOLDER?’ And
+let me tell you, THAT was a hefty chal-
+lenge. Multi-award-winning product,
+seamless design, revolutionary game-
+play, it had our best eggheads scratch-
+ing their shining bald domes for hours.
+They came back and said, “Cave, we
+can’t make this game better. Please
+don’t fire us.” Did it anyway, no room
+for failures here. Got some smarter guys
+in, cranked out Portal 2.
+Science has proven that short games
+are bad, no two ways about it, so we
+made Portal 2 even longer than Portal.
+Twice as long in fact. If you’re dim wit-
+ted it might even take you three times as
+long, maybe more, we don’t know. We
+at Aperture only test with the best of the
+best, no dunces allowed.
+“What about story Cave? Have you
+skimped on that?” Who do you think we
+are, Black Mesa? Of course we haven’t
+skimped on story. Portal 2 has at least
+65% more story than Portal 2, and you
+can go ahead and quote me on that
+(Disclaimer from the suits in PR: quot-
+ing me on that WILL result in a court
+injunction). It’s got thrills, twists and
+turns and so much action it’ll make the
+sappier amongst you soil your diapers.
+No, seriously, our story writers have
+told me those of you with weak hearts
+need to stay away from this game. We
+really can’t afford another lawsuit.
+We’ve also gone ahead and thrown in
+some new gameplay elements. I don’t
+pay my lab boys $100,000 a year just to
+sit on their thumbs and suck up coffee.
+No sir, Cave Johnson makes sure my
+boys work ten hours a day, seven days
+a week to churn out fresh new chal-
+lenges. If they get exhausted, fire them
+and bring in new guys, simple as. We’ve
+got asbestos funnels, lasers, hard-light
+bridges, plates that fling you about the
+room and more dynamic surface-coat-
+ing gels than you have fingers (provided
+you only have two fingers, that is). All
+of these have been proven to be 100%
+safe for human use! (A note from the
+boys in the lab says that Aperture Sci-
+ence takes absolutely no responsibility
+for any damage or injury that probably
+will occur when you use our products).
+Fact – the key to any successful co-op-
+erative test is trust. Now we understand
+you can’t just trust anyone. Hell, I trust
+the next man just as far as I could throw
+him. Turn around, next minute he’s stab-
+bing you in the back or pushing you into
+a crusher. Boom, dead, end of story. The
+solution? ROBOTS. Not only do robots
+give you a guaranteed six extra seconds
+of co-operation versus human subjects,
+you can’t kill ‘em. Just try, totally im-
+possible. Perfect solution to co-operative
+testing. We’ve gone and designed thirty
+five new test chambers, and all require
+the use of two sets of portals and par-
+ticipants to complete successfully. If you
+manage to do it alone I will personally
+come to YOUR door and refund you the
+cost of the game, provided we haven’t
+already spent it.
+Now we’ve been receiving some com-
+plaints of late. Normally I’d respond to
+these in the usual way and throw them
+down into the incinerator, but our PR
+department has somehow managed to
+convince me to try and tackle some of
+these issues head-on. Boost the compa-
+ny profile or some junk like that. One of
+the biggest complaints we’ve been get-
+ting from you big babies is the game’s
+length. Stop and smell the ROSES peo-
+ple! I didn’t spend thousands of dollars
+out of my own damn pocket to bring in
+writers and voice actors and only have
+one-tenth of their dialogue listened to!
+Slow down, open your eyes and ears,
+it’s not like you young people have any-
+thing better to do besides watching por-
+nography or washing your hair anyway.
+If you moaning minnies are STILL
+going on, guess what? This summer
+we’ll be giving you all FREE extra
+content. You hear that over your blub-
+berin’ and bawlin’? FREE STUFF.
+Would Black Mesa do that? Hell no
+they wouldn’t! New levels, new chal-
+lenges, new leader boards, all for noth-
+ing, NOTHING. I had to fire HALF MY
+STAFF just to afford this. Are you still
+crying now? I should damn well hope
+not! Why the hell am I even answering
+these God-damn letters, don’t you think
+I have better things to do?!
+So anyway I had a meeting with PR
+and Carol, and they said that I ought
+to just go right ahead and chuck those
+letters down the incinerator chute. Best
+thing for ‘em if you ask me. To sum up,
+more challenges, more story, more fun.
+Just slow down and if we’ve not filed
+for bankruptcy we’ll be getting out
+some more test chambers this summer.
+Cave Johnson, we’re done here.
+Dictated but not read to Laurence
+Pope.
+It’s been a frustrating fortnight for Play-
+station 3 owners everywhere. PlaySta-
+tion Network, the service used to play
+online on the PS3, was closed almost
+two weeks ago leaving gamers without
+access to any online content or multi-
+player games. It was revealed that the
+service was closed not for maintenance
+but as an emergency security measure.
+Sony’s PSN servers were the target
+of a successful malicious attack by un-
+known hackers, who compromised PSN
+servers and made off with personal de-
+tails, including passwords and e-mail
+addresses, from over 77 million PSN
+accounts. Included in the data stolen
+is all 9 million accounts registered in
+the UK. Further information was also
+stolen from the servers of Sony Online
+Entertainment, a PC gaming service
+which runs the likes of EverQuest and
+DC Universe Online, where the hack-
+ers accessed an ‘outdated’ database
+from 2007, containing 12,700 credit
+card numbers in addition to a further
+24 million usernames and passwords.
+Although Sony has confirmed that only
+900 of these cards are still within the
+expiry date, it has quite rightly advised
+all users to pay special attention to their
+statements. The internet has been awash
+with rumours that credit card data is
+now up for sale to the highest bidder
+after Sony rejected a deal to buy it back.
+Although specific details on the at-
+tack have not yet been released, the
+basics of the procedure used to gain
+access to PSN servers have now come
+to light. It was revealed a vulnerability
+with the PSN application server, sit-
+ting between the web server and the
+database, allowed the hackers to inject
+malicious code. Once they were inside
+the internal PSN network, they attacked
+the database server and gained access
+rights to the databases. Some com-
+mentators have claimed that the vul-
+nerability was due to the servers using
+an out-dated version of Red Hat Linux
+that hadn’t been updated with security
+fixes, whilst others claim that the intru-
+sion was an inside job by disgruntled
+employees recently laid off in massive
+job cuts at the company.
+Sony has announced that it aims to
+get fundamental PSN services – that’s
+online play, account management, chat
+and PlayStation Home – up and running
+before the end of the weekend, no doubt
+to coincide with peak revision/pro-
+crastination time for Imperial students.
+PS3 users will have to apply a manda-
+tory update to their console and will be
+forced to change their password as they
+log into PSN, but this option is only
+available on the console on which they
+originally created the account in order
+to prevent anyone with access to the
+hacked data from doing the same. In the
+event that this console is unavailable,
+users can use a verified e-mail address
+to change the password instead, under-
+lining the need for any PSN users that
+re-use their passwords on other sites to
+change them as quickly as possible.
+In what is surely a move to prevent as
+many disloyal PlayStationers from turn-
+ing to Bad Billy Gates and his Xbox as
+they can, Sony are also going to be offer-
+ing a ‘Welcome Back’package of treats.
+Every user will receive 30 days free ac-
+cess to ‘PlayStation+’, PSN’s premium
+pay-only service, and there will also be
+a selection of free content available that
+has yet to be announced. Rumours have
+also surfaced that Sony will be slashing
+the price of PS3 consoles worldwide at
+around the same time.
+Portal 2? Like Portal but better, dummy!
+CEO Cave Johnson on why you should hand over your money
+Despite what it might look like, these robots are programmed for something other than interpretive dance
+Service stoppage since Sony server security scandal
+Simon Worthington
+

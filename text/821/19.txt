@@ -1,0 +1,94 @@
+Puzzles
+It is now Summer, and the farmer
+who owns the circular field needs
+to lengthen the rope to which the
+goat is tied. To recap, the field is
+twenty metres in radius, the goat
+is tied to fence surrounding it.
+The length of the rope was set so
+that the goat could eat a quarter
+of the grass in the field. The goat
+has now eaten all the grass
+available to it. How much longer
+should the rope be, so that the
+goat now has another quarter of
+the field available to it?
+Christmas day is drawing near, and
+Father Christmas has a problem. He
+has twenty more presents to deliver,
+but is running out of time. He needs
+to know the shortest route to take
+around all twenty houses, to deliver
+the presents in the quickest time.
+He is sure that he can deliver the
+presents before Christmas day
+dawns, if only he takes the shortest
+route.
+The x-y coordinates of the houses
+are given below. The distances
+between them can be worked out
+simply by pythagorus, and may be
+truncated to integers. He is at the
+first house in the list.
+In which order should he visit the
+houses so that he takes the shortest
+route?
+To set the scene, there is a region of
+sand, and a region of rock which is
+to the South. The two regions are
+divided by a straight East-West line.
+Now, ten miles to the South of this
+dividing line lives a young man.
+This young man wants to visit his
+girlfriend, who lives ten miles to the
+North of the dividing line, and
+twenty miles West of the man's
+home. The fastest method of travel
+available is by camel. Now, the
+camel can travel at 5mph on rock,
+but only 3mph on sand. How long
+does it take him to reach his
+girlfriend?
+HOUSE X Y HOUSE X Y
+1 12 64 11 73 66
+2 86 72 12 44 33
+3 79 7 13 15 72
+4 48 44 14 53 42
+5 10 94 15 5 76
+6 69 52 16 50 55
+7 96 31 17 73 65
+8 94 92 18 22 45
+9 52 55 19 12 48
+10 66 69 20 5 35
+Christmas Crossword
+Across
+2. Interrogative reason (3)
+5. Later than headless roof beam (5)
+6. Has reed become sticks (7)
+8. No five have an egg (3)
+9. Sign of agreement is that North, strange, has in note (7)
+11. Secretively cunningly lady (5)
+13. Putting pots back may break them (4)
+15. Right none of it is covering (4)
+16. Gambled cubed (5)
+19. Alistair, the same one excuse (5)
+20. Smallest field saint (5)
+21. Note as back will droop (3)
+22. Weed from topless shoe (3)
+23. Car devil (3)
+24. Like knight, request information (3)
+Down - These all have a Christmas theme
+1. Ending with Epiphany and seventy-eight presents (3, 6, 4, 2, 9)
+3. Joker sends greetings (3)
+4. Model right at electrical engineering department is fir (4)
+6. Arrival starts on the first of this month (6)
+7. Vehicle sounds like killer (7)
+10. Christmas Eve food - spice mine (5, 4)
+12. Water crystal which is rarely seen at Christmas (9)
+14. Set alight, dog is about twice five hundred in making it (7)
+15. Red nosed (7)
+17. Post-Christmas happening which is confused by ales (4)
+18. Famous night object (4)
+by Jaka
+December 14 1988 FELIX Page 19
+

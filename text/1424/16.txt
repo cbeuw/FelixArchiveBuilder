@@ -1,0 +1,443 @@
+to remember. Here are a few (some al-
+ready used in Vista):
+Win+p
+• : opens the projector
+menu
+Win+m
+• : minimises all windows
+Win+Shift+m
+• : revert all window
+minimisation
+Win+d
+• : shows desktop
+Win+Home
+• : minimise all but the
+current window
+Win+Tab
+• : Flip 3D
+Alt+Tab
+• : cycle through live win-
+dow thumbnails
+Win+t
+• : cycle through live applica-
+tion thumbnails on taskbar
+Alt-Esc
+• : cycle through all open
+windows
+Win+g
+• : brings all the Gadgets
+above all windows
+Win++
+• and Win+-: zoom in and
+out of the desktop (OS X has this
+feature since the Dark Ages!)
+Here’s a list of the less exciting yet can
+be useful extras in Windows 7:
+a built-in ISO disc image burn-
+•
+er, thus eliminating the need of
+third-party archive or disc image
+software
+Internet Explorer 8
+• , which seems
+to be a late clone of Mozilla Fire-
+fox 3 really so nothing exciting
+Device Stage
+• – a tool that makes
+connected devices look fancy in
+Windows
+Aero Shake
+• – lets you minimise
+other windows by shaking the
+current window with a mouse,
+but this doesn’t work for me all
+the time
+Font management is neater with
+•
+stacked views of each font family,
+as well as a preview of the font on
+the icon
+Verdict (so far)
+Windows 7 seems to be quite promis-
+ing so far, especially with the tweaks
+that make Vista look stupid. My three-
+year-old ThinkPad had crashed a few
+times after my several attempts to run
+the Windows Experience Index assess-
+ment, but apart from that I haven’t had
+any problems at all on either laptops
+(no blue screen of death for sure!). In
+fact, on the MacBook Windows 7 runs
+almost as smooth as OS X. It even
+wakes up straight away from standby,
+which before Windows 7 this was an
+OS-X-exclusive feature.
+Many reviewers complain that Win-
+dows 7 does not have enough new fea-
+tures to be qualified as a brand new OS,
+but I beg to differ: given that Windows
+7 runs so much better than Vista with
+what it has right now, I wouldn’t want
+any extra premature features to ruin
+its stability. However, I would agree
+that Microsoft should make Windows
+7 cheaper than what we had paid for
+Vista, to make up for the pain we suf-
+fered back in the early days. I say drop
+Zune and use the remaining develop-
+ment money to give us all the discount
+we deserve!
+I do have one confession to make: my
+original plan was to also test Windows
+7 on a netbook (an Acer Aspire One) in
+this week’s felix, but due to the heavy
+snow last week the delivery is delayed,
+so I’m afraid I will have to delay the test
+till next week, provided that the net-
+book arrives before Wednesday. Un-
+til next time, why not try Windows 7
+yourself? Any machines released in the
+last two years should work fine (check
+with the list of minimum requirements
+on the previous page). Intel-Mac users
+should definitely try it just for fun!
+Are you using Windows 7? What is
+your impression so far? Drop us an
+e-mail at technology.felix@imperial.
+ac.uk by next Tuesday, and selected
+messages will be published in next
+week’s felix.
+Start Menu with minor update
+The Start Menu in this beta build is
+pretty much the same as Vista. The
+only update is the additional recent
+documents list for each application
+– same as the taskbar buttons really.
+Another change is that the power but-
+ton at the bottom right is now labelled
+“Shut Down” by default, instead of a
+misleading round circle that turns out
+to be standby in Vista. If you prefer
+Vista’s default setting, you can change
+the button by simply right-clicking it,
+30 felix Friday 13 February 2009
+technology.felix@imperial.ac.uk
+Technology
+Technology Editor – Richard Lai
+technology.felix@imperial.ac.uk
+31
+Friday 13 February 2009 felix
+Technology
+W
+hen Windows Vista
+first came out back
+in November 2006,
+I thought, “Wow!
+(sic) At last! Some-
+thing that can fully replace the dull
+Windows XP.” Unfortunately, I was
+wrong: not only did the first release
+of Vista consume too much system
+resources, but the manufacturers also
+failed to deliver compatible drivers for
+hopeful upgraders, thus rendering the
+“Vista Capable” labels meaningless.
+Today, Vista is a lot more stable with
+Service Pack 1 (and personally I am en-
+joying the ride too), but many consum-
+ers are so afraid of Redmond’s obese
+OS, that they’d rather go through all
+the trouble to downgrade their new
+computers to XP. If you are one such
+person, then you should read on to find
+out why Windows 7 will be different.
+Windows 7: Vista on diet
+Eagle-eyed readers may have already
+noticed that Windows 7’s full version
+number is 6.1.7xxx, meaning it is based
+on Windows Vista (6.0.6xxx). This
+traces back to the changes Microsoft
+made to their OS roadmap, when they
+had to focus on patching Windows
+XP’s major security vulnerabilities in
+2003, thus splitting the originally-sin-
+gle OS release into two parts. Perhaps
+it was also this rush that made Vista a
+badly polished product, so Windows 7
+is given the big task to regain consum-
+ers’ trust for Microsoft.
+In fact, Microsoft’s recent public re-
+lease of Windows 7’s beta (Build 7000)
+has already impressed many critics, most
+praising the smaller memory footprint
+compared to Vista. Other notable im-
+provements include the optimized task-
+bar, smarter windows management, less
+annoying notifications etc.
+From XP to 7: cannot upgrade
+My first testing platform was a Lenovo
+ThinkPad X41 Tablet – a three-year-
+old laptop that has the rare touchscreen
+feature, perfect for testing Windows
+7’s compatibility and its tablet func-
+tion. To keep the test fair, I installed a
+vanilla-copy of XP Tablet PC Edition
+2005 SP3 along with the essential driv-
+ers (no Lenovo crapware apart from
+their “System Update” tool), and then
+the same was done with Windows 7.
+As expected, Windows 7 did not allow
+a direct upgrade from XP; you can only
+do so with Windows Vista SP1, so be
+warned!
+Installation was a breeze overall - the
+only user inputs required all took place
+at the beginning, and then just half
+an hour later I had the new OS run-
+ning (but with missing drivers). Once
+the drivers were loaded, Windows 7
+still had a pretty impressive boot time
+(from power on to appearance of desk-
+top) of 1 minute 31 seconds, just 9 sec-
+onds more than XP.
+Smarter taskbar
+Upon first login, you may not be im-
+pressed by the same eye candy seen in
+Vista, but do bear in mind that this is
+still a beta release so the graphics may
+not be final. However, what caught
+my attention first was the revamped
+taskbar: it is now thicker, and by de-
+fault there are already three buttons
+docked. At first I thought they were
+just ordinary quick launch buttons, but
+with a bit of fiddling, I discovered that
+dragging the buttons upwards reveals
+a menu, showing shortcuts for the rel-
+evant programs (this is a “Jump List”),
+option to “pin” a shortcut to the top
+of the list, and shortcuts to web book-
+marks, recent documents and playlists,
+if supported.
+In fact, the above features also apply
+to any docked buttons on the taskbar,
+so if you open any applications, their
+taskbar button will always have a list
+of recent documents, and you can also
+pin a shortcut. This effectively turns
+the ordinary Windows taskbar into a
+beastly cousin of Mac OS X’s dock.
+However, since the ThinkPad’s
+graphics chip is not powerful enough,
+Windows 7 has automatically disabled
+the more advanced Aero features (in
+short: the fancy graphics as seen in
+Vista). This is why I prepared a second
+machine to play with: my lovely uni-
+body MacBook.
+Again, installation was very straight
+forward using Boot Camp, and all the
+Vista drivers on Apple’s DVD worked
+straight away. Now the taskbar buttons
+show a preview panel when clicked on,
+and you can hover over each thumbnail
+to highlight the associated window,
+while the other under the stack be-
+come transparent. Pretty cool, eh? Of
+course, clicking on the thumbnail will
+bring you that window to the front.
+On the right hand side of the taskbar
+are the usual notification and system
+monitor icons (power, network and
+volume), but now with an additional
+flag icon which reveals an “Action
+Center” box - a neat replacement of the
+old intrusive balloons which are much
+hated by XP and Vista users. Other
+application icons can be revealed by
+clicking on the triangle to the left of the
+Windows 7 - hope or flop for M$?
+Richard Lai test drives Microsoft’s latest beta OS on different machines, to see if it is better than Vista
+Steve Ballmer and Steve Jobs may not be friends on Facebook, but Apple will employ their lawyers to poke Microsoft if they are not careful.
+Highlights:
+Smaller memory footprint
+•
+Optimized taskbar
+•
+Much-improved tools
+•
+(Paint, WordPad, etc.)
+Smart windows tiling
+•
+Aero Shake and Aero
+•
+Peek
+Optimized for SSDs
+•
+Beta minimum requirements:
+CPU: 1GHz (32- or 64-bit)
+•
+RAM: 1GB
+•
+HDD: 16GB of free space
+•
+DirectX 9 graphics card
+•
+with 128MB memory
+DVD burner
+•
+Internet access
+•
+Retail editions:
+Starter
+•
+Home Basic
+•
+Home Premium
+•
+Professional
+•
+Enterprise
+•
+Ultimate
+•
+Release: as early as July 2009
+Win7 Trivia
+Boot screen of Windows 7
+A Jump List above the taskbar
+flag, and you can still customize them
+to make them appear in the icon area
+instead of just the notification box.
+Since the taskbar is now thicker, the
+clock now conveniently shows both
+the time and date, unlike the old days
+when you had to hover over the clock
+to show the date (which disappears af-
+ter five seconds). Further right sits a
+blank, thin button which simply does
+“Show desktop”. This button used to be
+in the “Quick Launch” list right next to
+the Start Menu, so some may struggle
+to get used to this new layout.
+Action Center with notifications Start Menu now with a clearly labelled power button (circled)
+With Aero enabled, clicking a docked button reveals a preview panel,
+and hovering over a thumbnail highlights the associated window.
+and the button’s label will change to
+whatever action you choose.
+Themes and Gadgets
+Who doesn’t personalise their desk-
+top these days? To satisfy the general
+users, Windows 7 will come with a
+more powerful theme tool that allows
+you to package several wallpapers into
+one option, so that Windows can au-
+tomatically cycle through them at set
+intervals.
+On the Gadgets front, Windows 7
+has abandoned the sidebar approach
+in Vista, once again igniting the Win-
+dows-copied-OS-X flamewar (in OS
+X, Widgets are spread across the desk-
+top). To be honest, I couldn’t care less:
+in Vista I only look at the Gadgets dur-
+ing login, so most of the time the Side-
+bar is hidden behind a stack of Win-
+dows anyway.
+Revved-up Tools
+Microsoft has finally decided to give a
+little bit of extra with Windows’ built-
+in tools. Kids and bored secretaries
+will be most impressed by the new
+Paint, which now includes a selection
+of shapes and brushes. The new inter-
+face took cues from Office 2007, mak-
+ing Paint easier to use than previous
+versions. Another tweak worth men-
+tioning is that Paint will automatically
+resize the canvas to fit your pasted
+image, amking screenshot capturing
+much easier (just as I had been experi-
+encing while writing this article).
+Similarly, WordPad has also been
+updated with a Word-2007-esque in-
+terface, and you can even edit .docx
+documents (Word 2007 file format)
+but understandably losing some for-
+matting. It also has Paint built-in, so
+you can edit your inserted drawing at
+any time.
+One feature that is ignored by most
+users is Windows’ handwriting recog-
+nition, which is why I was very keen to
+try Windows 7 on the ThinkPad X41
+Tablet. Compared to Windows XP Tab-
+let PC Edition 2005, Windows 7 is defi-
+nitely better at reading my handwriting
+as expected. Furthermore, Windows 7
+will recognize at least six more lan-
+guages on top of Vista’s twelve.
+Networking
+It took me a while to figure out where
+to make a Virtual Personal Network
+connection to Imperial College - with
+Vista I could do so in the Start Menu,
+but Windows 7 has moved it all to the
+network icon on the right hand side of
+the taskbar, which is slightly more con-
+venient. On a higher level, the main
+networking feature of Windows 7 is
+HomeGroup, a protocol that is meant
+to simplify how we “share files, photos,
+music, and printers throughout your
+Windows 7 Paint + Tablet PC = awesomeness + super fun time!
+WordPad has a Word-2007-esque interface and can edit .docx files
+Impressive handwriting recognition in Windows 7
+home” using just one shared password.
+In fact, the real stars of this feature are
+“libraries” - essentially “a way to ag-
+gregate multiple physical locations on
+a computer into one unified view”, as
+described by Jerry (e7blog) on blogs.
+msdn.com.
+In other words, say if you have three
+Windows 7 computers on your home
+network, then you can set up your
+HomeGroup to view all photos of the
+entire network within one folder on any
+machine, rather than having to browse
+through several network folders for
+different machines. Of course, you can
+vary your folders’ individual privacy
+levels and read/write permissions.
+Easy media browsing within a
+HomeGroup is supported by the forth-
+coming Windows Media Player 12 and
+Windows Media Center: rather than
+scanning “the entire hard drive on the
+computer to find media files and add
+them into a media library”, they simply
+use the Windows Explorer libraries as
+shared by both apps.
+Auto-resizing windows
+This feature should have been included
+in Windows a long time ago, but it has
+only been implemented by third-party
+apps until now: by dragging a window
+to the left or right edge of the screen,
+Windows 7 will automatically resize it
+to fill up that half-side of the screen,
+and dragging to the top edge will max-
+imise it. You can also do the same by
+using a combination of the Windows
+key and one of the arrow keys (the
+down key restores/minimises the win-
+dow). No more fiddly window-resizing
+work for you!
+Bits and bobs
+The keyboard shortcuts mentioned
+above are just four of many available
+in Windows 7, and most are quite easy
+Choosing which libraries you would like to share within a HomeGroup
+Easier network connection
+Themes in Windows 7 can cycle through wallpapers automatically
+

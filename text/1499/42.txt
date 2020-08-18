@@ -1,0 +1,229 @@
+FELIX
+42
+SPORT
+Friday 28 October 2011
+Felix Sports League
+...where do you stand?
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1210 607 603 5.00
+2 Fencing M1 10 10 0 0 1229 919 310 5.00
+3 Table Tennis M2 11 11 0 0 156 31 125 5.00
+4 Water Polo W1 8 7 1 0 102 24 78 4.63
+5 Volleyball M1 11 10 0 1 22 4 18 4.18
+6 Volleyball W1 11 10 0 1 21 4 17 4.18
+7 Basketball M1 12 10 0 2 917 735 182 3.50
+8 ICSM Netball W1 12 10 0 2 493 312 181 3.50
+9 Lacrosse M1 11 9 0 2 154 85 69 3.36
+10 Tennis M1 12 9 1 2 84 60 24 3.25
+11 Table Tennis M1 12 9 1 2 84 60 14 3.25
+12 Basketball W1 9 7 0 2 464 348 116 3.00
+13 Netball W1 13 10 0 3 546 367 179 2.92
+14 Squash W1 11 8 0 3 31 12 19 2.55
+15 Hockey M1 12 8 1 3 46 25 21 2.50
+16 Rugby M1 14 10 0 4 344 191 153 2.43
+17 Hockey W1 13 9 0 4 67 24 43 2.23
+18 Lacrosse W1 9 6 0 3 110 64 46 2.00
+19 Table Tennis W1 6 4 0 2 20 10 10 2.00
+20 ICSM Football M1 9 5 1 3 28 18 10 1.67
+21 ICSM Hockey W1 20 10 3 7 54 48 6 1.40
+22 ICSM Rugby M3 10 6 0 4 252 266 -14 1.40
+23 Football M1 13 7 1 5 34 20 14 1.31
+24 Badminton W1 13 7 1 5 44 60 -16 1.31
+25 Hockey M2 12 5 3 4 22 26 -4 1.25
+26 Football W1 7 4 0 3 19 19 0 1.14
+27 Tennis W1 7 4 0 3 42 42 0 1.14
+28 ICSM Hockey M3 7 4 0 3 11 27 -16 1.14
+29 Netball W3 9 5 0 4 291 217 74 1.00
+30 Hockey M3 11 4 3 4 17 13 4 0.91
+31 Badminton M1 11 4 3 4 44 44 0 0.91
+32 Fencing M2 10 5 0 4 1122 1128 -6 0.90
+33 ICSM Hockey M1 10 5 0 5 25 20 5 0.50
+34 Netball W2 12 6 0 6 445 483 -38 0.50
+35 Badminton M2 10 4 1 5 43 37 6 0.20
+36 ICSM Hockey M2 11 3 3 5 19 29 -10 0.09
+37 ICSM Netball W2 11 5 0 6 341 360 -19 0.09
+38 Squash M4 6 2 1 3 8 7 1 0.00
+39 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+40 ICSM Football M3 0 0 0 0 0 0 0 0.00
+41 Lacrosse W2 0 0 0 0 0 0 0 0.00
+42 ICSM Football M2 5 2 0 3 14 16 -2 -0.40
+43 Fencing W2 10 4 0 6 1142 1170 -28 -0.40
+44 Fencing M3 10 4 0 6 1146 1201 -55 -0.40
+45 Football M3 11 3 2 6 22 30 -8 -0.45
+46 ICSM Badminton W1 9 2 2 5 32 46 -14 -0.67
+47 ICSM Badminton M1 10 3 1 6 24 56 -32 -0.70
+48 Squash M3 9 3 0 6 17 26 -9 -1.00
+49 Tennis M2 10 2 2 6 40 79 -39 -1.00
+50 Hockey W2 12 3 1 8 13 41 -28 -1.25
+51 ICSM Rugby M1 11 2 1 8 144 427 -283 -1.82
+52 Water Polo M1 3 0 1 2 23 30 -7 -2.00
+53 ICSM Rugby M2 12 2 1 9 200 438 -238 -2.00
+54 Rugby M2 14 3 0 11 194 356 -162 -2.07
+55 ICSM Hockey W3 5 1 0 4 4 17 -13 -2.20
+56 ICSM Hockey W2 10 2 0 8 21 42 -21 -2.20
+57 Rugby M3 10 2 0 8 71 357 -286 -2.20
+58 Hockey M4 11 2 0 9 15 32 -17 -2.36
+59 ICSM Badminton M2 6 1 0 5 16 32 -16 -2.50
+60 Squash M2 12 2 0 10 16 44 -28 -2.50
+61 Rugby M4 8 1 0 7 59 325 -266 -2.88
+62 Football M2 12 1 0 11 14 36 -22 -3.25
+63 Squash M1 7 0 0 7 5 30 -25 -4.00
+64 ICSM Netball W3 9 0 0 9 186 352 -166 -4.00
+65 ICSM Netball W3 7 0 0 7 134 257 -123 -4.00
+Roehampton somehow manufacture a three-
+on-one attacking move at the half way line and
+as they started to break towards our goal it was
+looking like we were certain to concede. Luck-
+ily, our last defender was Tinkerbell who deftly
+stole the ball from the three of them as the Roe-
+hampton striker was about to pull the trigger.
+Between our two centre-backs Ünterbrøw
+and Tinkerbell and some assured ball distribu-
+tion by holding midfielder Yellow Bag we con-
+stantly threatened their circle. After a shot was
+blocked on the goal-line by a Roehampton foot
+we were awarded a penalty flick. Up stepped
+Yellow Bag who eyed up the bottom left hand
+corner, but in a moment of confusion ended
+Hockey: Men’s 2s victorious against Roehampton
+up firing straight down the middle. Thankfully
+the Roehampton goalie had decided to dive
+and padded the ball down and into the goal,
+making it 2-0. We went in at half time having
+probably played the best half of hockey ever,
+our goalie James had not even had to face a
+single shot at goal. B. Man Briggs’ team talk,
+though, ensured that our feet were still on the
+ground.
+We weren’t quite finished toying with Roe-
+hampton. Their frustration was clearly begin-
+ning to show as attack after attack was being
+crisply cleaned up by our team. Each time the
+ball was recycled, we switched from defense to
+offense very quickly, and through the sterling
+effort of our new left-back Soggy Biscuit we
+played possession hockey. The breakthrough
+moment came after ten minutes of the second
+half when a ball was smashed into the Roe-
+hampton circle and promptly deflected into the
+top left hand corner by Teabag who was lurk-
+ing in front of the goalie.
+At 3-0 we started cruising and were duly pun-
+ished. A stray ball from midfield was pounced
+on by the Roehampton striker and they scored
+a breakaway goal.
+Not to be outdone by this, ICHC restarted
+play with a flourish. A run from Strap-on down
+the left set up Teabag to get his second goal of
+the game. It finished with ICHC worthy win-
+ners and with extremely bright prospects for
+the season ahead, and, dare I say it, promotion?
+Record results for Surfsoc
+Every October, the first BUCS event of the
+year occurs in Newquay, where over 300 surf-
+ers from around the UK battle to be crowned
+champions. The event is a hectic mix of epic
+surfing and socialising and is the only competi-
+tion the club can enter - so for everyone who is
+involved it’s the only chance we get for glory!
+This year the club has invested in more train-
+ing time in Newquay to try and improve our
+performance and with encouraging weather
+forecasts our team of 8 was eager to jump in
+the bus early on Wednesday morning and get
+in the water! Unfortunately, Surfsoc legend
+Serkan had other plans and ensured the team
+departed 2 hours late.
+When we finally arrived in Newquay, ev-
+eryone changed into wetsuits and hit the surf!
+Strong onshore winds and messy conditions
+made for a frustrating session but everyone
+was pleased to blow the cobwebs of the long
+journey away. We then checked into with our
+old friends at Newquay Backpackers and head-
+ed out for a team building meal and an early
+night.
+Thursday gave everyone a chance to hone
+their skills on the competition wave and prac-
+tice surfing heats, which is very different to the
+free surfing we’re used to. The team were up
+early and were rewarded with excellent early
+morning conditions of 3-4 foot clean swell
+with the occasional barrel. The famous Surfsoc
+airhorn was then used for its proper purpose
+for the first time ever as 4 surfers practiced
+competing against one another for 15 minutes,
+which is very short time as we would all learn!
+After a long session, the team returned to the
+competition campsite; everyone then chipped
+in for a team dinner and had a friendly game of
+poker before another early night.
+The competition started on Friday morning
+with everyone due to compete that day. After
+registering, everyone watched the conditions
+closely and discussed tactics, mind games and
+ways to make bails look like attempted airs.
+The first round consisted of 15 minute heats of
+5 surfers, with the top 2 progressing to the next
+round. Independent judges watch each surfer
+and score each wave caught out of 10, each
+surfers 2 best waves being counted.
+Khalil Rhazaoui was first to compete for
+Imperial and was unlucky not to progress after
+failing to back up a good first wave score and
+came third. John “Jerkin” Mcguckin and Elliot
+“Sharkbait” Taylor were then in simultaneous
+heats and also both came close to qualifying
+but were ousted on a split points decision by
+the judges, similar to last year! Dario Mazza
+then put in a solid performance complete with
+claims but was up against two Cornwall locals
+and also eventually finished third in his heat.
+Adam “Hardcore” Harvey and Hendrik “Hero”
+Frentrup were then also in simultaneous heats.
+Hendrik managed to qualify despite a dubious
+interference, which was fantastic news and
+made everyone in the team very happy. After
+a long wait, Julius Klein and Thom Utley were
+cheered on by the rest of the club in almost per-
+fect conditions but were unable to match the
+high qualifying standard. Everyone then piled
+into the surf to enjoy a chilled session that was
+cut short by a nasty fin slash on Elliot’s ankle
+resulting in some brutal looking stitches. The
+team then considerately left Hendrik to sleep
+and prepare for the second round the next day
+by spending the night in the infamous Sailors
+club in Newquay to celebrate a successful day.
+Everyone made it down to the beach the next
+morning to cheer in Hendrik who was unfor-
+tunate not to get through his second round
+heat. The team then all enjoyed a free sports
+massage courtesy, and once again headed out
+to enjoy the excellent conditions without the
+pressure of competition. After an awesome day
+and many dubious photos, the team returned to
+the campsite for the closing party.
+Sunday dawned with sore heads for every-
+one and after a quick freesurf at Whipsiderry
+beach everyone watched Super Gordon Fon-
+taine from Bournemouth win the competition
+for the third consecutive year with impressive
+turns and airs. The team then assisted Surfers
+Against Sewage with a beach clean before the
+last team lunch and journey home.
+Thecompetitionwasgreatfunforeveryonewith
+the blessing of good conditions and good banter,
+everyone had a weekend to remember and hope-
+fully next year the team can perform even better!
+Interested in surfing? Get in touch:
+surf@imperial.ac.uk . Everybody is welcome!
+Thom Utley
+Surfing
+...Continued from back page
+Seven guys, six surfboards and what looks like a large banana It’s not Hawaii, but hey - Newquay comes pretty close
+Sports Editors: Indy Leclercq
+David Wilson
+sport.felix@imperial.ac.uk
+

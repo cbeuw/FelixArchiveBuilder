@@ -1,0 +1,105 @@
+PUZZLES
+29
+FRIDAY 31 MAY
+Puzzles Commanders:
+Sotirios Karamitsos
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+The numbers in each row and column tell
+you how many groups of black squares
+are in a row or column, as well as how
+many black squares each group is made
+up of. Filling in the grid produces a pretty
+picture, which in turn produces points if
+you send it in, so get solving!
+A special treat for students finished exams
+5
+6
+1
+1
+3
+2
+3
+1
+1
+3
+3
+1
+3
+2
+3
+1
+5
+6
+1
+1
+5
+2
+2
+1
+1
+1
+7
+5
+1
+1
+7
+5
+5
+5
+6
+1
+1
+5
+6
+1
+1
+1
+6
+1
+1
+1
+6
+1
+5
+6
+1
+5
+5
+2
+1
+1
+9
+3
+7
+2
+2
+3
+3 3 3 2 2 2 2
+3 1 1 4 1 1
+1 1 1 1 1 2
+3 1 1 1 3
+1 1 1 1 1 2
+1 4 4 1 1
+0
+1 1 4 1 1
+1 1 1 1 1 1
+3 1 1 1 1
+1 1 1 1 1
+1 4 4 1
+0
+0
+1 1 3
+2 2 5
+5 5 3 2
+1 1 1 8 3 1
+5 12
+2 15
+3 12
+11
+2 2
+2 2
+3 3
+4 4
+Nonogram Instructions
+

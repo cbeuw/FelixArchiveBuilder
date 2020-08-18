@@ -1,0 +1,372 @@
+PAGE 10 PAGE 11
+felixonline.co.uk felixonline.co.uk
+THE STUDENT NEWSPAPER OF IMPERIAL COLLEGE LONDON FRIDAY 6th
+MAY 2016 FRIDAY 6th
+MAY 2016
+science.felix@imperial.ac.uk
+SCIENCE
+SCIENCE science.felix@imperial.ac.uk
+This week’s science picture
+Natasha Khaleeq
+Writer
+A long exposure shot of a meteor shower from Groningen. Photo Eddie Yip
+Halley’s Comet, a ball of ice and
+rock left over from the creation
+of the Milky Way, only makes an
+appearance every 75 years, so sadly
+we have to wait until 2061 before we
+get another glimpse of it. However,
+we are in the midst of meteor
+shower.Earth is twirling though the
+tail of Halley’s Comet. Therefore, it
+is inevitable that tiny debris falling
+into our atmosphere will burn up
+leading to a month-long annual
+spectacle called Eta Aquarids.
+Lucky stargazers in the southern
+hemisphere will witness 30-40
+meteors flying through the night
+sky per hour whereas the northern
+stargazers will see 10-20. The best
+time to view this spectacle is in early
+hours of morning before twilight,
+5th
+- 7th
+May. A dark remote spot
+away from light pollution is a better
+place to witness the shower but you
+won’t need any fancy astrophysics
+equipment if you decide to. Don’t
+worry if you miss it this time as late
+October will provides the Orionid
+meteor shower.
+At Sh!t Sc!ience, we believe that
+all science, no matter how stupid it
+sounds, has a purpose and adds to
+the sum of human knowledge. This
+week: the science of gingerness.
+You’ll have seen this story. From
+Prince Harry to Julianne Moore,
+the honorary heads of the ginger
+committee are strewn across the
+most reputable science sections.
+The reason? Ice cold revenge! It is
+now scientifically proven that even
+though you are growing older and
+saggier by the minute (yes...you
+are), redheads are more likely to
+remain as baby-faced as when you
+were making fun of them in school.
+Well… they look a bit younger.
+Well… by two years. Maybe not
+the greatest payback for years of
+mockery.
+The study behind the finding
+was published this week by a team
+of scientists from the Erasmus
+University. After asking people
+to estimate the age of the 2693
+members of their cohort based
+Money can’t buy this pale, creamy baby-face babes. Photo Credit Noodles
+and Beef
+MARIANNE GUENOT
+Sh!t Sc!ence
+The key to eternal youth is being ginger... kind of
+solely on pictures of their faces,
+the scientists cross-referenced the
+‘perceived age’ with differences
+in their cohort’s genotypes. They
+found one gene that could be
+associated with youthful looks,
+the MC1R gene. This gene codes
+for the melanocortin1 receptor, a
+protein which regulates the ratio
+of pheomelanin (a blond or red
+pigment) to eumelanin (a brown
+or black pigment), which gives
+hair its shading. The youthful look
+was associated with a particular
+variation of the MC1R gene.
+These gene variant codes for a
+melanocortin1 receptor, which in
+turn produces very little eumelanin,
+and is subsequently associated with
+red hair. And there you have it, red
+hair is linked to youthful looks.
+‘That’s it?’, I hear you cry? ‘All that
+genetic encoding and screening for
+that?’ I agree, but as always, this
+study actually represents a tiny step
+in a much bigger endeavour. While
+the first genome took 13 years to
+sequence, an entire human
+genome can now be sequenced
+in days.This staggering progress
+has encouraged the hope that
+through the reading of our
+genomes, we would finally be
+able to predict and prevent
+disease. Programs such as the
+Rotterdam study, the Leiden
+Longevity study and the Twins
+UK studies, have provided
+huge repositories of thousands
+of genomes. This information
+allows us to filter through
+millions of bytes of data to
+look for the elusive genes
+that could be responsible for
+Alzheimer’s disease, the genetic
+malformation which causes the
+terrible Parkinson’s disease, and
+also the gene that makes us look
+younger when we’re not. That is
+the power of Big Data, and we
+should expect to see many more
+of these studies in the coming
+years.
+Science, what’s good?
+Where would you store your data?
+Magnetic tapes? Hard drives? What
+about DNA? It is possible to store
+and retrieve, say, 10,000 GB worth
+of data in a tiny pink DNA smear
+at the end of a test tube. DNA
+stores data in a code of A,T,C and
+Gs. Computers store data in a digit
+code of 0s and 1s. If you produce
+nucleotide strands in the lab,
+combinations can then be developed
+to produce a code standing for
+letters, numbers or other digital
+information, combining these two
+languages. This allows compacting
+of information to a smaller degree
+ever artificially achieved with
+human technological developments.
+In addition DNA can protect the
+data, which can remain unchanged
+for thousands of years. Scientists
+can even employ PCR techniques
+to produce large quantities of DNA
+strands increasing the chance that
+the DNA strand picked contains the
+information we want. The future of
+storage is here and it’s genetic.
+Bornholt et al. 2016 @ Association
+for Computing Machinery
+Jane Courtnell
+Science Editor
+When we consider the impact of
+climate change on our oceans, we
+often think of overfishing or coral
+bleaching. People rarely consider
+the impacts on drifting planktonic
+species, invisible to the human eye.
+Their lack of observability should,
+however, not lead to disregarding
+their importance. Drifting plankton
+comprise the oceans “lungs”, and
+support fisheries across the globe.
+Scientists at the University of
+Technology, in Sydney Australia,
+and Imperial College London
+have been modelling how such
+plankton drift along the ocean
+currents to understand the impact
+of climate change on these species.
+As plankton hitch a ride on ocean
+currents, they’re often subjected to
+temperature changes of up to 10
+°C. These exposures to various
+temperature changes are thought
+to play a role in how plankton may
+respond to climate changes. So any
+previous studies will probably need
+to re-evaluate their predictions
+take into account these effects.
+Doblin et al. 2016 @ PNAS
+DNA as data
+storage unit
+Plankton hitch
+hikes currents
+When it comes to the best
+treatments available for autism,
+early intervention is key. Despite
+this, autism in most children is
+not diagnosed until they’re four
+years of age, when challenges in
+communication, social disabilities,
+and repetitive behaviour patterns
+become apparent. Researchers at
+UT Southwestern medical centre
+have recently identified an Autism
+Spectrum Disorder (ASD) blood
+biomarker, which allows early
+identification with an accuracy of
+up to 80%. They found that boys
+with the disorder had significantly
+reduced levels of the igG1 antibody.
+The 25 peptide compounds that
+bind to igG1 serum protein were
+then analysed, and one was isolated,
+now identified as ASD1, which
+could diagnose the disorder with a
+66% accuracy. Combining ASD1
+with measures of thyroid stimulating
+hormone levels subsequently
+increased accuracy of identification
+to 73%.However,more testing must
+be carried out for further validation.
+Deng et al. 2016 @ Scientific
+reports
+Forget road rage, what about
+air rage? As flying is becoming
+more and more frequent for many,
+it is important we understand
+what gets us so hot and bothered
+under our seatbelt. Long queues,
+delayed flights, little leg room are
+only a few of the inconveniences
+that drive up our cortisol levels.
+However, new research conducted
+by Katy Decelles at the University
+of Toronto’s Rotman School of
+Management and Micheal Norton
+of the Harvard Business School
+found that air rage is more likely
+to occur when the plane has first
+class seats. Class inequality seems
+to bring out the worst in people.
+The study didn’t go into depth as
+to why this was the case, however
+previous research has indicated that
+people exhibit a decrease in general
+well-being when they feel they are
+treated unfairly or unequally. So if
+airlines want to ensure smoother
+flights for their passengers, they
+may want consider doing away with
+classes altogether.
+DeCelles et al. 2016 @ PNAS
+New marker for
+autism found
+Air rage fueled
+by class wars
+P
+aradoxically, antibiotics
+are essential for fighting
+bacterial infections, but
+they also make our bodies
+more prone to further infection.
+New research at the University of
+California is trying to illuminate
+the paradox. The chain of events
+begins with antibiotics depleting
+the ‘good’ bacteria in our guts.
+These bacteria are necessary for
+the breakdown of gut -fibre which
+produces butyrate, an essential
+organic acid for gut lining cells.
+With decreased availability of
+butyrate, the oxygen consumption
+of these cells declines, and thus
+oxygen levels in the gut increases.
+These conditions favour the growth
+of Salmonella. The research links
+levels of butyrate-producing
+microbes to inflammatory bowel
+disease. Further research is needed
+though to see if Salmonella is the
+sole culprit.
+Byndloss et al. 2016 @ Cell host &
+Microbe
+The cost of
+antibiotics
+B
+reakfast this morning got
+me thinking. It merely
+involved microwaving
+frozen bread prior to
+making French toast, but the
+nonchalant routine reminded me
+to extol the virtues of frozen food,
+something I think many of us tend
+to overlook.
+Sadly, the modern consumer is
+inclined to look down on frozen
+goods. We scoff at the stiff-edged
+bags roughly clumped together in
+the freezer aisles, associating the
+‘less-for-more’ prices with poor
+quality and unnecessary teeth
+breaking. Truth be told, the lower
+prices are not in any way linked to
+poorer quality.Frozen food is simply
+much cheaper to produce and sell
+compared to its fresh counterparts,
+hence the less hefty price tags.
+A recent study illuminated the
+very reason why we should resolve
+our issues with anything that’s not
+‘fresh and whole’. Food stored at
+-20oC in the freezer compared to
+that stored at 4-5oC locks in many
+more key nutrients and antioxidants.
+We could be doing ourselves a
+world of good just by freezing more
+seasonal fruit and vegetables this
+way. We enjoy all the nutritional
+goodness they have to offer without
+having to sacrifice any volume.
+Note the word ‘seasonal’ here.
+Freezing produce that has to go at
+some point, or tastes better at one
+time of year than another, will let us
+enjoy all the most desirable flavours
+and textures for as long as we want.
+It was found that many anthocyanin
+flavonoids (that help protect our
+livers and decrease blood pressure)
+are preserved for several months in
+foods such as blueberries. Similarly
+vitamins such as riboflavin (B1) and
+Vitamin C are not only successfully
+preserved, but can even be found in
+higher quantities in frozen foods
+than in fresh produce.
+Bread’s another good example
+highlighting the value of freezing.
+This is how it works: Before baking,
+starch granules in dough are
+geometrically arranged,but this nice
+geometry is changed once water is
+added to the mix and dough is left
+to rise before baking. Starch absorbs
+the water and the granules take on a
+more irregular form. They however
+start to undergo recrystallisation
+after baking, the cooling process
+allowing the granules to revert back
+to a more regular geometry. The
+continuous recrystallization process
+is what contributes to staling, which
+unfortunately occurs much faster in
+the fridge than if you chuck your
+loaf into the freezer.
+Of course, we still have to be a
+little picky. Freezing creates ice
+crystals, and the more water content
+a fruit or vegetable has, the bigger
+these ice crystals, so it would be
+a good idea to leave things like
+mushrooms and lettuce out of the
+picture. Otherwise, most anything
+can be frozen, including meat, fish,
+bread, and even most aromatic
+spices. Go ahead– freeze it up!
+Eat your frozen veggies kids. Photo Credit: Rosana Prada
+Is it time for a move to frozen foods?
+Alexandra Lim
+Writer
+

@@ -1,0 +1,205 @@
+ISSUE 1723
+FELIX
+23
+PUZZLES fsudoku@imperial.ac.uk
+     
+
+
+ 
+  
+
+   
+ 
+
+FUCWIT
+1 Trollheim 209
+2 DQ 205
+3 Yeet Infection 201
+4 Maxiane 177
+5 O1G 175
+6 Wooloomooloo 148
+7 Big H’s Boys 126
+8 Rock, Flag & Eagle 108
+9 Computer Magic 95
+9 S. B. S. 95
+11 Quizlamic extremists 87
+12 KBLB 82
+13 Fleesh and the tooters 80
+14 Shark 74
+15 Luncheon Pals 72
+Send your solutions to fsudoku@imperial.
+ac.uk before Wednesday midday to take
+part in the leaderboard!
+Points available
+Crossword			 5
+Sudoku 2
+Minesweeper 3
+Slitherlink 3
+Total 13
+Last week’s solutions
+     
+    
+      
+   
+    
+   
+    
+      
+   
+     
+   
+   
+      
+  
+   
+ 
+ 
+   
+ 
+   
+ 
+ 
+  
+SUDOKU
+Fill all the boxes with a number between 1
+and 9. A number can only appear once in a
+row/colum, and only once in each sub-box.
+Across
+1. Cold, hard numerical data (12)
+8. Supercontinent (7)
+9. Grieve (5)
+10. Greek angle (5)
+11. Distinguished musician (7)
+12. Parentless child (6)
+14. Borrowed permanently (6)
+16. Follow a winding route (7)
+18. Recurring sequence of events (5)
+20. Elizabeth’s is 67 years (5)
+21. Bumpy writing system (7)
+22. The King’s wife (5,7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SLITHERLINK
+Connect horizontally and vertically adjacent dots so that the lines form a simple
+loop with no loose ends. The number inside a square represents how many of its
+four sides are segments in the loop.
+   
+        
+     
+        
+       
+        
+       
+      
+        
+      
+        
+         
+      
+        
+    
+       
+       
+       
+       
+       
+       
+       
+       
+       
+    
+  
+ 
+    
+    
+
+ 
+ 
+ 
+
+  
+  
+
+ 
+MINESWEEPER
+The number in a cell represents the number of mines adjacent to
+that square (up/down, left/right, diagonal). Find and mark all of the
+mines to clear the board.
+Down
+1. Doubtful punctuation (5,7)
+2. See eye to eye (5)
+3. Electric car company (5)
+4. Severe shock (6)
+5. Violent storm (7)
+6. Bank storage (5)
+7. Made over a loudspeaker (12)
+13. Slightly undercooked pasta (2,5)
+15. North African and Middle-Eastern language (6)
+17. Sad goodbye (5)
+18. Links prisoners to balls (5)
+19. Large string instrument (5)
+

@@ -1,0 +1,226 @@
+TECHNOLOGY
+Technology Editor: Jason Parmar
+technology.felix@imperial.ac.uk
+treat early with Felix Tech
+hen Microsoft
+ﬁrst showed
+oﬀ its tablet in
+2000 it was an
+absolute... fail.
+However, now, after Apple deﬁned the
+tablet market, the Redmond-based
+company is trying another time to
+crack this growing market and this
+time it seems it may be a success!
+The “Surface” comes in two diﬀerent
+ﬂavours; their main diﬀerence being
+the OS they run. Sadly here we only
+discuss the Windows RT version, al-
+though there will be a Windows 8 pro
+article later on, so don’t worry!
+Before we talk about the software,
+let’s talk hardware. The Surface has
+many diﬀerences to the other low end
+tablets that make it quite attractive
+for anyone looking at a purchasing a
+tablet. Not only does it have a beauti-
+ful 10.6 inch screen (something none
+of the other tablets discussed here
+have), it also has the option to add a
+micro SD card, and, perhaps the most
+amazing, a USB port! The USB port
+may not sound like such a big deal,
+but when you think about all the tab-
+lets that have been released through-
+out these past few years, less than
+ten have USB ports. This will allow
+external hard drives, computer mice
+and many other things to be attached
+to your tablet. Also the Surface has a
+very good CPU (Tegra 3 (T30) that
+clocks in at a very fast 1.4GHz, which
+will allow you to use your tablet with-
+out lag. One worrying thing about
+the Surface though is the silence
+about the battery performance that
+Microsoft is practicing. Usually this
+is something that companies brag
+about so perhaps this is may not be
+spectacular.
+Windows 8. What else can one say.
+Windows 8 is Microsoft’s newest OS,
+and it has been praised as well as
+criticized, so what will this operat-
+ing system do for the Surface? I am
+quite excited actually, as it seems this
+will be the ﬁrst attempt at a tablet
+that will give you a full desktop ex-
+perience on a device you can hold in
+one hand! However, since this is the
+budget version, we can not expect
+the whole shebang, but what is still
+achieved is really impressive. This
+includes something that we expected
+on tablets but never got, but that Mi-
+crosoft has promised us, and this is
+the “true multitasking experience”.
+On the Surface, Microsoft claims
+that you will be able to run two apps
+simultaneously, next to each other,
+which adds to the ability of the sur-
+face to work like a desktop-on-the-go
+for a student. When you purchase
+the Surface with Windows RT, you
+get the Word, Excel, Powerpoint and
+OneNote thrown in, which for most
+students is a bonus! Two cons that
+I do have to mention, is, ﬁrstly, the
+apparent worries that many experts
+have about Windows 8. So when you
+buy the Surface, you will be buying
+into something that is new and un-
+tested. Secondly, programs can only
+be downloaded from the Windows
+store (“metro style”), but when you
+are used to tablets today, this sounds
+like what we all know and love. The
+problem with this, similarly to the
+Kindle, is the limiting app store. The
+Windows Marketplace has only about
+100,000 apps. So what you ask? Well
+how many are going to be optimised
+for the Surface?
+The Surface seems to be a great
+tablet, and it surely will make some
+kind of impact into the tablet market.
+Hopefully we will be seeing cheaper
+iterations of the Surface in the future,
+but, honestly, for what you are getting
+it is a bit cheeky wanting it to be less
+than 400 pounds.
+buy before the Christmas rush: pre-order before Halloween!
+11
+FRIDAY 19 OCTOBER
+The Summary*
+* for those too lazy to read the reviews
+We have looked at 4 different tablets, from 4 different companies
+with 4 (almost) different Operating systems. So now you are scratch-
+ing your head and wondering, which one is for me? Well let’s com-
+pare them and see which kind of person they fit. Before we make any
+comparisons, we can safely ignore the hardware (unless its something
+radically different) because all of these are relatively the same, and
+thus software is the real variant.
+iPad Mini
+With Apple you always know what you get, you know that everything
+will be high quality and will work. Nothing will feel cheap, and if you
+own other Apple products it is only a plus. If you are a person who is
+happy to be confined within the eco-system of Apple and aren’t really
+that techie, this may be the tablet for you.
+Price: £180 to £250
+Release Date: 23th
+October (rumoured)
+Memory: 8GB to 32GB
+OS: iOS
+Kindle Fire HD
+The Fire HD is the one who doesn’t seem to have a real target audi-
+ence, but when you really look at it has a lot to offer. The people who
+will want to look into the Fire HD, are not really that focused on apps,
+but more into the ebook/music scene. The speakers as well as the un-
+limited cloud storage seem promising. I, however, really like this free-
+ebok-if-you-are-an-amazon-premium-member thing, maybe you do
+too!
+Price: £159 - £199
+Release Date: 25th
+October
+Memory: 16GB and 32GB
+OS: Modified Android 4.0 (Ice Cream Sandwich)
+Microsoft Surface RT
+The Surface, if it comes out as described, will be a game-changer in the
+tablet business. The fact that you have a USB port, a touch keyboard
+cover, as well a kickstand for it to stand on its own, makes this tablet
+pretty much a laptop (or “hybrid”). This may be the best option for a
+student, considering you get most of Microsoft office as well as a 10.6
+inchw screen, but sadly the price may put some people off.
+Price: £400
+Release Date: 26th
+October
+Memory: 32GB and 64GB with options to add more
+OS: Windows RT
+Google Nexus 7
+Google’s foray into the tablet market has been a successful one, and
+this tablet is for those who are not happy to be limited. Android is
+the Windows of the tablet world, and such modifiability will appeal to
+many tech-oriented students. The inclusion of NFC will also appeal to
+those who have a Android device with Android beam.
+Price: £159 - £199
+Release Date: Out Now
+Memory: 8GB and 16GB
+OS: Android 4.1 (Jelly Bean)
+Microsoft Surface RT
+he Nexus 7 was hoped to
+be the Android answer
+to the iPad in the low-
+budget tablet market and
+from the reviews it really
+does seem that way. The tablet, made
+by Acer and Google, is the most suc-
+cessful Android to date (barring the
+Kindle Fire if you count that as An-
+droid), so perhaps this is the one for
+you!
+The Nexus comes with an extremely
+sharp 7 inch screen, as well as good
+battery life, wiﬁ and NFC technol-
+ogy. This allows you to use Android
+beam with other Android devices
+with NFC, which makes sharing ﬁles
+even easier. Sadly the Nexus does
+not come with a rear camera, which
+means if you want to take pictures
+with your tablet (but honestly, who
+really does?) you not only have to get
+a camera app, you also have no op-
+tion to see a preview of your picture.
+Compared to the other tablets looked
+at here, it’s quite a bit heavier consid-
+ering its size.
+The hardware might not sound so
+awe-inspiring, but it’s the software
+that really does this trick for this tab-
+let. The Nexus is the ﬂagship of the
+Android tablet world, and thus it has
+the newest Android version (Jelly
+Bean) and will most likely will be the
+ﬁrst to get further updates. Further-
+more, if you are someone who likes
+to get inside the guts of their pos-
+sessions, Android is the way to go, as
+it (along with other Nexus devices)
+comes with a Boot Loader, which al-
+lows the user to get privileged con-
+trol of the devices subsystems. Thus
+you can modify how your Nexus 7
+will work. This freedom is unique
+to the Android experience and a big
+selling point for people who want to
+control their environment and not be
+controlled by it. Another positive of
+Android is the integration that it has
+with your Google account and more
+importantly with Google Maps, as the
+whole Apple Maps ﬁasco shows how
+important mapping really is to users.
+This tablet is the only one out at
+this very moment, and so you could
+go and buy it right away. Maybe you
+will when you hear the price: £159
+& £199 for the two variations. This
+is deﬁnitely an absolutely amazing
+deal for what you get, and if you are
+an Android person you should really
+consider this tablet for Christmas or
+generally to buy.
+Google Nexus 7
+W
+T
+

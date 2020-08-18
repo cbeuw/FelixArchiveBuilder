@@ -1,0 +1,211 @@
+On a small farm, nestled deep in Northern Utah,
+something extraordinary is happening: creatures
+are being bred that are part goat, part spider. Last
+week’s episode of the BBC’s epic science series
+Horizon followed Adam Rutherford as he jour-
+neyed to meet these fascinating hybrids and their
+creator to find out more.
+In charge of the unusual herd is Randy Lewis,
+a professor of genetics at Utah State University.
+The farm is a university outpost where they re-
+search modern farming techniques, teach ani-
+mal husbandry and raise the intriguing “spider-
+goats”.
+Since the first genetically engineered bacteria
+in 1973, we have been able to exploit the uni-
+versality of the DNA code by cutting and past-
+ing bits of DNA from one species into another.
+More recently, this editing technology has pro-
+gressed and expanded into the field known as
+synthetic biology, and DNA code is effectively
+interchangeable between all species.
+Using synthetic biology techniques, Randy and
+his team have taken the gene that encodes drag-
+line silk from an orb-weaver spider and spliced it
+into DNA coding for milk production in the goat
+udders. This new genetic sequence was then in-
+serted into an egg and implanted into a mother
+goat.
+Now when their beloved spider-goats, Freck-
+les, Pudding, Sweetie and the gang, lactate their
+milk is full of spider-silk protein – they produce
+“silk-milk”.
+The milk is then processed to extract the spider
+protein and run around a spool to be collected.
+This process is considered extremely exciting
+because naturally occurring spider silk is widely
+recognised as the strongest, toughest fibre known
+to man. Its tensile strength is greater than steel yet
+it is 25 percent lighter than synthetic, petroleum-
+based polymers.
+“We’re interested in dragline silk – the silk that
+spiders catch themselves with when they fall. It’s
+stronger than Kevlar. It really has some amaz-
+ing properties for any kind of a fibre,” Randy
+explained.
+It could be argued that breeding spider-goats is
+merely an extension of our 10,000 year old farm-
+ing practices. All livestock and arable products
+have been genetically selected. They are careful-
+ly bred to produce the most desirable character-
+istics with each cross being a genetic experiment
+of its own.
+“The trouble is, you can’t farm spiders,” Randy
+mused. “They’re very cannibalistic.”
+The impressive and desirable properties of
+spider silk means Randy’s apparently bizarre
+research is extensively funded. Studies have
+shown that the silk is not only incredibly strong
+by is also compatible with the human body. So
+Look out! Here comes a spider goat
+An actual spider goat... Batteries not included
+Want to write for Felix Science?
+Email us: science.felix@ic.ac.uk
+far, no inflammation or negative reaction has
+been found when the silk has been inserted
+into the body. It’s already known that silk good
+enough to be used in ligament repair can be made
+and it is hoped that, within a couple of years, tests
+to determine the best designs and the best materi-
+als that can be produced, will be underway.
+This could include creating strong, tough artifi-
+cial tendons, ligaments and limbs; repairing other
+tissues; healing wounds; or creating super-thin,
+biodegradable sutures for eye or neurosurgery.
+As amazing as it is, this extraordinary piece
+of bioengineering isn’t even on the cutting edge
+anymore. The fast moving field of Synthetic Bi-
+ology now incorporates an extensive variety of
+genetic exploration techniques; and personally, I
+can’t wait to see what they come up with next.
+Horizon: Playing God presented by Adam
+Rutherford is available on BBC iPlayer
+Is there something more we can learn from the
+sounds emitted by bacteria and viruses? Even
+though microbes cannot ‘speak’ in the way that
+animals can, scientists believe that there is a lot
+to learn from the noises produced when small or-
+ganisms move around.
+Until now, these vibrations had always been
+thought too weak to be picked up by any con-
+ventional device. This is why optical physicist J.
+Feldmann and the Photonics and Optoelectronics
+Group at the University of Munich recently de-
+veloped the world’s tiniest ear. The ‘ear’is a par-
+ticle of gold, 60 nanometres in diameter, that by
+vibrating in response to passing waves can pro-
+vide useful information about very faint sounds.
+This method exploits some basics principles of
+physics: when a wave passes through a medium,
+particles in the medium respond by oscillating
+with the same frequency of the wave. By study-
+ing the response of the gold particles to sound
+waves, researchers are able to investigate the na-
+ture of the vibration.
+One of the gold particles is immersed in water
+and held in place by a laser beam that serves as
+‘optical tweezers’– a technique invented in 1986
+and widely used in modern molecular biology
+and genetics. Energetic pulses of light are then
+fired at similar particles trapped around it with
+the same method. By heating up, they generate
+a disturbance in the water, leading to a compres-
+sion-decompression process that generates a
+sound wave. Scientists are thus able to analyze
+the movement of the first particle (the ‘nano-ear’)
+and gather information around the nature of the
+wave. By varying the frequency and the orien-
+tation of the light pulses, the scientists saw that
+the particle would match the new frequency and
+align its vibration with the new direction.
+Dr. Ohlinger, one of the authors of the study,
+claims that this nano-microphone “allows us
+to get closer than ever to microscopic objects.”
+Never had it been possible to have such a great
+sensibility before, affirms co-author Dr. Lutich:
+results showed that the nano-ear could pick up
+sounds down to about minus 60 decibels – an in-
+tensity one million times smaller than what the
+human ear is able to detect.
+This technology could lead to a new and revo-
+lutionary way to study the microscopic world.
+As well as helping us understand better the way
+microorganisms function, it could also be imple-
+mented in the study of cells affected by certain
+diseases. For example, red blood cells vibrate
+less if infected with malaria than healthy ones.
+However, there are still some problems scien-
+tists will need to solve. One of the major issues
+appears to be the capacity to distinguish between
+sound waves and other type of vibrations such
+as the ones caused by random molecular move-
+ments. Biophysicist Dr. Oddershede of the Niels
+Bohr Institute in Copenhagen, told the journal
+Science that the project still needs to go through
+a long process of refinement before acoustic mi-
+croscopy can become a reality. She is neverthe-
+less quite optimistic about its future: “It’s a re-
+ally interesting idea, and […] this paper is very
+inspiring. I do believe they can relatively quickly
+improve the equipment.”
+Despite these initial difficulties, the researchers
+are convinced that we are on the right path not
+only to see, but also to hear what the world of
+microorganisms has to tell us.
+DOI: 10.1103/PhysRevLett.108.018101
+Michele Tonutti
+A popcorn map, obviously
+FELIX
+Friday 27 january 2012
+8
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+Nano-ear can hear microorganisms
+In brief
+Ancient popcorn found in Peru
+They may not have had any decent bowls to eat it
+from, but new research suggests that, as long ago
+as around 4600 BC, ancient Peruvians were eat-
+ing popcorn. A research group led by Tom Dillehay
+from Vanderbilt University, and Duccio Bonavia, from
+Peru’s Academia Nacional de la Histori, have found
+South America’s earliest ever examples of corn
+‘microfossils’, at two mound sites, Paredones and
+Huaca Prieta, on the northern coast of Peru. These
+fossils, together with some of the oldest known corn
+cobs, husks, stalks, and tassels, discovered at the
+site, indicate that the area’s ancient inhabitants
+were using corn in a variety of ways, from corn flour
+to popcorn – despite it not yet being an important
+part of their diet.
+What makes this story even more fascinating is
+that, with this discovery putting popcorn on the Peru-
+vian map around 2,000 years earlier than previously
+estimated, such use of corn now predates the first
+known examples of ceramic pottery in the region.
+In a paper recently published in the Proceedings of
+the National Academy of Sciences, Dolores Piperno,
+of the Smithsonian Tropical Research Institute, ex-
+plains how the domestication of corn, originating in
+Mexico around 9,000 years ago, spread in only a few
+thousand years to South America, and thus “in many
+areas corn arrived before pots did.” She goes on to
+conclude about the ancient Peruvians that “early ex-
+perimentation with corn as a food was not depen-
+dent on the presence of pottery”.
+The complex history of the hundreds of varieties of
+corn now present is still largely unclear, especially for
+such early time periods, as any historical evidence of
+corn cobs or kernels were hardly well preserved in
+the humid tropical rainforests between Central and
+South America where the crop is thought to have
+been originally dispersed. The wealth of information
+provided by this new data is therefore incredibly valu-
+able in trying to get a glimpse of how and where corn
+became what it is today.
+Arianna Sorba
+Emma Houghton-Brown
+Pamela Belding – STRI
+

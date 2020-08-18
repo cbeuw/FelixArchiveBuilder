@@ -1,0 +1,317 @@
+22
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 18 JUNE 2010
+Sort your journal library
+with Papers for Mac
+Samuel Gibbs checks out Papers for Mac OSX and iPhone/iPad
+R
+eading peer-reviewed jour-
+nal articles is one of the most
+crucial parts of studying sci-
+ence. Whether you’re an un-
+dergraduate trying to write a literature
+review or a researcher trying to find a
+new method, journals are the primary
+way of sharing new information on
+research topics with both specialists
+and generalists. Most, if not all journal
+articles are published online for down-
+load in PDF format ahead of their print
+debut. If you or your institution have
+a subscription to the journal, or it’s an
+open journal like the PLOS series, then
+you can easily find and download the
+article with PubMed or another peer-
+reviewed journal index. Once you’ve
+got the journal of course it’s a simple
+matter of just loading up your PDF
+reader of choice to read it. For one ar-
+ticle that’s fine, but imagine you read
+several articles a day and end up a li-
+brary of journal articles totalling into
+the hundreds, how do you keep them
+organised?
+Endnote by Thomson Scientific is
+the current industry standard bibliog-
+raphy program and it’s recently been
+updated in the last few iterations to
+support attaching PDFs to citations. If
+you’re on a Windows PC, Endnote is
+about as good as you can get, but those
+on a Mac have a lot more choice.
+Of course you can use Endnote on
+the Mac, but it’s not a very ‘Mac-like’
+experience. Mekentosj’s journal library
+program Papers, is one great example
+of a very Mac-like and effective piece
+of software. It handles the download-
+ing of citations and the articles asso-
+ciated with them, lets you view and
+edit the meta data of each paper, plus
+Papers lets you read the article both in
+preview and full screen reading mode
+right from within the application. One
+A
+nother week has flown by
+and we’ve reached the end
+of another accademic year.
+So, it’s with a heavy heart
+I have to say, thanks for reading the
+technology section of felix this year. It’s
+been a year to remember and 2010 is
+only just getting started.
+In the computing space we’ve had
+Google execs facing jail-time, as well
+as big G’s move out of China due to
+censorship. We’ve had the continual
+battleground of processors move away
+from the Intel Vs. AMD and into the
+x86 Intel Vs. the ARM SOCs realm.
+We’ve also seen Apple unveiling the
+‘revolutionary’ iPad, which caught the
+world by storm selling out in the US
+to the detriment of launches in the
+rest of the world. Who’d have thought
+a $500 massive iPod touch would be
+quite the success it has been, especially
+Well this is it folks, felix is sign-
+ing off for the year and so it’s
+time to wrap-up the week’s
+tech news one last time.
+OnLive, the company that
+promises console quality gam-
+ing in your browser thanks
+to the cloud, went online on
+Thursday. Limited to just the
+US for now, the service costs
+$4.95 per month with an im-
+pressive list of titles available to
+play right now, including Mass
+Effect 2, Assassin’s Creed 2 and
+Dirt 2 amongst others. Not bad
+for a service that could have
+easily stayed vapour-ware.
+Sticking with cloud ser-
+vices, Google has added a ru-
+dimentary video editor to it’s
+YouTube service. While it’s
+no iMovie, the editor lets you
+cut, combine and crop video
+content before upload. It’s fast,
+simple to use and in the cloud,
+what more could you want on
+the go? iMovie on your iPhone
+4 perhaps?
+Cineworld this week also an-
+nounced that it’ll be going all
+digital projection within three
+years. Converting all 77 of it’s
+cinemas across the country
+to pure digital is going to cost
+Cineworld in the region of £40
+million, including £10m the
+chain has already pumped into
+upgrading a third of it’s 790
+screens. Going digital should
+allow the cinema chain to re-
+duce the price it pays for films
+though a ‘Virtual Print Free’
+deal with the studios, mean-
+ing that the cost shouldn’t be
+passed onto the customer.
+The upgrade, done in partner-
+ship with Arts Alliance Media,
+will allow them to show sport,
+plays, opera and other alterna-
+tive content on the big screen.
+Gone are the days of print and
+reels, but is it truly better?
+E3 had the gaming industry
+buzzing this week, with un-
+veils from Microsoft, Sony and
+Nintendo taking prime spots.
+First out of the gates was Mi-
+crosoft showing off it’s new
+Xbox 360 (that’s the 360 ‘slim’
+to you and me) and it’s ‘Kinect’
+motion sensing
+gaming plat-
+form, which was known by it’s
+development name, Project
+Natal. It’s going to be avail-
+able come November for the
+rumoured price of $150, whilst
+the 360 slim hit these shores
+on Wednesday for £199 sport-
+ing a 250GB HDD and built-in
+WiFi.
+Sony, not to be out-
+done by Microsoft,
+unleashed their take
+on the motion gam-
+ing genera with the
+PlayStation Move.
+Scheduled for a Sep-
+tember 19th release, Move
+uses the PlayStation Eye and a
+Move controller, which looks
+like a black Wiimote with a
+lolipop on the top. Whilst the
+Move and Eye can be had in a
+pack costing $99 with Sports
+Champions, Sony’s version of
+Wii Sports, the Navigational
+controller is an extra $30. A
+PS3 plus Move bundle will be
+available at launch for $400.
+Sony wasn’t done there
+though, they also announced
+that the PSN, Sony’s free on-
+line gaming service, is getting
+a paid add-on upgrade. Play-
+Station Plus will cost $49 a
+year and bring with it exclusive
+DLC and other content, early
+access to betas and demos,
+auto-updating and free full
+games to play, which’ll change
+each month. Great for those
+looking for a little bit extra
+from the already solid PSN.
+Last, but not least, we had
+Nintendo with it’s latest 3D
+iteration of the DS. Imagina-
+tively named the 3DS, it comes
+packing an impressive glasses
+free 3.5” 3D widscreen, a 3D
+effect slider, a motion sensor, a
+gyro, a ‘slide pad’ joystick, two
+cam-
+eras
+for 3D
+photos
+and im-
+proved
+graph-
+ics.
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Samuel
+Samuel
+Gibbs
+Gibbs
+Technology
+Editor
+Waving madly
+at your screen
+SamuelGibbs
+SamuelGibbs Technology Editor
+of the killer features of Papers is the
+ability to just drag and drop a PDF ar-
+ticle into the program and it’ll do the
+rest for you. Should the meta data in
+the PDF not be good enough to iden-
+tify a citation match, Papers will then
+ask you to select or search from a cou-
+ple of options for the correct citation.
+Of course once you have your library
+imported into Papers, which you can
+do from Endnote amongst others,
+searching it with Spotlight is a breeze,
+by keyword, author, year or journal.
+The searching doesn’t stop there as
+Papers also lets you search PubMed
+and a few other indexes directly from
+the program. Organising your articles
+in Papers is also incredibly easy to do
+using drag and drop to simply move
+articles into and out of folders or col-
+lections. For instance if you happen
+to have a particular project you’re re-
+searching and a subset of your journal
+library directly applies to it, you can
+quickly and easily create a separate
+folder in your library and sort your
+downloaded articles in there.
+Perhaps the thing that sets Papers
+apart from all other journal library
+managers is the ability to sync with an
+iPhone and iPad app. Wirelessly sync-
+ing your iDevice means you can take all
+or a subset of your journal library with
+you on the go for reading or reference.
+Papers syncing goes both ways how-
+ever, enabling you to search for, down-
+load, read and modify the meta data of
+journal articles on your iPhone then
+sync them back to your Mac. A simply
+fantastic feature if you happen to be at
+a conference and someone mentions a
+great paper you should check out.
+There’s no doubt that Papers is a slick
+and capable journal library organiser
+and it has a lot of nice features, but it
+lacks one crucial feature to make it the
+be-all and end-all ‘iTunes for journals’
+and that’s a cite-while-you-write func-
+tion. Papers can’t itself insert citations
+into your word processor of choice.
+You can however export a library of
+citations to your cite-while-you-write
+engine of choice, be it Endnote or even
+the reference manager built into Mi-
+crosoft Word 2008. It’s not a bad solu-
+tion, but Papers just begs to have it’s
+own word processor citation engine,
+and it means you can’t just rely on Pa-
+pers to get your work done.
+If you just want to organise and read
+journal articles on your Mac or want
+to take them with you on your iPhone,
+then you can’t got far wrong with
+Papers.
+Costing €29 (about £25) from Me-
+kentosj.com, Papers for Mac is also
+available with 40% student discount.
+Papers for iOS costs £8.99 and is avail-
+able from the iTunes App Store.
+Papers lets you catalogue, read and sync your journal article PDFs to your iPhone or iPad for reading on the go
+motion sensing
+i l
+tho
+tha
+line
+a p
+Sta
+yea
+DL
+acc
+p j y ,
+D
+-
+in the economic downturn we all still
+face. Perhaps we shouldn’t have put it
+past Apple. It’s sheer desirability is the
+envy of electronics manufatures the
+world over. But of course Apple wasn’t
+done with revolutionishing the tablet
+computing space, oh no! The iPhone
+4 launch is just round the corner and
+already they’re out of pre-order units.
+With FaceTime and slew of other evo-
+lutionary improvements, Apple’s Jesus
+phone looks likely to repeat it’s success
+evermore.
+But wait, we’ve also had a massive
+expansion of Android in the mobile
+space, with HTC and Dell churning
+out some truly mind-boggling smart-
+phones. Palm also, sadly, ceased to be
+independent this year and we wait with
+baited breath to see what HP has up it’s
+sleeve for the father of the mobile com-
+puting ecosystem.
+

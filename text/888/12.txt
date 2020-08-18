@@ -1,0 +1,207 @@
+Douglas Makhija ponders the future of our public transport.
+T r a i n s !
+I often find myself assessing the true
+worth of m y season ticket while
+commuting daily to and from College
+through mostly subterranean channels.
+Three factors carry the most weight in
+my assessment: the comfort of the ride
+on the system, the speed at which I a m
+conveyed to m y destination and the ease
+of changing between modes of transport
+(when the need arises). It is clear that
+what, in m y view at least, is the ultimate
+solution to the problems caused by the
+inherent imperfections of the concept of
+of public transport (that can be easily
+perceived by any old twit w h o travels on
+the tube in the rush hour) would require
+infrastructure changes so radical that it is
+unlikely that they would ever be
+implemented.
+The first area of public transport that
+could be approached (and, in fact, is
+being approached—albeit at a very
+leisurely pace in the United Kingdom) is
+that of the comfort of ride o n the mode
+of transport in question. In the case of
+the bus, the Leyland Titan of 1977
+represented the major leap forward in
+performance and ride, but the progress of
+the bus is severely limited by the
+dimensional constraints imposed by road
+widths and bridge clearances. Numerous
+improvements can still be made to the
+high capacity rapid transit 'toothpaste
+tubes' that one has the daily pleasure of
+being squeezed into a n d out of, morning
+and evening. W i t h modern semiconductor
+devices being introduced into electric
+traction packages, vehicle performance
+has improved a n d better ride quality has
+resulted from efforts to save energy.
+Inside the trains, problems caused by
+antisocial tendencies (similar to the classic
+'seats being taken on a bus' analogy that
+is often used to explain Pauli's exclusion
+principle) have been solved by removing
+most of the seats for future designs of
+trains. The estimates of packing density in
+gangway spaces have also been increased
+from 4 to 6 passengers standing, or rather
+suffocating per square metre.
+Increasing passenger capacity is not
+sufficient: the fact that the platforms of
+some principal node stations on the
+London Underground network can fill up
+to 'genocide-on-the-track' point from
+virtually empty within 90 seconds does
+imply that an increased frequency service
+is desperately needed. This means that
+more trains are required w h i c h in turn
+implies that more money is needed which
+means that unless the tube receives a
+generous donation of £500m from the
+Ikimichinatsubishi Bank of Japan in
+return for some advert slots...basically,
+not in m y lifetime.
+Trains have to be closely spaced in
+order to derive full benefit from the
+availability of more rolling stock. The
+Transmission Based Signalling (or TBS)
+concept has gained ground following the
+advent of popular, inexpensive
+microcontrollers. The trains inform each
+other of their relative positions so, if one
+train brakes to a halt, a train directly
+behind it will be informed of the velocity
+change and consequently will
+progressively brake to stop a fixed
+distance behind the first unit. The system
+has also found application in an automatic
+motorway driving experiment conducted
+by Volkswagen in 1989: three cars were
+successfully driven as a 'train' using lane
+markings as guideways and, through the
+use of radio intercommunication, were
+able to sustain 80mph driving at distance
+of '/zm apart, without being physically
+connected in any way.
+Transmission Based Signalling is finally
+being turned into reality i n the U K : the
+Docklands Light Railway i n East London
+is being re-equipped with a T B S signalling
+system to increase train frequency in time
+for the opening of the Canary Wharf
+business development. The Docklands
+Light Railway has demonstrated the
+ability of light rail transit to adapt to a
+rapidly changing environment with ever-
+increasing usage. The success of the
+Docklands Light Railway has paved the
+way for other light rapid transit systems
+in the United Kingdom: the Manchester
+Metrolink, featuring street-running of
+single-deck light rail vehicles through the
+city centre, is due to open later this year,
+and there are other systems planned for
+Birmingham, Sheffield and Bristol, to
+name but a few. Current trends seem to
+suggest that privately financed light rail
+transit will be dominant among new
+transport projects in the U K , as well as
+worldwide, in this decade.
+The final failing of the public transport
+system that I would like to dwell upon is
+that of changing: between lines on the
+tube, between tube, train or bus, etc.
+Those of us w h o know what it is like to
+be a 'Metro, Boulout, Dodo' zombie
+would certainly like to see an end to
+having to change between different lines
+on the tube: being trampled upon on the
+escalators a n d being pushed on the track
+in front of an approaching train while
+waiting for it on a platform packed to
+'fire hazard' point. A simple solution
+would be to connect the lines together at
+the stations where they cross and to run
+through services between them. This
+could be taken much further: to avoid
+under-utilisation of large capacity
+vehicles, w h y not make them much
+smaller, say with only four seats and no
+straphangers? Eventually, having finished
+contemplating Autotaxis, one would reach
+the ultimate goal of a unified standard
+personal transport system, with a flexible
+TBS system being provided by an
+observation satellite. A l l vehicles would
+be automatically driven to the
+destinations specifed by the user. They
+would be capable of operating over
+railway and standard roadway
+infrastructures. With personalised
+transport taking over o n such an
+enormous scale, public transport would
+die an instant death (however, this would
+not necessarily mean mass-unemployment
+for train staff: take computer scientists for
+example; they claim that their job
+specification is that of making themselves
+redundant, but the ascendancy of the
+incomprehensibly complex Unix operating
+system means that they are likely to have
+gainful employment for m a n y years to
+come).
+Would all this even be necessary? The
+population may all end up w o r k i n g from
+home a n d the only item needing
+transportation would be information. The
+world m a y become full of couch-potatoes
+firmly rooted in front of their television
+sets (if television is needed by that time).
+Ultimately, the question m a y boil down
+to whether the industrialised world would
+like to sit a n d rot, feeding itself o n a
+stream of binary digits, or whether it
+would prefer to take both the good and
+the bad in life, having something better
+to look forward to, rather than dying a
+premature death of boredom, not to
+mention under-exercise.
+I have found that, despite having to
+endure daily suffocation, travelling on a
+public transport network forces one to
+acknowledge that other homo-sapiens are
+still in existence (whatever the situation
+in the Gulf crisis may be). Public transport
+may not appeal to the environment-
+unfriendly business executive, but it is
+still of vital importance to us lesser
+mortals w h o are not granted parking
+permits in Central London. M y hope is
+that future governments will never
+neglect this vital service again, learning
+the lessons arising from the excessive
+frugality of the 1980s, the lessons of the
+worst cases that were previously assumed
+improbable; the King's Cross fire of
+November 1987 is an example that
+forever lingers in m y memory, especially
+since 1 can remember riding on the
+squeaking escalator, where the tragedy
+started, in the morning on the very day
+that the fire occurred. It must always be
+remembered that nothing is impossible to
+irresponsibility: one hopes that the 31
+deaths on that fateful evening were not in
+vain.
+INTERESTED?
+W a t c h the d o c u m e n t a r y on ' T h e
+Docklands Light Railway' at 1pm
+on T u e s d a y January 1 5 (Gulf war
+permitting) in the Union S n a c k Bar,
+J C R and halls.
+14
+

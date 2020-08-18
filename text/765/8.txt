@@ -1,0 +1,446 @@
+Featura FELIX, Friday February 27th 1987 9
+E n v i r o n m e n t a l w e e k
+at Imperial C o l l e g e
+s t a r t s o n M o n d a y .
+In t h e third o f a
+s e r i e s o f a r t i c l e s i n
+F E L I X w e present a
+survey o f
+" a l t e r n a t i v e "
+s o u r c e s o f energy.
+When the word 'energy' is mentioned
+to you, any of a multitude of concepts
+may spring to mind. If you are a
+physicist, perhaps you immediately
+think 'mc2
+'; if you are a life
+scientist, you may think of
+photosynthesis, carbohydrates and the
+Krebs cycle; electrical engineers
+might go for kilowatt-hours, power
+stations and transmission lines,
+whereas mining students, at the sharp
+end of the energy supply chain, will
+probably think of energy in terms of
+coal, oil, gas or possibly even
+uranium.
+I mention all these possibilities
+simply to show that the work of
+almost everyone at Imperial involves
+energy in one or more of its
+conceptual or physical forms. But
+perhaps none of these ideas is the first
+to enter your consciousness. If your
+feet are firmly planted on the ground
+and not halfway up the ivory tower
+of scientific esotericism, the mention
+of energy to you might conjure up
+thoughts of that quarterly panic when
+the gas or electricity bill land on your
+doormat at the same time as the letter
+from your bank manager. If this is the
+case, then you are probably more
+aware of the relevance of the energy
+question to an average citizen than
+any of those whose minds run on the
+tracks of their chosen subject. Energy
+is money: it is one of the four inputs
+which govern all economic activity
+(the others are labour, capital and raw
+materials). To an economist, the value
+of a potential energy source lies in its
+ability to minimise costs.
+What of the future?
+So far, so good. But there is a great
+danger in assuming that a
+conventional economic analysis will
+always provide the 'right' answer as
+to which source of energy is best for
+society. The reason for this can be
+summed up in two words: future
+uncertainty. To those without a
+crystal ball, factors such as the price
+of oil and future electricity demand
+can, when projected into the future,
+at best only have probabilities
+assigned to them. And there are other
+unknowns: public opinion in the wake
+of nuclear accidents such as occurred
+at Chernobyl; changes in the
+government and resulting shifts in
+energy strategy: future advances in
+technology; the state of the world
+economy—the list is endless. All this
+makes the job of predicting the future
+patterns of energy supply and demand
+a particularly difficult and somewhat
+subjective task.
+A topical example illustrates the
+problems involved. Those who have
+taken an interest in the Sizewell
+nuclear power station inquiry will
+know that the report, published a few
+weeks ago, expresses the economic
+attractiveness of the pressurised water
+reactor (PWR) as a probability: there
+is a one in 20 chance of a coal-fired
+power station being cheaper.
+However, in the two years between
+the end of the inquiry and publication
+of the report, coal prices have risen
+by a much smaller amount than was
+A l t e r n a t i v e E n e r g y
+predicted. As a result, a coal-fired
+power station looks considerably
+more attractive economically and may
+well be cheaper than the PWR. In
+addition, the accident at Chernobyl
+has had a major effect on public
+opinion, with a majority now being
+opposed to any expansion in the
+nuclear programme; the government
+may do its best to convince the
+electorate that nuclear power is safe,
+but it ignores people's doubts at its
+peril. Even if the government decides
+to go ahead with the project, its
+completion is far from certain since
+the Labour Party is committed to
+reversing this decision if it comes to
+power.
+Beyond economics
+The problem of uncertainty is
+present whatever one's priorities, but
+a further difficulty presents itself
+when we look further than the
+economist's balance sheet—
+conventional economics takes little or
+no account of the effect of energy
+supply and use on the environment.
+It is easy to see why: how does one
+put a price on pollution of the
+atmosphere, possible hazards from
+nuclear waste, visual impact, acid
+rain, and all the other ways in which
+energy conversion impinges on our
+surroundings? Such social costs are
+labelled 'externalities' by economists:
+in other words, they are external to
+the price system which governs the
+allocation of resources, and therefore
+cannot be incorporated easily into an
+economic analysis. Several methods
+of dealing with externalities have been
+proposed but they are rarely used in
+practice. The net effect is that the
+costs attached to environmentally
+damaging technologies do not reflect
+their true social costs. If they did, the
+more environmentally benign
+'renewable' energy sources—wind,
+hydro-power, sun, tides, waves—
+would be seen in a much more
+favourable light, as would energy
+conservation measures. Indeed,
+conservation is the most
+environmentally sound as well as the
+most practical approach, since we can
+all help in the elimination of waste.
+This is the background against
+which the value of renewable energy
+and conservation of energy should be
+assessed. We will now go on to
+consider some of the technologies
+involved, indicating the progress that
+has been made so far and what the
+future may bring.
+WIND POWER
+The UK may be deficient in
+sunlight, but it does not lack wind.
+For this reason, wind power may well
+be the most attractive of the renewable
+energy technologies, a point which is
+borne out by the number of wind
+turbine generators that already exist.
+This year, a 3 megawatt (MW) wind
+turbine will be completed on the
+Orkney Islands, where two smaller
+turbines already exist. The CEGB is
+planning to build a 1MW turbine at
+a less windy site in Kent. A number
+of smaller machines exist around the
+country, particularly on remote and
+windy island sites, and many more are
+in use abroad, particularly in
+Denmark and the USA.
+The British Wind Energy
+Association has calculated that, in
+large numbers on good sites, wind
+turbines could produce electricity at
+around 2p/kWh (compared with
+2.9p/kWh for Sizewell B). Most
+existing wind turbines are of the
+horizontal axis type, like traditional
+windmills (though their appearance is
+somewhat more high-tech!) but there
+is a body of thought which believes
+that a vertical axis would be more
+appropriate since the machine does
+not need to be rotated to face the wind
+and because the generating equiment
+can be located at the base of the
+tower, thus reducing costs and
+making maintenance easier. A 160kW
+prototype has already been installed
+at Carmarthen; this design is
+ultimately intended to be used in a
+full-scale offshore machine. This is
+important, since there may be
+objections to siting large numbers of
+machines on exposed sites on land;
+offshore, this problem does not exist,
+although the cost is inevitably higher.
+The size of the offshore wind resource
+is immense: one estimate suggests that
+even allowing for shipping lanes and
+the like, offshore turbines could
+produce an amount of electricity
+equivalent to over half the UK's
+current consumption. Since the
+fluctuating output from wind turbines
+restricts their potential contribution to
+around 20% of our electricity needs,
+the resource is clearly not a limiting
+factor.
+Much remains to be done to
+establish suitable sites for wind
+turbines, to improve their reliability
+and reduce their unit costs. But there
+is little doubt that large wind turbines
+could play a major role in a future
+electricity supply system, and with
+little or no environmental damage.
+WAVE POWER
+Here are some of the facts on wave
+power:
+• The coastal waters of the UK have
+average wave powers which are
+among the highest in the world.
+• A CEGB analysis has put the
+feasible contribution of wave energy
+to the national supply at around
+10GW—about 'A of total demand.
+• The fuel costs nothing and is
+non-polluting.
+• Dept. of Energy studies have
+concluded that full scale devices
+would produce "no major deleterious
+environmental effects."
+• Norway has 2 fully operational
+wave power devices delivering
+electricity to a local grid at an
+estimated cost of 2.5p per Kwh.
+However, in 1985 the UK
+Government abandoned all research
+on wave power. Ignoring Norway's
+results, the estimated costs for wave
+energy have fallen in the last ten years
+from around 50p per kwh to below
+lOp per kwh. This fact together with
+savings from continued design
+improvement would seem to suggest
+that wave energy would soon be
+economic. But despite spending over
+ten years, less than a quarter of what
+was spent on the Sizewell case alone,
+all the UK has is a £2m report
+rejecting wave power whilst the
+Norwegians benefit from cheap
+electricity from 2 machines costing
+£lm.
+SEVERN BARRAGE
+Boon or burden? Although severely
+criticised for how it may alter the
+existing ecological balance in the
+Severn Estuary, the Severn Barrage
+may offer the most practical,
+innovative and clean approach to
+electricity generation this century.
+Based on the concept of tidal power,
+the Barrage would cross the Severn
+Estuary between Cardiff and Weston-
+Super- Mare, providing electricity by
+the power of the tides driving turbines
+in huge concrete cassions. Other
+advantages include a new road
+between Wales and England, creation
+of huge employment, a permanent
+watersports haven and absolutely no
+pollution. The only disadvantage
+would be that a few mud-nesting
+species would bow to Darwinian
+selection. In short, a fantastic
+prospect for the CEGB and the British
+windsurfer!
+SOLAR
+PHOTOELECTRICS
+The photoelectric effect (the direct
+conversion of light into electricity)
+has been known since the middle of
+the nineteenth century, but practical
+solar cells weren't developed until the
+1950's. when expensive solenium
+cells were used on early US satellites.
+Although the photoelectric effect
+occurs in many materials, only a
+small proportion of incident solar
+energy is converted to electricity.
+Most solar cells today are made from
+silicon, having a conversion
+efficiency of around 10%, which
+means large arrays of cells are needed
+for significant power generation—10
+square feet is needed to power one
+100-watt light bulb!
+Despite this, solar cells offer
+perhaps the greatest potential for
+worldwide application of all the
+renewable energy systems. Countries
+still developing electricity supplies
+could avoid all the paraphenalia of
+large power stations, transmission
+networks, transformers and the rest
+by installing clusters of solar cells
+supplying power to towns and villages
+as and when needed.
+The biggest 'catch' is cost: at
+present solar energy is around ten
+times as expensive as nuclear, but
+such statistics can be misleading as
+they preclude distribution costs and
+environmental considerations. The
+inevitability of sunlight necessitates
+instantly available alternative
+generators or adequate storage
+capacity: either adds further to the
+cost; as does the need for d.c. to a.c.
+inversion. However, the problems are
+not unsurmountable: intensive
+research efforts to find new cell
+materials and methods of production
+are steadily bringing down costs, so
+that photoelecticity is expected to
+become competitive with
+conventional power generation by the
+turn of the century. In the UK solar
+energy is competivie in only remote
+low power applications at present,
+such as navigation beacons, but even
+here large scale generation should
+become a serious option in 10 to 15
+years time.
+Once installed it is the simplest
+power supply known. It is very
+reliable, needs no maintenance or
+chemical inputs, and may well outlive
+us all (and today's nuclear power
+plants!)
+PASSIVE SOLAR HEATING
+Solar power is a well known
+alternative source of energy, be it for
+small scale water heating or electricity
+generation. Passive solar heating has,
+up to now, remained the Cinderella
+of solar circles, which is a pity as it
+really works. Passive solar heating
+will heat your room by harnessing the
+sun's light as i> streams in through
+your South facing window. To make
+it more effective these windows
+would be made larger and 'thermal
+mass' within the room would store the
+heat which is later given off during
+darkness. Everyone enjoys a sunny
+room, this method allows it to pay for
+itself! As there are no moving parts
+there is no maintenance, nor
+pollution, nor any kind of waste
+product. Costs are extremely low.
+Passive solar heating can pay for itself
+in a couple of years, even in our
+climate, as a coherent package can
+reduce fuel bills by 50%. Fuel savings
+of this magnitude mean that if each
+new home were built incorporating
+passive solar heating our need for
+power stations in the future would be
+greatly reduced. How does 2 less
+nuclear power stations sound? Passive
+solar heating is so good the
+government has financially backed its
+development. All that is now needed
+is for you architects and civil
+engineers to make use of it.
+CONCLUSION
+It should be clear from the above
+paragraphs that renewable energy
+sources are not 'noddy' technologies.
+They have been described as 'soft',
+but this refers to their effect on the
+environment rather than the nature of
+the engineering involved. What can
+be said with considerable justification
+is that renewables are chronically
+underftinded in the UK: in 1985—86,
+the government spent over £ 170m on
+nuclear power R & D , but only £15m
+on renewables. Since much of this
+money goes towards making the
+technology economically attractive, it
+can hardly be argued that renewables
+are being considered on equal terms.
+A vicious circle is in operation: the
+less is spent on renewables relative to
+nuclear power, the less attractive
+economically they seem; and the less
+attractive they seem, the less is spent
+on them. One can only hope that a
+combination of environmental and
+economic enlightenment will enable
+the circle to be broken and the country
+set on the path of a sustainable, 'soft'
+energy future.
+ENVIRONMENTAL WEEK
+Finally, the most important bit.
+Next/this week (2nd—6th March) is
+Imperial College Environmental
+Week. This is your chance to learn
+more, not just about renewable
+energy (though there will be displays
+around the College on this theme) but
+also on the whole range of
+environmental issues. The aim is to
+increase your awareness of man's
+impact on the planet and what can be
+done to improve the situation—after
+all, many students at Imperial will end
+up in positions where their decisions
+have a major bearing on the
+environment.
+Events include:
+MONDAY:
+A debate between Kenneth Carlisle,
+MP (Con) and Chris Smith, MP (Lab)
+12.45pm Mech. Eng. 220
+TUESDAY:
+A talk by Michael Meadowcroft,
+MP (All)
+12.45pm Mech. Eng. 220
+WEDNESDAY:
+A talk by Jonathon Porritt, Director
+of Friends of the Earth
+12.45pm ?????
+PLUS: A stall in JCR, videos, films
+and exhibitions—see the posters
+around College for details.
+

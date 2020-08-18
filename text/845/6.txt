@@ -1,0 +1,176 @@
+While the European Space Agency continues to build larger multi-stage
+rockets to lob 13 tonne satellites into space, an alternative is being used
+for projects that do not need the sheer tonnage of a communications
+satellite. Liz Warren investigates the lure oflow-cost mini-satellites, and
+the legal nightmare of a space bonanza.
+Cheap space
+There are three main approaches to launching small
+satellites. The first of these includes systems such as
+Scout and LittLEO, which rely on tried and tested
+solid-rocket boosters. General Technology Systems,
+which is about to start the design and development
+phase of the LittLEO system, estimates that it will
+initially be lifting up to 750kg into low earth orbit and
+could possibly lift up to 1250kg.
+The second type of launcher aims to launch
+satellites from beneath the wings of a conventional
+aeroplane. Orbital Sciences is the chief developer of
+the Pegasus system, which will be launched initially,
+from a NASA B52 bomber. The company claims that
+launching from high altitudes will allow Pegasus to lift
+twice the payload of a ground-based system and that
+launches will be possible from any airport capable of
+accommodating the launch plane. The first
+commercial venture is scheduled for early Autumn this
+year when it will launch satellites for the US Defence
+Advanced Research Project Agency (DAR-PA) and
+NASA.
+A third alternative for microsatellites, those under
+150kg, is 'piggybacking' as auxiliary payloads on large
+commercial launchers such as American Atlas and
+European Ariane rockets. Most large rocket launchers,
+which can now lift three or four tons, have some spare
+capacity which is normally made up by ballast
+material. Ariane has developed an ASAP \Ariane
+structure for auxiliary payloads) platform which is
+capable of carrying six 'extra' minisatellites with the
+main payload.
+Other aspects of cheap access to space are being
+investigated by Surrey University. It has set up a
+commercial company, Surrey Satellites, which is
+looking for ways to make not only the launch but the
+satellite itself cheaper, for example by investigating
+the use of off-the-shelf components in preference to
+more expensive high specification components.
+The main issue is whether the launch systems can
+really deliver the performance being touted by
+company marketing divisions. Piggyback launchers
+have already proved their ability to handle
+microsatellites and Arianespace envisage up to three
+launch opportunities a year for small payloads. Small
+dedicated launchers have shown, through Scout for
+example, that they can lift microsatellites into suitable
+orbits. The use of conventional techniques in the
+larger LittLEO systems or the planned Scout 2 should
+ensure that launches are successful.
+There are doubts from all sides of the industry
+however about Orbital Sciences' claims for Pegasus.
+Dr Geoff Pardoe, Chairman of General Technology
+Systems reckons: 'Claims for an easy launch
+capability look good on paper...but it's not that simple
+to just take up and launch.'
+Pegasus also claims that it will be able 'to deliver
+approximately twice the payload to orbit of an
+equivalent ground-launched vehicle.' As Pegasus
+offers up to 400kg into low earth orbit, it will soon
+be outstripped by the planned capability of LittLEO
+and Scout. Pegasus also offers up to 650kg on high
+speed suborbital flights which has led to speculation
+that one of their largest customers may prove to be
+the US Department of Defense.
+Other problems that may arise with Pegasus
+particularly, and other launchers to a lesser extent,
+concern the legal responsibility for the satellites and
+launchers. Legal responsibility is enshrined in what is
+usually called the United Nations Outer Space Treaty.
+This states that 'there shall be free access to all areas
+of celestial bodies' and that 'there shall be freedom
+of scientific investigation in outer space'.
+Despite this, only three nations, the USA, the UK
+and Sweden, have acted on any national legislation
+governing space. The increase in commercial ventures
+involving more than one state, particularly with
+projects like Pegasus which Orbital Sciences hope to
+be able to launch from any country, means that the
+present legal framework will become inadequate
+unless the law is sorted out.
+Are these launch systems competitive? Principal
+backers, General Technology, estimate that LittLEO
+will cost less than £10 million per launch and Pegasus
+is quoted at $68 million per launch. These figures are
+considerably lower than using a conventional launch
+vehicle: it is estimated that NASA will save more than
+$10 million by launching their experiments on the
+Scout small launcher. The presence of new small
+launchers should also alleviate the backlog and delays
+caused by the Space Shuttle crash.
+The advent of a space plane could lead to even
+cheaper satellite launches and affect the market for
+these systems, but that is considered a long term
+change. General Technology estimates that it will
+have launched between one and two hundred LittLEO
+rockets by the time a space plane becomes viable and
+does not see it as a commercial threat.
+The interest that the companies involved with the
+launchers have received shows that there is a clear
+market for small, cheap satellite launchers, particularly
+in the scientific field. All the companies involved in
+small satellite launches feel confident that they can
+achieve commercial success. Describing the LittLEO
+system, Geoff Pardoe at General Technology Systems
+said, 'it will be the space van of the future, and we
+all know what a success Ford made of their transit
+van.'
+This
+yjeek
+• Animal rights campaigners have welcomed the
+latest manoeuverings of the Brussels's Eurocrats. The
+European Commission is to announce that it no longer
+requires the use of the controversial LD50 test for
+dangerous chemicals. The test, LD literally meaning
+Lethal.Dose, involves exposing animal subjects to the
+chemical until half of them die. An alternative fixed
+dose test will be used in future.
+Both the Royal Society for the Prevention of Cruelty
+to Animals and the British Union for the Abolition of
+Vivisection claim that this is an important step forward
+although there are no signs of an immediate end to
+animal experimentation.
+• Can women working at video terminals seriously
+damage the health of their unborn children? It has long
+been suspected that the radiation emitted by such
+displays can damage foetuses but, as yet, there has
+been no conclusive evidence. The evidence may come
+from New York's Mount Sinai School of Medicine
+which has set up a £2 million study of some 8000
+women who regularly use computers. 800 of these
+will be studied closely for a year during which time,
+the researchers hope, at least some will become
+pregnant.
+• Environmentalists have filed a lawsuit against the
+American Space Agency NASA over its Galileo probe
+to Jupiter. The probe, due to be launched from the
+Space Shuttle, contains 100kg of a Plutonium Oxide
+fuel which could be released into the environment in
+the event of a second Challenger disaster. The
+protestors refuse to accept NASA claims that the
+probability of another such accident is very low
+indeed.
+Meanwhile in Europe, the European Space Agency's
+spaceplane, Hermes, has hit more conventional
+difficulties. It has had to be redesigned and should
+now be launched in 1998, three years later than
+originally planned. ESA is also planning a second star-
+mapping Hipparcus satellite to replace the one
+currently going around the Earth in completely the
+wrong orbit after its engine failed. Researchers believe
+Hipparcus I is still usable but with a much lower
+resolution.
+• The LEP, the latest addition to the collection of
+particle colliders at CERN has produced over 4000
+short-lived Z° particles since it was started two
+weeks ago. In pre-LEP times only 700 such particles
+had been detected in all the other colliders in the
+World.
+• A car powered by Hydrogen gas has been revealed
+in Washington. The car, which is actually a modified
+Mercedes designed and built in Germany, was being
+used by the World Resources Institute to publicise a
+report advocating the use of Hydrogen as a fuel.
+The car stores its fuel in specially designed
+absorbing cells and can reach a top speed of 105mph.
+However in the great alternative transport tradition
+pioneered by the Sinclair C5, it has a working range
+of only 75 miles.
+Page 6
+

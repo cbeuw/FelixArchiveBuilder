@@ -1,0 +1,430 @@
+ISSUE 1715
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+14
+Can machine learning predict ovarian cancer survival?
+Machine learning software can lead the way towards more personalised medicine, predicting patient outcomes
+with significantly more accuracy than current methods
+SCIENCE
+Henry Alman
+Science Editor
+“The software
+was four times
+more accurate
+for predicting
+deaths than
+standard
+methods”
+R
+esearchers at
+ImperialCollege
+London and the
+University of
+Melbourne have created
+new machine learning
+software that can forecast
+the survival rates and
+response to treatments
+of patients with ovarian
+cancer.
+The software has been
+able to predict the progno-
+sis of patients with ovarian
+cancer significantly more
+accurately than current
+methods. It can also
+predict what treatment
+would be most effective
+for patients following
+diagnosis, paving the way
+for more personalised
+medicine.
+Ovarian cancer is
+the sixth most common
+cancer in women, with
+6,000 new cases every
+year in the UK. However,
+the long-term survival
+rate is just 35-40 per cent,
+as the disease is often only
+diagnosed in later stages
+once symptoms such as
+bloating are noticeable.
+Professor Eric
+Aboagye, lead author and
+Professor of Cancer Phar-
+macology and Molecular
+Imaging at Imperial, said:
+“There is an urgent
+need to find new ways
+to treat the disease. Our
+technology is able to give
+clinicians more detailed
+and accurate information
+on how patients are likely
+to respond to different
+treatments, which could
+enable them to make
+better and more targeted
+treatment decisions.”
+Doctors currently
+diagnose ovarian cancer
+in a number of ways:
+including a blood test to
+look for a substance called
+CA125 – an indication of
+cancer - followed by a
+CT scan that uses x-rays
+and a computer to create
+detailed pictures of the
+ovarian tumour. This
+helps clinicians know
+how far the disease has
+spread and determines the
+type of treatment patients
+receive, such as surgery
+and chemotherapy.
+However, the scans
+cannot give clinicians
+detailed insight into
+patients’ likely overall
+outcomes or the probable
+effect of a therapeutic
+intervention. The new
+software aims to address
+these problems.
+The trial used a math-
+ematical software tool
+called TEXLab to identify
+the aggressiveness of
+tumours in CT scans and
+tissue samples from 364
+women with ovarian
+cancer between 2004 and
+2015. It examined four bi-
+ological characteristics of
+the tumours which signif-
+icantly influence overall
+survival - structure,
+shape, size and genetic
+makeup - to assess the
+patients’ prognosis. The
+patients were then given a
+score known as Radiomic
+Prognostic Vector (RPV)
+which indicates how
+severe the disease is.
+The researchers then
+compared the results with
+blood tests and current
+prognostic scores used
+by doctors to estimate
+survival probability. They
+found that the software
+was up to four times more
+accurate for predicting
+deaths from ovarian
+cancer than standard
+methods.
+The hope, therefore,
+is that the technology
+can be used to stratify
+ovarian cancer patients
+into groups based on the
+subtle differences in the
+texture of their cancer on
+CT scans, rather than clas-
+sification based on what
+type of cancer they have
+or how advanced it is.
+The team also found
+that five per cent of
+patients with high RPV
+scores had a life expect-
+ency of less than two
+years. High RPV was also
+associated with chemo-
+therapy resistance and
+poor surgical outcomes,
+suggesting that RPV can
+be used as a potential
+biomarker to predict how
+patients would respond to
+treatments.
+The researchers are
+also planning to carry out
+a larger study to see how
+accurately the software
+can predict the outcomes
+of surgery and drug
+therapies for individual
+patients, adding further
+powerful tools for doctors
+to use.
+Lack of sleep is not necessarily fatal for flies
+New research has found that the life expectency of flies are barely affected by sleep deprivation - could the same
+be true for humans?
+SCIENCE
+Henry Alman
+Science Editor
+M
+ale flies kept
+awake do not
+die earlier
+than those
+allowed to sleep, leading
+researchers to question
+whether sleep is essential
+for staying alive. Whilst
+this study was in flies,
+the team speculate that
+if sleep is not essential
+for life in the same way
+food is, then it is possible
+that their results could
+apply across the animal
+kingdom - including in
+humans.
+They also found that
+female flies die on average
+only three days earlier out
+of a 40-50 day average
+lifespan.
+Dr Giorgio Gilestro,
+from the Department of
+Life Sciences at Imperial,
+said: “For food, we have
+calories that are ‘vital’ to
+keep us alive and calories
+that are ‘useful’ to help us
+function well. It might be
+that sleep is only ‘useful’:
+it would still be difficult
+for us to function without
+it, but not necessarily
+fatal.”
+Previous experiments
+have shown that some
+animals die when deprived
+of sleep, but the studies
+are unclear about exactly
+why this is. The research-
+ers behind the new study,
+published in Science
+Advances, suggest that
+the way the experiments
+were run could mean the
+animals died of stress due
+to the methods of keeping
+them awake.
+To keep the flies awake,
+the researchers kept each
+fly in a tube linked to an
+automatic monitoring
+system. If the system
+detected no movement for
+20 seconds, then the tube
+rotated, waking the fly
+up. This system allowed
+the team to experiment
+with hundreds of flies at
+once, giving them a better
+understanding of the
+average response to sleep
+deprivation.
+The researchers note
+that while male flies did
+not die earlier without
+sleep under lab conditions,
+in the wild lack of sleep
+would cause knock-on
+effects that would put
+them at greater risk from
+predators or competition.
+Dr Gilestro added:
+“Lack of sleep could make
+it hard for them to function
+properly and safely, just
+as a lack of sleep might
+cause a sleep-deprived
+human to crash their car.”
+“It’s not that there are
+no consequences to not
+sleeping, but our study
+has made us question
+whether sleep deprivation
+alone causes death.”
+During their exper-
+iments, the team also
+found that, even while
+sleep deprived, the
+flies followed ‘normal’
+patterns of activity. Flies
+are usually more active at
+dawn and dusk, and even
+when they hadn’t had any
+sleep for many days in a
+row, this was still the case.
+The researchers say this
+shows that the flies are not
+building up a ‘sleep debt’-
+they do not necessarily get
+sleepier the longer they
+stay awake, but keep to
+relatively normal patterns
+of activity. This suggests
+the pressure to sleep is
+controlled more strongly
+by the time or day than by
+the amount of sleep taken.
+This was further shown
+when flies that had been
+deprived were allowed to
+sleep again. They slept
+a little longer for a day
+or two but returned to
+normal patterns quickly,
+instead of immediately
+catching up on all the
+sleep they had lost with
+one extremely long sleep.
+Future experiments will
+continue to investigate
+the effects of sleep dep-
+rivation on flies’ mental
+performance.
+The return of British rockets
+SCIENCE
+Will Harradence
+Imperial College Space
+Society
+I
+n a dark and spacious
+room, with upbeat
+music accompanying
+a blue-lit bar, a crowd
+was gathering to await
+the latest product reveal
+from a hot British start-
+up. As the CEO took the
+stage, they were ushered
+to their seats, and a mass
+of cameras turned to face
+him. After an enthusiastic
+speech, he turned with
+a flourish as the curtain
+behind him dropped to
+reveal the sleek black
+shape of… a rocket.
+British start-up Orbex
+has revealed new flight
+hardware at the opening
+of their production facility
+in Forres, Scotland. The
+upper stage rocket which
+was revealed is part of the
+company’s Prime launch
+vehicle, which is set to
+become the first Brit-
+ish-built rocket to launch
+to space in 50 years. The
+event featured speeches
+from the president of
+the Royal Aeronautical
+Society, Scottish partners,
+and the head of the UK
+Space Agency, who noted
+a predicted 30,000 new
+jobs in the industry over
+the next 10 years. Imperial
+College Space Society
+(previously ICSEDS) was
+also represented at the
+event, receiving a mention
+from CEO Chris Larmour.
+Presenters stressed the
+importance and strength
+of the UK space industry,
+the new opportunities
+afforded by recent tech-
+nological breakthroughs,
+and the rise of commercial
+launch companies world-
+wide.
+The small-satellite
+movement, which favours
+multiple cheap satellites
+as a replacement for larger
+conventional ones, has
+finally made it to the UK.
+With uncertainty about
+the future relationship
+with European launch
+providers, the UK gov-
+ernment is keen to support
+homegrown launch ca-
+pability. Orbex is one of
+several start-ups looking
+to capitalise on this new
+opportunity, but is the first
+to demonstrate full-scale
+hardware.
+Prime features the
+most powerful 3D printed
+engine ever built, as
+well as an innovative
+propellant tank system
+that Orbex claims reduces
+the weight of the rocket
+by approximately 30%.
+The rocket also sports
+the largest payload bay
+size of any in its class,
+which Orbex says will
+be attractive to satellite
+operators. The rocket
+runs on bio-propane and
+liquid oxygen, reducing
+the carbon footprint of a
+launch, and will feature a
+rapid de-orbiting system
+to reduce its contribution
+to space junk. When
+completed, it is expected
+to launch from the new
+Scottish spaceport in
+Sutherland, and will
+compete with similar
+small launchers such as
+Rocket Labs’ Electron.
+Launch services are
+expected to commence in
+2021.
+Imperial College Space
+Society is supported by
+Orbex, receiving funds
+for our aerospace design
+projects including high
+powered rocketry and
+rocket engine design.
+The society also runs
+guest lectures and Q&A
+sessions with researchers
+and companies at the
+leading edge of this new
+era in space.
+Imperial College Space Society attends the unveiling of Orbex’s new 3D-printed upper stage rocket
+A new rocket engine, fully 3D-printed, adorns the business end of the new upper stage // Will Harradence
+SCIENCE
+FRIDAY, 22ND
+FEBRUARY, 2019 FELIX
+science.felix@imperial.ac.uk
+15
+“the UK
+government
+is keen to
+support
+homegrown
+launch
+capability”
+

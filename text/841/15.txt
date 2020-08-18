@@ -1,0 +1,198 @@
+Science
+on about 20km of cable but later on
+100 k m . The second is much more
+interesting. The plan is to deploy the
+satellite 100 k m below the shuttle to
+an altitude of 130 k m . This will be
+the first time this region of the upper
+atmosphere has been subject to
+extended study; previously it could
+only be reached by instrument laden
+sounding rockets for a few minutes
+at a time. The atmosphere is dense
+enough at this altitude for the
+satellite to require stabilising vanes.
+Already there are plans for an
+i m p r o v e d upper atmosphere
+satellite, streamlined and equiped
+with a cooling system that will
+enable it to reach much lower
+altitudes; such a system will be very
+useful for investigating ozone
+depletion a n d the increasing
+concentrations of greenhouse gasses
+in the atmosphere. A low flying
+tethered satellite would also make
+an almost ideal platform for military
+surveillance although most official
+N A S A sources are quite reticent
+about this aspect.
+The satellite is deployed as shown
+in the diagram, from a 12 m boom
+extending from the orbiter's payload
+so there will be a small inital tension
+in the cable to prevent it from
+becoming tangled. This is not
+enough to unwind the huge cable
+drum carried on the orbiter so the
+satellite must be deployed initally by
+small rocket thrusters. To retrieve it,
+it is simply w o u n d in by an electric
+motor on the cable drum. The cable
+itself is made of several materials
+and is very expensive, but a
+kilometer of it only weighs slightly
+Hess than a k i l o g r a m , a n d
+although it is only 4 m m thick, it can
+support nearly 30,000 kg.
+There are plans to test other
+aspects of space tethers in the near
+future. The momentum scrounging
+technique (see box) is to be tested
+using the SEDS (small expendable
+deployment system); the idea is to
+deploy a 100 kg mass o n a 50 k m
+cable which will then be cut,
+hopefully giving the mass a 200 m/s
+kick which will carry it into an orbit
+about 700 k m above the shuttle. This
+technique is almost ideal for use
+with the space shuttle because most
+shuttle payloads are needed in high
+orbits while the shuttle needs to get
+into a lower orbit for return to earth.
+Another application would be with
+the supply shuttles to the space
+station 'Freedom' (if it is ever built):
+It would enable the shuttle to return
+to earth without needing to carry
+extra fuel for braking rockets and the
+station would be given a small boost
+to counter the small drag it
+experiences in its orbit.
+The third tether application to be
+tested will be the P M G (plasma
+motor generator). The idea is that if
+the tether cable is an electrical
+conductor, then a large voltage
+(around 250 volts per kilometer of
+cable) can be produced. In this case,
+the difficulty is trying to produce a
+useful current from this as you can't
+simply string two cables between
+the satellites. The ingenious solution
+is to collect free electrons at the top
+from the surrounding ionosphere
+and eject them from the bottom
+satellite, creating what is called a
+phantom loop. The inital test system
+will produce 5 k W of electricity but
+later versions could be much larger.
+Of course the energy must come
+from somewhere; i n this case it
+comes from the energy possessed by
+the orbiting shuttle which will
+slowly drop into a lower orbit when
+the P M G is i n use. The change is
+however quite small and doesn't
+matter much as the shuttles only
+stay up for about ten days anyway.
+The current plan is to fit a full scale
+P M G to the space station to make
+use of the energy given to it by
+departing supply shuttles.
+There are many ideas for the use
+of tether systems in the long term
+future; many are, to be honest,
+cranky. One idea is to connect a
+space station in geostationary orbit
+to the earth's surface with a cable,
+allowing payloads ride into orbit on
+board glorified cable cars. Apart
+from the fact you need a cable with
+a strength to mass ratio about 10,000
+times better then the best k n o w n
+today, its a neat idea. Other
+proposals include a probe, to the
+asteroid belt, able to retrieve many
+surface samples from different
+asteroids by fireing and reeling in a
+small penetrator probe and very
+high resolution mapping of the
+moon and other planets by very low
+flying tethered satellites (the military
+implications have already been
+mentioned).
+Tethers basically offer a new way
+of doing things in space and hence
+will affect almost every aspect of
+spaceflight. It is a r a p i d l y
+developing aspect of technology
+which is being watched with very
+keen interest b y the space
+community.
+IMightline
+Nightline
+Nightline
+What is Nightline?
+Nightline is a confidential telephone
+service w h i c h provides both
+information and non-directive, non-
+judgemental counselling. Most
+universities and polytechnics in the
+U K have their own Nightline service
+which runs along similar lines.
+Nightline is an organisation run by
+students for students—the co-
+ordinator, an experienced Nightline
+volunteer, holds a sabbatical post
+with the University of London.
+West London Nightline operates
+from 6pm through to 8am every day
+during term time. Throughout the
+evening there is a female and male
+volunteer ready to answer
+telephone calls. A s an organisation,
+Nightline offers several services to
+students:
+Entertainments and Information—
+This includes details o n cinema,
+concerts, theatre, nightclubs and
+galleries as well as other events in
+London.
+Travel Information—There are up-
+to-date timetables for the tubes,
+trains, and nightbuses.
+A c c o m m o d a t i o n Service—This
+service has recently been started. It
+can be used by students searching
+for somewhere to live but relies on
+those offering places to live in flat-
+shares, shared houses etc.
+General C o u n s e l l i n g — T h i s is
+offered to students who may be
+worried, nervous or anxious about
+various issues, such as coursework,
+exams, loneliness, friendships,
+relationships or sexuality.
+Nightline is always looking for
+new volunteers who are willing to
+help out. If you are interested,
+please give us a call, drop us a line
+or look out for our Nightline stall at
+the Intro Fair.
+M y name is Eran Gil—I will be the
+sabbatical co-ordinator for Nightline
+during 1989-90. Please don't hesitate
+to contact me over the summer or
+any other time if you have any
+questions
+W E S T L O N D O N
+(
+5
+T
+1NIGHTLINE
+k&jJ 01-581 2468
+Technicians working on TSS.
+Page 14 FELIX June 21 1989
+

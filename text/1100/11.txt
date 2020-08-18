@@ -1,0 +1,170 @@
+28th November 1997 FEATURE 1 1
+IMPOSSIBLE MINDS
+IC's guru of mechanical brains, Igor Aleksander, talks to
+Jon Trout about his book. Robots and mad scientists.
+have the sophistication that an engineer
+can add. That's why I'm in this business.
+JT: How did you get started?
+IA: I'd been working on neural nets
+for the best part of thirty years. Now,
+neural nets are models of the brain. The
+brain is a very different thing from a con-
+ventional computer; the way it learns, the
+way it has its own way of doing things.
+My background has really been in com-
+puters, so I've been puzzled by the dif-
+ference. The more you work with neural
+nets, the more you're looking for sophis-
+ticated behaviour in the nets, and even-
+tually you hit upon consciousness. I
+believe that we have an artificial con-
+sciousness program in my laboratory in
+Electrical Engineering.
+the actual consciousness have a loca-
+tion?
+IA: [general hilarity] Magnus is a vir-
+tual machine so whatever happens in it is
+something that takes place in the com-
+puter. Now, Magnus itself is not con-
+scious, but it's a tool that enables you to
+study consciousness. Now, the confusion
+comes in here because you could put
+Magnus-like machinery into a robot. I
+would argue that, at that point, the robot,
+in a very artificial way, becomes con-
+scious. It may become aware of the
+world it lives in, it may be able to have a
+natural-language conversation with a
+human being, so it's got its own con-
+sciousness. However, because the
+robot's made of silicon and mechanical
+'I believe that we have an artificial
+consciousness program in my
+laboratory."
+JT: Is there any way of measuring or
+quantising the level of consciousness
+or intelligence?
+IA: You've got to be very very careful
+about the relationship between intelli-
+gence and consciousness. I actually find
+intelligence a much harder concept to
+think about. Obviously, you must be con-
+scious in order to be intelligent, but the
+way you measure models of conscious-
+ness is just to ask them.
+JT: Tell me about Magnus; what is
+it?
+IA: Magnus is a piece of software
+which you can download from the
+Internet. It's a neural network system
+that enables us to do the kind of experi-
+ments that appear in the book. It's a
+development system; if you're interested
+in artificial consciousness its a tool that
+will allow you to do research in that area.
+I find it extraordinarily useful as it runs on
+my PC, so 1 can do research anywhere.
+It's like a Mechano kit for putting togeth-
+er models that are a bit like the modules
+of the brain. We can put them together
+and test whether our ideas of how the
+brain works are right or wrong.
+JT: Is there just a spark and some
+sort of essence comes into being? Does
+parts and so on, that's still a very artificial
+sort of consciousness. So there's many
+forms of consciousness. That of a human
+being and that of a robot are completely
+different. But if the robot behaves in such
+a way that requires its actions to be
+underpinned by a form of consciousness
+then you have your answer.
+JT: Why is human consciousness so
+different?
+IA: It is very closely related to what
+you're made of, because that determines
+your needs, aspirations and what you do
+in the world. Consciousness grows
+according to these needs. Now, the
+robots, if they are conscious at all, will be
+conscious of their own difference from
+human beings. If one were to have a con-
+versation with a human being, and the
+human said "Well, when are you lot going
+to take over the world?", the robot
+should come back and say "Don't be stu-
+pid, I have no need to take over the
+world, that's a human ambition."
+JT: Hopefully! I know this is science
+fiction, but how far are we from devel-
+oping androids such as Star Trek's
+Data?
+IA: In the book I've used forty years,
+because that's actually a very very long
+time in the development of technology. I
+think that by that time we will have enti-
+ties that humans will accept as conscious
+but they won't be quite as interesting as
+we see in science fiction, having rather
+defined roles without their own personal-
+ities. In the old days some people would
+have seen the Internet connected PC as a
+thinking machine.
+JT: Do you think there's an ethical
+question?
+IA: People say there is, but I think it's
+a mistaken link between consciousness
+and ethical questions. At the moment we
+have ethical questions which arise with all
+entities in the world which we know to be
+conscious, not necessarily because
+they're conscious, but because they're
+alive. I know that a robot can survive any
+conscious thing on earth so discussions
+of its life come down to questions of
+human investment. You might think of
+"do I kill a conscious machine" in the
+same terms as do 1 want to destroy an
+aeroplane or some such. Does a robot
+have a desire to maintain it's existence?
+Well, no, not necessarily - it depends on
+it's purpose. It may be much happier to
+end it's existence if it thinks it's purpose
+has been fulfilled - and
+that's where science
+fiction comes in. The
+machine may not be
+happy, whereas the
+operator may feel that
+it's job has been done,
+and that's what hap-
+pened with HAL and all
+those fictional robots.
+But in reality, the
+relationship is much
+more like that between
+a conventional com-
+puter and it's software.
+At present, the com-
+puter will defend
+against someone com-
+ing along and wanting
+to destroy it's memory or a virus - and
+it's much more like that with artificial
+intelligence. Once a machine receives an
+order in it's programming to defend a
+part of itself, then it will defend it. It's
+simply a question of which sections you
+decide need defending.
+Igor Aleksander will be sign-
+ing copies of
+"Impossible at
+VVaterstone's Bookshop. Ipm
+on Ts. er.
+The book
+back or £17 for the deluxe
+hardback. It is published by
+to p-.
+lent Chrii:.'
+would make.
+

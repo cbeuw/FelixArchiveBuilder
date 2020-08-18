@@ -1,0 +1,238 @@
+53
+FRIDAY 07 MAR
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+A
+t some point last
+week, news hit that
+Facebook had acquired
+perhaps the most
+ubiquitous form
+of communication today:
+WhatsApp for £16
+billion. It goes without
+saying that social
+network users both
+on Facebook and
+Twitter shared their
+‘in-depth’ insights
+(ramblings) on the
+elaborate purchase,
+thoughts ranging
+from rational (how will
+Facebook monetize
+WhatsApp?) to the
+downright, well, put
+politely, irrational, ( i t ’ s
+the end of the world as we know it).
+It is an interesting situation worth
+pondering however, why would
+Facebook, home to over 1 billion
+users buy WhatsApp?
+To begin with, Facebook spotted
+an opportunity to get into mobile
+and with its deep pockets made an
+acquisition that is difficult to fault.
+They had initially tried to release HTC
+phones with a Facebook interface,
+which tanked spectacularly. Clearly
+not an easy market to
+c o m p e t e
+in (see Google’s
+purchase of Motorola), Facebook
+simply did what most established
+entitiesdo, buythesmallercompetitor.
+Google had done the same when it
+tried to compete with YouTube and
+wound up buying the video streaming
+website. So point number one,
+Facebook has apparently succeeded in
+expanding its business portfolio to the
+mobile communication platform.
+The chat feature on Facebook has
+become a diminished feature of the
+social networking site as users
+opted for private messaging.
+That problem has been
+rectified somewhat
+by the integration
+of the messaging
+and chat feature,
+however, the
+chat feature
+r e m a i n s
+s w i t c h e d
+off by many
+of its users.
+W h a t s a p p
+on the other
+hand provides
+an instant, user
+friendly platform
+amassing users all over the
+world of close to 500 million
+users. Through this acquisition, the
+fight for which messaging platform
+is of preference to the public has
+been extinguished, and Facebook
+effectively has decisively established
+an additional avenue through which
+to serve its users.
+Finally, statistics show that mobile
+phones share more photos through
+T
+he fledgling cryptocurrency
+Bitcoin suffered one of its
+biggest setbacks this past
+week when the (formerly)
+largest exchange Mt. Gox
+filed for bankruptcy protection.
+The beleaguered exchange has been
+marred by a string of management
+problems before it filed for
+bankruptcy protection. Yet, the
+currency has been relatively stable
+amidst all of these: after briefly
+falling to US Dollars (USD) 400 per
+Bitcoin after the news broke, it has
+now recovered up to a steady state of
+around USD 650 at press time.
+Decentralisation is at the core of
+Bitcoins through the clever use of
+cryptography. There is no central
+authority to prove, or disprove that
+Bitcoins are “owned” by anyone in
+particular. There is a distributed
+public ledger, known as the
+“blockchain” that keeps a log of all
+the transactions that have ever taken
+place between Bitcoin addresses. In
+order to “spend” the coins, one has
+halted all trading activities. It
+cited a problem with “transaction
+malleability”, a known issue with
+the Bitcoin protocol, as a reason for
+doing so, and hinted that it had lost
+money to this problem. This was not
+a catastrophic problem because if
+the software were written properly,
+they would be able to safeguard
+against this problem as many other
+Bitcoin exchanges have done so.
+Nevertheless, Mt Gox cited this as
+a reason, and hinted that they have
+lost a significant amount of their
+money. Finally, on February 24, Mt
+Gox shut down without a word and
+filed for bankruptcy protection soon
+after.
+“cooling off”, always blaming some
+glitch or another. Customers were
+complaining for weeks long waiting
+for withdrawals, with some allegedly
+never completing. Mt. Gox was also
+having to face several legal issues
+with the US government. It was
+during this time that other exchanges
+begin to spring up and become more
+prominent due to the various issues
+facing Mt Gox.
+On February 7 2014, Mt. Gox
+Yong Wen Chua, on the dangers of trusting an online currency
+Right away, the various exchanges
+issued a joint statement saying that
+the problems at Mt Gox do not
+represent a problem with the Bitcoin
+community at large. Bitcoin is not
+centralised at Mt Gox, and the fall
+of a player, albeit a big one, does not
+spell the doom of Bitcoin. This sense
+of optimism seem to be shared by the
+community. After falling rapidly on
+the day Mt Gox shut down, the price
+of Bitcoin quickly rose and stabilised
+at a value higher than before Mt Gox
+shut down.
+Perhaps the old adage of having
+any publicity is good publicity rings
+true as Bitcoin turns a new page in
+its history.
+WhatsApp with FB?
+Tola Makanjuola, on the social giants latest buy
+to prove ownership of the coins via
+the use of private keys associated
+with public Bitcoin addresses. In
+other words, with the blockchain,
+it is possible to trace how Bitcoins
+have exchanged hands, and calculate
+exactly how many coins a certain
+address has in its possession.
+There are generally two ways
+to obtain Bitcoins: mining or
+exchanging with some fiat money.
+Mt. Gox was one of these exchanges.
+For some time, Mt. Gox was one of
+the largest exchanges where people
+could turn their USD into Bitcoins.
+But according to some leaked
+documents and insider information,
+the company was very badly managed
+and some claim that the writing was
+on the wall for it to collapse.
+Mt Gox suffered a series of
+setbacks along its way. The first
+setback that Mt Gox suffered was in
+late 2011 when it suffered a breach
+to one of the textbook attacks: SQL
+injection. Throughout 2013, Mt Gox
+would periodically shut down for
+The Mt Gox Bitcoin Debacle
+The News Bubble
+Maximilian Eggl
+Yong Wen Chua
+Osama Awara
+Technology Editors
+These days you cannot help but encounter Apple or oe of its products
+in your average life. Even if you don’t own a product, your friends will.
+Therefore avoiding interacting with the fruity company has just gotten a
+bit harder. Apple just recently announced CarPlay, a system with which
+you can connect your iOS device to your car. However, at the moment
+this is only available in Ferrari, Mercedes and Volvo cars. Apple does
+plan to release this feature with BMW, Nissan, Kia just to mention a few.
+Therefore if you buy a car in the future, you might hear Siri’s sweet, sweet
+voice from your car’s stereo.
+General news from around the tech world, so you can keep up
+to date with the newest, weirdest and most futuristic things
+around
+Apple in Cars
+WhatsApp than on Facebook, a key
+activity that has made Facebook so
+popular over the years. Probably
+more importantly is the fact that this
+activity is occurring in developing
+countries, where the app has grown
+immensely in popularity. Facebook
+have therefore seen an opportunity
+to expand into those regions in a bid
+to “make the world more open and
+connected”.
+Just days after the acquisition,
+WhatsApp had an outage for 3
+consecutive days, not necessarily
+a great start to the partnership
+which will see WhatsApp remain
+independent, but certainly not the
+end of the world….is it?
+Facebook on spending spree
+After the WhatsApp acquisition (which you can read all about in the
+brilliant article by Tola Makanjuola), most of us would have a well
+deserved, and perhaps guilty, rest. Mark Zuckerberg doesn’t seem to want
+a rest. To further his Internet.org initiative, Facebook is now going after
+drone manufacturer Titan Aerospace for a purported 60 million dollars.
+These drones then would fly over internet starved regions, beaming
+internet (among them surely Facebook) to potential users below.
+

@@ -1,0 +1,240 @@
+Editorial:
+Who gets
+educated?
+A recent study of science ability in
+final year schoolchildren (See Nature
+332 pi 95) suggested that the British
+are nearly the best in the world at
+teaching science. This seems to imply
+that our future as a high-tech economy
+is assured since our major competitors
+have children who came out of the
+tests with poor results. Don't believe
+a word of it.
+The study involved standard tests
+on the basic concepts of Physics,
+Biology and Chemistry that were
+taken by 44,000 school children in
+their last year of schooling. All the
+children were doing science courses.
+Britain and Hong Kong come near top
+in all areas, Japan's children are
+middling and Americans appear to be
+morons. These appearances can be
+deceptive and our results actually
+obscure major holes in our
+educational system.
+The major differences are that here
+only 20% of the population are still
+in school at the age range of the tests
+and those people are specialists. It is
+not surprising that they do well in the
+tests. In both the USA and Japan most
+people are still at school at the age,
+so, although their actual performance
+may be worse overall, far more
+people have some grasp of what the
+sciences are about. In Britain the
+people not doing the tests are likely
+to be utterly ignorant of the subjects
+involved.
+Our education system is therefore
+widely regarded as producing better
+experts than anyone else, but the
+experts are too narrow minded on one
+hand and our general population is
+woefully ignorant on the other.
+Neither of these facts is likely to
+prove conducive to our national
+success in the long term.
+If we want to build a productive
+high-tech future then we need a
+population that is educated enough to
+do our scientific and technical jobs.
+It is not enough to have a small band
+of experts to do all the technological
+dirty-work: the whole of the
+population must be well enough
+grounded in the basics of science to
+understand what is going on. One of
+the reasons why Britain's workers are
+less efficient than their competitors
+abroad is because they are more
+stupid. Once they have left school (as
+likely as not with no qualifications)
+they never again set foot in an
+educational establishment. They don't
+know enough to understand the
+workings of the machines they
+operate and therefore they are never
+able to suggest improvements to
+them. Their lack of training also
+makes them less versatile and this
+prevents easy switching from one job
+to another. Instead of encouraging
+retraining, unions have often stood
+firm against changes in working
+practice fossilising their members
+discovery if it was dangled in front
+of their nose.
+British universities pride
+themselves on knowledge for the sake
+of knowledge. There is nothing
+inherently wrong with that except that
+it costs money that might be better
+spent elsewhere. As it is, our whole
+eduction system has been distorted to
+keep the universities supplied with
+experts. The cost has been a poorer
+economy and a general population
+wallowing in glorious ignorance. We
+cannot and must not let in continue.
+U N D E R T H E
+M
+I
+C
+R
+O
+S
+C
+O
+P
+E
+by Steve Black
+lack of versatility.
+But there are other reasons for
+wanting a well educated populace. If
+all the science is done by a small
+group of experts and nobody else
+understands what they are doing, the
+majority can easily become suspicious
+and distrustful of what is going on in
+their name. This' is already
+happening. Many areas of science are
+mistrusted by the public because no
+one has taken the effort to explain
+what is going on and why.
+Some of the public mistrust may be
+justified. Our education for specialists
+often produces the sort of dedicated
+expert who knows and cares about
+nothing outside his own field. Such
+experts have no real sense of public
+purpose. Even if they did have they
+wouldn't be able to communicate it
+to the public. We don't, however,
+need more applied research (or we
+might do, but that's another issue), we
+just need experts with a sense of their
+role in society. We need people who
+appreciate the use or possible use of
+their work. We need people who
+know what society needs and who are
+prepared to keep an eye open for
+science that might be useful. As it is
+we have a load of superbly trained
+experts who couldn't spot a useful
+Historically the British school
+system has been based around the
+training of elites (like those who want
+to go to university) and it has become
+very good at it. But we have tended
+to neglect the rest. But, it is
+impossible to build a successful
+society out of Sun readers.
+If the universities are to survive
+then they must convince the rest of
+society that they do something useful.
+They are hardly going to succeed at
+this if they hang on to their elitist
+traditions. If science is to survive in
+this country then we have to explain
+to the people; we have to tell them
+what we are doing in a way that they
+can understand. Then perhaps we will
+get the money to keep the universities
+in a healthy state.
+Fermat's Phoenix
+One of the most intriguing of the
+unsolved problems in mathematics
+was very nearly solved recently, but
+it staged a last minute recovery.
+Fermat's last theorem has been the
+subject of more attempted proofs than
+any other theorem, probably because
+of its intriguing simplicity. The
+theorem states that the equation
+X n
+= Y n
++ Z " has no whole number
+solutions when n is greater than 2.
+Fermat, a 17th century French
+mathematician, had a bad habit of
+leaving theorems lying around
+without proofs. By the end of the 18th
+century other scholars had solved
+them all except this simple one which
+therefore became known as Fermat's
+last.
+Because of the simplicity of the
+equation many non-experts have
+attempted spurious proofs thereof, but
+these have usually proved to be
+complete and utter rubbish. Experts
+in many branches of mathematics
+have also been attempting proofs ever
+since the theorem was published, but
+these have been hardly any more
+successful. This has led to a
+considerable degree of caution among
+those who think they might have
+cracked it. The biggest breakthrough
+ever occurred a few years ago when
+some pretty weird results were
+applied in a new way to show that the
+theorem had only a finite number of
+solutions. The latest attempt at a
+complete proof was by a Japanese
+mathematician, Yoichi Miyaoka, who
+was so cautious that he didn't mention
+Fermat's theorem by name in the
+whole of the presentation of his
+results.
+The supposed proof involved some
+very esoteric theorem-juggling
+between different areas of
+mathematics and was so complicated
+that probably only five or so other
+people in the world were capable of
+understanding it. It involved some
+translations of problems about
+numbers into questions about
+geometry and topology where some
+useful and powerful theorems exist
+that can (and have) solved very
+difficult problems in number theory
+before.
+Unfortunately, one of the people
+who is checking the work has recently
+said that there is a balls-up in it.
+Somewhere in the translation process
+from numbers to topology, Miyaoka
+used a dodgy theorem. Now it may
+be that a suitable correct theorem
+exists, but he had assumed that
+another theorem would be generally
+applicable when it wasn't. More work
+is said to be needed.
+On the other hand this is widely
+regarded as the best attempt at a proof
+for years and has broken new ground
+in translating numerical problems into
+other problems that can be more
+easily sorted out. So although this
+particular proof may be wrong (and
+we have to wait until the correction
+has been thoroughly checked) they
+may at last be going in the right
+direction.
+Friday 29th April 1988 FELIX
+

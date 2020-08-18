@@ -1,0 +1,158 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 91
+FELIX 06.03.2015
+C & S Editor Ben Howitt
+Clubs and Societies
+felix.clubsandsocieties@imperial.ac.uk
+Miles Taylor-Robinson’s improbable Mission with
+Hackspace and Robotics Society
+Geeks with Frickin’ Lasers
+In a collaborative first, the Imperial
+College Advanced Haxckspace
+(ICAH) and the Imperial College
+Robotics Society (ICRS) teamed up
+to put on a brand new hackathon
+entitled Mission: Improbable.
+The theme was inspired by classic
+heist and adventure movies, from
+Ocean’s 11 to Indiana Jones. First,
+each team was tasked with designing
+and building a security device to
+protect a precious idol on display in a
+museum. Sadly, the British Museum
+were unable to lend us any suitably
+valuable items from their collection,
+so we went with 3D printed Yoda
+heads instead. At the end of the week
+(with a strict time limit of 3 minutes)
+each team had the chance to steal
+from a rival team’s device undetected.
+The emphasis of the brief was on
+detection rather than prevention.
+We wanted there to be no physical
+barriers to hacking; teams won points
+for the openness of their design.
+The more the inner workings of the
+devices were accessible, the better.
+The onus was on the participants to
+use clever electronics as the defence
+mechanism.
+The event kicked off on Friday
+20th
+February with an open evening
+in the EEE building. Josh Elsdon,
+multi-talented ICRS Lab Manager
+detailed the rules to the assembled
+hackers. We then brought out a box
+of pre-purchased parts to get the ideas
+flowing: everything from lasers and
+pressure sensors to mirrored acrylic
+and development boards. Next the
+drinks came out, plus enough pizza to
+wallpaper the entirety of the Business
+School. The teams started to take
+shape and the last participants headed
+home around 21:30, full of new ideas.
+Over the course of the week we
+sourced components for all the teams’
+devices, including a smoke machine
+(seemed legit). We also ran a midweek
+hack in the ICRS lab for the teams to
+get some help from Josh and Aksat.
+The Mission Improbable
+Finals!
+Saturday 28th
+February began bright
+and early as the early risers ambled
+into the ICRS Lab at around 09.30. By
+around 11:00 there was at least one
+member from each team beavering
+away on their hacks. The last four
+hours were an increasingly frantic
+blur of hurried chatter, laser cutting
+and soldering; with a bacon buttie
+breakfast break in between.
+Just before the 14:00 deadline our
+panel of judges started to arrive. We
+had Keith from Aviva with his son
+James, Shaun from Resin.io, Munir
+from Imagination and Imperial’s very
+own Mark Witkowski. With everyone
+assembled, we pried the last of the
+teams from their desks in the ICRS
+lab and headed over to the Skempton
+lecture theatre where the showdown
+was to take place.
+Amazingly, all 7 teams had
+managed to complete their devices.
+The first half of the afternoon saw
+each team explain the ins and outs
+of their devices and field questions
+both technical and comical (“Is it
+waterproof?”). no stone was left
+unturned.
+It was great to see such a variety
+of systems used in the Hackathon.
+‘Team Aether’ went with an elegant
+design which fitted the brief perfectly.
+With fully open electronics, they used
+theramins to sound the alarm if an
+intruder came too close. Team Force
+created a beautifully laser cut triangle
+plinth with strips of mirrored acrylic
+to bounce lasers all around.
+‘Team Furry Shoe’ went for a novel
+approach- building their plinth out
+of lego they enclosed their electronics
+in a motorised spinner, thus making
+hacking a difficult prospect! All seven
+teams had interesting and exciting
+designs, most of which included
+multiple layers to the security.
+Drawing from a hat, each team was
+assigned their target device. Over
+lunch the teams grilled one another
+about the specifics of their devices;
+the competition rules mandated full
+disclosure! Some headed to the Pink
+Room to make widgets to help them
+hack. By 16:30 everyone was ushered
+back into the lecture theatre to begin
+the hacking phase.
+For each device we ran through a
+system of simple disturbances – to
+Lasers really do make literally everything cooler. Photo: Miles Taylor-Robinson
+simulate the practical realities of
+life in a museum. This was also to
+demonstrate if a device was too
+sensitive to false positives. The test
+was threefold and involved testing
+for minor vibrations, gusts of air and
+torch light directed onto the idol.
+After a short description of the
+plan of attack, the hack teams had
+3 minutes to steal the Yoda bust
+undetected. The excited crowd
+alternated between raucous noise and
+pin drop silence; is there anything
+more tense than absolute silence
+followed by the solitary sound of
+wires being cut?
+Once all the hacks had been
+completed, the judges adjourned to
+make their decisions. While each
+team produced a strong entry, the
+winner chosen was ‘Team Force’ for
+their beautifully realised laser plinth
+plus their successful hack. In second
+place was ‘Team Invulnerable’ and in
+third came ‘Team MD’. ‘Team Furry
+Shoe’ took the Haribo prize.
+A big thank you to Aviva, Resin.io
+and Imagination for their generous
+sponsorship of the prizes, plus special
+thanks goes to Josh and Aksat from
+ICRS for all their hard work in the lab
+and Eifion for his fantastic videos!
+Left: Competitors assemble to discuss their plans for protecting Master Yoda. Right: a laptop running the security team is bypassed bya rival team.
+Photos: Miles Taylor-Robinson
+

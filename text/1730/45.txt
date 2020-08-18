@@ -1,0 +1,50 @@
+ISSUE 1730
+FELIX
+45
+PUZZLES fsudoku@imperial.ac.uk
+Hello to the newest graduates and grad-
+uate-wannabes!
+This week, we have decided to splash out
+and give you a treat! Sorry about the lack of
+nonograms the last two weeks; we’ve been
+having some technical difficulties. Who
+knew you’d actually need to know how to
+make puzzles for this job(!)
+WORD PYRAMID (1)
+Each row is an anagram
+of the previous, plus or
+minus one letter. Clues:
+Musical note (2) - Friend
+(3) - Vampiric look (4) -
+Korean apology or fruit
+(5) - Frog-themed years
+(4) - Anthropoid (3) -
+Daddy (2)
+SHIKAKU
+Divide the square into rectangles, such that each rectangle con-
+tains exactly one number. The numbers given represent the area
+of the containing rectangle.
+SAMURAI SUDOKU
+Sudoku, but times 5.
+SUDOKU
+Fill all the boxes with a number between 1
+and 9. A number can only appear once in
+a row/column, and only once in each sub-
+box.
+WORD PYRAMID (2)
+Clues: Someone you no
+longer talk to but still
+stalk (2) - Not the best
+murder weapon (3) -
+Shaft connecting two
+wheels (4) - Prettier Word
+documents (5) - A salt of
+xylic acid (6) - Precisely (7)
+- -C(O)CH3
+(6) - Attaches
+rope to a boat (5) - What
+you don’t want to be to
+graduation (4) - Gossip
+(3) - Phones home (2)
+NONOGRAM
+

@@ -1,0 +1,231 @@
+FELIX 11
+SCIENCE
+Friday 28 JANUARY 2011
+Maciej Matuszewski
+S ci-Fi
+Column
+Those of you who complained about
+me focusing so much on the plot holes
+in my Moon review should stop reading
+now because this is much of the same.
+I’m sorry, but I just couldn’t pass up the
+opportunity to review a show as monu-
+mentally stupid as Primeval.
+The series focuses on a secret gov-
+ernment team tasked with investigat-
+ing mysterious ‘anomalies’, basically
+big glowing disco balls which act as
+gateways to different time periods, and
+protecting the public from the danger-
+ous creatures which often come through
+them. I could understand this secrecy at
+the beginning of the show when the gov-
+ernment had only just found out about
+the situation and wanting to stop the
+public from panicking but not after three
+and half seasons when they’ve devel-
+oped methods of both detecting and clos-
+ing the anomalies. Indeed we have seen
+many civilians brutally killed just be-
+cause they were not aware of the danger
+posed by the creatures. This makes even
+less sense as in the latest series where,
+mirroring real life, the Tories have part
+privatised the top secret operation, giv-
+ing control of the its scientific arm to
+Philip Burton, played by Star Trek’s Al-
+exander Siddig, and his company.
+The team itself is hilariously incom-
+petent, in the latest series managing to
+get trapped in a creature infested school
+by a pair of teenagers. This is not helped
+by most of the missions being done by
+just the four of main cast members,
+one of whom, Connor, is a palaeontol-
+ogy student. A recent episode involved
+him accepting Doctor Bashir’s, sorry, I
+mean Philip’s, offer to study the anoma-
+lies themselves. I haven’t seen all of the
+episodes so perhaps somebody could
+explain to me why, if Connor is so in-
+terested in advanced physics, he didn’t
+choose to study it.
+Fans of the show might accuse me of
+nitpicking. This might be true but even if
+you ignore all of these factors the show
+is still average at best, with a horribly
+confused storyline and mediocre special
+effects.At least if you concentrate on the
+plot holes it becomes so bad it’s good,
+rather than just being boring.
+Superfast genome sequencing on a chip
+International effort to make air travel greener begins at Imperial
+Look at them, aren’t they cute
+The first step on a path that could lead
+to the sequencing of an entire genome
+in minutes has been developed by chem-
+ists at Imperial College London. A paper
+describing the prototype technology was
+published last month in the journal Nano
+Letters.
+This innovation also means sequenc-
+ing will become much cheaper, making
+it available to everyone.
+It was ten years from the start of the
+Human Genome Project to the publica-
+tion of the first draft of an entire human
+genome.
+While things have moved on con-
+siderably since then, we’re still not at
+the stage where anyone can unlock the
+secrets of their DNA for a reasonable
+price. As it stands, the process can take
+weeks or months of continuous work to
+sequence all the DNA of an individual.
+Current methods require several steps,
+including the breakdown and replication
+of the DNA, which is done by robots.
+The effort and time required means that
+the cost is prohibitively high.
+The new technology in development
+at Imperial would streamline sequenc-
+ing into a single procedure.
+DNA is made up of around 3 billion
+base pairs attached to a sugar and phos-
+phate backbone, arranged in a double
+helix. A base pair consists of two mole-
+cules bonded together — either adenine
+with thymine, or guanine with cytosine.
+DNA sequencing determines the order
+of these base pairs.
+The new technology pushes a strand of
+DNA through a 50 nanometre wide pore
+in a silicone chip at high speed. When
+it leaves the pore, an electrical current
+passes through the DNA. From the re-
+sulting signal a computer determines
+which base pair has just passed through
+the nanopore. The speed at which it can
+do this means that, in theory, an entire
+genome could be sequenced within min-
+utes.
+Genome sequencing for all would
+have many benefits. It could mean
+custom drugs based on a person’s own
+DNA and would give individuals ac-
+cess to information about their suscepti-
+bilities to diseases such as Alzheimer’s.
+Fast genome sequencing would also
+benefit police who want a quick yet reli-
+able way to profile DNA found at crime
+scenes.
+The technology will require more
+work before it’s ready to sequence its
+first genome but Dr Joshua Edel, a co-
+author of the paper, is optimistic: “It
+should be significantly faster and more
+reliable, and would be easy to scale up to
+create a device with the capacity to read
+up to 10 million bases per second, ver-
+sus the typical 10 bases per second you
+get with the present day single molecule
+real-time techniques.”
+Dr Tim Albrecht, another author on
+the study, said that the next step was
+to create something that can determine
+between individual bases as opposed to
+just base pairs. He was cautious about
+the work ahead, saying: “I think we
+know the way forward, but it is a chal-
+lenging project and we have to make
+many more incremental steps before our
+vision can be realised.”
+The Green Aviation Forum organised a
+one day international symposium at Im-
+perial College on the 6th January 2011,
+in an attempt to link together many of
+the green aviation research activities on-
+going at the College.
+The Forum aimed to address the mul-
+tiple environmental challenges faced
+by the aviation sector. An integrated
+approach is being adopted to develop
+aircraft technologies focussing on fuel
+efficiency and low-emission across the
+whole sector, improve airport planning –
+with supporting transport infrastructure
+– as well as air traffic management. The
+key word is collaboration, integrating
+manufacturers, climate scientists, regu-
+lators, airline operators, airport authori-
+ties and the government.
+Three percent of global warming is
+currently caused by aviation and air
+travel is expected to increase by 5% per
+year over the next 20 years. The avia-
+tion industry in Europe has agreed to
+a set of targets that would reduce fuel
+and carbon dioxide emissions by 50%
+per passenger kilometre, nitrous oxide
+emissions by 80% and noise pollution
+by 50%.
+The Green Aviation Forum will pro-
+vide a useful link between Imperial re-
+searchers and the aviation industry. Im-
+perial is aiming to give birth to a new
+generation of ultra light commercial
+aircrafts that can fly faster over longer
+distances, producing lower emissions
+and less noise.
+As an aircraft comes in to land, spoil-
+ers are deployed on the wing to help re-
+duce the lift and increase the drag. This,
+however, generates low frequency noise
+that can travel great distances which is a
+major problem for the aviation industry.
+Profesor Vassilicos and his team from
+the Department of Aeronautics have de-
+veloped a new spoiler employing fractal
+patterns that reduce the low frequency
+noise, without affecting the lift and drag.
+An aircraft burns more fuel mainly
+due to the aerodynamic force known
+as drag. Professor Jonathan Morrisson
+and colleagues from the Department
+of Chemical Engineering and Chemi-
+cal Technology are developing a new
+electro-active plastic for covering air-
+craft fuselages and wings, which reduc-
+es drag by pulsing low-level electrical
+currents through it. The pulses distort
+the plastic and therefore the air flowing
+over the plane, reducing the impact of
+drag.
+Eco-friendly plane designs are cur-
+rently being developed by Dr Varnavas
+Serghides from the Department of Aero-
+nautics. He believes that reducing the
+number of aircraft components could
+bring dramatic increases in fuel effi-
+ciency. Dr Varnavas is also working on
+designing a wider fuselage to fit in more
+passengers. This would reduce the levels
+of emissions, while maintaining similar
+profit levels.
+Imperial researchers are also develop-
+ing new types of composite material that
+can render aircraft structures even stron-
+ger and more long-lived. One type of
+material, known as a hierarchical com-
+posite, comprises carbon fibres, resin
+and carbon nanotubes.
+As well as being stronger, this type of
+material can withstand lightning strikes
+by dissipating the electrical energy be-
+fore the aircraft system is damaged.
+When the skies became green
+Kelly Oakes
+Victoria Bignet
+New composite materials will make planes of the future lighter, stronger and longer lived – like Thunderbird 2 here
+DNA is not actually made of beads
+

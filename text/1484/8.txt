@@ -1,0 +1,149 @@
+felix
+TECHNOLOGY
+Technology Editors: Samuel Gibbs
+Feroz Salam
+technology.felix@imperial.ac.uk
+If you have an issue with a silicon based master
+race, you might want to start hunting around for
+a welcoming hippie commune, because things
+just got serious. In three rounds of the Ameri-
+can game show Jeopardy, based on participants
+mastering wordplay to answer general knowl-
+edge questions, a pair of skilled human contes-
+tants were roundly defeated by a machine - a
+testament to the distance artificial intelligence
+has come since chess Grandmaster Gary Kasp-
+arov’s epic six game battle with Deep Blue in
+the late 90’s.
+The conclusion of half a decade’s efforts,
+the victory by IBM’s ‘Watson’AI program is a
+massive achievement, one that was considered
+virtually impossible in 2005. The complexity
+of Watson’s system lies not in the knowledge
+of trivia; Watson has been endowed with a 4
+terabyte data repository (that’s roughly 512
+Wikipedias, for reference).
+Conquering the complex wordplay that the
+game show is based on, often requires contes-
+tants to draw together pop culture references,
+puns and even slang to merely understand the
+question. For example, ‘This term for a long-
+handled garden implement could also be used
+to describe an immoral pleasure seeker’. (The
+answer, if you are wondering, is not ‘What is
+a hoe?’, but ‘What is a rake?’. Look it up on
+Wikipedia.)
+Watson proved to be more than able at this
+task, breezing through the three rounds hav-
+ing amassed a grand total of £47,923 (£30,000
+more than his nearest human challenger). At
+each stage when the question was revealed to
+the contestants, a text file containing the ques-
+tion was sent to Watson. On opening the file,
+Watson would run through a series of algo-
+rithms in parallel to try and discover the an-
+swer, with his confidence in his response de-
+Free App of the Week
+iOS - Beluga Messenger
+There are quite a few chat apps on the iPhone, but
+Beluga does one thing the iPhone’s not great at:
+group chat. It’s free, cross-platform. Sorted
+Beluga Messenger on Android means you can chat
+to friends on iOS or any phone or computer with a
+browser. Group chat done right.
+Android - Beluga Messenger
+AI geek bests human rivals
+Feroz Salam
+You’ve got a laptop bag, but what about an
+iPad bag? It might seem like an odd concept
+to have a bag just for your iPad, when you can
+fit it in almost any bag you’re likely to be car-
+rying. But that hasn’t deterred be.ez from re-
+leasing an iPad version of it’s LE rush line of
+laptop bags, the En Ville.
+Made from pretty sturdy nylon, and avail-
+able in three colours, the En Ville is about the
+same height and width as an iPad, but almost
+four times the depth. There’s a nylon non-re-
+movable, but length adjustable shoulder strap
+for carrying the bag, which feels just like a
+seatbelt, and is attached at the sides.
+The main zippered pocket has a separate
+iPad compartment, a middle section for other
+things, plus two slip pockets for ancillary stuff.
+The front of the bag has a Velcro pocket with a
+zippered pocket inside it, containing two slim
+slip pockets, two more separate slip pockets
+Got a laptop bag, how about a tablet bag?
+Samuel Gibbs
+pendent on the number of algorithms that came
+to the same conclusion.
+How Watson compared to his human rivals
+is a matter of some debate. Watson’s circuitry
+meant that he could often buzz in dramati-
+cally faster than his two distinctly fleshier op-
+ponents, and his vast data bank was optimised
+solely for the purpose of playing Jeopardy. Yet
+in his defense, he had none of the decades-
+long training in natural language that Jeopardy
+champions and opponents Ken Jennings and
+Brad Rutter enjoy simply by being human. In
+that aspect, it’s probably fair to argue that Jen-
+nings and Rutter were playing a completely dif-
+ferent game to Watson; the former testing their
+trivia skills while the latter tested his English
+language skills.
+So what does IBM have planned for the
+young linguistic master now that his Jeopardy
+days are over? Watson more than served his
+original purpose, convincing the US public
+that IBM are still at the forefront of solving
+some of the world’s toughest computing prob-
+lems. Yet running Watson as is in any other
+situation would probably be highly impracti-
+cal. For the moment, IBM has announced that
+they will be exploring the use of similar soft-
+ware to aid medical diagnoses and legal re-
+search. The truly exciting possibilities of the
+software lie well in the future though - many
+personal computers today can play more ef-
+ficient chess games than specialist chess com-
+puters of the 90s.
+For a six year old idiot savant whose only
+skill is an American game show, Watson’s
+domineering performance has served to bring
+AI and robotics back to the forefront of our
+imaginations but his legacy will lie in how far
+his performance goes towards bringing com-
+puters that understand the intricacies of speech
+into our homes. We’re used to chess-playing
+computers, but if things go to IBM’s plan it
+may be time to prepare for your GP being a
+copper and silicon box somewhere in Iceland.
+and a keychain clip. While you can’t fit any-
+thing particularly thick in there, the bottom of
+the pocket expands a little from its streamline
+appearance, accommodating something about
+the same size as a wallet. The back of the bag
+features a slim poppered pocket, ideal for
+something you need quick access to.
+The sides and bottom of the back feature
+some thin but quite robust padding, helping
+keep the contents secure if you happen to drop
+the bag, while the nylon construction proves to
+be fairly weatherproof.
+Of course the En Ville is quite small as
+shoulder bags go, and you can’t fit a whole lot
+in there, but if you just want to carry your iPad
+and a few bits and bobs, the En Ville is about
+as accomplished as an iPad-only bag could
+be. On whether anyone really wants a bag just
+for your iPad, the jury’s still out. But if you’re
+after one, the LE rush En Ville is a solid con-
+tender, despite the obscure name. Yours for
+around £30.
+Friday 25 february 2011
+8
+So what if ‘Watson’ won? He’s still not made from a single piece of aluminium. The
+MacBook Pro, now that’s a computer that a fanboy can really jerk off to
+

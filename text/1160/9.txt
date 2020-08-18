@@ -1,0 +1,158 @@
+6 December 1999 • Felix Feature 9
+Fighting Off Branson and Maxwell
+The market led Psion to games. Psion had
+started off with databases and also produced a
+program called flight simulator. It must be
+quite satisfying having been there at the birth
+of the computing gaming industry
+'"We were among the first companies in the
+world to put a simulation of an aeroplane into
+a small microcomputer and look at it as
+thought you were the pilot. It was terrific that
+there was real aerodynamics in there - we
+actually created the equations to do it all"
+Other games like Hungary Horace, Horace
+Goes Skiing, and Chequered Flag to name a
+few, followed. Psion became the number one
+in games in the UK from 1982 to 1983 and
+made huge profits, and it is those profits that
+formed the capital base of the company. The
+problem with huge profits is that everybody
+wants a piece of the action. People like
+Richard Branson and Robert Maxwell, with Vir-
+gin Games and the Mirror Group respectively,
+geared up for attack, and this caused Psion to
+change its strategy - they invested in the much
+longer term sense and moved towards areas
+where the barriers to entry would be much
+higher.
+"The question which we asked ourselves is
+what are the barriers to entry. Okay, we are
+making giant profits - what is to stop others?
+And the answer is we couldn't see very much,
+because barriers to entry were low. And
+because our capital was so much bigger,
+because of our success, our resources were
+much bigger...we had to move on"
+There were two main product lines that Psion
+targeted: the first (and most obvious) choice
+was application software for PCs. The other,
+however, was a completely radical concept of
+a very, very mobile computer. A computer that
+you could actually slip into your pocket, but
+which would manage information. It wasn't a
+calculator, it was going to manage information
+and they called it the Organiser to try and
+describe that.
+Birth of The Organiser
+So, Psion created the Organiser, invented it,
+and launched that in 1 984. The most demand-
+ing aspect of it's evolution was the software.
+15 years later the evolution of that software is
+now Symbian, but of it's turned into a giant
+after all those years. Now Psion Group are on
+32-bit platforms, utilising huge software
+resources and systems. They've done very well
+in understanding the right technologies, and
+the right software technologies. And that's why
+Symbian is in the prominent position it is.
+Over the years the company has broad-
+ened. They've produced the Organiser, and
+the Organiser II - both hugely successful prod-
+] PSION C O M P U T E R S PSION INDUSTRIAI PSION D A C O M
+symb an
+ucts that sold in their millions. Then the com-
+pany migrated to 1 6-bit systems that led to the
+Series 3 family: the 3A, the 3C, and so on.
+"We were the first company to produce a
+Graphical User Interface (GUI) in a highly
+portable computer - It's that which allowed us
+to compete and win against Hewlett-Packard,
+Sharp,Casio and Sony."
+Annus Mirabilis
+1998 was a year of significant change for
+Psion. At the beginning of the year Psion was
+under pressure in it's key palm-top computers.
+A surge of products produced by rivals such as
+Palm and various Windows CE based
+machines had cut Psion's market share in the
+market that it had created. Sales of the new
+Series 5 had been disappointing, and at the
+bottom of the range the Siena was dropped.
+Admittedly, Psion had a diminishing share of a
+wider market and it was still the market leader:
+Psion's share of the the European market
+dropped from around 70 percent to 59 per-
+cent during that year, but still one in four palm-
+tops sold around the world was a Psion.
+Fortunately, there is more to Psion than just
+palm-top computers. It is the world's third
+largest manufacturer of mobile PC modems,
+and sales in that division rose 79% last year as
+the demand for mobile PC connectivity took off.
+Dawn of a new EPOC
+On the same day that Psion announced a prof-
+its warning, it's share price doubled. Why? On
+that same day Psion announced that it was to
+join with three of the world's top mobile phone
+manufacturers to use Psion's EPOC operating
+system in a joint venture called Symbian. It is
+crucial to understand the significance of this.
+Operating system software for wireless teleph-
+ony is going to be one of the most competitive
+and exciting economic and technological are-
+nas for the next decade and beyond.
+The current situation is that Europe has the
+lead in mobile telephony. Finland's Nokia is
+the the world's No 1 cellular phone brand,
+Sweden's Ericsson is the number 2, whilst the
+American Motorola is the number three brand.
+The mobile phone business is exploding: cur-
+rent estimates are that global sales will grow
+from current levels of 100 million to 360 mil-
+lion units a year within two years. Just from
+these basic numbers you can see the reason
+for the global hyperactivity in the telecoms
+industry.
+Watch out Europe
+One of the major reasons Europe leads the
+world was the adoption of the GSM standard
+for the second generation of mobile phones
+(which we are currently using) whilst in the
+States there were many competing technolo-
+gies. Another reason is social. By 2003, ana-
+lysts expect much of the Continent to follow the
+example of Finland, where more than 6 out of
+10 people own cell phones. If that happens,
+248 million Europeans would own them (com-
+pared with 141 million today). Economies of
+scale could mean that within a decade wireless
+calls could be cheaper than standard landline
+calls
+Wireless Surfing
+The main technological driver for the next gen-
+eration of phones is the fact that the data
+bandwith that they will be able to handle will
+be much greater than at present. Naturally, this
+leads you to question why we should be limit-
+ed to only transmitting voice data. The next
+generation of wireless devices will enable users
+to access the internet or exchange email from
+a 'hand-held device'. At the moment, there
+function of these gizmos is split between two
+devices: an organiser and mobile phone. In
+the future there is no reason for these devices
+to remain separate.
+In my view one of David Potter's major
+achievements has been to strategically place
+his company at the centre of this new market.
+Nokia, Ericsson and Motorola currently
+account for 75 percent of the world's mobile
+phones. It will be interesting to see how the
+telecoms companies battle with the computing
+companies, each with their hundreds of mil-
+lions of customers who will increasingly over-
+lap as the boundaries merge. I can't wait to
+see what happens.
+Bashari Bakari
+

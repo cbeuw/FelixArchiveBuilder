@@ -1,0 +1,360 @@
+SCIENCE
+Felix presents the details of a new developement in research at Imperial
+Quadspace: Found
+On Monday this week, the Space-Time
+Interdisciplinary Research Centre (IRC) at
+Imperial College announced that a
+ground-breaking new paper is to be
+published in the near future. The paper
+details a radical new area of dimensional
+research and is titled 'Quadracyclic
+Dimensional Anomalies and their effects
+on the Space Time Continuum'. It was
+written by two independent researchers
+w o r k i n g at the IRC, J Briant and A
+Butcher. The pair have been working on
+the concepts outlined in the paper for
+most of their lives and met at Imperial
+College.
+The research began several years ago
+when Briant and Butcher, quite
+independently at the time, became
+fascinated by the number of times objects
+apparently disappeared without a trace,
+only to be found again later with no
+difficulty. However, it was not until they
+met at Imperial that the vague theories
+that both had coalesced into the current
+research. To explain: how m a n y times
+have you 'lost' an object, searched
+thoroughly for it and not been able to
+discover its whereabouts, only to discover
+it, after a period of time, w i t h relative
+ease? Probably hundreds, yet few people
+have ever stopped to question this
+phenomena. This week Felix is able to
+bring you an exclusive preview to the
+paper, written by the researchers
+themselves.
+Quadracyclic Dimensional Anomalies and their effects on
+the Space Time Continuum—an overview
+Before beginning this discussion of
+quadracyclic dimensional anomalies, and
+in order to simplify the following
+concepts, it would be advisable for us to
+explain some of the terms which are
+commonly used in conjunction with this
+research. 'Quadspace' is used to refer to
+the whereabouts of an object that has
+been the focal point of an anomaly. Thus
+an object is referred to as being 'in
+quadspace' and when an object enters
+quadspace, it is said to have been
+'quadspaced'. Furthermore, the point at
+w h i c h a quadspaced object returns to real
+space is termed the 'exit point'.
+The research into quadspace has
+progressed slowly, owing both to a lack
+of funding, and the inherent difficulty of
+the work. B y its very nature, quadspace
+is extremely difficult to investigate, and is
+a perfect example of various uncertainty
+principles; when actually looking for a
+quadspace anomaly one almost never
+occurs, yet w h e n your back is turned, so
+to speak (sometimes quite literally), one
+occurs. Despite these problems, however,
+we have managed to make some
+progress, which we shall attempt to
+explain herein.
+While initially all aspects of quadspace
+effects appeared to be random, after
+some investigation, and the application of
+modern chaos theory, it was found that
+certain patterns existed, and certain
+principles appeared to be acting.
+We shall start by examining the
+observations and hypotheses that have
+been arrived at relating to quadspace
+effects, and then continue by discussing
+the theories that we have proposed to
+explain these effects.
+A n y object can be quadspaced, with the
+transition of an object at the focal point
+of an anomaly from real space into
+quadspace appearing to be instantaneous.
+However, certain objects appear to have
+an increased likelihood of being at the
+focal point of an anomaly. Some appear
+to have an inherently higher probability
+associated with them, but those of a small
+physical size, and/or large level of
+'importance' have been shown to possess
+a much higher probability of becoming
+quadspaced.
+It is the second of these criteria that
+has caused the largest amount of
+controversy in this research. The
+implication that the human brain's
+perception of the need for an object at
+any given time can in some w a y affect
+the physical properties of the said object
+within the space time continuum is
+nothing short of revolutionary. It has led
+are poorly understood and often based
+mainly on obscure and complicated
+mathematics that are beyond the scope of
+this article.
+Obviously, the SPLIF value of a given
+object will v a r y with time. It appears that
+the rate of increase of an object's SPLIF
+value also has an affect on the probability
+of the object being quadspaced. Thus if
+an object suddenly becomes important,
+the chances of it being quadspaced also
+A Bic biro
+to the definition of a new property of
+matter, the Specific Perceived Level of
+Importance Field, or SPLIF. The SPLIF is
+the level of the value of or need for a
+given object at a given time as perceived
+by a given person. Items that typically
+have a high SPLIF value include such
+I things as keys, writing implements,
+cheque books, credit cards,
+contraceptives, cigarettes, matches or
+lighters, and scraps of paper with phone
+numbers or lab results written on them.
+Thus, at a given time t
+increase, apparently in a loose
+exponential relation. This explains the so
+called 'safe place' phenomenon: when an
+object is stored in a safe place and then,
+after a period of uselessness, becomes
+needed quickly, it has suffered a
+quadspace anomaly. Examples are sports
+equipment stored out of season, and
+important but little-used documents (birth
+certificates, etc).
+Thus at a given time t
+p(quad)* 1
+p(quad) x / d S P L l F V
+U J
+and
+V
+object
+p(quad) SPLIF(
+object
+Where p(quad) = the probability of the
+object entering quadspace
+sPLIF,
+volume of the object
+obiect = SPLIF value of object at
+that time.
+It should be noted with these and any
+following formulae that they are very
+inaccurate approximations of very
+complicated relationships, m a n y of which
+In addition to this there also appear to
+be areas where quadspace activity is
+abnormally high. Investigation of these
+'Quadzones' has led to the theories of
+SPLIF value addition and quadzones. A
+quadzone is an area of real space that
+has a high level quadspace activity. The
+only explanations for this involve some
+very high level mathematics which are
+beyond the scope of this article.
+However, the principle behind SPLIF
+value addition is more within the scope of
+this discussion. In an area where there is
+a high proportion of objects with high
+SPLIF values, they appear to create a
+combined effect that is larger than the
+10
+)liege
+One Dimension
+sum of their values.
+Thus, in a given area
+p(quad)«QfS PLIFo b j e c t 5y-
+where n = number of objects
+Once an object has been quadspaced,*
+the amount of time spent in quadspace is
+largely random. However, in c o m m o n
+with other aspects of quadspace
+phenomena, there do seem to be some
+underlying principles. The amount of time
+an object spends in quadspace is
+apparently proportional both to the
+amount of time spent searching for the
+object, and the level of the SPLIF value
+for the object as it changes with time.
+Thus
+and
+t Kt
+quad search
+t q u a d « . ( d S P L I F / d t ) 2
+W h e r e t(quad) = time spent in
+quadspace
+t(search) = time spent searching
+all objects in real space exist in four
+dimensions. If one imagines that the
+space-time in a localised area 'twists' or
+rotates around these axes, then the t axis
+would, for example become the x axis,
+the x axis would translate to the y axis,
+and so on. Thus to an observer outside
+the area of this Rotationally Operative
+A n o m a l y Centre Hysteresis, or R O A C H ,
+an object at the focal point of the
+'twisting' would vanish.
+It seems, however, that space time has
+a resistance to this effect, akin to a level
+of elasticity. While a R O A C H can occur
+given the right conditions, it can only
+exist for a short time before space time
+reverts to its previous state, and any
+object caught at the focal point of the
+R O A C H returns to real space. However,
+due to the translational effect of the
+twisting, and the relative movement of
+the object's original position over the
+period of the R O A C H quadspace effect
+the exit point of the object from it will
+often be at a different position in real
+space than that at which it initially held.
+As discussed above, it appears that the
+probability of a R O A C H occurring is
+Quad Space in action
+The exit point, of a quadspaced object,
+in c o m m o n with the time spent in
+quadspace, is totally unpredictable b y any
+current scientific means. Paranormal
+techniques have also proved unsuccessful
+to this point. However, also i n c o m m o n
+with other aspects of quadspace, there do
+seem to be some basic laws. Quadspaced
+objects never exit to a point currently
+under observation by any k n o w n method.
+The exit of an object from quadspace
+appears to be instantaneous. Also, it is
+entirely possible for a quadspaced object
+to exit to a point that was clearly in view
+or had been searched several times
+during the course of attempting to find
+the object. This has occurred in several
+case, as has the occurrence of the exit
+point in some place that said object could
+not have reached by any other means. It
+was the combination of these two factors
+that lead to m u c h of the early research
+into quadspace.
+There have been several hypotheses
+suggested to explain the underlying
+principles behind and the nature of
+quadspace. A l l have been investigated,
+and there are two that appear to be the
+most correct.
+The first revolves around the theory of
+dimensional 'twisting'. To put this simply,
+affected by various conditions, including
+the SPLIF. T h e resistance of space time to
+the twisting w o u l d appear to increase
+with the volume of real space involved,
+explaining the relation of p(quad) to'the
+volume of the object. It has been
+theorised that there exists a R O A C H
+potential, w h i c h can be visualised as a
+form of potential energy. W h e n the
+R O A C H potential reaches a certain level
+a R O A C H can occur, or can continue to
+exist. The higher the potential above this
+point the higher the probability of the
+effect occurring or continuing. Once the
+potential drops below a certain level
+space time reverts to its previous state.
+Unfortunately, no acceptable scale or
+means of measuring the potential at a
+given point has been discovered to date.
+It can be inferred, however, that most of
+the observed relationships discussed
+above relate to this R O A C H potential,
+and when the various conditions exist at
+certain levels the probability of a R O A C H
+quadspace event occurring is increased.
+The second hypothesis deals with the
+consideration of quadspace existing in a
+separate sense to the continuum in which
+we exist, as opposed to the above view,
+wherein quadspace is seen to be a
+characteristic of real space.
+The universe is apparently infinite within
+the four c o m m o n dimensions. However, it
+is possible that other 'universes' exist in
+parallel to it, utilising others. Quadspace
+may be such a parallel. If this is true then
+several observations can be arrived at as
+to its nature. Most importantly quadspace
+is obviously closely associated with our
+universe. It is this that allows quadspace
+effects to occur, w h e n an object from real
+space enters or leaves quadspace. The
+nature of this travel is a matter of some
+discussion and conjecture, but the most
+likely means are based on an obscure
+branch of geometrical mathematics,
+which can be used to show a process b y
+which objects could enter or leave an
+area such as quadspace. The key
+equations, whose complexity precludes a
+detailed analysis here, combine to form
+the Dual Optimised Permissibility
+Expression, or D O P E .
+This process is best imagined as an
+overlapping of real space and quadspace,
+and then the formation of a temporary
+link between them, caused b y specific
+circumstances. The Extrapolation of the
+D O P E also leads to some other inferences
+about quadspace and related events. The
+D O P E clearly shows that the probability
+of the link occurring is related to the size
+of the focal area of the link, with smaller
+focal areas m u c h more likely than large
+ones. Once again this explains the
+relation between p(quad) and V o b j e c t . It
+would appear likely that quadspace is not
+infinite in the same way as this universe,
+or at least does not have the same
+infinite capacity for objects from real
+space. Thus the higher the total volume
+of real space objects in quadspace, the
+less chance of another one entering
+during a link, and the more chance of
+one returning to real space.
+It also appears that real space objects
+have a low affinity for quadspace, but this
+affinity may be altered by certain
+conditions, and varies with certain
+properties of the object, such as its
+current SPLIF value. Thus an objects
+affinity for quadspace may be raised to
+the point where it can exist there, by
+increases in factors such as the objects
+SPLIF or by the combined SPLIF values
+of objects near to it in real space (see the
+equations above). However, if these
+factors then change, the objects affinity
+for quadspace m a y drop below a critical
+level. A t this point the objects foreign
+nature will cause it to be expelled from
+quadspace at the next link. The reason
+why objects tend to be expelled in an
+area close to that where the initial link
+formed are not k n o w n at this point.
+We would liketo thank all those who
+have helped us with this research, and to
+extend this thanks to IC itself, for
+allowing us the facilities we needed.
+11
+

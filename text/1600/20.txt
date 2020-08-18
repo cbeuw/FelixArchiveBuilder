@@ -1,0 +1,191 @@
+20 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+06.03.2015
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Nefeli Maria Skoufou Papoutsaki asks whether the virus could be eradicated
+Hope on the horizon for HIV
+HIV (the Human
+Immunodeficiency Virus)
+is one of the most lethal
+viruses. Since the first case in 1959,
+39 million people have died from
+HIV related diseases (including AIDS,
+the disease caused by the virus, and
+other co-infections such as Hepatitis
+C). However, much progress has
+been made in both the detection of
+the disease and in developing some
+potential treatments or vaccines.
+There are also reasons to believe that
+the virus will become less lethal in the
+coming years.
+The HIV virus targets the cells of
+the immune system. More specifically
+it targets the T cells, white blood cells
+that have as a primary role to kill
+infected cells and develop memory
+cells that can be quickly formed if
+the same virus/bacterium infects
+the body again. The virus is sexually
+transmitted and causes the widely
+known disease AIDS. The final stage
+of AIDS is the loss of immunity, so
+patients can die even from a common
+flu, this is why the HIV virus is
+related with other co-infections.
+Fortunately, leading researchers
+are working on the HIV and AIDS
+problem. One of the most important
+discoveries was the understanding of
+how HIV replicates. David Baltimore,
+an American biologist, along with his
+colleagues, discovered the enzyme
+reverse transcriptase that can make
+DNA from RNA, for which they won
+the Nobel Prize for Physiology or
+Medicine in 1975.
+This is the enzyme that
+retroviruses, such as HIV, use. They
+do so because after entering a host
+cell, they need to add their genetic
+material into that of the host cell,
+which is in the form of DNA. Many
+antiretroviral therapies (ARTs) can
+inhibit the replication of the virus,
+now that the mechanism is known.
+At the Conference on Retroviruses
+and Opportunistic Infections (CROI),
+which took place this February in
+Seattle, many important research
+findings were announced including
+improvements on current treatments
+as well as scientific breakthroughs.
+Focus was given on the
+improvements in care of both
+AIDS and Hepatitis C, an infectious
+disease affecting the liver. HIV-
+positive people are also susceptible
+to Hepatitis C due to common routes
+of transmission, such as sexual
+intercourse.
+The relationship between the Ebola
+outbreak and the effects on the HIV
+treatment were also discussed. It
+has been observed that in certain
+hospitals in Africa, there is a 50%
+drop in HIV testing, treatment and
+entry into care, since doctors focus
+more on the Ebola infection. This
+may create the need, now more than
+ever, for a simple and quick diagnosis
+that people can even conduct on their
+own.
+Generally, when people are
+diagnosed and under medical care
+they are 94% less likely to transmit
+the virus: something that underlines
+the importance of an early diagnosis.
+A group of researchers at Columbia
+University have developed a low cost
+smartphone accessory that can detect
+in 15 minutes from a blood sample
+whether the patient is HIV-positive or
+whether he has syphilis. The next step
+is to bring the accessory to developing
+countries, after modifying it, since
+most people there do not possess a
+smartphone.
+Concerning the treatment of HIV,
+there is a substantial problem that
+may have been overcome recently
+by a group of researchers in the
+University of California Technology:
+why natural antibodies don’t work in
+the treatment of HIV.
+Antibodies are Y-shaped proteins
+that attach to the surface of viruses in
+the receptors or spikes they have in
+order to destroy the viral cells. This
+process is more effective when both
+“arms” bind the spikes. In HIV cells
+these spikes are fewer and in much
+larger distance so the “arms” of the
+antibodies cannot reach two spikes
+at once.
+What this group did was to develop
+antibody based molecules that can
+bind both their arms at a single spine.
+The successful molecules managed
+to neutralize the HIV 10-1,000 times
+more effectively than the naturally
+occurring antibodies.
+Recently a drug candidate has been
+observed that could be potentially
+used as a vaccine for HIV, since it is
+the most effective inhibitor found so
+far. It can block every strain of HIV-1
+and HIV-2 that has been isolated
+from humans.
+Another point of the HIV cycle
+that is usually targeted by drugs is
+to prevent the entry in the host cell.
+This drug can bind to two points of
+the HIV simultaneously to more
+effectively prevent this entry. Also,
+if an adeno-associated virus that can
+easily be weakened is injected, it can
+turn cells into factories that produce
+this drug candidate that can last for
+years; even decades.
+As well as its effects on the immune
+system, HIV can also have effects
+on the brain. There are many HIV
+associated neurocognitive disorders
+(HANDs), usually found in patients
+over 50 years old.
+The virus prevents the cell from
+clearing its damaged proteins, in
+a process known as autophagy.
+Disrupting autophagy can cause
+the death of the cell when all these
+damaged molecules accumulate in
+high concentrations. The cancer drug
+rapamycin that enhances autophagy
+has been tested in HIV patients and
+indeed reduced damage of neurons
+was observed.
+Hope is also seen on the horizon for
+the HIV pandemic since the virus has
+been found to evolve in less aggressive
+forms in Africa. One reason for that
+may be because of the wide use of the
+HIV drugs which can decrease the
+possibility of transmission.
+Another reason for that may be that
+the virus is evolving in a form that
+would result in a slower infection so
+that the hosts can survive for longer
+and thus make it more likely for the
+virus to be transmitted to others.
+Although this is may not be the
+case of the evolution of virus in the
+Europe and the US, at least patients
+there can benefit from all the other
+advances in treatment and diagnosis
+mentioned before, if all these actually
+work in vivo.
+HIV under the microscope: New treatments in the past 20 years have significantly reduced the number of people dying of AIDS.
+Photo: imgkid.com
+"When
+people
+have been
+diagnosed,
+they are 94%
+less likely to
+transmit the
+virus."
+"HIV can also
+have effects
+on the brain."
+

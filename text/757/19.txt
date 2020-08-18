@@ -1,0 +1,321 @@
+FELIX, Wednesday December 10th 1986 20
+Imperial College has recently
+become part of LIVE-NET, one
+of the world's first academic
+interactive video networks.
+British Telecom approached
+the University of London with
+a partly developed network
+system, which they offered to
+the University free of charge
+(temporarily) in return for its
+further development.
+The University became
+formally involved with the
+project in March of this year.
+In October the hardware
+started arriving, and IC,
+University College and Senate
+House were connected up in
+time for the 'Science for
+Industry' Exhibition. Kings
+College came on line more
+recently, and it is hoped that
+Queen Mary College, Royal
+Holloway and Bedford New
+College, and the University of
+London Computer Centre will
+be connected in the new year.
+"the real question Is
+going to be whether the
+University gets enough
+real use out of the system
+to make Its development
+worthwhile"
+Those who attended the
+exhibition were amongst the
+first in the country to use the
+'video telephone', and they
+seemed to enjoy doing so.
+There is no doubt that the
+system works. The real
+question is going to be
+whether the University gets
+enough real use out of the
+system to make its
+development worthwhile, or
+whether British Telecom is
+simply presented with a
+marketable product at the end
+of the day, with the
+University's only reward being
+the prospect of royalties and
+the knowledge of a 'job well
+done'.
+TP?
+by Sunny Bains
+"It will allow more and
+better communication...
+but only If users spend
+time learning how to use
+It effectively"
+The main hope for the
+system is that it will allow
+more and better
+communication between
+people who are doing similar
+work in different parts of the
+University, and that it will
+allow intercollegiate teaching.
+There is no doubt that this is a
+realistic objective, but only if
+those who use the system are
+prepared to spend time
+learning how to use it
+effectively.
+At the moment the system
+can give four pictures to any
+college simultaneously. By
+switching one can get as
+many signals as are
+transmitting, four at a time. At
+the moment, all switching is
+done manually, however,
+designing software to make
+the technician's job obsolete
+(e.g., to keep one channel
+always switching to whoever is
+speaking for a more-than-four-
+way conversation) is part of
+the development which the
+University has undertaken.
+The LIVE-NET system is
+state of the art technology:
+this does not necessarily
+mean, however, that it will
+automatically benefit its users.
+A bad or mediocre lecture will
+not be improved by putting it
+on LIVE-NET, indeed, some of
+the restrictions of the medium
+(such as having a lecturer who
+is forced to stay seated, rather
+than being able to run around
+gesticulating) could make
+lectures worse. Bad teaching
+will be emphasised by the
+medium, not hidden. So far,
+the system has not always
+been used to its user's best
+advantage, simply through
+insufficient thought about its
+strengths and weaknesses.
+A good example of this was
+the first formal transmission
+from IC, a postgraduate
+Physics lecture. Students who
+attended were from both
+Imperial College and
+University College, the UCL
+students usually having to
+travel across London for the
+course. Instead, the students
+simply made their way to the
+TV studios in their respective
+colleges. The lecture was
+conducted in exactly the same
+way as usual, except that
+instead of seeing a lecturer
+and a blackboard they saw
+alternate pictures of the
+lecturer's head and his
+prewritten* notes. The lecturer
+simply went through the notes
+on the screen and the
+students dutifully copied them
+down. There was almost no
+interaction between the
+students and the lecturer
+except for the occasional
+query about a subscript and
+one correction. Afterwards,
+the students said that they
+appreciated not having to
+travel, but expressed doubts
+about the legibility of the
+writing on the screen and the
+pace of the lecturer. They felt
+that because he didn't have to
+write anything down himself,
+he didn't leave enough time
+for them to take down notes.
+It may be that this type of
+lecture is more suited to video
+tape than the video network.
+Had the lecture been recorded
+at IC in the morning and sent
+to UCL in the afternoon, then
+the UCL students would have
+been able to stop the tape
+when necessary. Any other
+problems could have been
+sorted out in a twenty minute
+LIVE-NET tutorial or, better
+still, a face-to-face tutorial
+which probably would have to
+take place anyway.
+FELIX, Wednesday December 10th 1986 21
+"the LIVE-NET system
+should not be wasted on
+things for which suitable
+technology already
+exists"
+The LIVE-NET system
+should not be wasted on things
+for which suitable technology
+already exists. It should be
+used, as far as possible, for
+truly interactive situations:
+seminars; short committee
+meetings; more discursive
+lectures; intercollegiate
+discussion groups for people in
+the same discipline; etc. If
+LIVE-NET must be used for
+formal lectures, then
+academics are going to have to
+The LIVE-NET system In use during the 'Science for
+Colin Grimshaw — switching the channels for IC.
+rethink their teaching style:
+abandon their old practices for
+some which are more
+compatible with television (and
+less compatible with sleep?).
+Unfortunately many academics
+are extremely reluctant to
+change their styles c" teaching.
+We can only hope that the
+prospect of looking foolish on
+TV will give them the impetus
+to think harder about how to
+give lectures in the studio.
+The LIVE-NET system is
+restricted by the fact that only
+one group of people can use it
+at once, i.e. there are only as
+many hours available in the
+'intercollegiate lecture theatre'
+as there are in any other room
+in the University. The LIVE-
+NET theatre is also
+considerably more expensive
+to maintain. While it is, of
+course, necessary to get
+people to use the system, it is
+more important in many ways
+to make sure they use it
+effectively right from the
+beginning.
+Those involved with the
+LIVE-NET project are aware of
+the problems related to the
+system. Indeed, they have a
+consultant whose job is to
+deal with the basic problem of
+making a man and machine
+compatible. Perhaps their
+biggest problem will come in
+trying to make people want to
+interact. One can only wish
+the project the best of luck
+and hope that LIVE-NET can
+help to pull the University
+together - and not die trying.
+Opinion: A View To
+Pacifism At Christmas
+Industry' Exhibition in October.
+It should not be taken from this
+article that all Christians are
+opposed to weapons, the MoT), or
+whatever, but all Christians desire
+peace in the world by some means,
+and in this sense are pacifists, this
+desire being firmly based on
+biblical teaching.
+It seems self-evident to many
+people that there exists things
+worth defending, worth dying for,
+even killing for. Most people would
+also agree that war, killing,
+violence constitute maybe the
+worst nightmare humans can
+suffer, and that they should be
+avoided as much as possible.
+Contrary to most of us, who
+rarely think where the line must be
+drawn, Augustine of Hippo was a
+thinker who asked when war can be
+justified. For him, a war was
+acceptable if non-combatants were
+respected, if it were waged by a
+legitimate authority for a good
+cause against unjust aggression,
+and if the benefit from fighting it
+outweighed the destruction caused
+by it. A war shouldn't be fought if
+there was no chance of winning it.
+St. Augustine's thinking, based on
+4th Century Christianity still
+reflects what we would call
+reasonable requirements.
+On the other a few people
+throughout history have rejected
+war, mainly on religious grounds.
+Christians followed the 'turn the
+other cheek' way of life until people
+stopped burning them and feeding
+them to the lions (around 300AD).
+Love for enemies, forgiveness,
+turning the other cheek: Is it just a
+display of weakness and passivity,
+like Nietzsche thought? Is it just a
+bunch of good principles,
+unapplicable and impractical in
+this violent and dangerous world?
+As a matter of fact, in the last
+4000 years war has failed to
+eliminate war from the Earth. The
+next major war will probably
+eliminate the human race as well as
+wars. In the light of modern
+warfare and of history as a whole
+one can't dismiss non-violence as
+naive or simply defeatist. Couldn't
+it be precisely because of the use of
+violence that after every war new
+divisions immediately form, new
+hatred and new interests drive
+people to worse conflicts? Couldn't
+there be something fundamentally
+wrong with the idea that we can
+make peace by endlessly preparing
+more destructive weapons? Can we
+really go on forever, shall they
+never be used? More than a matter
+of specific policies and politics, we
+seem to be immersed in a society
+which 'religiously' believes
+violence is a reasonable, necessary
+evil.
+The answers are not easy. We all
+feel we must protect our families,
+friends, even our civilization; but
+the way to do it becomes (as it
+should) less and less obvious.
+As a Christmas wish, may we
+start searching for the way to
+Peace: we who are responsible for
+it.
+M. Moutoussis,
+ICCU Social Action Rep.
+

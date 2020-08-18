@@ -1,0 +1,259 @@
+10
+TECHNOLOGY
+felix
+FRIDAY 8 october 2010
+4chan leaks smut pirate data
+Battles between mainstream film
+and recording industries and the
+public over piracy issues have al-
+ways been well documented. But
+the conflict between porn studios
+and your average pervert have re-
+mained largely under wraps.
+That situation changed last
+week when 4chan decided to tar-
+get one of the major legal play-
+ers ACS:Law. While carrying
+out their plan initially meant in-
+timidating its CEO, they stumbled
+upon an unencrypted text file con-
+taining the names of 5000 people
+who had been accused of pirating
+porn. In typical 4chan style the file
+was released to the public, caus-
+ing massive embarrassment for
+ACS:Law, Plusnet and BT (not
+to mention the 5000 accused of
+downloading titles such as ‘MILF
+Magic 3’).
+The leak kicked up a cloud of
+dirt for everyone involved and
+only the porn companies and
+4chan getting any satisfaction
+from the matter. It’s also thrown
+into focus an issue previously un-
+reported in technology circles - pi-
+racy of pornography.
+It’s well known that of all media
+industries, pornography has suf-
+fered the most at the hand of pira-
+cy. ‘Free’ streaming sites lure the
+vast majority of porn consumers
+who are unwilling to risk dodgy
+payments appearing on their bank
+statements. Yet one card that the
+porn industry can play is shame;
+most customers would rather ad-
+mit to downloading Phil Collins
+than ‘Skin City’. ACS:Law is the
+only remaining British company
+that extorts money through this
+legal form of blackmail, with most
+mainstream media labels ditch-
+ing this practice due to the bad
+publicity it generates. Their strat-
+egy is trivial. Upon reciept of an
+infringing IP address, ACS:Law
+contacts your ISP and demands
+the personal details of the person
+fingered by said IP address. Your
+ISP is legally required to disclose
+this information thanks to recently
+passed privacy bills, and before
+you know it there’s a letter in your
+mail asking you to pay up for your
+illegal download, failing which
+your name will be released to the
+public.
+The scam in itself is legal, and
+it’s easy to see why it might be
+fairly successful. ACS:Law’s
+failing was in its handling of
+the confidential user data it was
+handed by ISPs. The standard
+procedure that any responsible
+company should follow when
+handed such data is to securely
+encrypt it so that in case any part
+of its infrastructure is compro-
+mised, the hackers only come
+away with gibberish.
+What hackers found on
+ACS:Law’s servers wasn’t gibber-
+ish, but a backup of the entire web-
+site including records of emails
+sent by and within the company.
+ACS:Law (and the ISPs that hand-
+ed the firm the information) are
+obliged to encrypt any communi-
+cation that contains data that could
+be in breach of the Digital Privacy
+Act. In failing to do so they have
+undergone investigation by the In-
+formation Commissioner’s Office.
+The ICO’s probing has launched
+a tit-for-tat blame game across
+the board, with the government,
+ISPs and ACS:Law all blaming
+each other. ACS:Law looks likely
+to take most of the heat for this -
+their eagerness to profit off some-
+one else’s misfortune makes them
+easy villains - but it’s worth noting
+that none of the ISPs seem to have
+had any qualms about handing
+over the unencrypted information
+either.
+The legal ramifications of this
+scandal won’t be obvious until
+the ICO finishes its investiga-
+tions, but it does raise some seri-
+ous questions about the quality of
+current legislation. If the govern-
+ment wants to convince us that
+this is for our benefit, they have
+their work cut out for them - in
+the meantime, you might want to
+take precautions before grabbing
+“Catch Her In The Eye” off Pirate
+Bay.
+Feroz Salam
+Zuckerberg: The Man
+The year 2010 may just be Mark
+Zuckerberg’s finest. Having his
+net worth more than triple to $6.9
+billion, he has climbed the ranks
+of the Forbes 400 list from #158
+to #35. He even knocked Steve
+Jobs off the throne of Geekdom as
+Vanity Fair proclaimed him “our
+new Caesar” by placing him at #1
+in its 100 most influential people
+of the New Establishment. And
+this month, a biopic based on his
+dramatic founding of Facebook is
+coming out. Thing is, he’s only 26
+years old.
+The Facebook CEO is portrayed
+as a punkish antihero in The Acci-
+dental Billionaires, Ben Mezrich’s
+dramatic retelling of the genesis of
+Facebook, which The Social Net-
+work is based on. David Kirkpat-
+rick’s The Facebook Effect hails
+him as a genius of our generation
+who revolutionized the way we
+interact with each other. Love him
+or loathe him, one thing’s for sure,
+Zuckerberg exudes a peculiar sort
+of charisma.
+The youngest self-made billion-
+aire ever, he still lives in a rented
+house shared with his girlfriend,
+and has stuck to his trademark
+hoodie in every public appear-
+ance. In the movie, he is portrayed
+as borderline autistic. It may be an
+over-dramatization, but Zucker-
+berg is well known to be socially
+awkward. He speaks really fast,
+often coming across as nervous,
+but his words carry solid weight
+and a dead-sure conviction. That
+is the essence of Zuckerberg’s
+charisma.
+Mark’s steadfast and uncompro-
+mising vision for Facebook was
+key to its success today and also
+a source of much frustration to his
+colleagues. The Facebook Effect
+reports that Mark has always been
+adamant about maintaining an en-
+joyable user experience over rev-
+enue. He holds the majority of the
+company’s board of director seats
+in order to grow Facebook in ac-
+cordance with his vision. His dic-
+tatorship-like authority over the
+direction of the company kept it
+from being sold to Yahoo! in 2006
+and being bogged down by ads.
+But it may also have been behind
+the reason for the departure of co-
+founders Dustin Moskowitz and
+Chris Hughes as Facebook grew.
+Aptly timed before the release of
+The Social Network, the Facebook
+CEO went on Oprah announcing
+a donation of $100 million worth
+of Facebook shares to the Newark
+school system. Critics think it’s a
+pre-emptive move to protect his
+image. Having read The Acciden-
+tal Billionaires, I doubt the film
+will do Mark’s reputation much
+harm. Depicted as a gifted hacker
+with a disregard for the norms of
+social institutions, Zuckerberg
+comes across as a modern-day
+Byronic hero, albeit without the
+womanizing. It might actually
+propel him to rock-star status (at
+least in Geekdom). However
+Zuckerberg does have reasons to
+be afraid for his reputation. Ear-
+lier this year, Silicon Alley Insider
+got hold of an old instant message
+log detailing an exchange between
+Zuckerberg and a friend when he
+was still in Harvard. In the con-
+versation, Mark called Facebook
+users ‘dumb fucks’ for ‘trusting’
+him. Zuckerberg later apologized
+in an interview with The New
+Yorker, citing his imma-
+turity at that time.
+User trust is the
+cornerstone of Face-
+book’s stellar success.
+The willingness of users to share
+their personal information on Fa-
+cebook has made it the world’s
+most comprehensive database.
+Check back next week to find
+out how every bit of info you give
+Facebook makes it the most lucra-
+tive Internet start-up ever known
+to mankind.
+Guo Heng Chin
+modern-day
+without the
+t actually
+r status (at
+However
+reasons to
+ation. Ear-
+ley Insider
+nt message
+ge between
+d when he
+n the con-
+Facebook
+r ‘trusting’
+apologized
+The New
+a-
+Free App of the Week
+iOS - London Tube Status
+Keep up to date on tube line delays, closures and
+strikes with live updates from the palm of your
+hand. It’s fast, efficient and essential for travelling
+in London.
+Like the iOS app above this free Tube status app
+grabs live info from TfL, including departure boards.
+It also comes with packing widgets for your home
+screen so you don’t even have to open the app.
+Android - London Tube Status
+Technology Editor: Samuel Gibbs
+technology.felix@imperial.ac.uk
+

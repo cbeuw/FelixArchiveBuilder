@@ -1,0 +1,226 @@
+”
+“
+Sex? Completely Overrated
+s much as you may
+think the contrary,
+and that this advice is
+hardly required for the
+average Imperial stu-
+dent, avoiding sex is really quite dif-
+ﬁcult. That is, for a species to survive,
+its genome must be kept up-to-date
+through the ‘shuﬄing’ eﬀects of re-
+combination and sexual reproduction.
+Without it, evolution simply can’t
+happen quickly enough in the ﬁght
+against threats such as parasites.
+Enter the bdelloid rotifers – truly
+inspiring creatures, am I right? Well,
+okay, but most biologists at least hold
+some respect these tiny little freshwa-
+ter organisms. Take a sample of water
+from a pond or some damp soil, look at
+it under a microscope and you’ll prob-
+ably ﬁnd a few roaming about, using
+their ciliated mouthparts to scoop up
+bits of algae and other protists. They
+are particularly special, as not only
+can they survive radiation and other
+unwelcome environments by enter-
+ing a form of indeﬁnite dormancy, but
+they just don’t have sex.
+Sure, we know of other organisms
+that reproduce asexually (essentially
+making clones of yourself) such as
+aphids, but most of these have sex at
+least some of the time. Of those who
+don’t, they have diverged fairly recent-
+ly from their sexual ancestors, and so
+are likely to die out relatively soon. On
+the other hand, the all-female bdelloid
+rotifers don’t seem to have reproduced
+sexually for around 80 million years.
+This is a dry spell that deserves some
+serious attention.
+It had already been known that these
+guys (well, girls) have a very clever
+way of repairing their DNA, which al-
+lows them not to be bothered by ionis-
+ing radiation and means that they can
+SCIENCE
+A Brief History of Time Pigs
+Ninety-seven million years ago pigs
+and humans were one of the same.
+Well, sort of. There wasn’t exactly a
+four-trottered, bristly-nosed Homo-
+something snuﬄing through the Cre-
+taceous. But we did share a common
+ancestor, a small generic mammal
+prototype, whatever that might be.
+Actually it probably looked like
+an extinct creature called Juramaia
+sinensis, the oldest known eutherian
+(non-marsupial) species. Pop a with-
+ered, earless Dachshund head onto an
+obese rat, and that might paint a very
+vague picture. Anyway, this is about
+pigs.
+As eutherian mammals we reached
+a fork in the road: humans and ro-
+dents went one way; cows, horses,
+dogs, and pigs the other.
+Recent analyses of the genome of
+domestic and wild pigs, under the
+auspices of the Swine Genome Se-
+quencing Consortium, have shed new
+light on pig evolution.
+The scientists compared the genom-
+es of ten wild boar and six domestic
+pigs from diﬀerent areas across Eu-
+rope and Asia.
+Their ﬁndings, published in Nature,
+conﬁrm the fact that boars (and all
+pigs) emerged from South East Asia
+and subsequently spread across Eura-
+sia.
+About one million years ago colder
+climates during the Calambrian gla-
+cial intervals isolated the two popula-
+tions. A deep chasm formed between
+European and Asian boars.
+Then – to leap forward 80,000 years
+– during the Last Glacial Maximum
+(LGM) about 20,000 years ago vast
+swathes of boar died. But a small
+proportion survived. They suﬀered a
+population bottleneck on both sides
+of the split. However, this drop in
+population was more pronounced in
+Europe than in Asia where the LGM
+had less impact. For this reason the
+researchers found that European
+boar had less genetic diversity than
+Asian boar. With fewer genotypes in
+circulation the diﬀerence between
+Asian and European pigs was driven
+further.
+Enter humans and domestication.
+About 10,000 years ago pigs and hu-
+Nick Kennedy Writer
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+21
+FRIDAY 23 NOVEMBER
+“
+”
+They take
+DNA from
+their food and
+incorporate it
+into their ge-
+nome
+repair any damage after coming out
+of dormancy. It was thought that this
+system could possibly be maintaining
+the genetic variation required. While
+this could still help, researchers at Im-
+perial and Cambridge have discovered
+there is in fact a more understandable
+way of getting over millennia without
+a signiﬁcant other.
+Food. Eating a tub of ice cream is
+certainly one way of consoling your-
+self, but the bdelloidea do something
+rather special with their meals. They
+assimilate them. More speciﬁcally,
+they take the DNA from their food
+and incorporate it into their own ge-
+nome. Which, by the way, is extremely
+cool.
+Some nifty bioinformatics and anal-
+ysis have shown that the proportion
+of the bdelloid’s genes that have come
+from other organisms (known as hori-
+zontal gene transfer) is around 9%.
+This is astoundingly high compared to
+other multi-cellular organisms such as
+the biologists favourite fruit ﬂy (Dros-
+ophila melanogaster – around 0.6%)
+or nematode (Caenorhabditis elegans
+– around 1.8%). What’s more is that
+these genes appear to have come from
+the fungi, algae, protists and bacteria
+that make up the average bdelloid ro-
+tifer diet.
+These genes aren’t just there by ac-
+mans embarked on an intimate and
+complex relationship. Hmm. This
+lead to even greater selective pres-
+sures that shaped the genome of do-
+mestic pigs. In Europe the result was
+Sus scrofa domesticus, the pork-chop-
+Must resist urge to make a terribly
+clichéd joke about pigs and bacon...
+and-bacon variety. Incidentally, there
+are about one billion domestic pigs
+alive today, which makes S. s. domes-
+ticus one of the most numerous large
+mammals on the planet.
+By 1868 the populations were so
+diﬀerent that Darwin proposed they
+originated from two distinct boar
+species. But this study shows that
+both Asian and European pigs arose
+from the Eurasian wild boar (Sus
+scrofa). This analysis tells us that pigs
+were domesticated independently
+across Europe and Asia. It also rein-
+forces the historical observation that
+Asian pigs were introduced into Eu-
+rope during the 18th and 19th centu-
+ries to bolster European herds.
+The researchers go on to describe
+the pig’s enormous repertoire of ol-
+factory genes. Smelling is vital to
+their scavenging lifestyle. So have a
+bit of sympathy when you next pass
+a pig farm – their eyes are watering
+more than yours.
+DOI: 10.1038/nature11622
+Charlie Hayward discusses why one class of creature shuns sex
+cident either; they have a strong eﬀect
+in increasing the biochemical diver-
+sity of these creatures. Some of them
+code for some really important meta-
+bolic enzymes involved in processes
+such as glycolysis and carbon ﬁxation,
+as well as toxin degradation and an-
+tioxidant generation. Some of genes
+encode for processes that aren’t else-
+where found in the animal kingdom,
+and now we know why. Stealing a link
+in the metabolic pathway of the fungi
+you are eating can certainly give you a
+novel advantage!
+So, whenever you’re feeling lonely
+and the chocolate bar wrappers are
+mounting up, think of the humble
+yet awesome bdelloid rotifer. Unless
+you’re a member of the Borg, assimi-
+lation is sadly out of your reach. Of
+course, if you do manage to spawn life
+at some point and keep the gene pool
+nicely varied then you have no need to
+worry. If not, then you probably know
+what a Borg is.
+DOI: 10.1371/journal.pgen.1003035
+An 80-million-
+year dry spell
+A
+Turns out there’s
+more to celibacy than
+looking this attractive
+redorbit.com
+blogs.discovermagazine.com
+

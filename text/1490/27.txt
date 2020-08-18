@@ -1,0 +1,295 @@
+FELIX Friday 27 may 2011 27
+GAMES
+probably use source control? You know,
+all these kind of things, which I think
+computer science departments are now
+sort of adding to their arsenal of skills
+to know about when you go into the in-
+dustry. But certainly when I was here,
+in computing there was a lot more em-
+phasis on the theoretical aspects, which
+actually come up very little in most pro-
+gramming jobs.
+You said you worked in the financial
+services industry. A lot of people at
+Imperial are quite focused on finance;
+they’re trying to get the big money
+and the big status. Now that you’re
+not in that industry, do you wish that
+you were, or do you think that you’ve
+moved to a better place?
+I wouldn’t go back unless I felt that
+what I was doing was changing stuff for
+the better. I’m in some sense privileged
+to have seen the precursor to the 2008
+credit crunch, and I actually worked
+on a project to help a bank trade more
+mortgage-backed securities and de-
+rivative products thereof, in America in
+summer 2007. At the time people were
+saying: “you don’t know how it works,
+but trust us, it works”. So having been
+there and realising that no-one really
+knows how it all works, I would have
+to feel like I was improving the lives
+of people rather than treating quality of
+life as an externality for other people to
+worry about.
+Obviously LittleBigPlanet is now a
+huge phenomenon. What does it feel
+like to look at that and say: “yeah, I
+helped that become what it is”?
+I’m really proud of what we’ve
+achieved. I think none of us really knew
+how successful it was going to be when
+we launched. I think it’s just amazing
+what people have done with LittleBig-
+Planet. It just gives me great sense of
+pride, really. It also scares me a bit that
+when we go on to do something else
+everything’s going to be compared to
+LittleBig Planet, obviously. The old sec-
+ond-album syndrome! But it’s just great
+to have been there at that time and to
+have gone through that whole process;
+really, it was an honour.
+Is there anything that you feel hap-
+pened at Imperial, or anything about
+Imperial specifically, that helped you
+in your career?
+I would say academically, not so much
+– that’s not Imperial’s fault, it’s more
+mine for not paying attention. But I
+would say that being surrounded by
+brilliant people and the resources to
+play with stuff really helped to build
+an inquiring mind. And I felt that when
+there’s so many people around you, do-
+ing such great things, you start to realise
+that anything’s possible, or what you
+thought was impossible may not actu-
+ally be impossible. I don’t know how
+you’d write that down succinctly, but
+it’s sort of the sense of opportunity and
+of things being achievable – problems
+are tractable.
+If you had one tip for someone at Im-
+perial wanting to get into the games
+industry, what would it be?
+Make games, or make things to do with
+games, or talk to people in games, or
+play games, or – sorry, one tip? Do what
+you love, and get it in front of people –
+that’s still two tips!
+So what did you study at Imperial?
+I did Computing, graduating in 2006. I
+then started doing a PhD and then got
+lured away by the games industry after
+1 year of that – I never completed it. I
+joined Frontier in 2007 and I’ve been
+working there ever since, so yeah, that’s
+about three and a half years now.
+What did you start your PhD in?
+It was actually in city generation for
+games. The first year I did research into
+that sort of stuff and just had little dem-
+os of things. The main idea was to use
+genetic algorithms to try and generate
+cities that were aesthetically pleasing
+and fulfilled requirements. But, I never
+finished that so I probably shouldn’t talk
+too much about it!
+So you started your PhD and then got
+lured away - what was it that lured
+you away?
+I guess I always intended to go into the
+games industry at some point. I suppose
+I had this impression that it was very
+difficult to get into – I tried to actually
+get an industrial placement as part of
+my course with a few different games
+companies, and they all basically said
+‘no’ without even considering me. They
+didn’t look at my CV or anything. It was
+just, “no, we don’t do placements”, so
+that gave me the impression that it was
+going to be pretty tough. When I was
+doing my PhD I attended one of these
+[GaME] events back in 2006, and David
+Braben, who’s the founder of Frontier,
+was giving a talk and I talked to him
+afterwards about it and he said, “well,
+you know, come and do a placement at
+Frontier”. Initially it started as a place-
+ment and I just continued working there
+afterwards, much to the disappointment
+of my supervisor.
+You said you always intended to go
+into the games industry, but when did
+you first feel that that was what you
+wanted to do?
+Probably from six or seven years old!
+I used to play tonnes of games, I still
+do play a lot of games. It was always
+something I was interested in – I learnt
+to program in BASIC and Pascal fairly
+early on. I was a bit disappointed that
+at school there weren’t many opportuni-
+ties to do that sort of thing, but it was
+great to then come to Imperial and learn
+how to program properly, with good de-
+signs. So, it’s just something I’ve pretty
+much always wanted to get into.
+You also said that as a student you
+had this impression that the games
+industry was hard to get in to. Do you
+still think that, or has that changed?
+Mainly I thought it was difficult because
+when I tried to get an internship during
+my undergraduate I found it so difficult.
+I think a lot depends on catching devel-
+opment teams at the right time, because
+if they’re right near the end of the proj-
+ect and they’re just trying to get this
+game out, they’re probably not going to
+want to take on a new person and train
+them up. I think it’s just understanding
+when companies are realising games
+and making sure that you’ve asked them
+early enough. Obviously you need to
+be a good programmer – when I joined
+Frontier there was a programming test
+I had to pass. I don’t think it’s all that
+difficult and if it’s something that you
+really want to do then it’s just a case of
+applying to lots of different companies
+and hoping that one of them takes an in-
+terest and takes you on.
+What’s your role at Frontier?
+I mainly work on two things. We have
+this tool which allows our animators to
+put their animations in the game and set
+blend weights and stuff like that. I do a
+bit of work on that, and I help anima-
+tors set up all that stuff, and I make sure
+that our back end animation system is
+doing whatever it needs to. The other
+main thing I work on at the moment is
+‘avateering’ [full body tracking] related
+stuff, which is basically mapping what
+you’re doing in front of Kinect onto a
+virtual character in the game and mak-
+ing sure it matches your actions very
+closely. Most of this requires obviously
+doing quite a lot of programming in
+C++. We do a fair amount of scripting
+in Lua as well, but also a lot of the job is
+talking to animators and designers and
+artists, and making sure that what they
+wanted to see in the game actually ends
+up in there, and just supporting them to
+make the game hopefully look as good
+as it possibly can.
+Is there anything you did at Imperial
+that you feel was advantageous or dis-
+advantageous?
+I guess Imperial [computer science]
+teaches you a broad range of subjects,
+and most of them do end up being use-
+ful in different ways. Just learning how
+to do good code design and different
+design patterns and stuff like that was
+really helpful. One thing at the time was
+that Imperial didn’t teach C++. I think
+the computing department now does
+have C++ course in the second year, but
+I might be wrong about that [he’s not].
+That’s something that always surprised
+me – that a lot of universities don’t
+teach C++ despite it being one of the
+most popular languages out there.
+So you feel that it’s mainly your
+course that got you where you are?
+Yeah, before I came to Imperial I knew
+some programming but my design was
+terrible, and it really got me to appreciate
+how if you’re working in a large team of
+people you do have to put care into your
+design and make sure you code is reus-
+able and stuff like that. That’s probably
+the main thing that the university course
+teaches you – getting you out of all the
+bad habits that you pick up if you teach
+yourself how to do things.
+What sort of things would you say to
+people at Imperial who might have
+done a bit of programming and might
+be interested in getting into the games
+industry but aren’t computer scien-
+tists?
+I would probably say that they shouldn’t
+be put off by the fact that they’re not
+computer scientists. Frontier does actu-
+ally hire a lot of people from other disci-
+plines. Normally when we hire someone
+who isn’t a computer scientist, we will
+show them exactly how we set the code
+up and make sure they don’t feel uncom-
+fortable or like they’re being asked to do
+more than they can do, but at the same
+time they probably should make every
+effort to try and learn C++. It’s an incred-
+ibly complex language, probably too
+complex for it’s own good sometimes.
+When I got there, I just read through the
+code base and saw how people were do-
+ing stuff and copied that, and just built
+up from there. It didn’t take long to do
+that. Obviously it helps to know other
+languages beforehand, so try to learn a
+language in your spare time and go from
+there. But don’t be put off by it!
+A lot of Imperial students seem to be
+focused on finance, and big money.
+You obviously didn’t take that route
+– are you glad you didn’t?
+Yeah, definitely. I know quite a lot of
+people who work in consultancy and
+financial roles, and they tell me about
+the stuff that they’re working on and it’s
+definitely not something that would in-
+terest me very much. I like to work on
+things which are graphical, and where I
+can see this product on shop shelves and
+see people enjoying playing it. I think
+games is a really creative thing to be part
+of, and even if you’re doing a really sci-
+entific part of it the creativity still spills
+over into what you’re doing. Working
+with artists and designers is really en-
+joyable, and I don’t think you get that
+sort of experience working for a bank or
+a purely software company. That’s why I
+really like the games industry!
+For any student wanting to get into
+the industry, have you got any other
+top tips?
+It’s definitely beneficial I think to have
+a demo of your work. I didn’t(!) when
+I applied, which is maybe why I found
+it difficult to get internships beforehand.
+Certainly if you can show them stuff
+that you’re working on, just to show
+that you have this interest and you can
+do this stuff, then that’s always good!
+Marc Hull
+from Frontier Developments
+“Working with artists
+and designers is
+really enjoyable,
+and I don’t think
+you get that sort of
+experience working
+for a bank or a purely
+software company”
+

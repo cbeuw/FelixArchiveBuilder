@@ -1,0 +1,196 @@
+SCIENCE
+FELIX Friday 27 january 2012 9
+A
+recent flurry of articles
+expounding the effects of
+the current mild winter on
+the natural world serves
+to remind us of the conse-
+quences of climate change, but do these
+examples contain any scientific mean-
+ing, or are they merely interesting, if
+foreboding, anecdotal tidbits?
+Spring flowers such as hazel catkins,
+snowdrops, and daffodils, traditionally
+expected in late January or early Febru-
+ary, have been seen across the UK from
+as early as Christmas Day. Hedgehogs
+and other hibernating mammals such
+as bats have been active in defiance of
+their normal winter tactics, whilst red
+admiral butterflies have been taking
+advantage of the almost balmy climate.
+Even the birds and the bees are follow-
+ing suit by living up to their eponymous
+phrase earlier than in previous years,
+with robins singing, wood pigeons rear-
+ing young, and buff-tailed bumblebees
+managing to emerge uncharacteristi-
+cally early.
+Keeping records of such phenological
+events is entrenched in British tradition.
+Records of the first cuckoo of spring or
+the first leafing dates of trees have been
+kept for hundreds of years. Data such as
+this can prove useful in providing evi-
+dence for the effects of anthropogenic
+climate change on individual species or
+groups. For instance, it has been shown
+that since 1939 UK birds such as the
+wren have been steadily breeding ear-
+lier. Countless examples of phenologi-
+cal advances such as this can be found
+across a diverse range of organisms, but
+can they advance our understanding of
+the deeper biological implications of
+climate change on ecosystems?
+When taken in isolation, the answer is
+not really. A 2005 paper by Dutch sci-
+entists Visser and Both acknowledged
+the fact that on its own, evidence of
+phenological advances could illustrate
+contrasting climate change impacts.
+Positive if the advances were evidence
+of adaptation to climate change, or neg-
+ative if that species was becoming in-
+creasingly out of synchronisation with
+its environment. The latter cannot be
+known unless data also exists for other
+important species with which it inter-
+acts, for instance we cannot know if an
+advance in flowering date is beneficial
+or detrimental to a given plant unless
+we know whether or not its insect pol-
+The phenological fallacy
+linator has also advanced. The point is a
+‘yardstick’ by which to judge the poten-
+tial impact of a phenological shift on a
+species is needed.
+Whilst this may seem obvious, more
+cryptically it has also been shown that
+the use of these ‘firsts’ is fundamentally
+a poor indicator on which to judge the
+effects of climate change on a species.
+Granted, the ‘first’ cuckoo of spring has
+been getting earlier and earlier, but this
+data alone tells us nothing about what
+the rest of the population is doing. It
+would be much more informative, ac-
+cording to Jean-Pierre Moussus and
+colleagues, to use the mean date of a
+phenological event to analyse and pre-
+dict the effects of climate change on a
+population.
+Unfortunately phenological data for
+many individuals in a population is a
+rare luxury, let alone equivalent data
+for the species with which they inter-
+act. Many researchers however, unlike
+some species to climate change, are
+adapting to this way of thinking and
+are designing experimental systems ac-
+cordingly, with the aim of painting a
+more complete picture of the impacts of
+climate change.
+Christopher Nichols on why the first cuckoo of spring doesn’t necessarily tell us much
+A new genomic sequencing method
+has been put into practice by Professor
+Franklin Pugh and graduate student Ho
+Sung Rhee, after development in Penn
+State University. The method, known as
+ChIP-exo, gives us an insight into the
+proteins that read and regulate chromo-
+somes (transcription preinitiation com-
+plexes, or PICs) and was detailed in a
+paper published online in Nature.
+Although it varies in proportion from
+species to species, a lot of DNA does
+not actually code for anything; around
+98% of a human genome is non-coding,
+compared to 11% of the genome of bac-
+terium E. coli. This means that the cod-
+ing portion that makes up genes has to
+be identified, and, with the human ge-
+nome consisting of 3.2 billion base pairs,
+this can prove tricky. Genes themselves
+have integral sequences called promoter
+regions that allow their identification in
+between all the millions of non-coding
+base pairs, and ChIP-exo takes advan-
+tage of these integral sequences as PICs
+bind to them. Furthermore, ChIP-exo
+eliminates “transcriptional noise,” un-
+wanted levels of transcription to al-
+low detection of more PIC binding se-
+quences than other sequencing methods
+would allow. “The advantage over other
+techniques of [ChIP-exo] is its ability
+to narrow down any binding location
+across millions and billions of nucleo-
+tide genomes to a certainty of about one
+nucleotide,” said Pugh.
+In the new technique, genes are first
+transcribed into a more dynamic mol-
+ecule called RNA in a process called
+transcription, that occurs in the nucleus.
+RNA is then translocated to the cyto-
+plasm of the cell to provide the instruc-
+tions to manufacture the protein. PICs
+are different proteins that allow and
+control this RNA manufacture, and bind
+at the promoter regions of genes in a se-
+quential manner to allow transcription
+to proceed. A better understanding of
+how they position themselves along the
+DNAallows a greater insight into where
+the genes actually start in the genome,
+and how gene expression in cells is
+New insight into gene expression
+Philippa Skett
+He doesn’t look very defiant, does he?
+regulated, as not all genes are active all
+of the time.
+To identify these PICs and the se-
+quences they bind to, exonucleases (the
+“exo” in ChIP-exo) were used. These
+enzymes catalyse the degradation of the
+double stranded helix effectively de-
+stroying the genome. Multiple exonu-
+cleases were applied across the whole
+genome, and it degraded the DNA until
+a cross-linking point was reached in
+DNA where the PICs begin to interact
+with the promoter regions. These con-
+served regions were then isolated and
+sequenced accordingly. Rhee ran ChIP-
+exo for various PICS, RNA Polymerase
+II, the enzyme that actively synthesises
+RNA, and for GTFs, General Transcrip-
+tion Factors, and mapped of the precise
+location of more than six thousand of
+these PICs in yeast. The technique
+showed how they interacted specifically
+with nucleosomes: DNA bound tightly
+to proteins called histones to allow it to
+be compacted into the nucleus.
+So what does this indicate in the long
+run? Studying yeast here allows for
+many of the principles to be extrapolated
+on to other species, including humans,
+to allow a better insight into their gene
+regulation and initiation; a small yet
+crucial step towards being fully aware
+of the genomic capabilities of humans
+and how we can manipulate it in the fu-
+ture. Genetically modified crops, genetic
+diseases, developmental disorders, and
+advancing in on the cure for cancer are
+all areas that can benefit highly from the
+new data this technique can deliver, and,
+when used in conjunction with existing
+methods, the limits to our grasp of genet-
+ics have now been extended.
+DOI: 10.1038/nature10799
+Is this a sequence binding of proteins or did we print wrong?
+B. Franklin Pugh, Penn State University
+

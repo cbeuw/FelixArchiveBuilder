@@ -1,0 +1,282 @@
+Electric Cell
+After 20 years of
+c a m p a i g n i n g the Elec E n g
+department is to get a
+c o m m o n room. Students
+agreed to give up s o m e
+locker s p a c e so that the
+ground floor locker room
+could be carpeted and
+furnished. N o date has
+been fixed yet for an
+official opening but this is
+expected to o c c u r after the
+installation of a coffee
+machine, in early February.
+G u i l d s President R o g e r
+Preece, himself an
+electrical engineer, said
+that, until now, there has
+been no real meeting point
+for students in the
+department, apart from '3
+chairs in the foyer'. H e a d of
+Elec E n g Professor M a y n e
+said the room was a
+'welcome addition'.
+Mr Preece hopes this will
+be an incentive to other
+departments to provide a
+meeting place for students
+Important
+Engagement
+U n i o n Receptionist Kathy
+Tait and R a g C h a i r m a n
+J o h n Ingham were e n g a g e d
+whilst spending a month's
+holiday in the B a h a m a s .
+T h e y have no immediate
+plans, but expect to marry
+when J o h n , at present in
+the third year of his
+C h e m i c a l Engineering
+course, gains his degree.
+Going
+Underground
+P r o p o s a l s have been put
+forward by C o l l e g e to move
+the F E L I X Office from its
+present position, at the
+entrance to Beit Q u a d , to
+the kitchen area behind the
+U n i o n L o u n g e . T h e extra
+s p a c e generated will, if the
+proposals are implemented,
+be used for offices and
+seminar r o o m s by t h e
+College. F E L I X Editor H u g h
+S o u t h e y and U n i o n
+President Carl B u r g e s s will
+be d i s c u s s i n g the proposals
+with C o l l e g e Secretary
+J o h n Smith today.
+Data Bank
+M i d l a n d Bank will be
+donating computers to the
+C o m p u t i n g Department for
+use by undergraduates. It
+has been reported that the
+bank feels that the
+government is
+underinvesting e n o u g h in
+universities.
+Nicaragua
+Appeal
+T h e Socialist S o c i e t y
+collected £10.76 for the
+World University Service at
+T u e s d a y ' s U n i o n G e n e r a l
+Meeting. T h e W U S will use
+the m o n e y for the purchase
+of a truck w h i c h will b e
+filled with educational
+materials, including
+typewriters, duplicators a n d
+m i c r o s c o p e s , for
+universities in Nigaragua.
+S o c s o c will be leaving a
+collection tin in the U n i o n
+Office for any further
+donations.
+I
+I*
+mEeflBRflin
+J u d g i n g by the number of
+entries we've had I'm sure
+you're all just dying to
+know the soultion to
+'Electric Nightmare'.
+Admittedly it was a difficult
+problem, but I was
+disappointed that n o b o d y
+even attempted a solution.
+O h well, we saved
+ourselves five p o u n d s
+anyway! T h e full solution is
+given below.
+Doors And Devils
+Most people know the o l d
+problem where you're
+trying to escape from Hell,
+you c o m e to two doors,
+you know that o n e leads to
+freedom, and that one
+leads to a fiery pit. Outside
+the doors are two devils,
+o n e w h o always lies and
+one who always tells the
+truth, but you don't know
+which is which. B y asking
+one question only to one of
+the devils, you have to find
+the correct door to g o
+through. T h e correct
+question to ask of either
+devil is: 'If I asked the other
+devil which was the correct
+door to g o through, what
+would he say?' N o matter
+w h i c h devil you ask, it will
+indicate the w r o n g door.
+Think about it!
+N o w c o n s i d e r a slightly
+harder problem. Firstly
+there is only one devil w h o
+not only might be a truth
+teller or liar, but may
+sometimes lie and
+sometimes tell the truth.
+S e c o n d l y there are more
+than 2 doors, 4 say, and
+only one leads to escape...
+Y o u may only ask one
+question and the devil can
+indicate one door only.
+A l s o the whole question
+must apply to the devil (ie
+you cannot ask questions
+of the type 'If you are a liar
+answer this way, but if you
+are a truth teller answer
+this way.').
+What is the question?
+T h e best entry submitted
+by 1:00pm T u e s d a y 28th
+will receive a £5 prize.
+a distribution of current
+that is just the addition of
+the two previous current
+distributions. (The two
+solutions are 'superposed').
+We've now essentially
+solved the problem.
+C o n s i d e r applying a
+voltage of +1V at any point
+on the grid. B e c a u s e the
+grid is exactly symmetric
+any current that flows must
+have the s a m e value in all 4
+directions (there can be n o
+prefered direction) Call this
+current I.
+-ti
+, i
+T h e voltage difference is 2V
+and thus the effective
+resistance is >2 ohm, and
+that's the answer.
+i n
+Electric nightmare-Solution
+T h e prpblem, if you
+remember, was to find the
+effective resistance across
+o n e resistor of an infinite,
+square, grid of o n e - o h m
+resistors. T h e key to the
+problem is that O h m ' s law,
+V=IR, is linear (ie V is
+proportional to I). T h u s if V A
+=UR, and V b = l b R then (V*
++Vb)=(U+lh)R, obvious,
+hey? A n y two solutions can
+be added together to form
+a third solution (this is
+known as 'linear
+superposition' in the
+technical lingo, and can be
+appliad to any linear
+equation). This means that
+for a fixed resistor
+network, if applying a
+certain voltage produces a
+distribution of currents, a n d
+applying a different voltage
+at a different place
+produces a s e c o n d
+distribution of currents,
+then applying both voltages
+at the s a m e time produces
+N o w take the adjacent
+point and consider exactly
+the opposite situation ie
+apply — 1 V and a current of
+-I will flow.
+i r i
+T h e s e are the two
+solutions that w e
+'superpose' together. W h e n
+we d o this w e get t h e
+solution for a 2V voltage
+difference applied across
+the one resistor.
+tJ 21
+I Jlv
+I
+4-
+T h e currents in the
+resistor add to give 21.
+L o o k i n g at the resistor
+alone w e have 2V across a
+o n e - o h m resisitor which
+implies 1=1 A. N o w looking
+at the whole grid, the total
+current flowing into and
+out of the grid is 4I=4A.
+Revolution
+Last week we asked you to
+see how many words you
+c o u l d form from the letters
+of the word 'Revolution'.
+W e used as our definition
+of a valid word anything
+that appears in the Shorter
+O x f o r d English Dictionary.
+This p r o d u c e d a plethora o !
+strange w o r d s w h i c h w e
+have never heard of but,
+sure e n o u g h , were in the
+dictionary. W e also had
+several people w h o had
+used computer dictionaries
+to find their words. W e are
+glad to say that none of
+these entries w o n or even
+counted in the top few!
+The entrant with the most
+w o r d s claimed to have
+found 314. W e had to
+disqualify s o m e o ' these as
+they were not words but
+letters, prefixes, suffixes or
+abbreviations (eg. e, v, IOU,
+oo, eo).
+Of the 250 we c h e c k e d ,
+s o m e were very weird.
+E x a m p l e s include: vlei —
+South. African word for a
+hollow in w h i c h rain
+collects; levin — (flash of)
+lightening; heroli —
+essential oil from flowers of
+bitter orange used in
+perfumery.
+Congratulations to Sally
+M c L e a n — please c o m e to
+collect your £5 prize from
+the FELIX Office after
+M o n d a y lunchtime.
+Congratulations also to
+H u g h Stiles for winning £5
+for the cryptic c r o s s w o r d .
+FELIX Friday 17 January
+

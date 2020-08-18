@@ -1,0 +1,313 @@
+  
+ 
+ 
+
+  
+ 
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nonogram
+Fill in neighbouring cells in each row/column to make blocks.
+Each block is separated by one or more empty cells. The num-
+bers indicate the ordered lengths of the blocks to appear in
+that row/column.
+ 
+
+  
+ 
+ 
+Chess
+White to move first with a forced
+checkmate in two moves.
+Slitherlink
+Connect adjacent points to form a single, non-crossing loop
+where the numbers indicate how many sides of the cell are
+closed.
+  
+         
+     
+     
+      
+        
+  
+       
+       
+      
+        
+    
+     
+     
+       
+      
+ 
+    
+
+   
+ 
+ 
+Across
+1. Enfold, surround (7)
+5. Bottom left button (5)
+8. Bird (5)
+9. Underground stem (7)
+10. Inhale/exhale (7)
+11. Made an effort (5)
+12. Spasmodic muscle contraction (6)
+14. Belts to hold down (6)
+18. IQ society (5)
+20. Expose (7)
+22. Go back and look (7)
+23. Be (5)
+24. Growing border (5)
+25. Beg (7)
+Down
+1. Display (7)
+2. Stanza (5)
+3. Madman (7)
+4. Separated (6)
+5. Another bird (5)
+6. Do away with (7)
+7. Pattern in rubber (5)
+13. Lit (7)
+15. Schnapps brand (7)
+16. Score (7)
+17. Excellent (6)
+18. Area of swampy ground (5)
+19. Astound (5)
+21. Put into words (5)
+   
+   
+ 
+
+
+ 
+    
+ 
+  
+
+ 
+  
+
+Boxes
+Divide the grid into rectangles with a single number in each,
+indicating the area.
+ISSUE 1675
+FELIX
+35
+PUZZLES fsudoku@imperial.ac.uk
+FUCWIT
+1 Nonogram of Ketamine 98
+2 Anti-Gravity Acorns 75
+3 TioUdin 65
+4 HOTRIG 59
+5 Q 55
+6 Puzzle Snuggle Cuddle
+Couple
+49
+7 Whale and Male 48
+9 The Indoor Sundial 42
+11 Sports Night is Moist Night 37
+12 Doctor Sudokwho 32
+14 Gave up initially - somewhat
+inapt with snatch. (6)
+30
+18 OK 22
+21 I am Miriam 20
+22 Abelian Grapes 12
+23 Straight outta Skempton 8
+26 BlackCock Ass Management 4
+26 Wreck-It Ramrod 4
+Only top four and new entries shown.
+Send a picture of your solutions and
+teamname to fsudoku@imperial.ac.uk
+before midday Wednesday to get a
+spot on the leaderboard!
+Points Available
+Crossword 4
+Slitherlink 4
+Boxes 4
+Nonogram 4
+Sudoku 2
+Chess 2
+TOTAL 20
+Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

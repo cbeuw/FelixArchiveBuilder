@@ -1,0 +1,202 @@
+continued from front page
+payments and the unemployment
+figures. ' T h e r e is no vested
+interest on either side in being
+" g e n u i n e " a b o u t the r e a l
+meaning of unemployment fig-
+ures' he said.
+Enoch Powell has a laissez-
+faire attitude to those figures; he
+claimed that his is a realistic
+point of view which neither of
+the established parties dares to
+take. He attacked them for not
+knowing how to adjust to a new
+position in the world or realising
+that 3.2m out of work is a
+symptom of this change. 'We
+politicians are blind and back-
+ward looking' he said. As for the
+genuine solution to unemploy-
+ment, his original topic, he said
+that solving is not required, for it
+solves itself. There will be a shift
+from manufacturing to service
+industries and internal trading;
+the spare human effort will be
+naturally rerouted. This is why
+Enoch Powell objects to political
+manipulation of the economy;
+fearing it will cause problems for
+a future when o u r present
+p r o b l e m s w i l l have solved
+themselves.
+Private Education:
+Freedom of Choice?
+A motion that private education
+should be abolished, proposed
+by Sir A s h l e y B r a m a l l , was
+carried at the Debating Society's
+meeting yesterday lunchtime.
+The scheduled opposer, John
+Selwyn Gummer M P was called
+away on government business
+and was replaced at short notice
+by Professor David Raphael, a
+INEWS
+Professor in the Humanities
+Department.
+In his i n i t i a l s p e e c h , Sir
+Ashley betrayed his position as
+socialist chairman of the G L C in
+an attack on c o n s e r v a t i v e
+educational policies. His main
+points were that private educa-
+tion undermines equality in
+society, damages i n d u s t r i a l
+relations and is detrimental to
+standards in public education.
+He compared the much-vaunted
+point of freedom of choice with
+the freedom of choice in the
+United States to carry a gun.
+Professor Raphael claims that
+society must weigh freedom
+against equality, and that a case
+had only been made for im-
+p r o v e m e n t s to the existing
+system, not for abolishing one
+aspect of it. Questions from the
+floor followed, and the motion
+was carried by twelve votes from
+a floor of ninety.
+'£25 Minimum Grant'
+NUS President Neil Stewart
+Dr Bruton to Leave
+Dr Chris Bruton, the Honorary
+Senior Treasurer of the Royal
+College of Science Union, has
+announced that he is to leave
+Imperial at Christmas to take up
+a post as Head of Administration
+at the Parke-Davis Research
+Unit in Cambridge. He has been
+H J T since July of last year, and
+now sees his career as lying
+towards administration rather
+than science. Dr Bruton is at
+present Assistant Director of
+Finance in the biochemistry
+department.
+Arguments for and against
+affiliation to the N U S dominated
+an eloquent speech delivered by
+N U S President Neil Stewart
+yesterday.
+The 'IC Left Alliance' had
+invited M r Stewart to speak on
+the subject of why IC should re-
+affiliate to the N U S , but with a
+spirit of practicality that domin-
+ated his speech (and hopefully
+the N U S this year) he concen-
+trated on the principal area of
+NUS action: the Grants Cam-
+paign.
+He stressed the aim of a £25
+minimum wage for students,
+pointing out that many thou-
+sands of students receive no
+grant at all. He also stated the
+aim of making students indepen-
+dent of their parents by abolish-
+ing the parental contribution,
+and the aim of an increase of £5
+a week (amounting to about
+14%) on a student grant.
+Affiliation
+On the subject of affiliation to
+the N U S , M r Stewart slammed
+I C U for riding on the back of
+other student unions and em-
+phasised the importance of good
+national representation.
+Raffle Winners
+The following numbers were prize
+winners in the Brakspears promotion
+raffle: 233, 74, 129, 80, 85, 8, 117, 354,
+389, 27, 231, 157, 215, and 157. Please
+see Harry in Southside Bar.
+PINCCCMIC
+The W i n d Band are holding a free open-air
+concert this Tuesday at 1:00pm on the Queens
+Lawn, and the logistics of this have so far been
+all too much for their committee (conductor
+M i k e R a p h o n e , publicity officer D u n c a n
+B i s c u i t ( D i n k y D u n k y to his friends) a n d
+secretary Chris Packet) who have been trying
+to count up the number of pieces of music they
+need. Unfortunately, none of them can count
+above 50, and so they have to use abaci.
+Equally unfortunately, they only have two
+abaci, both of which are broken, so that there
+are no longer 9 balls on all of the rungs.
+Having counted up on these, they came to
+the numbers 364 and 561. So how many pieces
+of music are there?
+A s a hint, the number depicted on the
+abacus shown, which shows 243, is actually 93
+(the fact that there are 4 balls on the bottom
+rung makes each ball on the next rung worth
+5; 6 balls on the second rung makes each ball
+on the top rung worth 7 x 5 = 35, so 243 on this
+abacus is equal to (2 x 35) + (4 x 5) + 3 = 93.
+G o o d luck, everyone!
+Solutions, comments,criticisms to me at the
+FELIX Office by Wednesday, 1:00pm. £5 from
+Mend-aBike for a randomly selected entry.
+Last week's solution
+Here for those of you who like that sort of
+thing, is the analytical solution to the last
+puzzle. For those of you who don't, the answer
+is that Paddy would have kept his job for a
+further twenty-seven months.
+Let N(y) be the number of cars in stock y
+months hence.
+Paddy is sacked when N(y) = y + 13, since
+this is the length of time that the cars have
+been in stock.
+Now the number of cars in stock is equal to
+the original stock, minus the number of cars
+that have decayed plus the number of cars
+made by Paddy's friends.
+Hence N(y) = 6916 — £ k2
++ 2y
+6916 — £ k 2
++ 2y = y + 13
+N o w £ k ' 2
+= V«y(y+i)(2y+i)
+So 6916 — V6 y(y + l)(2y + 1) + 2y = y + 13
+6903 = Vsyfy + l)(2y + 1) - y
+(6903 x 6) = 2y3
++ 3y2
+— 5y
+So we must factorise the polynomial
+2Y 3 + 3Y 2 _ 5 y _ 41418 to find its roots.
+From inspection (!) this has a root y = 27 (or
+from the Remainder Therorem, if'that's what
+you called it), and with this information it is easy
+to show that the other two roots are complex.
+Hence the result.
+Of the 24 entries, the winner chosen at ran-
+dom was P G Wickramaratne who can collect
+his prize from the F E L I X Office after 1:30pm
+on Monday. This is one puzzle that I didn't
+object to people solving on the calculator too
+strongly, since quite a lot of work had to be
+done first in most cases. This week's puzzle,
+however, is much more entertaining done by
+hand!
+FELIX is published by the Editor for and on behalf of Imperial College Union Publications Board, and is printed by the Union Print Unit, Prince Consort Road, London SW7 2BB.
+Tel. 01-589 5111 Ext 1048 or Internal 2881. Editor: Martin S Taylor; Business Manager: Peter A Rodgers; Advertising Manager: Nick Thexton. Copyright FELIX 1982.
+

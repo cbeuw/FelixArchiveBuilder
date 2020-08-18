@@ -1,0 +1,416 @@
+sport.felix@imperial.ac.uk
+30 Friday 29 May 2009
+felix
+Sport
+31
+felix
+Friday 29 May 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 12 12 0 0 105 15 90 100 5.00
+2 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+3 Fencing Men's 1st 11 10 0 1 1457861 596 91 4.18
+4 Fencing Women's 1st 11 10 0 1 1445 1160285 91 4.18
+5 Lacrosse Women's 1st 11 10 0 1 162 43 119 91 4.18
+6 Volleyball Women's 1st 9 8 0 1 17 3 14 89 4.00
+7 Hockey Men's 1st 13 11 0 2 65 19 46 85 3.62
+8 Squash Men's 2nd 13 11 0 2 40 21 19 85 3.62
+9 ICSM Netball 2nd 12 10 0 2 452 226 226 83 3.50
+10 ICSM Netball 3rd 12 10 0 2 444 225 219 83 3.50
+11 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+12 Table Tennis Men's 1st 15 12 0 3 163 88 75 80 3.20
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 12 9 0 3 404 226 178 75 2.75
+15 ICSM Hockey Women's 1st 14 9 1 4 65 29 36 64 2.21
+16 Hockey Women's 1st 16 9 2 5 54 38 16 56 1.81
+17 Basketball Men's 1st 11 7 0 4 780 709 71 64 1.73
+18 Hockey Men's 3rd 12 4 5 3 23 30 -7 33 1.50
+19 Hockey Men's 2nd 12 7 0 5 50 36 14 58 1.25
+20 Hockey Men's 4th 8 4 1 3 19 23 -4 50 1.25
+21 Badminton Men's 2nd 11 5 2 4 49 39 10 45 1.18
+22 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+23 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+24 Fencing Men's 2nd 9 5 0 4 1100 947 153 56 1.00
+25 Rugby Union Men's 2nd 17 9 0 8 358 334 24 53 0.76
+26 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+27 Basketball Women's 1st 10 5 0 5 453 425 28 50 0.50
+28 ICSM Hockey Women's 2nd 11 4 2 5 27 43 -16 36 0.36
+29 Football Men's 1st 12 5 1 6 25 29 -4 42 0.25
+30 Tennis Men's 2nd 12 5 1 6 42 69 -27 42 0.25
+31 ICSM Football Men's 1st 13 4 3 6 17 26 -9 31 0.15
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Football Men's 2nd 11 4 1 6 24 35 -11 36 -0.18
+34 ICSM Rugby Union Men's 2nd 16 6 1 9 271 244 27 38 -0.25
+35 Rugby Union Men's 3rd 15 6 0 9 264 324 -60 40 -0.40
+36 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+37 ICSM Rugby Union Men's 1st 17 5 1 11 306 467 -161 29 -1.00
+38 ICSM Rugby Union Men's 3rd 14 4 0 10 152 429 -277 29 -1.43
+39 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+40 Football Men's 3rd 11 3 0 8 18 33 -15 27 -1.55
+41 ICSM Football Men's 2nd 10 2 1 7 13 28 -15 20 -1.60
+42 ICSM Hockey Women's 3rd 9 1 2 6 11 39 -28 11 -1.67
+43 Hockey Women's 2nd 11 2 1 8 10 46 -36 18 -1.82
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 Football Women's 1st 10 2 0 8 11 34 -23 20 -2.20
+46 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+47 ICSM Hockey Men's 2nd 11 2 0 9 17 24 -7 18 -2.36
+48 ICSM Hockey Men's 1st 11 1 1 9 18 45 -27 9 -2.64
+49 Rugby Union Men's 4th 15 2 0 13 162 623 -461 13 -2.80
+50 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+51 Netball 3rd 12 1 0 11 127 452 -325 8 -3.25
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Netball 1st 11 0 0 11 220 428 -208 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+1 2 3 4 4 5 6 7 8
+9 10
+11
+12
+13 14 14 15
+16 15 16
+17 18
+18 19 19
+20 21
+22
+23 24
+25 26
+11
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,434
+Across
+1 Somewhere conducive to rapid
+growth, like a heated mattress (6)
+5 Friendly bishop met by Agency,
+only outside (8)
+9 Condemn German part of speech
+with Church (8)
+10 Polite form of address for mother
+and lady (6)
+11 Redeeming feature, one that a
+flashy jacket might have (6,6)
+13 Boy with English book (4)
+14 Express anger and dispatch aircraft
+(8)
+17 Tennis player, attractive one,
+writing on wall (8)
+18 Require chav to take drug (4)
+20 Carefree dwarf to become
+fortunate (5-2-5)
+23 Herb from wetland with two points
+left behind (6)
+24 Strange comic, one associated with
+wealth (8)
+25 Skip French – mistake – for
+playground game (8)
+26 Put some of bread in pen or stable
+(6)
+Down
+2 Round five: the Queen gives six
+balls (4)
+3 Surprise! King and quiet little
+person are in storage space (9)
+4 Money falling on the French
+internet provider (6)
+5 Director’s ill-conceived blips:‘E.T.’s
+Revenge’(6,9)
+6 A third of committee on flat land
+raise an objection (8)
+7 Poet has gold lair (5)
+8 Weaving machine heard in a sign
+for eminent people (10)
+12 I withdrew from toilet bowl; Joe’s
+outside with energy for unnatural
+writing (10)
+15 Loud nun confused by tumbling
+onto a single sensitive part of
+anatomy (5,4)
+16 Interpret ruling as exceptional (8)
+19 A religious symbol? This clue isn’t
+(6)
+21 Young animal protects chic model
+(3-2)
+22 Discover daughter underneath fish
+part (4)
+D G E T A T W I T C H E R
+O E I E U G S T H R R A Q E
+N A S A L O C R I T E R I O N
+O A S A E E O T A N O I T
+P R O R A M M E A C D R E
+O B L E R C M A E E H O O E D
+L I V E R P U D L I A N R A L
+Y U E O A E N E O N A O R G
+I M N D S P U T A B L E
+H N R O S O C O H Y N S I N
+O E R A T P A R H E I D
+B N P H C N T N N E R C H A
+B L A C K L I S T E A L T E R
+E V I K E O H L F S I E C M
+S T R I D N T E M E D D L E
+G
+Solution to crossword 1433
+P
+A
+J
+I
+I
+T
+E
+Congratulations to Ian Gilmore who
+was the first person to get the correct
+answer in this week, again. If we keep
+getting people who aren’t at the top of
+the table submitting the correct an-
+swers in then we might be in for a real
+upset folks!
+Here is another delectable brain tick-
+ler for you all to try out. Answers, as
+ever, in to sudoku.felix@imperial.
+ac.uk please. Good luck!
+Crossword by: Sam Wong
+I
+M
+A
+P
+R
+We are looking for HAYFEVER
+sufferers and NORMAL
+VOLUNTEERS to help with
+allergy research
+If you are interested in taking part in research to
+help us understand the causes of nasal allergies
+and develop new forms of treatment, and if
+you are between 18 and 55 years old please
+contact us for more information:
+Telephone 0787 285 0275
+or email your contact details to
+a.goldstone@imperial.ac.uk
+Department of Allergy
+Royal Brompton & Harefield NHS Trust
+and NHLI Ethics Committees
+Fulham Road, London SW3 6HP
+The research has been approved by the Brompton Harefield & NHLI Research Ethics Committee
+“Mens sana in corpora sano”: a healthy
+mind in a healthy body is as important
+an adage today as it was in the classical
+era, whether it is exam time or not!
+Physiotherapy has been an essential
+part of mainstream medical science for
+more than 100 years and has been an
+intrinsic part of the NHS service since
+its inception after WW II. The service
+is also recognised and supported by
+private health care insurers.
+Although there are various speci-
+alities such as neurology, the most
+significant area of practice addresses
+musculo-skeletal conditions. These
+can vary from back and neck pain,
+sadly both common and debilitating,
+to work related upper limb disorders
+and injuries to the muscles, nerves,
+bones or joints, often sustained either
+on the sports pitch or after the dance
+floor! Headaches, for example, can be
+caused by cervical spine dysfunction:
+a painkiller addresses the symptoms,
+physiotherapy treats the root cause.
+Treatments are evidence-based,
+firmly rooted in the scientific approach
+of modern medicine and backed up by
+comprehensive research.
+The qualification for physiotherapy
+nowadays is usually a combination of
+degree followed by hospital based clin-
+ical and practical study – I was lucky
+enough to train at St Thomas’ under
+the world renowned James Cyriax.
+Physiotherapy is fundamentally cur-
+ative; in other words patients come in
+with specific problems which we treat
+by the application of well established
+techniques. Manual therapy is the
+most important of these. This ranges
+from gentle mobilisation (within the
+range of movement of the joint) to
+full scale manipulations (outside the
+range).
+Where possible we prefer the gentler,
+less extreme approach but we recog-
+nise that there are occasions where
+manipulation is a necessity.
+Curing problems is not the end of
+treatment: rehabilitation and prevent-
+ative measures are just as important.
+We adopt a holistic approach, identify-
+ing the cause of the condition and then
+addressing it by correcting any abnor-
+mal movement patterns, muscle im-
+balance or postural dysfunction. This
+often takes the form of tailored exer-
+cise programmes and advice. After all,
+prevention is always better than cure.
+Sally has worked as the senior physi-
+otherapist at the Imperial College
+Health Centre for the last 17 years
+and is available for consultations at
+Ethos. She has lectured at college and
+provides advice on ergonomics and
+carries out work station assessments.
+Sally has also worked as a consultant
+for the Royal Ballet School and English
+National Ballet.
+If you want more information about
+physiotherapy, feel free to contact me
+on 07747056761 or sally.waters @hot-
+mail.co.uk
+Physiotherapy...
+it’s more than just
+a rub down
+Sally Waters MCSP SRP
+Green light for
+Racing Green
+Continued from back page
+A scorching Saturday was blessed with
+the annual challenge between the elite
+ladies and the lowest standard men’s
+team (although the newly formed
+men’s 5th team will take on the really
+‘social’ players next year – RSM you
+are more than welcome). A minibus a
+team, the men’s team were first to de-
+part the union and first to arrive at the
+fortress. The ladies were of course left
+waiting for Beresford who was hanging
+like a chimpanzee from a monkey puz-
+zle tree upon her arrival quarter of an
+hour late!
+The warm up was serious…very se-
+rious…there was jogging, stretching
+The unskilled 4s put two past
+the skillful ladies
+and inspiring team talks from both
+captains. Cornish had been appointed
+Ladies coach for the day and the men
+were in a hodge-podge away kit result-
+ing in Ladbrooks making a last minute
+change to the odds in favour of a ladies
+win. Cornish put his £5 down.
+Umpires Lacey and Baker-Brian both
+had interests in the ladies team and the
+respective ladies Clayton and Parkes
+certainly tried to use their female influ-
+ence to sway the umpires even more in
+their favour. It wasn’t to be however…
+Baker Brian was up for some tough
+love in the evening and decided that
+whenever Parkes delved for the ball
+he should reverse the decision in the
+men’s favour. The men took advantage
+of this and soon scored a goal. Unfor-
+tunately the pitch side BBQ was at a
+critical point and that is all I have to
+report on this one!
+Reynolds continued to hold the la-
+dies up at the back, and Summers in
+goal had very little to do in the first
+half. He did however manage to work
+on his sun tan and bask in the after-
+noon rays. Mandalia made his move
+from the bench and made an immedi-
+ate impact with the ladies as per usual.
+The half time team talk was once
+again inspirational. The girls were fired
+up, Cornish made sure the girls were
+playing to their full ability and soon
+the equaliser came. Middlebrook was
+essentially marked out of the game,
+but Poore and Toombe managed to
+continually feed the forwards, but time
+after time the male strength was too
+much. It was only towards the end of
+the game a deciding goal was scored.
+The men were the victors for a second
+year in a row, but only just!
+The hockey club now looks forward to
+the two remaining events – President’s
+Day this Saturday offers the opportu-
+nity to catch up with all the old-boys
+and girls, while the India tour continues
+to gather momentum before nearly half
+the club jet off to New Delhi for a two
+weeks trip of a lifetime. Two events that
+are sure to grace these pages.
+Men’s 4’s win despite having a legless, female goal keeper who’s lying smashed on the floor
+Hockey
+IC Women’s 1st XI 1
+IC Men’s 4th XI 2
+Jack Cornish
+Sports Editor
+48V electric motors to give very
+impressive performance characteris-
+tics. With the current gearing ratios,
+the vehicle can achieve a top speed of
+45mph in about 4 seconds. This year, a
+dedicated team of students have been
+working hard on improving the vehicle
+for the next race in the series. Modi-
+fications include the introduction of
+an active steering system, a complete
+redesign of the cooling system, better
+control strategy for the fuel cell to get
+more power out of it and a chassis re-
+design to cut down on weight.
+IRG03 is the successor to IRG02
+that will race alongside other universi-
+ties in this summer’s Formula Student
+Championship held in Silverstone in
+the new Class 1A category for alterna-
+tive fuels and low carbon technologies.
+For this year’s competition IRG03 will
+feature a 4.4kW fuel cell in a very bat-
+tery heavy vehicle to power four 11kW
+electric motors that can be overloaded
+to 25kW giving the vehicle an overall
+peak power of 100kW.
+The vehicle also features an adjust-
+able suspension assembly with carbon
+fibre wishbones and a CompactRIO
+control system, which acts as the brain
+of the car, to control all the power elec-
+tronics. The fact that the vehicle sup-
+ports 4 independently controlled elec-
+tric motors allows for a high degree of
+control of the vehicle and also allows
+for the use of regenerative breaking.
+Regenerative braking recovers brak-
+ing energy during the race to make the
+vehicle more efficient and is similar to
+the Kinetic Energy Recovery System
+(KERS) that is currently used in For-
+mula 1 cars.
+The predicted performance of IRG03
+is equal if not better than its IC engine
+counterpart, and given that it is the
+first vehicle of its kind in the world,
+it will undoubtedly cause a big stir
+this summer when it hits the track at
+Silverstone.
+Imperial Racing Green have also
+produced a spin-off project called Rac-
+ing Green Endurance, which aims to
+design, make and race a zero-emission
+sports vehicle to go around the world
+in 80-days against other green vehicles
+designed by teams from around the
+world. The project is still in its early
+stages but looks very promising and
+further highlights Imperial College’s
+commitment in the field of greener au-
+tomotive technology.
+For more information about Racing
+Green or Racing Green Endurance
+please visit their websites on:
+www.imperialracinggreen.com
+www.racinggreenendurance.com
+

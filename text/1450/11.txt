@@ -1,0 +1,108 @@
+11
+felix FRIDAY 22 JANUARY 2010
+science.felix@imperial.ac.uk SCIENCE
+Start here.
+Get there faster.
+Oliver Wyman is a leading global management consultancy
+An equal opportunity employer M/F/D/V
+Visit us at oliverwyman.com
+Oliver Wyman is a leading global management consultancy. We combine deep industry knowledge
+with specialised expertise in strategy, risk management, organisational transformation, and
+leadership development.
+At Oliver Wyman we offer a 10 week summer internship programme for students in their penultimate year of study. As an
+intern with us you will work on high impact client engagements as a full team member, responsible for project delivery.
+Penultimate year students can apply to either or both of our distinctive career tracks with one application:
+Financial Services Management Consulting
+
+General Management Consulting
+
+Please apply online at www.oliverwyman.com/careers
+Application deadline
+28 January 2010
+A possible glimpse of dark matter
+Physicists observe events characteristic of possible dark matter components, but is it enough to prove its existence?
+In early December last year, the par-
+ticle physics community was abuzz
+with rumours of a discovery made by
+the Cryogenic Dark Matter Search
+(CDMS-II) collaboration in the US.
+Announcement talks were sched-
+uled for 18th December, all seminars
+before that cancelled and there were
+rumours of a paper submitted by the
+collaboration to Nature (a rumour,
+however, that was refuted by a Sen-
+ior Editor at Nature shortly after it
+was started). The CDMS had, it was said,
+found evidence of the existence of dark
+matter.
+It would have been the last major phys-
+ics breakthrough of the noughties - but
+sadly, it was not entirely true. The CDMS
+were announcing their latest results, but
+those results did not show irrefutable evi-
+dence of dark matter’s existence.
+Nevertheless, that does not mean
+that what they have discovered isn’t
+important. In a paper submitted to
+arXiv on the same day as their an-
+nouncement talks were held, the
+CDMS team reported that they had
+seen two events characteristic of a
+particular class of possible dark matter
+components called weakly interacting
+massive particles, or WIMPs.
+WIMPs are likely to have masses
+similar to that of atomic nuclei. De-
+spite having never been seen, they are
+considered one of the main candidates
+for dark matter, with the appropriately
+named massive compact halo objects
+(MACHOs) as their main rival. As
+WIMPs only interact through the weak
+nuclear force and gravity, they rarely
+interact with normal matter, making
+them very difficult to spot.
+The CDMS experiment is located
+half a mile underground in the dis-
+used Soudan mine in Minnesota, and
+uses germanium and silicon detectors
+cooled to almost absolute zero. This
+low temperature means that if a WIMP
+does pass through these crystals, the
+heat it generates will cause a charge
+to move in an applied magnetic field,
+and this in turn will cause a signal to be
+sent to a computer in the lab. Once the
+data has been collected, it is analysed
+to distinguish the background events
+from the interesting ones.
+What the CDMS found was two
+interesting events, showing charac-
+teristics that would be expected from
+WIMPs. However, there is still a 23%
+chance that these events were merely
+due to background particles such as
+cosmic rays or radioactive decay. For
+there to be no reasonable doubt of a
+discovery, i.e. a less than one in a thou-
+sand chance that the events seen were
+not WIMPs, there would need to have
+been five events present in the data
+rather than two. Despite not showing
+absolute proof, the results will help to
+set new upper limits that may rule out
+certain theories currently proposed to
+explain the dark matter problem.
+The CDMS collaboration are now
+in the process of upping the sensitiv-
+ity of their experiment by trebling the
+number of detectors. The upgrade
+should be finished by summer 2010,
+then all they can do is sit back and wait
+patiently for some WIMPs to come
+along.
+Kelly Oakes
+Kelly Oakes
+The CDMS uses five towers of six detectors to detect dark matter
+

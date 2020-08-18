@@ -1,0 +1,441 @@
+Science
+science.felix@imperial.ac.uk
+10 felix Friday 30 January 2009
+Science
+Science Editor – Mićo Tatalović & Daniel Burrows
+science.felix@imperial.ac.uk
+11
+Friday 30 January 2009 felix
+A feedback system in the ear protects
+us from damage to hearing caused by
+loud noise, new research has shown.
+The discovery raises the possibility
+that drugs targeting this system one
+day could be used to protect musi-
+cians and others from permanent
+hearing loss. The ear transmits sound
+waves into the cochlea, a spiral-shaped
+organ filled with fluid. The cochlea
+contains two types of hair cells. While
+the inner hair cells respond to vibra-
+tions in the fluid, converting them into
+neural signals, outer hair cells amplify
+the vibrations.
+Scientists have known for some time
+that stimulation of the outer hair cells
+by feedback pathways emanating from
+the brain dampens the amplification.
+However, the function that this serves
+has remained uncertain. Scientists at
+Johns Hopkins University in the US
+investigated the role of the system by
+creating genetically-modified mice.
+Dr Paul Fuchs and his team intro-
+duced a ‘gain-of-function’ mutation
+in a gene that encodes a receptor
+protein called nAChR. The alteration
+Mars and Mercury:
+planetary leftovers?
+Clubbers could pop
+pill to save hearing
+Researchers who studied the ability of
+bees to recognize faces say the discov-
+ered mechanism of ‘averaging’ might
+lead to improved artificial intelligence
+systems.
+The study, published in PLoS One,
+showed that honeybees can recognise
+human faces even when they had seen
+them before from other angles. They
+do that by averaging the previously
+learnt views, according to lead author
+Adrian Dyer of Monash University in
+Australia.
+“The relationships between differ-
+ent components of the object often
+dramatically change when viewed
+from different angles,” Dyer said. “It is
+amazing to find the bees’ brains have
+evolved clever mechanisms for prob-
+lem solving which may help develop
+improved models for AI face recogni-
+tion systems.”
+“Most current AI recognition sys-
+tems perform poorly at reliably recog-
+nising faces from different viewpoints,”
+he added.
+The brain of the bee with its 1 mil-
+lion neurons is only 0.01 per cent of
+the human brain but previous studies
+by Dr Dyer and his colleagues sug-
+gest that bees accomplish relatively
+sophisticated visual tasks. “The bee
+Weak electrical stimulation to the
+brain allows people to learn complex
+movements faster and remember them
+for longer, a team of scientists from the
+US National Institutes of Health have
+revealed today.
+Writing in Proceedings of the Na-
+tional Academy of Sciences, they hope
+that their technique will dramatically
+improve recuperation from traumatic
+brain injuries that can cause sufferers
+to lose basic motor skills.
+The researchers, led by Dr Leonar-
+do Cohen of the National Institute of
+Neurological Disorders and Strokes,
+have found that by stimulating a region
+of the brain known as the primary mo-
+tor cortex, the region that controls our
+movements, whilst someone practises
+a new skill can significantly decrease
+the amount of time it takes them to
+learn and remember it.
+Motor skills, like walking and talking,
+often require years to learn so that we
+do not have to think about them. But
+people who have suffered brain trau-
+ma can lose these skills, and it is only
+through lengthy and often humiliating
+training that they can be relearned.
+Dr Cohen hopes that his painless and
+noninvasive technique, called tDCS,
+which uses weak current to excite
+cells near the surface of the brain, will
+Increasing demand for electric vehicles
+and portable electronic devices is driv-
+ing a parallel need for environmentally
+friendly batteries. But combining im-
+proved performance with safe, eco-ef-
+ficient operations is a tall order. Michel
+Armand of the Universite de Picardie
+Jules Verne, France, and his team,
+showed that a sustainably sourced or-
+ganic version of the ubiquitous lithi-
+um-ion battery could provide the an-
+swer (Nature Materials, DOI:10.1038/
+NMAT2372).
+Armand’s battery, built around a nov-
+el lithium-hydrocarbon anode, delivers
+up to three times the typical minimum
+energy capacity needed for practical
+applications; but is environmentally-
+friendly too. The organic acids used to
+make the electrode are readily synthe-
+sised on a sustainable basis from abun-
+dant recycled plastics. They also ap-
+pear as a metabolic by-product when
+bio-organisms act on common hydro-
+carbons like benzene.
+The team say their device generates
+less heat and is more thermally stable,
+compared with conventional Li-ion
+batteries with titanium or pure carbon
+electrodes. That makes it an attractive
+option for hybrid vehicles, where the
+presence of petroleum fuels alongside
+electricity makes battery meltdown
+unthinkable.
+We glimpsed the consequences of
+thermal instability in 2006, when a
+manufacturing defect in Sony laptop
+batteries caused some devices to burst
+into flames.
+Lithium-ion batteries must show no
+memory effect, so they retain their ca-
+Electric shocks to the brain
+lead to faster learning
+Scientists predict foetal death rates
+could be reduced if domestic violence
+is nipped in the bud. A team of sci-
+entists from the USA and Cameroon
+have found further evidence of a link
+between domestic abuse and adverse
+pregnancy outcomes. Victims of abuse
+were found to be 50 per cent more
+likely to suffer foetal loss. These wom-
+en were also at higher risk of repeated
+incidents of foetal death, particularly
+when subject to emotional abuse.
+Using a statistical approach, the team
+estimated foetal death rates could be
+reduced by around a third with swift
+and effective intervention. This effect
+is predicted to be strongest in victims
+of sexual abuse, where almost half of
+foetal loss is preventable.
+The study, published this week in
+The Lancet, analysed data from the
+Cameroon Demographic Health Sur-
+vey, 2004. Women of varying ages and
+educational backgrounds from across
+the country were interviewed under
+strictly private and anonymous condi-
+tions. Victims of abuse were asked to
+identify the actions of their spouses as
+emotional, sexual or physical violence.
+From the 2,562 women surveyed,
+over half were victims of abuse. Physi-
+cal violence was identified as the most
+common form, affecting 39 per cent
+of the women. Such abuse was more
+likely to be inflicted upon older and
+better educated women and accounts
+were more prevalent among wealthier
+groups.
+Emotional violence, such as public
+humiliation and verbal threatening,
+was found to have the strongest nega-
+tive impact on foetal survival. Worry-
+ingly, such practice is often regarded as
+an integral part of traditional culture in
+some African communities.
+The scientists warn of “the erroneous
+idea…[of] underestimat[ing] the invis-
+ible scars of emotional and psychologi-
+cal abuse on human beings, women in
+particular”.
+was designed to cause the receptor to
+respond more strongly to the release
+of transmitter molecules from the
+feedback pathway. The researchers
+then tested how the mice were affected
+by exposure to 100 decibel sounds – a
+normal level for a rock concert. Mice
+that carried the mutation had less sen-
+sitive hearing but were also less likely
+to suffer from hearing loss caused by
+the loud sound. This result led the
+A new theory suggests that Mars and
+Mercury could have formed out of the
+“byproducts” of Earth and Venus, ac-
+cording to Brad Hansen, an astrono-
+mer at the University of California, Los
+Angeles, who presented his research
+earlier this month at the annual meet-
+ing of the American Astronomical
+Society.
+Current scientific consensus says
+that the Earth and other planets were
+formed around 4.5 billion years ago,
+from a gigantic disk of gas and dust
+that surrounded the Sun. The force of
+gravity caused the minuscule particles
+of dust to come together, eventually
+forming pebble-sized objects that in
+turn grew larger and larger in order to
+create the planets.
+The theory is not without its prob-
+lems, however. Scientists normally as-
+sume the initial dust disk was the same
+thickness throughout, but crunching
+the numbers in a computer simulation
+shows that this would result in plan-
+ets of similar size with circular orbits.
+In fact Mars and Mercury are much
+smaller than Venus and Earth, and or-
+bit the Sun in an ellipse. This discrep-
+ancy is normally explained away by the
+presence of Jupiter, the largest planet
+in the solar system, which exerts a
+heavy gravitational force. Hansen be-
+lieves he has a different answer.
+In his model, the dust disk is not
+uniform; rather it is clumped at dif-
+ferent distances from the Sun. He sug-
+gests that Earth and Venus formed in
+a particularly large clump, known as
+researchers to conclude that the feed-
+back system normally functions to
+protect our ears from noise-induced
+damage.
+“We think this pathway could be a
+therapeutic target for protecting from
+sound damage,” says Fuchs. “There is
+a real chance of finding ear-specific
+drugs in the future.” Until then, he sug-
+gests that clubbers and concert-goers
+would be prudent to wear earplugs.
+brain is actually very good at learn-
+ing to master complex tasks,” he said.
+“That may point to efficient processing
+algorithms.”
+“Computer and imaging technol-
+ogy programmers who are working
+on solving complex visual recognition
+tasks using minimal hardware resourc-
+es will find this research useful,” Dr
+Dyer said.
+The researchers used sugar rewards
+to train bees to focus on one certain
+face from either one perspective or
+from two different angles (0° and 60° or
+0° and 30°), then presented them to a
+novel angle (30° and 60° respectively).
+Only the group of bees, whose novel
+angle (30°) was between the original
+angles (0° and 60°), were able recognise
+the face, indicating that they averaged
+the previously learnt views.
+Bees model for AI
+vision?
+an “annulus”, capturing much of the
+proto-planet debris as they immerged
+from the dust.
+Not all of the material is captured
+and some particles can be ejected into
+a different orbit. It is these ejected par-
+ticles that would go on to form Mars
+and Mercury – Hansen estimates that
+only 10% of the initial material would
+make up these two planets, with the
+majority gobbled up by Earth and
+Venus.
+Climate models
+fail to predict
+earlier seasons
+Researchers at Harvard University and
+the University of California have dis-
+covered that over 60 different climate
+models used by the IPCC have failed to
+predict hotter and earlier seasons be-
+tween 1850 and 2007.
+Analysing global temperature meas-
+urements compiled by colleagues
+at the Climate Research Unit at the
+University of East Anglia, the scien-
+tists discovered that winter tempera-
+tures have increased more rapidly
+than summer temperatures. Winter
+temperatures have risen by about 1.8
+degrees Celsius – almost double the
+summer rise.
+“It indicates the models are missing
+some important process” said Profes-
+sor Peter Huybers, assistant professor
+of earth and planetary sciences at Har-
+vard. “There could still be surprises”
+Huybers and his colleagues also dis-
+covered that the seasons are on aver-
+age coming 1.7 days earlier over land
+than 50 years ago.
+Biologists, who have noticed sooner
+bird migration and the earlier arrival
+of spring buds, have also observed
+changes in the seasons. Snow has
+been melting and sea-ice breaking up
+earlier and these observations have all
+been explained by how fast the Earth
+is warming up.
+However, scientists now know that
+this is all as a result of earlier seasons
+as well as individual months warming
+at different rates.
+The researchers, who published
+their work in the journal Nature, have
+examined possible mechanisms for
+the moving seasons. However, cur-
+rently they have managed to only ex-
+plain part of the mechanism thought
+to be responsible. They believe that a
+pattern of atmospheric circulation in
+the Northern Hemisphere known as
+the Northern Annular Mode may be
+part of the cause.
+shorten this process considerably.
+Cohen’s team made their finding
+when they asked 24 volunteers to learn
+to play a targeting computer game over
+five days. The 12 who received tDCS
+did not learn the game any faster whilst
+playing it but between practise sessions
+they retained the skills better than
+those only given “sham” stimulations.
+By the end of the process, the speed
+and accuracy of the tDCS group was
+significantly higher, and the difference
+in performance was still as apparent
+three months later. Although the tech-
+nique has yet to be tried during recu-
+peration, Dr Cohen is confident that
+the results will be positive.
+Prenatal screening
+of domestic
+abuse victims in
+Cameroon
+pacity when recharged from a partly
+charged condition. Performance of the
+organic battery dropped off only slow-
+ly during repeated recharge cycles, in-
+dicating a desirable reversibility of the
+chemistry. ‘Before and after charge’
+X-ray diffraction measurements con-
+firmed the structural stability of the
+electrode.
+The team also say their device is
+lighter, the novel chemistry allowing
+replacement of heavier copper compo-
+nents with aluminium ones elsewhere
+in the battery. That makes all the dif-
+ference in an electric vehicle, where
+every gram counts.
+Increasing demand for electric vehicles is driving a need for eco-
+friendly batteries
+Researchers at NYU have found that
+although people are keen for addi-
+tional genetic testing for life-altering
+and threatening medical conditions
+such as mental retardation, blindness,
+cancer and dwarfism, they are less in-
+terested in prenatal genetic testing for
+positive traits including tall stature,
+superior athletic ability and superior
+intelligence.
+“Our research has discovered that al-
+though the media portrays a desire for
+‘designer babies’, this does not appear
+to be true among consumers of genetic
+testing services,” says Feighanne Hath-
+away, a genetic counsellor at the NYU
+Cancer Institute.
+In the study, published online by the
+Journal of Genetic Counselling, 999
+participants completed a survey to
+assess their attitude towards repro-
+ductive genetic testing. The results
+showed that 75% of the respondents
+would elect for the screening of men-
+tal retardation, 56% would screen for
+blindness and 51% would screen for
+cancer. In contrast, only a minority of
+respondents would want genetic test-
+ing for enhancements such as athletic
+ability (10%) or superior intelligence
+(12.6%).
+The researchers recognise that con-
+sumers may have followed their own
+personal values or belief systems when
+assessing choice for genetic tests. They
+are also aware of the ethical concerns
+regarding prenatal testing for life alter-
+ing conditions. The authors concluded
+that, “it seems unlikely that the ‘Age of
+Designer Babies’ is near at-hand.”
+Parents want genetic testing,
+but not designer babies
+Is Mars made up of Earth and Venus’ leftover materials?
+Sam Wong
+Arko Olesk
+David Kinahan
+Jessica Hamzelou
+Jacob Aron
+Chloe Sharrocks
+Louisa Garnier
+Dr Tim Jones
+New organic batteries to be
+developed
+Artistic impression of what the shocks will do to the brain
+The loud noise created by this band will be a thing of the past
+The results of a climate model The original article on Designer Babies
+

@@ -1,0 +1,257 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 07 DECEMBER
+50
+Christmas Wordsearch
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2 2
+2 2
+2
+2
+2 2 2
+2 2
+0 2 2
+2 2
+2
+2
+2
+2 2
+2
+3
+3
+3
+3
+3
+3
+3
+3 3
+3
+3
+3
+4
+6
+4
+6
+4
+6
+4
+4
+3
+Slitherlink
+Suko
+Ophis
+Just... one... more... Draw a single closed loop by joining the
+dots (no diagonals!) so that the numbered squares are sur-
+rounded by the corresponding number of lines.
+Okay guys, I swear this is the last new puzzle for quite
+a while, and I’m totally not putting it here to ﬁll space
+or anything. The idea is to ﬁll the squares with digits
+from 1-9 (using each one only once) so that the num-
+bers in the circles are equal to the sum of the four
+surrounding squares and that each coloured set of
+squares sums to the corresponding number.
+Fill the cells with a con-
+tinuous line that enters and
+exits at the shown points,
+does not pass through a cell
+twice and passes through
+all white boxes. The num-
+bers show you how many
+times the “snake” turns in
+a given row or column, and
+the arrows show you where
+it enters and leaves the grid.
+It’s just like a nonogram, ex-
+cept it’s not.
+During the insanity epidemic, insane knights were admitted to the island’s insane asylum,
+populated by doctors and inmates (all of which are knights). Knights are honest, so sane
+knights tell the truth, but insane knights believe false statements, so they honestly lie!
+Inspector Craig visited the asylum once. He was greeted by the head doctor. “We’ve lined
+up all the patients and the doctors in a 99-person line. They will be happy to answer any
+questions.” Craig walked up to the ﬁrst man in line and asked him, “Who is insane here?” “I
+believe he is sane!” he said, pointing at the head doctor. Craig went on to the second man
+in line and asked the same question. “I believe that I believe that the man in front of me is
+offhisgourd!”heexclaimed.Craigcontinuedwiththethirdman,askingthesamequestion.
+“Why, I believe that I believe that I believe that the man in front of me is just a bit mad.”
+The investigation continued in the same vein, as each man accused the man in front of him
+of being insane, but adding another “I believe that” in front, resulting in some rather long
+statements. In addition to that, the penultimate man also claimed that the man behind him
+wasinsane.Craigthoughtforabit.Heaskedthehead,“Whoisadoctorandwhoisapatient
+here?” “Oh”, the doctor replied, “the man you asked ﬁrst is a patient, and the second man
+wasadoctor,anditjustalternatedfromthere.”Justthen,Craigrealisedsomethinghorrible.
+What?
+Knights and Knaves
+FUCWIT
+League Table
+TEAMS
+TTBumbles 29
+Epiphenomenal Imbroglii 28
+Sexy Beasts 3
+INDIVIDUALS
+Yufan Zhao 58
+Wael Aljeshi 28
+M-Soup 16
+Jake Humphrey 12
+Gordon Wu 8
+Tan Wei Jie 3
+Jason Parmar 2
+Cosmin Badea 1
+Send answers to puzzles.felix@
+imperial.ac.uk.
+Hashi
+Connect all the islands
+with bridges so that you
+can get from any island
+to any other one. There
+are restrictions, though:
+the bridges have to be
+either vertical or hori-
+zonal and they must not
+intersect. You can have
+up to two bridges be-
+tween any two islands
+and, last but not least,
+each island must have
+exactly as many bridges
+as the number on it
+states.
+bells
+fairylights
+santaclaus
+bethlehem
+family
+sellotape
+blitzen
+Frankincense
+shepherds
+boxingday
+frenchhens
+silentnight
+brusselsprouts
+gifts
+sleigh
+chimney
+intheair
+specials
+chocolatecoins
+ivy
+stable
+christmas
+kings
+stocking
+CliffRichard
+mincepies
+stuffing
+comet
+nativity
+sweets
+crackers
+newyear
+toys
+cranberry
+notrains
+turtledoves
+custard
+pantomimes
+
+ 
+
+This is a turn.
+This is
+not allowed.
+Neither is this.
+This is not.
+2 4
+1 6
+2
+3 3
+5 3
+1 1
+1 1 1 3
+3 2
+5 1 3
+4 4 2
+2 2 2 3
+2 3 3
+3 2
+2
+1
+1 5
+2 2
+2 1 1
+  
+  
+  
+
+23 30
+13
+12 23 10
+18
+         
+         
+         
+         
+         
+         
+         
+         
+-
+d
+s,
+l
+h
+-
+y
+n
+d
+e
+.
+-
+6 2 3 4 4 4 2 6 1 6
+Knights
+K S U A L C A T N A S S N C S Y N R O J
+N Z U V E G E T A B L E S H T A O U D B
+S T O C K I N G D C E S L O A D T D E L
+G E G S R C S F A R B A E C B G R O C I
+N L I P L R I A S A R L I O L N A L E T
+I U F E P A L M H N U E G L E I I F M Z
+K Y T C A C E I E B S C H A P X N P B E
+T S S I N K N L R E S N S T A O S R E N
+U T N A T E T Y B R E E H E T B N E R F
+R H O L O R N T E R L W E C O W E S Z R
+T G I S M S I I T Y S R P O L P H E P A
+L I T S I I G V H E P A H I L O H N M N
+E L A T M N H I L N R E E N E T C T I K
+D Y R U E T T T E M O Y R S S A N S N I
+O R O F S H T A H I U W D Y E T E L C N
+V I C F T E E N E H T E S O V O R L E C
+E A E I E A M G M C S N B T E E F E P E
+S F D N E I O R E I N D E E R S X B I N
+Y U F G W R C L I F F R I C H A R D E S
+D R A T S U C H R I S T M A S Y V I S E
+vegetables
+dasher
+potatoes
+wencelas
+december
+presents
+yule
+decorations
+reindeer
+eve
+rudolf
+

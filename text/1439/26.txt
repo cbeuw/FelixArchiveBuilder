@@ -1,0 +1,285 @@
+W
+ould you like
+to write for us?
+Wouldn’t it be a
+dream come true?
+Living the journal-
+istic dream, telling others your opin-
+ion on games while proclaiming to all
+around that you write about games and
+are really knowledgeable and stuff.
+Well, fuck knows where you’re going
+to get that from. But if you fancy jotting
+some words down for us, that’d be just
+dandy. We’re looking for enthusiastic
+gamers to write for our section — you
+don’t need to be a perfect writer to do
+it! You just need to love the thing you’re
+writing about, and as long as you can
+give us that, we’re really interested in
+publishing you.
+felix Games is looking for a variety of
+articles this year, ranging from weekly
+news roundups to columns with a
+twist, as well as the usual dose of news,
+features and the occasional review. We
+27
+felix FRIDAY 09 OCTOBER 2009
+games.felix@imperial.ac.uk GAMES
+We make
+good felix
+H
+ey folks, and welcome
+(unless you’re a fresh-
+er, in which case I’ve
+beaten this schtick to
+death already) to felix
+and another year of games coverage.
+While the folks at Another Castle bea-
+ver away to bring you a glossy, sexy-sex
+edition of their termly games maga-
+zine, we’ll be doing our very best to get
+you informed and entertained about
+that hobby you don’t like telling people
+you meet about.
+I’ve been following the Tim Langdell
+story this week as it takes another in-
+teresting, and probably its final, turn.
+For those who aren’t aware, Langdell
+appeared to be bullying companies
+and individuals who had used the word
+“Edge” in their product title, claiming
+he held the copyright to this term.
+It came to the attention of the wider
+games community when a highly-an-
+ticipated iPhone game got taken out
+of the Apple store after a claim filed
+against it by Langdell. They backed
+off, not having the legal werewithal to
+challenge him for his ludicrous claims
+(Langdell himself has not actively used
+the trademark for over a decade, but
+has made plenty of claims) but the me-
+dia picked it up and spread it around.
+A few small communities began fol-
+lowing the story, documenting it and
+exposing some of the more ridiculous
+accusations being made. But nothing
+would have come of it, I don’t think,
+had Langdell not made a fatally stupid
+error - goading Electronic Arts into
+action by making a claim against their
+stunningly beautiful first-person plat-
+former, Mirror’s Edge.
+Anyone who’s looking to take EA
+on has balls, but they also have a lot
+of stupidity balancing it out. Recently,
+EA very quietly submitted a docu-
+ment petitioning for the removal of all
+trademark claims made by Langdell,
+including those he did not attempt to
+use against them. In one fell swoop,
+EA have cut through everything
+Langdell has and will now presumably
+be putting their full legal and financial
+weight behind getting it through. It’s
+quite astounding.
+The reason why I like this story is be-
+cause it shows how gaming is growing,
+growing enough to produce genuine
+villains, as well as heroes. Langdell is
+an utter c**t, harassing journalists, de-
+velopers and gamers themselves when-
+ever he found himself being questioned
+or investigated. Ultimately, he hasn’t a
+leg to stand on, but he knows he can
+manipulate and scare people.
+But in the end, the truth won out,
+and that’s even nicer to see. The fact
+that EA, typically the devil of the gam-
+ing world, stepped in to deal the kill-
+ing blow was particularly interesting.
+It might be a bit far-fetched to think it,
+but I like to imagine a small smirk on
+Games Editorette
+That was not
+journalism
+W
+elcome. I’ll be edit-
+ing a bit here and
+there, mainly to an-
+tagonise Mike. For
+instance, this week
+his picture is a girl. This is funny! It’s
+funny because he’s a girl.
+Anyway. Want to know what I’ve
+been playing this week? Well too bad,
+because I’ve been playing Jedi Acad-
+emy too much to write about it. Oh
+right, that. Yeah. LucasArts, in a rare
+moment of sanity, put more of their
+games up so they could be paid mon-
+ey. This ingenious business proposal
+allows you to play some of the best
+games ever made for cheap. Jedi Acad-
+emy is not one of these.
+However, it is one of those games you
+canplayoverandoveragainsaying:‘How
+have I missed this?” Because it’s superb.
+It’s not merely that they give you a light-
+saber from the start of the game, it’s the
+whole feel. By the time you’re well into
+the game, your force powers are easy to
+use and very satisfying. The game knows
+what you want to do, so it throws more
+and more weak enemies at you, allowing
+you to experience challenges in the most
+enjoyable way possible – seeing the force
+push throw six enemies onto their backs,
+for instance, or mind-tricking a rocket-
+launcher into nuking his allies.
+It’s so much fun, I’ve completely
+missed the Left4Dead update which
+I really should’ve been doing on a
+nightly basis. Not to worry, though, as
+Left4Dead2 is just on the horizon. Grab
+the 4-pack with a few mates, because it
+brings the digital download price down
+to £20, with free early access to the demo
+and a baseball bat in-game. Hugely
+worth it, provided you’re not capped for
+downloads.
+This week, I’m going to try and get
+back into GTA4. But a little more light-
+sabering is in order. I’ve found a cheat
+that enables limb removal. I love games.
+MichaelCook
+MichaelCook
+Games Editor
+Tune in next time to see if our developer has managed to rival Spelunky. Our guess is not, though. Sorry, man.
+Diary of a Games Dev
+I
+am going to make some games.
+Not big games. Not good games.
+But it’s high time I stopped
+moaning about Bioshock’s ter-
+rible level design and starteed
+getting out there and getting my hands
+dirty. So I’m going to make some
+games. And tell you about it.
+Spelunky is what pushed me to do
+it. Derek Yu’s sublime platformer was
+created with a blend of sexy python
+programming (www.python.org) and
+the slightly less sexy Game Maker pro-
+gram (www.yoyogames.com/make), an
+application that he’s seemingly pushed
+to its very limits in order to produce
+his game.
+It’s inspiring mostly because it’s so
+simple, but it uses one single clever
+idea to underpin some great gameplay.
+The randomness the levels feels right,
+it feels good. It’s not true randomness,
+the levels have basic templates which
+are embellished with details. And it’s
+that that gives off such a lovely aura of
+playability.
+However, I won’t be starting off that
+big just yet. The first stop on my tour
+of gaming creation is the extremely
+super-simple realm of the text adven-
+ture. I say super-simple not because it
+is, but just because it pisses off people
+who like making and playing them. In
+actual fact, interactive fiction is hugely
+hard to design and make, but I’m really
+interested in doing one.
+This is partly because I played Make
+It Good this summer (www.playthisth-
+ing.com/make-it-good) which is a
+film noir text adventure where you’re
+sent to investigate a murder as a po-
+lice detective. It’s rendered so richly,
+with so many lovely and unexpected
+gaming touches, that it’s a joy to play.
+The crime is intricately written to al-
+low people to unpick it using their own
+Inanewsemi-regularcolumn,amantriestomakesomegamesandtell
+youaboutit.Thisweek-startingoff,‘research’andbeingaDick.
+intelligence, with a time limit to make
+sure you don’t spend too long solving
+it the first time around. I’ve failed to
+solve the crime three times now, with
+a fourth run waiting for me next week.
+But it’s the logic, the common sense
+that wraps the whole thing up and real-
+ly sells it. It doesn’t feel stupid or badly
+designed. I’d like to do something like
+that.
+I’ve downloaded Inform 7 (www.in-
+form7.com) which seems to be a nice
+and friendly way to write these things.
+It uses natural language to describe
+the world and how it works, including
+the definition of language rules. This
+makes it much more approachable to
+someone like me, who’s a messy twit
+when it comes to laying stuff out.
+I’ll let you know how I get along, and
+hopefully I’ll have something playable
+for you all soon! Until then, take a look
+at Make It Good. It’s superb.
+Fancy writing for us?
+Who wouldn’t? We’re manly and stuff. Also; really sexy.
+want to know what makes you tick,
+what you love about gaming,
+because that’s the kind of
+passion that makes for good
+reading.
+Why on God’s Earth
+would you want to do
+such a thing? Well, you
+might put it on your CV
+— past writers for felix
+have gone on to great
+things; it’s a fantastic
+opportunity to meet
+new people, network
+with members of the
+games press and the
+wider industry itself.
+Former felix editor
+Owain Bennallack went
+on to edit Develop maga-
+zine as well as Edge Magazine
+and co-create Pocket Gamer,
+and we’ve had plenty of
+other journalists go on to
+great things in other fields of journal-
+ism. We’ve met Peter Molyneux, David
+Braben, the Introversion folks, Media
+Molecule and more.
+If you’d like to write for us,
+drop us an email at games.
+felix@imperial.ac.uk. We
+weren’t at Fresher’s Fair, but
+we do hope you came and
+took a look at felix anyway
+and signed up.
+If you’ve sent us an email
+and we’ve been too lazy
+to reply, you can get writ-
+ing straight away. We’re
+looking for entries to our
+new Tonight, felix... feature, which
+requires about 600 words on a char-
+acter you love. Alternatively, you can
+send anything you’ve been working
+on, but bear in mind that we need
+a good wordcount to fill a page
+comfortably.
+Get in touch!
+AngryGeek
+AngryGeek
+

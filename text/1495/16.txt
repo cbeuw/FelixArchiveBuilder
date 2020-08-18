@@ -1,0 +1,187 @@
+TECHNOLOGY
+FELIX
+16
+Tips & Hacks
+Technology Editors: Feroz Salam
+Chris Bowers
+technology.felix@imperial.ac.uk
+Friday 30 september 2011
+Waterstone’s eBook foray
+Hot on the heels of Sony announcing a new eReader
+range and the launch of their own eBookstore here in
+UK, Waterstone’s has announced plans to enter the
+British eBook market in early/mid 2012. With the
+sector seeing strong growth thanks to some highly
+competitive prices, it looks like a good time to invest
+in one of the devices. Amazon’s own Kindle range of
+eReaders starts at £111 and comes with access to
+Amazon’s unrivalled selection of books, magazines
+and newspaper subscriptions. In comparison, Sony’s
+new offering is similarly priced but it remains to be
+seen how extensive their collection of reading mate-
+rial will be, despite their support of the ubiquitous
+ePub format. Where Waterstone’s own brand will
+compete is an open question as yet, but it’s a bold
+move from a brick-and-mortar retailer with no prior
+experience in electronics.
+While human augmentation and neural prostheses
+are enjoying a flurry of media coverage post Deus
+Ex, out in the real world science is slowly starting to
+mimic science fiction with the addition of piezoelec-
+tric generators to a beetle that capture the kinetic
+energy from its vibrating wings and turns it to usea-
+ble electricity. Why would a beetle need a power sup-
+ply, you ask? Only to power the neural implants that
+allow researchers to direct it’s movement, of course.
+The beetle, which could also be extended to use
+thermal and solar generators, might play a useful
+role in lending camera access to dangerous areas
+where human investigation is impossible. The tech-
+nology marks the rapid strides that scientists have
+made in interfacing the brains of simple insects with
+microchips; while we are a long way from realising
+anything similar in humans, the possibilities of such
+bioengineering can’t be overstated.
+Cyborg beetle goes green
+W
+elcome to Imperial!
+You’ve done well to make
+it here; for the next few
+years you will get to ex-
+perience extreme levels of
+stress, a rapidly receding hairline and the ef-
+fects of excess Red Bull consumption (seizure,
+in the case of one of my housemates).
+Despite this, there’s much to be said for
+studying at one of the world’s leading univer-
+sities in one of the world’s most interesting cit-
+ies; if you’re interested in something, you’re
+going to be able to pursue it to your heart’s
+content.
+That brings me to what we do here at Felix
+Technology. Our section involves covering a
+wide spectrum of topics, from artificial intel-
+ligence and robotics to the latest tablets and the
+fierce industry competition that drives them to
+market. Do get in touch with us if you’d like
+to try your hand at contributing (our email ad-
+dress is right at the top of this page). It really is
+just easy as a single email.
+This week however, we’re getting you set
+up here in London: whether you’re new to
+the UK or live an hour away by train, living
+at university means you’ve had to leave your
+massive CD collection behind and replace that
+40” TV with a 15” laptop streaming American
+TV from dodgy Chinese websites; university
+doesn’t get better than this. Thankfully, we’re
+here to make the experience slightly more
+bearable.
+Media
+Your internet is provided by one of the fastest
+providers in the country, so the sky’s the limit
+when it comes to streaming quality HD con-
+tent straight to your laptop. For your terrestrial
+television needs, BBC iPlayer (http://www.
+bbc.co.uk/iplayer/) and Channel 4’s 4oD
+(http://www.channel4.com/programmes/4od)
+are going to be your new best friends. For
+American television shows however, you’re
+going to have to make wise use of Sidereel
+(http://www.sidereel.com/). Be smart about
+where you get your media from however: the
+College actually enforces its piracy policy.
+If you’re more worried about your music,
+then you’ll be pleased to know the situation is
+much better. On one hand you have Groove-
+shark (http://grooveshark.com/), a huge music
+library that’s free to access if you don’t mind
+relatively mediocre sound quality, while on the
+other you have Spotify (http://www.spotify.
+com/). Despite Spotify’s free services being
+limited, the huge collection of music it offers
+you for five pounds a month is well worth it.
+Getting Work Done
+There will undoubtedly be times when you
+need to get a file from halls to uni, whether
+it be coursework or the ticket for that all-im-
+portant night out. Sure you could take a flash
+drive, but you might forget it. And emailing
+stuff to yourself is so last decade. Cloud stor-
+age is the ideal for this, giving you access to
+your files wherever, whenever.
+Dropbox (http://db.tt/4FhV4rO) is a great
+online storage service, with apps for all major
+platforms and smartphones, and web access
+in case you can’t get to either. With 2GB of
+storage from the off (2.25GB if you follow the
+link!) and its simple and easy interface, Drop-
+box is highly recommended.
+Another good service to use is Google Docs
+(http://docs.google.com). The main feature of
+Docs is that you can create documents, spread-
+sheets and presentations for free, entirely in
+the cloud. That alone makes it great for work-
+ing from multiple locations, and its collabora-
+tive editing works well too. But on top of that,
+you also get free file storage. You can store as
+many Google Documents as you want, and
+you also get 1GB of storage to keep whatever
+you want on their servers.
+Apps
+You may also want to invest in a remote-
+locking app. In case you lose your phone or it
+gets stolen, these apps at least give you some
+peace of mind as you know whoever has the
+phone won’t be able to get at your stuff. Just
+make sure you can unlock it in case it turns up!
+A quick search finds Anti-Theft for Mobile
+(http://bit.ly/obwngF) for Android, Windows
+Phone 7 and Symbian, while iOS and Black-
+Berry OS both come with their own services
+(Find My iPhone and BlackBerry Protect,
+respectively).
+Online
+There are also some great online services to
+help you get things done easily. Transport for
+London should be your first port of call when
+looking up anything public transport related
+across the capital. The Journey Planner is ex-
+cellent. It may not have the best interface for
+advanced searches, but it will do pretty much
+everything you want it to. You can also look
+up which buses have either 24-hour service or
+night routes (essential for nights out), or even
+first tubes home (for those really late ones...).
+Another tremendously useful service is Sky-
+pe (http://www.skype.com/). Its main selling
+point is that you can make both voice and vid-
+eo calls to other Skype users for free. So if you
+can get your friends to sign up, there’s a lot of
+money to be saved. That’s not all though, as
+Skype actually offer very good rates for calling
+landlines and mobiles all over the world, so it’s
+worth a look for phoning home too.
+At Imperial
+Also worth a mention are the excellent services
+hereatImperialtomakeyourlifeeasier.TheICT
+office (http://www3.imperial.ac.uk/ict) in the
+Sherfield building offers free, professional help
+with getting your computer set up in addition to
+troubleshooting for any problems you may have.
+ThecollegehasabunchofTwitteraccounts,with
+@imperialcollege and @imperiallibrary
+providing useful information on events across
+campus. The Imperial File Exchange service
+(https://fileexchange.imperial.ac.uk/) is very
+useful for transferring large files, saving your
+email from doing the heavy lifting. Finally,
+we’re not above some cheeky self-promotion
+here at Felix, with both the @feliximperial and
+@felixtechnology accounts well worth a follow
+while you’re at it.
+Finally, have a great Freshers’ week and an
+even better year ahead!
+The Felix Tech Guide 2011
+Feroz Salam and Chris Bowers get you up to scratch
+

@@ -1,0 +1,270 @@
+SCIENCE
+FELIX 9
+Friday 21 october 2011
+Cloaking with carbon nanotubes
+During the 17th and 18th centuries, Eu-
+rope and North America experienced
+much severer winters than we do now
+– people could frequently walk or even
+skate across a frozen Thames. This pe-
+riod is called the Little Ice Age, though
+unlike true ice ages, it had its origins
+in the waning strength of our sun and
+it was only experienced in isolated re-
+gions with a minor global temperature
+change. Whereas the millennial changes
+in the sun were responsible for this pe-
+riod, a team of scientists from the Met
+Office, Oxford and Imperial have attrib-
+uted current cool winters to the smaller
+11 year solar cycle.
+Visible and infra-red light do not vary
+much during solar cycles, meaning the
+direct temperature change is small.
+However the fluctuation of the UV light
+is much greater. UV radiation is both
+absorbed by ozone and helps to create
+it; this process is what warms the mid-
+dle of the atmosphere where the ozone
+is concentrated. The team of scientists
+used recent measurements of the UV
+radiation, which showed an even larger
+UV change than previously expected, to
+drive a climate model. They found that
+the recent decrease in solar UV caused
+cooling in Northern Europe and south-
+ern North America during winter, whilst
+northern North America and southern
+Europe warmed in the model, which
+agreed with real life.
+The model showed that these sur-
+face changes were linked to the direct
+cooling of the middle atmosphere by a
+network of dynamical adjustments that
+weakened the Northern Hemisphere
+westerly winds at the bottom of the
+atmosphere. This causes the observed
+temperature changes, for example: by
+blowing less warm oceanic air from the
+Atlantic onto Northern Europe the cli-
+mate to cool.
+This work demonstrates that the 11
+year cycle in the sun’s strength can
+have noticeable effects on our winters
+and could have considerably contrib-
+uted to the last two severe winters here.
+However, one of the research’s authors,
+Adam Scaife, highlights how “This
+isn’t the sole driver of winter climate
+over our region, but it is a significant
+factor and understanding it is important
+for seasonal to decadal forecasting”. It
+should also be noted, that like the Little
+Ice Age, the overall global temperature
+change during the cycle was small, as
+the regional changes mentioned cancel
+each other out - meaning it has no effect
+on global climate change.
+By recreating the naturally occurring
+effect of a mirage in the lab, research-
+ers have hit upon a way to create
+cloaking devices that work for visible
+light, effectively making objects in-
+visible when viewed from certain an-
+gles. Now, let’s just try to get through
+this without mentioning Harry Potter.
+A mirage – like you often see on the
+surface of roads in the heat – occurs
+because light moves slightly faster
+through a medium when it’s hotter
+and, therefore, less dense. The dif-
+ference in temperature between the
+air near a hot road surface and the air
+higher up makes light bend on its way
+to your eyes. When deflected in this
+way, light travelling from something
+above the road – the sky, in a typical
+desert mirage – can reach you from
+the angle of the road surface, creating
+an odd visual effect.
+Dr. Ali Aliev and colleagues at the
+Nanotech Institute at the University
+of Dallas, Texas, have recreated this
+effect by using electrically heated
+sheets of carbon nanotubes. These
+wafer-thin sheets – around 20 mi-
+crometers thick – prove to be very
+effective at heating a surrounding me-
+dium, creating steep mirage-inducing
+temperature gradients near their sur-
+face. Due to the temperature inertia of
+the nanotube sheets, the temperature
+gradient can also be easily modulated
+resulting in different degrees of de-
+flection for the light hitting the gra-
+dient.
+The researchers explored the mi-
+rage effect by measuring the angular
+deflection of a laser beam directed
+parallel to the sheet’s surface. They
+found that deflection works for light
+in the UV to infrared range, a signifi-
+cantly greater range than for previous
+cloaking techniques. Carbon nanotube
+sheets are particularly good at produc-
+ing light deflection because of their
+exceptionally high thermal interaction
+with surrounding media, caused in
+turn by the high internal surface area
+and high thermal conductivity of the
+individual nanotubes.
+Aliev and colleagues also compared
+the deﬂection of light across different
+media, finding, for example, that the
+deflection angle in helium is much
+smaller than in air or argon, which
+is consistent with the low refractive
+index and high thermal diffusivity
+of helium. Overall, however, larger
+angles of deflection are produced in
+the higher density of a liquid than a
+gas, making the cloaking effect more
+pronounced in water than air, for in-
+stance. On the other hand, the higher
+density of a liquid increases the heat
+capacity of system and correspond-
+ingly reduces the obtainable rate for
+temperature modulation and, thus, an-
+gle of deflection.
+The most obvious application of this
+kind of technology is in cloaking de-
+vices for submarines and other stealth
+vehicles. Unsurprisingly, the work
+was partly funded by an Ofﬁce of Na-
+val Research MURI grant and an Air
+Force Ofﬁce of Scientiﬁc Research
+grant. But Aliev has also shown, in a
+paper published last year in Nano Let-
+ters, that modulating the temperature
+of the same carbon nanotube sheets
+produces sound waves. He has sug-
+gested this aspect could have useful
+applications in sonar technology for
+deep-sea exploration – and, of course,
+for finding those invisible subma-
+rines. On the other hand, it might also
+be possible to make these sheets into
+loudspeakers, as Chinese research-
+ers demonstrated two years ago by
+making a speaker out of a flag (look
+for “carbon nanotube speaker” on
+YouTube). It appears we now have a
+whole new potential for loud clothing.
+Aliev and colleagues published their
+latest results last week in the journal
+Nanotechnology.
+Douglas Heaven
+Making up roughly 20% of the air we
+breathe in, oxygen is one of the most
+abundant elements on Earth. It is used
+by all forms of life for respiration, which
+provides the energy organisms use to
+grow, repair and live. However, it has
+not always been in such plentiful supply.
+Initially, when the Earth ﬁnished form-
+ing (I say ﬁnished, it is actually constant-
+ly changing and adapting) 3.5 billion
+years ago, the surface was a blistered
+mass of volcanoes spewing magma and
+gas out into the open. There occurred an
+event, named the Great Oxidation Event
+which resulted in oxygen of the atmos-
+phere and the beginning of air as we
+know it now. Most ﬁgures indicated this
+to have occurred c2.5 billion years ago
+and there has been much speculation as
+to what caused this event, which eventu-
+ally lead to the development of life on
+Earth.
+Most commonly, the starting point for
+oxygen generation is sulphur from vol-
+canoes.At the time, most submarine vol-
+canoes produced gas with low sulphur
+content, but as the global sea level began
+to drop, more of the Earth’s was exposed
+to the surface and the exposed volca-
+noes produced gas with a much higher
+sulphur content, particularly sulphur di-
+oxide. The gases eventually dissolved in
+seawater and broke down forming bub-
+bles of oxygen in the water, which we
+know can be used to sustain life – most
+ﬁsh and marine wildlife uses the oxygen
+dissolved in water in order to respire.
+By analysing rock strata from around
+this era, paleochemists found that a cer-
+tain isotope of sulphur (Δ33S) indicated
+a lack of oxygen in the atmosphere. This
+isotope disappeared around the time of
+the Great Oxidation Event and the emer-
+gence of the O2 molecule radically al-
+tered the redox-based biochemical pro-
+cesses beforehand. Further analysis of
+the data showed that the trigger for this
+isotope may have been the redox ratio
+between the two sulphur-based gases
+released by volcanoes – sulphur dioxide
+(SO2) and hydrogen sulphide (H2S).
+A higher ratio of SO2/H2S produces
+signiﬁcantly more of the MIF isotope.
+As the composition of volcanic gases
+changed, there led to more oxidized gas-
+es and so lower Δ33S.
+Kump and Barley, two geoscientists
+from Pennsylvania State University and
+the University of Western Australia in
+Crawley, respectively, have been analys-
+ing data for some time in this ﬁeld – spe-
+ciﬁcally using carbon dating techniques.
+They argued that subaerial volcanic
+gases are more oxidized than submarine
+ones and proposed an increasing impact
+from subaerial volcanoes would have
+resulted in increasingly oxidizing vol-
+canic emissions. However, some ques-
+tion their results, saying that the ﬂuids
+from the seaﬂoor that Kump and Barely
+used to deﬁne the redox at the time of
+the Great Oxidation Event was “poorly
+constrained”. Other also argue that it is
+not redox conditions altering the SO2/
+H2S ratio, but gas pressure.
+Further analysis into this phenomenon
+requires us to consider various gas equa-
+tions in competition, each struggling to
+become dominant as the global tempera-
+ture and pressure changed. Rather than
+bore you with too many more ﬁgures
+and equations, it is easier to describe that
+during the period 2-3 billion years ago,
+global sea levels did fall and a combina-
+tion of the changing degassing pressure
+and higher proportion of subaerial vol-
+canoes led to a higher proportion of both
+sulphur dioxide and hydrogen in the air,
+as well as amounts of carbon dioxide.
+Competing processes of thermochemi-
+cal reactions led eventually to domi-
+nance of water vapour and ultimately the
+fall of sulphur altogether.And with more
+oxygen, breeds life.
+Pavitar Devgon
+Mini ‘little ice age’
+periods explained
+The prize for identifying Diamond is a smug sense of satisfaction
+On the oxidation of Earth’s atmosphere...
+Want to write for
+Felix Science?
+Email us!
+Luke Sheldon
+

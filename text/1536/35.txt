@@ -1,0 +1,280 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 18 JANUARY
+36
+Crossword
+3
+3
+3
+3
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+0
+2
+2
+2
+2 2
+1
+1
+1
+1
+1
+1
+1 1
+1
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+Slitherlink
+2. Can you see a pattern?
+To solve a Slitherlink puzzle is easy: you
+need to draw a single closed loop by joining
+the dots (not diagonally!) so that the num-
+bered squares are surrounded by the corre-
+sponding number of lines.
+The numbers show you how
+many groups of black squares
+are in a row or column, as well
+as how many black squares
+each group consists of. Filling
+in the grid produces a pretty
+picture.
+FUCWIT
+League Table
+Hashi Ophis
+Connect all the is-
+lands with bridges
+so that you can get
+from any island to
+any other one. There
+are restrictions,
+though: the bridges
+have to be either
+vertical or hori-
+zonal and they must
+not intersect. You
+can have up to two
+bridges between any
+two islands and, last
+but not least, each
+island must have ex-
+actly as many bridg-
+es stemming from it
+as the number on it.
+Fill the cells with a
+continuous line (the
+“snake”) that does
+not pass through a
+cell twice, doesn’t
+intersect with itself,
+and passes through
+all white boxes. The
+numbers show you
+how many times the
+snake turns in the
+corresponding row
+or column. The snake
+enters and exits the
+grid at the shown
+points (and only
+those points). There
+are some hints to get
+you started.
+3
+2 3
+1 5
+4
+2 3
+4 3
+1 3
+1 2
+1 1 2
+2 4
+5 1
+2 3
+3 1
+1 3 4 3
+1 2
+2 2 2
+1
+3 7
+5 5
+2 1
+2 2 2 Yufan Zhao 6
+M-Soup 3
+Wael Aljeshi 3
+Tan Wei Jie 2
+Say goodbye to FUCWIT, and say
+hello to FUCWIT 2: Electric Boo-
+galoo. As promised, FUCWIT has
+reset and now is your chance to
+see yourself at the top of the lead-
+erboard, so send your answers to
+puzzles.felix@imperial.ac.uk.
+As a reminder of how points
+work, it’s 1 point per correct so-
+lution, plus 1 point if you’re the
+first one to send it (with double
+points for the cryptic crossword
+when we have one, because I hear
+it’s a pain to crack).
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+2
+4 4 4 4 4 6 6 6 6 2
+6
+6
+6
+3
+4
+2
+3
+8
+6
+3
+3
+2
+3
+3
+8
+3
+7 3 7
+1
+8
+3
+2
+3
+1
+8
+2
+7 3 10 11
+4
+3
+2
+3
+1 1
+3 4
+3 1
+3
+2
+3
+1 4
+2 3 4
+2 5 2
+2 2 2 2
+2 2 2 2
+2 2 2 2
+15
+15
+15
+Across
+1. Mario bad guy (7)
+5. Holiday accommodation (5)
+8. Stop from entering (3)
+9. Heavy (rain) (10)
+11. Excuses (7)
+12. Fish eggs (3)
+13. Striped animals (6)
+14. Respect and admiration (6)
+17. Star sign (6)
+20. Colouring agent (3)
+22. Fairy ___, Christmas decoration (6)
+23. Tall, slender leaved plant (4)
+24. Teach (7)
+27. Cut e.g. TV series (3)
+28. Hold loved one closely in arms (7)
+30. Insect (3)
+31. Good farmland (6)
+33. Use coupon (6)
+34. Sense organ (3)
+35. Other(s) (4)
+36. Card suit (6)
+37. Pen brand (3)
+Down
+1. Wet geological feature (9)
+2. Dry food store (6)
+3. Incapable (5)
+4. Whole number (7)
+5. Expression of sarcastic laughter (2)
+6. Comfy baby grow type outfit (6)
+7. Wealth of a country or region (7)
+8. ____ you, expression when someone
+sneezes (5)
+10. Spanish municipality in the Aran Val-
+ley, Catalonia (5)
+15. Bean curd often used as a meat re-
+placement (4)
+16. First name of Bart Simpson’s teacher
+(4)
+17. Number (5)
+18. Had food (3)
+19. Not ideal, but will do, its _____ (7)
+21. Lively (9)
+25. Sleep thought (6)
+26. Bring into existence (6)
+27. Mixture of metallic elements (5)
+29. Paying attention (5)
+32. Explosive (4)
+33. Whiskey grain plant (3)
+D E A D L I N E H A T
+R N E O I
+A R R A N G E D P P
+G I D S
+O R B A L L O W E D
+N T E A
+S E A S O N S L O A F
+O L L R
+R U R A L S H O T I
+O T I W I N G
+L E A K I N G L H
+L O H A R L O T
+
+              
+              
+              
+              
+              
+                
+                 
+              
+                
+               
+                
+              
+              
+               
+                
+
+Solution for last week’s crossword.
+Last week’s nonogram
+

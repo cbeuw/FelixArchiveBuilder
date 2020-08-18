@@ -1,0 +1,486 @@
+sport.felix@imperial.ac.uk
+26 Friday 8 May 2009
+felix
+Sport
+27
+felix
+Friday 8 May 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 12 12 0 0 105 15 90 100 5.00
+2 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+3 Fencing Men's 1st 11 10 0 1 1457861 596 91 4.18
+4 Fencing Women's 1st 11 10 0 1 1445 1160285 91 4.18
+5 Volleyball Women's 1st 9 8 0 1 17 3 14 89 4.00
+6 Hockey Men's 1st 13 11 0 2 65 19 46 85 3.62
+7 Squash Men's 2nd 13 11 0 2 40 21 19 85 3.62
+8 ICSM Netball 2nd 12 10 0 2 452 226 226 83 3.50
+9 ICSM Netball 3rd 12 10 0 2 444 225 219 83 3.50
+10 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+11 Lacrosse Women's 1st 11 9 0 2 162 43 119 82 3.36
+12 Table Tennis Men's 1st 15 12 0 3 163 88 75 80 3.20
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 12 9 0 3 404 226 178 75 2.75
+15 ICSM Hockey Women's 1st 14 9 1 4 65 29 36 64 2.21
+16 Hockey Women's 1st 16 9 2 5 54 38 16 56 1.81
+17 Basketball Men's 1st 11 7 0 4 780 709 71 64 1.73
+18 Hockey Men's 3rd 12 4 5 3 23 30 -7 33 1.50
+19 Hockey Men's 2nd 12 7 0 5 50 36 14 58 1.25
+20 Hockey Men's 4th 8 4 1 3 19 23 -4 50 1.25
+21 Badminton Men's 2nd 11 5 2 4 49 39 10 45 1.18
+22 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+23 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+24 Fencing Men's 2nd 9 5 0 4 1100 947 153 56 1.00
+25 Rugby Union Men's 2nd 17 9 0 8 358 334 24 53 0.76
+26 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+27 Basketball Women's 1st 10 5 0 5 453 425 28 50 0.50
+28 ICSM Hockey Women's 2nd 11 4 2 5 27 43 -16 36 0.36
+29 Football Men's 1st 12 5 1 6 25 29 -4 42 0.25
+30 Tennis Men's 2nd 12 5 1 6 42 69 -27 42 0.25
+31 ICSM Football Men's 1st 13 4 3 6 17 26 -9 31 0.15
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Football Men's 2nd 11 4 1 6 24 35 -11 36 -0.18
+34 ICSM Rugby Union Men's 2nd 16 6 1 9 271 244 27 38 -0.25
+35 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+36 Rugby Union Men's 3rd 15 6 0 9 264 324 -60 40 -0.40
+37 ICSM Rugby Union Men's 1st 17 5 1 11 306 467 -161 29 -1.00
+38 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+39 ICSM Rugby Union Men's 3rd 14 4 0 10 152 429 -277 29 -1.43
+40 Football Men's 3rd 11 3 0 8 18 33 -15 27 -1.55
+41 ICSM Football Men's 2nd 10 2 1 7 13 28 -15 20 -1.60
+42 ICSM Hockey Women's 3rd 9 1 2 6 11 39 -28 11 -1.67
+43 Hockey Women's 2nd 11 2 1 8 10 46 -36 18 -1.82
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 Football Women's 1st 10 2 0 8 11 34 -23 20 -2.20
+46 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+47 ICSM Hockey Men's 2nd 11 2 0 9 17 24 -7 18 -2.36
+48 ICSM Hockey Men's 1st 11 1 1 9 18 45 -27 9 -2.64
+49 Rugby Union Men's 4th 15 2 0 13 162 623 -461 13 -2.80
+50 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+51 Netball 3rd 12 1 0 11 127 452 -325 8 -3.25
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Netball 1st 11 0 0 11 220 428 -208 0 -4.00
+1 2 3 4 5 5 6 7 8
+9 10 11
+11
+12
+13 14 14
+15 18 16
+17
+18 19
+20
+21 28
+32 22 23
+24 25
+34
+26 27
+12
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,431
+Across
+1. Former writer’s Spanish outlay
+(8)
+5. The Spanish try with energy to
+turn fit for consumption (6)
+9. Insect runs away to marry deer
+(9)
+11. Fibbed about a point, coated on
+the inside (5)
+12. After a short time by the river,
+terrorists are tailed by fellows –
+these fellows? (6,6)
+15. Current sovereign doesn’t quite
+make night prayer (4)
+16. Endless supply of maize –
+almost paradise (10)
+18. Have fun with aviator and
+dramatist (10)
+19. Novice wrapped in animal skin
+(4)
+21. Sad fideists I upset, feeling
+unhappy (13)
+24. Mammal is alright with a
+number behind animal head (5)
+25. Intent on moving chromosome
+– it doesn’t exist (9)
+26. Green arrangement with
+variable power (6)
+27. A small amount of leaves and
+excrement in the outskirts of
+Southampton (8)
+Down
+1. Vigour freelancer has at heart (4)
+2. Spread the top of one’s head (4)
+3. Climbing valley, international
+meeting cancelled (6)
+4. In Rio, next Pope rehashed advice
+from authority (6,7)
+6. Offloading work is a German
+tradition (8)
+7. Fall asleep on pills in dull sur-
+roundings – an accident waiting to
+happen (6,4)
+8. Strippers shock sissy cadet (10)
+10. Pick a good spot to spy on neigh-
+bours, avoid taking sides (3,2,3,5)
+13. Stadium has cool covering over
+city (10)
+14. Cut-price fish – I might buy it (10)
+17. Son clothed in profanity (8)
+20. A reprehensible act to go under
+the barrier when switching over in
+this game (6)
+22. Do I feature in the Aeneid? I do (4)
+23. Fancy anagrams obscure the solu-
+tion, a colour (4)
+I D A V A L E S B A C O N
+A E N E S G F T T I R A Q O
+R E E L S O I N H E R I T E D
+I A F A A E S N A T O I E
+O F F I T H H I S H A D T
+N B A E L C O A C E D O L E P
+E L B A A N U T C R A C K E R
+T H L O S E T L O Y A T N E
+T H T R K E S R B A R D
+E N E O I O F O A Y A S I I
+R H I T E I N E L A S S
+A N O H C N A S N E R C H C
+S P A G H E T T I A N A C H O
+I V R K E E H N F D I I C P
+A D D E D R I G M A R O L E
+W
+Solution to crossword 1430
+E
+E
+J
+O
+S
+G
+W
+Another upset to the current state of
+play, neither Mochten sie mein Man-
+shaft or Team Shotgun won the cryptic
+crossword. In fact the winner was Ian
+Gilmore who managed to get into the
+mind of our clever cryptic crossword
+setter and solve his tricksy riddles.
+Let us see how you all cope with this
+one and let’s hope that more people
+can beat the top guns to the punch
+with the solutions.
+Crossword by: Sam Wong
+As the name suggest remedial massage
+aims to remedy, but you do not need
+to be injured or ill to have a remedial
+massage; it can be used like a MOT or
+service for the body.
+Prevention is better than cure! Why
+not treat that nagging ache before it
+becomes a repetitive strain injury?
+Why not address postural imbalances
+and avoid lower back pain or treat your
+computer neck before developing ten-
+sion headaches? Improve sport per-
+formance and avoid injuries by treating
+tight muscles. Remedial massage can
+simply be used to relax and de-stress,
+so if the thought of exams and studying
+is getting to you, take a break.
+A remedial treatment can combine
+different massage styles, advanced
+techniques, joint mobilisations and
+stretches. For example a person may
+have tennis elbow, tight hamstrings
+and upper body tension, requiring
+sports therapy, deep tissue and Swed-
+ish techniques with exercise and pos-
+tural advice.
+Remedial massage works by concen-
+trating on specific injuries or imbal-
+ances within the body, using soft tissue
+manipulation to reduce muscle tension
+which in turn allows better joint range
+of motion. As a whole improving circu-
+lation, calming the central nervous sys-
+tem, boosting the immune system and
+Remedial massage to relieve
+those aches and pains
+stimulating the release of endorphins,
+the bodies natural feel good factor.
+A remedial massage works on many
+levels, creating a calm, balanced sense
+of well being.
+Lymphatic Drainage (LD) is a more
+specific form of massage which uses
+mostly light pressure and gentle, rhyth-
+mic strokes to increase and improve
+lymphatic flow and drainage. Lymph
+is an essential part of our immune sys-
+tem and helps fight infection.
+Primarily used to treat lymphoede-
+ma or swelling by helping to drain ex-
+cess fluids from injured or congested
+areas of the body. It can speed up the
+recovery process after illness or simply
+be used to help keep the immune sys-
+tem healthy. It improves skin texture
+by reducing swelling, puffiness and
+blotches and can speed up healing in
+scar tissue.
+Philip studied in Sydney, Australia
+where he lived and worked for 5 years.
+His studies have encompassed many
+different massage styles; remedial,
+sports, deep tissue, Swedish, trigger
+point, intuitive massage, lymphatic
+drainage, Chinese Tuina and myofas-
+cial release. He is currently studying
+for a master’s degree in Osteopathy.
+Philip is available at Ethos on
+Tuesday, Friday and Sunday and
+can be contact on 07853 162 798
+or philip-cox@hotmail.com
+Philip Cox
+IC participate in
+first-ever Hurling
+tournament
+It was an historic weekend for Impe-
+rial College GAA, as its hurlers took to
+the field for the first time ever in the
+annual British Universities 7-a-Sides in
+Birmingham.
+The journey began at Victoria Coach
+station on Friday evening, with me
+waiting like an idiot for forty-five min-
+utes before the coach set off. Magneto
+a.k.a. Chris Farrell, Stephen Gallagher
+and Andy Lavery, however, decided
+that running through the station to get
+on the coach literally a minute before
+it was meant to set off was the best
+option.
+After my half-heart attack, we were
+on our way. Friday night in Brum was
+spent settling in the corner of the near-
+est pub and splitting our holes laugh-
+ing at the absolute write-off asking the
+bar staff if they’d let him ride them for
+a few quid and at the two delightful
+young ladies eating chips off the floor
+when we got back to the hotel.
+After far too little sleep, we were
+picked up from the hotel by our own
+personal Brummie, Doot, a.k.a. Phil
+Jakeman. At this point we still only had
+five players but thankfully the other
+lads (Evin Coogan, Andy Hayes and
+Brian Gilmore) turned up at the Erin
+go Bragh GAA grounds in time. Our
+first match was against Liverpool John
+Moores Uni, who were strong to say
+the least. Clearly we hadn’t woken up at
+all yet because within three minutes of
+the ref throwing the ball in, they were
+up by two goals and a few points. The
+IC men however continued to battle
+on, and Coogan and McCann notched
+up a few scores. Some Trojan work by
+Hayes and Gilmore in defence stopped
+Finian McCann LJMU from completely running away
+with it, but in the end the lead they had
+built up at the start of the game proved
+to be insurmountable.
+Our next opposition were Shef-
+field Hallam. Dedicated followers of
+IC GAA will remember that these are
+the shower that beat us in the semis
+of the Gaelic football championships a
+month earlier, so revenge was on eve-
+ryone’s minds.
+IC started what was to be the most
+ungraceful and awkward game of
+hurling I’ve ever participated in a bit
+unsteadily, but were soon imposing
+themselves on the Sheffield boys.
+A few quick scores put us ahead, and
+midway through the first half Stephen
+Gallagher was fouled in front of the
+goals. Coogan stepped up to take the
+free and drove the ball into the back of
+the net, putting Imperial 1-2 (one goal,
+two points) to 0-0 in front. With the
+wind behind them, Imperial continued
+to dominate. McCann, Coogan and
+Hayes all converted long range points,
+and when the final whistle blew, Impe-
+rial had won 1-7 to 0-0, achieving the
+college’s first ever hurling victory.
+Buoyed by our success, we went
+into our final group match slightly
+optimistic, even though it was against
+eventual champions Robert Gordon
+University from Aberdeen. The game
+was closely contested throughout the
+first half, with Evin Coogan knocking
+over a point for Imperial and everyone
+working hard to win ball. However, one
+of the RGU forwards managed to slip
+through to score their first goal.
+In the second half, Doot and Coogan
+started in midfield with McCann go-
+ing up front, and soon after the restart,
+Coogan played the ball from midfield
+into McCann who (Usain) bolted to-
+wards the RGU posts. Unfortunately
+the resulting shot blazed over the bar
+for a point rather than a goal, and that
+was to be the last score Imperial got
+in the match. The Aberdeen side were
+given a bit too much space in the last
+few minutes and converted a few more
+scores to end up winning the match
+2-5 to 0-2. Special mention goes to
+Magneto in nets who managed to stop
+a blistering shot with his neck.
+And so ended Imperial’s tournament
+for one year, finishing up third in our
+group. But we did have one last thing
+to do while in Birmingham: get ham-
+mered. As is becoming customary
+with IC drinking sessions, the night
+was started off with a few bottles of
+Buckfast, followed by the possibly the
+cheapest club in Britain. The bus home
+the next day was not as much fun…
+All in all, it was probably one the best
+weekends I’ve had this year, good solid
+craic throughout, and it wouldn’t have
+happened were it not for the help we
+received from a few people.
+First and foremost, a big thank you
+to all the lads who played at the week-
+end and who’ve been coming to train-
+ings for the last few weeks. I’m pretty
+sure I would have laughed at someone
+a year ago if they told me I’d be playing
+hurling with IC but apparently with a
+bit of effort you can get anything done.
+Special thanks go to Frank McCann for
+donating a set of hurls to the club and
+to Brian Gallagher for donating a set of
+sliothars and a dozen grips.
+Thanks also to Katie Cullen for the
+loan of her helmet for the weekend, and
+to Phil’s mum for an awesome home-
+cooked stew on Saturday evening.
+Imperial in action against Royal Holloway
+Chloé Sharrocks
+André Wilmes showed the right person
+had been crowned ACC Sportsman of
+the Year during the Easter vacation
+when he represented Imperial at the
+BUCS Equestrian Championships.
+Fresh from a second placing at an
+International Student Riding Cup
+competition, where he represented his
+home country of Luxembourg, Wilmes
+headed to Arena UK, in Lincolnshire
+to contest the 3-day university national
+finals.
+A stunning performance in the dres-
+sage phases (aka “ballet-for-horses”)
+on the first day saw André qualify for
+the semi-finals the next day. Here his
+international experience helped him
+achieve a further good round and saw
+him qualify for the finals. At this stage
+he was guaranteed no less than second
+place.
+The final dressage test was a freestyle
+performance to music that Wilmes had
+choreographed only the night before.
+Some problems with the stereo as he
+entered the arena meant some delays
+before he could begin, but Wilmes held
+onto his nerve.
+Riding a borrowed horse he chal-
+lenged the other finalist by performing
+a very technical routine to a fun Lion
+King melody. Sadly the other rider in
+the final was Emily Llewelyn - repre-
+senting the University of Sussex - and
+current double gold medallist at under-
+21 level. Despite a brilliant final round,
+Wilmes riding high after
+national success
+Wilmes could not surpass the current
+world champion and he was awarded
+the silver medal in the BUCS national
+dressage championships.
+Sadly on the final day Wilmes was
+unable to qualify for the final of the
+show-jumping championships, after
+he was drawn a rather un-cooperating
+horse who had already eliminated an-
+other rider.
+However, the second placing he
+achieved in the dressage competition
+is still the best result an Imperial rider
+has ever achieved at the BUCS Nation-
+al Championships.
+With André Wilmes remaining as
+first team captain of Imperial’s Riding
+Club next year, there is hope of further
+individual and team success in 2010.
+For the second time this term, mem-
+bers of Imperial College GAA have
+represented the college at a national
+level. Finian McCann and Stephen
+Gallagher had played for the English
+Universities team against the Scot-
+tish Universities Shinty team back in
+January, but went one better and were
+selected on the British Universities
+All-Stars team, which is the top hon-
+our that can be bestowed upon uni-
+versity players. On March 14th, they
+played an exhibition match against the
+Warwickshire county team at the Erin
+go Bragh GAA grounds in Birming-
+ham. Both lads gave a good account
+of themselves, with Finian knocking
+over a score just before half-time from
+wing-forward (at the expense of his
+favourite hurl) and Stephen creating
+trouble for the defence up at corner-
+forward. In the end, the All-Stars team
+won the game comfortably 2-14 to 1-8.
+After the game, each member of the
+team was presented with a commemo-
+rative medal, with which the lads are
+pictured here.
+Congratulations are also due to Ed-
+ward O’ Hare, who has been called up
+to the London County football panel,
+which competes against the best sides
+in Ireland in the National Football
+league and the All-Ireland champion-
+ship. All in all, this wraps up a very suc-
+cessful maiden year for IC GAA, with
+teams competing (and winning) at
+national level in both hurling and foot-
+ball, and with selections on intercounty
+and international teams in football and
+hurling respectively.
+IC hurlers on British All-
+Stars team
+Finian McCann
+A
+M
+W W
+W
+Imperial’s All Star players Stephen Gallagher and Finnian McCann
+

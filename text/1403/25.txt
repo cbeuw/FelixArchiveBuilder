@@ -1,0 +1,277 @@
+sudoku.felix@imperial.ac.uk Fun & Games
+The winner of Slitherlink 1,402 was
+Hringur Gretarsson yet again! Awe-
+some cheesecake with blackcurrent
+puree and a cinnamon biscuit base.
+We’ll give a prize out in the summer.
+The more entries, the better your
+chances.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+Slitherlink 1,403
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,402 solution
+3
+0
+x
+x
+x
+x
+2
+2
+2
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“Private accom!!!”
+“Maybe the dimethyltryptamine
+molecules are fuckin’ psychoki-
+netic... Move to my demand and
+induce a state-a-mind hallucino-
+genic... Diffusin outta the grass in
+lil gangs of eight and nine... Flowin’
+thru my nasal cavity, they raidin’
+my mind... Nah, prob’ly just the
+same shit, in your cranium you’ll
+find...
+”
+“...AMAZING FACTS...
+Fact 1: u cannot touch your lower
+lip with your tongue...
+”
+“bruv I rolled the ronak of all zuts
+4 monday. proper chunky one. lol.
+”
+Wordoku 1,403
+R
+I
+S
+T
+F
+E
+R
+A
+C
+T
+E
+C
+R
+A
+I
+F
+O
+S
+A
+R
+F
+S
+C
+O
+E
+T
+I
+C
+A
+O
+I
+T
+F
+S
+E
+R
+E
+S
+R
+A
+O
+C
+T
+I
+F
+I
+F
+T
+E
+R
+S
+A
+C
+O
+S
+C
+E
+F
+I
+A
+O
+R
+T
+R
+O
+A
+C
+S
+T
+I
+F
+E
+F
+T
+I
+O
+E
+R
+C
+S
+A
+1,402 Solution
+Z
+M
+G
+M
+Y
+A
+O
+A
+Z
+Y
+M
+A
+I
+C
+M
+Y
+O
+I
+Y
+G
+O
+Z
+T
+T
+C
+I
+G
+O
+G
+Z
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters. Once you’ve completed
+the puzzle, there is a hidden word
+to find. Email answers to sudoku.
+felix@imperial.ac.uk.
+The winner of Wordoku
+1,402 was Fu-Howe Lee.
+Congratulations! The hidden
+word was: FACTORISE. Keep
+those entries coming in.
+3
+2
+1
+3 2 3
+2
+2
+1 3
+1
+1
+1
+2
+2
+3
+2
+3
+2
+3
+3
+3
+0
+2
+1
+1
+3
+2 2
+2
+3
+1
+2
+3 3 3
+3
+2 3
+3
+3
+0
+2 1 2 1
+2
+2
+3
+2
+2
+2
+2 1 3 1 2 2
+2
+2
+1
+3
+2
+2 1
+3
+1 2 2
+2
+2
+2
+2
+2
+3
+1 2
+2
+1
+3
+3 3 3 3 3
+2
+1
+2
+25
+Friday 16 May 2008 felix
+www.tevong.co.uk
+Adlib by Tevong You
+

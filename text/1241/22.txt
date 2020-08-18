@@ -1,0 +1,61 @@
+Second Floor Second Floor
+STAGE
+FIRE
+EXIT ONLY
+8
+10
+4
+3
+11 Cinema/
+Concert Hall 2
+12
+13
+8
+10
+11
+Union
+1 2
+Gym 3
+13
+14
+Union Building: Second Floor
+Union Building: First Floor
+First Floor
+TO
+FIRE
+EXIT ONLY
+8
+6
+Union
+Dining Hall
+10
+11
+12
+13
+14
+15
+imperial
+• college
+union
+FRESHERS FAIR
+Stampy Voucher
+Fill-in your name, address and phone/mobile
+number and after getting all four STAMPYs
+from the stalls around the Fair, drop the Raffle
+ticket into the box by the catering cashier in
+Da Vinci's in the Union Building. There are
+great prizes to be won.
+• Three 3-month passes for yourself and a
+guest to the Odeon Kensington
+•£250 of H M V Vouchers
+• A 6-foot party sub sandwich from Earl's
+Court Subway sandwich shop
+• plus many more great prizes
+Name
+Dept
+Email
+Phone/Mobile
+The draw will be held on Friday, October 4 during the
+SUPER HEROES Fancy Dress Party at the Union, and
+the winners will be notified by phone/email.
+

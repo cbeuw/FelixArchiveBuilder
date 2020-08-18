@@ -1,0 +1,252 @@
+30 felix Friday 14 March 2008
+Organic what in my TV?
+Richard Lai talks about how this new screen tech will make a difference to you
+A
+pologies for the lack of a
+section of last week but I
+was enjoying myself with
+coursework too much to
+tear myself away from it.
+Anyway, let’s see what is on offer from
+the world of tech as we head towards
+the end of term.
+The games console accessory maker
+Nyko has beat Sony to the release of
+a rumbling Playstation 3 controller
+dubbed the Zero PS3. Sony can’t be too
+happy about this as they finally gave in
+to consumer pressure to release the
+Dual Shock 3 only to be beaten to the
+post. But in reality, I don’t think Sony
+have to much to worry about as the
+Nyko is a flat-out fugly product so I
+think very few people will stray from
+the official controller.
+A western state of Germany has re-
+called its subsidies to Nokia after its
+failure to meet the conditions set in
+the agreement. The money was to help
+fund Nokia’s manufacturing plant to
+constructed in Germany and was sup-
+posed to provide 2,800 jobs to the area,
+however, Nokia plans to close the plant
+in the next few months much to the an-
+noyance of the people who have paid
+for it. They have requested the initial
+money back plus interest producing a
+sum of €59 million which if not paid
+will be replaced with legal action.
+A bunch of clever hackers have pro-
+ducedamethodofconvertingstreamed
+BBC iPlayer media into the H.264 for-
+mat required by the iPhone and iTouch
+as they do not support the widely pop-
+ularized lite media format Flash. Steve
+Jobs explained this as “Flash is not up
+to the standard of the iPhone” roughly
+translated as “The iPhone can’t run
+Flash very well”; where the blame falls
+I think we can decide for ourselves.
+Admittedly, these hackers seem to
+have wasted their time as an iPlayer for
+these devices has been in the works for
+a while now.
+America and Germany have drawn
+up an agreement to merge each of their
+biometric criminal databases in an at-
+tempt to catch international criminals
+and terrorists. Once again the two
+standard sides to the argument emerge,
+invasion of national privacy against
+“screw them they’re criminals”. In rela-
+tion to this, rumours have appeared of
+a worldwide database being construct-
+ed but nothing firm is available.
+The Nokia N96 mobile has been con-
+firmed for August. This phone is an-
+ticipated by many a UK user as it will
+be the first mobile to have a TV tuner
+built in. For more depth you can find a
+preview of it in a previous issue of the
+tech section on the Felix web page.
+Battlefield laser guns have come a
+step closer to reality as Northrop, the
+US military’s main tech supplier, have
+tested a 15 kilowatt laser and have
+plans for a 100 kilowatt model deemed
+powerful for combat. These weapons
+are originally being intended for use
+as anti-missile and anti-air rather than
+ground-to-ground as air targets tend
+to be more vulnerable.
+Unfortunately only one article this
+week, the final issue of term, but need-
+less to say it’s a good one covering the
+evolving new technology of Organic
+LED displays.
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+Headlines we
+couldn’t fit in
+Macbook Air
+suffers from
+overheating
+Sun/Microsoft
+data centre
+planned
+New eclipse to be
+released by Sun
+Digital Radio a
+flop
+Wiki creator edits
+content for cash
+Europe Xbox 360
+price drop
+Space freighter
+success
+South Korea
+announces first
+astronaut
+Camera that looks
+through clothing
+James Finnerty
+Technology Editor
+OLED – So impressive it overloads people’s ability to construct a facial expression... honestly
+iPod nano sparks
+problems
+MOD loses 11,000
+ID cards
+N
+ow that the HD video
+format war is over (well
+done, Sony!), it is prob-
+ably time to think about
+next-gen TV. Currently
+it is predicted that this year LCD TVs
+will net 50% share of the TV market
+(in which 58% will be full HD), but
+this does not stop the development of
+any new display technologies. As we
+speak, the most promising candidate
+appears to be the organic light-emit-
+ting diode (OLED) display technology.
+Here is a brief introduction of OLED:
+as far back as the 1970s, Eastman Ko-
+dak discovered that certain organic
+materials glow in response to electri-
+cal currents, and a variety of related
+technologies emerged from that point
+onwards. In fact, our very own Profes-
+sor Donal Bradley, Head of the Depart-
+ment of Physics, was one of the inven-
+tors of the polymer LEDs (PLEDs) – a
+type of OLED technology, and today
+we are able to apply that to display
+applications. Although the finished
+OLED panel may look similar to an
+LCD, the structure differs: from top
+to bottom we have the cathode, emis-
+sive polymer layer, conductive polymer
+layer and anode, with the entire struc-
+ture laid on a substrate such as glass or
+even plastic. To operate, a current is
+passed between the electrodes, which
+causes the electrons in the conductive
+layer to move down to the anode. This
+leaves holes (absence of electrons) be-
+hind which then recombine with the
+electrons in the emissive layer above,
+causing a drop in the electron energy
+levels and thus releasing energy in the
+form of light (through the substrate).
+Such process is known as electrophos-
+phorescence, as used in all LEDs.
+Comparing this with LCDs, OLEDs
+already have several advantages: as
+mentioned above, each OLED pixel
+controls its own light and can therefore
+produce true black thus boosting the
+contrast ratio, but LCDs – which work
+by blocking light in selective areas –
+require a backlight across the panel,
+meaning they cannot show true black
+as some light is bound to leak through.
+As well as wasting power and making
+the panel thicker; another difference
+is that an LCD requires two polarisers
+and a colour filter to operate, thereby
+restricting the viewing angle as well
+as blocking light and increasing thick-
+ness, whereas an OLED needs no fil-
+tering so it has none of those problems.
+Other advantages of the OLEDs in-
+clude faster refresh rate, greater colour
+range, longer lifespan (as promised by
+Panasonic and Toshiba last January)
+and – perhaps most important of all
+– the ability to be printed onto flexible
+substrates, allowing applications that
+are not possible with LCDs.
+Currently the biggest problems with
+OLEDs is their manufacturing meth-
+ods: with Eastman Kodak holding the
+patents other companies are financially
+restricted for development, so even the
+giants like Sony and Toshiba will have
+to increase the prices to make up for
+the initial expenses. More worryingly,
+the fact that the organic materials can
+be easily damaged by water makes it
+hard to justify the prices, as well as
+putting doubts into the practicality of
+flexible OLEDs, but we can assume
+that advanced sealing processes will
+be used – after all, we are in the 21st
+century.
+As we speak, the only OLED TV in
+the market is the Sony XEL-1, cost-
+ing you about £950 in Japan or about
+£1270 in the US (we all know that the
+Japanese keep the best to themselves).
+And no, it’s not even an HDTV or a
+40”; a mere little 11” baby that gives
+you 3mm of sexiness and a ridiculous
+contrast ratio of 1,000,000:1 (most
+LCD TVs in this price range can only
+do about 10,000:1). It really isn’t the
+size, mate, but only if you can afford
+it. Fortunately, you can experience the
+OLED goodness in smaller forms with-
+out burning holes in your pocket: since
+OLEDs have a much simpler structure
+than LCDs, they are ideal for making
+small displays, so you will find them
+in several new (pricey) digital camer-
+as, premium mobile phones, or some
+new portable media players such as the
+Creative Zen stone. If you don’t mind
+monochrome displays, selected design
+watches will also have OLED panels –
+you can spot them straight away with
+their distinctively vibrant colours.
+But this isn’t it; the list of potential
+applications goes on: rollable elec-
+tronic newspaper that updates itself
+daily with newspapers, animated art-
+work (or even TV) on clothes, head-
+mounted display system for soldiers,
+light sources--, etc. For now, OLEDs
+may still be occupying a small part of
+the TV and monitor market, but as
+new production processes emerge and
+breakthroughs breakthrough they will
+become more affordable – I don’t see
+why this can’t happen within 5 years’
+time. It will also be interesting to see if
+OLEDs can exceed LCDs’ performance
+by then – mind you, it did take about
+30 years for LCDs to occupy more than
+half the TV market!
+OLED on your wrist!
+

@@ -1,0 +1,267 @@
+41
+felix FRIDAY 05 MARCH 2010
+SPORT
+sport.felix@imperial.ac.uk
+felixSports League
+Team P W D L F A Diff felixSport
+Index
+1 Volleyball Men's 1st 10 10 0 0 20 1 19 5.00
+2 Fencing Women's 1st 10 10 0 0 1338 863 475 5.00
+3 Fencing Men's 2nd 9 9 0 0 1188 820 368 5.00
+4 Water Polo Men's 1st 5 4 1 0 53 16 37 4.4
+5 ICSM Rugby Men's 1st 13 11 1 1 466 154 312 4.08
+6 Volleyball Women's 1st 9 8 0 1 17 4 13 4.00
+7 Lacrosse Women's 1st 8 7 0 1 145 21 124 3.88
+8 Squash Men's 3rd 7 6 0 1 15 6 9 3.71
+9 Netball Women's 2nd 9 7 1 1 308 184 124 3.67
+10 ICSM Badminton Men's 1st 8 6 1 1 50 14 36 3.50
+11 Rugby Men's 1st 15 11 2 2 489 122 367 3.40
+12 Table Tennis Men's 1st 11 9 0 2 130 57 73 3.36
+13 ICSM Netball Women's 2nd 9 6 2 1 360 269 91 3.33
+14 Squash Men's 4th 10 8 0 2 12 9 3 3.20
+15 Basketball Women's 1st 5 4 0 1 259 211 48 3.2
+16 Squash Women's 1st 11 6 4 1 30 14 16 3.09
+17 Hockey Women's 1st 12 8 1 3 55 15 40 2.50
+18 Badminton Men's 1st 12 8 1 3 57 39 18 2.50
+19 Lacrosse Men's 1st 8 5 1 2 73 54 19 2.38
+20 Fencing Men's 1st 10 7 0 3 1247 1022 225 2.30
+21 ICSM Hockey Men's 1st 11 7 1 3 39 23 16 2.27
+22 Squash Men's 1st 9 6 0 3 27 18 9 2.00
+23 Hockey Men's 2nd 8 3 3 2 17 16 1 1.63
+24 Water Polo Women's 1st 6 3 1 2 35 16 19 1.5
+25 Hockey Men's 3rd 6 1 4 1 6 7 -1 1.5
+26 Badminton Men's 2nd 11 6 1 4 53 35 18 1.45
+27 Tennis Men's 1st 12 5 3 4 70 49 21 1.25
+28 Netball Women's 1st 12 7 0 5 491 430 61 1.25
+29 Football Men's 3rd 8 4 1 3 11 19 -8 1.25
+30 Tennis Men's 2nd 9 5 0 4 46 44 2 1.00
+31 ICSM Netball Women's 1st 9 5 0 4 332 280 52 1.00
+32 Football Men's 1st 12 6 1 5 33 28 5 1.00
+33 Hockey Women's 2nd 9 4 1 4 20 26 -6 0.67
+34 Fencing Women's 2nd 10 5 0 5 1052 1235 -183 0.50
+35 Basketball Men's 1st 8 4 0 4 500 509 -9 0.50
+36 Badminton Women's 1st 10 3 3 4 43 37 6 0.50
+37 ICSM Hockey Women's 2nd 9 3 2 4 10 28 -18 0.33
+38 ICSM Hockey Men's 3rd 8 3 1 4 15 29 -14 0.13
+39 Squash Men's 2nd 9 4 0 5 18 27 -9 0.00
+40 Football Men's 2nd 13 5 0 8 24 31 -7 -0.54
+41 ICSM Football Men's 1st 7 2 1 4 9 14 -5 -0.57
+42 ICSM Hockey Women's 1st 20 6 2 12 43 66 -23 -0.70
+43 Fencing Men's 3rd 11 4 0 7 1180 1295 -115 -0.73
+44 Rugby Union Men's 2nd 12 4 0 8 222 167 55 -1.00
+45 Netball Women's 3rd 9 3 0 6 189 281 -92 -1.00
+46 Tennis Women's 1st 11 2 2 7 35 75 -40 -1.27
+47 Rugby Union Men's 4th 10 3 0 7 91 225 -134 -1.30
+48 Rugby Men's 3rd 10 2 1 7 103 258 -155 -1.60
+49 ICSM Netball 3rd 8 1 1 6 193 282 -89 -2.13
+50 ICSM Hockey Men's 2nd 7 0 2 5 7 29 -22 -2.29
+51 Hockey Men's 1st 9 1 1 7 17 31 -14 -2.33
+52 ICSM Rugby Men's 3rd 9 1 0 8 96 230 -134 -3.00
+53 ICSM Rugby Men's 2nd 10 1 0 9 101 349 -248 -3.10
+54 ICSM Hockey Women's 3rd 7 0 1 6 5 59 -54 -3.14
+55 Football Women's 1st 8 0 1 7 2 52 -50 -3.25
+56 ICSM Football Men's 2nd 7 0 0 7 5 35 -30 -4.00
+Thursday 25th February
+Squash (ULU)
+Men’s 4s 5 - 0 St George’s Medical School 2s
+Saturday 27th February
+Badminton (ULU)
+Mixed 1s 9 - 0 St Barts Mixed 1s
+Basketball (ULU)
+Challenge Cup
+Men’s 1s 59 - 83 LSE 1s
+Football (ULU)
+Men’s 4s 2 - 1 RUMS 2s
+Sunday 28th February
+Hockey (ULU)
+Women’s 1s 1 - 0 King’s College Medicals 1s
+Challenge Cup
+Women’s 2s 0 - 9 Royal Veterinary College 2s
+Water Polo
+BUCS Trophy
+Women’s 1st 2 - 4 UCL 1st
+Women’s 1st 5 - 5 University of Bristol 1st
+Women’s 1st 6 - 2 University of Exeter 1st
+Monday 1st March
+Basketball (ULU)
+Women’s 1s vs UCL 2s
+Netball (ULU)
+Women’s 2s 44 - 9 Royal Veterinary College 2s
+Women’s 4s 11 - 13 St Barts 4s
+Squash (ULU)
+Men’s 1s 5 - 0 King’s College 1s
+Water Polo (ULU)
+Mixed 1s 13 - 6 UCL Mixed 2s
+Wednesday 3rd March
+Badminton
+Men’s 2ndvs University of Hertfordshire 2nd
+BUCS Cup
+Men’s 1st vs University of Southampton 1st
+Basketball
+ULU
+Men’s 2s 76 - 100 London South Bank University 1s
+Fencing
+Men’s 2nd vs University of Surrey 1st
+Men’s 3rd 126 - 132 Queen Mary 1st
+Football
+Men’s 1st 1 - 2 University of Surrey 1st
+Men’s 2nd 4 - 1 University of Greenwich 3rd
+Men’s 3rd 3 - 1 University of the Arts London 3rd
+ULU
+Men’s 4s 3 - 0 King’s College 4s
+Men’s 5s 1 - 4 UCL 5s
+Men’s 6s 0 - 0 School of Oriental & African Studies 2s
+Men’s 7s 1 - 1 St George’s Medical School 3s
+Golf
+Mixed 1st 2 - 4 University of Portsmouth Mixed 2nd
+Hockey
+Women’s 1st 4 - 1 University of Reading 1st
+Women’s 2nd 2 - 2 Imperial Medicals 2nd
+Netball
+Women’s 1st 41 - 37 LSE 1st
+Rugby
+Men’s 4th 12 - 5 University of East London 1st
+BUCS Cup
+Men’s 1st 19 - 34 UWIC 2nd
+Tennis
+Men’s 2nd 3 - 7 UCL 3rd
+Saturday 6th March
+Badminton
+Mixed 1s vs Queen Mary 1s
+Football (ULU)
+Men’s 7s vs Imperial Medicals 3s
+Men’s 5s vs London School of Economics 4s
+Men’s 3s vs University College London 4s
+Men’s 1s vs University College London Men’s 1s
+Men’s 4s vs Queen Mary 3s
+Men’s 2s vs University College London 3s
+Lacrosse (ULU)
+Mixed 1s vs University College London 1s
+Rugby (ULU)
+Men’s 2s vs Royal Holloway 2s
+Men’s 1s vs King’s College 1s
+Netball (ULU)
+Women’s 2s vs Queen Mary 2s
+Women’s 1s vs London School of Economics 1s
+Squash (ULU)
+Women’s 1s vs King’s College 1s
+Men’s 1s vs Royal Holloway 1s
+Men’s 3s vs University College London 3s
+Volleyball (ULU)
+Mixed 1s vs London School of Economics 1s
+Water Polo (ULU)
+1st team vs University College London 1st
+Wednesday 10th March
+Football
+Men’s 3rd vs University of East London 1st
+Men’s 1st vs University of Chichester 2nd
+ULU
+Men’s 5s vs King’s College 3s
+Football Men’s 7s vs Royal Free 4s
+Golf
+1st team vs Kingston University 2nd
+Hockey
+Women’s 1st vs University of Chichester 2nd
+Men’s 3rd vs Brunel University West London 3rd
+ULU
+Women’s 1s vs St Barts 1s
+Men’s 2s vs University College London 2s
+Women’s 2s vs Royal Free 2s
+Men’s 1s vs King’s College 1s
+Men’s 3rd vs Brunel University West London 3rd
+Men’s 4s vs King’s College 2s
+Netball
+Women’s 1st vs University of Hertfordshire 2nd
+Women’s 2nd vs Brunel University 5th
+Rugby
+Men’s 3rd vs Kingston University 2nd
+Men’s 2nd vs University of Hertfordshire 1st
+Tennis
+Men’s 2nd vs School of Oriental and African Studies
+1st
+Friday 12th March
+Fencing
+Men’s 1st vs Edinburgh University 1st
+Women’s 1st vs Oxford University 1st
+FIXTURES & RESULTS
+in association with Sports Partnership
+Pierre McCarthy Ultimate Frisbee
+On Valentine’s day weekend, Impe-
+rial College’s Ultimate Frisbee team,
+the discDoctors, went to Chichester
+for Outdoor Regionals, bringing two
+teams. dD1 were hoping of a top-3
+finish which would enable us to qual-
+ify for Division 1 Nationals. We were
+feeling confident after some great
+performances the previous weekend,
+where we beat high quality opposition
+in a warm-up tournament.
+The first game of the day was against
+Chichester, a game we expected to win.
+After a bit of a slow start, we eventually
+got our heads in the game and capital-
+ised on their mistakes, going on to win
+11-3.
+Our second game was against the
+team who broke our hearts during
+the indoor season, the Surrey Scorpi-
+ons. They put on a very effective zone
+defence which forced us into making
+silly mistakes and shut down our of-
+fence. After bringing the score back
+to 5-5 after a mammoth point, Surrey
+scored twice in quick succession to win
+7-5. This put us in a difficult position,
+needing to win our next five matches
+to secure a maximum of 3rd place and
+a place in Division 1 Nationals.
+After our disappointment of losing
+to Surrey, we came out hard and com-
+pletely shut down one of the stronger
+second teams, Sussex 2, beating them
+13-2. There was still plenty of scope for
+improvement, but we were confident
+going into Sunday that we would be
+able to rediscover our form from the
+previous weeks.
+Sunday started well, with dD1 win-
+ning against Kent 13-4. Straight off that
+win, we beat UCL 11-8 in what was a
+much tighter game. They managed to
+get some speculative long throws out
+to their star player which put us under
+pressure, but we managed to neutral-
+ise that threat and pulled away with the
+win.
+That win set up a rematch against
+Surrey. This time dD1 were on form;
+our offence was clinical and our de-
+fence pressurised them into making
+mistakes, enabling us to win 15-5, and
+setting up a decider against Sussex 1
+for Division 1 qualification.
+It was a very close game and Sussex
+managed to pull away to 8-5 up after
+some great long throws. Nevertheless,
+dD1 kept their heads to bring the score
+back to 9-9, setting up a sudden death
+point, which Sussex scored despite the
+best efforts of the seven dD players on
+the pitch.
+Despite being bitterly disappointed
+to not achieving the fairytale finish of
+qualifying for Division 1 Nationals, we
+played our best Ultimate in our last
+game, so we take heart from that. dD2
+were hoping to put in a good perform-
+ance against some more experienced
+opposition, and won their first game
+against Surrey 2 before being unlucky
+not to beat some of the first teams on
+offer.
+All in all, it was a successful weekend
+for Imperial College Ultimate with eve-
+ryone putting in good performances.
+IC discDoctors narrowly miss out on first division spot
+

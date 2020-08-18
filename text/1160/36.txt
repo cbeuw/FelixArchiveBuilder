@@ -1,0 +1,210 @@
+6 December 1999 • Felix Clubs & Societies 37
+Linux Users Group RCS University Challenge
+Linux has been in the news a lot
+recently, but, just as with other buzz
+words, few ordinary people know
+what it is. In its most basic defini-
+tion, Linux is a collection of pro-
+grams that control and run a com-
+puter, usually a PC. This collection
+of programs is referred to as an
+"operating system". From the point
+of view of the computer user, Linux
+is what allows him/her to commu-
+nicate with the computer. The oper-
+ating system determines how a
+computer runs tasks, the kind of
+software that can be loaded, and
+what kind of "interface" it can
+have. Examples of other operating
+systems are Unix, MacOs, and the
+ubiquitous Windows.
+If you ask the same question to
+the great majority of Linux users the
+answer you will probably get is:
+Linux is cool. To explain this suspi-
+ciously smug answer let's ask more
+questions.
+Why Linux?
+Linux was invented because its
+inventor, Linus Torvalds, did not like
+what was on offer to run his PC. He
+offered his brainchild free of
+charge to the world, with the con-
+dition that it should be kept freely
+available and open to anyone who
+wanted to add to it. Hence, from
+the start Linux was destined to be
+born and raised by creative pro-
+grammers who not only wanted
+quality but also took pride in their
+contributions. Imagine, that the
+Linux factory is the whole world,
+and its personnel are some of the
+best programmers anywhere - and
+all are working for free!
+The end result is an operating
+system that is open, free, easily
+available (on any archive site), sup-
+ported by a huge number of users
+and developers, dependable, sta-
+ble and very powerful. Oh, and
+free.
+Something is fishy here, I hear
+you mumble. Nothing can be that
+good? Well... there are a few
+drawbacks. Until recently, it has
+been said that to own Linux meant
+having to be a hacker. Nowadays
+this is not entirely true, because
+there are many companies and free
+distributors that are producing
+Linux packages that are easy to
+install and easier to manage than
+previous versions. In the recent Las
+Vegas Comdex show Corel's ver-
+sion of Linux was claimed to be
+"easier to install than Windows".
+More and more vendors are
+realising the potential of the free
+operating system market and are
+writing software for Linux as fast as
+they can. Some well know names
+are Matlab, Mathematica, IDL, Star
+Office (now owned by Sun), Corel,
+and even Silicon Graphics. The
+question should be rephrased to:
+Why not Linux?
+W h o is using Linux?
+Linux is moving slowly from the
+exclusive realm of Computer Sci-
+ence departments to other universi-
+ty departments, and ultimately to
+the real world (well, almost). There
+are a few companies that have
+become converts after bad experi-
+ences with unreiiable systems and it
+is, together with Unix, one of the
+best systems for Web servers. Here
+at Imperial, the Linux user commu-
+nity is growing and active, as exem-
+plified by the activities of the Linux
+Users Group and its ic-linux-group
+mailing list. There are several
+departments that run computers
+with NT/Linux partitions and
+because of its advantages for sci-
+entific use it is gaining followers in
+research areas.
+Candid comments from a few
+Aeronautics students (both under-
+graduate and postgraduate): "quite
+easy to install", "OK, screen fonts
+need some work but I am quite
+impressed with it", "I am not very
+experienced but I have found Linux
+to be very reliable and consider-
+ably quicker than NT.it 'feels'
+more stable", "Very reliable and
+fun desktop", "lovely operating sys-
+tem, I like going to the Internet and
+find anything I like", "A lot of the
+free software is brilliant".
+How do I learn more?
+Come to the next Linux Symposium
+organised by the Linux Users
+Group or, alternatively, visit
+http://linux.cc.ic.ac.uk/ to sub-
+scribe to our mailing list. Hope to
+hear from you soon!
+The time has now come for the
+Royal College of Science Union to
+launch the 2000-2001 University
+Challenge Campaign. Imperial
+Students have won this prestigious
+national competition in the past,
+and earlier this year the medical
+school opened up the possibility
+of Constituent College Union
+entry, by getting a team of med-
+ical students to represent the Col-
+lege on the world renowned tele-
+vision show. Although their
+progress exceeded that of the
+'official' IC team, who never
+made it to the televised rounds,
+the medics performance left a lot
+to be desired. The RCSU has now
+taken up the baton, with its sights
+firmly set on this year's trophy.
+Amongst the thousands of our
+students, we must be able to find
+four who can combine to become
+a team better than anyone else's
+in the country. We definitely have
+the students to win this competi-
+tion - we just need to find them.
+We could follow the example of
+The Imperial Winds is a sub group
+of the Symphony Orchestra and is
+now in its third year. Under the
+baton of our conductor, Colonel
+Duncan Beat, the band has grown
+to a regular 45 players covering a
+range of abilities.
+A wind band is made up of a
+brass section (trumpets, trom-
+bones, french horns and tuba), a
+woodwind section (flutes, clar-
+inets, bassoons, saxophones and
+oboe) and percussion. We have a
+wide ranging repertoire, covering
+pieces from classical to jazz -
+whatever people want to play.
+Our rehearsals are fun and infor-
+mal.
+Our free Winter Concert will
+be held on Tuesday 14th Decem-
+ber at 18.30 in the Great Hall,
+Sherfield. This year's programme
+includes Hoist's Second Suite in F,
+The Blue and The Grey (a selec-
+tion of American Civil War pieces)
+and Trumpets Wild along with
+some festive tunes.
+We always welcome new play-
+our predecessors and send four
+random volunteers, and hope for
+the best possible outcome. How-
+ever, we are looking for a group
+of razor sharp, outgoing, lively
+individuals capable of working
+together as a team (and taking on
+the formidable force of Paxman).
+The selection process, will
+involve you (as an individual)
+proving yourself not only as a
+prodigious fountain of general
+knowledge, but also as a team
+player, with an excellent 'televi-
+sion personality'. The contest will
+culminate with a democratic
+selection by al! those present.
+So, do you want to be on TV?
+Could you outwit Paxman? If so -
+and as long as you will be a reg-
+istered student during the next
+academic year - just turn up at the
+selection meeting
+Selection:
+Clore Lecture Theatre (Huxley)
+17.30 , Tuesday 14th December.
+ers, especially percussionists and
+french horn players. For more
+information on the concert or
+joining the band please e-mail
+the chair at the address below.
+Contact Lorna
+lorna@redvan.net
+Imperial Winds
+

@@ -1,0 +1,222 @@
+31
+felix
+coffee.felix@imperial.ac.uk COFFEE BREAK
+FRIDAY 22 JANUARY 2010
+Sucks to
+be this
+guy:
+Best of
+lolcat
+How to play:
+It’s quite simple, all numbers are in a
+cell and must be surrounded with a
+corresponding number of lines. Lines
+cannot split and there can only be one
+continuous line. Any cells with no
+numbers can have any number of lines.
+Look at the solution above for help.
+Slitherlink 1,450
+Solution 1449
+Slitherlink saw only a few entries last
+week- was it that hard? Come on get
+yourselves in gear. Anyways, winner
+was GT Lang. Welcome to the hall of
+fame!
+3 1
+3
+1
+3
+3 2
+1 3
+3
+3
+3
+2
+3
+3 2
+2
+3
+1 2
+2
+2 3
+3
+1 2 1
+3 1 2
+2 2
+1
+2
+2
+2 2 2
+1 3
+2 2
+2 3
+2
+1
+2
+1 3
+2
+2
+3
+2
+2
+2
+2 1
+3
+2 3
+2
+1
+3
+2 2 3
+3 2
+1
+3
+3 3 1
+2 2 2 3
+3
+3
+2 2
+1 2
+3 2
+2
+FUCWIT
+The Felix University/College-Wide Invitational Tournament League is
+new and improved, with an iPod nano for both the team and the indi-
+vidual with the most points at the end of the year.
+5 points for the 1st correct answers for all puzzles on these pages,
+4 points for 2nd, 3 points for 3rd, 2 points for 4th and 1 point for 5th.
+Now then FUCWITs, answers to sudoku.felix@imperial.ac.uk. Go!
+The Cool Kids and Fergal 33 Points
+Harry Potter Trio 113 Points
+Ying Liang 46 Points
+The Tough Brets 115 Points
+Kelvin Wong 39 Points
+Matthew Colvin 91 Points
+Individuals:
+Individuals:
+Teams:
+Teams:
+League Table
+3 5
+1 6
+2 1 3
+1 3 4
+6
+5
+3
+2
+4 3
+5
+1
+1
+1
+6 8
+1
+4
+1
+3
+2
+1
+3
+3
+3
+2
+1
+2
+1
+1
+2
+2
+1
+1 1 1
+Nonogram 1,450
+How to play:
+The numbers represent the size and order of blocks in each
+column and row. There must be at least one space between
+each block. See last issue’s solution below for more help.
+Puzzle Poll
+felix wants your puzzles! Just send
+them to us at sudoku.felix@imperial.
+ac.uk and if we like them we’ll print
+them* and credit you however you
+desire (photo, name, alias, whatever)!
+*THE SMALL PRINT: your puzzle will belong to us etc.
+We reserve the right to make changes. This puzzle will
+not be eligible for FUCWIT League points.
+2
+5
+3
+5
+3
+2
+2
+5
+3
+2
+4
+3
+5
+3
+1
+2
+4
+2
+3
+3
+3 6 4 2
+1
+This is good isn’t it?
+Lots of entries last
+week, first entry was at
+1.07pm by The Tough
+Brets. Well done. The
+rest of you feel free to
+keep entries rolling in-
+try to include a alias
+you want to be refered
+to as, and what puzzle
+you are entering in the
+subject title. It makes
+the world go round a
+little easier. No srsly it
+does.
+Solution 1449
+1 1
+2 1 3
+5 1
+3 3
+1 8
+5 2
+5 1
+5 2
+4 2
+3 1
+1
+1
+2
+1
+6 9 8 7
+1
+3
+2
+4
+2 6
+1
+5
+Solution 1449
+Guest Puzzle
+felix wants your opinion! Vote for
+your favourite puzzle of CoffeeBreak
+(past or current) by writing to us at
+sudoku.felix@imperial.ac.uk
+Whilst you’re at it, why not tell us
+which ones you hate too, or perhaps
+there’s a puzzle you’d like us to do?
+We still need your opinions. There’s a little bit
+more to do, you’ll see when you’re on there,
+but we need your thoughts before we have our
+polished final version.
+Email us your feedback to felix@imperial.
+ac.uk
+Read the latest sports reports online
+felixOnline.co.uk relaunches
+

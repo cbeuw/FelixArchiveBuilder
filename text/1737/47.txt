@@ -1,0 +1,114 @@
+ISSUE 1737
+FELIX
+47
+PUZZLES fsudoku@imperial.ac.uk
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+      
+
+ 
+    
+
+  
+ 
+ 
+SUDOKU (by RIP Pat)
+Fill all the boxes with a number between 1 and
+9. A number can only appear once in a row/
+column, and only once in each sub-box.
+Special thanks to RIP Pat who contributed this
+week’s puzzle!
+Across
+1. Praise given to dark green glossy leaves (7)
+5. Adjective to compare little tots (5)
+8. I wish I could sleep like this rosy princess (5)
+9. (slang) ghosts (7)
+10. Sounds like someone visited by a smooth criminal
+(3)
+11. Government ruled by a despot (9)
+12. Cotton kimono (6)
+14. Numbskulls, or dingbats (6)
+18. Conglomerate, or cabal (9)
+20. Sound when blood stops flowing from atria to ven-
+tricules (3)
+21. ICU, CGCU, DoC, JMC, for example (7)
+22. Rests in King’s Valley or a museum (5)
+23. What a 4th year is to a fresher (5)
+24. Rhythmic flow of a sequence of sounds or words (7)
+Down
+1. A place amassing knowledge (7)
+2. Requirement of rent-strikes (5)
+3. Flying woman (7)
+4. Japanese religion (6)
+5. Hater (5)
+6. Dorothy’s windy teleporter (7)
+7. The vocal consequence of smoking (5)
+13. Connected, similar (7)
+15. Fantine _______ of the past in the first act (7)
+16. A subset of some group (7)
+17. Cement (6)
+18. Deathstroke’s alter (5)
+19. Endo- (5)
+20. Light unit (5)
+Points available
+Nonogram (page 5) 1
+Wordsearch (page 6) 1
+Hexadecimal sudoku (page 4) 1
+Total 3
+This week, please note that points are
+only available to the first 2 people to
+submit and the very last person to submit
+before we mark at noon on a date hidden
+within the pullout! Winners would be
+submitting completely solved solutions
+to ALL THREE puzzles.
+Send your solutions to fsudoku@imperial.
+ac.uk before < hidden date in pullout > noon
+to take part in the leaderboard!
+ 
+   
+  
+  
+
+
+ 
+
+ 
+
+ 
+
+  
+SHIKAKU
+Divide the square into rectangles, such that
+each rectangle contains exactly one number.
+The numbers given represent the area of the
+containing rectangle.
+MASTERMIND
+Another puzzle contribution, this time by DoC’s Duncan White - Mastermind! (The puzzle, not the movie or
+TV show!) Do be warned though, this is a hard one! Try out easier variations here:
+https://www.doc.ic.ac.uk/~dcw/Mastermind.pdf
+Instructions:
+Try to guess the secret 5-colour code, made up of 5 colours, Blue, Yellow, Purple, Red or Green. A black peg
+means an exactly correct colour - the correct colour in the correct place. Of course, you are not told which
+position(s) contain the correct colour, simply how many positions contain the correct colour. You are given
+a white peg for a misplaced colour - the correct colour but in a diﬀerent place! We have already gone ahead
+and given you 3 guesses, which will lead you to a unique solution! (Try the easier ones first!)
+
+
+WORD PYRAMID
+Each row is an anagram of
+the previous, plus or minus
+one letter. Clues: What we
+haven’t left yet (2) - Regret
+(3) - Consumer (4) - 3Rs (5) -
+Reboot (6) - Protein-rich part
+of blood (5) - Inspiration (4) -
+Conjunction (3) - We (2)
+

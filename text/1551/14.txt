@@ -1,0 +1,233 @@
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 14 JUNE
+18
+S
+tatistically, approximately
+one in every 100 of us will
+develop schizophrenia over
+the course of our lifetimes.
+Schizophrenia is one of the
+more commonly known mental disor-
+ders, but also one that remains some-
+what of a mystery to non-suﬀerers.
+Whilst the Greek root of the word
+schizophrenia, literally ‘split mind’, im-
+plies a split personality the condition is
+much more than just having a second
+voice in your head.
+“You don’t just have constant jabber-
+ing in your ears,” explains Harriet, who
+has lived with schizophrenia for over
+a decade. “The worst thing for me is
+my own jabbering. It can make people
+look at you funny. You say things that
+make no sense, and you don’t even re-
+alise. Stuﬀ like ‘cooking on the wash-
+ing sofa’ just comes out. Sometimes
+you even stop mid-sentence and can’t
+speak. Everything literally vanishes.”
+The symptoms of schizophrenia can
+be broadly grouped into negative and
+positive categories. Negative symp-
+toms are functions which are present
+in non-suﬀerers, but diminished in
+suﬀerers, such as apathy, social anxiety
+and reduced attention span. Positive
+symptoms are those not normally ex-
+hibited by non-suﬀerers, such as visual
+and auditory hallucinations and delu-
+sions. However, schizophrenics are
+not the only people who experience
+auditory hallucinations. They can even
+occur in mentally healthy individuals,
+and it’s these people who may hold the
+key to better schizophrenia manage-
+ment.
+“In clinical hallucinations the voices
+themselves are very negative, entirely
+uncontrollable, and attributed to ex-
+ternal causes. Thus, they create fear
+and are, quite simply, very annoying
+and cause suﬀering,” says Dr Kristiina
+Kompus, a psychology researcher at
+the University of Bergen. “When voices
+do not have negative content and are
+under control, then it already becomes
+quite a neutral, not negative, experi-
+ence.” Dr Kompus is a member of the
+Bergen fMRI (functional Magnetic
+Resonance Imaging) group, headed by
+Prof. Kenneth Hugdahl. The group is
+dedicated to the study of a variety of
+cognitive functions.
+Her recent research, published in
+Frontiers in Human Neuroscience,
+studied the diﬀerences between two
+types of hallucinators: those with clini-
+cal symptoms, and those without. Dur-
+ing listening tests those without clini-
+cal symptoms were able to maintain
+regulation over brain areas dedicated
+to speech-processing, whilst those
+with clinical symptoms could not, sug-
+gesting, in principle, a reduced ability
+to direct attention outwards in clinical
+suﬀerers when auditory hallucinations
+occur.
+Research by Dr Kompus and other
+members of the Bergen fMRI group
+aims to enhance understanding of
+auditory hallucinations, with the po-
+tential to develop a “cognitive train-
+ing program aimed to relieve the feel-
+ing of helplessness when the negative
+voices start bothering you again,” says
+Dr Kompus. This is somewhat akin
+to the use of lucid dreaming, the abil-
+ity to consciously control the actions
+in one’s dream, to combat persistent
+nightmares. Embracing the digital age,
+the research group has developed an
+iPhone app, iDichotic.
+iDichotic is the brainchild of PhD
+student Josef Bless, also from the Ber-
+gen fMRI group. The app is named
+after the listening test it runs, the di-
+chotic listening test. At a basic level
+the test assesses which hemisphere of
+the brain is most active during lan-
+guage processing. The information
+then feeds back to the research team,
+allowing them to further their work. A
+paper based oﬀ the initial results was
+published last February in Frontiers
+in Cognition, but according to Josef
+“there is a lot more to come.”
+Though the public version of iDi-
+chotic currently only collects data
+another separate version has been de-
+veloped to help schizophrenics man-
+age their condition by improving their
+focus, allowing them to better iden-
+tify when voices occur. It is pioneering
+work, and still requires modiﬁcation,
+but Josef hopes to “provide a cognitive
+training tool for patients that can be
+used anytime, anywhere, without hav-
+ing stigmatizing features when used in
+public.”
+If the iDichotic app performs well it
+may pave the way for future research
+and management of other mental dis-
+orders such as Alzheimer’s. Whilst Jo-
+sef importantly notes that “it does take
+a strong investigative eﬀort to provide
+psych apps with a real scientiﬁc basis,”
+he also notes that the “potential to use
+smartphone apps in research as well
+as in clinical contexts is huge,” poten-
+tially allowing research groups to both
+collect data and provide ways to help
+suﬀerers like Harriet manage their
+conditions through a widely available
+medium.
+“I think I’ve mostly got it [schizo-
+phrenia] under some sort of control,”
+says Harriet. “But things can obviously
+get worse with age, so I’m prepping
+just in case things go downhill. Maybe
+a smartphone app can help. It’s an in-
+teresting idea, since everyone has one
+[a smartphone]. Support in whatever
+form is always appreciated.”
+Find more about iDichotic at dichot-
+iclistening.com
+DOI: 10.3389/fnhum.2013.00144
+DOI: 10.3389/fpsyg.2013.00042
+Banishing your demons
+A fishy free-for-all at the O.K. Corral
+Photo credit: Alex Craven
+The hidden secrets of coral reefs
+Coral reefs are one of the wonders
+of the marine world: vast underwa-
+ter structures supporting a large and
+diverse ecosystem of marine species.
+It’s surprising then that until recently
+we knew very little about exactly how
+they form.
+Corals are colonies of small marine
+invertebrates, and it is their calcium
+carbonate exoskeletons that form the
+distinctive structures we know as cor-
+al reefs. These are made from proteins
+secreted by the living coral organisms
+in a process called biomineralization.
+However, the exact structures and
+mechanisms involved were unknown.
+Researchers at the Rutgers Institute
+of Marine and Coastal Sciences aimed
+to solve this mystery by studying the
+genomes of corals. They were able
+to identify four unique genes, which
+coded for proteins called CARPs
+(coral acid-rich proteins). These could
+then be puriﬁed and analysed to un-
+derstand their structure and prop-
+erties. The researchers also showed
+that, at least in an ‘artiﬁcial seawater’
+environment created in the lab, the
+CARPs catalysed the formation of cal-
+cium carbonate crystals. From these
+results they were able to propose hy-
+potheses about exactly how the struc-
+tural elements of the protein cause
+formation of the particular crystalli-
+sation patterns characteristic of coral
+growth. Similar genes were also found
+in the genomes of other biomineral-
+izing species, suggesting that there is
+a common mechanism emerging from
+the species’ shared evolutionary his-
+tory.
+The artiﬁcial seawater experiments
+also allowed the researchers to simu-
+late diﬀerent scenarios, e.g. what
+would happen if seawater became sig-
+niﬁcantly more acidic – the expected
+outcome of climate change and in-
+creased atmospheric carbon dioxide.
+Encouragingly, it appears that the pro-
+teins are relatively robust and able to
+withstand changes in acidity, suggest-
+Science writer
+Sarah Byrne ing that corals might in fact be able to
+adapt to changing conditions in the
+future. Of course acidity is only part of
+the story: we still have rising tempera-
+tures and ocean pollution to worry
+about, and Tali Mass, the lead author
+of the published ﬁndings, warns that
+we should not become complacent.
+Additionally, the researchers suggest
+a practical application for the ﬁndings
+– that an improved understanding of
+how corals construct their reefs could
+help us devise methods to manufac-
+ture novel biomaterials ourselves.
+Coral-derived materials currently
+have applications from road surfacing
+to bone grafts, and understanding the
+mechanisms of production better may
+allow us to design and customise ma-
+terials according to our requirements,
+just as corals have been doing for over
+100 million years.
+DOI: 10.1016/j.cub.2013.05.007
+Laurence PopedelvesintotheworldofschizophreniaandiPhoneapps
+Members of the Bergen fMRI group (from left): Prof. Kenneth Hugdahl, Dr
+Kristiina Kompus, Josef Bless, Magne Gudmundsen, Dr René Westerhausen
+commons.wikimedia.org
+

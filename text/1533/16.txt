@@ -1,0 +1,254 @@
+TECHNOLOGY Technology Editor: Jason Parmar
+techology.felix@imperial.ac.uk
+used to use browser based
+music services “Groove-
+shark” & “Hypem” in addi-
+tion to downloading to fulﬁl
+my musical listening needs.
+However, I knew it wasn’t really sus-
+tainable, especially considering that
+Grooveshark is in a very long legal
+battle and is currently being sued by
+several labels, the biggest case for
+$17.1 billion from Universal. Com-
+bine this with Android, Apple and
+Facebook all removing the Groove-
+shark app from their OS/Social net-
+work and the future isn’t bright for
+Grooveshark, or my musical fulﬁl-
+ment.
+As a result, three months ago,
+I ﬁnally gave in and signed up to a
+Spotify premium account. In those
+three months though, I’ve got to ad-
+mit, I didn’t actually look back (un-
+til yesterday at least). Spotify has
+grown incredibly since its initial in-
+vitation only launch in 2008 and its
+oﬃcial UK open-to-all launch two
+years later in Feburary 2010. The
+online streaming music giant, origi-
+nally from Sweden and now based
+in London, has most recently been
+beta testing a web browser version
+to further extent it’s already wide
+reach, that already includes excellent
+integration within Windows, Mac
+OS, Linux, Facebook, Android, iOS,
+Blackberry, Symbian, webOS, Sonos
+and even Windows Phone (clearly
+the most important for any growing
+company). The company has been
+slowly trying to gather a monopoly
+in the market and appears to be do-
+ing quite well, with Goldman Sachs
+valuating the company at $3billion
+this month.
+Why not stay with Spotify?
+Two weeks ago, on 13th November,
+Google released Google Music, LG
+manufactured Nexus 4 and the Nex-
+us 10, in the UK, all through Google
+Play. It was largely successful day for
+Google as they sold out of the Nexus 4
+online in under 15 minutes in the UK
+and later sold out stateside in under an
+hour (although they were selling the
+devices at a heavily subsidised price
+for launch).
+Across the pond, US citizens have
+been lucky enough to have Google
+Music since November 16th 2011.
+But Google’s latest iteration of Google
+Music brought with it some pretty
+shiny and hefty new guns to help it
+take on Spotify, Amazon, Microsoft’s
+Xbox Music, Sony’s Music Unlimited
+and Apple’s iTunes.
+The Pros
+Admittedly, I’m two weeks late trying
+out Google Music, due to the fact I’m
+a ﬁnal year student at Imperial and
+job hunting (Microsoft, IBM, Google,
+etc, if you’re reading, I’ll be grateful
+for a fast-track to assessment centre).
+Despite my slightly late adoption for a
+Technology Editor, I’ve still had time
+to test some of Google’s incredible of-
+ferings.
+The ﬁrst being the new download-
+able “Google Play Music Manager”.
+This may just be a small upload client
+that helps organise your music. But it
+allows all users to upload and store on
+the Google Cloud up to 20,000 songs
+imported from their own music li-
+brary in 320kpbs quality. Then it’s ac-
+cessible anywhere in the world, at any
+time, on any laptop or anything run-
+ning Android (at the moment). The
+beauty of the service, and basically of
+everything the Mountain View giant
+does, is that this service is 100% free.
+So, as of right now I have 6,324 songs
+that are currently being uploaded to
+the Google cloud.
+FRIDAY 30 NOVEMBER
+16
+I
+The second main feature is its “Scan
+& Match” technology that matches
+your tracks with those already on
+Google Music to ensure all track in-
+formation is correct (in future users
+won’t have to actually upload tracks).
+In addition to matching the track in-
+formation, this feature will upgrade
+your music to 320kpbs quality (if ap-
+plicable), and again, all for free! This
+versus the similar services of Ama-
+zon and Apple, who charge over £20
+for the service, but only upgrade to
+256kpbs, Google’s a clear winner.
+Google has even catered for those
+annoying moments for when you
+might lost connection for short peri-
+ods of time (for example on the tube),
+by caching your recent and queued
+songs just in case you lose signal. In
+addition, for oﬄine play, all Google
+Music songs in your library are avail-
+able for download to your PC, phone
+and/or tablet, again all for free.
+With regards to cost, Google Music
+is undercutting Apple iTunes by 20p
+per individual song (79p vs Apple’s
+99p per song) and £2-3 per album.
+There is also some neat Google+
+integration with a free “share a track”
+option which helps out the very im-
+pressive but depressingly quiet social
+network by allowing a free play of
+songs to friends.
+Finally, Google is oﬀering a good
+easy to use browser based interface,
+but of course, this is really all subjec-
+tive and in some people’s opinions
+could be a con.
+All in all, the Pro’s send us a strong
+message that Google Music has been
+well worth the year long wait!
+The Cons
+By far the biggest con at the moment
+is that the mobile application is only
+currently on Android, excluding the
+huge market of Apple iPhone users,
+the signiﬁcantly smaller market of
+those of us on Windows Phone as well
+as those people unfortunate enough to
+still be on the ancient Blackberry OS.
+Another con is that the service is
+browser based with no desktop appli-
+cation other than the very basic, but
+functional, “Google Play Music Man-
+ger”. For some people this’ll prove to
+be a pretty signiﬁcant disadvantage,
+but in this Editor’s opinion, it’s al-
+most a non-issue and very minor con.
+I think Spotify are making a very big
+step in the right direction by devel-
+oping their browser based software
+and think the biggest selling point of
+Grooveshark (other than the ridicu-
+lously large music catalogue of songs
+and remixes) was that it was browser
+based and therefore more easily acces-
+sible anywhere in the world on pretty
+much any computer.
+Finally, Google are coming under
+ﬁre from the UK’s record industry
+trade association, the British Phono-
+graphic Industry (BPI), who aren’t ex-
+actly happy with Google on the whole.
+They’re Chief Executive, Geoﬀ Tay-
+lor, complains that “we don’t think it
+makes any sense for them to be doing
+something which does support artists
+and then, on the other hand, under-
+mine artists by referring consumers
+to illegal sites”. The basis of the com-
+plaint has actually nothing to do with
+Google Music and is actually based on
+Google Search, as when you “Google”
+a song you are provided with links
+to both legal and illegal sources. The
+BPI actually went so far to get several
+iconic musicians, including $265 mil-
+lion rich Elton John, to write directly
+to PM David Cameron publically to
+winge about Google. A Google Play
+representative responded to the accu-
+sations claiming “I think [the service]
+is something that is hopefully going to
+make piracy obsolete because it’s so
+easy to operate within the bounds of
+the law that there is really no need to
+go beyond them.” Make your mind up
+as you like, but in this Editor’s opin-
+ion (I hate reading that line in arti-
+cles too), the BPI’s argument is very
+weak as it’s based solely on the fact
+that Google won’t be their bitch and
+censor the lengthy list of websites the
+BPI want them to ban from internet
+search results.
+Conclusion
+Overall, despite the cons, my mind
+is pretty made up on Google Music
+being well worth the wait. But, until
+Mountain View release a Windows
+Phone app, I’m afraid I’ll still be paying
+for my Spotify premium account and
+make occasional use of Google Music
+as an excellent library storage facility.
+It is still hard, however, to pick an
+overall winner for music lovers as
+everybody has diﬀerent preferences.
+The best result will perhaps be a com-
+bination of two or more services, so
+I recommend trying out and trialling
+as many free services as you can. You
+can try Google Music at music.google.
+com and follow the online tour to dis-
+cover more.
+One thing is for sure though, if Ap-
+ple want to remain at the forefront in
+the future of digital music, it’s going
+to need to radically innovate its 2001
+based iTunes business model. The
+younger and more agile Spotify and
+Google have come and innovated the
+market, will Apple be able to follow.
+Google comes into a pretty competitive market against these badass’ of digital music, who all have their names in their logos, except iTunes - Apple always has to be different doesn’t it.
+Google Music is finally here
+Jason Parmar looks at Google’s venture into the digital music market
+it allows us-
+ers to upload
+and store up to
+20,000 songs
+on the Google
+cloud for free
+if Apple want to
+remain at the
+forefront they
+need to radi-
+cally innovate
+...again
+“”
+the biggest con
+at the moment
+is that the mo-
+bile application
+is only on An-
+droid
+

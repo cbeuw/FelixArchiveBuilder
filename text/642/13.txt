@@ -1,0 +1,201 @@
+CCHI
+In January this year, Dr Pretzel of the maths
+department sent me an innocuous looking
+puzzle which falls into two sections: a fairly
+easy first part, and a second part (in the
+Footnotes section), to which the answer is still
+fairly uncertain. To this week's prize puzzle
+first:
+Parr the First
+You are sitting fishing in the middle of a round
+pond, when suddenly you see the gamekeeper
+at the edge of the pond. He can run four times
+-as fast as you can row or swim; can you give a
+strategy that will enable you to escape?
+(You can assume that you can have infinite
+acceleration for changing direction etc, and
+assume that neither party will get tired).
+Solutions, comments, criticisms to me at
+the FELIX Office by Wednesday, 1:00pm. £5
+from Mend-a-Bike for a randomly selected
+entry.
+Last Term's Solutions
+Rehearsal Requirement
+Two correct solutions were received; the
+winning entry was from Paul Fisher and
+Richard Glover. Mech Eng postgraduates, and
+a cheque for £5 is waiting in the FELIX Office
+in Paul Fisher's name, and can be collected by
+him any time after Tuesday 1:30pm.
+The reasoning is as follows: you are given
+five equations, at least one of which you are
+told is untrue, and a series of inequations. By
+assuming that the tenor makes two state-
+ments, ie that two of the equations are false,
+any three of the remaining equations will
+supply an infinite set of solutions for the four
+variables. But the puzzle states that it is
+possible from the given information to find a
+solution; hence you need four equations to
+solve four unknowns, irrespective of the
+inequalities given. Thus the Tenor only makes
+one statement.
+The only solution then is that the statement
+four is the lie and that the alto has made the
+fifth statement. This gives the solution
+Sopranos 15, Basses 13, Altos 12, Tenors 5.
+which satisfies the inequation.
+It's an III Wind
+Under the quite reasonable assumption that
+there is a one-to-one mapping of keys, then the
+unique solution is that the keys are relabelled:
+Key Relabelled
+1 2
+2
+7
+8
+g
+0
++
+3
+6
++
+7
+1
+9
+8
+I shall admit that I don't know if the
+s o l u t i o n is unique if bijection is not
+assumed, but thanks Perola for a fascinating
+puzzle.
+Judith Glading of Civ Eng 1 was selected as
+the winner and can collect her £5 from the
+FELIX Office after 1:30pm on Tuesday.
+Dots'n'Boxes
+Congratulations to C N Goh, an Elec Eng PG,
+who was randomly selected from the five
+correct entries and can collect his £5 cheque
+as per above.
+The solution is found thus:
+There are 400 dots, 324 in the middle, 72 on
+the edge, 4 at corners, and 760 segments.
+Given that there are 219 red dots, there are
+therefore 181 green dots.
+Number of segments attached to red dots is
+(180 x 4) + (39 x 3) + (0 x 2) = 837
+And for green:
+(144 x 4) + (33 x 3) + (4 x 2) = 683
+The 237 black segments are attached to red
+and green. Therefore of the 837 segments
+attached to red dots, 237 are black. Therefore
+600 arc red, and similarly, of the 683 segments
+attached to green dots, 446 are green.
+Each green segment is shared between two
+green dots.
+Therefore there are 223 green segments.
+Thanks to John Flanagan (Chem PG) for
+the above proof.
+Baby, it's code outside
+Had you counted the number of letters,you
+would no doubt have noticed that there were
+225—a square number, which should have
+given away that the letters were to be arranged
+in a 15x
+15 square to give:
+Inviting and inciting me to rise.
+And through the window in the wall
+Come streaming in on sunlight wings
+A million bright ambassadors of morning.
+And no-one sings me lullabies,
+And no-one makes me close my eyes,
+So I throw the windows wide.
+And call to you across the sky.
+Pink Floyd
+which comes from 'Echoes' from the LP
+'Meddle', by Pink Floyd.
+Fruit Shop
+Well, I don't know how many of you looked
+at this one, but a simple solution is for the men
+to sell their oranges at lp a dozen, and 3p for
+single oranges.
+Part the Second
+Quite simply, what is your optimum strategy
+(the one which puts the maximum distance
+between yourself and the gamekeeper when
+you reach the edge), and what is the greatest
+ratio of speed of gamekeeper to your own
+speed before you cannot escape?
+There are two uncollected prizes of £5
+awaiting collection in the FELIX Office by
+Robert Macrae of Elec Eng 1 and James
+Aldridge of Physics 2.
+<L*jrW^
+Gastropod goes on holiday
+Gastropod's Easter jaunt comprised a boat
+trip up the Thames from Hampton Court to
+Oxford. This is a recipe for a superbly
+inexpensive holiday costing as little as £35
+each for a week. Boats are available with two
+to nine berths although for comfort it is best to
+have a boat with more berths than you need.
+The boats are fully equipped with kitchen,
+shower and toilet facilities and surprisingly
+comfortable.
+The journey to Oxford affords varied and
+picturesque scenery for those who are inclined
+towards that sort of thing and frequent
+opportunities to moor up at riverside pubs for
+those who aren't.
+Any pre-conceptions of tranquillity verging
+on boredom are soon dispelled by the need to
+negotiate numerous locks and assorted
+riparian hazards such as running around and
+falling overboard.
+A further attraction is the variety of eating
+places along the river. Of those sampled the
+following are the most noteworthy:
+Bluebeckers, Church Square, Shepperton
+— Walton-on-Thames 43377
+This pleasant and popular burger house is set
+in the old part of Shepperton, close to the
+river. Although prices are similar to the
+London equivalent, portions are bigger and the
+experience of eating there is enhanced by its
+village setting. A standard range of burger
+house fare is on offer and the puddings are
+particularly good. Shepperton is well within the
+range of IC for a Saturday afternoon outing
+and worth a visit.
+Load of Bull, 6 Clarence Street, Staines
+Staines 53252
+Not as the name suggests but a burger house
+with a difference which revolves mainly around
+the concept of the monsterburger. This
+culinary masterpiece puts all other burgers in
+the shade. Consisting of a larger burger and
+heaps of chips, mushrooms, salad, coleslaw,
+fried egg and assorted other goodies, it
+requires great perseverence to clear the plate.
+Puddings are excellent, particularly the
+chocolate nut sundae. Amuse your friends by
+ordering a special — nudge, nudge, wink,
+wink—banana split. Although Staines is not
+exactly a tourist attraction, the monster-
+burger alone makes it worth a visit.
+Browns, Woodstock Road, Oxford
+Oxford 511995
+A trendy and extremely popular, reasonably
+priced restaurant. A wide variety of cocktails
+are available at the bar or with your meal.
+Their speciality is individual Steak and
+Guinness pies served with an enormous baked
+potato or vegetables and salad. An interesting
+feature is their non-smoking section,
+something which other restaurants would do
+well to emulate.
+For further details about boat trips: T W
+Allen, Ash Island, Hampton Court, East
+Molesey. Tel 01-979 1997.
+FELIX is published by the Editor for and on behalf of Imperial College Union Publications Board, and is printed by the Union Print Unit, Prince Consort Road, London SW7 2BB.
+Tel. 01-589 5111 Ext 1048 or Internal 2881. Editor: Martin S Taylor; Business Manager: Peter A Rodgers, Advertising Manager: Nick Thexton. Copyright FELIX 1983
+

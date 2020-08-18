@@ -1,0 +1,222 @@
+A note from the Editors
+W
+hen Mark Pincus founded
+Zynga (named ‘Presidio
+Studios’ at the time) in
+April 2007, only a small
+proportion of the relatively
+fledgling Facebook user base were aware of the
+transformative impact ‘social’ would have on
+their digital lives. Even less appreciated was its
+application to online gaming, a pastime thought
+to be the reserve of a generally derided stereo-
+type. But last year Zynga accounted for 12%
+of Facebook’s total revenue, and a quick look
+at the monthly active user (MAU) rankings for
+Facebook apps places Zynga way out in the
+lead with 240 million, six times the figure for
+second place. So where did this company come
+from, and what are its plans for you?
+A company founded five years ago next
+month naturally hasn’t had a lot of time to gen-
+erate much of a ‘history’. Mark Pincus (age 46)
+on the other hand, has. After getting his MBA
+from Harvard, he started the technology com-
+pany Freeloader with a $250k loan in 1995.
+Seven months later he’d sold the business for
+$38 million, announcing himself as a player in
+the evolution of the web 1.0. However, not ev-
+erything Pincus touched turned to gold.Among
+his failures can be counted tribe.net, a social
+network he started at age 37 that never took off.
+But the big break came when, in 2007, along
+with friend and technology investment power-
+house Reid Hoffman, he invested in the social
+sapling Facebook.com. This put Pincus on a
+collision course with Mark Zuckerberg (Face-
+book co-founder) and at the heart of the social
+revolution that would, not uncontroversially,
+transform all of our digital lives irreversibly.
+In his five years at the helm of Zynga, Pincus
+has played the role of the quiet revolutionary.
+Mark Zuckerberg has had his own Hollywood
+film made in his (arguably ‘dis’) honour while
+the late Steve Jobs (Apple co-founder and
+CEO) was never one to hold back praise of his
+own products. Through all this, Pincus focused
+on the quality of his products at the expense
+of his public profile. This approach paid divi-
+dends. When Zynga released its first product
+in July 2007, (a poker game for Facebook us-
+ers) it ushered in a new age of free high quality
+games. Before Poker Blitz (since replaced by
+Texas HoldEm Poker), free online games were
+more often associated with poor Java applets
+on addictinggames.com, miniclip.com and the
+like. Zynga were the first to change all this. In
+comparison with Apple’s iOS app store, to-
+day’s most ready supplier of free digital games,
+Poker Blitz was launched almost a year earlier.
+Zynga has never stopped growing. Attracting
+an investment of $29m early on in its life and
+recruiting big names from the gaming industry
+(notably Bing Gordon, former Chief Creative
+Officer of EA) propelled it to produce hits
+such as FarmVille, CityVille and Words with
+Friends, to name but three. Expanding across
+Google+, Myspace and Yahoo! and generating
+enormous valuations year on year culminated
+in the company going public in December
+2011, following a $10bn valuation in April
+of the same year. However, this action forced
+Zynga’s hand, revealing a lot of informa-
+tion about the company that had been closely
+guarded up until that point. For instance, only
+2.5 per cent of its users paid for virtual in-game
+goods. This was enlightening to other players
+What is Zynga up to now?
+FELIX
+Friday 16 march 2012
+16
+technology.felix@imperial.ac.uk
+Technology Editors: Chris Bowers
+Feroz Salam
+TECHNOLOGY
+of companies who could, and do, offer what
+Zynga currently provide, and Facebook has no
+qualms about tapping that resource. At present
+for Zynga, there’s only one worthwhile social
+platform, but while they dominate that market,
+they can only grow in tandem with Zuckerberg
+and co’s gaming user base.
+But has all that just changed? On 1 March,
+2012, an overhaul of Zynga.com – first an-
+nounced five months earlier – finally arrived,
+introducing the ‘Zynga platform’. The press
+release describes this as a “new platform de-
+signed to bring players what they’ve asked
+for: new ways to play and more people to play
+with”. This in no way severs Zynga’s strong
+and valuable Facebook ties. What it does offer
+is a route to Zynga’s vast community of online
+gamers, without the Facebook intermediary.
+It also boasts enhanced connectivity and user
+interaction within games, and with what could
+effectively become a quasi-newsfeed dedi-
+cated to your gaming-sphere, you can quickly
+see how broad and future-proof a move this is
+on Zynga’s part. It deftly sidesteps a five year
+tie-in deal with Facebook (signed in 2010), for
+which most of the details are withheld, while
+at the same time tapping into a 800 million
+strong user base it has invested little effort in
+cultivating.
+So now we play the waiting game. Zynga’s
+continued success will rely on it building an at-
+tractive social environment tuned as much to
+its users as to its games, accessible through mo-
+bile and desktop. Much akin to Apple’s success
+in building a digital ecosystem where hardware
+and software are seamlessly integrated, Zynga
+must look to blur the line between social and
+gaming. By drawing in customers on these two
+fronts, it can create a product not only for the
+avid gamer, but for the masses. This must be its
+next step in expanding the portion of its user
+base driving revenue. Regardless of their suc-
+cess up until now, just as EA, Activision, and
+Blizzard missed the boat on social gaming 1.0,
+Zynga could well lose the race to dominate sec-
+ond time round. However, with their announce-
+ments this month, they don’t look to be going
+anywhere just yet.
+Apple: reviewing our reviews
+Two weeks ago, on this very page, Feroz reviewed
+the latest Macbook Air. The review itself was fair,
+balanced and overall very positive about the lap-
+top. However, this has been tarnished somewhat
+by the hoops we had to jump through just to get the
+review out to print. The article itself had been writ-
+ten and finished three weeks prior to publication,
+but we couldn’t print it until two Apple employees
+had read through and approved the review. Their
+approval was based on the criterion of there be-
+ing nothing overtly critical said about Apple or the
+product itself. That is stifling.
+As the review was generally positive, we passed
+through this process, albeit not swiftly. Thankful-
+ly, no change was required - the words you read
+were 100% Feroz’s. Principally though, that’s not
+the point. What would have happened had the re-
+view been more critical? It feels like we are being
+pressured to write a glowing review – more like an
+advert than a critique – just to be able to get it in
+these pages.
+Perhaps you think this sounds unfair – after all,
+Apple did provide us with the laptop, trusting us
+with equipment it values at over £1,000. You don’t
+need us to tell you that Apple is a popular compa-
+ny – it’s going to have students buying its products
+left, right and centre; it doesn’t necessarily need
+our publicity. Based on this, what right do we have
+to criticise its goods?
+This isn’t how we see it though – and nor do
+other companies: we haven’t had our work pass
+through pre-publication scrutiny from other hard-
+ware manufacturers. We feel that companies
+should be confident enough in their products to
+run the ‘risk’ of a bad review. Should a company
+fear negativity from a newspaper article, perhaps
+it should proactively improve the product; pour its
+heart and soul into the project so it’s as good as it
+can be. The popularity of the Apple brand however,
+would suggest this has already been done, and
+that it doesn’t need to fret over student journal-
+ism.
+Don’t get us wrong – we fully respect and wel-
+come any company’s right to respond. That is,
+should we print an article or review that the in-
+volved company feels is unfair or inaccurate, and
+can factually prove as such, we would be happy
+to retract our comments. We strive in this section
+to bring you accurate and interesting journalism –
+we have no desire to slate a company or product
+based on preconceptions.
+It seems to us then, that Apple has taken this
+a step too far. It is a very brand-conscious com-
+pany, so it seems fair that it wants to protect that
+brand image. However, we feel there needs to be
+some trust in a situation such as this – there’s
+a fine line between making sure people don’t at-
+tack your brand unprovoked and dictating peoples’
+opinions. Unfortunately, we feel this particular ex-
+ample falls on the wrong side of the line.
+Joshua Maxey looks at the past and present of Zynga
+in the industry who saw a chink in Zynga’s
+armour. Away from all the preposterous MAU
+figures, there was only a small proportion of
+the gaming community bringing Zynga its
+revenue. Overcoming Zynga’s near monopoly
+swiftly became a mission to win round a por-
+tion of the user base who valued game quality
+over loyalty. And with details of Facebook’s
+near-preferential treatment of Zynga coming
+to light at the same time, competitors were not
+short of motives to topple the social gaming gi-
+ant either.
+Cue Zynga’s next big move. Having firmly
+established itself as the industry’s game chang-
+er (pardon the pun), it is now on a mission to
+become for gaming what Google is to search,
+and Facebook to social. In 2007 Pincus joked
+that Zynga “[are] a fly on Facebook’s ass”. It’s
+certainly true that while Zynga brought in a
+lot of revenue for the social network last year
+(around $445m), but to really innovate, at some
+point it must fly the nest. There is a plethora
+“[Zynga is] now on a
+mission to become for
+gaming what Google is
+to search“
+Zynga are responsible for many of the most popular games on Facebook
+

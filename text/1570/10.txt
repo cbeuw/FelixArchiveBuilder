@@ -1,0 +1,166 @@
+10 FRIDAY 28 FEB
+Editors: Philippa Skett,
+Keir Little, Fiona Hartley
+science.felix@imperial.ac.uk
+SCIENCE
+More reasons to bee worried
+William Hunter tells us how the honeybee is bringing the bumblebee down too
+Radiation-free tumour detection method
+James Bezer
+Science Writer
+T
+here have been many
+attempts to explain
+the global decline of
+bumblebees in recent years,
+with blame often lying with
+climate change or pesticides.
+However, a recent article in
+scientific journal Nature suggests the
+problem might lie a little closer to the
+hive. It appears that the cause could
+be partially linked to their domestic
+cousin, the honeybee.
+Professor Mark Brown and his team
+from Royal Holloway, University of
+London have identified two separate
+diseases that have potentially ‘spilled
+over’ from honeybees into bumblebee
+populations.
+Deformed wing virus (DWV) – a
+fungal infection which has previously
+been shown to significantly shorten
+the lifespan of honeybees – is now
+presenting itself among bumblebees. It
+is thought the disease passes back and
+forth between the two species when a
+bumblebee enters a plant previously
+visited by an infected honeybee.
+Assessing 26 sites across the UK, the
+team were able to build on previous
+levels of knowledge and determine an
+idea of national numbers rather than
+just local ones. However, co-author
+Dr. Matthias Fürst warns that this
+research is not definitive proof that
+the disease is passed from honeybees
+to bumblebees rather than vice versa.
+Their suspicions only span from the
+fact the disease is more prevalent in
+honeybees.
+DWV has been shown to
+significantly shorten the lifespan of
+honeybees and according to Prof.
+Brown this will “impact massively on
+their ability to go out to collect food
+and look after other bees.” The effects
+of DWV were present in 11% of the
+bumblebees surveyed.
+Not only will this have a noticeable
+effect on bee populations worldwide,
+but the knock on effects will have
+considerable impact on our lives
+too. Bumblebees are responsible
+for pollinating ~70% of the world’s
+flowering plants each year and
+according to the Guardian, in the
+US alone bumblebees provide $3bn
+(£1.8bn) worth of crop pollination
+annually. Preventing the further
+spread of this disease is therefore of
+extreme importance.
+Don’t panic too much though, as Dr
+David Aston – president of the British
+Beekeepers Association (BBKA) – has
+stated that the key to prevention of
+most diseases in bees lies with good
+husbandry skills. The onus therefore
+D
+iagnosis and treatment
+of cancer often involves
+some of the most
+damaging procedures
+that doctors would ever
+intentionally inflict upon a human
+body. The effects of chemotherapy,
+for instance, are notorious, but
+radiation from treatment or scans
+can sometimes be just as harmful to
+a patient’s health. A study published
+in the Lancet this week proposes a
+new technique that could completely
+eliminate the radiation dose from
+scans used to investigate tumours.
+It could well improve outcomes for
+many vulnerable patients, and even
+save lives.
+When determining the best
+treatment options, doctors need
+detailed information on a tumour’s
+size and location, and whether it has
+spread to any other parts of the body.
+A common way to find this out is with
+a PET-CT scan. This type of imaging
+involves injecting a radioactive drug
+into a patient which highlights tissues
+that are more active than normal,
+suggesting the presence of a tumour.
+At the same time, a normal CT scan
+is performed to analyse the sites that
+have been highlighted.
+A single PET-CT scan can give a
+radiation dose equivalent to more
+than 700 chest X-rays – about 4-6
+times the background dose an average
+person would experience over a whole
+year. While these levels are unlikely
+to cause any serious long-term effects
+in adults, they could potentially be
+extremely harmful to the sensitive
+tissues of a child.
+A much more attractive option
+would be MRI. It has been widely
+used in medicine for many years,
+and involves imaging tissues using
+radio waves in a powerful magnetic
+field – without the need for harmful
+radiation. Unfortunately, despite its
+many uses, on its own it is unable to
+distinguish between cancerous and
+healthy tissues, and so has not been
+widely used in this type of cancer
+diagnostics.
+The new research from scientists
+at Stanford University has found a
+way around this problem. The team
+used a common iron supplement as a
+contrast agent to highlight tumours, as
+they found that it only gets absorbed
+by healthy tissues, and shows up
+clearly on the MRI. And unlike other
+contrast agents that have previously
+been tested, this drug stays in the body
+long enough for detailed images to be
+lies with all those of you in Shoreditch
+with your roof top beehives or the
+floppy haired masses pumping out
+artisanal honey at farmers markets of
+Sussex.
+As always, prevention is better than
+cure.
+DOI: 10.1038/nature12977
+This stock image makes PET-CT scans look much more pleasant than I imagine they actually are
+Ted Roger Karson
+produced by the scanner.
+Not only does this technique
+achieve the same results as the PET-
+CT scan but without the radiation
+dose, it also uses scanners already
+common in hospitals, and a well
+tested, freely available drug. If
+further investigation confirmed the
+technique’s effectiveness, it could be
+rolled out relatively easily in many
+hospitals around the world.
+ge healthcare
+

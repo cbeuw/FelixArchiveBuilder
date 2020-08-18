@@ -1,0 +1,234 @@
+felix@imperial.ac.uk
+29
+Friday 18 January 2008 felix
+Technology
+Macworld: Join the Cloud
+James Finnerty reports on Apples new releases and what they’ll do for you
+They made the MacBook thinner... doesn’t this just encourage our society’s obsessions with losing weight? Only joking; it’s pretty cool though
+A
+t 5pm on Tuesday night
+Steve Jobs kicked off his
+keynote speech at this
+year’s Macworld. Peo-
+ple have been expecting
+a lot from the wealth of rumours and
+hype that has been floating around
+and he's not one to disappoint. His last
+big announcement was the iPhone and
+iTouch, so let’s see whether or not he’s
+stepped up to his own marker.
+The new line of Mac laptops were
+announced, dubbed ‘Air’. They fall be-
+tween the existing MacBook and Mac-
+Book Pro lines; their forefront feature
+is its unbelievably thin form factor
+(19.3mm to 4.1mm) and its light weight
+of 1.36 kilograms. It also has a respect-
+able battery life of five hours and the
+option of being provided with a solid
+state hard disk. With such a small case
+there will always be a compromise, and
+the Air is no exception. There is no op-
+tical drive, no wired LAN ports only
+wireless, only a single USB 2.0 and the
+battery is not user-replaceable. A new
+external Apple Superdrive (DVD read-
+er/writer) will be available for when
+you want to use discs in your Air, but
+since there is only one USB port you
+will have to remove whatever other de-
+vice you are using at the time, which
+could become more than annoying.
+The trackpad features improved multi-
+touch, so it can function in ways more
+similar to the iPhone, than its more
+basic existing counterparts. The asking
+price for these puppies is a whopping
+$1,800 dollars, which is a lot consider-
+ing ultimately it has less features than a
+MacBook Pro- we should see them in
+the region of £1,200-£1,500, whenever
+they become available on our side of
+the Pond.
+LED backlights have also been intro-
+duced on the new Macbook. Now what
+does this mean for you? Well they use
+less power so you get more battery, less
+space so thinner screens, they turn on
+instantly so no waiting and they also
+provide a brighter and more uniform
+image for your viewing pleasure. I
+wonder when Apple will get OLED’s?
+Another step has been taken into
+solid state disk products by Apple as
+you can order one as an option inside
+your Air. It’s not as clear-cut as this
+though: this adds a ridiculous $1,300 to
+the price tag, as well as losing 14GB of
+disk space but it does offer prolonged
+battery life and reduced boot times.
+Whether users will feel this justifies the
+cost is yet to be revealed, but I think
+you can assume they probably won’t.
+One question that is looming in my
+mind over a thinner MacBook is the
+fact that existing models suffer from
+numerous overheating related prob-
+lems. Surely this type of problem will
+only be made worse by a thinner hous-
+ing but we will have to wait until they
+hit the market before we can get any
+facts and figures that dispell or validate
+these worries.
+Apple TV has also been revamped
+to feature HD functionality as well
+as 5.1 Sound and you will be able to
+download most existing content in
+HD for only 20% more than Standard
+Definition. Apple hopes this update
+will bring the popularity of this line of
+products up to a level more on par with
+some of its other products. To aid this,
+the existing of edition of Apple TV is
+receiving a healthy price cut. Apple TV
+is serviced entirely online and doesn’t
+use an aerial or anything like that, so
+it’s not a US-only product. You can get
+them over here but as mentioned pre-
+viously, they are not massively popular
+and therefore are not so well stocked.
+iTunes has been updated to allow
+movie rentals. The user pays a differ-
+ent price based on the age of the film
+and whether or not it is in SD or HD.
+The dollar prices are reasonable but
+we'll see how these translate over here.
+This service is intended to be up and
+running by next month and by the end
+of February, Jobs claims it will have a
+database of over one thousand films.
+Providing this service will hopefully
+entice many people who do not use
+iTunes to start to. It really applies a
+fantastic alternative to going out and
+renting films, it’s cheaper and there is
+more on offer without having to re-
+member to take the damn things back.
+The real question is whether or not
+this will deter people from download-
+ing illegal copies of films?
+Also the Time Capsule has been an-
+nounced. It's an extension of Apple's
+Airport extreme product, which is
+more or less a wireless router but with
+some associated Mac friendly good-
+ies. The Time Capsule also includes a
+'server grade' hard-disk which when
+combined with OS X Leopard’s allows
+for automatic remote backups by the
+hour. It also still includes all the Air-
+port's features such as being able to
+host a wireless printer. A 500GB ver-
+sion and 1TB version are planned and
+this product may start to become more
+of a must-have for the existing Mac
+user.
+A smaller release is a set of five ap-
+plications for the new(ish) iPod Touch.
+These applications all exist on the
+iPhone but use the device’s free mo-
+bile Internet package to function. The
+Touch versions will be modified to suit
+the fact the device will have intermit-
+tent WiFi Internet connectivity. Includ-
+ed are Mail, Maps, Stocks, Weather,
+and Notes which can be downloaded
+for a small $20 fee, but we will have to
+wait and see how many people are will-
+ing to front more cash towards their
+relatively new iTouch.
+Don't go thinking the iPhone hasn't
+seen anything new, it has, but it’s quite
+a minor update compared to the other
+new stuff. Most of its built-in applica-
+tions have had updates and new fea-
+tures added to make them more func-
+tional, for example, video playback
+has been enhanced. The iPhone was
+Headlines we
+couldn’t fit in
+You’d think he’d retire, but he’s not done making money yet
+I
+might run this every week if
+people think it’s a good idea.
+Basically this will be a little col-
+umn tucked away at the side
+that contains a set of hidelines
+that we thought you might like to read
+about but didn’t want to have to write
+articles for. A quick search on a well
+known internet seach engine should
+churn up some interesting articles on
+each of them.
+also celebrating its four millionth sale,
+however Apple had hoped for over five
+million by this time. Still, 20,000 sales
+a day is amazing for a first generation
+device for a manufacturer’s first step
+into a new market. Even though this
+device has been very slow to come into
+the UK market, it’s already secured a
+foot hold and doesn’t seem to be slow-
+ing down. It would be very nice to
+see Apple come out with some more
+phone models.
+Unfortunately no updates were re-
+leased for the existing MacBook lines
+to keep them cutting edge, which is a
+bit of a shame as the feature set is start-
+ing to become a little stagnated. Hint:
+get multi-touch pads put in the older
+MacBooks. I think we can let Steve and
+his friends off on this one, but just this
+once.
+So to conclude, it appears that Apple
+has decided not to pull its army back
+and wants to drive forward to take even
+more market sector away from any
+other company thats dares to compete.
+They have produced new hardware,
+software and services which should
+secure their front running position for
+at least another year, leaving us to look
+forward to next year’s Macworld.
+Hungaraian
+Scientists
+release dog bark
+translator
+Tom Cruise
+Scientology video
+leaked
+Amazon defies
+French courts over
+shipping costs
+FBI to gain access
+to UK biometric
+database
+Facebook asked
+to remove
+Scrabulous app
+1 million people
+now use BBC
+iPlayer
+Intel face court in
+New York
+Bill Gates retires
+Sun buys MySQL
+Nokia closes
+German factory
+EMI to cut 2,000
+jobs
+33-Megapixel TV
+being developed in
+Japan
+

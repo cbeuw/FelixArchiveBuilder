@@ -1,0 +1,157 @@
+High End (> £1000)
+Processor – Intel Core 2 Quad. Any
+model is fine, but make it a Quad
+core. Equivalent AMD CPUs are
+too expensive and much hotter.
+Just about every AMD CPU is over-
+priced and hot. Do not get AMD.
+The Intel Core 2 Quad Q6600 is a
+good choice.
+Motherboard – Get an nForce
+6, S775, or a high end 965 board. It
+must have all the essentials, quad-
+core support, dual PCI-E, and the
+like.
+We’re fans of the ASUS P5NT-WS
+SLI, ASUS Striker Extreme.
+Graphics – Not much choice at
+the high-end. Get a 768MB 8800
+GTX. Or a pair of 320MB or 640MB
+8800 GTSs in SLi.
+Hard Drive – Raptor all the way.
+Get one small (~70GB) WD Raptor
+drive for installations, and a huge
+(300+GB) drive for data.
+Cooling – If you absolutely must
+have water-cooling, get a casing
+with one already installed. It’s an-
+noying to fiddle around with the
+pipes. For fans, get one of those
+huge Zalman or Thermaltake CPU
+coolers.
+Power Supply – Enermax Liberty
+series, 800W at least. In terms of kit
+and stability, its one of the best.
+Mouse – Any Razer or high end
+Logitech mouse. Mostly down to
+user-preference. The Razor Cop-
+perhead is a good choice.
+Keyboard – Up to you, really.
+Whichever keyboard feels the best.
+Microsoft tend to make good key-
+boards. Try the new Microsoft Nat-
+ural Ergonomic 4000 or the Logi-
+tech G15.
+Sound – Creative X-Fi. Whichever
+model suits your fancy. Maybe one
+of those with a ‘-pro’ or ‘fatal-one-
+ty’ suffix.
+Casing – Get a lovely big one from
+Thermaltake or Coolermaster.
+Such as the Coolermaster Stack-
+er or the NZXT Lexa or even the
+ASUS Vento 3600. You’ll appreciate
+it later, although LAN party organ-
+isers won’t.
+Mid Range (£600 – £ 1000)
+Processor – Intel Core 2 Duo. The
+E6600 or E6700 will last, and al-
+ready has lasted, a long time.
+Motherboard – Get a high end 965
+board such as the Gigabyte DS4, Gi-
+gabyte DQ6.
+Graphics – Get a 320MB 8800
+GTS. These cards offer a great per-
+formance/price tradeoff.
+Hard Drive – Get a moderately
+large SATA II drive, bear in mind
+that many games are approaching
+When Half-Life 2’s Lost Coast was released, showing off HDR (on the right), we thought that was the new limit. A year on, and graphical technology has leapt on even further
+5Gb minimum now.
+Cooling – The stock Intel coolers
+are more than enough, and your
+components won’t be over-running
+anyway.
+Power Supply – Enermax Liberty
+series, 600W at least. It still never
+hurts to have a solid base, however,
+so consider the High End 800W op-
+tion, too.
+Mouse – Any Razer or high end
+Logitech mouse. Mostly down to
+user-preference. The Razor Dia-
+mondback is a good choice.
+Keyboard – Try the Microsoft Dig-
+ital Media Pro. Make sure the er-
+gonomics are good for you though
+– many of these were designed
+for other things than gaming, and
+WASD feels funny on some.
+Sound – Creative X-Fi XTreme
+Music or XTreme Gamer. Both are
+XTremely good. (Ho ho)
+Casing – Again, Thermaltake or
+Coolermaster. But get a cheaper
+one such as the Thermaltake Ar-
+mour Jr., the Thermaltake Aguila,
+or the Coolermaster Wavemaster,
+bearing in mind our mid-end cool-
+ing options, too.
+Low End (< £600)
+Processor – One of the earlier Intel
+Core 2 Duos. The E6300 or E6400
+will be enough.
+Motherboard – Get a good 965
+board such as the Gigabyte DS3 or
+DS4, or a low end ASUS P5N.
+GFX – Wait till DX10 card prices
+drop. There are good low-end cards
+on the market, but you’d be wasting
+money when there’s a price drop up
+ahead.
+HDD – Get a moderately large
+SATA II drive. Storage isn’t some-
+thing you can scrimp on easily,
+unfortunately.
+Cooling – The stock Intel coolers
+are more than enough.
+Power Supply – Enermax Liberty
+series, 500W at least. Again, power
+is power, and PCs always need
+more.
+Mouse – Any Razer or high end
+Logitech mouse. Mostly down to
+user-preference. The Razor Krait,
+perhaps.
+Keyboard – Any keyboard will do
+fine. If you’re getting really picky,
+take a look at a low-end Logitech
+for sturdy, reliable components.
+Sound – None required. If you
+must have one, get an old Audigy
+card. Many gamers find sound to be
+a secondary consideration.
+Casing – The Coolermaster Cen-
+turion 5 is an absolute bargain.
+Overall, it’s important to bear in
+mind that things need to be kept
+at a similar level. Splashing out on
+a big graphics card because you
+think that’s going to pull up the rest
+of your system won’t work, because
+things tend to run at the speed of
+the slowest.
+Above all else, make sure the
+components are good quality ir-
+regardless, and keep everything
+balanced around the CPU. Failing
+that, just phone up Dell.
+Hah! Just kidding.
+“Dell”.
+Woooooo … “Dell” … Hoo hoooo.
+The future of graphics technology – big-ass frogs.
+21
+felix
+Friday 9 March 2007
+GAMES games.felix@imperial.ac.uk
+

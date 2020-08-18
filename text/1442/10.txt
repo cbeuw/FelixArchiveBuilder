@@ -1,0 +1,260 @@
+10
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+felix FRIDAY 30 OCTOBER 2009
+
+*-6
+&EROSJ*IPM\
+8,6))4SYRHW
+‘Holy grail’ of cancer therapy found
+According to the co-author of a recent
+study published by a team of research-
+ers at the University of Pittsburgh, Jeff
+Isenberg: “More than half of all cancer
+patients are treated at least in part with
+radiation”.
+Radiotherapy is the use of ionising
+radiation as part of cancer treatment
+to control malignant cells. It can be
+used as palliative treatment (where
+a cure is not possible and the aim is
+for local control or relief) or as thera-
+peutic treatment (where the therapy
+has survival benefit and it may be
+curative). It is used in the treatment
+of malignant tumours where it acts
+as the primary therapy, but also com-
+monly in combination with surgery,
+chemotherapy, hormone therapy or
+transplantation.
+Fundamentally, it is the vital proc-
+ess in the initial destruction of cancer
+cells in the short term. However, at the
+moment there are problems in that al-
+though radiation may be physically di-
+rected as precisely as possible, it does
+not differentiate between healthy and
+cancerous cells. This causes problems
+such as nausea, vomiting, skin sores,
+rashes, weakness and fatigue as well as
+harsher side effects caused by longer
+term radiation such as scarring, and
+furthermore death of normal tissue.
+This problem has made the need for
+a resolution clear and obvious. Lucky
+now then, that the team from the Uni-
+versity of Pittsburgh in conjunction
+with the NCI (National Cancer Insti-
+tute) claim to have found a way to both
+protect healthy tissue from the toxic
+effects of radiation treatment, and at
+the same time increase tumour death.
+They claim to have identified a bio-
+chemical signalling pathway that can
+profoundly influence what happens
+to both cancerous and healthy cells
+when they are exposed to radiation. In
+mouse experiments, they found that
+blocking the molecule thrombospon-
+din-1 (TSP1) from binding to its cell
+surface receptor CD47 (Cluster of
+Differentiation 47) affords normal tis-
+sues almost complete protection from
+both standard and very high doses of
+radiation.
+Senior author Dr David Roberts from
+the NCI stated that despite protecting
+healthy cells, the new approach does
+not provide this same level of protec-
+tion to cancer cells. However, the exact
+way in which normal cells are protect-
+ed when the TSP1/CD47 cell signalling
+pathway is disrupted is not yet clear.
+“We almost couldn’t believe what
+we were seeing,” Dr Jeff Isenberg, the
+chief author, said. “This dramatic pro-
+tective effect occurred in skin, muscle
+and bone marrow cells, which is very
+encouraging”. He added “Cells that
+might have died of radiation exposure
+remained viable and functional when
+pre-treated with agents that interfere
+with the TSP1/CD47 pathway.”
+Dr David Roberts explained, “In our
+experiments, suppression of CD47
+robustly delayed the regrowth of tu-
+mours in radiation-treated mice.” Dr
+Isenberg, who published his findings
+in the journal Science Translational
+Medicine, said the treatment should
+be transferable to humans in as little
+as five years: “The therapeutic agents
+have been tested in normal cells from
+A new finding at the University of Pittsburgh offers a therapeutic hope to millions, up to a point
+mice, rats, pigs and cows and in living
+animals including mice, rats and pigs.
+“However, further optimisation and
+testing of these agents would be re-
+quired prior to any usage in humans.”
+He claimed that the drugs had been
+effective on human cells in the labo-
+ratory but that toxicology and clinical
+trials would be needed before it could
+potentially be adopted as a treatment, a
+process which could require up to five
+years.
+Dr Ester Hammond, a Cancer Re-
+search UK scientist at the University
+of Oxford, commented: “This work is
+particularly exciting because it’s a step
+towards developing drugs that could
+be given alongside radiotherapy to pro-
+tect healthy cells, while destroying the
+cancerous ones.”
+But, as previously mentioned, the
+study raises the intriguing question of
+exactly why normal cells are protected
+from radiation when this particular
+cell-signalling pathway is disrupted.
+It is possible that the radiation im-
+pairs the immune response to tumours
+even while killing tumour cells, but
+suppression of CD47 keeps the im-
+mune cells safe. Decreasing CD47 lev-
+els on tumour cells also could make
+them more sensitive to attack by the
+patient’s immune system after treat-
+ment. Or, suppression of injury to
+vascular cells may have the ability to
+improve blood flow allowing naturally
+occurring anti-tumour immunity to
+reach cancer cells more easily
+“Future work will undoubtedly shed
+more light on this and could lead to
+new treatments for cancer patients,”
+Dr Hammond added.
+So called ‘miracle drugs’ reported
+Particles injected into the LHC for first time in a year
+NathanLey
+NathanLey Science Editor
+on tumours we are doing nothing to
+allay the causes of cancer, nor to ad-
+dress the underlying fundamental
+problems that remain within the body
+after therapy which actually have the
+potential to repeatedly create the
+symptoms and effects (i.e. tumours),
+such as the chromosomal transloca-
+tions associated with multiple myelo-
+ma and leukaemia.
+in the press frequently come and go
+(take the example of the curry ingre-
+dient Curcumin this week) and as a
+result we should be cautious. Even in
+the best-case scenario that the expres-
+sion of CD47 can become routinely
+reduced by the action of a drug and it
+has the desired effect, it would hardly
+be the end of cancer. By reducing the
+negative points of radiotherapy action
+The secondary structures of CD47, in all their colourful glory
+A little over a year ago, the world
+looked to CERN with baited breath
+for the switch-on many feared would
+spell the end of the universe. The
+Large Hadron Collider (LHC) was set
+to recreate conditions at the start of
+the universe and continue the hunt for
+the ever-elusive Higgs boson. How-
+ever, despite the great build-up, the
+start of the experiment was notably
+lacking in dramatics. The big moment
+was marked only by a smattering of ap-
+plause among the scientists at CERN,
+and almost missed entirely by the live
+BBC reporter!
+Unfortunately, the experiment was
+called to an end before it even fully
+began. The LHC was shut down barely
+nine days after the initial start-up. A
+faulty electrical connection caused
+a tonne of liquid helium to leak into
+the tunnel from two superconducting
+magnets. This ‘quenching’ raised the
+temperature of the magnets by over
+100K above the required 1.9K and has
+taken scientists and engineers a year to
+repair.
+Last Friday marked the first injection
+of particles into the collider since last
+year’s setback. Beams of protons and
+lead ions were sent clockwise around
+part of the ‘A Large Ion Collider Exper-
+iment’ (ALICE), a 7 km part of the larg-
+er LHC experiment. Protons were also
+fired anticlockwise through the LHCb
+detector, a part of the LHC designed
+to investigate the abundance of matter
+relative to the amount of antimatter in
+the universe.
+This may seem like a very small step
+in the restarting of the experiment
+but engineers and scientists are wary
+of a repeat catastrophe and are taking
+things one stage at a time. The beams
+sent around the LHC have shown that
+the collider’s systems are now work-
+ing as they should be. The process of
+testing the collider section-by-section
+is slow but necessary to perform the
+calibrations required for the smooth
+running of the experiment.
+Gianluigi Arduini told BBC News:
+‘This is a work of synchronisation.
+The fast magnets must be synchro-
+nised to accelerate the beam and
+transfer it from one accelerator to
+the next and eventually to the LHC,
+which must be synchronised to ac-
+cept it.’
+For the time being, the protons and
+ions are being introduced to the col-
+lider at the relatively low energy of 450
+million electron volts. When the ex-
+periment is fully running, the particle
+beams will accelerate to and collide in
+BrigetteAtkins
+BrigetteAtkins Science Editor opposing directions at a fraction be-
+low the speed of light. The energy of
+the particles is to be built up in stages
+with the hope that beams will be ac-
+celerated up to 7 billion elecron volts
+by 2011. At this energy, particle col-
+lisions will give scientists insight into
+the first moments after the creation
+of the universe. Many involved in the
+experiment also hope the end results
+will provide concrete evidence for the
+Higgs boson, a theoretical particle be-
+lieved to give other particles mass.
+Holger Bech Nielsen of the Niels
+Bohr Institute, Copenhagen remarked
+that breakdowns at the LHC may be
+caused by the Higgs boson itself. Theo-
+retically the boson could go back in
+time and destroy whatever created it,
+leading to a malfunction in the accel-
+erator. Contrary to this, most scientists
+believe the 2008 failure was down to
+more routine problems with the actual
+apparatus.
+The next step now will be the circu-
+lation of a particle beam the full way
+around the 27 km tunnel.
+This is set to take place in November
+this year.
+A simulation of a lead ion collision in the ALICE experiment
+

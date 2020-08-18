@@ -1,0 +1,148 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 14
+21.11.2014
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+oaching the comet. Photo: ESA
+studies the earth’s magnetic field,
+we have to deal with all that plus the
+extra radiation from the van Allen
+belts of charged particles.
+The temperature is extremely
+low, and that’s a challenge, but the
+radiation environment isn’t too bad.
+What will be a big challenge is the
+dust and gas.
+We usually think of a spacecraft
+in a vacuum. In this case, the comet
+will boil off gas and dust from below
+the surface. The real challenge for
+Rosetta is that this will collect on
+the orbiter and create drag. Usually
+Newton’s laws will tell you exactly
+where a spacecraft will be, but this
+extra drag makes Rosetta’s motion
+unpredictable.
+How do you go about designing
+an instrument to send into deep
+space?
+If we want to measure particles or
+a magnetic field, the instrument
+technology is pretty well developed.
+Particle detectors for use in the lab
+are relatively easy things to make.
+If we want to send an instrument
+into space, we’re trying to measure
+extremely small magnetic fields
+and plasma densities (about 1-2
+nanotesla (compared with 40-50
+on earth), so we need very sensitive
+instruments. They have to be very
+high quality, but also very robust
+to survive the rocket launch and
+extreme cold.
+The key thing though is reliability.
+Almost uniquely for a piece of
+instrumentation, we can’t just go
+up and fix it if something goes
+wrong. We use a lot of military-
+grade electronic components with
+guaranteed reliability and radiation
+hardness. This also makes things
+very expensive — for Rosetta, each
+chip costs around $10,000. And to
+ensure reliability, there’s a lot of
+redundancy built in so if one fails we
+always have a back up.
+What have you been doing for the
+past 10 years while Rosetta was
+travelling to the comet?
+It hasn’t been entirely dormant
+whilst we’ve been flying there. There
+was some data to be taken while we
+were flying past Earth, Mars and
+two asteroids. All instruments were
+operational in those periods, being
+tested and helping us prepare for the
+rendezvous.
+At Imperial, we’ve also been
+heavily involved in programmes like
+Cassini and Cluster. Rosetta was a
+part-time project, but it’s suddenly
+become very busy.
+How closely have you been
+working with other groups?
+The plasma consortium is a big team
+already, with people involved from
+right across Europe and the US. We
+do work with other teams though,
+particularly the magnetometer
+on the lander, so we can compare
+our measurements with them.
+There’s also a mass spectrometer,
+and an instrument on the orbiter
+called ROSINA, which investigates
+neutral gases and ions. There are
+big meetings with all three groups
+— the next one’s in three weeks —
+where we share our findings and see
+how measurements from different
+instruments can support each other.
+Has the mission gone as you
+expected when you first started
+working on the project?
+Actually it has really. The goal
+of Rosetta was to make the
+first rendezvous with a comet,
+characterise it in orbit and send the
+lander down, and we achieved that.
+Everyone thought it was a bit of a
+crazy idea. To rendezvous would be
+hard, to land would be even harder.
+NASA’s Comet Rendezvous was
+cancelled because of the difficulties
+involved, but the ESA persevered.
+Across the project there’s been a
+feeling that it was hard but we did it.
+What else are groups at Imperial
+working on at the moment?
+I’m the principal investigator (PI)
+for the magnetometer on Cluster,
+which keeps me occupied most
+of the time. I also run the Space
+Magnetometer Lab here. Groups
+from Imperial are working on
+planned missions: BepeColombo
+to Mercury and Solar Orbiter — the
+PI for that magnetometer is Tim
+Horbury. We’ve recently been
+selected to build instruments for
+the JUICE mission to Jupiter that
+Michele Dougherty will be working
+on — a lot of the development for
+that will be done at Imperial.
+We’re also working on CubeSats:
+miniature satellites to map the
+magnetosphere using sensors similar
+to those you find as compasses
+in phones. They aim to relate the
+magnetic field in low-earth with that
+measured by an array of ground-
+based detectors to see how the solar
+wind penetrates the earth’s magnetic
+field.
+"The key
+thing
+though is
+reliability.”
+"There's
+been a
+feeling
+that it was
+hard, but
+we did it."
+Mission
+Mission
+Mission
+

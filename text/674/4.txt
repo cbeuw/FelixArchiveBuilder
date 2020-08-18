@@ -1,0 +1,196 @@
+Futures
+A Computer Called
+A L I C E stands for Applicative
+Language Idealised Computer
+Engine. Although it sounds
+difficult, what is on the way is a
+completely new type of computer
+which combines revolutionary
+design with amazing simplicity.
+The Japanese have nicknamed
+the technology 'fifth generation'
+but A L I C E is all British.
+The A L I C E team are based in
+the Department of Computing
+and are led by D r John
+Darlington.
+In order to understand how
+A L I C E works, it is necessary to
+have a quick look at the
+computers we are more familiar
+with.
+From the first computer made
+from valves, from the smallest
+ZX80, to the ultra-fast Cray,
+almost all computers have a
+'serial' architecture. This means
+that the computer, no matter how
+fast, does only one thing at a
+time. This is reflected in the
+structure of the languages
+used—machine code, Basic,
+Fortran, Pascal and Algol 68 all
+do just one thing at a time" (with
+varying degrees of efficiency).
+Fundamental physics governs
+how fast computers can operate,
+and although commercial
+computers have not yet reached
+those limits, it is becoming ever
+more difficult and expensive to
+gain increases in speed. While it
+may seem to many that
+computers work fast enough as it
+is, there are many problems
+which actually take computers
+many hours to solve.
+Some such problems have a
+very regular structure that can be
+exploited, for instance modelling
+the behaviour of all the molecules
+in a crystal, or predicting air
+pressure and temperature at
+points on a grid map. For these
+purposes the Distributed Array
+Processor or D A P was born. This
+consists of any array of many
+(usually 4096) small computers,
+which are serial, but work
+simultaneously, like an army. To
+fully exploit these, D A P variants
+of familiar languages such as
+F o r t r a n and Pascal were
+developed allowing single
+commands to work on arrays.
+D A P programming has become
+highly fashionable in some fields,
+but not all problems can be
+conveniently fitted to the D A P .
+What is really required is a
+computer which can divide any
+task into a lot of simple steps and
+perform each of these steps
+simultaneously.
+Page 4 • • • • • • •
+The ALICE team: Victor Wu, Sandra Evans, Ian Moor, John Darlington,
+Tony Field, Mike Reeve, Martin Cripps and Roger Bailey.
+Imperial College is a centre of excellence for
+scientific research, yet not many people hear about
+the pioneering work being carried out here. This
+article will be the first in a series of articles on
+interesting scientific work being carried out at
+Imperial. This week we kick off with the work being
+carried out in the Department of Computing on fifth
+generation computers.
+To achieve this goal, both a
+new architecture and a new type
+of language were necessary.
+Research on the so-called
+Declarative Languages has been
+going on for about ten years, and
+has now split into two fields—the
+logic languages a n d the
+functional or A p p l i c a t i v e
+languages. B a s i c a l l y , the
+difference is that rather than tell
+the computer exactly what to do
+at each stage, these languages
+provide either a set of logical
+conditions (Prolog) or functions
+( H o p e ) and some i n i t i a l
+c o n d i t i o n s and then the
+computer works out how to slot
+them together to give the
+required result. Prolog, Hope
+and similar languages work
+about ten times slower than
+conventional languages on
+conventional machines.
+A L I C E will use the functional
+language Hope, and this should
+work ten times faster than a high-
+level language on an equivalent
+serial computer. Any other
+language will be able to be
+implemented on A L I C E , but the
+advantages will be lost.
+In functional languages, a data
+structure called a 'packet'is used.
+The packet has three parts: the
+first is a reference which tells the'
+computer where to put the result
+once it is calculated, the second is
+a function like 'square' or 'add
+two numbers' and the third is an
+argument, which is of the right
+type (one number or two in this
+example) and may be a reference
+to another packet. Packets can
+only be processed when their
+arguments have been reduced to
+the appropriate form.
+The hardware consists of three
+sections: the 'pool' where all the
+packets are stored, the 'agents'
+which delve into the pool, fish out
+packets, process and return them,
+and the 'telephone exchange'
+which allows the agents to
+communicate with the pool.
+The telephone exchange chip
+has been custom-designed and
+built to allow the fastest possible
+switching speeds (tens of
+nanoseconds). The agents have
+been designed to use the
+transputer chip, a British
+invention which seems to fit the
+bill exactly. However, it is
+eventually hoped to have a VLSI
+design (ie everything on a very
+few large chips). At present,
+A L I C E has not yet been built,
+but its operation has been
+successfully modeled on a
+conventional computer.
+The design allows any number
+of agents to be used, however, as
+they work in parallel, the more
+agents, the faster A L I C E will
+work. A computer with two
+agents will work 1.6 times as fast
+as one agent. As the number of
+agents becomes larger, the
+increase in speed from each drops
+to about 0.3, but adding more
+agents can never make the
+machine slower.
+The first A L I C E will be no
+bigger than a small fridge.
+Eventually, ALICE'S of all sizes
+will be available: small enough
+for the desktop, large enough for
+the biggest problem. A L I C E is a
+completely general purpose
+computer which will excel at any
+task. It is also a very flexible
+design, as to double the capacity
+and increase speed you will just
+need to buy another A L I C E and
+'bolt it on' to the one you already
+have.
+ALICE
+ARCHITECTURE
+I Friday, May 18, 1984
+'agents'-two transputers
+each
+the custom-made
+'telephone exchange' chip
+allows communication
+between agents and pool
+the 'pool' is composed of
+small sections of memory
+which are connected to the
+exchange via transputers
+• ^ • H i FELIX
+

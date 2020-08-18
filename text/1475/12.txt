@@ -1,0 +1,147 @@
+SCIENCE
+FELIX
+12
+Science Editors: James Goldsack
+Katya-yani Vyas
+science.felix@imperial.ac.uk
+The Trouble with Physics
+by Lee Smolin
+And a few suggestions...
+Schrödinger’s lolcat
+Climate change is causing some sheep to shrink.
+Since 1985 the Scottish Soay sheep’s legs have got
+shorter and their body weight has decreased. The
+lonely sheep live on the island of Hirta, home to a
+diverse ecosystem of sheep and vegetation. Lead
+researcher, Tim Coulson from Imperial College, said
+that it is “too early to say if, in 100 years, we will
+have...pocket-sized sheep.” Let’s hope so.
+Smolin, a brilliant theoretical physicist himself, at-
+tempts in this book to provide a concise and spe-
+cific tour of modern physics and its complexities.
+Creating a link between the somewhat unfathom-
+able different areas of physics, he explains how the
+discipline has progressed from Einstein through to
+quantum mechanics and the notorious string theory.
+Smolin is sharp and provocative in his writing. He
+does not simply put forward ideas, but also ques-
+tions them and their proponents. He also raises
+some interesting economic and political implica-
+tions caused by physics research. This is the most
+refreshing attribute of the book; it is not simply an
+‘ode to physics’ as so many popular science book
+are, but rather a critical analysis of the state of the
+science and the bold theories and claims that are
+made about it. Smolin is engaging and entertaining,
+leaving us with a greater insight into how the theo-
+retical physicist thinks. Katya-Yani Vyas
+Students with ‘Parasight’
+Victoria Bignet
+The science behind the iGem team’s successful project
+MIT hosts an annual undergraduate Synthetic
+Biology competition called iGEM (Interna-
+tional Genetically Engineered Machine), aim-
+ing for each university team to build biological
+systems and operate them in living cells. Im-
+perial made an outstanding performance and
+landed fourth on the podium out of a total of
+some 129 participating universities.
+The Imperial team built their project on bio-
+sensors. Sensors developed so far require hours
+or weeks of waiting before a detectable output
+is produced, jeopardizing the product’s appli-
+cation on the field. Current designs also only
+respond to a small range of basic inputs and
+lack flexibility in input/output modulation.
+For the detection target, the Imperial College
+team wanted something with a strong health
+impact. They envisioned a cheap, safe and fast
+sensor that could detect the presence of a range
+of human parasites in water, which would indi-
+cate to people in developing countries whether
+the water is safe to drink/touch – hence the
+project’s name “Parasight”! The IC team fo-
+cused on the schistosoma parasite, a neglected
+tropical disease (NTD) which affects 200 mil-
+lion people worldwide, second only to malaria
+in severity.
+They engineered a system which allows for
+fast detection of a range of parasites, and may
+also be used as an environmental tool for map-
+ping parasite spread. Synthetically modified
+Bacillus subtilis, a harmless gram positive soil
+bacterium, was used to give a clear colour read-
+Friday 26 November 2010
+You won’t believe it...
+out upon detection of the waterborne parasites.
+The team designed the project in three
+modules. Their detection module constitutes
+a brand new approach, exploiting parasite re-
+lease of elastase to penetrate host skin. They
+synthesised a novel protein bound to B. sub-
+tilis cell surface, with a protruding signalling
+peptide attached via a protease cleavage site.
+When the parasite protease comes along, the
+signal peptide is released and activates the
+signalling module. To transduce the signal,
+the team used a quorum sensing system which
+they extracted from Streptococcus pneumoni-
+nae and transplanted into B. subtilis. Activa-
+tion of this classic two-component system in-
+duces gene-transcription and triggers the fast
+response module.
+Cercaria (larval stage) is the most useful life-
+cycle stage of Schistosoma to target, as it would
+prevent the disease altogether. Cercariae are
+common in water, but their spatiotemporal ap-
+pearance is unpredictable. With this detection
+method, locals or NGOs could easily check the
+water to see if it is infected.
+The project’s design was based on the pre-
+infection release of elastase by cercariae, with-
+out which they would be unable to progress
+in their life-cycle. The cell-surface protein
+of B. subtilis has three components: an auto-
+inducing peptide (AIP), a linker peptide and a
+cell-wall binding protein (CWB). In order to
+activate signal transduction, the AIP must be
+cleaved, i.e. it cannot access its specific re-
+ceptor if still attached to the surface protein.
+Cleavage by elastase releases the sequestered
+intercellular quorum sensing signal. It is the
+linker which confers specificity to the surface
+protein; the elastase recognises a four amino-
+acid sequence (SWPL) included in the linker.
+The latter is anchored to the cell-wall by an
+isolated domain from the LytC protein, native
+to B. subtilis.
+Cercariae do not readily release elastase in
+the water. They need to detect human lipids in
+ambient temperatures of around 37°C. How-
+ever, cercarial elastase is a crucial protease for
+successful infection, and is thus guaranteed to
+be released assuming these conditions.
+While an elastase has cleaved a protein link-
+er, the team designed a resulting downstream
+signalling pathway. The so-called ‘ComCDE’
+system of genes in S. pneumoniae signals via
+a linear AIP and uses a two-component signal
+transduction system. The ComC gene-product
+is CSP1 (competence-stimulating peptide-1)
+which is the system’s AIP. CSP-1 is exported
+out of the cell and is detected by the CWB –
+sensory histidine kinase ComD. The kinase
+then activates response regulator ComE. This
+transcription factor then binds to its specific
+target gene to induce transcription; the team
+synthetically set the Tobacco Etch Virus (TEV)
+protease gene as target by adding a ComE bind-
+ing site upstream from it.
+Previous trials have been based on transcrip-
+tion-translation of a specific reporter molecule
+(e.g. GFP) which is time-consuming and might
+need sophisticated equipment for detection.
+This system is not only revolutionarily fast but
+it involves the expression of a protease which
+Synthetically modified Bacillus subtilis was used to give a clear colour readout upon detection of the waterborne parasites
+

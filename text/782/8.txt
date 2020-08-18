@@ -1,0 +1,161 @@
+THE NOBEL PRIZES 1987
+U N D E R \ T H E
+MICROSCOPE
+9
+b y S t e v e B l a c k '
+This week the reports are all about the Nobel prizes for outstanding
+smartness in Physics, Chemistry and Medicine. Even two pages is not
+enough to do justice to the work in any of these fields, so there may
+be features on some of them later. If, for example, some kind Physicist
+would care to do a survey of what we know about the new
+superconductors, it would make a wonderful feature—and they would
+get their name in print. Other in-depth articles on specific topics of
+general interest will be forthcoming soon.
+I'm sorry I've gone on at such length about Chemistry, but it is
+what I know about: if you want your subject to fill up the space then
+become a contributor!
+Even if you don't want to contribute, we welcome your criticisms,
+suggestions and ideas for things to report in this column. Send them
+to the FELIX Office or to my letter rack in the Chemistry foyer.
+The medicine prize:
+shuffling genes
+A Japanese scientist who did his
+important work in Switzerland and
+who now works in Boston won the
+medicine prize for his work on the
+immune system.
+Susumu Tonegawa won the prize
+for working out the details of how the
+human immune system is able to
+produce such a variety of antibodies.
+This had been a big problem for
+immunologists for a long time.
+There are only a limited number of
+chromosomes in a human gene, yet
+the immune system seems to be able
+to create a virtually unlimited variety
+of antibodies to fight off nasties in the
+bloodstream. Antibodies are just
+proteins and proteins are coded by the
+D N A of the genes, so the source of
+the variety was a mystery.
+In experiments with the antibody
+genes in mouse cells, involving
+comparison of cells from mice
+embryos and from mature mice,
+Tonegawa was able to show that the
+genes are 'shuffled' randomly during
+development. The shuffling produces
+a vast variety of possible antibodies,
+enough to fight off most invading
+horrors.
+The elegant details o f his
+mechanism have illuminated how it
+is possible for an apparently wasteful
+process to achieve useful results.
+They also show how simple, natural
+systems can show a staggering ability
+to adapt themselves to their
+environment.
+The fastest physics
+prize on record?
+Nobel prizes are supposed to go to the
+most prestigious work in the given
+field in the year of the award. This
+year's Physics prize is just about the
+first time that that has happened:
+normally you have to stay in the race
+for twenty years after hitting the
+jackpot before you get the prize.
+The news only broke last
+September that the superconductivity
+temperature record had been trounced
+by Bendortz and Muller at the I B M
+labs in Zurich. This started the great
+bandwagon that has led to the
+recognition of their work as one of the
+most important new discoveries in the
+last 50 years of Physics.
+Persistence pays off
+IBM had a big project to develop
+superfast computers about ten years
+ago. The parts that did the work were
+based on Josephson junctions (which
+involve two superconducting bits
+separated by a sandwich of insulator
+about 15 atoms thick). Computer
+widgets fashioned from Josephson
+junctions are very much faster than
+the same widgets made in
+conventional silicon. Unfortunately,
+they only work at below about 20
+Kelvin (about - 2 5 0 ° C ) . This means
+that the C P U of the computer has to
+be cooled by liquid helium. I B M gave
+up the project because it was simply
+too difficult to arrange to keep the
+computer cool at a reasonable price.
+However, two of I B M ' s bright
+researchers (Georg Bendortz and
+Alex Muller) maintained an interest
+in superconducting materials. As long
+ago as 1979, Muller was getting
+pissed off with the conventional metal
+alloys that superconductors were
+made of. There seemed to be no way
+to increase the superconducting
+transition temperature which was
+stuck at about 23K: no compounds
+were superconducting above that
+temperature. They decided to look at
+metal oxides, which is strange since
+they are normally insulators.
+However, they obviously knew what
+they were doing, since their first
+experiment pushed that temperature
+to 35K, the biggest jump since the
+discovery of superconductivity.
+The group of compounds they
+picked (modified barium copper oxide
+ceramics) proved to be an inspired
+choice, and rapid modifications were
+made by them and by others to push
+the record temperature to above 90K.
+The work was not really a one-off
+discovery, but represented a deep
+insight into solid state physics, backed
+up by years of previous work on other
+materials. This is why the reward is
+not really the fastest ever: the group
+has been working towards its goal for
+years.
+The important thing about the new
+compounds is that they are
+superconducting at liquid nitrogen
+temperatures. It is extremely cheap
+and easy to handle liquid nitrogen and
+the compounds themselves are also
+cheap and easy to make (though they
+are not readily made into anything
+useful as yet). They seem to mark an
+amazing democratisation of high-tech
+physics: previously only wealthy and
+well-equipped laboratories could deal
+with superconductors, now anybody
+can have them.
+It is strange that a discovery that has
+come out of a wealthy company
+research lab should make it possible
+for the impoverished universities to
+get into important research: normally
+the company labs just make us
+jealous.
+The discovery of these new
+compounds is likely to lead to more
+prizes soon, because nobody knows
+why they are superconductors. The
+first person to think of a good
+mechanism will deserve the next
+Nobel prize.
+8 Friday October 30th 1987 FELIX
+

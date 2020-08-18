@@ -1,0 +1,511 @@
+ISSUE 1700
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+12
+2018 Nobel Prize in Medicine: the fight against cancer
+“This way, the
+body can fight
+against cancer
+using natural
+mechanisms”
+James P. Allison and Tasuku Honjo’s research may save many lives
+SCIENCE
+Paulina Rowinska
+Science Writer
+T
+he 2018
+Nobel Prize in
+Physiology or
+Medicine went
+to James P. Allison and
+Tasuku Honjo for the “dis-
+covery of cancer therapy
+by inhibition of negative
+immune regulation.”
+Be it bacteria, virus or
+cancer cell, no foreign
+molecule can expect a
+warm welcome to our
+body. T-cells, a type of
+white blood cells, bind
+themselves to potentially
+dangerous intruders,
+which triggers the immune
+system to defend us. Ad-
+ditionally, some types of
+proteins accelerate the full
+immune system response,
+while others inhibit it.
+This way our immune
+system attacks threatening
+intruders but leaves our
+own healthy cells alone. A
+typical war strategy: kill
+enemy soldiers, protect
+ours.
+Unfortunately, cancer
+manages to fool this
+so-called ‘checkpoint
+system’ by pretending
+to be a normal part of
+our body. The latest
+Nobel Prize laureates
+independently proposed
+special drugs called
+“checkpoint inhibitors”,
+which suppress proteins
+responsible for blocking
+our immune system. Now,
+the immune system gets
+a chance to assess cancer
+cells as “non-self” and
+destroy them. This way,
+the body can fight against
+cancer using natural
+mechanisms, with just
+a little boost from drugs
+based on immunotherapy.
+Allison and Honjo
+bring hope to patients
+for whom none of
+surgery, radiotherapy and
+chemotherapy would be
+available, for a variety
+of reasons. Their work
+inspired numerous clinical
+trials, with successes in
+lung cancer, renal cancer,
+lymphoma and melanoma
+(skin cancer).
+Whilst side effects of
+checkpoint therapy can
+be as dangerous and un-
+pleasant as of other cancer
+treatments, our knowledge
+of autoimmune reactions
+allows us to manage them
+better. Current research
+focuses on explaining and
+treating these side effects
+even more effectively.
+“Cancer kills millions
+of people every year
+and is one of humanity’s
+greatest health challenges.
+By stimulating the ability
+of our immune system to
+attack tumour cells, this
+year’s Nobel Prize laure-
+ates have established an
+entirely new principle for
+cancer therapy”, we can
+read at the Nobel Prize
+official Twitter account.
+Did we find ‘the cure’
+for cancer? Probably not.
+But Allison and Honjo’s
+research can definitely
+save hundreds of lives.
+Can’t Stop, Won’t Stop: Science on why we can’t stop
+eating
+SCIENCE
+Sarah Wong
+Science Writer
+I
+lied to myself again:
+“I will just have one
+more,” as I engulfed
+the whole bag of
+crisps. Interestingly, this
+gluttonous behaviour can
+be explained by science,
+so we are not to be blamed
+entirely.
+In the brain, there
+are two main types of
+neurones that impact our
+appetite in the hypothal-
+amus: those that make us
+crave food (orexigenic),
+and the other suppresses
+this desire (anorexigenic).
+An example of orexigenic
+neurones would be the
+cells expressing proopi-
+omelanocortin (POMC),
+which is a stress-related
+gene; and an example
+of anorexigenic neuron
+would be agouti-related
+protein (AgRP), where
+it is known that agou-
+ti-expressing mice are
+generally obese. These
+nerve cells respond to
+nutrient and hormonal
+signal (e.g. leptin) and
+together, the two systems
+work together to regulate
+appetite, energy expendi-
+ture and importantly, body
+weight. Yet, we don’t have
+a complete understanding
+of the interplay of these
+neurons and a recent study
+published in Proceedings
+of the National Academy
+of Sciences aimed to shed
+light into this question,
+literally.
+Using optogenetic
+techniques, neurones
+were activated using
+light. Together with
+neural activity mapping
+and brain transparency
+visualisation techniques,
+the researchers at the
+University of Michigan
+demonstrated the ano-
+rexigenic and orexigenic
+nature of neurons that
+express POMC or AgRP
+respectively.
+In the study, the mice
+with activated POMC
+neurones stopped eating
+though they were starved
+4 hours before feeding.
+POMC is a gene that
+codes for stress hormones,
+therefore it makes as
+much sense as eating
+would probably be the last
+thing we want to do when
+we face a life-threatening
+situation. However, if
+both AgRP and POMC
+neurones were activated,
+the group of mice in-
+creased food intake. This
+suggests the neurons that
+put the brakes on eating
+are overridden by the
+neurones that promote
+eating. In other words, the
+‘I must eat more’ mech-
+anism is stronger than
+the ‘I think I will stop’
+mechanism – that’s why
+we keep eating when we
+are full.
+To explore how this
+was brought about, the
+scientists visualised the
+neuronal network in the
+brain that received protein
+signals from POMC and
+AgRP neurones. Results
+showed that the two
+systems have a different
+neuronal activation
+pattern, in which the
+insatiable mouse group
+has a much broader and
+wider response area in
+the brain compared to the
+group where anorexigenic
+neurones were activated.
+To investigate potential
+mechanism of how
+the change of appetite
+is brought about, the
+scientists gave the mice
+naloxone, a drug that
+blocks opioid receptors.
+Results suggest the effect
+of increased food intake is
+likely to be mediated by
+the opioid receptor-sig-
+nalling system, the same
+system that regulates
+sodium appetite (craving
+salty food) and aids in
+regulating pain.
+All these interesting
+findings certainly help
+increase our under-
+standing of the appetite
+control mechanisms,
+which could potentially
+target the pathway to
+up- or down-regulate our
+appetite, thereby treating
+issues like obesity. Whilst
+the use of pharmacologic
+treatment (naloxone) in
+the experiment suggested
+a slight possibility to
+translate this knowledge
+into a medical treatment,
+the difference in mice
+and men means that
+factors such as stress and
+emotions were not in-
+vestigated. Furthermore,
+as mentioned, the opioid
+receptor signalling system
+is also involved in other
+important features, hence,
+a ‘magic pill’ is not likely
+to be ready soon. Long-
+term effects should also
+be investigated before
+making any therapeutic
+claims.
+To conclude, scien-
+tists have shown that
+over-eating is caused by
+an overpowering signal
+from the ‘please eat
+more’ neurones, which,
+in mice can be inhibited
+by drugs. However, more
+work needs to be done to
+understand the topic, as
+humans are greatly differ-
+ent from mice, especially
+in terms of psychology
+and experiences to social
+triggers. In the meantime,
+I guess willpower is all
+we have to stop us from
+overeating.
+Why do we overeat so regularly? //Tanvir Logani
+SCIENCE
+FRIDAY, 12TH
+OCTOBER, 2018 FELIX
+science.felix@imperial.ac.uk
+13
+Moths at Midnight
+Recent research from the University of York gives an insight into the night-time pollination activities of moths. A
+pollination service that may be of great ecological importance, which has been overlooked, until now.
+W
+e all know
+that polli-
+nation is an
+invaluable
+process, critical for both
+the maintenance of eco-
+systems and continued
+agricultural production.
+With growing pressure
+on agriculture to sustain
+the inflating human
+population, the role of
+pollinators is becoming
+increasingly important.
+In spite of global declines
+across many pollinating
+insect species, the con-
+servation discussion tends
+to focus on day-time pol-
+linators, in particular the
+plight of bees. However,
+recent research from the
+University of York has
+demonstrated that the
+night-time activities of
+moths may play a much
+greater role in pollination
+that we had previously
+thought.
+Due to the technical
+challenges of observing
+nocturnal animals, moths
+are relatively understud-
+ied compared to day-time
+pollinator species. In the
+University of York study,
+researchers genetically
+analysed pollen found
+on moths to characterise
+previously unstudied
+plant-moth interactions
+and identify pollen-trans-
+port networks within a
+UK agrosystem. In so
+doing they identified
+many plants that were not
+previously thought to be
+pollinated by moths and
+found that moths pollinate
+a number of important
+agricultural crops. These
+include potato, soya bean
+and oil-seed rape. Many
+moth-pollinated plant
+species are also known to
+be pollinated by day-time
+insects. This may confer
+a selective advantage
+for these plant species if
+current pollinator declines
+continue.
+Moth pollinators tend
+to travel greater distances
+whilst foraging compared
+to their day-time coun-
+terparts. Consequentially,
+they may facilitate
+plant-geneflow across a
+landscape and prevent
+the deleterious effects of
+inbreeding. The mainte-
+nance of genetic diversity
+through geneflow has
+important implications
+for a species evolution
+and may improve survival
+under future perturbations
+in the environment – of
+particular note, climate
+change.
+The contribution of
+moths to pollination
+services has previously
+been understudied.
+However, using genetic
+analyses this study has
+identified them as globally
+relevant pollinators.
+Consequentially, their
+conservation is of great
+importance, especially in
+the face of ongoing global
+declines in the numbers
+of pollinating insects. The
+total number of moths in
+the UK is estimated to
+have decreased by around
+30% since 1968, this has
+partly been attributed to
+habitat losses, light pollu-
+tion and use of pesticides.
+The Univeristy of York
+study goes some way to
+prove that when discuss-
+ing important pollinators
+for the maintenance of
+agricultural production,
+we should include moths,
+and therefore take action
+to prevent their further
+decline.
+The ICESat2 // NASA
+SCIENCE
+Photini Knoyle
+Science Writer
+ICESat-2,NASA’snewsatellitetomeasurethemelting
+of ice
+O
+n Saturday
+the 15th of
+S e p t e m b e r ,
+N A S A
+launched their newest
+laser, the ICESat-2, which
+stands for “Ice, Cloud and
+land Elevation Satellite”.
+In orbit 500 km above our
+heads, the satellite’s main
+mission is to measure the
+alarming evolution of ice
+melting in the poles.
+Since 2009 and
+the end of the first mission
+of ICESat, NASA had
+no spacecraft instrument
+capable of providing
+information such as the
+thickness of the ice in
+Greenland and the Antarc-
+tic. On board of the half a
+tonne satellite, two lasers,
+one of replacement, were
+installed. Each laser is
+divided into six beams
+to follow as closely as
+possible the slope of the
+surface of Earth. With
+10,000 laser pulses per
+second, measurements
+will be taken every 70 cen-
+timetres on the trajectory
+of the satellite. Thanks
+to these very precise
+data, NASA aims “to
+estimate the annual height
+change of Greenland and
+Antarctic ice sheets to
+within 4 millimetres – the
+width of a No. 2 pencil.”
+ICESat-2 records the time
+taken by the laser beams
+to reach the Earth and to
+come back to the satellite
+at a very precise spatial
+location. Scientists are
+then able to calculate the
+height of forests, glaciers
+and sea ice.
+Such devices
+are urgently required in
+today’s global warming
+situation. The Arctic Sea
+Ice has indeed reached its
+smallest 2018 summer-
+time surface area (4.59
+million square kilometres)
+on September 23rd. This
+layer of frozen water
+floating above the Arctic
+Ocean extends during
+wintertime and naturally
+shrinks during summer.
+However, since the 1970s,
+the Arctic Sea Ice rapidly
+reduced by 54 000 square
+kilometres each year,
+going from 7.01 million
+square kilometres in 1980
+to only 2.91 square kilo-
+metres in 2012! The same
+phenomena are observed
+in the Antarctic, where 3
+000 billion tonnes of ice
+have melted since 1992,
+enough to rise the global
+level of the oceans by 8
+millimetres! Hundreds
+of millions of inhabitants
+living on coastal land are
+under the threat of sea
+level rising! The future
+measurements provided
+by ICESat-2 will supply
+more details to the world’s
+leaders to orientate their
+policies in favour of sus-
+tainable development and
+take action to prevent the
+Earth’s temperature from
+rising by more than 1.5°C
+by 2022.
+SCIENCE
+Marie Jones
+Science Writer
+Arctic ice extent reached a 2018 summertime minimum
+on September 23rd
+// National Snow and Ice Data Centre
+

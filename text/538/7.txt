@@ -1,0 +1,113 @@
+C O D E W O R D B Y N O B
+To encode a word using a PLAYFAIR
+codesquare proceed as follows. Construct a 5x5
+square of letters beginning with the code word,
+which must have no recurring letters, continue
+with the rest of the letters in the alphabet except
+J. I does for I and J .
+Ex — Codeword — outspreadingly.
+Code Square:
+o a T S ?
+R A 1
+N G L Y 3
+C F H K h
+a V w X Z
+To encode a word, which must have an even
+number of letters, split'it into pairs of letters. If a
+pair of letters both appear in the same column
+take the letters appearing directly below them IN
+ORDER. If a pair are in the same row, take the
+letters to the right (OR, if at the end of a row or
+column the letter at the beginning or top). If not,
+take the respective opposite corners of the
+rectangel, obtained by the pair.
+Eg 1 D E L A W A R E - DE/LA/WA/RE
+DE-» IA
+L A * H L
+WA-»TL
+RE-»EA
+Eg 2 SWINGS - SW/IN/GS
+SW-»TX N O T X T which would be WS
+IN-»RB
+GS-»YU
+Puzzle: Having solved all the clues and completed
+the diagram, notice that the leading and reverse
+diagonals are all white squares, the first six
+letters and the last three letters of the leading
+diagonal and the first letter and last four letters of
+the reverse diagonal are to be compared with the
+letters of the phrase "Sean wishes you a drunken
+Christmas", where they appear when the phrase
+is spelt out along the diagonals in order, not ehe
+middle H appears one (twice!). Compare the
+required letters in pairs (ie the last letter of 35
+across and the first letter of 8 down make a pair).
+This S H O U L D yield seven pairs of code
+equations from which the code square used in the
+first place is to be deduced! Having reconstituted
+the code square, the code word(s) (ten non-
+recurring letters) is to be read. The first solver to
+send in the code word(s) and complete diagram to
+FELIX and to my satisfaction wins £5.
+All clues are normal apart from scientific
+definitions at 1 across, 10 down and 8 down.
+Warning: The answers may be obscure words, all
+to be found in Chambers Twentieth Century
+Dictionary. '
+A C R O S S
+1 Member of the group of Gasteropods (8)
+9 Tiny tree will transform, but in a long time (8)
+11 Sean's cry baby sibling (9)
+13 Lover with three loves swooning with mars (7)
+15 Ancient Irish doctor living in Knoll Avenue (5)
+16 Work box that seems essential (10)
+18 Red hot coal firing Reb and me (5)
+20 Bit of tranquility, we hear (5)
+22 White map? French letter? (5)
+25. Setting right while clothing (10)
+27 Lawyers being awkward with a mule (5)
+29 Church festival with religious beer (7)
+30 Monster, from sea, with an attempt, English (9)
+33 Semitic Syrian idiom (8)
+35 Lame Pyre formed of pure light (8)
+D O W N
+2 Wander about with a goblin (5)
+3 He rapes violently — to disfigure (7)1
+4 Septic cat (3)
+5 River letter (3)
+6 Alternative precious metal (2)
+7 Tree with girl — acceptable one? (6)
+8 Product of two gametes (6)
+10 The spiderwort genus (12)
+12 Opposite of 9, yes and no (12)
+14 Headless drink, procured from malt-house (4)
+15 London enterprise giving unit (3)
+17 Establish cause of plant (4)
+19 Long hair, in the first place, we hear (4)
+21 Greek letter, last and first letters (4)
+23 Good team in overalls, tar-stained (7)
+24 Hesitation with a long time (3)
+25 Heater made to work again (6)
+26 More Greek badly slated (7)
+28 Mr AZ, I, terribly learned fellow (5)
+31 Uncle, me? I'm there somewhere (3)
+32 Lips, losing first bit, wrapping round drink (3)
+34 Denoting position of Astatine (2)
+You too can stand on the threshold of the world,
+travel free and enjoy (?) free meals as well as
+earning £2.66 an hour with IC Football Club as a
+qualified referee.
+The Club hope to run six, two hour weekly sessions
+in the spring term, at the end of which you can
+qualify as a class 3 referee.
+Anyone interested, please contact either:
+Paul Archer, Mech Eng 3
+Steve Veats, Physics PG
+Kevan Reeve, Chem 3
+The Rector
+and Lady Flowers
+wish everyone
+a Happy Christmas
+and Good Luck in 1980.
+7
+

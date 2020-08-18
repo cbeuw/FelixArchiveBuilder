@@ -1,0 +1,187 @@
+ISSUE 1700
+FELIX
+37
+PUZZLES fsudoku@imperial.ac.uk
+FUCWIT
+Send a picture of your solutions
+to fsudoku@imperial.ac.uk before
+Wednesday midday to take part in
+the leaderboard!
+Points Available
+Crossword 5
+Word Pyramid 4
+Sudoku 2
+Minesweeper 4
+TOTAL 15
+Leaderboard
+Luncheon Pals 18
+Maxiane 18
+Sudok-urself 14
+Ed, Edd & Eddie 13
+Cat Ladies 13
+Wilson Kitchen 76 9
+CHZYNo.1InMy<3 7
+Last week’s solutions
+CROSSWORD
+Across
+1. Spectacles (7)
+5. Foot gloves (5)
+8. A very focused beam of light (5)
+9. Show, expose (7)
+10. Possess (3)
+11. Compliance, respect (9)
+12. At an angle (6)
+14. The 11th finally made the landing (6)
+18. Finds it hard to sleep (9)
+20. Welcoming door rug (3)
+21. Tall monument (7)
+22. Sweet, almost sickly, treat (5)
+23. Extract metal from its ore (5)
+24. Base ten (7)
+Down
+1. Where people get hanged (7)
+2. Criminal fire-starting (5)
+3. This Dickens character had some trouble
+with verb tenses (7)
+4. Largest city in Oceania (6)
+5. Japanese rice delicacy (5)
+6. A high-ranking officer (7)
+7. Classy things never go out of it (5)
+13. Offensive and immoral (7)
+15. Between America and Asia (7)
+16. Common breakfast food (7)
+17. Sick! (6)
+18. Lots of these on your desktop (5)
+19. Slightly damp (5)
+20. Mrs (5)
+SUDOKU
+Fill all the boxes with a number between 1 and 9.
+A number can only appear once in a row/colum,
+and only once in each 3-by-3 square.
+      
+ 
+    
+
+  
+ 
+ 
+WORD PYRAMID
+Each row is an anagram of the previous, plus or minus one letter.
+Clues, from top to bottom:
+The note before Re (2) – A long stick (3) – Street (4) –The predecessor
+of TVs and iPods (5) – Greek modal musical scale (6) – Better than
+iOS (7) – Confirmed priest (8) – Emptied of water (7) – Foraged (6) –
+Broadcasted (5) – Desperate... straits (4) –Freed from (3) – Infrared (2)
+
+
+    
+ 
+  
+   
+  
+ 
+  
+    
+   
+ 
+   
+  
+  
+ 
+ 
+ 
+  
+ 
+   
+MINESWEEPER
+The number in a cell represents the number of
+mines adjacent to that square (up/down, left/
+right, diagonal). Find and mark all of the mines to
+clear the board.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+

@@ -1,0 +1,244 @@
+TECHNOLOGY
+Technology Editor: Jason Parmar
+Maximilian Eggl
+technology.felix@imperial.ac.uk
+Microsoft going hard?
+Jason Parmar looks at Microsoft’s new philosophy: go hard and soft
+FRIDAY 01 FEBRUARY 45
+The News Bubble
+General news from around the tech world, so you can keep up to date
+with the newest, weirdest and most futuristic things around.
+128GB iPad
+Yes, Apple finally has released a tablet with some REAL memory stor-
+age. Costing you around £750, it should only really be considered by
+the Apple obsessed or by those with serious amounts of data.
+Twitter Porn
+Six second porn clips were added to Twitter, via the app Vine. Invari-
+ably something quite explicit appeared in everyone’s vine feed, due to
+it being an editor’s pick. The hashtag “dildoplay” became quite popu-
+lar on Twitter, but the video was almost instantly removed.
+The Graphene Flagship
+The EU has recently released its science funding, and announced it
+would give a budget of 1bn euros to the University of Cambridge who
+are working with Nokia to bring graphene to everyday electronics.
+Bendy phones like Nokia’s Morph may be more than just a concept!
+Office 365 (2013)
+Microsoft has launched a new iteration of Office, redesigning it to
+utilise touch screen based controls as well as Skype’s video chat. There
+are also several other features, which can be added via the app store.
+There is a one time purchase for £110 (will be cheaper for students) or
+a subscription model for £80 pounds per annum, which includes 60
+minutes of Skype calling as well as more Skydrive storage.
+Blackberry 10
+After their market share collapsed from 19% in 2010 to 4% Blackberry
+released their long awaited make-or-break operating system. The Z10
+and Q10 are the flagship devices, the former making its world debut in
+the UK. Blackberry’s shares fell more than 6% after the launch.
+Max Eggl and Jason Parmar Tech Editors
+t’s not unfair to call Microsoft
+a reactive company, i.e. they
+follow trends and build on
+others innovations, it’s in their
+history.
+Excel was an improved spreadsheet
+of existing VisiCalc, Word was an
+improved word processor of existing
+MicroPro and Internet Explorer was
+an improved web browser of existing
+NCSA Mosaic. Even Microsoft’s ﬁrst
+big commercial success in the mass
+market, MS-DOS was built on, like
+Apple, the investment in GUI that
+Xerox developed.
+Microsoft have continued to be re-
+active to this day and have a reputation
+for successfully recognising growth
+markets, acquiring ﬁrms and devel-
+oping products more successful than
+many of their competitors (with a few
+exceptions).
+Xbox 360, for example, announced
+they’ve shipped over 70 million units
+in October 2012, not bad for a com-
+pany who only entered the console
+market in 2001.
+Over the last 30 years Microsoft
+have well and truly demonstrated that
+there’s nothing wrong with being a
+reactive or a “following” company, as
+long as you do it well. heir reactive
+strategies have earned them the hon-
+our to be one of very few companies in
+the world to have over a billion users
+worldwide and is why they still are one
+of the top 10 companies in the world.
+So why are they so interesting now?
+What’s changed?
+Well, we are currently seeing the
+most radical change in the Redmond
+based company’s history. hey’ve fun-
+damentally changed what they com-
+panies message to world is, released
+radical new products and have metic-
+ulously integrated all their services, all
+within the last 12 months.
+And the reason? Well it has some-
+thing to do with the fact that Micro-
+soft are reacting to what they believe is
+a fundamental shift in the market and
+computing demands.
+he world has moved on from
+Bill Gates’ famous BHAG to have “a
+computer on every desk and in every
+home”. hat goal has mostly been
+achieved in the western world today,
+and technology, never standing still,
+appears to be inching ever closer to
+the “post-PC era”. Just this month it
+was announced that worldwide PC
+sales were down 5% compared with
+year and most believe that the down-
+ward trend will continue at an increas-
+ingly rapid pace.
+But it’s not like Microsoft never pre-
+pared for the death of the PC. In 2002
+Bill Gates released the tablet PC think-
+ing it would change the world and be
+the future, but it failed spectacularly.
+here’s lots of cited reasons for the
+failure, e.g. primitive software, but
+the real reason is that Microsoft just
+isn’t like their Cupertino rivals Ap-
+ple, they’re not a proactive company,
+they’re reactive.
+Microsoft therefore needed some-
+one else to create a new growth mar-
+ket, a market they could build upon for
+the future success of their company. So
+in steps the world’s best marketer and
+innovator, Apple CEO, Steve Jobs. In
+2010 he released the iPad and claimed
+it would “change the world”. Change
+the world it did, the world went into
+a frenzy for the product, growing the
+tablet market by 250% in 2011 and in-
+creasing current sales projections to
+165.9m this year alone.
+It’s this market demand that kicked
+Microsoft the most and it’s the one
+they have reacted to the strongest.
+But choosing to distinguish them-
+selves from their wealthier rivals, they
+haven’t gone directly into the “tab-
+let” market and have instead claimed
+they are creating their own innovative
+market, the “hybrid” market. Regard-
+less if the two market are the same or
+diﬀerent, Microsoft appear 100% sure
+that it will be the future for comput-
+ing devices and have attacked all guns
+blazing.
+we are cur-
+rently seeing
+the most rad-
+ical change in
+the Redmond
+based com-
+pany’s history
+And by all guns blazing, I basically
+mean Microsoft went HARD. Not
+only did they not even contemplate
+going home, but they literally went
+hard by releasing their ﬁrst piece of
+real hardware.
+In this last six months alone Micro-
+soft released: new hardware hybrids
+with the Surface RT & Surface Pro,
+a radical new operating system with
+Windows 8, an increasingly popular
+and innovative mobile operating sys-
+tem with Windows Phone 8, a com-
+pletely overhauled cloud and subscrip-
+tion based Oﬃce Suite with Oﬃce
+365, a “seamlessly integrated” cloud
+based storage service with SkyDrive
+and to tie it all together they not only
+integrated the functions of all of their
+services but they completely rebrand-
+ed the entire companies products and
+publicity material with new logos,
+websites and design templates.
+With a new Xbox 720 on the horizon
+and Microsoft’s Bing search grabbing
+market share oﬀ Google every day, it’s
+no wonder people are calling this Mi-
+crosoft’s biggest change ever, they’re
+going hard.
+But perhaps one of the most inter-
+esting emerging news topics about
+Microsoft going hard is their ru-
+moured investment of $3bn into soon-
+to-be private Dell. It’s incredibly rare
+for Microsoft to tap into their $67bn
+cash reserve so chances are Microsoft
+are thinking seriously about going into
+hardware. his makes sense for Micro-
+soft, as CEO Steve Ballmer repeatedly
+stated at the launch of the Microsoft
+Surface that they believed that success
+relied on the strength of hardware and
+software working together. So it’s pos-
+sible that in the near future Microsoft
+may no longer just be a software com-
+pany and may actually become, much
+like Apple, a “device company”, eﬀec-
+tively going from Microsoft to ‘Micro-
+hardandsoft’.
+So although Microsoft’s proﬁts are
+down 4% on last year, it’s evident that
+they aren’t standing still. In keeping
+with their reactive follower history,
+Microsoft have gone all in for what
+they think is the future of computing.
+hey’ve bet almost everything on the
+uptake of their new operating systems
+and the success of the tablet/hybrid
+market. It’s a bold move and only time
+will tell if they can successfully win
+over business and consumers. But
+with the “post-PC era” drawing ever
+closer, a radical change was needed. I
+for one think Microsoft have reacted
+well, they’ve stepped up and have gone
+hard.
+Too Long, Didn’t Read
+Microsoft are going so hard that
+home is just a ﬁctional concept.
+hey’ve radically changed their fun-
+damental strategy by mixing hard-
+ware with software across all plat-
+forms (phones, tablets/hybrids and
+desktops) and they’ve released bare
+new products including Windows 8,
+Windows Phone 8, Oﬃce 365 and
+Surface in the last 6 months.
+hey’re investing everything into
+the success of the hybrid market,
+their new software and their new
+hardware. his is all in the hope that
+consumers and business will contin-
+ue to love them forever, or continue
+to grudgingly accept them.
+So not only are they going hard
+from a “were releasing loads of new
+stuﬀ” POV but their actually going
+hard into hardware with Surface,
+Xbox and a potential acquisition of
+Dell. If it all goes ahead maybe they’ll
+need to rebrand again, from Micro-
+soft to MicroSofthenHard (but
+perhaps that’s too much of a double
+entendre).
+I
+Microsoft’s rebranding was too badass for an Obama “cool story bro”
+

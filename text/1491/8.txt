@@ -1,0 +1,164 @@
+FELIX
+8
+Tips & Hacks
+TECHNOLOGY
+Technology Editor: Feroz Salam
+technology.felix@imperial.ac.uk
+Friday 03 june 2011
+O2 has best mobile broadband
+says Ofcom
+Looking to switch mobile connections and can’t go
+without a regular dose of Facebook and Twitter? Of-
+com’s latest report would suggest that you head to
+your nearest O2
+store. The company came out on top
+in a study of major mobile providers in the UK, load-
+ing pages faster than any of 3, Vodafone, Orange
+or T-Mobile. The latter two, part of the ‘Everything
+Everywhere’ partnership, performed the worst in the
+study with speeds that were roughly half that of O2
+.
+The research might not mean much in London how-
+ever, as it was carried out throughout the UK – even
+‘in the M62 corridor between Manchester and Liver-
+pool’, where it is safe to assume there are few Im-
+perial students during term time. With smartphone
+uptake on the rise throughout the UK, O2
+might just
+be as ‘better, connected’ as they claim.
+Skype users might want to keep an eye out when in-
+stalling updates on their system after users noticed
+that the application was attempting to foist software
+from another company on them. Skype was found
+requesting access to an application called ‘easybits-
+go.exe’, produced by EasyBits, a company specialis-
+ing in game apps. While not essentially malware, the
+software was pushed to user computers without their
+permission. Skype then confirmed that the program
+‘neither installs nor un-installs correctly’, a remark-
+able feat in this modern age. The update has been
+disabled so there’s no need to worry about picking it
+up now, but if you unquestioningly accepted a third-
+party update request on Windows over the past few
+days you may want to double-check your system. A
+helpful guide on locating and removing the software
+can be found at http://bit.ly/m31XqC
+Skype pushes unwanted software
+to users
+While Android and iOS have become increas-
+ingly popular and must-have platforms, Sam-
+sung has an alternative to suggest: the Bada
+ecosystem. In June 2010, Bada-based Sam-
+sung Apps were launched in 118 countries,
+with over a hundred million downloads and
+more than 13,000 applications available by
+March 2011.
+Based on these facts, Dr. Manfred Borten-
+schlager, Engineering Manager of Samsung
+Electronics, noted in a lecture given at the
+Department of Computing on the 23th of May
+that “Bada is one of the fastest growing eco-
+systems. It can be seen as a threat or as an op-
+portunity that needs to be taken into account”.
+The vision behind Bada is a “Smartphone
+for Everyone”; its main goal is to extend the
+smartphone market by providing a lower-price
+segment for smartphones. In other words, Ba-
+da’s mission is not to compete with other exist-
+ing smartphone platforms but turn Samsung’s
+conventional customers into smartphone users
+by providing cost-effective smartphones.
+Bada’s feature-rich technical platform is
+composed of various services abstracted into
+four layers to simplify things, starting from the
+kernel (or nucleus) in the lower level and fi-
+nally reaching the framework layer which the
+developer uses directly. Developers need not
+fully understand the lower levels, but can sim-
+ply take advantage of the available services in
+the framework layer.
+Specifically, there is support for 3D graph-
+ics, multi-touch and various sensors, which
+should enable you to create exciting and ad-
+venturous games.
+You are also given direct access to external
+social networks, such as Facebook and Twit-
+ter, as well as the opportunity to enable com-
+mercial transactions in applications, such as
+trading game items and selling music, so de-
+velopers can provide free applications that are
+profitable by internal sales.
+The best place to get started with your devel-
+opment is the Bada Developer site. There you
+can find anything you need to start developing
+apps almost for free, including online lectures,
+sample code and useful blogs. A useful de-
+velopment guide is the ‘Introduction to Bada’
+book, available to download free of charge on
+their website. It contains various recipes (code
+segments) you can learn from and then extend
+if you wish.
+Everyone interested in application develop-
+ment is encouraged by Samsung to share their
+ideas and implementation skills. As part of
+their ‘Device Loan Program’ if you are able to
+sell your app idea to them, they promise to pro-
+vide you with a Bada device to develop it on.
+In addition, the Bada Student Developer
+Challenge which kicks off in September 2011,
+gives you the chance to promote any cool app
+ideas you might have, competing with the best
+student coders of 10 leading universities in a
+48-hour codeathon. All qualifying applications
+resulting from the competition will be awarded
+with free promotion on the Samsung App Store
+plus a Bada phone.
+Dr. Manfred also pointed out that everyone
+who works on an application can make money
+from it by directly selling it, providing adver-
+tisements through it or by selling virtual goods
+using it.
+This is not only for money though; it will be
+a unique experience that will look wonderful
+on a CV and of course will give you fame if
+you win!
+Bada: make things happen!
+Are you IPv6
+ready yet?
+On 8th June the college will participate in the
+‘World IPv6 Day’ event.
+This is a twenty-four hour global test win-
+dow organised by the Internet Society to assist
+with preparation for the impending exhaustion
+of the world’s available IP addresses – the net-
+work addresses used by computers and other
+devices for communication over the internet.
+The solution to the address problem is the
+IPv6 network protocol which will gradually
+replace IP. On the day participants will create
+conditions that expose internet users to IPv6
+on a larger scale than ever before. This will
+be done by publishing IPv6 addresses for web
+servers alongside their existing IP addresses.
+Along with the likes of Google, Facebook,
+Anastasia Eleftheriou
+Yahoo and many universities, Imperial will do
+this for several of its websites.
+The aim of the exercise is to reveal problems
+that may occur as IPv6 is increasingly used in
+earnest, and also motivate internet infrastruc-
+ture vendors to make their products ‘future
+ready’. In the run-up to 8th June, Imperial ICT
+will make relevant information available at:
+http://www.imperial.ac.uk/ict/ipv6day
+There you can read about how you might
+be affected on the day, the problems that may
+occur and how to make a very simple test in
+advance to see if you are likely to encounter
+any issues.
+Imperial College is
+taking part in IPv6
+‘test-flight’; make sure
+you aren’t left behind
+Develop with Samsung to make those app ideas a reality
+

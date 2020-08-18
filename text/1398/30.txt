@@ -1,0 +1,259 @@
+The winner of Slitherlink 1,397 was
+Hringur Gretarsson again. Congrat-
+ulations-of-ultimate-super-win to
+you! Pat yourself on the back and get
+on with this week’s now. We’ll give a
+prize out in the summer. The more
+entries, the better your chances.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+sudoku.felix@imperial.ac.uk
+31
+Friday 29 February 2008 felix
+Fun & Games
+Slitherlink 1,398
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,397 solution
+3
+0
+x
+x
+x
+x
+3
+1
+2
+3
+2
+1
+www.tevong.co.uk
+Adlib by Tevong You
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“Let’s punch the IB guy!”
+“Gilbert Dougherty is a ldnt break-
+ing irishman. He hath suckled the
+nipples of a cow. Spank him in
+punishment! LV JT X X”
+“Do you know you can win 50 cof-
+fees or half a kilo of chocolate on
+www.imperialfairtrade.org?”
+“Hi from Orange. Remember, to
+receive your ‘bonus top-up’ each
+month just top-up by 10 pounds or
+more a month”
+“I hope you realise that if you
+make the stick ‘Felix’ carries a bit
+thicker/longer, u have an anti-Felix
+logo! Who designed it again?”
+Wordoku 1,398
+U
+M
+F
+I
+A
+E
+L
+N
+T
+T
+L
+E
+M
+F
+N
+U
+I
+A
+N
+I
+A
+T
+L
+U
+F
+M
+E
+I
+A
+T
+U
+M
+F
+E
+L
+N
+L
+E
+N
+A
+I
+T
+M
+F
+U
+M
+F
+U
+N
+E
+L
+T
+A
+I
+E
+U
+M
+F
+N
+I
+A
+T
+L
+A
+N
+L
+E
+T
+M
+I
+U
+F
+F
+T
+I
+L
+U
+A
+N
+E
+M
+1,397 Solution
+I
+C
+E
+P
+N
+O
+T
+O
+C
+R
+S
+R
+N
+O
+O
+R
+N
+T
+C
+S
+C
+P
+T
+S
+N
+O
+O
+S
+C
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters.Onceyou’vecompletedthe
+puzzle, there is a hidden phrase to
+find. Email answers to sudoku.
+felix@imperial.ac.uk.
+The winner of Wordoku 1,397
+was Flavio Don Iilyanage. Good
+work. The hidden phrase was:
+FULMINATE. Keep those entries
+coming in.
+2
+3
+0
+1
+3
+3 3 3
+1 3 2 3
+2 2 3 2 1 2 2 2
+3 3 1 2
+2 1 1 2 2
+2 3
+2
+1 1
+2
+2
+3 1 3 2
+3
+2 2 2
+2
+2
+2
+2
+2
+2
+3
+3 1
+3 1
+0
+3
+1
+0
+3
+2
+2
+2
+0 3
+1
+3
+2
+1
+3
+1
+3
+2
+2
+2
+3 2 2
+

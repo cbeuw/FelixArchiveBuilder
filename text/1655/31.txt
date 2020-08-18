@@ -1,0 +1,272 @@
+40 felixonline.co.uk/puzzles puzzles.felix@ic.ac.uk Friday 3 February 2017
+felix P U Z Z L E S
+Nonogram. The numbers show, in order, the length of
+blocks to be filled along that row/column. Each block must
+be separated by at least one empty cell.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   
+
+
+
+
+
+
+
+
+    
+  
+  
+  
+  
+   
+  
+        
+      
+   
+Slitherlink. Draw a single, continuous loop through
+adjacent points such that the number in each cell has that
+many borders filled. Each point should be connected to two
+or no other points.
+Send in your solutions to fsudoku@imperial.ac.uk before
+midday Wednesday to get your score added to our
+leaderboard. Make sure you include the name/team name
+that you’d like us to use!
+Across
+1. Thinly scattered (6)
+4. Each one (6)
+8. Precise (5)
+9. Side by side (7)
+10. News (7)
+11. Sheep noise (5)
+12. Remiss (9)
+17. Reside (5)
+19. Circus performer (7)
+21. Draw back (7)
+22. Hit (5)
+23. Scarcity (6)
+24. Card game for four
+players (6)
+Down
+1. Afternoon rest (6)
+2. Forsake (7)
+3. Lucifer (5)
+5. Short moral story (7)
+6. Wipe out (5)
+7. Extensive landed property
+(6)
+9. Attacker (9)
+13. Chivalrous, dashing (7)
+14. Size of popular
+newspaper (7)
+15. Revered (6)
+16. A sculptor’s work (6)
+18. Minor actor in crowd
+scenes (5)
+20. Happen again (5)
+      
+ 
+  
+ 
+   
+ 
+ 
+FUCWIT
+Leaderboard
+The Czechmates 248
+Anonymous		 247
+NSNO		 241
+Willie Rush		 241
+SchrödingersCatStrikesBack 228
+Sneezing Pandas 179
+Les Nuls		 138
+Guinea Pigs 134
+The Gravitons		 112
+CEP MSC		 105
+TIA			 104
+Grilled Cheese Inc.		 83
+Kenny Wangler, Cunnyfangler 65
+Yellow Fever			65
+Puzzled				
+62
+The Anti-Gravity Acorns 57
+THE Crystallographer			50
+Chemical Brethren		 49
+RollEEEr 				
+40
+Beasts				39
+The Ultimate Fucwit		 38
+Big Mahmoud				
+36
+DQ				30
+The Couple on the Train 26
+Grand Day in Cullercoats 25
+Civeng Eating			24
+Lube Lords			23
+Christo, Jay and Erkin		 21
+Banananana				
+20
+The Mystical Spankyman 20
+Les Baguettes 			 18
+Salmon ft. Kanye		 18
+Poulet				15
+Hillary Killed Harambe 14
+Computer Magic		 12
+Pseudo-coup			12
+Shusie-Q				
+12
+G. Hackman				
+10
+Tessa and Simran		 9
+Pollux				 7
+Dairylea Dunkers		 6
+Too gay 2 f(x)			 6
+Crosswordy McCrosswordface		 5
+Singed Potato			 4
+TP-LINK_M5_B057AD		 4
+Fanny Schmeller 2
+Points Available		 21
+Crossword			 6
+Slitherlink			 3
+Chess				 6
+Nonogram			 3
+Sudoku			 3
+Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+ 
+  
+    
+     
+   
+
+ 
+
+
+ 
+     
+  
+
+
+
+
+
+   
+Forced checkmate in 3 moves (left) and 5 moves
+(right). White to move first in both problems.
+

@@ -1,0 +1,221 @@
+KPE 333
+And in this column, ladies and
+gentlemen, we have the slightly aged
+chairman of A.C.C. Fantastic?
+Well, not really. Randal i s a very
+diverse character, as any thumbologist
+will t e l l you immediately from the
+photograph of his thumb which appears
+above. His early history illustrates
+this diversity. Born in England in
+'34, he lived in New Zealand until
+1940. From 1943 to 1952 he was at
+Christ's Hospital (School!).
+After which he did an apprentice-
+ship with Ford's where he learnt a
+great deal about cars and a l i t t l e about
+women. He then did his National
+Service, obtained a Commission and went
+to Singapore with R.E.M.E. During
+his stay, he spent three weeks playing
+rugby in Japan in a combined service
+tour (where he learnt a l i t t l e more
+about women). he then abandoned the
+orient and came to Guilds. (Whew!) His
+ability to run in a determined fashion
+whilst carrying the l i t t l e leather
+ball, gained him a place in the I.C.
+1st Rugby team of which he was Captain
+in his 2nd Year. He i s of a phil-
+osophic turn of mind, having lived
+next door to Sydney Lenssen for two
+years. Despite this mishap he i s
+remarkably sane and balanced in out-
+look. He hopes to get a degree this
+year and build a new oar. He s t i l l
+plays rugger and finds time to keep
+the A.C.C. i n order, a no mean thing.
+There i s no information to hand
+about his present contacts with the
+f a i r sex, except that such contacts
+are known to exist. The remainder
+of this profile has been censored.
+F E L I X
+HOROLOGY
+HOW T O PLAY CHESSE
+Chesse i s a very interesting game
+and oan be played by simply anyone (or
+anyone simple). There are two par-
+ticiples, one having White peace-
+types and the other having Black peace-
+types. White has nominally the
+f i r s t movement, and then they move in
+A.C. fashion.
+The game i s played on a squared
+board of sixty four sauarelets by
+eight, which are alternatively black-
+white-black etc. or white-black-white,
+depending on the choice of coordinates.
+There are two blasting directions,
+i.e. x and y hatchets. The ox hatchet
+is concerned with the ranks or side-
+ways horizontals (horizons), whereas
+Introduction:
+On consultation of the possibil-
+ity of buying a watch,this body decided
+to investigate analytically the claim of
+a well-known firm of horologists that
+their timepiece made the journey from
+King's Cross to Edinburgh attached to
+the piston-rod of the Flying Scotsman,
+without detriment to itself or apparent
+harm to the engine attached thereto.
+Assumptions:
+(1) Speed of express train (by definition)
+y a 60 mph.
+(2) Diameter of Driving Wheel a 2yds.
+(as for Charles I).
+(3) Piston Stroke = 26" (Machine Drawing
+and Design by W. Abbot, p. 87, pub.
+Blackie & Sons Ltd., London and Glas-
+gow, 10/6d.) « 2r.
+(4) That the length of the connecting
+rod i s long compared to that of the
+crank.
+(5) That i f and when you drop your watch
+you drop i t through a height of
+3 f t . , and that as a result i f i t
+buries itself in the floor to a depth
+of 0.01".
+Calculations:
+Speed of train = 60 mph a 88 ft/seo.
+.
+'
+. Angular Velocity of Driving sheels
+^ x 2 X
+= 6X
+= 4
+p radians/sec.
+.
+*
+. Max. aocel"" of piston = tt'r
+= f * x
+u = 931 ft/sec
+"
+- 29g.
+If D ft/seo. is velocity of watch on
+being dropped from a height of 3 f t . , at
+the instant before i t touches the
+ground,
+UX
+a 2 x g x 3 » 187.2
+.
+*
+, U a 13.67 ft/sec.
+and i f A ft/aeo i s the deceleration
+applied to the watch to bring i t to a
+stop in 0.01",
+.
+'
+. A » - 112,320 f t/seo
+= - 3,490g.
+Conclusions:
+Thus i t can be seen that whilst
+the test oh the Flying Scotsman subjects
+the watch to acceleration and deceler-
+ation equal to 29g., the dropping of a
+watch onto a f a i r l y soft floor subjects
+the poor beast to a deceleration of
+3,490g., i.e. 120 times as great, and
+demonstrates the complete worthlessness
+of the test as far as the watch i s con-
+cerned, iih&t effect i t had on the care-
+fully balanced reciprocating parts of
+the locomotive we have been unable to
+ascertain.
+A Cuckoo Clock was finally
+purchased.
+the oyez hatchet i s to do with files
+(fern, f i l l i e s ) , which are up and down
+vertioules. There are also the
+diatherms, mathematically expressed as
+x a y + c, these are vertical and hori-
+zontal diagogonals whioh cover square-
+lets of the same calibre.
+Diddle-criptione' of peace-type3
+Prawn (fern, pawnee) This is the basic
+unit of peace-time and oan move upwards
+on the y-axis only, at the rate of one
+squarelet per move. However, when
+i t starts out, i t has the chance of a
+single a double (or perhaps redouble)
+squarelet jumps.
+Knight (fern, knightie) This i s easily
+recognised by its hearses' head (hence
+- 'the bead of Knight') It i s the only
+peace that can huff i.e. jump over other
+peaces. Its movement consists of one
+vertioule and two horizons and viva-
+Bishopric (fem. bushel and peck) This
+peaoe i s indispensible, but can only
+move on the diatherms. It i s a very
+useful mating piece.
+Queenebeeste (no. masculine). This
+peace is the most powerful one of a l l ,
+having combined movements of bishopric
+and rook. It i s therefore the peace de
+resistance.
+King-Kong (no. fem. ) This i s the most
+important peace of a l l and had only one
+squarelet per move (see motive).
+Rook {tern, rookie) also oastle.
+This peace moves up and down the ranks
+and files (i.e. agitates), cf tank.
+The arrangement of the peaces
+starting cm the white squarelet on the
+first rank, R.H.S. to L.H.S., are as
+follows. KRKNKBKKQB^BgNQR and then
+on the second rank:- PPPPPPPP.
+Motive
+The idea of the game i s to chase
+other King-Kong (King-fish) until he
+oannot move without you taking him.
+This cursory when attacking opposite
+King-Kong to say 'checkee', chuckee,
+clucky, whoopee, f — ., and wakey-
+wakey. When someone i s mated (i.e.
+sponded), the player can say chucky
+and matey (tough, rough, and over-ruff)
+- Winner exit3 with bish up nosh.
+How to Caption
+One can take (caption) opposing
+peace type i f own peace-types controlley
+same squarelet. Not that a prawn has
+a single squarelet diagonal intake.
+Very difficult moves (for experts only)
+1) Chastising ( 0 - 0 , 0-0-H, C=0-0,ct^j)
+This i s a combined effort of King-
+Kong and rook. King-Kong moves two
+3quare3to right or left, and the rook
+leaps over him and plunges onto adjacent
+squarelet to his majesty. The follow-
+ing rules apply (l) no indisposed peaces,
+(2) King-Kong must be static, (3) King-
+Kong must not be a Czech.
+2) tfueening a pawn
+This i s the perfect joy for be-
+gogonals. The prawn i s sent
+willy-nilly down a f i l e , until i t
+reaches the eighth rank. Hare i t
+can become another chosen peace-
+type, usually a ^ueenebeeste
+(whoopee) to the disconcemation of the
+aenemone. We shall omit the en-
+parsant which i s too fresh anyway.
+Books
+Chest for Beginners - Sabrina
+The Mating Game - Lettuce Duet
+The Resigning Years - Hyram Beeton
+My Flighty Knighte - A Chestnut
+My Beloved Mater - A Chestnit.
+

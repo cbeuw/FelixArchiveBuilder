@@ -1,0 +1,345 @@
+29
+felix FRIDAY 23 OCTOBER 2009
+technology.felix@imperial.ac.uk TECHNOLOGY
+BenSmith
+BenSmith felix Photographer
+Who cares about 3-D?
+I want a 1D MkVI
+This week, Canon announced their
+new flagship DSLR, an update to the
+infamous 1D, the EOS-1D Mark IV.
+Sporting a 16.1MP APS-H CMOS
+sensor (a departure from the previous
+1D’s full frame) capable of 10fps and
+backed up with the latest Dual DIGIC
+4 processing engines. Canon is aim-
+ing its latest and greatest squarely at
+the demanding sport, journalism and
+paparazzi (aka the professional stalker
+market).
+Headline features include a whop-
+ping ISO 102,400 (making stalking
+possible in complete darkness), Full
+HD 1080p movie mode (so you can
+capture your victim’s movements in
+crystal clear HD), 100% frame cover-
+age (a feature shared by the new EOS-
+7D) and a new 45-point TTL autofo-
+cus. The package is as with all previous
+1Ds, encased in Canon’s pro-standard
+rubber-sealed magnesium alloy body,
+which means it can take a knock or two
+and won’t crumple into a mess when
+it gets knocked out of your hands by
+some pissed off celebrity/footballer/
+ex-girlfriend.
+Building on the 1D’s three previous
+iterations (and their s and N variants),
+Canon have listened to the cries of
+the pro photographer. The result is a
+the new AF system (with 39 of the 45
+points being cross type at f/2.8), full
+feature customization, the ability to
+add copyright data to images straight
+out of the camera and Canon’s new
+spot AF feature – a precise pinpoint
+focus mechanism.
+Following the 1D’s generational slim-
+ming program the Mk IV weighs in at
+a svelte 1.1kg, which compared to the
+Mk I at 1.6kg is a marked improve-
+ment. The 1D Mk VI also bests its cur-
+rent competition from Nikon, the flag-
+ship D3s, which weighs 1.2kg. Canon
+has also made some subtle ergonomic
+changes which should improve an al-
+ready excellent grip with the proven
+‘elephant’s arse effect’ texture cover-
+ing the main portion of the vertical
+and horizontal grips making even the
+sweatiest palms stick to it like glue.
+From an aesthetic point of view the
+only thing that could be a miss is the
+fact that without the rather small ‘Mark
+IV’ text you’d struggle to tell it apart
+from the Mk III, but in this photog-
+rapher’s opinion that’s not such a bad
+thing. An interesting feature is the abil-
+ity to configure the Autofocus points
+separately for landscape and portrait
+orientations allowing for super-fast
+framing switching, which should cater
+well to those suffering from paranoid
+composure indecisiveness.
+In line with most other recent
+DSLRs, the Mk IV supports full HD
+1080p recording at 30, 25 and cinemat-
+ic 24fps along with 720p at 60 and 50
+fps. As we’ve seen in the past HD video
+shot with the kind of quality lens that’s
+often attached to a DSLR really stands
+out from even the better consumer
+HD video cameras. Canon have also
+given the user full manual exposure
+whilst video recording meaning that
+the 1D moves still cameras one step
+closer to offering a serious challenge
+to dedicated pro video cameras. The
+lack of proper autofocus during re-
+cording however means that amateurs
+will stuggle (and fill YouTube with vid-
+eos of out-of-focus pets in a matter
+of days), but in the hands of someone
+who knows what they’re doing you‘ll
+see some really fantastic video come
+out of a 1D and it certainly 1-ups the
+Nikon D3s.
+So if you’ve got a spare four and a
+half grand for the body only (yes that’s
+£4500) and a passing interest in pho-
+tography or fancy yourself an amateur
+paparazzi, it might be worth checking
+this one out.
+Fancy some Nooky?
+This week has been a good week for
+eBook readers. Barnes & Noble, an
+American book store, has taken the
+fight to Amazon with it’s newly an-
+nounced nook eBook reader. Heralded
+as ‘the most advanced eBook reader’
+the nook sure does have some stand
+out features.
+First up it’s packing Android (yes,
+you heard right, Google’s open-source
+mobile operating system). Whether it’ll
+be able to run Android apps is however
+not known, but chances are that some
+enterprising hacker will put together
+something for it even if Barnes & Noble
+don’t.
+Secondly, it’s got two screens. The
+now standard 6” diagonal, 16-lev-
+el gray scale, E-ink display, is
+backed up rather unusually by
+a secondary colour touch-
+screen LCD below.
+The problem with
+eBook readers
+such as the
+Amazon
+Kin-
+dle and the
+Sony eReader have
+been that, quite frankly, their user
+interface sucks. The technology behind
+E-ink displays which produce high
+contrast and low power consumption
+also produce a tediously slow refresh
+rate. This means that anything mov-
+ing like a UI is frustrating to use on
+an E-ink display. That’s where Barnes
+& Noble hope the nook secondary ca-
+pacitive touchscreen comes in. Navi-
+gation, selection and all operations are
+in theory, a lot easier on a LCD touch-
+screen, even if it is just a small strip at
+the bottom.
+For storage the nook features 2Gb of
+memory built in, plus a microSD card
+slot for expansion, so there’s plenty of
+space for all your books. Competing
+directly with Amazon’s Kindle, the
+nook has GSM based 3G wireless for
+access to the Barnes & Noble book
+store for on the go book purchasing
+and downloads. WiFi is also available
+on the nook although it’ll be limited to
+only working in Barnes & Noble stores
+on launch. On the bright side Barnes
+& Noble will offer book browsing on
+the nook inside their brick and mortar
+stores ,via WiFi, that will allow you to
+‘stream the book’. This will give you ac-
+cess to the whole book as long as you
+stay in the confines of the store. It’s an
+attempt by to replicate the experience
+of browsing and buying paper books in
+brick and mortar book stores, some-
+thing that a lot of readers feel that’s
+sorely lacking with eBook readers.
+To further simulate the physical book
+experience, B&N have built in book
+‘lending’, a feature by which you can
+lend any LendMe branded book to an-
+other
+nook
+owning
+friend. It’s
+at the discre-
+tion of the pub-
+lisher whether this
+is enabled on a per
+book basis, but Barnes
+& Noble are pushing for as
+many books as possible to be
+part of the service.
+Battery life on the nook is rated at
+10 days of reading with the wireless off
+with a full charge reached in 3.5 hours.
+The nook also plays mp3s with a built
+in mono speaker or headphones jack.
+On the format front, the nook sup-
+ports various documents and image
+formats including ePub and PDFs. For
+a majority of people PDF support will
+be a boon especially for those looking
+to read text books or papers in digital
+format, something Amazon tried to
+capture with it’s Kindle DX.
+All in all the Barnes & Noble nook
+promises to be a major step forward in
+eBook reader usability and with a $259
+price tag it might even be affordable.
+Whether it will make it over to the UK is
+anyone’s guess, but with Amazon push-
+ing their ‘International’ Kindle in the run
+up to Christmas, it wouldn’t be too far
+fetched for the nook to follow suit.
+“UK placed 25th
+out of 66 countries
+for broadband”
+Broadband internet access to become human right for forward thinking Finns
+Last week, Finnish lawmakers passed
+a law that entitles all Finnish citizens
+to 1Mbps broadband. The law, which
+comes into force in July 2010, is part
+of a broader Finnish broadband policy
+that should eventually see 100 Mbps
+internet being a legal right by 2015.
+This comes at a time when a growing
+number of mainland European coun-
+tries have begun classifying internet
+access as a human right, meaning that
+it is the responsibility of each country’s
+government to provide internet access
+to all it’s citizens. The situation in the
+United Kingdom, however, is rather
+dire.
+As Imperial students, we are used
+to exceptionally fast internet by UK
+standards. On a wireless network in
+the library, you can get speeds up to 20
+Mbps. A wired connection in residenc-
+es on the South Kensington campus
+reaches speeds of ~95Mbps. Yet the
+situation just a block away from cam-
+pus is very different. A recent survey
+of global broadband quality placed the
+UK 25th out of 66 countries surveyed
+with UK broadband qualified as ‘meet-
+ing the needs for today’ and nothing
+more. South Korea, the leader in the
+survey, along with other Far East Asian
+and Scandinavian countries, is already
+promising all it’s citizens 1 Gbps inter-
+net by 2012. The Digital Britain Report
+2009, presented to Parliament, only
+aims to achieve 2 Mbps countrywide
+internet by 2012, 500 times slower
+than Korea and 50 times slower than
+what Finland is aiming for only three
+years later.
+Broadband accessibility isn’t just
+about speeds, however. Basic modern
+internet delivery infrastructure hasn’t
+been created yet in the UK. Apart from
+Virgin who are pioneering their opti-
+cal fibre network, all truly futureproof
+broadband options in the UK are still
+under construction. The situation is
+set to improve in the near future, but
+there is a long way to go before we
+catch up to the likes of South Korea.
+profit margins depend upon quick in-
+formation transfer. The London stock
+exchange is planning a major systems
+overhaul to cut transaction times from
+2.7 ms to 0.4 ms, which is a good indi-
+cator of how important speed is with
+respect to technology. Positioning the
+UK as a leading country in terms of
+broadband proliferation could attract
+a sizeable amount of investment. Of
+course a useful by-product might be
+the next time you move, the wait for
+your broadband line might be a lit-
+tle less. I’m currently pinching my
+neighbour’s WiFi signal while I wait
+till BT decides to activate my home
+connection.
+Feroz Salam
+Feroz Salam Technology Reporter
+BT received the go-ahead for it’s new
+optical fibre network this March, the
+construction of which will only be
+completed in 2012. In the meanwhile,
+most of the UK remains connected us-
+ing traditional copper cable or 3G mo-
+bile networks.
+Fast and reliable internet access
+isn’t just an issue of how fast you can
+stream movies. Countries with good
+internet infrastructure have been able
+to sell themselves to investors whose
+“South Korea
+promising all
+citizens 1 Gbps
+internet by 2012 ”
+Britain lags behind in the connected
+world but will it effect the economy?
+y, g
+now standard 6” diagonal, 16-lev-
+el gray scale, E-ink display, is
+backed up rather unusually by
+a secondary colour touch-
+screen LCD below.
+.
+.
+The problem with
+eB
+e
+e
+e
+e
+e
+e
+e
+e
+e ook readers
+su
+s
+s ch as the
+e
+Amazon
+Kin-
+dle and the
+Sony eReader have
+y
+y
+y
+oth
+noo
+ownin
+friend.
+at the disc
+tion of the pu
+lisher whether t
+is enabled on a p
+book basis, but Barn
+& Noble are pushing for
+many books as possible to
+part of the service.
+Battery life on the nook is rated
+SamuelGibbs
+SamuelGibbs Technology Editor
+

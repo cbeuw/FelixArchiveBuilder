@@ -1,0 +1,150 @@
+Potato moon
+When communication with the Soviet Phobos 2
+spacecraft was lost 200km from its scheduled close
+encounter with its namesake, the Martian moon,
+Phobos, many assumed the mission had been a total
+failure. In reality, this is very far from the truth.
+Between its launch in July 1988, and its untimely
+demise,just short of the tiny Martian moon, in the
+following January, the spacecraft managed to
+complete a substantial fraction of its intended studies.
+In fact, much can be learnt about Phobos from the
+large number of pictures taken by the spacecraft as
+it manoeuvred towards this moon.
+British scientists became involved in the Phobos
+mission as a result of an agreement drawn up between
+the British National Space Centre and the Space
+Research Institute of the Soviet Academy of Sciences
+and signed by the Prime Minister during her Moscow
+visit in 1987. Three scientists were appointed to the
+project science team with interests in solar-planetary
+relations (Professor David Southwood at IC), planetary
+surface imaging (Dr John Guest of UCL) and active
+probing of the Phobos surface (Professor Grenville
+Turner at Manchester). Of the three, only Professor
+Turner has been completely disappointed.
+The Imperial College interest is centred on the outer
+ionized atmosphere of Mars; the Space and
+Atmospheric Physics group is involved in a variety of
+past and upcoming planetary space missions and the
+Soviet invitation to join in their Martian exploration
+fitted well with the group's overall programme of work
+in space plasma physics.
+Before January 1989 more was known about the
+upper atmosphere of the distant planet Uranus than
+was known about that of our neighbouring planet
+Mars. The Phobos spacecraft has radically changed
+this by providing the first properly instrumented orbital
+surveys, and very curious it turns out to be. Not a
+great deal was known about the ionized atmosphere
+of Mars because of a series of mishaps with both
+Soviet and US missions in the early seventies. The
+successful US Viking orbiter and lander mission in
+1976 carried only very crude instrumentation on the
+entry vehicle and could determine little.
+It left unanswered such critical questions as
+whether or not the planet has an internal magnetic
+field. The Earth's field creates a cavity within the solar
+w i n d - a stream of charged particles which
+continuously flows from the Sun. This results in direct
+access for solar particles to the atmosphere for a
+limited range of latitudes near the poles. On Earth this
+entry displays itself as the Aurora Borealis 'The
+Northern Lights'.
+No magnetometer was carried in orbit or taken to
+the planet surface by Viking. The presence of an
+internally generated magnetic field is, of course, a
+question of fundamental interest to all pi letary
+scientists, not just the space plasma physicists.
+Controversies over the presence or absence of an
+intrinsic planetary magnetic field have raged
+unchecked by the sobering presence of actual data
+for two decades.
+The first three Martian orbits by Phobos were highly
+elliptical, with a closest approach of 850km. It was
+hoped that such a close approach would be sufficient
+to detect the presence of any planetary internal dipole
+field. Subsequent analysis of gathered data indicated
+that Mars is unlikely to have such a magnetic field.
+The most dramatic results from the mission are
+probably the analyses of outflowing ions on the
+Image of the Martian moon, Phobos, obtained by the Soviet PHOBOS
+spacecraft. The object, which is likely to be originally from the asteroid
+belt, is irregularly shaped (technically known as potato-like) and cratered.
+Picture courtesy of Space Research Institute of Academy of Sciences of
+USSR.
+nightside of the planet. During the 26 circular (Phobos
+rendezvous) orbits at an altitude of about 6000km
+beams of ions which appear to be 0 +
+were detected
+flowing away from the planet. Similar flow rates are
+infact found leaving the earth above the auroral zones
+but what is remarkable in their discovery at Mars is
+the potential effect on the much more tenuous
+Martian atmosphere. Over the planet's surface a loss
+rate from the planet of the order of 2kg per second
+has been estimated, This is sufficient to remove the
+atmosphere in 100 million years, a long time, maybe,
+but short compared to the life of the solar system of
+4.5 billion years.
+The results have created great interest at Imperial
+where, with a substantial amount of luck, work was
+already well in hand in setting up a computer model
+that looks capable of explaining the distributions of
+material observed moving away from the planet. The
+model had been set up to model the extended
+cometary plasma environment encountered at Comet
+Halley by the Giotto probe and at Giacobini-Zinner by
+the NASA-ESA International Cometary Explorer
+spacecraft. Ironically, because of the extended nature
+of the environment, turbulence appears far more
+important in the comet environment than it is at Mars
+where scattering by turbulence does not seem to
+disrupt the underlying process.
+Orbit calculations and simple kinematic calculations
+show that the heavier planetary ionized material ends
+up behind the planet (on the nightside) moving out
+away from the Sun and the planet just as the Phobos
+instruments detected. At the time of writing it is still
+early days; rather complex detailed signatures are
+seen in the data and much comparison of data and
+theory is needed to see if the system is understood
+but the preliminary betting at Imperial is that the planet
+is indeed unmagnetised.
+If our first ideas are borne out, no other planet has
+an interaction quite like the Mars solar interaction.
+However, as we conclude that Mars, like Venus, has
+no internal magnetic field, it means that of the three
+terrestrial planets, Earth, Mars and Venus, in respect
+of internal magnetism, it is Earth that is the odd one
+out.
+Mars and its moons remain the highest priority for
+the Soviet space programme. An orbiting survey
+mission, Mars 94, will be launched in 1994. The moon
+Phobos remains a scientific target of immense
+interest; it seems to be a captured asteroid and likely
+to be made of pristine primitive material processed
+little since the formation of the solar system. In 1996,
+the latest plan schedules a probe to be launched to
+rendezvous with Phobos to return samples of Phobos
+soil to Earth orbit as a prelude to the eventual return
+of Martian material to Earth, early in the next century.
+The involvement with the Soviet space programme
+has come at a very exciting time in Soviet history; it
+has been possible on each trip to Moscow to see the
+changes resulting from Glasnost. The public
+discussion of the inadequacies and management
+failures that allowed the failure of the Phobos
+spacecraft are part of the relentless questioning of the
+system that has been opened up by the new spirit.
+, In fact, Space Science has led the way in opening up
+access and collaboration with foreign scientists; the
+Phobos mission involves scientists from more than a
+dozen countries. The Soviet planetary programme is
+to continue with a large foreign involvement and the
+British are very welcome to become more deeply
+involved in what is very much an international
+endeavour,albeit Soviet-led.
+Professor David Southwood, Imperial College.
+Page 7
+

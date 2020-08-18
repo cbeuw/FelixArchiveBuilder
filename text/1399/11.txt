@@ -1,0 +1,148 @@
+science.felix@imperial.ac.uk
+11
+Friday 7 March 2008 felix
+Science
+As bacteria go, anthrax is pretty un-
+pleasant. Not only can it enter the hu-
+man body via the skin, or through the
+digestive system, but also via the lungs
+– unusually for a bacterium, anthrax
+can create spores, able to survive for
+very long times outside a host, turning
+back into bacteria when they re-enter.
+If enough of these spores are inhaled,
+pulmonary anthrax, a particularly fatal
+form of the disease, can develop. Cou-
+pled with the ease with which airborne
+spores can be dispersed, these charac-
+teristics make "weaponised" anthrax a
+formidable biological weapon, capable
+of rendering infected areas uninhabit-
+able for decades.
+What the bacteria
+do inside the
+body is no less
+sordid. As
+they travel
+from the in-
+fection site,
+they emit a
+toxic three-part
+cocktail of proteins,
+one part of which, the pro-
+tective antigen, is able to help the
+other two parts – the lethal and oede-
+ma factors – inside cells, where they
+can wreak havoc.
+Not only does this allow the bacte-
+ria to ward off attempts by the body's
+force of "cleaner" phagocyte cells to
+destroy them, but recent studies have
+also shown that a combination of the
+lethal factor and the antigen, known
+as lethal toxin (LeTx) is responsible
+for typical anthrax symptoms such as
+blood-vessel leakages and the build-up
+of fluid surrounding the lungs.
+It's the details of how LeTx causes
+blood vessels to leak which Robert E.
+Bolcome III and other colleagues from
+the Harvard Medical School set out to
+investigate. As reported recently in the
+Proceedings of the National Academy
+of Sciences, one of the problems they
+had to overcome lay in finding a suit-
+able "model" – mammal blood-vessels
+are bur-
+ied within
+opaque tissues, preventing the effect
+of the toxin on live vessels from being
+monitored over time. Observations
+Vein melter: Anthrax and zebrafish embryos
+Monitoring what anthrax does to zebrafish veins might help improve treatments for the disease in humans
+can only be made via dissections, pre-
+venting successive measurements on
+the same animal.
+Zebrafish embryos, however, are
+transparent, and so it is possible to
+monitor the blood flow in
+their vessels without re-
+sorting to invasive tech-
+niques – it can be done
+remotely, using
+fluorescence mi-
+croscopy. This
+relies on injecting
+fluorescent poly-
+mer microspheres
+a few hundred nanome-
+tres wide into the embryos' vessels –
+when il-
+luminated, these
+microspheres show up as
+bright spots in images of the embryos,
+spots whose progress can be followed
+over time without killing the fish.
+Using this technique on two day-
+Edmund Henley
+Science Editor
+old zebrafish
+embryos, the re-
+searchers were
+able to show that
+LeTx caused three
+types of reaction
+in the fish, each re-
+action class being de-
+fined by the circulation present
+20 hours after the toxin was injected.
+"Wild-type" cases had normal circula-
+tion, mild cases showed reduced cir-
+culation, whilst severe cases had no
+circulation at all.
+Monitoring the
+progress of embryos over
+time, the researchers found this re-
+duction in circulation was associated
+with leaking vessel walls – almost all
+embryos with poor circulation showed
+microspheres escaping the vessels.
+However, using acridine orange, a
+dye which allows living and dead cells
+to be distinguished, it was seen that
+these leakages occurred without
+the cells which make up the ves-
+sel walls dying – something else
+was responsible for the leaks.
+The culprit turned out
+to be particular chemical
+pathway, known to be impli-
+cated in vessel permeability. By
+blocking this VEGFR pathway,
+the researchers were able to
+reduce the numbers of em-
+bryos in the mild and severe
+categories.
+This suggests that the
+VEGFR pathway is worth ex-
+ploring further – the scien-
+tists conclude that targeting
+this pathway may increase
+the effectiveness of anthrax
+treatments in humans. Fur-
+thermore, as vessel leakage
+occurs in a number of
+other diseases, such as
+Ebola or haemorrhagic
+fever, they suggest simi-
+lar studies would be
+worth pursuing in
+those cases – un-
+derstanding the
+role vessels play
+may in fact yield a rich
+vein of techniques for tackling these
+afflictions. Enough to make it worth
+turning any number of zebrafish green
+around the gills.
+

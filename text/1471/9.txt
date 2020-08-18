@@ -1,0 +1,229 @@
+FELIX Friday 29 October 2010 9
+SCIENCE
+Imagine an electric car powered by its
+chassis, with no need for a battery. This
+may sound like an environmentalist’s
+wet dream, but Emile Greenhalgh and
+his multidisciplinary team of collabora-
+tors across College and Europe, might
+make it happen sooner than you’d ex-
+pect.
+The largest problem facing manu-
+facturers of electric cars is the issue of
+weight. Currently, an electric car, such
+as the Tesla Roadster, weighs 1200kg,
+of which 500kg is battery. A vast 76%
+of energy expenditure in electric cars
+comes from having to move its own
+weight about. This figure rises to a stag-
+gering 98% when considering city driv-
+ing alone.
+Clearly the way forward for electric
+car manufacturers is to reduce the car’s
+dead weight. If the chassis could be
+used to help power the vehicle, carmak-
+ers would be killing two birds with one
+stone. Other than at Imperial, the major-
+ity of the research into structural batter-
+ies is being conducted in Sweden with
+Swerea and their composites division,
+SICOMP working alongside car manu-
+facturers Volvo. They are all a part of the
+STORAGE programme, a Europe-wide
+initiative led by Imperial College, focus-
+ing on meeting the energy demands of
+future hybrid vehicles.
+A major issue to be considered when
+dealing with any battery-powered tech-
+nology is the power spike. This is where
+Dr Greenhalgh and his team in the
+Composites Centre come in, working
+in partnership with SICOMP. When an
+electric car accelerates it draws a vast
+amount of power in a short space of
+time, draining the stored chemical en-
+ergy of the battery. This sudden increase
+in the battery’s output is detrimental
+to its overall performance. To get the
+most out of a battery, the output should
+be constant. In order to overcome the
+damaging effects of these power spikes,
+Emile Greenhalgh et al have devised a
+composite material, made of layers of
+woven carbon fibre seperated by glass
+fibre mats, which acts not only as a rigid
+mechanical structure, but also as a su-
+percapacitor, in order to level the load
+on the battery.
+With a large number of engineering
+obstacles involved in the manufactur-
+ing process, it’s hardly surprising that
+Greenhalgh’s team is multidisciplinary.
+Dr Greenhalgh himself trained as a
+physicist at Imperial. We also spoke to
+Milo Shaffer, a Materials Chemist who
+notably is one of Imperial’s youngest
+professors.
+“The timing is great,” said Dr Green-
+halgh. What started 5 years ago as a
+commission from the MOD could see
+the group’s members rocket on to the
+rich list, according to Wired magazine.
+However, a fully integrated structural
+battery is still some way off. That’s
+not to mention the hurdles that must be
+overcome to get such a car approved
+for commercial use. “Not only would it
+have to pass extensive crash-worthiness
+tests, it would also have to pass electri-
+Imperial Profile: #2
+Dr Emile Greenhalgh
+Composite Materials
+cal safety tests…There’s a lack of spe-
+cialists trained in both areas.”
+“In nine to ten years time we could
+get rid of the battery altogether.” Ap-
+plications of this technology are wide-
+spread, ranging from aircraft to laptops.
+Basically anything that needs to be low-
+weight and/or portable.
+“We are still a long way off on power
+storage,” says Dr Greenhalgh. The pro-
+totype they have produced has caused
+a stir and earned them larger grants for
+further research.
+Ilse Daly
+Adam Falk
+Charlie Harvey
+M ini x-ray
+madness
+“Laser Technology is
+advancing rapidly –
+we are optimistic”
+When one mosquito becomes two
+A new study from Imperial College Lon-
+don has suggested that, in our race to
+battle Malaria, a new threat has emerged.
+The Anopheles gambiae is responsible
+for about half of the 500 million Ma-
+larial cases in sub-Saharan Africa. It has
+been found that two physically identical
+strains of mosquito are becoming sepa-
+rate species, known as ‘M’ and ‘S’.
+There have been recent developments
+in combating mosquitoes and the dis-
+eases they carry. From new insecticides
+to genetic technology, much hope and
+money has been invested in new control
+tactics. However, this new discovery is
+potentially problematic for researchers.
+“From our new studies, we can see
+that mosquitoes are evolving more
+quickly than we thought and that un-
+fortunately, strategies that might work
+against one strain of mosquito might not
+be effective against another. It’s impor-
+tant to identify and monitor these hidden
+genetic changes in mosquitoes if we are
+to succeed in bringing malaria under
+control by targeting mosquitoes,” said
+Dr Mara Lawniczak, a lead researcher
+from the Imperial College London Divi-
+sion of Cell and Molecular Biology.
+Previous research had indicated that
+there was a genetic difference between
+the two strains localised to specific parts
+of the mosquito chromosomes. How-
+ever, in this, the most extensive analy-
+sis of both strains’ genomes, it has been
+revealed that the genetic differences are
+more numerous and widely dispersed in
+the genome than previously thought.
+It is believed that the ‘S’ strain is the
+ancestral species as it is found over all of
+Benjamin Good
+A next generation of table-top X-ray
+machines could soon be made available,
+thanks to research from Imperial Col-
+lege.
+Scientific and medical advances de-
+pend on the development of better di-
+agnostic and analytical tools. Sources
+of high quality X-rays are in huge de-
+mand for scientific research, yet few
+dedicated synchrotron facilities exist
+worldwide due to their huge size and
+cost. The study, published in the journal
+Nature Physics, outlined a future where
+these high energy X-ray systems could
+be housed in a chamber only 1 metre on
+each side. The Diamond Light Source
+synchrotron, for comparison, is half a
+kilometre in circumference.
+“This is a very exciting develop-
+ment”, said Dr Stefan Kneip, from Im-
+perial’s Department of Physics and lead
+author of the study. “We have taken the
+first steps to making it much easier and
+cheaper to produce very high energy,
+high quality X-rays.”
+The new technology uses a process
+similar to what happens in other syn-
+chrotron sources, but on a microscopic
+scale. A high power laser is fired into a
+stream of helium gas, creating a jet of
+ionised plasma. A bubble of positively-
+charged helium ions forms, causing
+some of the electrons in the plasma to
+form an energetic beam that ‘wiggles’.
+As the electron beam wiggles it produc-
+es a high quality source of X-rays. While
+previous laser driven X-ray sources ex-
+isted, this new technology will result in
+X-rays 1000x brighter.
+Dr Zulfikar Najmudin, the leader of
+the experimental team for this research,
+said: “we think a system like ours could
+have many uses. For example, it could
+eventually increase dramatically the
+resolution of medical imaging systems
+using high energy X-rays, as well as en-
+able microscopic cracks in aircraft en-
+gines to be observed more easily.”
+Due to the high cost and complex-
+ity of high power lasers today, this new
+technology won’t be on our laboratory
+benches any time soon. Dr Nahmudin
+remains hopeful that his research will
+lead to cheaper sources of high quality
+X-rays soon, adding: “laser technology
+is advancing rapidly, so we are optimis-
+tic that in a few years there will be reli-
+able and easy to use X-ray sources avail-
+able that exploit our findings”.
+sub-Saharan Africa; in contrast the ‘M’
+strain is localised to more central and
+western areas of Africa. As well as this
+the ‘M’strain seems to be better evolved
+to laying its eggs in rice paddy fields.
+The next stage of the investigation
+will involve the use of a specially de-
+signed genotyping chip which will help
+to detect whether or not these genetic
+variations affect their inclination to be-
+come infected with malaria and other
+parasites.
+Despite this new development and the
+mosquito’s well-deserved reputation as
+a significant threat to human life, there
+is still plenty of hope and optimism that
+treatment and control is heading in the
+right direction. Another lead researcher
+in the project Professor George Christo-
+phides concludes, “Our studies help us
+to understand the makeup of the mos-
+quitoes that transmit malaria, so that we
+can find new ways of preventing them
+from infecting people.”
+New mosquito strains have been found by researchers from Imperial
+

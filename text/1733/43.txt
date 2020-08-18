@@ -1,0 +1,290 @@
+ISSUE 1733
+FELIX
+43
+PUZZLES fsudoku@imperial.ac.uk
+   
+     
+    
+ 
+   
+        
+    
+    
+      
+ 
+       
+  
+    
+   
+
+ 
+  
+   
+    
+     
+      
+       
+        
+        
+        
+       
+      
+     
+    
+   
+  
+ 
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+CLUES
+__ Camino (New Breaking Bad
+movie) (2) - A Dalek measure of
+time (3) - Viscount < ? < Marquis
+(4) - Youngest daughter of Triton,
+turned into sea foam (5) - Occur-
+ring regularly (6) - Down to earth
+(7) - Criticize humorously (6) -
+Prices per hour (5) - Nap (4) - 6
+games (3) - Is for Pedro (2)
+FUCWIT
+1 TNT 127
+2 O1G 120
+3 GodBlessHK 109
+4 RIP Pat 83
+5 LochyMonsters 70
+12 MB 46
+14 Carrie_with_masks_x7M 18
+Send your solutions to fsudoku@imperial.ac.uk before Wednes-
+day midday to take part in the leaderboard!
+Points available
+Crossword		 6
+Gogen 3
+Sudoku		 3
+Shikaku 2
+Word Pyramid 3
+Nonogram 1
+Minesweeper 3
+Cryptogram 3
+Total 24
+Last week’s solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+ 
+ 
+
+ 
+  
+ 
+ 
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINESWEEPER
+The number in each square indicates the number of bombs surround-
+ing it (left, right, up, down, and diagonal). Mark all the bombs.
+WORD PYRAMID
+Each row is an anagram of the let-
+ters in the row above, adding or
+removing one letter.
+
+ 
+  
+   
+    
+     
+    
+   
+  
+ 
+
+

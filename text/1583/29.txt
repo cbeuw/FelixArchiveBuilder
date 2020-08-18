@@ -1,0 +1,22 @@
+1 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+06.10.2014
+Puzzles Editor Kingshuk Dasadhikari
+Puzzles
+fsudoku@imperial.ac.uk
+Nonogram Cat Sudoku
+Each row and column must consist of a series of shaded and unshaded boxes.The number
+of shaded boxes is mentioned beside and above each row and column (e.g.1,2,...might
+mean some unshaded boxes,1 shaded box,some more unshaded,2 shaded,and so on).
+Solve the puzzle to reveal a pretty picture or a coded message.
+Just like a normal Sudoku,but with cats instead of numbers.You might say the cat had
+9 lives,in fact! Each row,column,and 3 by 3 square must contain every one of the cat’s 9
+postures.Good luck,and happy doodling!
+Now Recruiting...
+More Puzzles Editors for Felix! Do you want to take a chance stumping
+some of the best minds at Imperial? Or perhaps you just want to see
+your name in print? Jump aboard the Puzzles team at Felix and help
+make a creative contribution!
+Special interest in those well-versed in crafting Slitherlinks,Killer
+Sudokus,Cryptic Crosswords...(or anything else really)... Contact Felix
+Editor Philippa Skett to register your interest at felix@imperial.ac.uk
+

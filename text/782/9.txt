@@ -1,0 +1,216 @@
+i _ i r
+Selective
+wins the
+prize
+This year's prize is shared between
+three people for their work on some
+compounds that are very fussy about.
+what other sorts of molecules they
+associate with. These compounds are
+useful because they can be used to
+selectively encourage certain difficult
+reactions and they can be used to
+discriminate, and therefore separate,
+certain very similar metals in
+solution. The three people who got
+the prize are: Charles Pedersen (who
+worked for DuPont central research
+labs in Delaware); Donald Cram
+(University of California at Los
+Angeles); and Jean-Marie Lehn (who
+is French).
+The story started when Pedersen
+was trying to make some industrially
+useful chemical. Because of some
+gunk in his starting materials, he
+produced (as well as what he wanted)
+a small yield of crystalline impurity
+with unusual properties. Most people
+would have thrown the annoying side-
+product away, and used purer starting
+materials next time, but most people
+don't win Nobel prizes. Pedersen was
+a curious man and he investigated the
+strange new compound. It turned out
+to be a compound now called dibenzo
+(18)crown-6 which has some strange
+properties.
+The structure of the compound is
+the key to its strange behaviour. Once
+Pedersen had realised what the
+structure was, he was able to design
+more similar compounds to perform
+different chemical roles. Cram was a
+consultant for DuPont at the time, and
+he realised that the compounds could
+be used to do some very selective
+reactions.
+The simplest of the compounds are
+rings containing CH2 groups and
+some oxygens. (18)crown-6 has an
+18-membered ring with 12 CH2
+groups and 6 oxygens, hence the
+name. The compounds are called
+crown ethers because, in their three-
+dimensional structures, they often
+look like the things royalty put on
+their heads. More complex versions
+of the compounds were devised by
+Lehn which contain nitrogens and can
+therefore have three interlocking rings
+seduction
+chemistry
+(this creates a cavity more like a glove
+than a ring). These compounds are
+called cryptands and hold on to metal
+ions even more tightly than the crown
+ethers. Even more complex
+compounds have been devised since
+with structures that have to be seen
+to be believed.
+Adulterous but fussy molecules
+The unusual chemical properties of
+the compounds result from their
+adulterous (but non-promiscuous)
+relationships with certain charged
+ions and molecules in solution. They
+are able to seduce other specific
+molecules away from their rightful
+spouses and encourage them to set up
+new homes in solution.
+Normally in chemistry it is difficult
+to coax charged things into solution
+in neutral inert solvents. The trouble
+is that ions in solids such as common
+salt (consisting of Na+ and C 1 - ) are
+happily married, and need some very
+strong attractant to get them to split
+up (they need something attracted to
+them more strongly than they are
+attracted to the crystal lattice). Water
+can dissolve some salt because the
+highly dipolar water molecules are
+strongly attracted to the ions and can
+therefore crowd round them and
+attract them out of the crystal lattice.
+Less polar solvents have great
+difficulty in attracting the ions from
+the lattice, so you can't get salt to
+dissolve in benzene (which has no
+dipole to keep the ions happy). Most
+common organic solvents have this
+problem, which is a pain because in
+some compounds that are not soluble
+in water.
+In organic solvents the rule is like'
+dissolves likfe, so compounds that are
+mostly carbons and hydrogens will
+dissolve in solvents that are mosdy
+carbons and hydrogens. This is why
+crown ethers are so useful. Inside the
+ring they are adulterously attractive
+to things like potassium ions (because
+of the dipoles caused by the presence
+of oxygens on the ring) but on the
+outside they just look like any old
+hydrocarbon because all the solvent
+can see is the CH2 groups. So it is
+possible to sneak ionic species into
+previously inaccessible places.
+But the particular quality of crown
+ethers that is useful is their selectivity.
+The size of the hole decides which
+ions fit inside. And, when something
+fits, it fits really tightly: for example,
+potassium ions just cannot resist
+18-crown-6. In an organic solvent in
+contact with a salt, so many
+potassiums are lured from the crystals
+that the previous spouses (counter
+ions in chemical jargon) of the
+potassium ions will also come into
+solution in a futile attempt to regain
+their lost loves, so the crystals will
+dissolve.
+The forsaken loves of the potassium
+ions can be put to good use. For
+0^ ^ 0
+(18)crown-6
+Potassium ions can't resist its
+embrace
+Dibenzo(18)crown-6
+The first crown ether to be
+discovered
+2-2-2 cryptand—fits like a glove
+•example, the permanganate ions
+(Mn04 - ) from potassium
+permanganate or the hydroxide ions
+from potassium hydroxide, will
+wander naked searching for their lost
+loves in non-polar solutions
+containing 18-crown-6. These ions
+are agitated enough to participate in
+reactions that cannot normally be
+done in such solutions.
+But crown ethers are very fussy.
+Solutions of mixed ions can be
+separated by the use of a crown ether
+that complexes only one component
+in the mixture. 15-crown-6 will cling
+to sodium ions for dear life but will
+tend to leave potassium ions alone
+(they are slightly too large to fit in the
+hole, but otherwise they are very
+similar to sodium ions). This can be
+very useful industrially in the
+separation of mixtures of similar ions.
+Extremely fussy molecules
+Compounds similar to crown ethers
+have become increasingly important
+in the years since the compounds were
+ifirst noticed. Their cavities have been
+Idesigned to seduce many different
+types of compound. Work involving
+Imperial C o l l e g e , Sheffield
+University and ICI has shown how
+paraquat (the compound that kills
+weeds when you put it on your
+garden, but kills people when you
+store it in lemonade bottles) can be
+held i n the cavity o f
+bisparaphenylene(34)crown-10 (there
+will hopefully be a report on this work
+in F E L I X soon). The holes inside
+some of the compounds have been
+designed to take only one mirror
+image of some reacting molecules,
+thereby promoting reactions of only
+one isomer giving biologically useful
+products (when molecules can be
+either left- or right-handed, nature
+always sticks with just one hand).
+This is very useful in the drug
+industry where, for many drugs, only
+one optical isomer is active (for
+example, only one of the two isomers
+of dopamine, the compound used to
+treat Parkinson's Disease, is useful.
+In building molecules with such
+abilities to discriminate between other
+similar molecules, chemists are
+beginning to learn how to mimmick
+nature. Enzymes (nature's chemical
+companies) can tell the difference
+between very_similar molecules and
+can produce products containing
+molecules of only one handedness. It
+would make some important
+chemicals a lot cheaper if we could
+copy nature's methods.
+We should never forget that none
+of this chemistry would have been
+done if a single chemist had not been
+curious. So curiosity may sometimes
+kill the cat, but it feeds the chemist.
+FELIX Friday October 30th 1987 9
+

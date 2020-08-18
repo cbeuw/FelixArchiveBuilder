@@ -1,0 +1,228 @@
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+17
+FRIDAY 01 MARCH
+Bow down to the brainiacs
+Philippa Skett on the Human Connectome Project
+H
+One of the images already pro-
+duced of connections in the brain
+Graphite supercapacitors are taking charge
+Keir Little Science Writer
+http://www.humanconnectomeproject.org
+ave you ever wanted
+to get into the head of
+someone? Maybe a po-
+tential employer, your
+examiners or even
+someone you have taken a fancy to?
+Do you often ﬁnd yourself question-
+ing just what is even going on in your
+own head? Neuroscientists are plan-
+ning on possibly solving the myster-
+ies of the brain mapping as a means
+to treat neurodegenerative disorders,
+as opposed to giving you an edge in
+that job interview in the city, but it is
+exciting nonetheless. However, where
+is the catch, or rather, the cost?
+he Human Connectome Project is
+an eﬀort currently underway to build
+a complete network map of the brain;
+that is, it will be looking at the ana-
+tomical and functional connections
+between parts of the brain to create a
+digital model at a scale never explored
+before. Upon its launch in 2009, the
+Project aims to shed new light on con-
+nectivity patterns in the brain to per-
+haps provide an insight into how to
+treat Alzheimer’s disease, Parkinson’s
+or even schizophrenia. In a popula-
+tion that is now facing an aging issue,
+such treatments are becoming in-
+creasingly essential for healthcare for
+the future, although how the Project
+will provide a direct platform to this
+is unclear.
+he Project is being pursued by
+multiple components of the National
+Institutes of Health, with the aim to
+collate information together to form
+the complete model. hese are split
+into two consortia: one is the WU-
+Minn consortium between Wash-
+ington University and the University
+of Minnesota, who are studying the
+brain structure itself in accordance
+to genetic and behavioural data. he
+other is the MGH/Harvard-UCLA
+consortium between Harvard Uni-
+versity, Massachusetts General Hos-
+pital and the University of California,
+where they are attempting to optimise
+MRI technology to give a greater spa-
+tial resolution when it comes to neu-
+rological imaging – not necessary to
+view individual neurons, but as close
+as they can get to that.
+his is by no means a cost eﬀective
+feat. he possibility of monetary sup-
+port coming from billions of federal
+funds from the American government
+has been sparked by rumours that it
+may be included in Obama’s federal
+budget proposal, which is expected to
+be conﬁrmed later this month. With
+the Human Genome Project costing
+around $3.8 billion dollars alone, this
+project, with signiﬁcantly more costly
+investigative techniques such as MRI,
+could skyrocket in price and this may
+ultimately come from the pockets of
+the hardworking American.
+However, despite this phenomenal
+cost, the excitement in the scientiﬁc
+community is tangible. he American
+Association for the Advancement of
+Science (AAAS) this month is one of
+the largest scientiﬁc non-proﬁt soci-
+eties globally, whose contributions
+to the scientiﬁc community includes
+the publication the established jour-
+nal Science. he AAAS is highly in-
+ﬂuential in terms of endorsement for
+what may be the next big thing, and
+this month the AAAS showcased
+the emerging science of connectom-
+ics (studying connections) as one to
+watch, including this project.
+But does the project deserve such
+hype? he Human Genome Project
+was heralded as something that will
+“change everything.” Indeed it did,
+but through subsequent research
+based on the incomplete three billion
+letter sequence, that is still ongoing.
+No doubt the Human Connectome
+Project will follow a similar path –
+should the project be completed, only
+then can research begin to truly ﬁnd
+possible cures for neurodegenerative
+diseases.
+Unlike the Human Genome Project
+however, how reliant future research
+in neuroscience is on this project’s
+completion is unclear; unless the
+MGH/Harvard-UCLA consortium
+can develop a greater resolution in
+MRI technology, the project will still
+be based on the imaging technolo-
+gies already available in neuroscience,
+which can be seen as rather crude in
+nature as it is. herefore, is there a
+better way to spend all of this money
+in combating these diseases in a more
+direct manner than that requiring the
+whole mapping of the brain? For now,
+it seems not.
+Should it be successful, the Project
+will no doubt be hitting the front of
+newspapers soon and hopefully will
+be the neurological equivalent to the
+Human Genome Project in regards to
+function. It very much deserves to be
+so based on its potential cost, but it
+will still only merely be the beginning
+of a much awaited route to deeper
+neurological understanding; the hard
+work will not end here. It could take
+decades more before therapeutic
+treatments are found for neurodegen-
+erative diseases, and centuries more
+before we can actually read the minds
+of teachers, bosses or classmates. For
+now, we may have to let science ﬁc-
+tion have that prerogative, and keep
+our ﬁngers crossed that the Human
+Connectome Project will be a success.
+In a viral video released last week
+from the website www.upworthy.com,
+Richard Kaner and Maher El-Kady of
+the University of California, Los An-
+geles revealed that they have discov-
+ered a cheap and eﬃcient new way
+of manufacturing graphene, in a way
+which could lead to the development
+of aﬀordable graphene-based capaci-
+tors and batteries.
+heir method (also published in
+Nature Communications) involves
+depositing a ﬁlm of graphite oxide on
+a plastic surface and then irradiating
+it with a laser – they used a standard
+DVD and LightScribe DVD burner.
+Much more than merely creating a
+sheet of graphene, this process can
+be used to inscribe graphene circuits
+in the insulating graphite oxide layer
+with a resolution of 20μm; a method
+which could be scaled up to industri-
+ally produce ﬂexible electronics.
+"Traditional methods for the fab-
+rication of micro-supercapacitors
+involve labor-intensive lithographic
+techniques that have proven diﬃcult
+for building cost-eﬀective devices,
+thus limiting their commercial ap-
+plication," El-Kady said. "Instead, we
+used a consumer-grade LightScribe
+DVD burner to produce graphene
+micro-supercapacitors over large ar-
+eas at a fraction of the cost of tradi-
+tional devices. Using this technique,
+we have been able to produce more
+than 100 micro-supercapacitors on a
+single disc in less than 30 minutes, us-
+ing inexpensive materials."
+Graphene’s supercapacitive abil-
+ity has been under investigation for a
+while. he UCLA researchers discov-
+ered that by embedding an electrolyte
+layer on their inscribed graphene,
+they could produce micro-superca-
+pacitors with the energy density of
+lithium ion batteries, though unlike
+batteries, they can charge in a matter
+of seconds and are far less bulky and
+heavy.
+"he integration of energy-storage
+units with electronic circuits is chal-
+lenging and often limits the minia-
+turization of the entire system," said
+Kaner. "his is because the necessary
+energy-storage components scale
+down poorly in size and are not well
+suited to the planar geometries of
+most integrated fabrication process-
+es."
+Kaner’s team are now looking for
+partners in industry to produce gra-
+phene supercapacitors on a large
+scale. While practical applications for
+these may yet be far away, they could
+eventually replace current batteries,
+leading to ﬂexible, wearable elec-
+tronic devices and phones, laptops or
+even cars that could be charged in a
+few seconds.
+Love Science?
+Or want to be Brian Cox? You need to start
+somewhere...
+Why not write for us? Get in touch!
+science.felix@imperial.ac.uk
+One of the images already produced
+of connections in the brain
+

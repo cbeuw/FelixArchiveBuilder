@@ -1,0 +1,276 @@
+science.felix@imperial.ac.uk
+Science
+Science Editor – Ed Henley
+9
+Friday 8 February 2008 felix
+Hot science: Cold prevention at IC
+E
+arlier this month, a team of
+scientists headed by Impe-
+rial’s Professor Sebastian
+Johnston announced in Na-
+ture Medicine that they have
+successfully infected mice with rhino-
+viruses for the first time.
+It had been previously thought that
+these viruses, which cause about 75%
+of common colds, could only infect hu-
+mans and chimps. Professor Johnston,
+from IC’s MRC/Asthma UK Centre in
+Allergic Mechanisms of Asthma, says:
+“Until now it has not been possible to
+study rhinovirus infection in small ani-
+mals. This has been a major obstacle to
+developing new treatments and there
+is currently no effective treatment for
+rhinovirus infection.”
+The reason for this “immunity” of
+other animals to rhinoviruses is mainly
+due to a binding molecule, found in
+90% of rhinoviruses, called ICAM-1.
+This is found on the surface of human
+cells and it is this that the viruses use
+as a receptor to bind to the cells. Other
+smaller animals do not have this recep-
+tor, and so as Professor Johnston says:
+“the virus couldn’t infect the mouse cell
+because the receptor (acting like a door
+key) couldn’t get into the cell.” His team
+modified the receptor in mice, allowing
+the infection into the cells.
+Over two weeks, the mice were then
+studied for any symptoms and had
+their lung fluid analysed for the pres-
+ence of mucus proteins and interfer-
+ons, cytokines and chemokines – pro-
+teins produced by the immune system
+in response to infections.
+Whilst rhinoviruses are at worst an
+inconvenience to most of the popula-
+tion, they can have severe and even fa-
+tal consequences for some. For asthma
+sufferers like myself they can trigger
+asthma attacks, pneumonia in people
+with weakened immune systems, and
+chronic bronchitis and emphysema.
+The team combined exposure to
+Sally Longstaff reports on how a team at Imperial is leading the way in tackling the common cold, by
+infecting mice with rhinoviruses. Great news for asthma sufferers, but cold comfort for the sniffly mice...
+the virus with an allergic reaction to
+ovalbumin (found in egg white) and
+observed that the mice showed simi-
+lar symptoms to humans when asthma
+is worsened by a viral infection. At
+present the only preventative measure
+for virally-induced asthma attacks is to
+use steroids, only partially effective.
+As the mice responded similarly to
+humans, this leads to hopes that they
+I’ll warn you at the outset that this is
+rather a navel-gazing article, as the
+topic for today’s story has been cho-
+sen for somewhat ulterior motives. I’ll
+reveal those motives at the end, when
+it’s time for some editorialising. In the
+meantime, it’s high time for an expla-
+nation: how could the ionosphere and
+the 2004 tsunami possibly be linked?
+On the face of it, it is hard to see how
+one might affect the other. The 2004
+tsunami (triggered by a magnitude ~9.2
+earthquake off the coast of Sumatra on
+the 26th of December) powerful as it
+may have been, occurred at sea level.
+The ionosphere, an electrically con-
+ductive layer of the atmosphere (the
+highest one, in fact) lies far above, be-
+tween 85-600 km altitude. And though
+it forms the upper edge of the atmos-
+phere, potentially linking it to events
+lower down, it is also the lower edge
+of the magnetosphere – the
+bubble-like region
+which Earth’s mag-
+netic field carves
+out of the solar
+wind, a flow of
+plasma stream-
+ing outwards past
+us from the sun. The
+ionophere’s location and
+conductive nature means that
+changes in the solar wind and magnet-
+osphere, such as those associated with
+aurorae, can have significant effects on
+the ionosphere.
+Another main cause of change in
+the ionosphere is also due to the sun:
+radiation. The ionosphere is electri-
+cally conducting because radiation at
+frequencies from UV and above ion-
+ises the neutral atoms, leaving a cloud
+of ions and electrons. Though these
+attract each other, and so should po-
+tentially recombine, the atmosphere at
+ionospheric altitudes is so tenuous that
+this cloud of charged particles can per-
+sist for long times, as a plasma, provid-
+ing the generation mechanism – the
+sun – is visible, offsetting any losses
+due to recombination. At night, when
+the sun has no effect, the number of
+charged particles decreases greatly.
+Some of you may have had practical
+experience of this, if you listen to long-
+wave radio stations: the signals bounce
+off the ionosphere, at an altitude where
+the number of free electrons floating
+around causes that layer to become
+opaque to radio waves, and act like a
+mirror instead. As this altitude
+changes over the course of a
+day, it affects the range of
+radio signals: a higher
+layer means signals
+from further away
+can be picked up.
+However, iono-
+spheric changes are
+also due to atmospheric ef-
+fects, which may in turn be due to
+changes all the way down at the sur-
+face. And it’s this type of mechanism
+which American researchers publish-
+ing in the Journal of Geophysical Re-
+search a few weeks ago think might
+explain their observations. They were
+using the Arecibo radio dish on Puerto
+Rico to probe the ionosphere around
+the time of the tsunami, and found that
+abut 25 hours after that event, an unex-
+pected rise and fall in one ionospheric
+layer occurred. Unusual, because it oc-
+curred at night, and when there was
+little magnetospheric activity, immedi-
+ately ruling out two of the above caus-
+es for ionospheric changes. Nor did it
+look like this was due to waves caused
+by a storm – there were none nearby at
+the time. Instead, Lee et al. suggest that
+the tsunami waves on the ocean caused
+associated gravity waves (nothing to do
+with space-time: these are waves due
+to fluid parcels being displaced into
+regions of different density – gravity
+or buoyancy acts as a restoring force,
+causing oscillation about an equiib-
+rium) in the atmosphere. The effects of
+these gravity waves leaked into the ion-
+osphere, causing the variations seen at
+Arecibo, and also by various GPS satel-
+lites, which are sensitive to the electron
+content of the ionosphere.
+What has this got to do with the
+Science and Technologies Facilities
+Council (STFC), the body which funds
+astronomical, space science and parti-
+cle physics research in the UK? Keen
+readers of science news amongst you
+may have spotted that the STFC is
+going through a funding crisis at the
+moment – there’s an £80 million hole
+in its budget, which threatens swinge-
+ing cuts in many areas. Notably in the
+could provide models of rhinovirus in-
+fection, whch the researchers conclude
+could be useful when investigating
+treatments for both the common cold
+and asthma. These findings could also
+develop further, aiding research into
+other conditions, including chronic
+obstructive pulmonary disease.
+The research was funded by the
+Medical Research Council, Asthma UK
+and GlaxoSmithKline. Sir Leszek Bory-
+siewicz, chief executive of the Medical
+Research Council, said: “This impor-
+tant and fundamental discovery will
+enable us to understand the effects rhi-
+noviruses and common colds have on
+our health. It will open up new paths
+to finding treatments which have been
+delayed for many years and provides
+us with the opportunities for further
+breakthroughs in the future.”
+This experiment is of great interest
+to the scientific community, and many
+newspapers and other publications
+have lauded this as a “breakthrough”.
+Mice are often used as models of dis-
+ease and to test treatments. Because
+previously the rhinovirus was only able
+to infect higher primates, this made
+research difficult. By finding a way to
+infect mice, this study represents a very
+significant step forward.
+However, animal models of human
+disease are a very early step and it may
+take many years for new treatments to
+become available. A significant obtacle,
+amongst other problems, is that viruses
+have many different strains; developing
+a treatment that will cure every cold
+will be nigh on impossible.
+It is also important to consider the
+risks of overprescribing medication.
+The common cold, as mentioned, is
+a mere irritant to most of the popula-
+tion, and only dangerous to a few. The
+widespread use of medications to treat
+common colds may lead to the devel-
+opment of resistant strains – potential-
+ly threatening to the most susceptible.
+Dishy: the Arecibo radio telescope is really rather a looker
+The 2004 tsunami, the ionosphere, Arecibo and the STFC: all connected?
+research area which the above study
+belongs to: STFC has said it will “cease
+all support for ground-based solar-ter-
+restrial physics facilities”. This is where
+I need to confess something: I might
+not be entirely objective here, as my
+research area involves looking at part
+of the magnetospheric system. My area
+does not directly look quite so threat-
+ened, yet for various personal reasons,
+I see the loss of UK solar-terrestrial
+physics ground facilities as a blow.
+You see, the UK is really rather good
+at solar terrestrial physics, and puts its
+facilities to good use. I almost went to
+do my Ph.D. at Leicester, a particularly
+strong institute currently under threat,
+as I was attracted to their way of view-
+ing the complicated interactions from
+the solar wind all the way down to the
+atmosphere as one cohesive system,
+which needs to be treated as such to be
+understood. The above study is a nice
+example of energy transfer between
+regions covered by different funding
+councils: the STFC above, and the
+Natural Environment Research Coun-
+cil below. At a time when we recognise
+the need to understand the processes
+affecting climate, surely it is foolish to
+squander world-class expertise in an
+area interacting with climatic science,
+merely because the funding councils
+define a remit boundary at a particular
+altitude, a boundary which is flouted in
+at least this case, and likely in others?
+SNIFFLEZ
+SNIFFLEZ
+I CAN HAS TISHOOZ?
+I CAN HAS TISHOOZ?
+Edmund Henley
+

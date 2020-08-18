@@ -1,0 +1,232 @@
+ISSUE 1703
+FELIX
+23
+PUZZLES fsudoku@imperial.ac.uk
+
+ 
+  
+   
+    
+     
+      
+     
+    
+   
+  
+ 
+
+     
+
+
+  
+   
+   
+ 
+CROSSWORD
+Across
+7. The tiniest bit (4)
+8. They doubt e v e r y t h i n g (8)
+9. Served with cheese (8)
+10. Breakfast, lunch, or dinner (4)
+11. Healthy soy-based ingredient, popular in Asia (4)
+12. 1966 Beatles album (8)
+14. Shares a border with Spain (8)
+16. A bird’s cradle (4)
+18. Meat soup (4)
+20. Not royalty (8)
+22. God of the Sea (8)
+23. Ahead of the trend (4)
+Down
+1. Essential ingredient in fish and chips (6)
+2. A really big slingshot (8)
+3. Capital of Norway (4)
+4. Belonging to the Dark Ages (8)
+5. The building block of matter (4)
+6. A hydrocarbon that powers cars (6)
+12. The murder of a king (8)
+13. Lives in the capital (8)
+15. Choice (6)
+17. A chair on skis (6)
+19. Cry (4)
+21. Repair (4)
+FUCWIT
+1 Maxiane 72
+2 Yeet Infection 61
+2 CHZYNo.1InMy<3 61
+4 Luncheon Pals 58
+5 DQ 53
+5 HoneybunnySnugglepuff 53
+7 Lunar Lunacy 52
+8 Sudok-urself 50
+9 KBLB 44
+10 Cat Ladies 39
+11 Soggy Biscuit Society 36
+12 The Indoor Sundial 30
+22 Crosswordsolver.org 9
+Send your solutions to fsudoku@imperial.
+ac.uk before Wednesday midday to take
+part in the leaderboard!
+Points available
+Crossword			 6
+Gogen 3
+Sudoku 3
+Minesweeper		 4
+Shikaku 2
+Total 18
+Last week’s solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+  
+ 
+  
+  
+  
+ 
+  
+SUDOKU
+Fill all the boxes with a number between 1
+and 9. A number can only appear once in a
+row/colum, and only once in each sub-box.
+   
+      
+    
+     
+      
+      
+     
+   
+MINESWEEPER
+The number in a cell represents the number of mines adjacent to that
+square (up/down, left/right, diagonal). Find and mark all of the mines
+to clear the board.
+  
+  
+ 
+GOGEN
+Write letters into each circle to form the
+listed words. Letters can be linked by
+moving between adjacent cells hori-
+zontally, vertically or diagonally in any
+direction. You may use each letter in the
+alphabet only once.
+JUXTAPOSE
+QUICK
+MATCH
+SHAM
+PONDER
+DRY
+WET
+PALM
+BLAST
+GIFTS
+GUTS
+ZIG
+ 
+  
+ 
+   
+
+
+
+SHIKAKU
+Divide the square into rectangles, such that each rectangle
+contains exactly one number. The numbers given represent
+the area of the containing rectangle.
+

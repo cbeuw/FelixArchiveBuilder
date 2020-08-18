@@ -1,0 +1,271 @@
+Comets
+Recent exploration of the
+solar wind and the earth's
+magnetosphere by Debbie
+Wilkes
+On September 11 1985 the
+International Cometary
+Explorer passed through
+the tail of the Giacobini-
+Zinner comet, and so
+became the first spacecraft
+to be involved in a direct
+encounter with a comet.
+Imperial Cbllege Space
+Physics group, headed by
+Dr David Southwood, were
+deeply involved with this
+project, having provided
+the energetic ion detector
+carried by this spacecraft.
+Remarkably, one year to
+the day earlier, the Active
+Magnetospheric particle
+Tracer Explorers
+programme created the first
+man-made comet. Once
+again, the Space Physics
+group were involved,
+having developed the
+magnetometer carried by
+the UK spacecraft.
+The three satellites in the
+latter mission, collectively
+known as the Active
+Magnetospheric Particle
+Tracer Explorers (AMTE),
+were launched from the
+Kennedy Space Centre at
+Cape Canavaral, on the
+16th August 1984. AMPTE
+was a joint mission of the
+United States, West
+Germany and the United
+Kingdon; with each of
+these national teams
+providing a spacecraft. The
+mission carried out a series
+of experiments designed to
+investigate the interaction
+of the solar wind with the
+Earth's magnetosphere,
+which is the most distant
+part of the earth's
+atmoshere. In this region,
+the Earth's magnetic field
+greatly influences
+behaviour, and so a
+magnetometer to measure
+the field is a key instrument
+on a mission of this type.
+The space Physics group,
+in collaboration with the
+University of California Los
+Angeles provided the
+magnetometer carried by
+the British spacecraft, An
+artist's impression of the
+UK Craft, showing the
+magnetometer, can be seen
+in Fig 1.
+This instrument, which is
+capable of measuring
+magnetic fields as small as
+1/50,000th of the field at
+the Earth's surface, is set
+on a boom one metre from
+the body of the craft to
+minimise the effect of stray
+fields from the spacecraft
+material and operating
+electrical equipment. At all
+stages in the mission
+magnetic field
+measurements played a
+central role in the
+investigations.
+Magnetometer
+Sun and earth
+Sensors
+particles in the
+magnetosphere, much of
+the fundamental physics
+remains to be understood.
+Two of the most intriguing
+problems are centred on
+how some solar wind ions
+can penetrate the barrier
+formed by the Earth's
+magnetic field, and how
+these particles can become
+accelerated, in some cases
+resulting in the spectacular
+Aururae Borealis and
+Australis.
+The unique feature of the
+AMPTE Mission was to
+release tracer ions, namely
+lithium and barium, in an
+attempt to investigate the
+entry of solar wind particles
+into the magnetosphere,
+S-band vhf
+Antenna
+The continuous flow of
+particles from the sun into
+interplanetary space is
+termed the solar wind; it
+consists of electrons,
+protons, helium nuclei and
+other ionised material
+which pass from the Sun
+through the Solar System
+and eventually merge into
+the general intersteller
+medium. The
+magnetosphere forms a
+tear shaped cavity in the
+solar wind, where the
+matter is fully ionised ie in
+the plasma state. While a
+great deal is known about
+the structure and dynamics
+of this gas of charged
+and their subsequent
+transport. All previous
+missions had only carried
+out passive measurements.
+In between the active ion
+release phases of the
+mission, the three
+spacecraft made passive
+measurements on the
+Earth's ionised outer
+atmophere. Although a
+great deal of data still
+remains to be analysed,
+there has already been a
+major breakthrough in our
+understanding of how the
+solar wind interacts with
+the Earth's magnetosphere.
+The American spacecraft
+was equipped with a
+comprehensive set of
+instrumentation to detect
+the mass and charge
+compositon of the
+magnetopshere. Its task
+during the ion release
+experiments was to monitor
+whether test ions released
+by the German craft, into
+the solar wind upstream of
+the Earth's magnetosphere,
+penetrated to its orbit deep
+in the magnetosphere.
+During these experiments
+the British spacecraft was
+situtated close to the
+German craft to monitor
+the local effects of ion
+release. On the 11th and
+20th of September 1984 the
+first minute quantities of
+lithium were released,
+initially producing some
+artificial cometary effects.
+But, it was on 27 December
+1984 that a barium release
+led to the German craft
+being enveloped in what
+was heralded as the first
+'artificial comet'; a cloud of
+ionised barium 5,000km
+long, which was actually
+observable from the
+ground, see fig 2. This use
+of the solar wind to mimic
+some aspects of cometary
+behaviour, such as solar
+wind deflection and tail
+formation, is very
+interesting as the existence
+of the solar wind was first
+predicted to explain
+cometary tail formation.
+However a more complete
+understanding of comets
+could only come about by
+actual spacecraft
+encounters with real
+comets.
+In September of this year
+the International Cometary
+Explorer (ICE) became the
+first spacecraft involved in
+a direct encounter with a
+comet, when it passed
+within 8,000km of the
+nucleus of Giacobini-
+Zinner. ICE was originally
+launched by NASA in 1978
+as the International Sun-
+Earth Explorer 3 (ISEE 3)
+and was designed to
+investigate the solar wind
+and particles. By
+redirecting a spaceship that
+had already completed its
+original mission, NASA was
+able to keep the cost of the
+project down to 3 million
+dollars; as compared to 500
+million dollars if a purpose
+built craft had been used
+The Imperial College
+Space Physics group
+provided the energetic ion
+instrument which was used
+to measure the ions created
+by the comet, these
+observations provided the
+first evidience of the
+approach of Giacobine-
+Zinner in the ICE date.
+Results from the mission
+have shown the Comet's
+atmosphere results from
+sublimation of the icy
+surface material of the
+nucleus. This then
+undergoes complex
+photochemical reactions
+with sunlight, which leads
+to break up and ionisation
+of the inital molecules. The
+result have already ended
+30 years of speculation on
+the nature of solar wind-
+comet interactions but it
+will be many more months
+before all the data can be
+analysed, and the full
+implications realised.
+Having survived this
+encounter the International
+cometary Explorer is now
+moving on to the
+rendevous with Halley's
+comet in March 1986.
+Where, it will carry out
+investigations upstream of
+the comet at the same time
+as Giotto (the European
+craft) and Vega (The
+Russian mission) encounter
+the nucleus.
+n
+S
+Friday 22 November FELIX 7
+

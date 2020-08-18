@@ -1,0 +1,280 @@
+Draw a
+loop around
+each dot. Draw a
+loop around each of those!
+When loops are about to touch,
+draw a loop around both! How
+many distinct loops can you fit?
+Nonolink 1,462
+Winner: GLT - both puzzles. Some people have been complaining about this combination
+puzzle, apparently they liked Slitherlink but don’t know how to do the Nonograms! Nonograms
+are easier than Slitherlinks and we include a very helpful ‘How to Play’ section below...
+2 2 3
+1
+3
+2 3
+2
+3 3
+3
+1
+1 3
+3
+2
+2 3
+2
+2
+2
+2
+2
+2
+1 3
+1 1
+1 2
+3 2 2
+1
+2 1 3
+2
+2
+3
+1
+2
+1
+2
+1
+2
+How to play:
+The numbers at the side represent the size and
+order of blocks in each column and row. There
+must be at least one space between each block.
+Then insert the numbers from the box in the top
+left corner into the unshaded cells and proceed
+as for a normal ‘Slitherlink’:
+All numbered cells must be surrounded by the
+corresponding number of edges. The solution
+consists of one continuous line. Any cells without
+a number can have any number of edges.
+See last issue’s solution (right) for more help.
+Send your solutions to us at sudoku.felix@
+imperial.ac.uk
+Solution 1461
+Bridges 1,462
+How to play:
+Connect all the
+‘islands’ together by
+bridges running in
+direct lines, North,
+West, East and South
+only, with no more
+than two bridges
+connecting any two
+distinct islands.
+Every island must
+have a total number
+of bridges from it
+equal to the number
+on the island and
+bridges must not
+cross islands, one
+another or lead to
+nowhere!
+If you would like to design a puzzle and see it
+printed in felix but don’t want to do one every
+week, just send us your ideas to the usual place -
+sudoku.felix@imperial.ac.uk and if we like them
+we’ll print them!
+Last week’s winner was GLT well done.
+Solution 1461
+Procrastination
+Puzzles 1,462
+2
+2
+2
+2
+3
+5
+2
+4
+1
+33
+felix
+coffee.felix@imperial.ac.uk COFFEE BREAK
+FRIDAY 21 MAY 2010
+5
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+3
+1
+1
+1
+1
+4
+1
+1
+1
+5
+1
+1
+1
+2
+1
+2 2 2
+1 1
+3 1 2
+1 3
+2 2 3
+1 1 1 1
+1 1 3
+1 1
+1 1
+5 1
+2 2 3 1 3 2
+2 3 2 2 3 2
+2 2 2 3 2 2 1
+2 2 2 3 3 3
+2 2 0 2 3 3 1
+3 2 2 2 2 3
+2 2 2 0 2 3
+2
+2
+2
+3
+5
+1
+6
+4
+3
+1
+2
+2
+2
+4
+3
+1
+3
+2
+4
+2
+2
+5
+1
+3
+4
+1
+1
+3
+2
+3
+3
+1
+3
+4
+4
+2
+6
+3
+6
+4
+6
+6
+3
+5
+2
+2
+2
+6
+4
+2
+2
+1
+4
+2
+4
+4
+1
+3
+1
+1
+7 6
+2
+4
+5
+2
+4
+3
+2
+5
+4
+2 2 4
+Exams and revision melting your
+brain? Know you should be doing
+work but just can’t bring yourself to
+get started? Perhaps you got stuck on
+a past paper question and realised
+you ‘just needed a short break’. We
+understand, here are some puzzles
+that shouldn’t make your brain hurt.
+1
+4
+Y
+Y
+E
+E
+S
+S
+A
+A D
+D
+O
+O
+W
+W
+R
+R
+O
+O
+K
+K
+U
+U !
+!
+start
+finish
+~
+Doodle
+this box
+into a
+picture
+of a farm
+animal!
+Do we
+really
+need to
+explain?
+It’s like
+sudoku
+but with
+letters.
+Start a stopwatch, complete the
+maze, stop the stopwatch.
+If you hit
+a wall you
+must start
+over, but the
+clock keeps
+ticking...
+Scribble box
+Best of lol catz
+If you ever happen across a particularly lol-
+lorish cat, please send it in! Make sure that
+it’s high resolution please.
+

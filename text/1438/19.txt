@@ -1,0 +1,557 @@
+20
+TECHNOLOGY
+Technology Editor Sam Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 02 OCTOBER 2009
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+W
+elcome to the Felix
+Technology section
+for the 2009-2010 year.
+Here you’ll find the lat-
+est and greatest news and reviews from
+the consumer electronics industry. If
+you’re interested in gadgets, tech and
+computers this is the place for you.
+Whilst we’re keeping you up to speed
+on the latest developments, we’ll also
+provide some hopefully useful articles
+to both entertain and enlighten you
+(not guaranteed) spanning a variety
+of topics. We’ll also try to point out
+useful tools, tips and services that, as
+students, enable you to work and play
+smarter.
+Throughout the year we’ll be cover-
+ing events, announcements and the
+new and the hot from across the indus-
+try. Whether it be new iPhones, 3D TV
+or the latest personal transport con-
+traption, there’s a lot to look forward
+to this year.
+As most new and exciting tech is
+announced or unveiled at expos and
+trade shows here are some events to
+keep an eye on in the next year:
+CES 2010, the consumer electronics
+show, which is held each year in Las
+Vegas, is arguably the biggest event
+in the tech calendar. CES hits us this
+year between 7-10th of January and
+will look to have some surprises up it’s
+sleeve. Look out for 3D TVs, more mo-
+tion recognition gaming (Project Natal
+etc), OLED screens growing larger and
+Technology Editor
+SamuelGibbs
+Fresher’s Imperial Tech
+Survival Guide
+W
+elcome Freshers! You’ve
+made it to Imperial, a
+place where technol-
+ogy and life should be
+as one. I’ll leave that up to you to de-
+cide, but here’s a quick guide to tech at
+college and out and about in London
+to see you through your first couple of
+weeks.
+There are plenty of computers scat-
+tered around Imperial. Armed with
+your IC login, you have full unadulter-
+ated access to the internet. Be warned
+that there is a usage policy and ICT is
+watching, as those of us who have fall-
+en foul in the past can attest.
+So where can you get at a computer?
+Well the Library has quite a few, from
+the ground floor Café to the individual
+topic floors with books (remember
+them right?). There are also a few scat-
+tered outside the SCR and most de-
+partments around college have at least
+one dedicated computer suite. Rumor
+has it that some departments are better
+endowed than others (here’s looking at
+you Mech Eng), so if you find yourself
+short in one department check out
+your neighboring departments.
+Of course if you’re the roll your own
+type, brandishing your nice and shiny
+pride and joy, Imperial has a campus
+wide wireless network. Imperial-WPA
+is the preferred connection and can
+be logged onto with pretty much any
+modern device, including iPhones/
+Gphones, with your Imperial login
+details. Some halls are kitted out for
+WiFi, but many still rely on Ethernet
+connection in rooms, which are also a
+great deal faster.
+Whilst using a non-college computer
+you can still get access to your Home
+or H drive by using the Home direc-
+tory finder (on the Imperial ICT web-
+site) and following the instructions.
+Your email account can also be ac-
+cessed using Exchange, IMAP or POP
+depending on what your needs are.
+Snow Leopard users will be pleased
+to hear that Imperial runs Exchange
+2007 meaning all your Mac apps work
+brilliantly with your college account.
+Windows users will need Outlook for
+full interoperability with calendar, con-
+tacts and email. If you’re out and about,
+your email can also be got at through
+the Outlook Web Access (http://icex.
+imperial.ac.uk) in any browser, though
+to get the non ‘light’ version you’ll need
+Internet Explorer *sigh*.
+This week, Technology Editor Samuel Gibbs, brings you a quick
+and dirty rundown of the ins and outs of tech life at Imperial
+Speaking of Halls, tech doesn’t stop
+at the door. Many Halls are kitted out
+with LCDs, games consoles, DVD/Blu-
+Ray players and shared computers. If
+you’ve got your own TV with you (you
+crazy kids) don’t forget you’ll ‘need’ a
+TV license, even for those with PC TV
+Everyone needs music at some point
+during their studies, whether it’s for
+working or rocking a party. These days
+music is available everywhere, some
+of it legally, quite a lot of it not. So if
+you’re sick of your music collection or
+only or you only brought a couple of
+CDs with you, why not check out Spot-
+ify for your free and legal music hit.
+If you’ve had been living under a
+rock for the last year and don’t have
+the foggiest what I’m on about then
+head on over to spotify.com and grab
+the client. The service provides unlim-
+ited streaming of a large music library
+with artists from EMI, Sony, Univeral,
+Warner and some other smaller la-
+bels. There’s the odd advert between
+songs here and there and there are ads
+displayed in the program itself but if
+you’re after music on the cheap you
+can’t get much better. Unfortunately
+Spotify has just gone invitation only
+for the time being, it should go back to
+general subscription in the future, but
+you can stick your email in there for in-
+vites. Spotify also runs a subscription
+based model at £9.99 a month with a
+£0.99 24-hour day pass for trial pur-
+poses, which is still open for sign-ups if
+you’re keen on the idea or want Spotify
+on your iPhone or Android device.
+Another decent free and legal music
+service is the selective internet radio
+provided by Last.fm. Listeners select a
+track or artist and start a ‘radio station’
+based around the type of music the
+track or artist represents. If you just
+want to listen to some music and not
+specific tracks then Last.fm is great.
+The service also uses a recommenda-
+tion engine, which learns by ‘Scrob-
+bling’ the music you listen to into a da-
+tabase of likes and dislikes, to predict
+tracks you’d like and recommend new
+artists and concerts. A player can be
+downloaded from Last.fm or streamed
+straight off the website.
+tuner cards.
+Imperial, especially South Ken, is a
+pretty benign place overall but there
+are a few things to be aware of now
+that you’re here. A decent firewall and
+antivirus is a must if you’re a PC user.
+If you’re connected to the college net-
+work literally thousands of people can,
+with a bit of know-how, find and have a
+go at your computer, so make sure you
+use protection. After all, you wouldn’t
+want to go home to your Mum with a
+nasty infection now would you? Mac
+users make sure you have your firewall
+on, by default it’s off, because people
+can still steal your stuff. Backups, you
+probably hear this a lot, are the savior
+of many a poor soul. From hardware
+failures, accidents, thieves and mal-
+ware, there are lots of things that could
+happen to your data. Irreplaceable
+photos of your roommate slumped in
+the corner with marker pen all over his
+face, as well as coursework, needn’t be
+lost should you have a good backup.
+Physical protection for your gear is
+also important. It doesn’t happen very
+often, but being a public place, nefari-
+ous types can get into Halls and raid
+rooms. It happened several times when
+I was a whippersnapper like yourselves
+and those who weren’t insured paid
+dearly. Insurance for your possessions
+in halls can be difficult to find from
+non-student insurers, but the likes
+of Endsleigh specialize in insurance
+geared up for Halls and at reasonable
+rates too. You might also be able to get
+cover specified on your parents house-
+hold insurance for a nominal fee, so get
+them to check with their provider. Sto-
+len gear doesn’t always have to mean a
+wrecked week, if you’re covered.
+Of course you’re not just here in
+London to study, so your tech life
+should follow you out and about in the
+capital. Thankfully the networks have
+gotten off their backsides and provide
+pretty good 3G signal across London
+for those equipped with smartphones,
+modems and portable hotspots. For
+those seeking a bit of WiFi, London
+just so happens to be one of the most
+connected cities on the planet with al-
+most every coffee shop on every cor-
+ner offering WiFi.
+Quite a few BT phone boxes and
+even some lampposts about the city
+are also hotspots so the likelihood is
+that you’ll be able to get your hit from
+almost anywhere. Most hotspots are
+run by BT, T-mobile, the Cloud and
+O2, but having an account with one
+of them normally means you can log
+into others using a cross network login
+system.
+From experience I know this doesn’t
+always work, but when it does, it’s
+great.
+You can even get programs such as
+DeviceScape that deal with the hassle
+of logging in for you automatically.
+In College
+In Halls Music
+Out and About in London Where to buy Tech
+Useful Links
+www.imperial.ac.uk/ict
+icex.imperial.ac.uk
+www.endsleigh.co.uk
+www.spotify.com
+www.Last.fm
+www.ebuyer.com
+www.TFL.gov.uk
+www.felixonline.co.uk
+If you’re feeling a bit short of gadg-
+ets then London also boasts quite a
+few shops to cater for your inner tech.
+The ‘world famous’ Tottenham Court
+Road plays host to quite a few compu-
+ter, gadget and consumer electronics
+shops including Micro Anvika, Gul-
+tronics and Brains HiFi, which sells,
+you guessed it, HiFi equipment. Tot-
+tenham Court Road has 3 tube stations
+along it, Tottenham Court Road (Cen-
+tral line), Goodge Street (Northern
+line) and Warren Street (Northern and
+Victoria lines) so it’s easy to get there
+and back with your goods. London also
+plays host to two Apple stores, Regent
+Street and Westfield, should you be a
+Mac-o-phile. There’s even a PC World,
+if you absolutely must, located close to
+college on High Street Ken.
+Of course being tech savvy as you all
+of course are, online is probably your
+best bet if you’re prepared to wait.
+Ebuyer.com is always a good bet, dabs.
+com is also worth a check. If you’re after
+some more unusual portable tech then
+Expansys.com, which specialises in un-
+locked phones, imported gadgets and a
+variety of accessories to kit you out.
+other interesting developments.
+The now Apple-less MacWorld 2010
+(will Apple have their own event in Q4/
+Q1 2010?) takes place 3-13th February
+in San Francisco. If new accessories are
+your thing then this year shouldn’t dis-
+appoint. For the rest of us MacWorld
+minus Apple is a bit like a burger with-
+out the meat.
+CeBIT 2010 held between 2-6th
+March in Hanover, Germany, is a prime
+showcase for a lot of portable comput-
+ing. Look out for new netbooks, PNDs,
+computer parts and accessories. Also
+keep an eye out for a boat load of pat-
+ent infringement arrests if this year
+was anything to go by.
+Apple holds it’s own events through-
+out the year, because they’re, you know,
+‘special’. So expect some sort of new
+announcements in Q2 around May/
+June, with WWDC 2010 (World Wide
+Developers Conference). The recently
+held annual Q3 music event, ‘It’s just
+Rock and Roll’, brought updates across
+the iPod line including a camera wield-
+ing iPod nano. The iPod touch got very
+little love from Apple, rumours of cam-
+era module issues abound, so expect
+some sort of iPod touch announce-
+ment in the near future.
+Of course if there’s something spe-
+cific you want covered, got a tip or
+suggestion, or just want to complain,
+hit us up at: technology.felix@impe-
+rial.ac.uk or follow us at twitter.com/
+SamuelGibbs
+Soon we’ll have
+embedded
+video, promise
+

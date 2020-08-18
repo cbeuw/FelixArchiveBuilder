@@ -1,0 +1,211 @@
+TECH
+FELIX ISSUE 1727
+tecfelix@imperial.ac.uk
+37
+these cameras stack
+against each other, it’s
+essential to understand
+the basics of how cameras
+produce images.
+The aperture, ISO,
+and shutter speed, often
+dubbed as the fundamental
+buildings of photography,
+decide how the image is
+produced. The aperture
+acts as the “pupil” of the
+camera as it controls the
+amount of light entering
+the sensor. The ISO
+decides how sensitive the
+camera is to light; i.e., how
+bright the photo would be.
+Finally, the shutter speed
+represents the amount of
+time for which the camera
+shutter remains open; in
+effect, it’s the amount of
+time that a camera takes
+to capture a photo.
+Smartphones often
+have fixed apertures, thus
+limiting their low light ca-
+pability. They overcome
+thisbyloweringtheshutter
+speed, effectively increas-
+ing the amount of light
+into the sensor. However,
+this poses a problem
+as lowering the shutter
+speed causes motion blur.
+Hence, these cameras
+have in-built optical
+image stabilization.
+Although this solution
+makes up for small
+hand movements, larger
+camera shakes, coupled
+with the movement of the
+subject(s), would effec-
+tively ruin the resulting
+photograph. To resolve
+this, smartphones turn to
+post-processing through
+software tricks, such as
+“night sight” in Google’s
+Pixel and “night mode”
+in Apple’s iPhone 11. Al-
+ternatively, this could be
+fixed through external sta-
+bilization methods, such
+as gimbals and tripods,
+as used by pro-cameras.
+However, smartphone
+manufacturers target
+ease-of-use and minimal
+dependence on external
+assistance modules.
+Another way smart-
+phones tackle lighting
+conditions is through
+machine learning. The
+camera captures images
+one after another at
+multiple exposure levels
+and intelligently merges
+select photos to create a
+well-balanced picture.
+Similar software-based
+methods are also used
+to “stitch” images from
+multiple cameras to form
+a singular image, such
+as those found in the
+Nokia 9, a smartphone
+with a 5-camera system.
+This phone was made
+in collaboration with
+Light, the company that
+made L16, a compact and
+easily portable device
+that houses 16 cameras.
+Together, these cameras
+images is felt best through
+Google’s Pixel 3. Despite
+only possessing a single
+rear camera, this phone
+has been consistently
+ranked as having one of
+the best modern smart-
+phone camera systems.
+On the flip side, DSLRs
+and mirrorless cameras
+have greater flexibility
+in manual control and
+possess a vast array of
+lens choices. Their raw
+capability to capture
+photos in almost any
+lighting environment out-
+weighs the software tricks
+used by smartphones.
+However, the conven-
+ience and affordability
+of smartphones cameras
+remain unmatched.
+Lens Choices in
+Smartphones
+The multiple camera
+system isn’t just used for
+zoom purposes. Many
+popular camera systems
+today use a third wide-an-
+gle camera to capture a
+wider scene. Other camera
+options include mono-
+chrome and time-of-flight
+cameras. A monochrome
+camera is used to boost
+the image quality through
+software manipulation as
+it captures the highlights
+and shadows while a time-
+of-flight camera captures
+depth information and is
+essential for immersive
+augmented reality experi-
+ences.
+Uniqueness in
+Camera Systems
+As smartphone man-
+ufacturers increase the
+camera count on their
+camera systems, the
+factor of uniqueness in
+their products decrease.
+To make up for this,
+they resort to additional
+features that serve as
+methods to lure custom-
+ers to their brand. For
+example, increasing the
+megapixel count of the
+cameras, introducing
+different lighting modes,
+using machine learning
+to adapt the camera to the
+scene, and providing the
+end-user with control over
+the post-processing of the
+image.
+Again, this “healthy
+competition” has driven
+an immense improvement
+in the production of
+high-quality innovative
+camera modules. A recent
+example is the intro-
+duction of folded optics
+camera systems, which
+allow for optical zoom in
+the range of 5x to 10x.
+An aspect that manu-
+facturers heavily focus on
+is the shape of the camera
+system. With the number
+of cameras increasing
+year after year and phones
+looking more alike than
+ever, the arrangement
+of cameras has slowly
+started to serve as brand
+identifiers.
+Conclusion
+As a result, the smart-
+phoneisstartingtobecome
+increasingly centered
+around its camera system.
+What started as an added
+selling point has now
+sparked a race for mobile
+vendors to compete in and
+fight to lead the n-camera
+smartphone trend.
+“The incredible
+effectiveness
+of software
+manipulation
+in processing
+images is felt
+best through
+Google’s Pixel
+3.”
+use stitching algorithms to
+produceimagesthatnearly
+match those produced by
+pro-level cameras.
+The incredible effec-
+tiveness of software ma-
+nipulation in processing
+37 37
+

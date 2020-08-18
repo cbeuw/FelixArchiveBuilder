@@ -1,0 +1,212 @@
+ISSUE 1703
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+8
+The Trolley Problem: What Would You Choose?
+Would you kill one person to save five people? With the increasing popularity of self-driving cars, the famous
+‘trolley problem’ has turned from a philosophical riddle into a real issue awaiting a solution.
+SCIENCE
+Paula Rowińska
+Science Writer “Preferences
+are for sparing
+humans over
+animals, the
+lives of many
+over few, and
+the young over
+the old.”
+R
+esearchers from
+the MIT Media
+Lab’s Scalable
+C o o p e r a t i o n
+group have surveyed over
+2 million citizens from
+over 200 countries about
+morally difficult deci-
+sions that autonomous
+vehicles might have to
+make. Participants played
+‘Moral Machine’, an
+online game designed by
+the researchers. In a series
+of potential situations on
+the road (mostly sudden
+break failures), they had
+to choose the lesser of two
+evils: for example, if it is
+morally more acceptable
+to kill a man in the car
+or a woman with a child
+crossing the street.
+As well as about 40
+million recorded choices,
+scientists gathered a lot
+of demographic data
+such as the age, gender,
+or education level of the
+participants. However,
+the only patterns in moral
+decision making they
+found were geographical
+and cultural. For example,
+citizens of “eastern”
+countries (a term defined
+by the researchers, refer-
+ring broadly to Asia) were
+less likely to save young
+people over the elderly
+than participants from
+elsewhere.
+“The most emphatic
+global preferences in the
+survey are for sparing the
+lives of humans over the
+norms in an emergency.
+Moreover, public en-
+gagement is the key to
+building up the public’s
+trust in the new technolo-
+gy – a necessary condition
+to adopt autonomous
+vehicles on a large scale.
+So far “public interest in
+the platform surpassed
+our wildest expectations,”
+reported Iyad Rahwan,
+the leader of MIT Media
+Lab’s Scalable Cooper-
+ation group. If you also
+would like to browse or
+even create possible road
+situations, visit http://
+moralmachine.mit.edu/.
+An aerial view of the Store Glacier in Northwest Greenland // Lawrence Hislop,
+http://www.grida.no/resources/1947
+SCIENCE science.felix@imperial.ac.uk
+8
+lives of other animals;
+sparing the lives of many
+people rather than a few;
+and preserving the lives
+of the young, rather than
+older people,” is how
+Edmond Awad, the lead
+author of the paper pub-
+lished in Nature, summa-
+rised the results.
+The researchers might
+use the data gathered
+in the ‘Moral Machine’
+project to help engineers
+program self-driving
+cars to operate according
+to particular societal
+Store Glacier: storing water?
+Recent research from Stanford University has shed light on a phenomenon: liquid water stored in pockets within
+solid ice. This discovery has important implications for predicting sea level rises under climate change – rises that
+will impact the lives of billions of people.
+SCIENCE
+Photini Knoyle
+Science Writer
+B
+y now, many
+of us are aware
+of the 5th
+Intergovernmental Panel
+on Climate Change
+(IPCC) report, which
+has attracted a storm of
+media attention since its
+publication last month.
+The report considers the
+environmental conse-
+quences of many possible
+climatic scenarios. These
+consequences include
+global warming-induced
+sea level rises, a product
+of the thermal expansion
+of sea water and melting
+land-ice running into the
+seas. However, there is
+much discourse over the
+extent and rate of future
+rises, partly due to insuf-
+ficient knowledge of the
+mechanisms underlying
+melting land-ice. Recent
+research from Stanford
+University provides
+insight into a possible
+complexity with land-ice
+melting: the phenomenon
+of liquid water trapped
+within glaciers. This
+more accurately predict
+how melting land-ice will
+impact our planet.
+The researchers from
+Stanford used ice-pene-
+trating radar to identify
+density variations within
+the Store Glacier in West
+Greenland. Regions of
+higher density indicated
+trapped water, and higher
+density regions correlated
+with glacial areas that had
+recently been melting.
+From this correlation, the
+researchers inferred that
+meltwater had trickled
+into, and become trapped
+within fractures in the ice.
+Meltwater is known to
+impact glacial movement
+by flowing to the base
+where it contributes to
+basal lubrication and a
+subsequent increase in
+glacial sliding. The si-
+phoning-off of meltwater
+into pockets within the ice
+may modify this process,
+by either delaying or
+entirely preventing the
+meltwater from reaching
+thebase.Howtheicemelts
+and where the meltwater
+flows will contribute to
+how a glacier responds to
+future climatic conditions,
+which will impact the pre-
+dicted timeline for future
+sea level rises.
+Previous research
+has focused on surface
+changes to glacial land-
+scapes, whilst the Stanford
+study offers insight into
+more diverse glacial melt
+mechanisms. With around
+40% of the global human
+population living within
+100km of coasts, the need
+for accurate sea level pre-
+dictions has never been
+greater. The Stanford
+study demonstrates that a
+more in-depth approach
+to studying and modelling
+land-ice melting will be
+required for climate sci-
+entists to make better pre-
+dictions of future sea level
+rises, and help us prepare
+for what the future brings.
+mechanism has not been
+previously studied, and
+should be considered in
+future models to help us
+

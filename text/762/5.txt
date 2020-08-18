@@ -1,0 +1,143 @@
+FELIX FELIX, Friday February 6th 1987 5
+S K I S
+Heliconic Hassles — solution
+Of the three solutions I recieved to
+this, only one solved the problem
+using the easiest and neatest method
+of modular arithmetic. In modular
+arithmetic (also known as 'clock'
+arithmetic) an integer number is only
+considered as it's remainder when
+devided by another, for example the
+number 23 taken modulus 5 (this is
+notated 23mod5) is equal to 3. Notice
+that, modulus 5, all numbers become
+either 0,1,2,3,or 4 (0 if the number
+is divisible by 5). Modular arithmetic
+works as ordinary arithmetic under
+addition and subtraction, e.g. (6 +
+7)mod5 = 6mod5 + 7mod5 i.e.
+13mod5 = 3 = 1 + 2. Of course
+these equations work equally well
+modulus any number, but 5 is the
+number we are interested in. When
+squaring numbers you have to be
+more careful in modular arithmetic,
+the correct expression is (X2
+)mod5
+= (Xmod5)2
+mod5 (you can check
+that). So the possible results, mod5,
+of squaring any integer can only be:
+02
+mod5 = 0, l 2
+mod5 = 1,
+22
+,nod5 = 4,32
+mod5 = 1, and
+42
+mod5= 1, i.e. 0,1,4, are the only
+possible results.
+Now consider taking Pythagoras'
+equation, X 2
++ Y 2
+= Z 2
+, modulus
+5. The equation can only now involve
+the numbers 0,1,or 4, and is
+impossible to complete using just 1
+and 4. Thus, taken mod5, one of
+X 2
+, Y 2
+,or Z 2
+, must be zero and
+thus one of X,Y,Z must be divisible
+by 5. Well done if you followed all
+that, I hope I explained it clearly.
+The winner was Edward Phiri,
+Mech Eng 1, who's solution was a lot
+less elegant than this, although
+correct. You can collect your £5 after
+1.00pm Wednsday.
+Hexagonal Unsymmetry
+Since I can't think of an unamusing
+story to go with this problem I'll just
+tell it to you. Imagine you have 19
+points arranged in a hexagon as
+shown below.
+Now imagine picking 10 of them
+so that there are an even number of
+points in every column, row, and
+diagonal. One of the solutions to this
+is shown below, but notice that it has
+a plane of symmetry (as shown).
+What I want is simply a solution that
+has no plane of symmetry. There is
+only one — good luck.
+Solutions, for the £5 prize, to the
+FELIX office by 1.00pm Wednsday,
+please. Keep the original problems
+coming in too, you'll get a credit if
+I use one, I promise!
+• •
+/
+•
+© • © •
+*
+© © / • •
+© 0 © ©
+/ 0 ©
+. i
+Walter
+Walter is pleased to return to a new
+publication after a period of absence
+due to illness. For the benefit of his
+new readers he has asked me to define
+his aim in these columns: The job of
+a satire, it has been rightly said, is to
+strip off the veneer of cosy
+respectability and half truth in which
+we clothe ourselves, and Walter's
+post, as he sees it, is to put it back
+again.
+The main furore in past weeks has
+concerned a certain fast-food outlet
+which has been much under fire by
+Hurricane Christine. Walter has
+refused to be drawn on this, except
+for a rare misquote: Ninety percent
+imagination and ten percent
+indigestion...
+Of much more interest to such a
+sporting chap at this time of the year,
+approaching once more, when
+putative sabbaticals don the gloves
+and start swinging with all their
+might. Doubly interesting this year to
+observe the possible use of a hockey
+stick as a weapon! Walter does wish,
+however, that these people would stop
+swinging once they have been elected.
+The final subject of Walters
+attention this week, is the move afoot
+on the part of ULU to make (and he
+quotes): "Hard-wearing condoms and
+water-based lubricants available in
+every bar in every college..."
+Walter feels that most bars already
+provide an acceptable range of water-
+based lubricants, and with the current
+popularity of tinned light beers,
+someone at Imperial is due for a nasty
+shock if they approach the barman
+and ask for a six-pack of Red Stripe.
+More Anon
+Photo
+Caption
+Competition
+W i n ! W i n ! W i n !
+Don't miss out on the chance of a lifetime! Just fill in the speech bubbles below in
+the way you think most appropriate and a fabulous FELIX free gift could be yours.
+The entry which agrees most closely with the decision of the FELIX panel of judges
+will win all the teabags which we have left over from the Christmas issue.
+

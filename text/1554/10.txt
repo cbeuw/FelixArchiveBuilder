@@ -1,0 +1,231 @@
+SCIENCE
+Editors: Philippa Skett,
+Keir Little, Fiona
+Hartley
+science.felix@imperial.ac.uk
+10 FRIDAY 04 OCT
+Skett’s science corner
+Philippa Skett
+Science Editor
+Welcome to Felix Science! If this is your ﬁrst time
+reading these pages then congratulations are in order;
+managing to tear your eyes away from the centrefold
+and pursuing something a bit more academic, and so
+early on in the year too, is no mean feat. To all our
+regular science enthusiasts (we know who you are,
+all ten of you) welcome back - we are hoping to hit
+harder than ever this year and make sure we deliver up
+to date science with a minimum of one pun per title.
+I’m Philippa and I make up a third of the science
+editorial team alongside Keir, a charismatic chemist
+and Fiona, a bubbling biologist like myself. If you are
+a physicist, a mathematician or even an engineer,
+get in touch and start writing for us! Otherwise it is
+going to be articles alternating between the ecology
+of guppies and scandals involving titration curves.
+My top science story this week is that of the chemist
+who was recently jailed for killing her husband. Akin
+to the Breaking Bad storyline in that basically lab
+supplies were stolen and someone then dies, Tianle Li
+from New Jersey slowly poisoned computer engineer
+Xiaoye Wang when their marriage disintegrated.
+Unlike Breaking Bad, this chemical crime did not pay
+oﬀ in thousands of dollars and hundreds of Emmy
+nominations, but instead resulted in a life sentence for
+the mother-of-one after a science-savvy nurse worked
+out that his symptoms pointed to thallium exposure.
+hallium ions are chemically similar in size to
+potassium ions, rendering the cellular channels for
+potassium useless in distinguishing between them both.
+hallium is able to enter cells and disrupts the normal
+ion movement of potassium, causing a whole host of
+biochemical issues. Only one gram of thallium can kill
+a human, and as it causes a large range of symptoms,
+poisoning may not be diagnosed until it is too late.
+Although Li pleaded not guilty, the research
+she conducted with biopharmaceutical company
+Bristol-Myers Squibb was centred on the eﬀect
+of thallium on humans, so accessing the banned
+substance would have been just too easy. hallium is
+soluble in water, so administration would have been
+straightforward, too: a slip of the wrist by seemingly
+innocent Li would have been all it took to get the
+substance into her husband’s drink with dinner.
+Since it can be diﬃcult to diagnose, by the
+time Xiaoye’s symptoms were linked to thallium
+poison there was no time to get the rare antidote,
+Prussian blue, and the damage was done.
+So if writing about that latest pathogen pathway
+doesn’t ﬂoat your boat, consider diving into the
+decidedly dark side of science instead. Get in touch,
+write about your favourite toxin and share your science
+stories:anythingthatpacksapunchissuretobeprinted.
+Blood, snot and students
+Fiona Hartley tells us why scientists will soon be
+adding a new weapon to our arsenal against flu
+I’m sure several of you are suﬀering
+with freshers’ ﬂu by now, as I am, be-
+cause sharing your germs via sniffling
+and/or coughing on your unfortunate
+peers in lectures is akin to physical in-
+timacy here at Imperial. You’d rather
+be healthy, or at least in bed, as you
+sip your Lemsip Max and wish that
+you hadn’t shuffled through crowds
+of virus-laden students in the QTR at
+Freshers’ Fair.
+While Freshers’ ﬂu is basically a bad
+cold that makes us feel a bit shit right
+when we want to be out on the town
+enjoying ourselves the annual ﬂu epi-
+demic is a much more serious aﬀair.
+Inﬂuenza always poses a potentially
+serious risk to our health and that re-
+mains a fact despite sensationalised
+news reports claiming the latest pan-
+demic will kill millions of people. (I
+do realise that I’m guilty of the same
+thing, referring to war in the title
+of this article – but how else do you
+make a future ﬂu vaccine sound excit-
+ing? Please tell me…)
+A vaccine that is eﬀective against all
+strains of ﬂu is described as the ‘Holy
+Grail’ for inﬂuenza researchers. Last
+week Imperial demonstrated its dedi-
+cation to this goal when Professor Ajit
+Lalvani and his team published their
+conclusions from a two-year long
+study of the health of 342 staﬀ and stu-
+dent volunteers in Nature Medicine.
+he study began in the autumn of
+2009 when the swine ﬂu pandemic
+was starting. Previous models had
+suggested that T-cells, the little lym-
+phocytes which are crucial in the cell-
+mediated immune response, could
+recognise core proteins within the in-
+ﬂuenza virus and perhaps confer some
+protection against symptoms of ﬂu.
+he team used the pandemic to ex-
+plore this theory. Once the volunteers
+had donated blood samples and nasal
+swabs, they were sent a health survey
+ever three weeks and asked to donate
+another nasal swab if they suﬀered
+from any symptoms of inﬂuenza.
+he group found that the volunteers
+who suﬀered from milder symptoms
+of ﬂu when infected had a greater
+number of CD8+ T-cells in their
+blood at the beginning of the study.
+Professor Lalvani called the ﬁndings
+a “blueprint” to guide future vaccine
+development. heir study contains
+precise information about the char-
+acteristics of the protective T-cells
+and this can be incorporated into the
+testing of novel inﬂuenza vaccines, as
+well as potentially leading to a vaccine
+that stimulates a T-cell response large
+enough to have the desired protective
+eﬀect.
+So your nasal secretions contain
+more value than you might ﬁrst think.
+And while I’d prefer a greater number
+of volunteers to have been part of the
+study, I think it’s great that students
+were indirectly involved. Imagine be-
+ing one of them, smug in the knowl-
+edge that the disgusting river which
+dribbled out of your nose four years
+ago inﬂuenced the advancement of
+science…
+his is good news for the future of
+ﬂu vaccination and our general health.
+It will be many long years before inﬂu-
+enza is a thing of the past, however; I
+suppose it will be even longer before
+we see the back of freshers’ ﬂu.
+“It’s not an
+inapt analogy
+to compare
+this to light
+sabers”
+New form of matter created from photons
+Keir Little
+Science Editor
+he Harvard-MIT Center for
+Ultracold Atoms has created
+“photonic molecules” by binding
+photons together, as published in
+Nature last week.
+he team, led by Harvard’s Professor
+Mikhail Lukin and MIT’s Professor
+Vladan Vuletic, ﬁrst cooled an
+extremely rareﬁed gas of rubidium
+atoms to a few degrees above absolute
+zero, then used weak laser pulses to
+ﬁre single photons into the gas.
+In this medium, the photons are
+slowed considerably by interacting
+with and giving energy to the rubidium
+atoms. “When the photon exits the
+medium, its identity is preserved,”
+Lukin said. “It’s the same eﬀect we see
+with refraction of light in a water glass.
+he light enters the water, it hands
+oﬀ part of its energy to the medium,
+and inside it exists as light and matter
+coupled together, but when it exits, it’s
+still light. he process that takes place
+is the same, it’s just a bit more extreme
+- the light is slowed considerably, and
+a lot more energy is given away than
+during refraction.”
+When two photons are ﬁred in,
+they exit joined together, as if in a
+molecule. his is due to an eﬀect
+called the Rydberg blockade, which
+disallows atoms near to each other
+being excited to the same state. When
+two photons are in the rubidium
+cloud, one must move forward after
+exciting an atom so that the second
+one can move in and excite other
+atoms nearby. hus, the photons pull
+or push on each other as they move
+through the medium.
+“It’s a photonic interaction that’s
+mediated by the atomic interaction,”
+Lukin said. “hat makes these two
+photons behave like a molecule, and
+when they exit the medium they’re
+much more likely to do so together
+than as single photons.
+“We do this for fun, and because
+we’re pushing the frontiers of science,
+but it feeds into the bigger picture of
+what we’re doing because photons
+remain the best possible means to
+carry quantum information. he
+handicap, though, has been that
+photons don’t interact with each
+other.”
+he eﬀect could be used to make
+photonic switches or logic gates for
+use in quantum computers, or for
+laser cooling and information transfer
+applications in current computers.
+“It’s not an inapt analogy to compare
+this to light sabers,” Lukin added.
+“When these photons interact with
+each other, they’re pushing against
+and deﬂect each other. he physics of
+what’s happening in these molecules is
+similar to what we see in the movies.”
+MIKHAIL LUKIN, VLADAN VULETIC/NATURE
+Want to write for us?
+Email to get involved:
+science.felix@imperial.ac.uk
+

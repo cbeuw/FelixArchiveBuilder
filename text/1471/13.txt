@@ -1,0 +1,213 @@
+13
+felix FRIDAY 29 October 2010
+TECHNOLOGY
+At Apple’s ‘Back to the Mac’ event last
+week, Steve Jobs once again got up on
+stage and announced that their size-zero
+laptop, the MacBook Air, had gone on a
+diet and picked up a little brother on the
+way. Apple announced two new models:
+a thinner successor to the 13.3” version
+and a brand new 11.6” notebook.
+The MacBook Air is now even more
+knife-thin at 17mm at its thickest edge,
+tapering down to an minute 2.8mm.
+The 13” model also sheds a little
+fat, bringing it down
+W
+ikileaks is in the
+news again this
+week after releas-
+ing approximately
+400,000 formerly
+classified documents relating to the war
+in Iraq.
+The biggest revelation from the docu-
+ment dump is the fact that the American
+government has seemingly admitted to
+far fewer civilian casualties than they
+actually knew about, and looked away
+from torture they knew the Iraqi army
+was committing. The document re-
+lease will come at a welcome time for
+WikiLeaks, as it will likely help divert
+attention away from their other prob-
+lems.
+Currently WikiLeaks is suffering from
+issues regarding its finances, and the
+legal problems relating to the sexual as-
+sault allegations recently levied against
+Julian Assange, the public face of the
+Less Air. More lust
+Chris Fonseka
+American embarrasment as more
+documents leaked about Iraq war
+From sexual assault to frozen funds, WikiLeaks is under attack from all sides, but
+will the whistleblower’s friend survive? Feroz Salam continues his investigation
+Miles away from the cringe-worthy
+launch of Windows 7, almost exactly
+a year ago to this day, Microsoft have
+kick-started or ‘rebooted’ their vision
+of an operating system for the modern
+smartphone. The developers say they
+are “proud” of what they’ve achieved
+and so they should be – it’s not often that
+a new Microsoft product opens to such a
+positive reception.
+Quite a few new Windows Phone 7
+devices were launched at an event in
+London, including models from HTC,
+LG, Dell and Samsung, with two cur-
+rently available for purchase in the UK
+– including the impressive HTC HD7 on
+O2 (shown right).
+Much consideration has been given
+to the graphical user interface in WP7,
+and this gives the new phone OS a
+clean, crisp feeling. It’s almost like
+they’ve taken the best features of the
+iPhone (swiping, pinch-to-zoom and
+other multi-touch gestures), and mixed
+them with their own ideas (moving
+backgrounds, colourful menus, infinite
+scroll), to make something greater than
+the sum of the two.
+Windows Phone 7 lands in the UK
+Jake Lea-Wilson to 1.32kg, while the new 11.6” model
+weighs in at just 1.06kg.
+The biggest developments however,
+are in the internals. Both models feature
+a low-voltage version of the Core2Duo
+processor, coupled with a decent battery,
+proposing seven hours of usable life. In
+the interest of shrinking the design as
+much as physically possible, Apple has
+abandoned off-the-shelf components
+and opted for a custom flash-based SSD
+storage system, similar to that used in the
+iPad, iPhone and iPod touch. While this
+allows for much faster memory access
+and near instant-on boot up, it brings the
+price to £849 for the base model 11.6”,
+which is still cheaper than the starting
+price of the previous iteration.
+There is no doubt that the MacBook
+Air is a lust-inducing laptop, the ques-
+tion is: will this be a hit with the
+general public? Or will it suffer the
+same fate as the last Air, simply to
+be used to help Senior Managers
+show off?
+website.
+As various mainstream news outlets
+pore over the documents published in
+the latest leak, Wikileaks itself has quite
+a task on its hands in trying to release
+funding, which has been frozen the
+last two weeks, since its account held
+with an Internet payment company was
+closed down. This appears to be a di-
+rect result of Wikileaks recently having
+been placed on a blacklist of organisa-
+tions maintained by the Australian and
+American governments, and makes it
+unlikely that many other popular In-
+ternet payment services will want to
+deal with them in the near future. This
+will cause some serious issues for
+WikiLeaks’ progress, but a quick look
+at the website shows that you can still
+donate to fund their operations. It’s
+unclear however, whether they will
+ever be able to access funds from the
+blocked account.
+The funding problem seems to match
+the regular escalation of issues that oc-
+curs every time WikiLeaks is poised to
+release a large amount of data to the
+press, and now comes off the back of
+allegations of sexual harassment levied
+against Assange in Sweden.
+The investigation has taken some puz-
+zling twists and turns – starting off as a
+rape and sexual assault case, before be-
+ing hurriedly downgraded less than 24
+hours later to a harassment investiga-
+tion.
+After eight weeks of relatively little
+news about the investigation, Swed-
+ish prosecutors are yet to formally file
+a case based on it. This has lent some
+credibility to Assange’s claims that he
+is the victim of a particularly callous
+smear campaign. Assange is under-
+standably refusing to discuss the mat-
+ter with the press, storming out of an
+interview on CNN recently as the inter-
+viewer attempted to press him into dis-
+cussing the implications of the charges
+on Wikileaks.
+When I wrote about Wikileaks for
+Felix last year, I ended my article with
+a grim prediction – that it would take a
+lot for them to stay in business for any
+sizeable amount of time, considering the
+wide range of governments they seem to
+have upset.
+Roughly six months on and a fair few
+scoops later, they are still hanging on in
+there, but the question marks over the
+future of their organisation remain just
+as prominent.
+With the curious rape allegations, it
+looks as if Assange might be up against
+people who are willing to stoop to re-
+markable lows in an attempt to keep
+him under control, and only time will
+tell whether his resourcefulness will be
+able to keep Wikileaks (and himself) in
+safe hands.
+The default apps have been designed
+by designers and not just developers,
+giving a new element of style, rather
+than just functionality. The main empha-
+sis, however, seems to be on integration
+and this is, frankly, fantastic. Finally
+Microsoft have understood that they are
+not just making firmware for generic,
+faceless office workers – they’re mak-
+ing it for social animals, for people with
+character. Right on the home screen,
+you can see posts from Twitter, Face-
+book, messages, calls and any other in-
+formation apps decide to give you.
+But what’s miss-
+ing? Inevitably
+there are short-
+falls in the sys-
+tem and surprise
+surprise, they’ve
+decided not to in-
+clude Flash, not to
+mention copy and
+paste. Furthermore
+there’s no HTML5,
+which is supposed
+to be the future
+of the Internet, so
+there may be trou-
+ble looming.
+What does this mean for the mobile
+phone space though? Is Microsoft just
+entering a crowded market place, or is
+it pushing the boundaries of mobile
+devices further? Now with Android,
+BlackBerry OS, iOS and Windows
+Phone 7, consumers have never had
+more choice, and better quality. Even
+the self-proclaimed “dork-talk” man
+himself, Stephen Fry, is a convert.
+Surely his endorsement can only mean
+good things for Microsoft’s newest mo-
+bile OS.
+

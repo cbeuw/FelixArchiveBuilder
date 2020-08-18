@@ -1,0 +1,243 @@
+t
+1
+1
+Imagine accessing books in the library
+without even leaving your seat, let
+alone walking across to the Lyon
+Playfair... reading the latest college
+news and information kept up-to-date
+as you watch... playing an interactive
+game with people you've never met
+from all over the country... Not a
+vision of University life in the
+future—all this available here at IC
+and now.
+Anyone who has ever used the
+central College Cyber or Vax
+computers w i l l have passed
+(unwittingly or otherwise) through the
+College computer network I C P A D .
+As well as linking all departments to
+the the central machines, I C P A D
+supports a number of more obscure
+services and has links all over the
+country. This article describes three
+such services, one on-campus and two
+off, which are available free of charge
+from most computer terminals in
+College.
+L O N . L I B
+The perfect antidote to a long book
+list, the London Libraries system
+allows you to check for availability
+of books and other material in
+libraries here at IC. A book can be
+identified exactly by quoting an ISBN
+or L C C A R D number, or it can be
+found by browsing through given an
+author or title.
+The computer will tell you roughly
+in which party of the library the book
+is to be found, what type the book is
+(reference, short term loan, long term
+loan etc.) and whether the book is in
+the library at the moment you
+enquire.
+In case the particular book you
+want is not in the library, the system
+also checks in all the other
+participating university libraries in
+London. Most useful of these is U L L ,
+the University of London Library at
+Senate House, Malet Street. A l l
+students have an automatic right of
+access to this library—just bring along
+your yellow IC library card. Using
+L O N . L I B you can confirm that the
+book you want is available in the
+library before jumping on the tube to
+fetch it.
+To connect to the system type C
+then L O N . L I B and press R E T U R N .
+The terminal will bleep, at which
+point you should press R E T U R N
+again. The system is totally menu
+Terminal
+addiction
+driven requiring single character
+responses such as A for Author
+search. Example 1 shows a short
+session where L O N . L I B is used to
+enquire about a book called
+E L E C T R O D E K I N E T I C S . Both the
+copies at IC are out, but there is a
+copy at U L L which is available.
+The system is not totally foolproof.
+Although all the books at U L L are on
+the computer, not everything at IC has
+yet been registered. In the unlikely
+case that the book you are looking for
+has not been properly registered, at
+best the computer will say 'No Copies
+Available'... at worst it may even say
+a book is in the library without
+checking simply because it does not
+know any better.
+L O N . L I B is a powerful system
+allowing anyone direct access to the
+libraries' records. However it does
+not give much of an idea of the
+content of the book there is no real
+alternative to going to the shelf and
+leafing through the book... yet.
+I C R A D
+I C R A D is the News and Information
+service run by IC Radio in Southside.
+It already contains an impressive
+amount of information even though it
+has only been running just over a
+week. The theory behind its launch
+was that all the information currently
+read out on air on IC Radio should
+also be made available from any
+computer terminal in college.
+The main menu is split into four
+main sections—News, M u s i c ,
+Information and Diary. The College
+news section is kept up-to-date to the
+minute, but the stories are necessarily
+shorter and contain less detail than
+those found in F E L I X . The Music
+area will allow anyone to browse
+through IC Radio's extensive record
+catalogue, although that part is not
+working yet.
+The Information section shows
+promise of building up into an large
+college database with sections
+maintained by college staff and
+student societies. Topics as diverse as
+the Humanities Lunchtime
+Programme and Department of
+Computing Society News are all to be
+found here. IC Radio are particularly
+keen to encourage more information
+providers to come forward.
+Finally the Diary section advertises
+events in the College and further
+e name T or enter new name. ad-
+CNPAD C
+Enter CR to,
+dress: L< *N L1H
+Call setup i i f p l f u l .
+Entering dajfwansfer
+University 1 London COMMUNITY ACCESS
+MODULE f
+If you need irisj
+press the N ke
+N
+| presMle Y key, otherwise
+ojpfast changed July 1985
+Title Search
+LCCARD no Search
+NTER Title : ELECTRODE KINET
+fmi'-of direct matches 2
+Book No. 1 Title : Electrode kinetics
+Author : Aibery, W
+2 Title : Electrode kinetifj}
+Author : Bamford, C j l
+3 Title : Electrode reai
+Author :
+X fllpturn to Main Menu F
+llbtails of book
+A ? Athor Search
+I : {SgR Search
+E I Enil'^ssion
+Command : 1
+Title<£Electrode kinetics
+A u p r : Aibery, W J
+ISBN : 0-19-855433-8
+.. Co\ Location Type
+I ' OMR MAIN,
+H ULL T*»„MONO
+J IC 54 T
+4 IC 54 T
+• Return to Main Menu F
+Details of book B
+|M tMore Copies A
+IT : Title S^rch I :
+L LCCARrJ*| Segggf E
+Enter Command E
+forwards
+;e backwards
+Search
+ARO no Search
+Bro|f|||forw'ards
+Browm backwards
+At^^P Search
+ISBN Siarch
+End session
+You have been«§n for 1 MINS. and you looked at 4
+items and'or authors ..••»'•*%
+Signed off HI ;|
+Invited to disconnect. f
+afield, plus also a useful cinema guide
+giving details of what's on locally.
+To use I C R A D type C then I C R A D
+and press R E T U R N . If you get the
+message ' S E R V I C E IS B U S Y '
+somone else is using the service—at
+present there is only one line but there
+are plans to increase this.
+I C R A D is totally menu based
+requiring single digit responses, but
+you can select a page directly by
+typing ' * ' then a page number
+followed by R E T U R N . Table 1 gives
+a few useful page numbers on
+I C R A D .
+M U D
+Multi User Dungeon is a computer-
+based fantasy game. Y o u adopt the
+persona of a Hobbit-style fictional
+character and wander round the
+dungeons solving puzzles to collect
+points. If you 'meet' another player,
+it is possible to converse—or you
+might even try assassination! The
+ultimate aim of the game is to score
+enough points to become a Wizard,
+whose powers are practically
+unlimitless.
+Getting through to M U D is not
+easy. It is only available during 'off
+Table 1—Useful Page Numbers on
+ICRAD
+102 College News
+3042 DoCSoc News
+305 For Sale/Wanted
+50 IC Radio Programme Schedule
+4011 Local Cinema Guide
+0 Main Index
+3031 Name Server Mnemonics
+3032 Sending Electronic Mail Abroad
+peak' hours—that is 2am-7pm
+weekdays and 2am-8am at weekends.
+M U D is based at Essex University.
+To connect type C then
+X25.00004960000001 and press
+R E T U R N . Type H E L P M U D for
+more information on the game
+including the user id and password,
+and H E L P L O G I N for details on how
+to log in to the system.
+G A I N I N G A C C E S S T O P A D
+Even if you do not use computers in
+your course, your department will
+probably allow you access to their
+P A D terminals (if they have any). If
+you have any difficulty there are a
+number in the Computer Centre on
+the fourth floor of Mech Eng.
+FELIX Friday October 30th 1987 11
+

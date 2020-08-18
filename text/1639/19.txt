@@ -1,0 +1,294 @@
+is traditionally associated with light fun? The
+word ‘game’ itself stems from the Old English
+‘gamen’, which means ‘amusement’, locating
+itself as radically opposed to the serious act
+of analysis. In her masterful essay Against
+Interpretation, Susan Sontag laments the
+destructive power of the modern interpreting
+gaze. She argues that interpretation
+is constricting – a way of making art
+‘manageable’ by taming the nervous anxiety
+it can provoke in the viewer. “In place of a
+hermeneutics,” she writes, “we need an
+erotics of art”.
+Videogames seem different, however.
+The game designer is only limited by her
+imagination, and current technological
+developments; by generating the code and
+algorithms responsible for our experience,
+developers are able control every aspect
+of a virtual world. While many other forms
+of art allow the makers to reflect the world,
+game design allows artists to create a world.
+As media academic Gonzalo Frasca writes,
+“simulator authors are not only creators, but
+also legislators, because they decide which
+rules will apply to their systems”. As such,
+videogames demand interpretation, but The
+Sims goes one further: where a work aims to
+straightforwardly reproduce life, examining
+the aspects of the simulacrum that make us feel
+uneasy can provide us with important lessons.
+Lived reality may provide the inspiration for
+The Sims, but The Sims can provide us with
+insights into our own existence. In the words
+of Frasca: “videogames could become a
+mirror where players could look for answers
+to the problems of their lives”. The fact that
+the MoMA included The Sims in the original
+14 videogames acquired as part of their
+Architecture and Design Collection, only
+speaks to the importance of The Sims to the
+wider world. And this is why I believe it is
+important to critically interrogate The Sims; to
+interpret it, and locate it within a conceptual
+framework, allowing us to identify what the
+game is trying to say, and what we are able
+to hear as players.
+§
+T
+he fact that my clearest memory of
+The Sims is of a fire seems fitting,
+since it was a fire that provided the
+impetus for designer Will Wright
+to create the game. In 1991, a firestorm
+raged across the hillsides of Oakland, central
+California. A combination of dry, hot weather,
+and brisk gusts of wind – a type of weather
+characteristic of the area; Joan Didion
+wrote of it: “the wind shows us how close to
+the edge we are” – lead to a wildfire that
+destroyed an area twice the size of the City
+of London, before being brought under. More
+than three thousand homes were destroyed in
+the fire, among them Wright’s. At the time,
+Wright was a successful game designer and
+co-founder of the studio Maxis. His breakout
+game, SimCity, was released in 1989. A
+simulation game that put the player in charge
+of designing a metropolis, kick-started the city-
+building game, and was an instant success.
+Followingthelossofhishouse,Wrightneeded
+to rebuild, and this provided the inspiration for
+a home-design simulation game; initially titled
+Doll House, the game was a straightforward
+building simulation, an architect’s toolbox.
+Somewhere along the line, Wright realised
+that it would be more interesting for people
+to control the building’s inhabitants, and thus
+The Sims was born. Released on 4th
+February
+2000 to rave reviews, it quickly became one
+of the best-selling PC game of all time, shifting
+a total of 11.24 million units. Expansion packs
+followed, such as The Sims: Unleashed,
+which introduced pets, and The Sims: Hot
+Date, which added a ‘downtown’ area to
+the neighbourhood. A sequel was released
+in 2004, then another in 2010, and the most
+recent iteration, The Sims 4, hit the shelves
+three years ago – all have been resounding
+successes for Maxis, but none have come
+close to the innovation and success of the first
+iteration.
+The Sims sits uneasily among the canon of
+videogame classics. Typically, the experience
+the game developer aims to provide is one
+that acts as a radical departure from our
+normal lives, from the exploration of ancient
+ruins in Lara Croft, to running and gunning in
+Grand Theft Auto. Even in the earliest games,
+players were thrust into improbable scenarios,
+whether it be the earth-defence mission of
+Space Invaders, or the hallucinatory endless
+labyrinths of Pac-Man. In sharp contrast, The
+Sims simply aims to replicate the player’s
+life. We are able to create little avatars of
+ourselves, and spend our downtime watching
+them live out lives similar to our owns; in a
+meta-twist, The Sims 4 allows sims to play
+The Sims on their own computers. The Sims
+therefore provides us with that most mundane
+and complex of fantasies: real life.
+The central theme of The Sims is work.
+Once your family has been created, they are
+provided with the arbitrary sum of 20,000
+simoleons (§), the in-game currency, with
+which to buy a property. Presumably, the
+simoleon was used as a stand in for any
+real life currency, but given the fact that the
+neighbourhood consists of archetypes of
+American vernacular architecture set against
+an isometric suburbia, you’d be forgiven for
+merely viewing it as a pseudonym for the
+dollar. §20,000 isn’t much – just enough to
+purchase the house and furnish it with the
+most basic of necessities.
+Upon opening ‘Buy Mode’, pausing the game
+and initiating catchy music, you are presented
+with a selection of different objects, ranging
+from cheap plastic flamingos and lawn chairs
+to modern sculptures and plush sofas. Those
+items that you cannot afford are visible, but
+covered in a forbidding red filter – like in all
+consumerist societies, the objects you need,
+or are told you need, are dangled just out of
+your reach. Since the cheapest objects impact
+negatively on your sims’ ‘Room’ mood score,
+and generally fail to efficiently satisfy their
+needs, The Sims forces the player to adopt an
+aspirational mind-set, wherein they pine for
+flat screen TVs and matching dining sets. Add
+to this the fact that utility bills continually pile
+up, and the player is left with no other option
+than to force their sims to work.
+While some areas of The Sims are close
+approximations to reality, other aspects are
+beguiling. One such feature is the lack of
+weekendsortimeoff:foryoursims,everysingle
+day is a working day, and any relaxation must
+be done in the period between clocking off
+from the job and going to bed, preparing for
+another day of labour. The seven expansion
+packs to the game added in Frankenstein
+monsters and genies, magic spells and movie
+superstars, but did not include the concept of
+‘retirement’. The sims must work every day
+of their lives, which – provided there are no
+accidents, are endless. A lifetime of work
+without end stretches out before us like a Kafka-
+esque nightmare. The closest comparison
+in the world of videogames I can think of is
+Molleindustria’s Every Day The Same Dream,
+a short art-house game in which you control a
+faceless individual navigating a grey world of
+repetitive work, and disenchanted by modern
+alienation of labour. It makes its point in a
+radically different way to The Sims, but both
+share a deep sense of unease.
+The Sims itself doesn’t have victory
+conditions; there is no actual ‘end’ to the
+game, which can continue as long as the
+player’s attention-span allows. However,
+it is possible to reach the ‘end’ of a career,
+past which point your sim will no longer be
+promoted. Promotions are achieved through
+increases in both the number of friends a sim
+has, and their relevant skills – a hearts and
+minds approach to career development, if you
+will. The ‘Politics’ career path, for example,
+requires high levels of charisma, as well as
+huge numbers of friends – in The Sims, as in
+real life, it’s all a popularity contest. The result
+of this mechanism is to transform features of
+life like friendship and knowledge, which are
+traditionally viewed as intrinsically valuable,
+into things possessing mere instrumental
+value. Friends are only used to secure your
+next promotion; knowledge is a means of
+increasing your sim’s labour value.
+The centrality of work to The Sims can be seen
+in the etymological myth that has surrounded
+the company. Although untrue, many believe
+that ‘Maxis’ refers to 6 AM spelt backwards, a
+legend actively encouraged by the easter egg
+in SimCity 3000 that stated “Do you know that
+Maxis spelled backwards is Six AM?” 6 AM
+is, in Western society, heavily associated with
+the beginning of the working day; the shrill
+tone of an alarm going off at such an early
+hour is, across a variety of media, indelibly
+linked to the beginning of work. In The Sims,
+it is the time that your sims will naturally wake
+themselves, ready to begin another day in
+their endless life of labour.
+§
+A
+nother key theme in The Sims is
+that of simplification, which is
+understandable, given the vast
+diversity of human life and the
+limited processing power of computers.
+Your sim’s personality is shrunk down to
+five main characteristics: neatness, niceness,
+outgoingness, playfulness, and activeness.
+The entire diversity of human temperament
+in The Sims is reduced to a balance, or
+imbalance, of these five factors. Similarly, the
+realm of possible knowledge is represented
+by 6 different ‘skills’, which can be improved
+by interaction with objects; for example, a sim
+may increase their logic skill by playing chess
+until the bar above their head fills up. Some
+have criticised this as being far too simplistic,
+such as Janet Murray, the seminal digital
+media scholar, who said that humans were far
+more complex than that. While undoubtedly
+true, one only has to look at the continuing
+popularity of psychometric tests, such as the
+Myers-Briggs classification, to see how many
+of us yearn to be reduced down to simpler
+individuals.
+While The Sims may represent a radical
+departure from the goal-orientated action-
+based games of the 1990s, it has a number of
+featuresincommonwiththeRolePlayingGame
+(RPG) genre. Like RPGs, simulation games are
+centred around an open-ended state of play,
+one in which the ‘end’ is relative, and often set
+by the player. The Sims also shares with RPGs
+an emphasis on ‘grinding’ – an engagement
+in repetitive mechanical tasks in order to
+progress to a new level. While traditionally
+associated with MMORPGs, such as World of
+Warcraft and Runescape, The Sims uses the
+career path algorithm to encourage players
+to force their sims to repetitively work on their
+skills, in order to gain the points needed for
+career progression.
+So far, so innocuous, but where the
+grinding aspect in The Sims becomes more
+questionable is in social interactions. The
+relationship between two different sims may
+be measured using the relationship bar, which
+spans from -100 (indicating mortal enemies)
+to 100 (indicating best friends); clicking on
+another sim will open up a number of different
+possible interactions, which may be friendly,
+romantic, or mean. In order to increase your
+relationship with another sim (an indirect form
+of ‘levelling up’, as it were), you will need to
+repeat particular social interactions over and
+over again, ensuring that your conversational
+partner does not get bored. In real life,
+telling someone seven jokes in a row will earn
+you a bemused look, but in The Sims such
+practice is actively encouraged. By reducing
+human interaction, something so nuanced,
+so complex, to a series of grinding tasks,
+The Sims encourages us to see relationships
+Figure 4: If your sims happen to perish, they will
+recieve a visit from the Grim Reaper. They are given
+the opportunity to “cheat death” by playing Rock-
+Paper-Scissors, but if they fail they are removed
+from the game, leaving behind ashes in an urn,
+and a mourning family.
+Figure 1: The Sims allows the player to create
+virtual avatars, who can represent any number of
+real-life individuals. Above is Bella Goth, a member
+of one of the premade families available to play
+from the start of the game.
+Figure 2: The “plumbob” indicates which sim you
+are currently controlling. Originally intended to
+be a placeholder before the designers created
+something else, it has gone down in gaming design
+history.
+Figure 3: Players are faced with three different
+game options: Live, Buy, and Build. Acting as a
+vast catalogue, the Buy Mode shows players all
+the things they could purchase, once they begin to
+work and earn money
+>>>
+15
+14
+

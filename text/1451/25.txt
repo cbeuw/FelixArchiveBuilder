@@ -1,0 +1,125 @@
+25
+felix FRIDAY 29 JANUARY 2010
+technology.felix@imperial.ac.uk TECHNOLOGY
+Apple’s latest creation named: iPad
+I
+f you haven’t heard by now Apple
+had an event on Wednesday this
+week at the Yerba Buena Center in
+San Francisco. After all the hype,
+could the much rumoured Apple tablet
+possibly deliver?
+Apple is aiming the iPad (not the iS-
+late, iTablet or iPod HD/Maxi) to fit in
+between your laptop and smartphone,
+a device space that doesn’t necessarily
+exist at the moment that is normally
+covered by the netbook or eReader. If
+you had your hopes pinned on a fully
+fledged tablet computer I’m afraid I’m
+going to have to disappoint you, the
+iPad is essentially just a giant iPod
+touch. It may have a few fancy fea-
+tures like a 9.7 inch screen and an
+Apple developed 1GHz processor
+named the A4, but essentially it’s the
+same capacitive-touch screen experi-
+ence you are already familiar with.
+On-board the device you’ve got
+custom versions of the usual apps
+you’ve come to expect on Apple iDe-
+vices: iTunes and the iTunes store
+including the App Store, Maps, Cal-
+endar, Mobile Safari and email, each
+looking like a cross between what
+you find on a Mac and the iPhone.
+The main difference comes when
+you explore the greater real-estate
+provided by the new screen size.
+The Email app for instance provides
+an experience similar to that of a
+desktop with a two-pane view dis-
+playing a list and an email preview.
+Likewise browsing on the iPad is
+like that on the desktop with a fair-
+ly standard 1024x768 display.
+Something that’s brand new for
+the iPad is Apple’s movement into
+the eBook market with iBooks. Es-
+sentially aiming to be the iTunes
+music store of books coupled with
+an eBook reader application on
+the iPad, the iBooks store allows
+you to buy and read ePub books.
+I’m not sure what the screen read-
+ing experience is going to be like
+on that LCD, but Amazon should
+definitely be scared.
+Text is entered on iPad via a
+virtual chiclet-style keyboard
+which looks like a cross between
+that found on an iPhone and a
+MacBook.
+The iPad essentially runs
+iPhone OS and therefore can
+run almost all App Store apps
+either at native or 2x resolu-
+tion with more iPad specific
+apps in the works including an
+iPad version of iWork.
+The iPad will be available
+with WiFi only in 60 days from
+$499 and WiFi+3G in 90 days
+from $649. International pricing
+and data contracts are TBA.
+Samuel Gibbs takes a look at the mythical device that’s captivated the tech world & will be here in 60 days
+6/2006
+Google sells its share in Baidu.
+1 GHz processor
+Apple’sown1GHz‘A4’processorthat
+came from the PA Semi purchase.
+‘Powerful yet power saving’
+10 hr battery
+10 hours of continuous playback and
+one month of standby quoted (real
+life battery life remains to be seen).
+16, 32 or 64GB
+Flash storage for photos, videos
+music and apps.
+WiFi 802.11n
+WiFi networking for web browsing,
+email, video and iTunes.
+Bluetooth
+Bluetooth 2.1 + EDR on board
+for streaming audio and headset
+connection
+Speaker
+A built-in speaker provides for
+impromptu concerts (just don’t
+expect great quality). Of course
+there’s also a 3.5mm headphones
+port for a more personal experience.
+9.7” IPS display
+1024-by-768-pixel LED backlit
+capacitive touch-screen display with
+IPS technology, which helps enhance
+viewing angles especially for video.
+Key Features
+Compass
+The iPad comes packing a compass as
+well as an accelerometer just like the
+iPhone 3GS.
+Mic
+A built-in mic for recording your
+grating voice and inflicting it on
+others across the world.
+3G for data
+GSM capable 3G modems built-in
+as an optional extra for on the go
+surfing (great, another contract).
+Dock connector
+The iPad sticks with the iPod
+style Apple Dock connector for
+accessories, charging/syncing and
+USB connectivity.
+

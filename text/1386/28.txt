@@ -1,0 +1,214 @@
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a dash of
+Sudoku.
+The object of the game is to draw lines be-
+tween the dots to create one long, and most
+importantly, looping line. It should have no
+start or finish; just like an elastic band.
+Each number indicates how many lines
+should be drawn around it, for example:
+Cells which don’t contain a number can be
+surrounded by any number of lines.
+Remember, the line must form a loop, so
+the line cannot branch. The following situa-
+tions are not allowed:
+Squares are not allowed either. There are
+never cells containing the number 4 in
+Slitherlink.
+So, where do you start? The most com-
+mon place to start on a Slitherlink grid is by
+drawing crosses around any zeros. Drawing
+crosses is purely done to so that you know
+where there can’t possibly be a line. So, take
+the pattern below as an example. Begin by
+drawing crosses, then by filling in some
+lines:
+Now the lines can only continue in the fol-
+lowing directions:
+Ha, ha! We’ve sprung another gigantic 10x10
+on you this week. Enjoy and keep linking!
+sudoku.felix@imperial.ac.uk
+29
+Friday 9 November 2007 felix
+Fun & Games
+Logic Puzzle: Bar Sharking in the Union
+Using the clues and logical deduction
+alone, work out how all the people
+involved in the match relate to each
+other. The puzzle can be solved with-
+out guesswork. Make use of the grid to
+mark the combinations that you know.
+Read through each clue and make any
+obvious or stated deductions. Find the
+corresponding row and column on the
+grid and place a tick for ‘Yes’ in the box,
+and a cross for ‘No’ in the cells next to
+this one vertically and horizontally.
+Ensure that you read the clues care-
+fully. They can sometimes reveal mul-
+tiple hints! Remember that elimination
+of alternatives is a key method. That
+is where the grid is so important - it
+allows you to see the possibilities left
+with ease.
+Last week five boys pulled five girls in
+the Union (yes there were a whole five
+girls in the Union!). Which guy pulled
+which girl, what did he drink and what
+was the result of the evening?
+ADAM
+MATTHEW
+TOM
+JOHN
+CHRIS
+LONE MASTURBATION
+THREESOME
+NEW RELATIONSHIP
+STAYED AT HERS
+VOMITED COPIOUSLY
+SNAKEBITE
+ALE
+BEER
+GIN AND TONIC
+CIDER
+JESSICA
+JANE
+MARCIA
+LOUISE
+SARAH
+SNAKEBITE
+ALE
+BEER
+GIN
+AND
+TONIC
+CIDER
+LONE
+MASTURBATION
+THREESOME
+NEW
+RELATIONSHIP
+STAYED
+AT
+HERS
+VOMITED
+COPIOUSLY
+(Any similarities
+to persons living
+or dead is purely
+coincidential!)
+1. Matthew pulled Jane. The guy who
+wooed Jessica didn’t vomit copiously.
+2. The guy who kissed Louise was
+drinking ale.
+3. Chris ended up in a threesome later
+(lucky boy).
+Slitherlink 1,386
+3
+2 2
+3
+0
+x
+x
+x
+x
+3
+0
+x
+x
+x
+x
+Slitherlink 7 – Hard
+2 3
+1 0
+Answer for Slitherlink 6
+2
+2
+3 2 2
+1 2 1 1 3
+2 2 3 3
+2
+2 3 0 2 2
+3
+1
+3
+3
+0
+2 2 2 2 2 2 2
+3 2 1 2 1
+2 2 3 2 2
+2 1 2 2 2 1
+2
+2
+2
+2
+2 2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2 3
+3
+3
+3 3
+3
+3
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+1
+0
+1
+Seen a girl you like and can’t think how to approach
+her? Need to tell someone a painful truth but can’t
+say it face-to- face?
+Felix Catfone is here for you! Text the Felix
+Catfone for free* and we’ll publish them!
+*if you have a contract phone. Technically, this might not be true. Basically,
+the Catfone is just a regular mobile on the Orange network
+07980
+07980
+148
+148
+785
+785
+4. The guy who ended up in a new re-
+lationship had been drinking gin and
+never drank again!
+5. Adam didn’t drink cider; the person
+who drank cider ended up alone, mas-
+turbating furiously.
+Last Week’s Solution:
+Luke Fly Half Man of the Match Very Long Arms
+Anjit No.8 Sin Binned Tall and Freckled
+Owen Flanker Ball to Balls Short and Plump
+Jov Hooker Scared Opposition Squidgy
+Joe Prop Scored Try Odd Sized Feet
+6. The guy who pulled Marcia ended
+up staying at hers and doing the walk
+of shame in the morning.
+7. Tom (who didn’t stay with Marcia)
+was drinking snakebite and got through
+seven pints before pulling his girl.
+

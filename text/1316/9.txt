@@ -1,0 +1,424 @@
+By Cassandra Aldrich
+and Gabriella Silvestri
+Careers Editors
+NISHANT DESHPANDE
+graduated in 1997 with a
+BEng in Information Systems
+Engineering (ISE). He’s had
+an interesting career path,
+like many IC graduates.
+After Imperial, he joined
+Goldman Sachs in London
+for three years, after which
+he decided to do an MS in
+Artificial Intelligence at
+Stanford. This was followed
+by a job at the Oracle head-
+quarters in California, while
+at present he’s working for a
+startup company in the US.
+Did you always want to
+go into IT?
+No. I really didn’t know
+much about computers at
+school. I liked chemistry and
+almost went to do Chemical
+Engineering at Nottingham
+University. Then I decided to
+take a year out between A-
+levels and university. During
+part of that year, I worked for
+a software company, and from
+then on, I was in IT.
+Can you tell us more
+about what your present
+work involves?
+For the last five months, I
+have been working at Efficient
+Frontier (www.efrontier.
+com). We are a search mar-
+keting company that handles
+keyword advertising for our
+customers. Therefore, when
+you search for something on
+Google or Yahoo, you seethe
+‘true’ search results and the
+paid ads on top and on the
+side. There is a live 24-hour
+auction going on amongst the
+competing ads to be shown,
+for each search phrase.
+We optimize this advertis-
+ing channel by applying
+quantitative methods and a
+portfolio approach to han-
+dling all the keywords and
+ads our customer has and
+enabling the customer to bet-
+ter achieve their advertising
+goals.
+Since joining, I have been
+working on exposing a lot of
+our functionality to custom-
+ers via our website. The tech-
+nology I am using is Java,
+Linux, Struts, and a lot of
+database work.
+What did your work at
+Goldman Sachs involve?
+How did you come to do
+your MS in Artificial In-
+telligence at Stanford?
+Each business unit at
+Goldman Sachs had its own
+IT to develop and support
+applications for that busi-
+ness. I joined a new team for
+the Equity Capital Markets
+group in London. We started
+with three people, including
+my boss. We learnt about the
+business and then developed
+applications to make the busi-
+ness processes more efficient.
+I was there for three years,
+and I really enjoyed it.
+I had several motivations
+for doing an MS. I was keen
+to explore and to get a much
+deeper and broader set of
+skills and knowledge tech-
+nicall. Also, of course, there
+was the lure of Silicon Valley
+and California at the height of
+the dot com boom.
+So, all of the above pointed
+to Stanford. As for Artificial
+Intelligence, I took an
+‘Introduction to AI’ course
+in my first quarter, and got
+interested in the subject, and
+continued to take AI courses
+until I had enough to spe-
+cialize in AI (the degree is
+from the Computer Science
+department).
+Do you think there are
+more opportunities in
+the States in your line of
+work?
+Definitely, simply because the
+US market is so large, and
+the Bay Area (no one calls it
+‘Silicon Valley’ here) is unlike
+any other place for technol-
+ogy, not just compared to
+Europe but pretty much any-
+where else in the US. It is just
+like London is the centre for
+finance and investment bank-
+ing in Europe and New York
+the centre in the US.
+Having said that, I think
+London and Cambridge have
+a lot of things going on in the
+technology sector, and there
+have already been some suc-
+cess stories. I am sure there
+will be more in the future.
+How was your experi-
+ence at Imperial?
+I was in the ISE batch, and
+we renamed it ‘Instant Sanity
+Erosion’. It was a small class
+– I think the BEng batch was
+probably around 35 students
+– and most people were real-
+ly hard working, so it was
+hard work just keeping up
+with everyone. But, of course,
+I think for most people the
+undergraduate degree is the
+most fun; it was for me.
+The teaching and facilities
+were very good. Looking back,
+I wish I had spent more time
+exploring the general area
+that I was studying; we were
+at college when the internet
+was taking off. But I’ve never
+really liked sitting in a base-
+ment in front of a computer
+screen for more time than
+necessary, especially when
+the other options were sitting
+in the Queens Arms...
+Do you think being at
+Imperial has equipped
+you well for your future?
+I have worked with people
+from many different univer-
+sities, and I think you can
+always count on a person
+from Imperial to know his or
+her stuff, and be really hard-
+working and tenacious in
+finding solutions, much more
+than most other universities.
+I don’t know whether that is
+the effect of a few years at
+Imperial, or the type of per-
+son that comes to IC. Either
+way, if you can do fairly well at
+IC with the stiff competition
+that exists, I think you can be
+confident you can do well in
+the future.
+Do you have any advice
+to students wanting
+to get into your line of
+work or advice resulting
+from your experiences?
+Work as a software engineer
+faces increasing competi-
+tion from people in devel-
+oping countries, like India
+and China. You have to have
+something extra to be of value
+in this field. This means hav-
+ing first a really solid under-
+standing of the basics – the
+more I have worked in this
+field, the more times I have
+had to look at the basics to get
+to a better solution.
+The other great thing about
+this field is that there is very
+little between theory and
+practice. If you know some-
+thing, you should be able to
+implement it. Keep thinking
+like that and trying to put it
+in practice, and your learning
+will increase exponentially.
+JOHN STAVELEY gradu-
+ated from Imperial in 1997
+with an Honours and a
+Masters Degree in Chemical
+Engineering. He was treas-
+urer of the Entertainments
+Committee at IC and also
+wrote for various College
+publications. He then went
+on to complete an MPhil in
+computational fluid dynamics
+and a Postgraduate Diploma
+of Management while at
+UMIST, where he also did
+part time tutoring and dem-
+onstrating. After finishing
+his studies, he worked for
+Enviros Software Consulting
+Team. His role as a software
+consultant to the environ-
+mental sector involved work-
+ing with clients such as BP
+,
+the Department of Trade and
+Industry, the Environment
+Agency, the MoD and
+Kuwaiti Oil and Gas. After
+fouryears with Enviros, he’s
+now a software engineer for
+Walker Morris Online where
+he is involved in designing
+and developing software
+products and also in the
+marketing and sales of these
+products.
+Did you always want to
+go into Software Engi-
+neering?
+No, I was always interested
+in science. My MEng and
+MPhil were both in Chemical
+Engineering, though the
+computational element of my
+MPhil was very high. I had
+been programming since I
+was 13 though, so computing
+always made sense to me.
+What made you want to
+do postgraduate study
+after you finished at
+Imperial?
+I didn’t really feel Imperial
+stretched me. It taught me to
+learn by rote and I wanted to
+be more creative with what I
+had learnt and apply it some-
+where. Research was very
+interesting, but doing a EngD
+course relies a lot on having a
+good supervisor, and mine left
+three months after I joined. I
+greatly enjoyed research, it
+was a great personal chal-
+lenge which I found fulfilling,
+but I didn’t like the world of
+academia.
+How did you come to do
+a year of management
+studies? Would you
+recommend it to other
+postgraduate scientists
+who perhaps wish to
+leave research for busi-
+ness or industry?
+This is the taught part of an
+MBA and is part and parcel
+of the EngD course (four year
+PhD plus applied research
+and management). It’s very
+difficult to obtain MBA fund-
+ing in the UK and this was a
+good way in. I found it very
+useful and I’m sure it will pay
+me dividends for a good while
+to come.
+I found the transition
+from research to industry
+extremely easy – I’m not
+sure how others would cope.
+I found the world of academia
+very inward-looking and not
+always interested in solving
+problems that would be use-
+ful in the real world, whereas
+I always wanted to know how
+to apply research.
+How was your experi-
+ence at Imperial?
+I didn’t much like the place.
+There are better ways of
+spending four years. It
+deserves as good a reputation
+as Oxford or Cambridge, if not
+better for some departments.
+I enjoyed being in London,
+this has much to offer.
+Do you think being at
+Imperial has equipped
+you well for your future?
+It gives you an intellectual
+rigour and ability to solve
+problems. It definitely has a
+certain style about it, it gives
+you a work ethic like no other,
+and the name opens doors.
+There is an oft-quoted sta-
+tistic that Imperial graduates
+earn consistently more than
+graduates of other universi-
+ties. This may be because
+they choose to stay in London
+where salaries are higher...
+but quality of life isn’t, I
+have to add. When choosing
+where to work, bear in mind
+that £28k buys very little in
+London, whereas in most
+other parts of the country it
+buys a lot. I believe eventually
+London will suffer commer-
+cially because of this.
+Do you think that your
+extra-curricular activi-
+ties during your stud-
+ies were a big plus
+when looking for jobs?
+Did they develop your
+skills?
+I think I got a huge amount
+from these activities. They
+were also fun and allowed
+me to meet some of the
+more interesting people at
+Imperial. They’ve been occa-
+sionally mentioned in inter-
+views. Most people mention
+the travelling I’ve done since.
+Employers are looking for
+an individual who can com-
+municate and work as a team.
+The jobs where this isn’t a
+requirement are very few
+and far between. I think that
+this is somewhere Imperial
+lets you down – you spend
+so much time working that
+you don’t get much time to
+socialise.
+Do you have any advice
+to students wanting
+to get into your line of
+work or advice resulting
+from your experiences?
+The first job is difficult, but
+once on the ladder things
+are much easier. When you
+go to interview, know some-
+thing about their industry and
+come across as enthusiastic.
+Emphasise your team work-
+ing and communication skills.
+A key skill for computing is
+attention to detail.
+Don’t walk into the first
+job you get. You don’t need
+a job, you need the job. If you
+can afford to, hold back. The
+market is pretty good at the
+moment, whereas two years
+ago it was very difficult.
+Big companies are not
+always better. I got an
+extremely good variety of
+experience working as part of
+a very small team.
+IC graduates in the IT industry
+Careers felix@ic.ac.uk
+www.felixonline.co.uk
+Felix
+Thursday 17 February 2005 9
+Careers
+events
+Employer Presentation
+Barclays Global Investors
+Mon 21 Feb, 6.30pm,
+Skempton Building, Lecture
+Theatre 201. Register by
+emailing bgigraduatecareers
+@barclaysglobal.com, stating
+‘Imperial BGI presentation
+– 21st February’.
+Internship Opportunity
+Presentation
+Infosys Limited
+Tues 22 Feb, 6.30pm, Blackett
+Laboratory, Lecture Theatre
+2.
+Women’s Roadshow
+Shell
+Tues 1 March, 6.30pm, SCR,
+Sherfield Building.
+Corus
+Thurs 3 March, 6.30pm. Venue
+and registration TBC.
+Employer Mock
+Interviews
+Deloitte
+Wed 2 March, 10.00-5.00pm
+Sign-up begins Mon 7 Feb.
+IT skills are fundamental for nearly all graduate jobs
+

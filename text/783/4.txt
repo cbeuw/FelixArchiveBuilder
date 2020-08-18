@@ -1,0 +1,180 @@
+U N D E R B * THE
+MOOSJSCOPE
+by Steve Black
+I would like to thank Jason Lander for the article on the new Acorn computer.
+Anyone else is welcome to submit articles of a similar nature. If you are not
+confident of your linguistic abilities, don't worry I can clean up whatever
+you send. I am easy to contact via the F E L I X Office, the letter racks in the
+Chemistry foyer, or by phone (int 4642). I also welcome ideas even if you
+don't have time to investigate them yourself, so if you want to see something
+explained, drop us a line.
+Next week: is the earth a gas planet? and chaotic uses for pure mathematics.
+E R R A T U M : last week the labels on the chemical diagrams got confused
+during the pasting up, it's not that my knowledge of chemical nomenclature
+is completely up the creek.
+The influence of
+cars on wildlife
+The car has complei ;hanged the
+way we live. Many .ychological
+studies have shown us ::hat we value
+the car as a status sym ol and as an
+outlet for violent emc ns: getting
+from A to B is a relative minor use.
+The influence of cars i i how we
+appreciate the environment has not
+been much studied; that is until now.
+American Roger Knut on has just
+published the definitive guide to how
+cars influence the environment and to
+how drivers can appreciate the
+wildlife on the road. The book is
+called Flattened Fauna: a Field Guide
+to Common Animals of Roads, Streets
+and Highways.
+Normally, drivers miss e joys of
+nature on the road because aey may
+have the stereo turned up too much
+or they may not be watching where
+they are going. Knutson's book offers
+those drivers a chance to appreciate
+the nature they would otherwise miss
+(or hit as the case may be). As he says
+in the book: ' A Sunday drive can
+become a safari into a new habitat
+populated with animals unlike those
+you have seen before.'
+The book is filled with wonderfully
+clear silhouettes to aid with
+recognition of the animals. There are
+also some interesting zoological
+speculations on the usefulness of
+mimmicry in flat animals, however it
+is not clear how these fit in with
+conventional Darwinism: it is not, for
+example, easy to explain the
+similarity of rusty hubcaps and the
+painted turtle in terms of convergent
+evolution.
+A l l things considered the book
+makes a wonderful departure from the
+highly unnatural and contrived view
+of nature presented to us by the
+Attenboroughs of this world. I mean,
+when was the last time you saw a 3-D
+hedgehog? (Nature 329 p498)
+Jason Lander looks at RISC
+Why less means
+more for Acorn
+Computese, the language of computer
+buffs, is laden with initials such as
+R A M , R O M , E P R O M , and now
+RISC. RISC, standing for Reduced
+Instruction Set Computer, is a field
+in which Mike Mullen of Acorn
+Computers is deeply involved and
+about which he talked to the Micro
+Club on 15th October.
+The idea behind RISC is simple:
+design a computer chip that can do
+less but can do what remains much
+faster. A s always, however, the
+reality is different. Exactly what
+constitutes a RISC machine is a
+subject of much heated debate. Purists
+hold that any machine capable of
+doing more than the very simplest
+computing tasks is just not RISC.
+Others, including Acorn, say that
+almost any machine that has been
+trimmed down should count. A s an
+argument, this should run and run.
+But just because a RISC chip has
+fewer instructions does not mean that
+it is inferior to any other type. A
+RISC chip can do anything other
+chips can do, but a RISC chip takes
+several instructions to do what other
+chips can do in one. However, most
+instructions are simple ones, and the
+RISC chip is optimised for these. The
+gain in speed on the simple
+instructions more than makes up for
+the extra steps needed to emulate
+complex instructions. Since all this
+happens at the machine-code level, all
+the user notices is a faster computer.
+Users working with F O R T R A N or C
+or the much maligned B A S I C (all of
+which do the dirty work of translating
+your formulae into machine
+instructions) will notice no difference
+except the increase in speed.
+Acorn's own RISC chip is called,
+unsurprisingly, the Acorn RISC
+Machine or ARM (oh the imaginations
+of our computer designers!) and is nt
+the heart of their new Archimedes
+microcomputer.
+The Archimedes was designed
+partly as a replacement for the ageing
+B B C M i c r o , which is rapidly
+becoming the computing equivalent of
+the dinosaur. But Acorn also have the
+profitable business market in their
+sights as they are releasing I B M
+emulation (software and hardware)
+for the machine.
+The original plan was to build their
+computer from other people's
+components, but they found this
+limiting and expensive and so was
+born 'Project A ' . The main aims of
+the project were to design their own
+chip (they had a lot of experience
+from designing the gate arrays on the
+BBC) and then to build a very fast
+computer around it. The Archimedes
+is the computer.
+In terms of brute power the system
+is impressive. It is, at the moment,
+the fastest micro in its class. It is
+capable of handling three million
+instructions per second (3 MIPS in
+computese) on average, with a
+maximum of 8 MIPS. That is, one
+instruction in the time it would take
+a beam of light to cross London.
+The graphics are good too. It can
+display up to 256 different colours to
+a resolution of 640 by 256 pixels, and
+can produce animation at a sizable
+fraction of the speed of film. It can
+be programmed to produce eight track
+stereo sound of Compact Disk
+quality. A l l of this is enough to turn
+the average micro owner an
+unpleasant shade of green (which the
+machine can probably display easily).
+But the A R M is not alone. Other
+more powerful RISC machines are
+already on the market such as the
+Inmos Transputer, which, unlike most
+other chips, can do several things at
+once at RISC speed.
+The Archimedes is, however, the
+first such micro to enter the
+mainstream computer market (Atari
+have announced a Transputer-based
+machine, but this won't be off the
+drawing board before next June even
+according to their estimates). The
+A R M also has the advantage of being
+extremely cheap compared to rival
+chips. But the others may catch up
+and how long the Archimedes
+survives will depend as much on
+advertising and luck as on its
+exceptional computing power.
+Jason Lander, Physics 1
+Friday November 6th 1987 FELIX
+

@@ -1,0 +1,203 @@
+9
+felix FRIDAY 30 OCTOBER 2009
+BUSINESS
+Business Editor
+Business Editor Sina Ataherian
+Sina Ataherian
+business.felix@imperial.ac.uk
+
+*-6
+&EROSJ*IPM\
+8,6))4SYRHW
+Digging (through the internet) for gold
+M
+usicmetric is a grow-
+ing company found-
+ed by Imperial phys-
+ics graduate Greg
+Mead together with
+two friends in February 2008. Another
+Imperial graduate, Jameel Syed joined
+the company in December 2008 as
+their Chief Technological Officer.
+His background is in the broad and
+emerging field of data-mining. felix
+was invited to talk to Greg, a Nightlife
+and Music Editor for felix and Jameel,
+about their business and how they got
+there.
+We met at their office where like
+many start-ups, the atmosphere was
+relaxed and their expensive hardware
+sat alongside Xboxes and a foosball
+table. Their clients can be anyone in
+the music industry, but they mostly
+deal with medium to large record la-
+bels and management firms. They of-
+fer software that allows them to access
+relevant market information.
+I started by asking how Greg’s time
+at Imperial helped him set up his own
+business, beyond the technical pro-
+gramming skills he gained. “It made
+it easier, definitely, in terms of access.”
+Jameel had also benefited from a sum-
+mer research project in data mining,
+leading directly to his post-graduation
+line of work. They were both excited
+by the increased availability of support
+for student enterprise in recent years,
+“It will definitely help.”
+Continuing our series on profiling successful start-ups with links to Imperial College, felix Business interviewed
+two former Imperial students about their music industry data-mining company
+managers. More importantly, they
+want to turn their proucts to standard
+tools within the idustry.
+They already track five hundred
+thousand bands and plan to expand
+this to ten million. This number in-
+cludes amateur bands such as those
+in high schools, but is impressive
+nonetheless. They have even grander
+plans for where they want to be in
+a few years time. They want to ap-
+ply their data-mining techniques to
+other industries, believing the scope
+The Musicmetric team line up; we’re still wondering what the colourful space invaders do in the office though
+Conveniently displayed graph
+showing age structure of fans
+One of my favourites was their map
+showing the geographic distribution
+of fans. These allows bands to consider
+having a tour stop in a town they were
+previously unaware of being popular.
+For example, it turns out that Robbie
+Williams, whose managers are a nota-
+ble client for musicmetric, is popular
+Robbie Williams is not just a big client for musicmetric, he is also a personal
+favourite of felix Editor Dan Wan (Ed. - He’s really not, it’s all about The Barlow)
+in Northern Italy. so he could think
+about maybe staging a gig there.
+There are also some altogether clev-
+erer applications of musicmetric’s
+data-mining technology. They are able
+to, as they put it, ‘calculate buzz’ and
+‘analyse sentiment’. Their software
+goes through websites, blogs, and oth-
+er online sources of information. They
+can then search for anything from the
+number of pirate downloads of a par-
+ticular track to pieces of text. These
+can, for example, tell if audiences
+thought lighting at a show was bad or if
+they are keenly awaiting a new album.
+Jameel is working on improving their
+product line all the time. Their focus
+for the next couple of years is going
+to remain the music industry. During
+this time, they aim to provide an even
+broader range of services to artists and
+Musicmetric currently offers three lev-
+els of service to cater for casual, pro-
+fessional and larger clients. The scope
+of applications for their data analysis
+is vast. For example, they can show
+demographic information to help mu-
+sicians target their marketing more
+effectively. Greg says that this has be-
+come even more important as a result
+of advertising budget cuts caused by
+the recession.
+Musicmetric’s product line
+Map showing concentrations of fans
+Running Musicmetric as a business
+“Try and get your friends [on your
+team]...If you can’t persuade your
+friends or someone who knows a lot
+about your idea to join, you know
+you’re going to have problems,”
+On this one the main advice was to
+build prototypes. The guys admitted
+to not using any of the prototypes that
+theypitchedtoinvestorswith,because
+they developed better models. But it
+was still important to be able to show
+what the software can do.
+Raising capital to start a new
+business
+Starting a business with friends
+Applying technical skills
+Throughout the interview, good
+advice came up for students with
+regards to starting out in business.
+“The first thing people who come out
+of imperial with, say, a computing
+degree need to learn is how people
+use [computing degrees] in the real
+world to achieve their business needs,”
+suggests Jameel.
+Top Tips for Imperial
+students wanting to
+start their own business
+The company started off with little
+more than an idea and a strong team
+of people dedicated to it.
+They soon secured a £400,000 in-
+vestment and are now entering a sec-
+ond investment round. This will en-
+able them to continue growing and
+to develop their latest ideas. Greg and
+Jameel agreed that a good team has
+always been essential in allowing the
+business to flourish.
+The staff at musicmetric had a pas-
+sion for music as well as strong tech-
+nical abilities, which begged the ques-
+tion of what the balance was. Greg
+answered, “[the balance between mu-
+sic and technology] is reflected in the
+make-up of the team. We have three
+from more of a technical background
+and three who are more interested in
+the music industry.”
+And how do you know that you have
+the perfect team? “Obviously you have
+to get on; you have to be able to do
+what you do,” Greg continued. Jameel
+added, “There are challenges that come
+up every day...[as a new start-up] you
+don’t have a department to deal with it
+so people have to come forward.”
+Although Greg and Jameel were very
+happy with the people that worked at
+musicmetric, they identified the need
+to keep up with the workload as the
+biggest challenge for all of them. This
+can be a frequent issue at start-ups and
+had been especially significant in recent
+weeks as the firm had come up with a
+number of new ideas that needed to
+be worked on. As Jameel put it, “there
+are always more good ideas [to fol-
+low up on] than hours in the day.” So
+the Xboxes and foosball table suffered
+the sad fate of underuse. In fact, they
+identified the kitchen as their favourite
+part of a homely office because of its
+convenience.
+As well as expanding into other sec-
+tors in which data analysis can help
+participant firms’ performance, music-
+metric wants to expand by going global.
+“We have got to move outside of the
+UK.”
+Despite the hard work, Greg and
+Jameel both clearly enjoy their work.
+I asked what the best part was. “In
+the industry, everyone knows eve-
+ryone. You can be having a meeting
+and mention you sold something to
+someone and then [the people at the
+meeting] will say ‘oh cool, he’s my best
+friend.’”
+

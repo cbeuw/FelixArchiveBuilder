@@ -1,0 +1,226 @@
+6 FRIDAY 08 NOV
+Editors: Philippa Skett,
+Keir Little, Fiona Hartley
+science.felix@imperial.ac.uk
+SCIENCE
+SNITCHNGR.COM
+Skett’s science corner
+Philippa Skett
+Science Editor
+Diagnosing Down’s Syndrome
+Utsav Radia on the new antenatal blood test and its
+potential to detect the genetic disorder before birth
+A
+new antenatal blood
+test, developed by
+Professor Kypros
+Nicolaides and his team
+of researchers at King’s
+College London in collaboration with
+University College London Hospital,
+with the potential to diagnose Down’s
+Syndrome in developing foetuses, is
+being considered for trial in the NHS.
+Down’s Syndrome, also called
+Trisomy 21, is a genetic condition
+affecting around 750 (1 per 1000)
+newborns in the UK each year and
+is one of the most common genetic
+causes of learning disabilities. Trisomy
+21 is caused by the presence of all or
+part of an extra copy of chromosome
+21 in a person’s DNA.
+Down’s patients suffer from many
+physiological disabilities such as
+hypotonia (reduced muscle tone),
+sandal toe, congenital heart defects,
+brachydactyly (short fingers), a flat
+facial profile and skeletal deformities.
+Down’spatientsstrugglewithactivities
+like walking, sitting, standing, reading
+etc. There is no current cure for
+Down’s Syndrome but support is given
+to help patients lead a healthier, active
+and independent lifestyle.
+Current antenatal screening
+involves a combined test done in the
+first trimester between the 11th and
+13th weeks of pregnancy and includes
+ultrasoundscreening(usedtomeasure
+thickness of tissue at the back of the
+foetus neck) and a hormonal test of the
+mother’s blood (to detect high levels
+of Human Chorionic Gonadotrophin
+and Estriol). The results of these tests
+along with the mother’s age are used
+to predict the risk to the foetus – this
+method picks up about 90% of cases.
+For high-risk pregnancies, further
+methods of testing include: Chorionic
+Villus Sampling, which involves
+taking cell samples from the placenta;
+and, Amniocentesis, where a sample
+of amniotic fluid is taken. These are
+subsequently analysed for presence
+of the extra chromosome 21 copy.
+However, both methods are invasive
+and carry a 1% chance of miscarriage
+and a false positive chance of 3-4%.
+The new antenatal blood test
+uses ‘foetal cell free’ (cf) DNA that
+is present in the mother’s blood
+to scan for the presence of the
+extra chromosome 21. The study,
+published in the journal ‘Ultrasound
+in Obstetrics and Gynaecology’, shows
+that in the 1005 pregnancies trialed
+at 10 weeks, there was a much lower
+false positive rate of 0.1% and a 99%
+rate of Down’s Syndrome detection.
+Currently, this test is only being
+offered privately and to any pregnant
+women who volunteer to participate
+in the ongoing trials. Professor
+Nicolaides added that this new
+technique “if offered across the UK,
+would have the potential to increase
+the diagnosis rate from 1,000 cases
+to almost all of the 1,200 which occur
+every year”.
+Professor Lyn Chitty of Great
+Ormond Street Hospital confirms that
+this could “very significantly reduce
+the number of invasive tests” as only
+0.5% of cases that had the blood test
+required any form of invasive testing.
+Early detection of the condition in
+foetusescanhelpparentstoplanahead
+and also gives them time to learn more
+about the condition and how they can
+help their child. However, at £400 a
+test, it seems highly unlikely that will
+be readily available through the NHS
+any time soon.
+DOI: 10.1002/uog.12504
+There is plenty of on-going research
+in the field of battling cancer, whether
+chemically, physically or biologically.
+A research group from southern
+California is developing a new
+strategy on improving the transport
+of medicine within the patients’ body,
+by creating antibodies which only
+activate in the presence of cancer cells.
+The idea of using monoclonal
+antibodies (antibodies cloned from
+a unique parent) is not a new one,
+and has existed for almost a century.
+However, due to side effects and the
+way certain antibodies attack the
+cancer cells, there has only recently
+been approval for their use. For
+example, the Cetuximab antibody
+releases antigens which can become
+toxic to skin cells in high doses,
+limiting the effectiveness of this
+treatment.
+Attempts to use antibody-drug
+conjugates have shown potential, but
+are still limited due to skin toxicity.
+However, due to healthy tissue cells
+expressing similar properties to the
+diseased cells, the antibodies are not
+always able to make the distinction
+and may target healthy tissue too.
+A solution was proposed by a team
+of researchers led by Desnoyers
+Luc, to mediate the toxicity of the
+antibodies based on the surrounding
+cells. While the antibodies would
+still have the power to knock out
+cancerous infections, they would only
+release the antigens in the presence of
+the intended cells.
+The research group developed the
+EGFR antibody PB1 based on the
+previously trialled Cetuximab and
+their tests have shown hopeful results.
+Comparing the two in mice tissues,
+PB1 and Cetuximab both showed
+close to 80% reduction in cancer cells.
+However, when tested in primate cells,
+Cetuximab caused the predicted skin
+toxicity, although no such observation
+was made in the PB1-treated bodies.
+Further tests were conducted at
+higher doses, and for longer periods,
+after which mild dermal toxicity was
+found, but at a less severe level than
+the Cetuximab.
+Analysis and research are continuing
+in this area, but with more hopeful
+results being shown, this could
+develop into quite a plausible method
+of treatment.
+DOI: 10.1126/scitranslmed.3006682
+Antibody treatment for cancer
+Pavitar Singh Devgon
+Science Writer
+Love Science?
+Or want to be Brian Cox? You need to
+start somewhere...
+Why not write for us? Get in touch!
+science.felix@imperial.ac.uk
+Follow us on twitter,
+where we’ll post up
+any interesting stuff
+we stumble upon
+(science-related,
+obviously).
+@SciFelix
+It has been a busy week here on campus, with both
+Boris Johnson and the president of South Korea paying
+a visit. Such activity has highlighted the fact that both
+science and politics are actually very much intertwined;
+something that can be easy to overlook.
+Our own Professor Nutt this week was rewarded the
+2013 John Maddox Prize for Standing up for Science,
+for his impact in influencing drug classification, and his
+dedication to promoting science despite facing difficultly.
+His paper earlier in the year, published in Nature,
+implored the government to reconsider their rather
+arbitrary drugs classifications to allow for a more
+comprehensive scope into the research concerning illegal
+drugs and their biochemical effects.
+With drugs ranging from cannabis to MDMA having
+potential medicinal benefits for treating a whole host of
+ailments, research has been stifled by the government
+legislation surrounding lab acquisition of the drugs for
+experimentation.
+His relentless rebuttal against current legislation led to
+his dismissal from the government, highlighting just how
+science and politics can struggle together at times.
+On a brighter note, the UK and Korea signed an
+agreement to advance fuel cell technology, with Imperial’s
+own Professor James Stirling and Professor Taihyun
+Chang, Provost and Executive Vice President of Pohang
+University of Science and Technology in Korea, penning
+their names to agree to further engage in hydrogen and
+fuel cell technology.
+Science and politics can be so intrinsically involved that
+neither should be seen as entirely exclusive or independent
+of each other. The clash or collaboration between the two
+seem even more exuberated this week, but it is great to
+see Imperial providing a platform for both of these.
+It is important to remind ourselves that there is a bigger
+world outside the microcosm of science and technology
+that we currently seem to reside in on campus.
+The science we are learning, the way in which we learn
+it, down to the jobs available for when we graduate are
+all sculpted according to the political landscape that
+paves Exhibition road and beyond. It is important to
+recognise that science doesn’t exist as a pure endeavour
+of the pursuit of knowledge but hangs within the larger
+framework of politics and policy.
+Cancer cells like these may be targetted by the treatment
+

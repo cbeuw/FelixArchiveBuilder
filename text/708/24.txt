@@ -1,0 +1,77 @@
+Tinker
+Here are the answers to the unsolved puzzles.
+First the golf puzzle:
+Hove
+,*j>
+* SrnoKe
+Since the distance between the two foci of an ellipse via any
+point is the same for all points on the perimeter, we need not
+worry about the green, since the distance walked there is fixed.
+To minimise the remaining distance then, the Mathematician
+must imagine larger and larger ellipses for which the two tees
+are foci. When the ellipse is large enough to just touch the edge
+of the green, the point of contact marks the spot where he must
+leave his bag.
+The number puzzle was ridiculously straightforward. Simply
+count the number of letters in the English spelling of the
+preceding number. Hence:
+23, 11, 6, 3, 5, 4, 4, 4
+The biscuit dunking problem is quite delightful, though a little
+long-winded. In the three dunk problem the way to minimise the
+distance R'min in is to dunk the biscuit such that the edge
+of the cup, at the second dip,
+is half-way along the straight
+edge incurred by the first dip.
+That way, one edge of the cut is
+brought as close as possible
+to the centre of the biscuit.
+Then the new FUm (R'min) may
+be c o m p u t e d f r o m t h e
+recursion formula.
+H A L F w a y p e i t f T
+Unfortunately this method is
+inferior to the simple strategy
+of cutting top and bottom
+from the biscuit with the first
+two cuts.
+Of the three likely looking ways of solving the four dunk
+problem:
+The last is marginally the best.
+Thanks for puzzling...bye!
+Reasons to be Cheerful
+~ j and poetry, something that has in college. If you know anything
+f{ g e V 8 I
+I t n e v e r
+been tried before. There is a m u s i n g a b o u t your w a r d e n ,
+only a limited amount.though, that lecturer etc. then tell someone in the
+FELIX is the student newspaper of the current FELIX staff can do. We FELIX office.
+Imperial College Union and as such need your ideas if we are to change.
+it should reflect student views, Why not come and work on FELIX? i i
+interests etc. Next year FELIX will You'll certainly be welcome in the V 9 I U G
+attempt to be your newspaper. If you office.
+support FELIX it won't be dominated If you are a final year student you
+by a few hacks. It needs your U •• m n r n II Q m a y b e i r r i t a t e d t n a t
+y°u
+won'tbe a t
+support, though. FELIX has to come n U III U I U U o college to see these changes in
+out every Friday. As a result, if the FELIX. Don't worry-for only £9 you
+hacks are the only people to have FELIX next year will be amusing, can have next year's FELIX mailed to
+contributed they have their articles There is no point in trying to report you anywhere in the U K . It's an
+printed. Why not drop into the office on rag events in the manner of the excellent way of keeping in touch
+any Friday or Monday and tell us Times Higher Education Supple- with college. All you need do is fill in
+what you think is right and wrong ment. FELIX next year will have a the form below and send it with a
+with FELIX. It's your newspaper so regular diary column covering cheque to the FELIX office,
+use it. anything humourous that happens
+] I j~"~ ~ '"Please return to: The FELIX Office, Beit Arch, Prince"'
+I II II U V d I I V c | consort Road, London, SW7 2BB I
+FELIX has barely changed in the last | 1
+enclose a cheque for £9 made payable to 'Imperial I
+few years. The articles are on the , College Union Publications Board (FELIX)'
+same subjects and presented in the | Nams
+same manner as they were three .
+years ago! Recently things have | Address I
+started to change, however there is a . i
+long way to go. FELIX next year, for I I
+example v> Hi include pieces of prose I • . . . . • • * ; I
+FELIX Wednesday 19 June 1985 25
+

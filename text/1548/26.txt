@@ -1,0 +1,280 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 24 MAY
+30
+1
+1 1
+1
+1
+1 1
+1 1
+1
+1
+1
+1
+Slitherlink
+Rules
+are
+as
+always:
+draw
+a
+single
+closed
+loop
+by
+verti-
+cally
+and
+horizontally
+joining
+the
+dots
+so
+that
+the
+num-
+bered
+squares
+are
+surrounded
+by
+the
+corresponding
+number
+of
+lines.
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2 2
+2
+2
+2 2
+2
+2
+2
+2
+2
+2 2
+2 2
+2
+2 2
+2 2
+2
+2 2 2 2
+2 2
+0
+0
+3
+3
+3
+3 3 3
+3
+3
+3
+3
+3
+3 3
+3 3
+3
+3
+3
+3
+3
+3
+3
+3 3 3 3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+S
+p
+e
+c
+i
+a
+l
+Crossword
+Quick clues
+Across
+1. Uni campus (5, 10)
+9. Existence following death (9)
+10. Italian city (5)
+11. Undifferentiated unit in a living
+organism (4, 4)
+12. European capital city (6)
+14. Lack (4)
+16. Astronomy, informally (10)
+18. Very large star (10)
+19. Police officer’s rounds (4)
+21. Hardly ever (6)
+22. Gifted (8)
+25. Outdoor seating area (5)
+26. Gradually weaken (9)
+27. Procedure proceeding provision
+of hardware and software (7, 8)
+Down
+1. Flag (5, 3, 7)
+2. Release a knot (5)
+3. Roman poet (6)
+4. Flap in the throat (10)
+5. Moult (4)
+6. Drink before bed (8)
+7. Type of fruit (9)
+8. Myopia (15)
+13. Heavy metal band (4, 6)
+15. Asian river (9)
+17. Classical author (8)
+20. Type of fuel (6)
+23. One side of a coin (5)
+24. They go on bolts (4)
+Cryptic clues
+Across
+1. Ex-mayor enters, stupidly shuns
+Tooting for somewhere else in Lon-
+don (5, 10)
+9. Fear I felt about heaven, maybe
+(9)
+10. Seen in Alto Adige? No, another
+place in Italy (5)
+11. Club host surrounded by metal
+lovers initially might turn to Wings
+or Elbow (4, 4)
+12. Best results in exams covering
+the capital of Norway? No (6)
+14. Born and died longing (4)
+16. Little Gary consumed by looking,
+looking to the skies (10)
+18. Wind gets up, rain, very little
+sun? Quite the opposite (10)
+19. Attend buffet (4)
+21. Seldom hear a writer write novel
+happy endings (6)
+22. Thanks a couple of boys having
+great skill (8)
+25. Dad and Spanish uncle annexed
+paved area (5)
+26. Just about to loosen fur to wear
+away (9)
+27. Sassy miss neatly unravels
+branch of computing (7, 8)
+Down
+1. Sailor on beach on voyage east
+boards steamship “American Stand-
+ard” (5, 3, 7)
+2. Unfasten a French garment (5)
+3. Tidying up: a chore for boy (6)
+4. What’s making spittle go right
+when I swallowed? (10)
+5. Outhouse that woman had (4)
+6. Patching up old-fashioned head-
+gear (8)
+7. Outside Spice Girl almost got
+some colour (orange) (9)
+8. Problem seeing: sense organs in
+darkness sensed poorly (15)
+13. An instrument of torture, I’m
+trapping a boy and then another
+(4, 6)
+15. Acidity level in Europe taxes
+river (9)
+17. Novelist reminding you of Donna
+Tartt, perhaps? (8)
+20. Fuel’s selection of crumpet, roll,
+etc (6)
+23. What goes with top hat follows
+(5)
+24. Fruit (bananas) (4)
+Hashi
+Connect all the is-
+lands with vertical
+and horizontal non-
+intesecting bridges
+so that you can get
+from any island to
+any other one.There
+can be up to two
+bridges between any
+two islands. Each
+island indicates the
+number of bridges
+starting from it.
+FUCWIT
+League Table
+INDIVIDUALS
+Yufan Zhao 15
+Wael Aljeshi 12
+Gabriel Quek 3
+Keep sending answers to puz-
+zles.felix@imperial.ac.uk, be-
+cause what’s the difference be-
+tween a 1 and a 2.2 anyway?
+Last week’s solutions
+4 2
+4 4 5
+2
+2 2 3 4
+2 4 4 2
+1
+2 3
+4 3
+1
+1 5 5
+2
+4
+2 2
+1 2
+3
+1 2
+3 2
+5 5
+4 4
+2 5
+2 2
+5 1
+2
+Teaser
+solution
+You escape by sawing the table in
+half, and putting the two halves
+together to make a whole/hole.
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+
+
+

@@ -1,0 +1,215 @@
+“It’s only a
+matter of time
+before brands
+start to lose
+their identity”
+store and Google services,
+without which most com-
+panies wouldn’t survive.
+Anyways, going back
+to the design of smart-
+phones, it’s now clear that
+the stagnation in variety
+of design is primarily due
+to software limitations.
+However, companies are
+now looking past this
+limitation to push out
+smartphones that make
+their brand look unique
+in the face of consumers.
+The standard rectangular
+glass and metal slab
+design that started with
+the original iPhone is
+now slowly fading with
+smartphone manufac-
+turers taking inspiration
+from past designs and
+applying it to the modern
+scenario. A more recent
+example of this is the
+Samsung Galaxy Fold
+— A ﬂip-phone inspired
+smartphone with a radical
+modern twist.
+With smartphones
+looking more alike than
+ever with all screen
+displays, smartphone
+vendors are pouring
+money into innovation
+to keep their brand name
+from hanging on the
+balance. In this process,
+we consumers gain access
+to devices that both meet
+our needs as well as the
+needs of the manufactur-
+ers.
+The “rectangular-slab”
+design was so inﬂuential
+that manufacturers found
+it convenient to stick
+with it and go on from
+there with their variants.
+However, the variables
+(screen size, frame,
+camera layout, speaker
+placement, etc.) they can
+control are limited and
+it’s only a matter of time
+before brands start to lose
+their identity. In other
+words, there’s only so
+much you can do with that
+space.
+There have been quite a
+few companies that have
+tried to resolve this issue
+over the past year while
+promising to maintain
+software support:
+• Samsung Galaxy Fold
+with an inner foldable
+OLED display and a sec-
+ondary screen on the front
+these have been phones
+that take different, more
+cost-effective approaches
+to uniqueness. The most
+simple of these ap-
+proaches being the layout
+and arrangement of the
+camera system. The front
+camera has recently seen
+a tremendous amount of
+change over the past two
+years. With the different
+variations of the “notch”
+to cameras that “pop-up”
+from the outer casing of
+the device, smartphone
+manufacturers are truly
+pushing, what I like to
+call, silent innovation.
+This kind of innovation
+serves, as previously said,
+to make the most out of
+the space in a smartphone.
+Examples of this “silent
+innovation” include:
+• Bending of the OLED
+screen under the phone’s
+metal housing to elimi-
+nate the “chin”. (iPhone X
+series and above)
+• Curving the display
+towards the side-edges
+to cause an illusion that
+eliminates the presence
+of a side bezel. (Most
+notable: Oppo’s “Water-
+fall” display prototype)
+Samsung Galaxy Fold // Samsung
+31
+ISSUE 1730
+FELIX
+TECH technology.felix@imperial.ac.uk
+prehend the manpower
+required to develop apps
+for each operating system.
+In the case of startups, it’s
+impractical as their goal
+is to reach widespread
+adoption while maintain-
+ing spendings under the
+budget.
+On the ﬂip-side, since
+most modern smart-
+phones operate on either
+of the two platforms,
+any hardware change or
+addition would require
+a ton of work in the
+software end by the
+smartphone manufacturer
+to update their framework
+to allow for the main-
+tenance of third party
+support. This is a very
+tedious job and doesn’t
+motivate radical design
+changes; that is, it’s hard
+to adapt the software to
+changes in hardware. To
+put it simply, it just isn’t
+ﬁnancially practical.
+Even with these
+widespread platforms,
+the core functionality
+of the devices are most
+highlighted by their app
+stores. In the world of
+Android, Google leads
+the industry with its play
+• Google Pixel 4’s
+motion sense, which uses
+a Soli radar sensor to
+detect hand gestures.
+• Facial mapping and
+recognition as a security
+measure to unlock the
+device. (Apple’s FaceID
+and Google’s Face
+Unlock)
+• Depth mapping and
+advanced image pro-
+cessing using multiple
+cameras.
+• Pressure sensitive
+displays and Taptic
+engines to detect and
+simulate depth while
+force-pressing on the
+screen. (Apple’s 3D
+Touch)
+• Precision cutting
+a whole in a display to
+house the front-facing
+camera module. (Flagship
+Samsung phones such as
+S10 & Note 10 series)
+With more advanced,
+innovative solutions such
+as under-display cameras
+and port-less, water-proof
+phones, it’s only a matter
+of time before we witness
+the next revolutionary, in-
+dustry-standard form-fac-
+tor for smartphones of our
+future.
+“Smartphone
+vendors
+are pouring
+money into
+innovation”
+of the device.
+• Huawei Mate X with
+a foldable OLED display
+that folds outwards as
+opposed to inward fold in
+the Galaxy Fold.
+• Xiaomi Mi Mix 3
+Alpha with a display that
+wraps around the edge
+and extends all the way to
+the back of the phone.
+• Microsoft Surface
+Duo, a dual display device
+aimed at productivity and
+multitasking.
+Apart from these
+revolutionary examples,
+

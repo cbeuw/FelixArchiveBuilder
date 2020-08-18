@@ -1,0 +1,210 @@
+science.felix@imperial.ac.uk
+Science
+Science Editor – Ed Henley
+7
+Friday 19 October 2007 felix
+“Magnetic
+vortices could
+be used to store
+information”
+“Shake it like you’re ovulating baby” lacks a little something, no?
+Walk like a stripper?
+So, it seems that strippers make more
+money when they’re ovulating. A pa-
+per by Geoffrey Miller et al. from the
+University of New Mexico in the jour-
+nal Evolution and Human Behaviour,
+shows that strippers working while in
+the most fertile phase of the menstrual
+cycle, the oestrus phase, made an im-
+pressive $70 an hour. In the less fertile
+luteal phase they made $50 and when
+they were menstruating, they made
+$35. Those on the pill made on average
+less because there was no peak in their
+earnings at the oestrus phase.
+Oestrus is a state of obvious fertility
+that attracts potential mates. Accepted
+wisdom is that it was lost as humans
+evolved. Women developed “concealed
+ovulation” along with month-long
+sexual receptivity to keep men in the
+dark. This study, however, shows that a
+women’s fertile state may not be so se-
+cret after all – at least according to the
+results from the eighteen strippers who
+took part. The authors think that men
+can tell a woman’s fertility by subcon-
+scious behavioural signals, after having
+ruled out factors like types of dance
+moves or conversational content.
+Karl Grammer of the Ludwig Boltz-
+man Institute for Urban Ethology in
+Vienna agrees. He thinks that oestro-
+gen modulates motion abilities and so
+it is body motion, not pheromones,
+which tells men what is going on. So,
+women may have developed stealthy
+oestrus, but their sexy walk still gives
+them away. Definitely useful if you’re
+on the pull on a night out.
+However, this paper raises a few
+questions. Firstly, in my limited (read:
+nonexistent) experience of strip clubs,
+I can’t imagine much ‘conversation’ go-
+ing on, over and above the basics such
+as “how much, love?” Secondly, how
+on earth did this project get funding?
+I personally would love to read the re-
+search proposal, just to giggle and read
+between the lines. And thirdly, the pa-
+per was written by three men. I wonder
+why…
+Intrepid researchers discover lap-dancers earn more when
+they’re ovulating. One could say they’re golden eggs then...
+Catherine Charter
+Debate on science
+and the media
+Anyone interested in the occasion-
+ally rocky relationship between scien-
+tists and the media should pencil in
+a Thursday a couple of weeks hence,
+as it heralds a debate, part of the se-
+ries of events celebrating Imperial’s
+Centenary.
+Entitled “A marriage made in heav-
+en or hell? Do scientists and the
+media make good bedfellows?”, this
+debate assembles a number of Imperial
+academics and journalists to discuss
+whether the media help or hinder sci-
+entists, looking at their role in issues
+of concern, including the hyping of
+findings, pandering to “mad scientist”
+stereotypes and whether important
+discoveries are being overlooked in a
+quest for sexy or controversial science.
+[Maybe, but given our own track record
+(eyes left), we certainly won’t cast any
+stones on the latter point – Ed.]
+In the scientist corner are Professors
+Steve Bloom and Richard Templer,
+both battle-hardened veterans of the
+fray, thanks to experience represent-
+ing their fields (obesity and biofuels re-
+spectively) under the spotlight. Mean-
+while, the media are represented by a
+number of Imperial alumni (many of
+whom cut their teeth here at Felix and
+IC Radio) including Pallab Ghosh, the
+Science Correspondent for BBC News
+and erstwhile Felix Editor (1983-84).
+Given all this, it should be a lively
+discussion, and Felix Science recom-
+mends you go – we certainly will be.
+Magnetic storage past and future: Nobel Prizes and ferrotoroidicity
+This year’s Nobel Prize in Physics went
+to a pair of scientists whose discovery
+could be argued to have had the largest
+impact on society, exceeding last year’s
+award for the discovery of the Cosmic
+Microwave Background radiation (the
+signature of the Big Bang) say.
+Because after all, we’re a bunch of
+philistines really. Addressing where we
+came from is all very well, but what we
+really care about is our choons. “I want
+my MTV” runs far deeper in the hu-
+man psyche than “Why are we here?”
+Albert Fert and Peter Grünberg may
+not have set out to revolutionise the
+music industry (and indeed the wider
+market of consumer electronics); in
+fact, as pointed out in last week’s Na-
+ture, it was Stuart Parkin at IBM who
+performed the work crucial to the
+commercialisation of their discovery
+and the ensuing sea-change in the way
+we listen to our music.
+But it was the continental scientists’
+discovery of giant magnetoresistance,
+a phenomenon which lies at the heart
+of modern magnetic storage devices
+(such as an iPod’s hard-drive). which
+was recognised by the Royal Swedish
+Academy of Sciences on the 9th of this
+month.
+In essence, their discovery relies on
+electron spin, a property which can be
+oriented in one of two senses (“up” or
+“down”), and which leads to an intrinsic
+magnetic field and an interaction of the
+electron with external fields. If an elec-
+tron passing through a material has a
+spin aligned with those of the electrons
+within the material, it will encounter a
+far lesser resistance than if its spin is
+oriented in the opposite sense.
+By using multiple layers of very thin
+magnetic and non-magnetic materi-
+als, Fert and Grünberg independently
+managed to scale this effect up, to lead
+to a very large change in resistance.
+One consequence of this increase in
+sensitivity to small magnetic fields is
+that it allowed hard disc drive heads to
+be made far smaller. It also opened the
+door to what is widely hailed as the fu-
+Edmund Henley
+The editor cannot recommend
+tracking down the original paper
+highly enough – the background
+section “because academics
+may be unfamiliar with the
+gentlemen’s club subculture” is
+most interesting. Ahem. Hardly
+dry academia in any case.
+ture of electronics, spintronics, which
+will make use of electrons’ spin, as well
+as their charge. Amongst other effects,
+improvements in spintronics could
+lead to great advances in computing.
+However, other technologies could
+potentially also lead to similarly far-
+reaching effects. Ferrotoroidicity is
+one such claimant to the throne. In a
+letter to Nature last week, scientists
+from the University of Bonn reported
+that they were able to use laser-optics
+to measure the sense of “magnetic vor-
+tices” in a substance known as lithium
+cobalt phosphate.
+These vortices, which are composed
+of magnetised atoms, are arranged in
+a ring-like configuration, the atoms all
+aligning themselves in one direction
+along the ring. As this orientation is bi-
+nary (it can take on one of two senses),
+a vortex can also potentially be used
+to store information, probably faster
+and more reliably than on today’s hard
+discs, as it neatly avoids using mag-
+netic fields to read the stored magnetic
+data – a slow and delicate task.
+Much work is still required, but it
+could be that the ring-like signature
+ClickWheel on the iPod is rather pre-
+scient. Yet it needs to be spun: maybe
+Apple are hedging their bets?
+Email events@imperial.ac.uk to
+register to attend the debate,
+which takes place at 18.30 on
+Thursday the 1st of November in
+lecture theatre G16, Sir Alexander
+Fleming Building
+Is the journalist’s pen mightier
+than the scientist’s test tube?
+Theo de Leight
+Just look at it. There really should be an automatic chant of Aaah
+whenever you say iPod: as in “My friend just bought an iPod (Aaah)”
+

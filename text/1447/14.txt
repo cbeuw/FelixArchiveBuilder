@@ -1,0 +1,200 @@
+10
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+felix FRIDAY 04 DECEMBER 2009
+RELIVING THE SCIENCE OF 1949
+Archaeology revolutionised by carbon-dating method
+Then a few other things happened this year also...
+1949 was hardly a classic year in sci-
+ence on first glance. However, the year
+culminated in a few important things
+still relevant today.
+One of the first computers was dev-
+loped, the Manchester Mark 1, also
+known as the Manchester Automatic
+This computer is historically signifi-
+cant because of its pioneering inclu-
+sion of Index registers, an innovation
+which made it easier for a program to
+read sequentially through an array of
+words in memory.
+Thirty-four patents resulted from
+the machine’s development, and many
+of the ideas behind its design were in-
+corporated in subsequent commercial
+products such as the IBM 701 and 702
+as well as the Ferranti Mark 1.
+Development ceased at the end
+of 1949, and the machine was later
+scrapped.
+Finally, the first automatic streetlights
+were installed. The first automatic
+streetlight was installed in 1949 in
+New Milford, Ct. This was an auto-
+matic streetlight system in which the
+streetlights turned themselves on at
+Antihistamines were also discovered
+in 1949. Also referred to as histamine
+antagonists, these inhibit the action
+‘Radiocarbon dating’ – or just ‘carbon
+dating’ – is one of the best known
+methods of absolute dating used today
+by archaeologists and scientists alike.
+The most outstanding aspect of this
+method is that it allows deposits to be
+dated independent of any other sub-
+stances or information.
+Radiocarbon dating was developed
+by Willard Libby and his colleagues,
+who first measured the radioactive
+half-life of carbon-14 at the Univer-
+sity of Chicago in 1949. The method
+of carbon dating is centralised around
+one of the three isotopes of carbon
+found naturally on Earth. Two of these
+isotopes, carbon-12 and -13, are sta-
+ble and account for the majority of
+natural carbon. The trace remaining is
+carbon-14 which is radioactive with a
+half-life, known as the Libby half-life,
+of 5568±30 years.
+Carbon-14 is formed in the up-
+per atmosphere, as a result of cosmic
+ray neutrons interacting with nitro-
+gen-14 atoms to produce carbon-14
+atoms and protons. The carbon-14 is
+oxidised and enters the organic envi-
+ronment as a carbon dioxide isotope.
+Approximately one carbon-14 atom
+exists in nature for every 1000 billion
+carbon-12 atoms. Hence the propor-
+tion of carbon-14 atoms found in any
+organic substance, once it is no longer
+living, can be used to calculate the time
+between the ‘death’ of the sample and
+the present day.
+When carbon-14 decays, it emits a
+beta particle to become nitrogen-14
+once again. After ten half-lives, the ex-
+ponential nature of radioactive decay
+means there is insufficient carbon-14
+within a sample to allow for it to be
+‘dated’ using this method. However,
+carbon dating is suitable for placing an
+age on any sample which has ‘died’ in
+the past 50 to 60,000 years.
+As well as the necessity for the sam-
+ple being investigated to fall within this
+time bracket, any results obtained must
+be calibrated by comparison with sam-
+ples dated using other methods. This
+calibration is needed in order to ac-
+count for the variation in atmospheric
+carbon-14 levels over time. Changes
+in cosmic ray intensity and the Earth’s
+climate both have an effect on isotope
+levels and must be accounted for in
+order to date a sample accurately. An
+example of this is atomic bomb tests in
+the 1950s and 60s causing carbon-14
+levels to double for a short period of
+time.
+Although the Libby half-life was later
+found not to be an altogether accu-
+rate value for the half-life of carbon-14
+(nowadays, the ‘Cambridge half-life’ is
+often quoted - 5730±40 years) the cali-
+bration of the results cancels out any in-
+Brigette Atkins
+Brigette Atkins Science Editor
+60,000
+years old
+Due to the half-life of carbon-14,
+carbon dating is limited to samples
+which have ceased to be living in the
+past 50 to 60,000 years.
+up to
+accuracies and allows carbon dating to
+remain as one of the most widely used
+and globally consistent methods of dat-
+ing samples. The development of ra-
+diocarbon dating also gained Libby the
+1960 Nobel Prize for Chemistry “for his
+method to use carbon-14 for age deter-
+mination in archaeology, geology, geo-
+physics, and other branches of science”.
+Nathan Ley
+Nathan Ley Science Editor
+1:1,000billion
+The ratio of carbon-14 atoms to
+carbon-12 atoms found natually
+occuring
+vide a computing resource within the
+university and to allow researchers to
+gain experience in using computers.
+Subsequently it became a prototype on
+which the design of Ferranti’s commer-
+cial version was based.
+The Manchester Automatic Digital Machine (MADM)
+Digital Machine (MADM). The ma-
+chine was reported upon positively in
+the british press, being described as an
+electronic brain.
+This description provoked a reaction
+from the head of Manchester Univer-
+sity’s Department of Neurosurgery,
+which began a long-running debate
+as to whether an electronic computer
+could ever be truly creative.
+The Mark 1 was developed to pro-
+of histamine. Histamines are involved
+in local immune responses, as well as
+in acting as a neurotransmitter. His-
+tamine triggers the inflammatory
+response.
+Upon invasion of foreign pathogens,
+histamine is produced by basophils
+found in nearby connective tissue. The
+function of histamine is to increase the
+permeability of the capillaries to white
+blood cells and other proteins in or-
+der to allow these to engage with the
+pathogens in the affected tissues. Such
+is the nature of an innate response,
+histamines are located in every animal
+cell of the body.
+Since antihistamines act to do
+the opposite function of histamines
+(which do a bloody good job) you may
+be wondering why their discovery was
+so important? Well, their use as a valu-
+able compound arises in the situation
+of allergy.
+Allergies are caused by an exces-
+sive response of the body to allergens
+to harmless objects that don’t need to
+be met with a full blown immune re-
+sponse, such as pollen. Thus, temper-
+ing this response is necessary to pre-
+vent a waste of resources.
+streetlight contained an electronic de-
+vice that contained a photoelectric cell
+capable of measuring outside light. By
+November of 1949, seven miles of New
+Milford’s roads were automatically lit
+at dusk by a total of 190 photoelec-
+tric streetlights. No longer would the
+proud men of New Milford be forced
+to don stilts in order to light their
+street lamps.
+dark, and was installed in New Mil-
+ford, Connecticut, by the Connecti-
+cut Light and Power Company. Each
+Computers, antihistamines and automatic street lights - you can’t imagine living without them
+A series of random street lights to
+fill up a bit of space.
+The decay of carbon-14 according to the more accurate ‘Cambridge half-life’
+

@@ -1,0 +1,211 @@
+Friday 16 December 2016 11
+felix.science@ic.ac.uk felixonline.co.uk/science
+felix
+S C I E N C E
+Harnessingbacterialdefencesto
+disruptinfectiousbiofilms
+P
+seudomonas
+aeruginosa is
+a bacterium of
+considerable
+medical
+importance. It
+is the archetypal “multi-
+drug resistant (MDR)
+pathogen”, known for its
+extreme antibiotic resistance,
+broad host range, and an
+association with serious
+illnesses including sepsis and
+hospital-acquired infections,
+prominent among which is
+the life-threatening condition
+cystic fibrosis.
+Key to P. aeruginosa’s
+natural success is its ability
+to grow in complex microbial
+communities known as bio-
+films, in which bacterial cells
+are tightly adhered to each
+other in a sticky self-secreted
+matrix. This matrix, containing
+primarily proteins, polysac-
+charides and extracellular
+DNA, confers a high level
+of protection from chemical
+and physical stress and is
+crucial in determining the
+recalcitrance of P. aeruginosa
+infections to drug treatment.
+In this latest study, led by
+Dianne Newman at the Cali-
+fornia Institute of Technology
+(Caltech) and published
+online in the December 8
+issue of Science, the research-
+ers took a new approach
+to impeding P. aeruginosa
+biofilms. The group targeted
+pyocyanin, a small blue
+metabolite which has long
+been used in the diagnosis
+of P. aeruginosa infections,
+and which the group had
+previously shown to underpin
+biofilm formation.
+To identify a factor that
+would selectively degrade
+pyocyanin, post-doctoral sci-
+entist Kyle Costa, first author
+of the study, turned to natural
+soil-dwelling communities of
+bacteria in which P. aerugi-
+nosa exists side-by-side with
+other microbial species. Costa
+hypothesised that in order to
+thrive in a natural equilibrium
+with P. aeruginosa, these
+other species must produce
+factors which restrict P. aerug-
+inosa growth.
+Hence Costa collected
+soil samples from in and
+around Caltech campus, from
+which he isolated another
+bacterium, Mycobacterium
+fortuitum, and identified the
+previously uncharacterised
+mycobacterial protein, PodA
+(pyocyanin demethylase).
+PodA production by M.
+fortuitum is triggered by
+exposure to pyocyanin and is
+necessary for its degradation,
+the team showed.
+What’s more, addition
+of PodA to P. aeruginosa
+cultures impeded biofilm
+development.
+Whilst the leveraging of
+microbial products to fight
+infections is nothing new
+(thank you Al Fleming), these
+results are novel in that they
+demonstrate how degradation
+of a single small molecule that
+promotes the biofilm lifestyle
+is sufficient to obstruct biofilm
+growth.
+Pyocyanin was previously
+shown to facilitate biofilm
+formation by two main routes:
+firstly, by encouraging the
+release of extracellular DNA
+in early biofilms, and sec-
+ondly, by allowing cells at the
+centre of the mature biofilm
+to survive in their oxygen-de-
+prived environment. PodA
+seems to act on both mecha-
+nisms, thereby restricting both
+nascent biofilm development
+and the further expansion of
+already established biofilms.
+The ubiquity of microbial
+biofilms makes these findings
+relevant in natural, clinical
+and industrial contexts, in
+which the ability to control
+biofilm growth would be
+highly desirable. In particu-
+lar, a number of important
+bacterial species, including
+Erwinia and Burkholderia
+(plant and animal pathogens
+respectively), are also known
+to produce pyocyanin-like
+molecules.
+“…our results pave the way
+for future studies to explore
+whether the targeted manipu-
+lation of analogous molecules
+made by different bacteria
+will have similar effects on
+other microbial populations”,
+said Costa.
+Whilst the prescription of a
+PodA inhaler may be several
+years off yet, these findings
+once again highlight just how
+much we stand to learn from
+microbial ingenuity, if we take
+the time to look.
+F
+act: If you shuffle a
+deck of cards, that
+precise order of
+cards has probably
+never happened
+before.
+Actually, if every single
+person on earth (all 7 billion
+of us) had shuffled one deck
+of cards every second since
+the start of the universe –
+13.7 billion years ago – we
+still wouldn’t even be close to
+having seen every possible
+order of cards.
+The huge number of poten-
+tial orders is the result of
+the 52 cards in a deck. The
+number of possible combina-
+tions can be calculated using
+a function called a ‘factorial’
+[written as ‘!’]. This multiplies
+that number by every number
+smaller than itself. For
+example:
+10! = 10 x 9 x 8 x 7 x 6 x 5
+x 4 x 3 x 2 x 1
+Now imagine that for 52
+factorial, and it’s not hard
+to see that very quickly it
+becomes a massively large
+number: 80,000,000,000,00
+0,000,000,000,000,000,00
+0,000,000,000,000,000,000
+,000,000,000,000,000,000
+to be precise (that’s 67 zeros).
+And in the grand scheme of
+things, that’s nothing; if you
+really want your mind blown,
+get someone to explain Gra-
+ham’s Number (the largest
+number ever even thought of)
+to you.
+Play Your
+Cards Right
+Research from Caltech and the University of Oxford has identified a
+mycobacterial protein that inhibits biofilms of Pseudomonas aeruginosa,
+the major pathogen in cystic fibrosis
+Another one of Mr. Aran
+Shaunak’s Little Bites of
+Science
+Rachel Gillespie
+\\ Key to P. aerug-
+inosa’s natural suc-
+cess is its ability to
+grow in complex mi-
+crobial communities
+known as biofilms \\
+\\ PodA restricts
+both nascent biofilm
+development and
+the further expan-
+sion of already es-
+tablished biofilms \\
+Biofilm de Kombucha \\ Charles de Mille-Isles
+\\ Wicker Paradise
+

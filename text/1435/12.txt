@@ -1,0 +1,427 @@
+sport.felix@imperial.ac.uk
+22 Friday 5 June 2009
+felix
+Sport
+23
+felix
+Friday 5 June 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 12 12 0 0 105 15 90 100 5.00
+2 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+3 Fencing Men's 1st 11 10 0 1 1457861 596 91 4.18
+4 Fencing Women's 1st 11 10 0 1 1445 1160285 91 4.18
+5 Lacrosse Women's 1st 11 10 0 1 162 43 119 91 4.18
+6 Volleyball Women's 1st 9 8 0 1 17 3 14 89 4.00
+7 Hockey Men's 1st 13 11 0 2 65 19 46 85 3.62
+8 Squash Men's 2nd 13 11 0 2 40 21 19 85 3.62
+9 ICSM Netball 2nd 12 10 0 2 452 226 226 83 3.50
+10 ICSM Netball 3rd 12 10 0 2 444 225 219 83 3.50
+11 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+12 Table Tennis Men's 1st 15 12 0 3 163 88 75 80 3.20
+13 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+14 Netball 2nd 12 9 0 3 404 226 178 75 2.75
+15 ICSM Hockey Women's 1st 14 9 1 4 65 29 36 64 2.21
+16 Hockey Women's 1st 16 9 2 5 54 38 16 56 1.81
+17 Basketball Men's 1st 11 7 0 4 780 709 71 64 1.73
+18 Hockey Men's 3rd 12 4 5 3 23 30 -7 33 1.50
+19 Hockey Men's 2nd 12 7 0 5 50 36 14 58 1.25
+20 Hockey Men's 4th 8 4 1 3 19 23 -4 50 1.25
+21 Badminton Men's 2nd 11 5 2 4 49 39 10 45 1.18
+22 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+23 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+24 Fencing Men's 2nd 9 5 0 4 1100 947 153 56 1.00
+25 Rugby Union Men's 2nd 17 9 0 8 358 334 24 53 0.76
+26 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+27 Basketball Women's 1st 10 5 0 5 453 425 28 50 0.50
+28 ICSM Hockey Women's 2nd 11 4 2 5 27 43 -16 36 0.36
+29 Football Men's 1st 12 5 1 6 25 29 -4 42 0.25
+30 Tennis Men's 2nd 12 5 1 6 42 69 -27 42 0.25
+31 ICSM Football Men's 1st 13 4 3 6 17 26 -9 31 0.15
+32 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+33 Football Men's 2nd 11 4 1 6 24 35 -11 36 -0.18
+34 ICSM Rugby Union Men's 2nd 16 6 1 9 271 244 27 38 -0.25
+35 Rugby Union Men's 3rd 15 6 0 9 264 324 -60 40 -0.40
+36 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+37 ICSM Rugby Union Men's 1st 17 5 1 11 306 467 -161 29 -1.00
+38 ICSM Rugby Union Men's 3rd 14 4 0 10 152 429 -277 29 -1.43
+39 Volleyball Women's 2nd 7 2 0 5 13 16 -3 29 -1.43
+40 Football Men's 3rd 11 3 0 8 18 33 -15 27 -1.55
+41 ICSM Football Men's 2nd 10 2 1 7 13 28 -15 20 -1.60
+42 ICSM Hockey Women's 3rd 9 1 2 6 11 39 -28 11 -1.67
+43 Hockey Women's 2nd 11 2 1 8 10 46 -36 18 -1.82
+44 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+45 Football Women's 1st 10 2 0 8 11 34 -23 20 -2.20
+46 Rugby Union Men's 1st 14 2 1 11 165 430 -265 14 -2.29
+47 ICSM Hockey Men's 2nd 11 2 0 9 17 24 -7 18 -2.36
+48 ICSM Hockey Men's 1st 11 1 1 9 18 45 -27 9 -2.64
+49 Rugby Union Men's 4th 15 2 0 13 162 623 -461 13 -2.80
+50 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+51 Netball 3rd 12 1 0 11 127 452 -325 8 -3.25
+52 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+53 Netball 1st 11 0 0 11 220 428 -208 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+1 2 3 4 5 5 6 7 8
+9 10
+11
+12 13
+12 14
+15 16
+16 15
+17 18 19 20
+19
+21 22
+23 22
+24 25 26
+27 28
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,435
+Across
+1 Crop planted around two poles in
+Yorkshire town (8)
+5 Put emphasis on strain (6)
+9 Remove politician adorned with
+gold by art gallery (8)
+10 Judge to be impure, somehow (6)
+12 Demonstrate pig devouring last of
+mash (4)
+13 Make an enemy of soldier, perhaps
+to be in pain (10)
+15 Purging of emotions troubled
+archaists (9)
+16 I’m surrounded by illuminated
+boundary (5)
+17 Father has university in part of
+Indonesia (5)
+19 How sniper fixed possession (9)
+21 I admire Nan, converting to
+Apache, perhaps (10)
+22 Boy has king’s fat (4)
+24 Warm amphibian loses tail next to
+pen (6)
+25 Joined a motorcycle race and
+experienced pain (8)
+27 Force queen to come between
+business and church (6)
+28 Modest person polite after I left,
+showing cautiousness (8)
+Down
+1 Snake worn around the neck (3)
+2 Strike on harbour – there’s a
+connection (7)
+3 Sulphur devoured to eliminate
+hunger (4)
+4 Rue earlier statement, as when
+consuming alphabet soup? (3,4,5)
+6 Goalless draw between the sexes
+and the French with Conservative
+on the flanks – what silly behaviour
+(10)
+7 Myelitis might involve preferential
+treatment for supposedly superior
+groups (7)
+8 Hackneyed treatment of speedy
+otter (11)
+11 Creating storm, in a teacup? (7,1,4)
+12 Obsequious psycho ruined jape
+(11)
+14 Resigned to its fate, college
+supports overweight celebrity of
+the highest order (10)
+18 High honour conferred by
+colleague over a long period (7)
+20 Godless English buried under
+uncultivated land (7)
+23 Not good to have left without locks
+(4)
+26 Deer to take drug (3)
+T B E D A S O C I A B L E
+O V I O U O S T H O R U A U E
+D E N O U N C E I M A D A M E
+O R S K E G O V T P N E I T
+P R O I L V E R L I I N G
+O J L H R E M N E A H O O A D
+T O M E R P U S P I T F I R E
+Y U E L A S N P E N N U O I G
+G R F I I P U T N E E D
+H N R O S N C E H A N N S N
+H P P Y G L U C Y E I D
+B L P I C U T B N R E B C F A
+F E N N E L I E C O N O M I C
+E S I U E A O R L S S N E N M
+L E A P F O G E S T E A D Y
+S
+Solution to crossword 1434
+A
+N
+J
+T
+F
+K
+R
+Congratulations to Team Shotgun
+who were the first team to get the cor-
+rect answer in this week.
+It seems that their crossword solver
+has decided to get their thumb out
+their own arse and actually solve the
+cryptic crossword. Next week is the
+last one that will count for the FUC-
+WIT League, but until then, here is
+another one. Answers, as ever, in to
+sudoku.felix@imperial.ac.uk please.
+Good luck!
+Crossword by: Sam Wong
+O
+H
+O
+A
+R
+Following on from a successful BUCS
+season, Imperial College Riding Club
+took their competitive edge to a whole
+new level when they were won an in-
+ternational competition.
+After receiving invitations to com-
+pete at the CSI** de l’X competition
+at Ecole Polytechnique near Paris,
+Imperial sent three of our most expe-
+rienced show-jumpers: André Wilmes
+(captain), Kathleen Duclos and Trisna
+Tungadi.
+As the only British representatives,
+in a competition otherwise dominated
+by French riders, the pressure was real-
+ly on. In the end our three riders were
+split into two teams: André and Trisna
+together, whilst Kathleen was put on a
+‘mixed team’ with a French rider.
+André jumped a lovely clear round
+to put the ghosts of his BUCS Nation-
+als show-jumping round behind him,
+but sadly Trisna had problems with the
+mare she rode. Despite the horse being
+called Jumper, Trisna fell to the same
+fate as one of the French riders who
+rode the same horse, being thrown off
+and deposited onto the floor. Ever the
+brave rider, Trisna clambered back on
+(twice!) and finished her round to pre-
+vent elimination.
+With André and Trisna’s chance of
+winning now looking very slim it was
+all down to Kathleen who thankfully
+seemed to have luck on her side. Af-
+ter securing a perfect clear round and
+her teammate knocking only one fence
+down, they finished in eventual first
+place. Despite her French-Canadian
+nationality, Kathleen stood proudly on
+the winner’s podium to the British Na-
+tional Anthem, to receive her rosette.
+A fitting end to one of the riding club’s
+most successful seasons ever.
+International
+Success for IC
+Riding
+Chloé Sharrocks
+at the World Cup Regatta will cer-
+tainly increase in chances of selection
+into the Great Britain squad for light-
+weights event this year, and there is a
+strong chance that he might be select-
+ed for the Olympics in 2012.
+Responding to the success at the
+Regatta, Erica Thompson, Captain of
+ICBC, told felix that “We are all very
+proud of Adam’s achievements, and
+he is an inspiration to all of us who see
+him training hard at the Imperial Col-
+lege boathouse day in, day out.”
+She went on to say that “The pres-
+ence of such a high-achieving student
+athlete in the club spurs everyone on,
+including a number of our promising
+younger rowers who are likely to be
+key performers not just at ICBC but
+also in the GB U23 and senior squads
+in the coming years.”
+Neil Mosley, Head of Sport Imperial,
+said that he was “delighted” at Free-
+man-Pasks achievement and that he
+was a “fantastic ambassador for Impe-
+rial”. This is one of the biggest sporting
+achievements for an Imperial sports-
+man for some time and he is certain to
+appear in the headlines in the future.
+Senior medal
+for IC rower
+Reaching the end of the race
+felix Sports
+awards are just
+around the corner
+Jovan Nedić
+Editor-in-Chief
+The end of the academic year is fastly
+approaching as is the end of the sport-
+ing season and as we did last year, we
+will be giving out our very own awards.
+The categories for this year can be
+seen in the left hand column and we
+have decided, in the interest of fair-
+ness, that for the felix Sportsmanship
+award, which we give out to the most
+socialable club, that we will let you,
+the readers, decide who deserves it the
+most.
+So if you think that your club has
+been the most sociable one, email
+sport.felix@imperial.ac.uk with the
+club of your choice and we will get
+the club some drinks (probably a keg
+of beer, but we’ll see how generous we
+feel!)
+To make sure that we get all the facts
+straight, can we ask you all to have a
+look at the league table on the right
+and point out any glaring mistakes that
+The Categories
+felixSport AWARDS
+Team of the Year
+Club of the Year
+Women’s Team of the Year
+Men’s Team of the Year
+Best Medic Team
+Sportsman of the Year
+Sportswoman of the Year
+felix Sportsmanship
+Wooden Spoon Awards
+Worst Men’s Team
+Worst Women’s Team
+Not won a game
+Worst Club
+we might have made.
+The results of this year’s awards will
+be announced in next weeks issue, as
+will the ACC colours, so keep your
+eyes pealed and find out which teams
+are the top dogs and which ones are
+the runts of the pack.
+Last year’s felix Sport Team of the Year: IC Men’s 1st Squash Team
+continued from back page
+Kathleen Duclos (left) and her teammate after their win
+ICHC finish off year with high
+Photo
+by
+Peter
+Spurrier
+of
+Intersport
+Images
+The 2008/2009 season has proved to
+be one of the most successful in recent
+history, with the return of the Men’s 1st
+XI to the top South-East BUCs league
+accompanied by storming perform-
+ances across the club. The addition of
+a Men’s 5th XI next year demonstrates
+the thriving club atmosphere encour-
+aging more and more people to join
+every year. With the season almost
+over and only a selection of Indian
+teams left to play on tour, the annual
+President’s day was held last Saturday.
+The day is a chance for the old-boys
+and girls to return to Fortress Harling-
+ton and play some hockey, drink some
+beer and catch up with old friends. The
+current members also play an impor-
+tant role in organising the day and pro-
+vide the opposition!
+The day started with a showcase
+match between the Club-Captain’s XI
+(led by Chris Baker Brian) consisting
+predominantly of leavers, who played
+against the President’s XI (led by Mark
+Roberton) who were all old-boys. The
+game took a flying start, but soon most
+were suffering from the heat and sun
+and the match soon took a slower pace!
+First blood went to the older genera-
+tions in a slick move which left some
+unfit, mid-exam students looking less
+like young fit whipper-snappers and
+more like beer drinking, bar hugging
+fatties. The pace once again picked up
+and younger generation fought back
+with a goal from leaver Lawrence. It
+was to be the only one from the Club-
+Captain’s XI however, and by half time
+the score was 2-1 to the President’s
+XI. A short half time team talk and re-
+hydration was followed by an intense
+second half which saw the youngsters
+dominate for the majority of the time,
+but the lack of the final finish proved
+costly. Many chances went wide and
+increasing pressure on the old-boys
+half saw a break away from them result
+in a quick and well worked goal. 3-1
+was the final score and for the first
+time in many years the old-boys man- The girls tuck into some Croft’s Pink Port - lovely with lemonade over ice while basking in the sun!
+aged to conquer over the young-ones!
+The rest of the day saw the whole
+club and all old-boys and old-girls get
+involved in a 7-a-side mixed competi-
+tion. Teams from the West Country,
+Links, Windy Millers plus the Surf-
+ing Old-Girls Squad took on the like
+of Royal College of Science, City and
+Gilds and Royal School of Mines. The
+competition looked tight and with the
+sun continuing to beam down all teams
+were suffering the premature summer!
+There was some rest bite however
+- shade in the form of a bouncy cas-
+tle, drink in the form of beer and food
+provided for all made the day far more
+manageable! The group stages saw
+some fantastic goals and some horrific
+banter from the side lines, and the final
+standing saw teams equal on points. As
+stated in the rules a boat race decided
+the team’s fates...the results being that
+RSM would play Myra’s Team while
+Links would play Windy Millers in the
+semi finals. Both games proved close
+Hockey, beer and a bouncy castle - why wouldn’t the President and baby Lucas Roberton smile!
+but Links and RSM triumphed and
+clashed in the final. Links were confi-
+dent with a haul of 1st XI players from
+previous years plus their secret weapon
+- Truffle Shuffle! However, RSM had
+fielded a non-drinking team of tuned
+athletes who took the Links Club to the
+cleaners. Game over. RSM win both
+the President’s Trophy and the prestig-
+ious intercollegiate cup presented by
+Stephenson back in the 1950s having
+beaten both C&G and RCS!
+The President was happy with the
+day as were his wife and son, Lucas
+(pictured left). The Old-Boys saw glory
+over the younger fitter and better look-
+ing current IC members while RSM
+dominated the tournament!
+The club now looks forward to the
+tour of a lifetime to India and are pre-
+paring for next year which will be big-
+ger, better and more successful than
+ever! Interested in joining the club? We
+cater for any standard, any age and any
+amount of involvement...see you there!
+Jack Cornish
+Sports Editor
+

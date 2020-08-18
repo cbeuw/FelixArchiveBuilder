@@ -1,0 +1,87 @@
+22 May 1998 NEWS
+Microsoft in the Dock
+MARK BAKER
+Microsoft, the world's most successful soft-
+ware company, faces a new threat this week.
+The US Department of Justice (DO)) and twen-
+ty US states have filed a lawsuit against Bill
+Gates' all-powerful company.
+Microsoft is charged with engaging in anti-
+competitive and exclusionary practices designed
+to maintain its monopoly in personal computer
+operating systems and to extend that monopoly
+to Internet browsing software. Essentially, the
+DOJ is seeking to stop Microsoft from integrating
+Internet Explorer (its Internet browser) into
+Windows 98, a minor upgrade to its all-pervad-
+ing PC operating system. It argues that users are
+unlikely to install a different browser, and this
+would effectively ensure Microsoft's domination
+of the Internet browser market, as almost all PCs
+run a version of Windows. "This action will pro-
+tect innovation by ensuring that anyone w h o
+develops a software program will have a fair
+opportunity to compete in the marketplace,"
+said Joel Klein, the Assistant Attorney General in
+charge of the DOJ's Antitrust Division.
+Support for the lawsuit has c o m e from an
+unlikely source - President Bill Clinton, speaking
+on Tuesday after meeting EU leaders, said: "This
+is not just an open-and-shut case where one
+party sues somebody else ... This is something
+that will have a significant impact on our econo-
+my." The Clinton administration is keen to see
+competition flourish as the g r o w t h of the
+Internet creates a vast new market. M o r e than
+100 million people are now connected to the
+Net with the figure expected to increase to a bil-
+lion by 2005. E-business is expected to grow
+nearly a hundredfold over a five-year period and
+traffic over the Internet is now said to be dou-
+bling every 100 days.
+Bill Gates learns the strength of his
+detractors' feelings as a conference last year.
+In a typically hostile and bullish response,
+Microsoft hit back at their accusers, stating that
+the lawsuits "are without merit and could set a
+harmful precedent in which government inter-
+vention in a healthy, competitive and innovative
+industry would adversely affect consumers and
+the ability of U.S. companies to continually
+improve their products." In an o p e n letter to cus-
+tomers, Bill Gates said that the requested
+changes to W i n d o w s 98 "appear to benefit a sin-
+gle competitor at the expense of consumers".
+M i c r o s o f t also stated that the release of
+W i n d o w s 9 8 was "on schedule" to reach con-
+sumers on June 25.
+However, most industry observers remain
+unconvinced of Microsoft's lofty principles - in
+M a r c h 1997 an internal m e m o concluded "if w e
+take away IE from the O/S, most nav users will
+never switch to us."
+Should Microsoft lose the case, the US gov-
+ernment could break up the 'supercompany' or
+regulate its business practices. Given the impor-
+tance of M i c r o s o f t in the U S e c o n o m y (it
+employs nearly 25,000 staff), the latter option is
+more likely. Microsoft would most likely be
+forced to include less "free" software with its
+operating system, instead selling the packages
+individually. It would also have to put a stop to
+its practice of pressurising PC manufacturers to
+include W i n d o w s and Internet Explorer on every
+machine sold. (When C o m p a q decided to bun-
+dle Netscape Navigator, Microsoft threatened to
+rescind Compaq's license to install W i n d o w s o n
+its desktop PCs).
+As news of the titanic legal battle was
+released, shares in Microsoft have d r o p p e d from
+$89 to $86. Bill Gates won't be losing sleep yet
+though - at this price his c o m p a n y is still worth
+over $200 billion.
+N e w f r o m C C S S H O P . . .
+CCS SHOP
+Level 4, Mechanical Engineering Building, ext. 46953, ccs-shop@ic.ac.uk
+9.30am - 5.00pm (Wed 10.00am - 5.00pm)
+

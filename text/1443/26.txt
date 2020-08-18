@@ -1,0 +1,537 @@
+26
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 06 NOVEMBER 2009
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+Dropbox is your friend
+Student priced cloud sync and storage no one should be without
+SamuelGibbs
+SamuelGibbs Technology Editor
+Orange with
+rage
+O
+range incurred the wrath
+of the UK tech establish-
+ment this week with their
+announcement of their
+upcoming iPhone price plans. Being
+a whole 36p cheaper over a 24 month
+plan, Orange isn’t really going to ignite
+a price war with O2, instead they’ll
+likely rely on their better coverage and
+3G bandwidth to win people over. Ok,
+fine, no price war like we all wanted,
+but I can’t say I’m suprised. What I,
+and a load of the UK tech press were
+suprised at is the absolute abuse of
+the word ‘Unlimited’ by Orange. Un-
+limited, well you know what it means,
+but unfortunately Orange obviously
+doesn’t. Contained within their ‘fair’
+use policy there’s a stipulation that
+the bandwidth cap is actually 750MB.
+I don’t know about you but when I
+buy an Unlimited plan, I expect to get
+unlimited service, not some meagre
+download limit. Now, Orange claim
+that the average iPhone user doesn’t
+use more than 200MB a month and
+so 750MB is more than enough. Prob-
+lem is, I doubt they base that figure on
+actual iPhone usage figures. 200MB
+per month may well be accurate for
+much less data-centric devices but
+for the iPhone, that’s a rather poultry
+amount. Considering that the iPhone
+boasts streaming music apps, access to
+YouTube, BBC iPlayer and fully fledged
+web browsing, even their supposed
+plentiful cap of 750MB is small fry.
+To make matters worse, a quick
+look in Orange’s Terms and Condi-
+tions shows that they prohibit the use
+of streaming apps such as Spotify and
+social networking sites such as Face-
+book. Now I don’t know about you but
+what’s the good of an iPhone that you
+can’t use the Apps that make it what it
+is? Now don’t get me wrong, I under-
+stand that Orange need some sort of
+fair use policy to protect their network
+from abuse, but limiting the device by
+blocking what it’s naturally geared up
+to do is ludicrous.
+More Apple news this week in the
+form of a supposed iPhone 4th gen-
+eration part leak. China Ontrade, an
+electronics wholesaler, claims that it
+has leaked shots of the next-generation
+iPhone midboard (the bit that every-
+thing screws into inside the phone).
+Ok, so it’s not a spy shot, or anything
+that indicates a radical redesign, and
+it’s literally 8 months early from Apple’s
+usual device generational turn-over.
+But last time China Ontrade ousted a
+supposed iPhone part they were dead
+on and one month later the iPhone
+3GS appeared. Does this mean that
+Apple’s going to break with it’s yearly
+refresh cycle and release a new iPhone
+model in the next few months? With
+my contract up for renewal in January
+next year I hope so, but I wouldn’t get
+your hopes up. Apple’s highly unlikely
+to do such a thing, but never say never.
+Twitter has unleashed lists to the
+general twitter populous this week
+enabling people to set up, maintain
+and follow lists of people and their
+tweets. It gives you the convenience of
+mass follows and means that you can
+follow people’s tweets without follow-
+ing them directly. If you’re not a twit-
+ter user this probably means nothing
+to you, but Lists have become the new
+follower count with people competing
+to be on as many lists as possible.
+Talking of Twitter, how about a mo-
+bile device that does nothing but ac-
+cess and post to Twitter? Well that’s all
+the TwitterPeek does. For the princely
+some of $200 without a monthly fee,
+you can access Twitter from anywhere.
+Hmm, I’ll stick with my iPhone thanks.
+SamuelGibbs
+SamuelGibbs Technology Editor
+Weekly Wrap Up: A quick guide to the best of the rest you might have missed
+After the buzz of Android 2.0 last
+week, this week’s news has been a lit-
+tle more unconventional than most.
+For starters the Rise of the Machines
+steadily ploughs on. We’ve got MIT re-
+searchers working on a program called
+ClearView that will create ‘immortal
+and invulnerable’ programs. In simple
+terms, it automatically patches pro-
+grams that experience errors or vul-
+nerabilities. Great idea to stop hackers
+and viruses from causing havok but
+think about this: A computer program
+that can heal itself and can’t be dam-
+aged by humans. Skynet anyone?
+Lockheed Martin have been in
+the news this week too with another
+deathbot. Their next generation UAV
+the Sabre Warrior Drone, which looks
+like a cross between something out
+of Batman and Star Wars, is a 46 foot
+long killing machine. With a wingspan
+of some 36 feet and 22,000 pounds of
+thrust it can handle 2000 pounds of or-
+dinance to destroy any puny building
+you might be hiding in.
+Skynet can give as well as take away.
+The latest bomb sniffing robot takes
+the form of an unmanned helicoptor
+codenamed Yellow Jacket. This little
+beauty is tasked with the unenviable
+job of searching out for IEDs and road-
+side bombs by detecting and locating
+their electromagnetic emissions. Trav-
+elling by road is currently one of the
+most dangerous activities in Afghani-
+stan due to the roadside bombs. If Yel-
+low Jacket can give soldiers a scanned
+clear path, then I’m all for it.
+An autonomous Audi TTS also made
+an appearance this week. Built by Stan-
+dord to compete in the Pikes Peak In-
+ternational Hill Climb, a race that takes
+its competitors over 20Km, through
+156 turns and up a 1423m climb on
+gravel and paved roads, the TTS is
+packed full of GPS, sensors and a com-
+plicated guidance system. It will be an
+impressive feet to see the car navigate
+all the twisty turns and reach the fin-
+ish line and would make Darpa’s Urban
+Challenge look a little like childs play.
+In entertainment news, the BBC this
+week announced that it’s iPlayer VOD
+service is coming to FreeSat starting
+this month in a closed beta. It’s good
+news for all those with FreeSat boxes
+and if it’s successful, will probably
+mark a move to integrate the service
+with FreeView HD boxes later in 2010.
+All currently available FreeSat+ boxes
+are capable of receiving iPlayer with a
+software update thanks to in-built eth-
+ernet ports, which were made manda-
+tory at the beginning of the FreeSat+
+specification.
+The Beetles continue their extremely
+laboured migration to digital distri-
+bution. Having made it onto Beetles
+RockBand and with re-mastered and
+original CDs already available, the Bee-
+tles have now made available their 14
+stereo tracks on an Apple shaped USB
+flash drive. The odd looking thing car-
+Cloud storage is all the rage these
+days, with connection speeds steadily
+increasing and online storage ever de-
+creasing in cost. One day it’s likely that
+most of our data will be stored in the
+cloud in one form or another. We’ve
+been accessing our email for decades
+via webmail interfaces like Hotmail,
+Yahoo! mail and Gmail before it was
+described as ‘the cloud’ and services
+like Xmarks use server storage for
+cloud based sync. So it shouldn’t come
+as a shock to you that many companies
+offer storage solutions, some better
+than others, quite a lot for the very stu-
+dent friendly price of free.
+Dropbox is one of the better online
+storage and file sync solutions avail-
+able at the moment. Its service is built
+around a very simple idea, sync a folder
+full of files between any computer you
+happen to use and online.
+The service itself consists of a client
+that runs as a service on your compu-
+ter, syncing any files that are contained
+within a ‘Dropbox’ folder on your
+computer. The location of that folder
+can be user determined but anything
+within that folder is automatically
+transferred to your own personal piece
+of cloud storage provided by Dropbox.
+Once the file is uploaded it can then
+be downloaded onto any computer
+whether it’s a PC, a Mac or even Linux
+that you set up sync with, seamlessly
+and in the background. If you need ac-
+cess to that file on the road your entire
+Dropbox can be accessed via a browser
+on the Dropbox website or even via a
+free iPhone app.
+Dropbox’s simple solution essentially
+provides three services in one. First off
+you’ve got file sync, which means you
+can easily transfer files between com-
+puters as long as you have an internet
+connection. You’ve also got access to
+those files where ever you happen to
+be via a browser, including your mo-
+bile devices, allowing you to keep your
+files with you even on other people’s
+computers. The third attribute Drop-
+box provides might be something you
+wouldn’t immediately think about,
+backup. Dropbox syncs all your files
+in your Dropbox to the cloud mean-
+ing you’ve always got a copy of the files
+stored online, but you’ve also got a
+copy of those files synced to any com-
+puter you happen to have set up. In to-
+tal this means that not only have you
+got online backup but you’ve got mul-
+tiple local backups too. So should your
+laptop get pinched, your house burn
+down, or an act of god swallows Impe-
+rial up in a freak Earthquake, you’ll at
+least have one or more of those back-
+ups available to you.
+Dropbox also has one more trick
+up it’s sleeve that sets it apart from
+the rest of the cloud storage pack and
+that’s a public folder within your Drop-
+box. Here you can place files you’d like
+to share with other people and with a
+simple right click you’ve got a share-
+able link that you can send to whoever
+you want to be able to download that
+file. If they’ve got a Dropbox them-
+selves and their on your local network
+the software is smart enough to route
+the file transfer via the local network
+meaning that you get great connection
+speeds for anyone who’s local to you.
+Dropbox has both free and subscrip-
+tion services. The free service starts off
+at 2GB of storage space, with no nags
+or any other annoyances. Should you
+need more storage you can buy 50GB
+of storage for $9.99 a month (about £6
+in todays money) or a whole 100GB for
+$19.99 (£12) a month.
+You can even top up your 2GB of free
+space to a maximum of 3GB by getting
+your friends to sign up via referrals in
+250MB chunks.
+So if you’re looking for a service that
+you can use from anywhere with an
+internet connection, to both store and
+sync your files safely and securely, even
+within college, then check out Drop-
+box at www.getdropbox.com and
+grab some fantastic, free storage that
+simply works.
+SamuelGibbs
+SamuelGibbs Technology Editor ries copies of the tracks in both FLAC
+and MP3 formats and is equipped with
+a custom made Flash player and a load
+of extra video and photo related art-
+work. Great for collectors I suppose
+but for those who just want to buy the
+Beetles music from their favourite dig-
+ital download store, still no luck.
+Nvidia confirmed this week that Intel
+won’t be supporting USB3 until 2011
+with its chipsets. This senseless delay
+will mean that USB3 probably won’t hit
+off till late 2011. LightPeak anyone?
+

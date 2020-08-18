@@ -1,0 +1,233 @@
+SCIENCE
+FELIX 9
+Friday 02 december 2011
+The composition of the Earth’s core
+has been a mystery to scientists for
+nearly 60 years. While we know much
+about how this section of our planet af-
+fects us in terms of magnetism, energy
+generation and planetary dynamics,
+its precise makeup has remained hazy.
+Until recently all we knew was that the
+core is composed of predominantly liq-
+uid iron, along with small amounts of
+nickel, and 10% (by weight) of light
+elements.
+Researchers have now used a mix of
+seismic and geophysical data, in con-
+junction with laboratory models, to
+determine the relative proportions of
+these light elements present at the cen-
+tre of our rocky planet. New research
+by Haijun Huang and colleagues,
+published in Nature, examines their
+respective abundances and comes to
+a surprising conclusion – the Earth’s
+core is oxygen-poor.
+The composition of the Earth’s core
+is vital; differing elemental proportions
+would result in different rates of cool-
+ing, rate of core growth, and evolution
+of our internal geodynamo – some-
+thing that results in the generation of
+and variation shown in our magnetic
+field. By examining our core, it is also
+possible to gain remarkable insight into
+the conditions present when the Earth
+formed, and its subsequent geochemi-
+cal evolution.
+The Earth’s core is known to be com-
+posed of a large, liquid outer core that
+houses a smaller, solid inner core – this
+is shown well on the accompanying
+image. The extreme temperature and
+pressure conditions make it difficult
+to investigate how seismic isotropy,
+velocity and density would differ with
+the presence of varying light elements.
+Possible suspects for this light element
+quota include sulphur, oxygen, silicon,
+carbon and hydrogen, due to their solu-
+bility at the temperature and pressure
+ranges required.
+Huang and the research team per-
+formed shock-compression experi-
+ments, where samples are subjected
+to core-like conditions through high-
+velocity impacts. Experiments such as
+these have played a major role in un-
+veiling current knowledge about core
+composition; when iron-rich samples
+are used the results are extremely close
+to those we expect to occur in our core.
+The researchers used liquid samples in
+order to increase the accuracy of their
+findings as far as possible, and mea-
+sured the sound velocity of the shocked
+samples along with the density and
+temperature states achieved through
+the impact.
+Comparing these sound veloci-
+ties and densities with the geophysi-
+cal seismic data known for the core,
+Huang and colleagues were able to
+rule out certain compositions. They
+experimented by splitting the 10%
+by weight between oxygen, sulphur
+and iron, and found that samples with
+more than 2.5% oxygen by weight
+were unable to match the required
+dataset for density, temperature and
+sound velocity. “The results show that
+we can rule out oxygen as a major
+light element in the liquid outer core,”
+say the researchers.
+While sulphur is able to match the
+dataset required, previous accretion
+models have limited the proportion of
+this element to only a small amount.
+Huang and colleagues have signifi-
+cantly advanced our understanding of
+the Earth’s geochemical origins and
+elemental structure, but further ex-
+Nicola Guttridge
+Earth’s core deprived of oxygen
+Facebook is making the world even smaller
+Facebook has conducted a joint study
+which suggests that there are, on
+average, 3.74 degrees of separation
+between users on the popular social
+networking website. The study, joint
+between Facebook’s data scientist
+Lars Backstrom and four researchers
+from the University of Milan, found
+that the number of people that link
+two others on average is approxi-
+mately four. That is, as the authors of
+the study explain, “when considering
+another person in the world, a friend
+of your friend knows a friend of their
+friend.”
+The study was carried out in May
+before the ‘Subscriptions’ feature
+was added to Facebook and celebrity
+fan ‘Pages’ were not taken into ac-
+count in the data. All active members
+of the site were included in the study,
+and users were deemed to be such if
+they had logged on at least once over
+a 28 day period. This marks the larg-
+est test regarding Hungarian author
+Frigyes Karinthy’s idea that there
+were six degrees of separation be-
+tween any two people on Earth. The
+hypothesis has long since been tested
+with various samples, including a no-
+table effort by psychologist Stanley
+Milgram in the 1960s involving de-
+livering a letter to an arbitrary person
+by passing through acquaintances.
+Facebook’s social graph data had
+721 million members at the time of
+the experiment, with a total of 69
+billion friendships. The researchers
+were able to analyse the data using
+rules from graph theory within dis-
+crete mathematics and by performing
+combinatorical analysis. They used a
+24-core computer with a 1 terabyte
+(TB) hard disk to crunch the num-
+bers, costing them “no more than a
+couple of thousand pounds”.
+Facebook typically limits users to a
+maximum cap of 5,000 friends. The
+Alexander Karapetian
+Sir Paul Nurse spoke at the dinner
+”
+There are on average
+3.74 degrees of
+separation between
+users on Facebook
+“
+There ar
+There ar
+November 26 saw the first of what is
+hoped to be an annual convening of the
+science societies of universities in the UK
+at a dinner, attended by some of the most
+prestigious names in the discipline.
+Guests of honour included HRH The
+Duke of Kent; Nobel laureate Sir Paul
+Nurse, who received his prize for his re-
+search into cell duplication; Sir Roland
+Jackson from the British Science Asso-
+ciation; and Professor Kevin Warwick,
+described as the “world’s first cyborg” for
+implanting a RFID chip in his body.
+Dinner was followed by an amusing
+and inspiring speech by Sir Nurse, who
+described his path into science (beginning
+with the sight of Sputnik 2 over the skies
+of Neasden), his work that led on to his
+Nobel Prize, and where he sees science in
+the future.
+Of special note is the Frances Crick In-
+stitute, opening in 2015. Nurse described
+the Institute as being “anarchic,” with
+1,500 staff being organized in no depart-
+mental structure. It is hoped this way of
+structuring the Institute will lead to in-
+creased freedom, with no senior manag-
+ers causing roadblocks to new research
+proposals. When asked if there are any
+examples of this arrangement in practice,
+Nurse did, however, reply “in my head”.
+Nurse also urged the attendees to use
+their scientific skills for the good of the
+nation. While he stressed that only those
+with a deep passion for science should
+go on to do research, it was important,
+he said, that we ensure that public are of
+a sound scientific knowledge, especially
+as the future becomes even more scien-
+tifically advanced. He used an example of
+the lack of scientists in Parliament as an
+example of where we fail at the moment,
+especially considering the ill-informed
+debate in the past, such as over GM crops.
+Science
+Societies
+perimentation is required using differ-
+ent mixes of light elements in order to
+fully determine the composition of our
+core.
+DOI: 10.1038/nature10621
+median amount from the sample size
+representative of 10% of the global
+population was only 100 friends,
+accounting for 0.000014% of Face-
+book’s total membership. Results
+indicated 99.6% of all pairs of users
+were connected by 5 degrees of sepa-
+ration, with 92% connected with only
+four. The average distance between
+any two users was found to be 3.74
+degrees, shorter than the average dis-
+tance of 4.28 found by a similar Face-
+book study in 2008, strengthening the
+idea that a larger sample size often
+results in a lower separation level.
+The researchers said that “the av-
+erage distance appears to be stabilis-
+ing”, suggesting it would not change
+from 3.74 even if the rest of the world
+joined Facebook.
+arXiv:1111.4570v1
+Want to write for
+Felix Science?
+Email us!
+Philip Kent
+Cross section showing the inside the Earth
+Nature
+Raphael Scheps
+

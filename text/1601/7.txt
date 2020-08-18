@@ -1,0 +1,229 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 9
+FELIX 13.03.2015
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Methods developed at Imperial could make
+burning fossil fuels guilt-free
+Lauren Ratcliffe on converting waste carbon dioxide into useful materials
+Fossil discovery sheds light on human origins
+JANE COURTNELL
+SCIENCE WRITER
+If we are to avoid further
+aggravating climate change we
+need to find a way to store or
+transform the hundreds of billions
+of tonnes of carbon dioxide produced
+by power stations worldwide
+into something useful. A team at
+Imperial’s Department of Chemistry
+have done just this. Working with
+the spin-off company, Econic
+Technologies, they have developed
+a cleaner way to produce valuable
+materials from waste carbon dioxide
+and are bringing it to the market.
+Since the 1960s there has been
+much research into ways of
+converting carbon dioxide into a
+suitable chemical intermediate.
+Freely available, with low toxicity
+as well as being an environmental
+nightmare, this molecule lends itself
+to this type of research. However,
+developing catalysts and processes
+to convert carbon dioxide has been
+problematic. Mainly because this
+highly oxidised state of carbon is at
+the lowest energy state of all carbon
+containing C1 species, meaning that
+a huge amount of energy is needed to
+reduce it.
+However, there has been progress,
+with the development of catalysts
+to successfully incorporate carbon
+dioxide into polymers. These
+polymers can later by used in
+polyols, which are used to make
+polyurethanes, a material found
+in tonnes of consumer and
+industrial products, including
+Spandex! However, at the moment,
+industrial processes for producing
+these valuable polyols requires
+petrochemicals such as the toxic,
+expensive and energy inefficient
+propylene oxide.
+Previous cleaner methods that have
+been developed to produce polyols
+using carbon dioxide have been
+found to work only with high purity
+carbon dioxide. Despite being a step
+in the right direction, this process is
+not practical as one of the principle
+applications of this technology is to
+clean up real sources of waste carbon
+dioxide.
+Experiments by Imperial’s team
+of researchers were conducted using
+carbon dioxide from Ferrybridge
+Power Station carbon capture
+demonstrator plant in West
+Yorkshire. The results published in
+ACS Catalysis this February indicate
+that by using the novel catalyst
+technology developed at Imperial,
+it was possible to use waste carbon
+dioxide to produce useful products
+such as polyurethanes at much
+lower pressures and temperatures
+than previous methods. These
+polyurethanes can then be used to
+valuable materials from furniture to
+the soles of your trainers.
+This method makes the process
+more economically appealing to
+existing polyurethane manufacturers,
+offering a cheaper and more
+environmentally friendly alternative
+to exclusive petrochemical usage.
+The team has estimated that for
+every tonne of carbon dioxide used,
+two tonnes of emissions could be
+saved through circumventing the
+production of the petrochemical-
+based raw material it displaces.
+Many industries that emit large
+quantities of carbon dioxide are also
+likely to be obliged to use carbon
+capture and sequestration (CCS) in
+the future with the introduction of
+environmental policies to reduce
+levels of atmospheric greenhouse
+gas. CCS is a costly process, but using
+carbon dioxide as a raw material
+to make polymer materials could
+offset these costs. “Using real
+carbon dioxide emissions to make
+useful products is very challenging,
+because frequently catalysts are not
+tolerant of minor contaminants,”
+said Professor Charlotte Williams,
+lead author of the study. “Carbon
+dioxide streams from power stations
+Humans still have an
+unmistakable tie to our
+ape origins. The question
+is, how did we get from such a
+beginning to our where we are
+now? The fossil record provides a
+fragmented view of human evolution.
+From this record, the time of split
+between the Homo genus and
+Australopithecus genus remains
+ambiguous. Fossilised remains
+of Homo habilis mark the split
+between Homo and Australopithecus
+dating between 2.4 and 1.5 million
+years ago (mya). However, with the
+continual advancement within
+palaeoanthropology we have recently
+seen the discovery of a lower jawbone
+and five teeth belonging to the Homo
+linegage which dates to around 2.8
+mya. Disputes concerning whether
+the fossilised remains of Homo
+habilis specimens belong to the
+Australopithecus genus and thus
+splits in the latter lineage occurring at
+a later date, are challenged.
+The significance of the
+Australopithecus-Homo divergence
+is owed to the transition of ape-
+like species to forms resembling
+modern humans. Characteristics
+such as expansion of brains; body
+enlargement; decrease in the extent
+of sexual dimorphism in terms of
+body size; tool usage; changes in
+are among the most contaminated
+sources of CO2
+available, so the work
+we have done is a big step forward
+because the catalysts show such
+remarkable tolerance and function in
+almost exactly the same way as using
+pure CO2
+.”
+Econic Technologies was initially
+set up to commercialise the catalysts
+developed by the team at Imperial.
+The research has already attracted
+the attention of major chemical
+companies to support the adoption
+of this more economically sound
+and environmentally friendly
+technology. The research was funded
+by the Government’s Department of
+Energy and Climate Change and the
+Engineering and Physical Sciences
+Research Council and published on
+the February 10, 2015.
+DOI: 10.1021/cs501798s
+limb proportions; reduction of cheek
+teeth size and unique Homo features
+of the brain were derived. This
+novel discovery in the Afar region
+of Ethiopia, the Ledi-Geraru areas
+250 miles from Addis Ababa, is of
+high importance. The fossil remains
+provide clarification to a “ poorly
+documented hominin evolution,”
+says Erin N. DiMaggio, associate
+in the department of geosciences
+Penn State – especially within this
+important time frame between 3 and
+2.5 mya.
+A more definite age of the
+remains cannot be given due to
+the absence of a direct method to
+ascertain a date. Measuring different
+isotopes of argon can determine
+the age of eruption producing the
+volcanic ash or tuff preserving the
+sample. Thus, can imply the age of the
+sample. The age of the rocks above
+and below the sample are found to
+indicate the earliest and oldest dates
+for the fossil. In addition, other
+fossilised organisms in the area at
+the implied date are determined to
+reveal the environment in which
+the hominin fossil once existed.
+Prehistoric antelope, hippopotamus,
+water dependent grazers, elephants,
+and fish suggest that habitat was a
+mixture of grasslands and shrublands
+some 2.8 mya. There has thus been
+a definitive change in the climate
+in this region which could have
+triggered the Australopithecus-Homo
+split.
+Although it is still too soon
+to say whether the climatic signal
+and change in climate triggered
+the divergence between the Homo
+and the Australopithecs lineage;
+the signal never-the-less acts as
+evidence supporting the proposed
+climate hypothesis. One of the
+many theories to explain explain the
+Australopithecus-Homo split. These
+novel fossilised remains provide a
+significant stepping-stone in our
+knowledge of human evolution.
+Ferrybridge Powerstation, UK, where the experiments took place.
+Photo: 3.aba.com
+The discovery of this jawbone made fossil hunters get hot under the collar
+Photo: Guardian
+

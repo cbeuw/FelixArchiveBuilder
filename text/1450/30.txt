@@ -1,0 +1,434 @@
+EVIL
+30
+COFFEE
+BREAK
+Coffee Break Editor
+Coffee Break Editor Charlie Murdoch
+Charlie Murdoch
+coffee.felix@imperial.ac.uk
+felix
+Scribble box
+FRIDAY 22 JANUARY 2010
+Aristotle: “Educating the mind without educating the heart is no education at all.”
+Quote of the Week
+Wordoku 1,450
+Solution 1449
+Last issues obligatory mistake was
+placing the ‘E’ in the bottom left box
+of the Evil Wordoku one cell lower
+than it ought to have been - produc-
+ing two valid solutions and hiding the
+word MISEROTIA. Be rest assured
+I have received a sound beating. Big
+hand to winner of last week’s easy- GL
+Tang, please provide a name. Can’t
+remember the evil winner. Sorry.
+How to play:
+Wordoku is identical to Sudoku; we’ve just replaced
+numbers with letters. Complete the puzzle and then send
+the whole grid to sudoku.felix@imperial.ac.uk. You will
+not get credit for just the word alone. It’s not an anagram.
+Evil Wordoku is exactly the same... only harder... and
+there’s a letter missing... that MAY be a duplicate - just
+solve it like normal and insert the letter that you believe
+makes the word.
+N
+K
+S
+T
+O
+U
+C
+R
+B
+R
+B
+C
+S
+K
+N
+O
+T
+U
+O
+U
+T
+R
+B
+C
+S
+N
+K
+S
+O
+K
+U
+N
+B
+T
+C
+R
+T
+C
+B
+K
+R
+S
+N
+U
+O
+U
+R
+N
+C
+T
+O
+B
+K
+S
+C
+S
+R
+O
+U
+T
+K
+B
+N
+B
+T
+U
+N
+S
+K
+R
+O
+C
+K
+N
+O
+B
+C
+R
+U
+S
+T
+I
+R
+P
+L
+K
+C
+K
+P
+D
+C
+C
+I
+D
+O
+O
+D
+K
+P
+R
+K
+L
+E
+K
+P
+K
+D
+O
+P
+L
+C
+O
+D
+Standing on
+the table?
+CharlieMurdoch Coffee Break Editor
+Char
+Char
+I
+assumed that during exams you
+would all be furiously masturbat-
+ing over these puzzles. It turns
+out that I was correct. Like some
+sort of Claire Voyant. Have you ever
+thought about being a girl for a day?
+I have, and drew the conclusion that
+it would be a considerable amount
+of fun trying to fuck up some poor
+hockey fresher’s mind. But then again
+I am a massive fan of psychological
+maiming. In the past it has regularly
+proved to be highly successful.
+Moving on from maiming the gen-
+eral public, this week the Union has
+finally got round to installing the new
+Union Bar’s Dignity Drainpipe. In
+a risky manoeuvre, Union President
+Ashley Brown decided that too many
+people were simple throwing their dig-
+nity away to anyone who happened to
+be in the bar drinking. Or vomiting.
+Or pissing- got to cover all the bases,
+the Rugger Bugger boys may be in. So,
+after a colossal fuck-up which saw Col-
+lege confuse Boris with a few diversion
+signs, thus sending him to the wrong
+bar, Ashley stepped in to unveil the
+new Dignity Drainpipe.
+Standing on a table (fucking health
+and safety brap!), in the bar, packed
+with sportsmen, on Wednesday night
+Ashley went mental. He started to
+scream at people like some sort of des-
+perate paedophile ‘I am the President
+give me your dignity. You common
+scum! I run this fucking place.’ At first
+he received some strange looks, which
+for Mr Brown, is not unusual. But af-
+ter a while the ‘common scum’ realised
+that what Ashley was doing was in fact
+being the first contributor to his new
+venture. Adding to the funeral pyre of
+dignity, a Rugby fresher mistook Ash-
+ley’s rambling for some sort of sexual
+invitation. At this point Brown realised
+that he was probably a) making limit-
+ed sense and b) a bit twatted. He took
+himself home, not to resurface until
+lunchtime the following day.
+In other news, Haiti appears to have
+been fucked by a giant horse-come
+-stallion. Judging by the destruction it
+appears that this horse was on hardcore
+crack. Not good, it spoilt quite a few
+people’s days. It brought me back to the
+(slightly less severe) flooding in Britain
+in the summer of 2007, when the Rt.
+Rev Graham Dow, Bishop of Carlisle
+pronounced that the flooding was due
+to an increase in pro-gay legislation.
+Arsehole.
+Stuff Imperial students like:
+11. Americans:
+Americans! They are back, and back
+in force. We love them, coming over
+here and learning about our cul-
+ture. They are a huge amount of fun
+and all seem to be called by strange
+names like “Hope”. Never-the-less
+they are a huge amount of fun, and
+game for a laugh. Or downing a
+pint. Slowly. Next one you see, just
+slip a casual penny into the glass
+and yell ‘GET IT DOWN’ really
+loudly at them. Watch their little
+faces drop.
+I digress. The point is that they
+really do contribute a lot to the
+life here at Imperial and it’s amaz-
+ing that we have the opportunity to
+share our experiences and relate the
+theirs. I personally really look for-
+ward to their biannual invasion.
+Not really. I was shitting you. Just
+put a not in every sentence.
+God bless America? You taking the piss?
+mmmmmm.....
+felix
+felix Love
+Lovestruck
+struck 07726 799 424
+I
+S
+T
+I
+K
+S
+E
+T
+S
+T
+I
+I
+P
+N
+A
+N
+S
+E
+E
+T
+N
+P
+N
+K
+A
+P
+Wordpath 1,450
+INTERMEDIATE
+How to play:
+Make a path from the origin word to the destination
+word by taking steps between words using one of the
+three following methods:
+Letter Substitution: Substitute just one letter.
+e.g. WORD -> WARD
+Anagram: Rearrange the letters.
+e.g. WARD -> DRAW
+Wordslide: Replace the current word with a new 4 letter
+word from any 5+ letter word that contains them both.
+e.g. DRAW -> WING (via DRAWING)
+No consecutive steps may be made by the same method.
+e.g. WORD -> WARD (by LS) -> WARE (by LS) would
+be invalid.
+Points are awarded for the earliest SHORTEST valid path
+between the two words. Dubious words will be checked
+against the OED. Send your solutions to sudoku.felix@
+imperial.ac.uk.
+ORIGIN:
+M O S T
+DESTINATION:
+E V I L
+Scribble box
+“my fuckin head is banging after
+the banging you gave me last night.
+Whoever you are English boy i want
+you to give me another going over.
+”
+Amy the American
+“dan wan. You want me and I want
+you. Can’t we just break down the
+barriers and dance, dance, dance the
+night away? over a copy of the felix
+tomorrow?’’
+Lucy
+“Dave. you penile cord. You owe
+me a new headboard after the
+thumping you gave that one. If you
+don’t I am taking legal action.
+”
+Hard
+“god gave you a gift, and that gift
+was the ability to fufill all my
+needs. and a little bit more! come
+see me again at some time. chat,
+maybe more?”
+David the Duke
+O
+T
+A
+S
+R
+I
+/
+/
+E
+M
+R
+E
+S
+T
+/
+/
+M
+O
+A
+I
+I
+M
+/
+/
+A
+O
+E
+T
+R
+S
+M
+R
+T
+o/
+o/
+S
+A
+E
+I
+/o
+/o
+/
+/
+O
+I
+M
+E
+T
+A
+S
+R
+S
+A
+E
+R
+I
+/o
+/o
+M
+o/
+o/
+T
+A
+/
+/
+O
+I
+M
+R
+S
+T
+E
+T
+I
+M
+E
+A
+S
+R
+/o
+/o
+o/
+o/
+E
+S
+R
+/o
+/o
+T
+o/
+o/
+I
+M
+A
+Solution 1449
+HUNT
+UNTE via HUNTER
+TUNE (An)
+TONE (LS)
+NOTE (An)
+OTED via NOTED
+DOTE (An)
+DOLE (LS)
+OLED (An)
+DOLE via DOLED
+DOLT (LS)
+TOLD (An)
+GOLD (LS)
+This clever solution
+was submitted by
+GL Tang. Think
+you could do better?
+Submit something!
+

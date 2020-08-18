@@ -1,0 +1,161 @@
+3
+felix FRIDAY 13 NOVEMBER 2009
+NEWS
+news.felix@imperial.ac.uk
+Imperial win multiple awards at iGEM
+Three of Imperial’s award-winning team of eight at the 2009 iGEM competition talk to Sina Ataherian
+Imperial team members present the ir award-winning “encapsulator” pill at the 2009 iGEM competition at MIT
+Imperial (right) and Paris (left) winning prizes for considering the ethical issues around their respective projects
+A
+team of eight Imperial
+students has returned
+from winning a series
+of prizes at this year’s
+iGEM jamboree in MIT.
+The iGEM, or international geneti-
+cally engineered machine, competi-
+tion considered the most prestigious
+Synthetic Biology competition in
+the world for undergraduates. It has
+grown exponentially out of an MIT
+course into an annual event attract-
+ing over 1200 participants from more
+than 110 teams this year from across
+the globe. Projects have ranged from
+banana and wintergreen smelling bac-
+teria, through an arsenic biosensor, to
+buoyant bacteria.
+Imperial College won the prize for
+the best manufacturing project; the
+prize for the best consideration of
+ethical issues in relation to device de-
+sign; a gold medal and came fourth
+overall. The Imperial team had spent
+the summer working on their ‘encap-
+sulator’ project.
+The pill, the first of its kind, is
+self-manufacturing in the sense that
+it can produce a drug and then also
+produce an acid-resistant capsule
+around itself. Each encapsulator can
+produce one of a number of different
+drugs, making it a universal platform
+that can be widely used in the phar-
+maceuticals industry.
+The challenge for competitors is
+to specify, design, build, and test
+simple biological systems using only
+standard, interchangeable biologi-
+cal parts. The teams presented their
+projects at the iGEM Championship
+Jamboree between October 30 and
+November 2, but the Imperial team
+then decided to have a holiday in
+nearby New York, and so only gotww
+back this week. felix managed to get
+an interview with three of the team
+members.
+The team spent four months ge-
+netically altering cells so that they
+could manufacture a drug - such
+as an enzyme or protein needed to
+treat a disease - inside themselves,
+on demand. Pills usually need an
+acid-resistant shell in order to pass
+the stomach and reach the intestine
+without being ruined.
+The unique aspect of this project
+was enabling the cell to then make
+this acid-resistant shell and encapsu-
+late itself. Encapsulation is an espe-
+cially important issue as the problem
+of safe transport to the intestine has
+been a major barrier for the rapidly
+growing biological drugs field. The
+team also encoded a control mecha-
+nism for the ‘encapsulation’ process,
+which is triggered automatically using
+genetic switches.
+The Imperial team has thus shown
+that cells can be used as safe, flexible
+and controllable drug making devices.
+The implications of this could be sig-
+nificant for the pharmaceutical sector,
+which may be why drug manufactur-
+ers have already approached the team
+about possible research opportunities
+to further develop their concept.
+They also used modelling tech-
+niques to show it would be possible
+to induce the bacterial cell to delete
+its own genome, effectively killing it-
+self, once the drug has been made and
+the encapsulation process completed.
+This would render it completely in-
+animate, and therefore more palatable
+as a drug for human consumption.
+This aspect of the project led to them
+winning the award for the best con-
+sideration of ethical issues in relation
+to device design.
+Professor Richard Kitney from Im-
+perial’s Department of Bioengineering,
+who co-led Imperial’s students along
+with Professor Paul Freemont and Dr
+Geoff Baldwin from the Department of
+Life Sciences, congratulated the team,
+saying: “They did an absolutely bril-
+liant job with a technically challeng-
+ing project. The idea of having an all-
+in-one bacterial drug production and
+pill-like delivery unit is revolutionary.
+It could offer a low-cost, simple and
+efficient way of producing drugs that
+can be safely delivered to the human
+intestine. That’s why iGEM is such a
+fantastic competition – it gives under-
+graduates a unique chance to get their
+teeth into a ground-breaking research
+project, and explore ideas that could
+change the world.”
+Professors Kitney and Freemont,
+who co-direct Imperial’s newly-
+founded Centre for Synthetic Biol-
+ogy and Innovation, say the students’
+work will now be developed in their
+lab, with particular focus on research
+to develop the synthetic biology de-
+vice into a more general delivery sys-
+tem where drugs need to bypass the
+stomach. This was Imperial’s fourth
+year of participating in the event and
+the deadline for applying to join next
+year’s team is fast approaching. Whilst
+some of the other teams are thought
+to be strongly encouraged to choose
+particular topics, the teams that com-
+pete at iGEM from Imperial are com-
+pletely free to pick their own topic. At
+the same time, they receive tutoring
+The 2009 Imperial team in a group photograph ahead of the iGEM competition
+The team has asked interest-
+ed undergraduate students
+to send, as soon as possible,
+their CVs to:
+imperial.igem2010@gmail.com.
+from the staff supervisors that the
+team described as ‘unparalleled.’
+There is also a charitable element to
+the project as Imperial help UCL with
+their attempts, because they have less
+experience and because they generally
+need help. In addition, the teams also
+get a kit from the Registry of Standard
+Biological Parts.
+This year’s team comprised Bioen-
+gineering and Life Sciences students,
+but the team is keen to attract talent
+from all different departments for
+next year, as they believe a variety of
+skills will be helpful.
+

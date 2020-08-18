@@ -1,0 +1,212 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 15
+31.10.2014
+FELIX
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Paralysed man walks after stem cell therapy
+Spinal injuries are notoriously hard to treat
+Photo: Wikimedia Commons
+Indira Mallik looks at how cells from the nose could treat spinal injuries
+The race to ind a cure for ebola
+KAY YI CHONG
+SCIENCE WRITER
+Last week, it was reported that
+Darek Fidyka, a man from
+Poland, had begun to walk.
+He had been paralyzed from the
+chest down since 2010 after a knife
+attack. His recovery was hailed as
+‘more impressive than man walking
+on the moon’ by Geoffrey Raisman,
+whose research at University College
+London almost 30 years ago made
+Fidyka’s recovery possible.
+Many decades of research and trials
+have gone into spinal cell repair
+techniques, but few have yielded
+successful results. Until now it was
+commonly thought that paralysed
+patients would unlikely to ever walk
+again. This is because the nerve
+cell axons that connect the rest
+of the body to the brain, allowing
+movement and sensation, are
+notoriously difficult to repair once
+damaged. The body’s natural healing
+process forms a thick glial scar over
+the injured region that inhibits
+the regeneration of nerve axons,
+permanently severing connection
+to the brain, and so sensation and
+movement are lost.
+Professor Raisman’s research
+in 1985 showed that the nerve
+connection to the brain following
+spinal injury could be regained in
+mice following transplantation of
+olfactory ensheathing cells (OECs)
+into the injured spinal cord.
+OECs are support cells in the body’s
+complex circuitry for the sense of
+smell. This neural circuitry is the
+only part of the human nervous
+system that regenerates throughout
+adult life. This is because each odour
+we encounter is transmitted back to
+the olfactory bulbs at the top of the
+nasal cavity by nerves in the nose.
+These nerves are constantly being
+damaged and need to be replaced.
+OECs facilitate this regeneration
+process.
+A research team led by Dr Pawel
+Tabakow, a consultant neurosurgeon
+at Wroclaw University Hospital, has
+built on this concept by transplanting
+OECs to the site of injury on Mr
+Fidyka’s spinal cord. The team
+removed one of the patient’s
+olfactory bulbs and used it to derive a
+culture containing OECs.
+The cultured OECs were then
+transplanted into the spinal cord
+stumps above and below the injury
+in 100 micro injections, and the
+eight millimeter gap created by the
+knife wound was bridged by four
+strips of nerve from Mr Fidyka’s leg.
+The transplanted nerve acted as a
+scaffold and the OECs allowed the
+nerve axons in the spine to regrow. As
+all the cells came from the patient’s
+body, there was no risk of rejection.
+Following the surgery, Mr Fidyka
+has undergone intense physiotherapy
+almost every day. After just three
+months his doctors noticed that
+he had gained muscle mass in his
+left thigh. Six months later, he was
+able to begin to take his first steps
+using parallel bars and the help of a
+physiotherapist.
+Now, 19 months later, he is able to
+walk outside the rehabilitation centre
+using a frame. He has regained some
+sensation in his left leg, and his bowel
+function has improved.
+Imaging has shown that the grafts
+had bridged the left side of the spinal
+cord, where the majority of the nerve
+grafts were implanted.
+None of the researchers want to
+profit from the discovery. Professor
+Raisman has said “it would be my
+proudest boast if I could say that no
+patient had had to pay one penny
+for any of the information we have
+found.”
+It is to be noted that the two
+patients treated previously with
+this technique by Dr Tabakow did
+not regain function. The scientists
+are hoping to recreate Mr Fidyka’s
+success in another ten patients in
+Poland and Britain over the coming
+years, research grants permitting.
+It could take many years for the
+technique to become mainstream, but
+until now there has been little hope
+for paralysis patients to regain their
+independence. What is doubtless is
+that Mr Fidyka’s tentative steps have
+meant a giant leap for mankind.
+DOI: 10.3727/096368914X685131
+The Ebola outbreak has claimed
+about 4,900 lives to date,
+mostly in the poverty-stricken
+countries in West Africa — Sierra
+Leone, Liberia and Guinea. As the
+death toll and number of cases rise ex-
+ponentially, scientists are scrambling
+to develop treatments that would stop
+this epidemic, which Oxfam describes
+as a “humanitarian disaster”. Until
+there are vaccines approved by the
+FDA, standard public health contain-
+ment measures will be used to control
+the situation.
+The Ebola virus is particularly
+adept at evading our immune system,
+and among the proteins which play a
+role in it are VP35 and VP24. VP35
+assembles into a dimer and then
+coats the RNA backbone of the virus
+to prevent detection by the immune
+system. VP24 blocks the cellular
+production of interferons, molecules
+which signal the presence of the virus.
+The receptor site of the virus remain
+hidden beneath its glycoprotein
+branches, also to avoid recognition,
+until the branches attach to the host
+cell and allow the virus’ penetration
+and entry. Another characteristic
+in its favour is the filament-like struc-
+ture of Ebola virus particles which
+gives it a large surface area to attack
+many cells.
+The virus starts by infecting the
+leukocytes, then nearly all other cell
+types, which leads to death less than
+16 days after the onset of the disease.
+The first symptoms include fever and
+headache, followed by severe stomach
+pains, sore throats and bloody diar-
+rhoea as the virus multiplies. The
+infected cells then attach to the ves-
+sels and arteries, weakening them and
+resulting in haemorrhage.
+In hopes of sparing more Africans
+from this unbearable pain, a massive
+research effort has begun to discover
+ways to defeat the Ebola virus. A vac-
+cine known as ChAd3 is a chimpanzee
+cold virus vector incorporated with
+ebolavirus gene segments. Along with
+another vaccine called VSV, it was ob-
+served to give durable immunity and
+both vaccines are currently undergo-
+ing clinical trials.
+Recently, the Wyss Institute of
+Harvard University announced their
+ongoing work on a biospleen device
+which may (or may not) obviate the
+need for vaccines. The device acts
+rather like a spleen, filtering viruses
+from the blood using a magnet. This
+has brought hope for the treatment of
+Ebola, but its development and test-
+ing would take months or years.
+There is also the possibility of the
+Ebola virus mutating to become more
+virulent or infective, in which case it
+would outrace the current efforts of
+targeting the current virus strain.
+Now we can only hope that treat-
+ments will be available soon, and that
+the Ebola virus will not become too
+prolific until the situation gets out
+of control. All this shows us the para-
+doxical nature of viruses, which are
+such simple organisms yet so difficult
+to control. The Ebola virus causes uncontrollable internal bleeding
+Photo: Wikimedia Commons
+After 19
+months, he
+is now able
+to walk
+outside
+using a
+frame
+

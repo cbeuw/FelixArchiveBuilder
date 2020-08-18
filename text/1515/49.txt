@@ -1,0 +1,176 @@
+an A.I. software program, Angelina, that can create games all by itself
+Intelligence and game design
+FELIX
+GAMES
+Friday 16 march 2012
+might. A.I. might offer another form of creativity,
+games which humans could never make them-
+selves, games that can redesign themselves live to
+make new challenges, artworks that are composed
+of thousand and thousands of tweets, tasks that are
+so immense only a computational program could
+synthesise them. It’s interesting because it could
+lead to new genres of games or new mechanics
+that we might never have thought of.
+Hopefully, as researchers get closer to the public
+a lot of our research will get released for free, and
+a lot of our games are released for free. Certainly
+I hope to release everything about Angelina for
+free, not just the games but also in time the code
+behind it as well. That has huge knock-on effects
+for everyone.
+“Photoshop didn’t ruin fine
+artists, and I don’t think
+these tools will either”
+L: Let’s have a think about the app market for
+a moment. Do you think that if a designer could
+press a button and have a game pumped out
+with no work that the market would be flooded,
+especially if you plan to release the code for
+free?
+M: Some people have claimed I’ve been quite na-
+ïve for saying that I don’t believe it’ll have that
+effect on the app market, and I think there is an
+element of naïvity in there somewhere. It’s im-
+possible to think that these won’t have an effect
+on people, because in a sense the app market has
+already experienced these problems before, in
+that it’s already quite easy to make a basic app. If
+we make that process even easier we’d certainly
+see flushes of very simple apps. One of the next
+projects I’m working on with Angelina is puzzle
+games, and I’ve already realised that the kind of
+complexity we could potentially create, those apps
+are already being sold now for £0.69. It would not
+be beyond the stretches of imagination to have An-
+gelina do that.
+If that were to happen, I hope that what we
+would see is that the minimum level of what we
+consider interesting would rise. It would no longer
+be interesting to us to see the next Zynga game,
+and that could be a great thing. It might be that in
+the future Angleina would be on everyone’s com-
+puter, and they could push a button and let it make
+a game for them, so that they don’t have to spend
+£0.69 on another.
+Then, people would take an interest in games that
+are truly creative and truly inventive. Of course,
+the question is what would happen when Angelina
+pushes up to that level, if it ever could. My feel-
+ing is that as A.I. becomes more sophisticated and
+more able to create, hopefully it will only serve to
+highlight what we value in human creativity.
+For me people like Edmund McMillen, who
+made Super Meat Boy and The Binding of Isaac,
+and Derek Yu, who made Aquaria and Spelunky,
+Michael has plans to use a new library called APACE to allow Angelina to create point-
+and-click adventures
+those people communicate something very unique
+through their games, something very deep about
+who they are. I’ll always be interested in buying
+their games, and I don’t think an A.I. could ever
+replicate that connection between me and the de-
+signer.
+Games like Battlefield 4 are going to be highly
+mechanical games. There’s going to be a lot of
+equations that need balancing, a lot of weapons,
+generic vehicles and levels that will need to be bal-
+anced and created. Those games might find them-
+selves being impacted by Angelina.
+If you look at the indie market and the huge
+swathes of inventiveness, uniqueness and human
+connection between the games and the people that
+make them, they will be, if anything, the very
+last games to go if they should ever be affected
+by these tools. This is where the real art shines
+through. My supervisor always says “Photoshop
+didn’t ruin fine artists,” and I don’t think these
+tools will either. What they might do is flush out
+people who are getting away with churning out the
+same app every week. Maybe those people will
+see their incomes affected, but hopefully it’ll en-
+courage them to go after projects they really love,
+rather than just chasing the current trend. Maybe
+it’ll be a bad thing for the industry; I really hope
+it isn’t!
+L: For me certainly, I’ve never been a fan of
+those mechanical shooters that come on year on
+year, so I do think it’ll have a positive effect.
+M: Yes, and I think that eventually, whether or
+not these tools are released, if they become useful
+private companies like Activision will build their
+own, and they’ll have a lot of money to spend on
+R&D. It may be that their tools will far surpass
+whatever I could ever produce to make the next
+Battlefield, in which case you’ll see these games
+coming out, because they’ll always have the edge
+with technology.
+Of course, not all creative or inventive game de-
+velopers are indie; Valve’s games have a terrific
+personality, and those things will always be here.
+You can’t match them with A.I. You can’t replace
+that human element. Humans have slaved over
+their work and it shows; Angelina can’t emulate
+that, and nor would we want her to. That’s another
+question. There are a lot of things the industry are
+Companies like Activision will probably have
+to up their game in one way or another
+not interested in.
+L: There was a comment made by Mark Nelson,
+claiming that Angelina should be more trans-
+parent, and should allow designers to change
+what they want. Do you believe what he says?
+M: Mark is a really awesome researcher, and a lot
+Super Meat Boy — a highlight of human
+creativity in the gaming industry
+of his papers spurred on the research that I did. I
+kind of brought that quote on myself. When I talk
+about Angelina in interviews like this I often talk
+about it being used in conjunction with designers
+and things like that. Really, it’s the research around
+Angelina that will go on to be used. Angelina itself
+in an autonomous designer, it can’t be used in con-
+junction with human designers.
+Mark on the other hand has worked on build-
+ing tools that collaborate with a human. For those
+tools it’s very important that humans can express
+what they’re looking for. With Angelina it requires
+a lot of tinkering with the code, when I run it it
+doesn’t ask me what I think. There are a lot of
+great tools like Tanagra, a level design tool. You
+start to make a 2D level for a game like Mario, and
+as you make the level Tanagra watches and tries
+to work out what kind of level you’re after, and it
+starts to fill in the level ahead of you. You can tell
+it to change things, but it tries to collaborate and
+Interested in more?
+If you’re interested in finding out more
+about Michael’s research or fancy trying
+out one of Angelina’s games check out
+his website and blog:
+http://www.gamesbyangelina.org/
+“A.I. might offer another
+form of creativity, games
+which humans could never
+make themselves”
+design alongside you.
+My aim with Angelina will always be to make a
+designer that works on its own and designs games
+without me.
+Tools need more transparency, but Angelina
+doesn’t. Hopefully her research will spurn on the
+development of more development tools however.
+L: So the final question I had – Angelina, where
+did the name come from?
+M: In computing, there seems to be a tendency for
+really terrible acronyms. There are many dreadful
+examples! Angelina’s acronym is A Novel Game-
+Evolving Labrat. It’s tail-recursive, which I find
+hilarious, but I’m not sure it’s at all funny outside
+of computer science departments – or even within
+them!
+L: Thank you very much for your time. Good
+luck with your research!
+M: Cheers!
+41
+

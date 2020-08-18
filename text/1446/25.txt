@@ -1,0 +1,312 @@
+25
+felix FRIDAY 27 NOVEMBER 2009
+TECHNOLOGY
+Technology Editor Samuel Gibbs
+technology.felix@imperial.ac.uk
+Google loves your data
+How much is too much & is your data safe with Google?
+FerozSalam Technology Reporter
+Cut through
+the crap, get it
+sorted on Twitter
+I
+t’s Friday, time to ditch work and
+go party! But what if you’ve got
+something busted, some prick of
+a Telco is over charging you, or
+you’ve got to make a complaint? Tra-
+ditionally you’d have to sit there on the
+phone for god-knows how many hours
+calling a premium rate number just to
+get through to some poor bastard in a
+call centre that can neither help you
+or help himself get out of that hellish
+excuse for a job. Well, I’m here to tell
+you that no more do you have to suffer
+through the rubbish to get the decent
+customer service that you deserve.
+Twitter is the way forward.
+OK, you think I’m off my rocker, what
+has Twatter got to do with customer
+service? Well, if you didn’t know al-
+ready, everything you say on Twitter is
+public. Everyone can see it, it’s search-
+able and it stays there for quite some
+time. Companies have gotten wind that
+people like to complain on Twitter and
+that their reputation often takes a beat-
+ing in a very public and motivated en-
+vironment. So their plan to combat all
+this bitching is to put customer service
+representatives on the microblogging
+service that respond to complaints
+and try and smooth over any disa-
+greements you might have with them.
+The thing is that the Twitter customer
+service people have to get it right first
+time because if they don’t, the com-
+pany’s public image gets a bashing as
+you berate them on Twitter. Therefore,
+they’ve normally got a lot more power
+than the poor sod you find on the end
+of the phone on the front line of the
+call centre. They bend over backwards
+to sort out your complaint and placate
+you as quickly as possible and in a per-
+sonal manner.
+In a recent experience with a Telco
+that will, for reasons of journalistic in-
+tegrity, remain nameless, I found out
+that they were trying to overcharge
+me by almost 25% for no apparent rea-
+son. I thought it would have just been
+a clerical error and so contacted cus-
+tomer services, only to be told that the
+cost of service had gone up without
+notice. When I pointed out that their
+website stated the price I expected to
+be charged, like every previous month
+for the last two years, I was told this
+was a ‘new customers only’ deal. After
+screaming down the phone at them
+,they told me there was nothing they
+could do.
+Of course, the budding journalist
+in me decided I wasn’t going to stand
+for this crap and I was going to com-
+plain in the most effective way I knew,
+online. First port of call was Twitter,
+which would be promptly followed by
+my personal blog and every tech blog I
+write for. I was going to drag their name
+through the mud for this outrage.
+Moments after bitching about
+them on Twitter I was contacted by
+the customer services ‘Twitter team’
+who asked for a few details so they
+could check it out. OK, I thought, fair
+enough, I’ll hold fire on everything else
+and see what they can do for me. I send
+them my customer details and thirty
+minutes later I get a phone call. Long
+story short, they were very apologetic
+and sorted it out right there and then.
+Gone was the price increase and an of-
+fer of compensation should I feel out of
+pocket at the end of the day.
+Now I don’t have beef with any
+customer service representatives, I
+couldn’t do their jobs, but I feel the
+personal level of service you used to
+get has gone. You shouldn’t have to
+go to Twitter and publicly complain
+just to get decent service, but this kind
+of personal, fast and efficient service
+doesn’t seem to exist in modern com-
+pany strategy, it’s too costly.
+Moral of the story, got a complaint?
+Head to Twitter and get it sorted.
+SamuelGibbs Technology Editor
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week in Tech has come and
+gone but what have we got to show for
+it? Well, we’ve got the launch of the
+world’s first driverless taxis at Heath-
+row. We’ve talked about the tiny little
+automated pods that transport you
+from the business car park into Ter-
+minal 5 in only five minutes before,
+but now you too can go have a play in
+them. Pity they’re not in central Lon-
+don; maybe they would be a cheaper,
+safer alternative to the dodgy mini-
+cabs on the way home from the Union.
+We’ve heard that console gaming
+makes you a natural-born UAV pilot,
+but now the US Air Force is taking
+their love of the PS3 to the next level
+and by ordering another 2,200 PS3s to
+joing the 300 or so they are using al-
+ready. Instead of practising their skills
+in Modern Warfare 2, they’ve been us-
+ing them for HD video processing and
+want to boost the power of their PS3
+cluster.
+IBM is set to discontinue its current
+line of PowerPC-based Cell proces-
+sors, the power house behind the
+PS3, amongst other things. What this
+means for the next generation PlaySta-
+tion is unclear. Would Sony take the
+Cell chip in house? Never fear though,
+the current gen PS3 won’t be affected.
+Retail giant, Tesco, announced this
+week that it’ll start selling Apple’s gold-
+en child, the iPhone, on its MVNO
+Tesco Mobile. It’s the fourth carrier to
+confirm that the iPhone will be grac-
+ing its network, although Tesco Mobile
+uses O2’s network so don’t think you’ll
+get better 3G coverage. Tesco already
+has several relatively cheap unlimited
+everything plans with texts, calls and
+data all included. If their current price
+plans are mimicked on their iPhone
+offerings, Tesco Mobile might be the
+way to go for the best value iPhone tar-
+iffs. Besides, now you can pick one up
+whilst you’re getting your soap, toilet
+duck and bog roll. How glamorous.
+In the 21st century, there are few more
+valuable things than information. It’s
+what drives the technology revolution,
+the ability to transfer and process large
+amounts of information.
+Of course, if there’s one company
+uniquely poised to make the most of
+this, it’s Google. With roughly 24 serv-
+er farms containing an estimated half a
+million servers dotted across the globe,
+Google handles 6% of all internet traf-
+fic. That’s six times more than any
+other one company, with their main
+website being the most visited page on
+the internet. Google has invested large
+amounts of money into maintaining
+the current status quo, from their wide
+variety of desktop applications to un-
+dersea optical fibre cables that main-
+tain blazing fast response times.
+But how does Google handle the re-
+sponsibility of being the world’s largest
+repository of private information? The
+unofficial company slogan “Don’t Be
+Evil” only serves as a reminder of just
+how much evil Google could do if it
+wished. Thankfully, Google to this date
+has not betrayed its user’s faith. It has
+been fearless in going up against gov-
+ernments, when requested to disclose
+user information and hasn’t had mini-
+mal embarrassing data leaks that some
+of its competitors have suffered from.
+All in all, Google has proved itself rela-
+tively responsible in dealing with sen-
+sitive user information. But how much
+are you really willing to let Google
+store information about your life?
+I decided to write down a list of
+Google products that I use. The list
+came up to roughly 20 of their prod-
+ucts, ranging from mapping services
+to webmaster tools. All of which are
+free and many of which are the best
+products offered in their markets. The
+beauty of Google’s business model
+is that they can offer free, quality
+products to users because they make
+money from the information gleaned
+from that usage. Companies pay large
+amounts of money to show up in Goog-
+le’s subtly targeted ads and in exchange
+all Google has to do is make sure that
+a large enough number of users are
+seeing those ads. It would appear that
+this is a win-win situation for everyone
+involved. Yet as Google grows and at-
+tempts to expand into untapped mar-
+kets, it’s going to want more and more
+of your information in order to target
+those ads even better and continue to
+generate large advertising profits. The
+need for more and more info brings me
+back to the focal point of this piece –
+how much is too much?
+Like 90% of the connected world,
+I use Google for searching the inter-
+net. I also use Google to handle all my
+email accounts, compile and analyse
+website statistics, help me get around
+town, chat with friends, share photos
+and watch videos. Google knows ex-
+actly which shows I enjoy watching,
+which political issues I find important
+and my views on them and the con-
+tents of letters back home. They even
+know where I am right now, thanks to
+Google Latitude, and where I want to
+be, thanks to Google Maps for mobile.
+If Google were a stalker, it would be
+about time for me to file for a restrain-
+ing order.
+That’s why it’s interesting that Goog-
+le seems to be gearing up to offer te-
+lephony services. Last week, they pur-
+chased a small start-up that specialised
+in services similar to the venerable
+Skype, Gizmo5. Along with Google
+Voice, a service that allows users in
+the US to (among other things) man-
+age their phone calls and make cheap
+international calls, many suspect that
+this could be part of a wider strategy to
+offer free telephone calls to participat-
+ing users very soon. The system allows
+Google to make use of the extensive
+optical fibre networks it has invested
+in while users get free telephone calls.
+Yet this will probably involve letting
+Google into yet another part of your
+life: your private phone calls.
+Although in reality what Google
+knows is distributed across servers
+in multiple locations, probably pro-
+tected by complex encryption, it is
+still owned by a single entity that can
+legally be forced into handing all in-
+formation about you to governments.
+The issue isn’t really about how much
+Google can be trusted, it’s about how
+much Google can be forced to reveal.
+I’m not going to judge you for googling
+NAMBLA (don’t) after watching that
+South Park episode, but can the same
+thing be said about a law enforcement
+official? Google is at the forefront of
+the “cloud computing” wave. Their
+Chrome OS (scheduled for release in
+at the end of 2010) is designed to blur
+the lines between desktop and online
+applications, with ever more informa-
+tion being stored in the cloud. The
+question remains whether the flexibil-
+ity afforded by keeping private infor-
+mation on someone else’s servers can
+ever replace the privacy of one’s own
+hard drive.
+SamuelGibbs Technology Editor emerged, one that steals your ING Di-
+rect banking details and one that turns
+your pocket pal into a botnet zombie.
+Brilliant! Apple’s responce? We told
+you it could happen, tough luck, don’t
+jailbreak your iPhone. The worms
+spread via WiFi or cellular networks
+between jailbroken iPhones with SSH
+installed and default root passwords. A
+rookie mistake not changing your root
+password, but if you’re not so au fait
+with the whole jailbreak process, you
+might not even know that every iPhone
+has a default root password that basi-
+cally allows someone nefarious to do
+anything they like with your precious
+iPhone without your knowledge. So
+if you’re rocking a jailbroken iPhone
+then download mobile Terminal and
+change your root password pronto!
+Talking about the PS3, I don’t know
+whether anyone’s told the USAF but,
+Talking of iPhones, the humble rick-
+rolling iPhone worm evolved. Two new
+malicious variants of the worm have
+

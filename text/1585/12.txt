@@ -1,0 +1,212 @@
+12 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+24.10.2014
+technology.felix@imperial.ac.uk Tech Editor Jamie Dutton
+Net Neutrality – what’s it to you?
+President Obama asks Vice-President Biden why Pornhub isn't loading as quickly as usual. Photo: Wikimedia Commons
+Jamie Dutton discusses the equality of the internet
+Welcome to
+Felix Tehnology
+2014-15
+JAMIE DUTTON
+TECH EDITOR
+Hello and welcome to a new
+academic year at Imperial
+College–“A world famous centre
+for engineering and technology”
+(according to that bloke who
+narrates The Apprentice).
+I'll be your section editor this
+year alongside Osama Awara
+–you may remember him
+from such articles last year as
+“5 Things Consoles Are Killing”
+and “Cyber Black Market Is No
+More”.We are both keen on our
+gadgets and technology and will
+hopefully keep you entertained
+every week.
+While this section has been
+sorting itself out,a lot of major
+press releases and technological
+developments have been missed
+out.If you've picked up a new
+piece of tech in the last few
+months then we want you to
+contribute to our section with a
+review,or some comments.It is
+very important that we get lots
+of contributors,to avoid bias in
+our reviews.
+But it's not just gadgets we are
+concerned about.We also want
+articles about website news,
+internet security or anything else
+you think would fit this page.
+So if you want to review a
+shiny-new phone,recommend
+what should be written about
+or contribute in any way,please
+don't hesitate to e-mail us at:
+technology.felix@imperial.ac.uk.
+You may have heard about
+internet fast-lanes over the
+Summer and it’s been a highly
+contentious issue particularly in the
+US. Most of us have grown up on an
+internet where all websites have been
+treated equally, where data exchange
+is not biased towards any particular
+company or brand.
+However, in January this year
+Federal Courts in the US nullified
+a ruling laid out by the Federal
+Communications Commission (FCC)
+stating that it is illegal for internet
+service providers (ISPs) to block
+online traffic or offer preferential
+treatment. The consequence of this
+overruling is that the massive ISPs
+in America (Verizon, Comcast) can
+give wealthy websites access to ‘fast-
+lanes’. The concept is fairly simple
+– multimillion dollar companies
+pay the ISPs a fee depending on how
+quickly they want consumers to
+access their content. The ISPs then
+organise the rate of data exchange
+between the website and the
+consumer. This system is analogous
+to premium airline boarding services
+where people willing to spend more
+money can get on the aircraft faster.
+The idea of ‘net neutrality’ is that
+everyone queues in the same line for
+internet access with no bias towards
+rich or successful websites.
+So what is the benefit of the fast-
+lane system? One argument is that
+the revenue brought in from big
+websites can be invested in improving
+consumer service; upgrading
+technology, supplying fast-internet
+to a wider range of people and
+generally improving the performance
+of the internet for everyone. This is
+making the large assumption that
+the ISPs aren’t just going to use the
+money to fill their pockets, which is
+a realistic issue in the US where the
+competition for internet service is
+low (or even zero in monopolised
+regions). Companies such as Comcast
+and Verizon offer poor service for
+astronomical prices, just because they
+are able to and canning net neutrality
+is not going to assist this sort of issue.
+The main victims of this system
+are start-up companies. Many of
+the companies, paying significant
+amounts of money, would not be
+where they are today without net
+neutrality because in the past, the
+internet has been a fair battlefield
+for competition. Companies such
+as Google and Youtube became
+successful because they were proven
+by the internet-visiting public
+that they were superior to their
+competitors. Today, a new start-
+up search engine or video-hosting
+website would have to struggle even
+more to gain success with the major
+players in the market controlling
+the fast-lanes. People thinking of
+accessing these new budding sites
+would be either significantly slowed
+down or blocked completely, thss
+is the nature of the absence of net
+neutrality.
+However, it is likely that consumers
+could also be negatively affected
+by this ruling. It is in the realms of
+possibility that ISPs would be able to
+charge extra for customer access to
+websites that require more bandwidth
+(such as Youtube or Netflix). In high-
+competition areas, this could result
+in the bulk of the internet being
+basically inaccessible.
+Many people in the US realise this
+is a realistic obstacle in the way of
+their ability to freely surf the web
+in the foreseeable future. The FCC
+welcomed comments from the public
+on their opinions on the abolishment
+of net neutrality and over 3.7 million
+comments were received in total
+(smashing previous FCC record of 1.4
+million comments on Janet Jackson’s
+Super Bowl wardrobe malfunction
+in 2005). A study of the comments
+showed that less than 1 percent
+of commenters were against net
+neutrality – evidence that the internet
+community is not one to piss-off.
+Fortunately for those in support
+of net neutrality, there is one man
+who has been a key component in
+preventing fast-lanes in becoming
+widespread occurrence – Barack
+Obama. In fact in 2007, before his
+reign as US president began he
+stated that he and his party would be
+explicitly against an abolishment of
+net neutrality and said that this sort
+of system “destroys one of the best
+things about the internet – which
+is that there is incredible equality
+there”. And perhaps unlike some
+other of his policies, he has stuck
+to his guns on this subject, stating
+on the 9th
+October 2014, that he is
+“unequivocally” committed to net
+neutrality. Another major supporter
+is Tim Berners-Lee, the grandfather
+of the internet. He urged, in March
+2014, that internet users insist on
+the development of a “digital bill of
+rights” that would “advance a free and
+open web for everyone”.
+Sufficient ISP competition in
+the UK and an EU law (set in April
+2014) blocking the ISP’s ability to
+charge traffic-heavy websites for
+faster network access means that
+this is unlikely to affect you. But it
+is certainly worth at least thinking
+of people in the US, the richest
+economy in the world, whose citizens
+may have to pay over-the-odds for
+services freely available worldwide.
+For awareness about the trouble faced
+by millions of American citizens,
+you may have been affected by
+the “Internet Slowdown Day” that
+took place on the 10th September
+2014. Many websites with a variety
+of renown and wealth came out in
+support of net neutrality and slowed
+down access to their content and
+displayed a “spinning wheel of death”,
+showing what a world without net
+neutrality could be like.
+The whole situation is fairly
+similar to the protests against the
+Stop Online Piracy Act (SOPA) and
+PROTECT IP Act (PIPA) in January
+2012. Over 115,000 websites joined
+the protest and the legislation was
+significantly altered in favour of the
+internet’s opinions on the matter.
+

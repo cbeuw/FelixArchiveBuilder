@@ -1,0 +1,149 @@
+Santa's Soup Run
+Twas the night before Christmas—and Santa
+Claus and his seven reindeer needed a
+warming meal before setting out. Of course, as
+flying crew, all eight had to have different
+meals, so down in the kitchen elves Andy,
+John, Stephen and Martin, the assistant
+cooks, were preparing two soups each (which
+for convenience they called No 1 and No 2).
+The eight were asparagus soup, bee( broth,
+cucumber, dandelion wine, egg, trench onion,
+pea and haricot bean soup (but not
+•ft
+>»t order)
+:noi>
+haricot
+^ a r t o inn
+"hat order). s o u p
+i e c e s s ^ l w a y ! h a ^ ^ e ,
+n'
+to the
+,s tgoe=U J
+, p n e w e s t , C O O K ,
+Santa
+n e * b e s t 3
+a ° o W
+the worst^ d f r o m u <
+couldn't te« S ° 0
+h o r o
+e\ves(*J^u t h i u iy
+,, the
+Kindeev,
+who has
+>ok,
+the
+two
+always
+soups is not in the
+lower four,' said Stepnen. 'At least one of mine
+is,' replied Andy, 'but both of mine are better
+than Martin's.' ' O h ; no they're not!' cried
+'Roth mine are much better than
+- ^ar again; 'I'd agree
+No 2
+r * J ° u r
+* J " ; o l my
+«id Stephen
+>ur
+; S S i 'but'
+rep'
+than « ™ ^ h .
+uours. 3 l K
+r v ™i
+n
+e
+,a
+hts oat again;
+' b V t h
+l n
+t e U o u * a t
+V ^ 5
+. ^ No 2 is better u ~ ^ v
+^uperkin
+Having had you puzzling over the rather
+simple problem of placing a number of
+superkings (pieces that can move like both
+a queen and a knight) on a chess board, I
+shall now reveal the more difficult part of
+that question. All that I want you to do, is
+find the smallest n (n>1) such that n
+superkings can be placed on an nxn board
+so that none attack any other (although
+they may, for the purpose of this puzzle, be
+collinear).
+, r d In Your Ear
+ords that are
+A Wo
+lWn ways (es ^ E n g |,sh
+I'm i
+their own ways ,.
+palindrome word in the Engm
+would you like to say what is so
+these words?
+1. almost
+2. unconsciousness
+3. bookkeeper
+4. wrong
+etious
+Ian
+sped'
+jpecial in
+longest
+nguage);
+ial about
+Incidenta
+a r e pracncaOv-„
+can u-ork out ,
+hear houJ u>
+facetious 'q u e ueing'
+a u e u e m s > ^rong ° n a
+.4
+q 0 if you
+« * c n t a l
+fr' n°ffthe top of h e ^ s o J V ^
+practically °W'h
+5s s o s p e c . a l abou ^
+then
+3 ff the top - .
+w
+. " S so sped'
+them,
+jell y ° u
+'d be
+do.
+John's No 1,' put in Andy. 'My No 2 is better
+than John's No 1,' said Martin, who had to
+have the last word.
+The elves left poor Victor to sort this out,
+but as they hadn't told him which flavours
+they'd each cooked, he was really no better
+off. Luckily Brian, the gnome who had the
+unenviable task of teaching elves to read and
+write appeared:
+'I just met the elves playing snowballs,' Brian
+said, dropping snow everywhere. 'John told
+me that if you arrange the soups alphabetically
+only one person has soups next to each other.
+Andy said that where soups by one person are
+next to each other, No 2 is before No 1. He
+also said that the cucumber soup is not a No 2.
+Stephen said John's No 2 comes directly after
+Andy's No 2 in the alphabet, but Andy's No 2
+does not come straight after Martin's No 1.
+Martin concluded by saying that the beef broth
+and the egg soup were made by different
+people.'
+'How does that help?' asked Victor, sighing.
+'Well, dandelion wine soup is obviously the
+best, and hariot bean the worst,' (Brian sniffed
+the air.) 'You can work it out from there.'
+Victor could too, but it took him so long that
+he burnt the Christmas cake and the mince
+pies—which goes to show that too many
+broths spoil the cook!
+What is the order of the soups, and who
+cooked which? (Hint: gnomes always tell the
+truth to the best of their ability.)
+Perola
+

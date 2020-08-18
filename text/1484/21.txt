@@ -1,0 +1,158 @@
+GAMES
+FELIX 21
+Finally, a SimCity destroyer?
+Friday 25 february 2011
+C
+ities in Motion is a com-
+plex transport simulator
+based on a simple concept
+– you have to build and
+manage the public trans-
+port system in a city. While this isn’t the
+type of game I’d usually opt for, I de-
+cided to take the plunge and take a look
+at what it had to offer.
+But first, I have to make a comment
+about the specification that this game
+demands – I had major problems get-
+ting the game to run smoothly (or
+at all). On my laptop (powered by a
+2.27GHz i5) the tutorial crashed ev-
+ery time and the campaign was utterly
+unplayable – the screen updated about
+once a second. Even when I installed
+the software on my gaming rig there
+were still huge issues. Enabling anti-
+aliasing would cause masses of slow-
+down if using the mini-viewport (an
+area of the window where you could
+monitor a selected point on the map),
+and disabling it caused display prob-
+lems with some vehicles – I was pre-
+sented in places with a blank, white
+space that would only be drawn when
+and where the vehicle intersected with
+it. Disabling HDR lighting solved the
+problem, and while the game looked a
+lot dimmer and less dynamic without it
+on it was the price I had to pay to have
+a fully functioning game.
+With all the settings sorted, Cities in
+Motion is a very good-looking game.
+The textures are detailed, with realistic-
+looking buildings and interesting varia-
+tion between individual cars. The behav-
+image of your company. It all adds to the
+experience, making it fuller and richer
+through the realism and immersion.
+Alongside the campaign is the sand-
+box mode which, when coupled with
+the quite frankly amazing and compre-
+hensive map creator, is where enthusi-
+asts will probably spend most of their
+time. You can use one of the existing
+maps from the campaign, or one of your
+own creations, to build a transport sys-
+tem from scratch – with no restrictions
+other than the budget you set yourself.
+The lack of objective may not appeal to
+all, but those looking to form the perfect
+transport system will surely be challeng-
+ing themselves in this mode.
+I have to say, Cities in Motion im-
+pressed me. It was a lot more feature-
+packed than I expected it to be, and once
+it was working properly it provided a
+mostly enjoyable playing experience,
+especially with the little features that
+made everything feel that little bit more
+immersive. It’s certainly a game that I’ll
+be picking up again soon, even though
+it may not have made me a convert to
+the genre.
+Felix Games would like readers to be
+aware that we played a pre-release
+build and the graphical problems
+encountered are likely to have been
+fixed in the release edition.
+Cities in Motion is available now from
+Paradox Interactive and Collosal Or-
+der for PC.
+Chris Bowers reviews Cities in Motion, the most detailed mass transit simulator yet
+“You’re given a lot
+of freedom when it
+comes to deciding
+how best to run your
+system”
+It quickly gets more complicated
+however. Cities in Motion has complex
+underlying mechanics that make it not
+only more interesting but also more
+challenging. Customers will soon be-
+come dissatisfied with things like hav-
+ing to wait too long for a bus (I cer-
+tainly know that feeling…), and this
+will damage your company’s reputation
+– an integral part of keeping people us-
+iour of the water particularly impressed
+me, especially with accurate-looking
+reflections that get perturbed by the
+ripples in the water. Overall, the game
+presents a very pretty spectacle.
+Of course, the gameplay is a lot more
+important than how good the game
+looks. The tutorial gives a good intro-
+duction to the various aspects of the
+game, even with the slight niggle of
+having to click a green question mark
+button at the bottom of the screen to see
+the ‘objective complete’ message and
+then again to look at the next objective.
+Once I had finished with the tutorial, I
+was ready to delve into the game proper.
+The main objective is to have a well-
+equipped, customer-satisfying and prof-
+itable public transport system running in
+your city. With transport options includ-
+ing buses, trams, and the metro (which
+can run on up to three underground lev-
+els, at ground level, or elevated above
+ground level), you’re given a lot of free-
+dom when it comes to deciding how best
+to run your system.
+“Those looking to
+form the perfect
+transport system will
+surely be challenging
+themselves here”
+ing your transport links. As time rolls
+on, you are offered objectives that, if
+taken and completed successfully, will
+give you a reputation boost as well as
+a healthy cash bonus. These add more
+direction to the game and help to keep
+play flowing.
+In between these objectives I had time
+to notice the little things about the game
+that made a big difference. The attention
+to detail in the game is excellent. Occa-
+sionally a fire will break out, requiring a
+fire engine to go out to the scene, traffic
+will start to build up in an area, which
+causes irritated drivers to start beeping
+their horns, and more besides.
+The realism doesn’t stop there: fare
+prices and staff wages can be altered for
+each method of transport, with obvious
+effects on your happiness if set incor-
+rectly. You can look at the global econ-
+omy growth on a map, apply for a loan
+from a bank if money is tight, and even
+start a marketing campaign (with dif-
+ferent types of campaigns appealing to
+different society groups) to improve the
+All we need now is a giant lizard and Matthew Broderick and we’ve got ourselves a blockbuster
+Football and an athletics track? Ah man, I wish the London 2012 stadium was gonna be this good...
+Games Editor: Simon Worthington
+games.felix@imperial.ac.uk
+

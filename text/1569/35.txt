@@ -1,0 +1,103 @@
+37
+FRIDAY 21 FEB
+PUZZLES
+Puzzles Commanders:
+Kingshuk Dasadhikari,
+Oliver Price
+puzzles.felix@imperial.ac.uk
+Crossword
+Sudoku
+Each row, column, and 3 x 3 box must contain all the numbers from 1
+to 9. That’s all. Enjoy...
+FUCWIT League
+nickwp		 62
+Jia Choo 54
+Adam Stewart 18.5
+Yufan Zhao 17
+Juliette Chupin 14.5
+Harder:
+Killer:
+Across
+1. Arabian market (6)
+4. Herb meaning “dew of the sea” (8)
+10. Brazilian football star (10)
+11. Italian chain restaurant (5)
+12. Reward of labor (6)
+13. Darth Maul species (6)
+14. London bike namesake (5, 7)
+18. Disgusting (5)
+20. Herzl, for one (7)
+22. Manet, for one (7)
+24. Plaintain meant to be eaten raw (6)
+25. Makes a sweater (5)
+27. Tanned (7)
+30. Lines up (6)
+32. Hydrocarbon made famous by
+petrol (6)
+33. Shucks (4)
+34. Japanese rice wine (4)
+35. Dig into (5)
+36. Cooking on an open fire (8)
+37. Use economically (3)
+Down
+1. Edwin’s nickname (4)
+2. Tanzanian archipelago (8)
+3. Airport section (8)
+4. Willy Wonka’s creator (5, 4)
+5. Phoenician city-state (5)
+6. High IQ society (5)
+7. Avian symbol of the French nation
+(7)
+8. Classical economist David (7)
+9. Linus’ older sister (4, 3, 4)
+15. Arid farmland need (10)
+16. Giovanni Caboto, to the English (4,
+5)
+17. Indian sun temple (6)
+18. Lurid (6)
+19. Einstein’s pastime (7)
+21. Spartan Peloponnesian War hero
+(8)
+26. Female siblings (7)
+28. Bacon slice (6)
+29. NATO ‘Y’ (6)
+31. Matter (5)
+Crossword Clues
+Nonogram
+The lengths of runs of shaded squares in each row and
+each column are given. Squares can only be shaded or
+unshaded. Solve the puzzle to unveil a pretty picture.
+No clues! Instead, the numbers in each cage must add up to the
+number in the top left. Numbers cannot be repeated in a cage. Tips:
+The numbers in each box, row and column must add up to 45. Look for
+cages with only one possible combination e.g. a two wide cage total
+3 must contain 1 and 2 .
+Last Week’s Solutions
+Helix		 8
+Gabriel Quek 7
+Emma and Ben 6
+WJ		 4
+Angus Liu 2
+Guess the Stop
+The British rail network runs far
+and wide. The name of a line
+is scrambled in the following
+anagram, and the name of a stop
+on that line, with the given number
+of letters is encoded by the sum
+of the letters, where A=1, B=2...
+Z=26, Space/Punctuation=0. Find
+the line and stop. Note that London
+Underground lines may also be
+possible answers.
+Anagram:
+Digs nope hehe
+Stop:
+9 letters, Sum: 76
+Last Week:
+Anagram: High Speed One
+Stop: Ebbsfleet
+Milder Sudoku
+(No points given)
+Scribble Space:
+

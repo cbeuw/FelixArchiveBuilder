@@ -1,0 +1,149 @@
+TECHNOLOGY Technology Editor: Jason Parmar
+tech.felix@imperial.ac.uk
+FRIDAY 14 JUNE
+34
+At WWDC 2013, Apple announced
+the upgrade to the Mountain Lion
+operating system, OS X Mavericks.
+Based on the new features, it seems
+that Apple have placed a lot of focus
+on productivity and ease of use with
+this OS. Amongst hundreds of new
+features, the key things to take away
+from the new release are updates to
+Finder, Safari and improvements for
+users of multiple displays.
+Finder
+Tired of having your monitor ﬁlled
+with Finder windows? I know I am,
+so tabbed Finder windows are a wel-
+come feature announced by Craig
+Federighi, SVP of software at Apple.
+As far as productivity goes, Finder
+can now be maximised in to full
+screen mode and has incorporated
+tagging too, making it both easy and
+fast to access the ﬁles you need, when
+you need them.
+Safari
+Apple’s browser may not have been
+completely revamped on the surface
+but under the hood, the tech giants
+have been hard at work to optimise
+the speed and improve graphics ac-
+celeration. Amongst the newly intro-
+duced features are:
+Sidebar
+Browsing your bookmarks in Safari
+was never the easiest or most produc-
+tive of tasks. I always have to ‘open in
+new tab’ to make sure I can quickly
+head back to my list of bookmarks –
+but not any more. The newly designed
+bookmarks sidebar stays put on the
+left so that you can go back and forth
+to your bookmarks whilst in the same
+screen, making it easier and faster to
+use.
+What’s more, the reading list now
+allows you to scroll to the bottom
+of the web page you saved and keep
+scrolling on to the next saved page on
+your list – meaning you don’t have to
+go back to click on the sidebar for a
+new page. It’s ﬂuid, tidy and very ef-
+ﬁcient.
+Shared Links
+Integrating Twitter and LinkedIn, the
+shared links section located in the
+sidebar displays a real-time feed of
+content that’s being shared by peo-
+ple you follow. This seems to be yet
+another attempt from Apple to re-
+ally make the OS a social experience.
+Mountain Lion pulled this oﬀ nicely
+with the notiﬁcation centre and Twit-
+ter/Facebook integration, so I’ll be
+interested to test out this cool new
+feature for my self.
+Multiple Displays
+For power users who enjoy using
+multiple displays (like me), it gets an-
+noying having to allocate the menu
+bar and dock to one display or the
+other. With OS X Mavericks, you’ll
+have dedicated menu bars to give you
+faster access to the options for the
+screen/app you’re working on.
+In addition, OS X Mavericks now
+has the functionality to let you run
+multiple full screen apps on all of your
+screens without conﬂicting and in ad-
+dition, using mission control you can
+drag and drop apps across screens.
+You’ll even be able to swipe between
+full screen apps on one screen with-
+out aﬀecting the other.
+Autumn Release
+The other updates included the in-
+troduction of iBooks, improvements
+to Calendar, iCloud Keychain and
+notiﬁcations. For now, visit Apple’s
+dedicated page for a brief look at OS
+X Mavericks, but that’s all you’re go-
+ing to get until you can download it
+from the App Store in Autumn later
+this year.
+Fabio is the founder of Let’s Talk Tech
+(www.letstalk-tech.com). Raised in
+London, he’s a self-confessed Tech
+Geek. Also known to some as an “Ap-
+ple Fan Boy”. Reach out on Twitter @
+fabiovirgi7 or Google+ if you’d like to
+chat.
+Apple Drops Cat Names with OS X Mavericks
+[The new
+Safari] it’s
+fluid, tidy and
+very efficient
+Fabio Virgi
+The News Bubble
+It’s the penultimate issue of Felix, sad face :(
+Look out in next week issue when we’ll be reviewing the three major
+mobile platforms from a fanboy point of view (sorry, no Blackberry).
+E3 PS4 & Xbox One
+While there were gasps and applause when Sony released the PS4
+price, there was a stoney silence greeting Microsoft when they an-
+nounced the Xbox One price. £80 more expensive and not allowing
+games to be swapped, Xbox had a hard time. Despite offering signifi-
+cantly more than the PS4 the multimedia console received incredibly
+aggressive criticism online from the fickle hardcore gaming clique.
+Apple weaning off Google
+It went mostly unnoticed, but Apple furthered distance from Google
+in iOS 7. Even considering the Apple Maps fiasco Apple have been try-
+ing to drop Google integration. In iOS 7 Siri now uses Microsoft’s Bing,
+perhaps suggesting that Apple considers Google their main competi-
+tor these days?
+Edward Snowden
+Last weeks leak from the NSA, Edward Snowden, came out as a bit of
+a hero after his Guardian interview in Hong Kong (despite leaving his
+partner who the Telegraph focused an article on “how hot she is”).
+But the whole debate raises a deeper question of our technology.
+With Snowden claiming that Facebook, Google, Microsoft etc. give
+backdoor access to the US government it begs several interesting
+questions, the most prominent: “how safe really is our data”?
+#Facebook
+It took long enough, but Facebook have finally caved into public pres-
+sure and announced they will be introducing hashtags into the social
+networking site. They’ll be following in the footsteps of Twitter, Tum-
+blr, Pinterest, and its own Instagram.
+Some of the key new features from OS X SeaLion? Clockwise from top left: Bookmark sidebar, Multiple full screen apps, Finder
+Jason Parmar Tech editor
+“”
+“
+“
+Tabbed Finder
+windows are
+a welcome
+feature
+

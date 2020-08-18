@@ -1,0 +1,322 @@
+49
+49
+9
+9 13
+13
+40
+40 44
+44
+35
+35
+18
+18
+20
+20 21
+21
+Bob Seger: “Dreams die hard and we watch them erode, but we cannot be denied the fire inside.”
+Music Quote
+of the Week
+Shite all has
+happened
+CharlieMurdoch Coffee Break Editor
+Congratulations to Ian ‘come here
+little girl’ Fulton andAli ‘vote Nazi’
+Philpott who were last’s weeks
+winners. Boys, I know you love me
+and these puzzles, but you spent about
+three hours trying to compete this
+puzzle. Well done, you managed it, but
+on the other hand don’t you have an
+exam to revise for?
+On a different note, Ail has a bang
+tidy sister, seriously Ali, she got all the
+looks in your family.
+As always we can put a guest puzzle
+in, so if you fancy your name in print
+drop us an email at sudoku.felix@im-
+perial.ac.uk
+[Include a puzzle with your email or
+we won’t bother with the ink.]
+E
+veryone has been talking
+about exams, politics and ash,
+all dispersed with a little whin-
+ing, that to be brutally hon-
+est, after a while interests me about as
+much as room temperature butter, i.e.
+not much. Now don’t get me wrong,
+I love a good moan about all the shit
+that’s going down in the world, but re-
+ally ash just reminds me of dead people.
+So I am focusing on the better parts of
+life at the moment... and a quick scan
+of the horizon results in nothing. Yes,
+nothing that exciting is happening.
+Well, I got a nice fruit yoghurt with ex-
+tra fruit from the SCR for breakfast to-
+day. Made the mistake of taking extra,
+or what I thought was extra, pineapple.
+Turned out that it was in fact grape-
+fruit. I fucking hate grapefruit. That is
+a fruit that God let through the net, I
+cannae see how people enjoy that. It’s
+as enjoyable as eating bitumen.
+Well, now that I’ve bored you to the
+wall with that little antidote, I may try
+to actually fill this space with some-
+thing worth reading. However don’t
+hold your breath. Apparently David
+Cameron when once asked his favour-
+ite joke replied ‘Nick Clegg’. Whoa! Roll
+that back... is that some down with the
+kids Parliamentary banter? Fuck the
+kids! Now it’s come back to slap you in
+the face like a massive lubricated horse
+cock. (Yeah, I just wanted to print ‘lu-
+bricated horse cock.’) Now even if he
+did think that it was a good banterish
+joke, which Dave, it wasn’t, he obvi-
+ously thought that it was a good idea
+at the time. Fine, maybe it was a good
+idea, but you can walk down the street
+wearing nothing but a thong. It’s legal,
+but that don’t make is a good fucking
+idea now does it?
+If you want lengthened, and pos-
+sibly more accurate rendition of this
+week’s political news, I suggest look-
+ing elsewhere. That’s all I have on that
+subject. Moving on, I have developed
+a penchant for poorly generated flash
+games. I sit there, crunched over the
+screen, closed to the world trying
+desperately to get past level five on
+Bouncing Balls. And those of you who
+just saw ‘balls’ and laughed, grow the
+fuck up. This apparently is what Gor-
+den Brown is planning on spending
+his free time doing now, although with
+only one eye I can’t imagine him being
+a threat to your top score.
+Wordpath 1,461
+How to play:
+Make a path from the origin word to the destination
+word by taking steps between words using one of the
+three following methods:
+Letter Substitution: Substitute just one letter.
+e.g. WORDS -> WARDS
+Anagram: Rearrange the letters.
+e.g. WORDS -> SWORD
+Wordslide: Replace the current word with a new 5 letter
+word from any 6+ letter word that contains them both.
+e.g. WORDS-> CROSS (via CROSSWORDS)
+No consecutive steps may be made by the same method.
+e.g. WORDS -> WARDS (by LS) -> WARES (by LS)
+would be invalid.
+Points are awarded for the earliest SHORTEST valid path
+between the two words. Dubious words will be checked
+against the OED. Send your solutions to sudoku.felix@
+imperial.ac.uk.
+ORIGIN:
+PUNCH
+DESTINATION:
+FIGHT
+Scribble box
+Solution 1460
+PUNCH
+? ? ? ? ? via
+[some steps]
+FIGHT
+What the fuck? This
+is possible, but there
+were no solutions last
+week, thus I declare
+it a rollover (and so
+worth double points).
+If you really can’t
+do it, just send in a
+memorable story and
+if it makes me laugh
+I’ll give you points. If
+it doesn’t I won’t. Its
+quite simple really.
+Arrow Maze 1,461
+How to play:
+Fill all the squares with numbers to form a path from 1 to 49, such that the arrow
+under each number points to the square containing the number one greater
+(except for 49 obviously, which has no arrow, being the end of the path).
+Hints:
+26 is pointed to by three arrows but only one of them is pointing only at 26, so
+this square must be 25. The square immediately right of 4 is only pointing to one
+square so can temporarily be labelled ‘A’ and the square it’s pointing to can be
+labelled ‘A+1’. Now we no longer consider ‘A+1’ as a destination for other arrows.
+24
+COFFEE
+BREAK
+Coffee Break Editor
+Coffee Break Editor Charlie Murdoch
+Charlie Murdoch
+coffee.felix@imperial.ac.uk
+felix FRIDAY 14 MAY 2010
+Char
+Char
+mmmmmm.....
+6
+6
+1
+1
+Solution 1460
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+1
+1 2
+2 3
+3 18
+18 16
+16 17
+17 19
+19
+39
+39 14
+14 5
+5 34
+34 33
+33 15
+15 43
+43
+13
+13 24
+24 27
+27 41
+41 7
+7 26
+26 42
+42
+12
+12 23
+23 22
+22 35
+35 6
+6 37
+37 44
+44
+28
+28 21
+21 29
+29 30
+30 31
+31 45
+45 20
+20
+40
+40 8
+8 4
+4 36
+36 46
+46 47
+47 48
+48
+11
+11 25
+25 9
+9 10
+10 32
+32 38
+38 49
+49
+32
+32
+FUCWIT The Felix University/
+College-Wide Invitational
+Tournament League is
+new and improved, with
+an iPod nano for both the
+team and the individual
+with the most points at
+the end of the year.
+5 points for the 1st cor-
+rect answers for all puz-
+zles on these pages, 4
+points for 2nd, 3 points
+for 3rd, 2 points for
+4th and 1 point for 5th.
+Now then FUCWITs, an-
+swers to sudoku.felix@
+imperial.ac.uk. Go!
+The Cool Kids and Fergal 40 Points
+Harry Potter Trio 251 Points
+Sheryl 195 Points
+The Tough Brets 148 Points
+Kelvin Wong 121 Points
+Matthew Colvin 214 Points
+Individuals:
+Individuals:
+Teams:
+Teams:
+League Table
+GLT 101 Points
+Flavia Tang 44 Points
+Louise Parchson 78 Points
+Bethan Matthews 33 Points
+Jeff Wu 28 Points
+Absolute Cunt 33 Points
+The Three Kings 25 Points
+Sophie Lambrakis 17 Points
+Dr Science! 30 Points
+Team Dirty Medics 16 Points
+Giramondo 10 Points
+Zoe Dobell 10 Points
+Mark Mearing-Smith 10 Points
+Herens Thibaut 12 Points
+New
+Fuller
+Individual
+List
+YES!!!
+

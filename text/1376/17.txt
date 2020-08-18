@@ -1,0 +1,243 @@
+Gentlemen, we can upgrade him
+Adam Omar can make him better than he was. Better. Stronger. Faster. Shu-nu-nu-nu-nu-nu-nu-nu.
+I
+t’snewtechnologytime again,
+with all sorts of companies
+yellingnext-genthisandnext-
+gen that. No matter what the
+console makers claim, the PC
+will always be the bastion of true
+gaming and the tip of the spear as
+far as technology is concerned.
+However, as is the norm in these
+cases, one has to build or buy a
+computer before being able to ex-
+perience any of that.
+In this feature, we’ll be giving you
+some general advice on choosing
+components, and providing a look
+at a range of low, mid, and high-end
+builds, as well as our recommenda-
+tions for the best of the best. But
+bear in mind that, of course, these
+are gaming desktops, nothing more
+– and we can’t help you put the
+thing together, either! You should
+consider doing it if you’re brave
+enough though, as it’s relatively
+straightforward, and a lot cheaper
+than paying for installation!
+So, what does what? First, there’s
+the processor – in this day and age it
+would be pure madness not to get a
+multi-core CPU. As more and more
+people have multi-core capabil-
+ity, more and more programs (and
+games!) will provide support. And
+with more supported programs,
+more people will buy multi-cores
+…and so the wheel turns.
+Tied closely to the CPU is the
+motherboard choice. I cannot stress
+how important a good motherboard
+is. It is the most important compo-
+nent in your PC. Many people make
+mistakes, spending loads on their
+CPU or graphics card and neglect-
+ing their motherboard. Ultimately,
+your motherboard is what ties ev-
+erything together and transmits
+data between all your other parts. A
+shit motherboard equals a shit PC,
+simple as that. Remember to check
+that its compatible with all your
+other parts.
+Since we’re gaming, let’s take
+graphics next. If any of you are
+planning to buy a computer in the
+near future, I suggest you hold off
+until the next generation of Direc-
+tX10 (Microsoft’s foundation graph-
+ic engine) cards arrive. Unless you
+happen to have been born in a vat of
+money, there’s no point in buying a
+gaming card now and then upgrad-
+ing to DX10 in the future.
+Hard Drives are another often
+sidelined component. As such I will
+only bother you with this humble
+collection of words: Western Digi-
+tal. SATA II, 16MB Cache. Simple,
+but crucial. Similarly, drives are
+simple too – these are quite stan-
+dard. Any old DVD-writer will do.
+The technology is much the same
+everywhere.
+Now, the frivolities. If this was a
+tropical country, I’d have suggested
+you get at least 6 fans or a water-
+cooling set. But in England, a cou-
+ple of 12cm fans will suffice. Intel’s
+stock coolers deserve special men-
+tion. Though quite uninteresting at
+first glance, those trusty black fans
+can keep your computer stable up
+to 1.5 to 2 times the CPU speed, de-
+pending on your processor.
+Power supplies (PSUs) are an-
+other crucial part that many people
+forget. A good PSU means a stable
+computer (at least with respect to
+power). 500W is the bare minimum
+nowadays, with units that go up to
+about 1100W. A nuclear explosion
+to any gamer’s electricity bill, I’m
+sure.
+For mice – optical or laser; accept
+nothing less. Go for wired instead
+of wireless. Wireless devices are
+(slightly) slower to respond than
+wired ones, and some of them re-
+quire batteries. We’re gamers. We
+hunch at our desks anyway.
+As with mice, go for wired key-
+boards. Unless you plan on playing
+your games from the next room or
+across the street, there really is no
+need to have a wireless keyboard.
+A good sound card isn’t that nec-
+essary for gaming, although it is
+one of those things that would be
+nice to have. Creative are a safe bet
+for anything sound-cardy. Coupled
+to that, go for headphones wher-
+ever possible. You don’t want to be
+distracted by the d00d next door or
+by a car outside when trying to land
+a frag. Otherwise, its down to per-
+sonal preference.
+Unless you happen to have a desk
+the size of a bed you’ll need to go
+with a TFT for your monitor. 19inch
+should be the minimum size. And
+always, always get a monitor with a
+DVI connector – with a comfortable
+viewing angle.
+Aesthetics aside, a casing should
+be chosen with respect to ease of
+use, weight, stability, and sturdi-
+ness. Aluminium is light but expen-
+sive, but I’d rather have a hulking
+steel behemoth any day. Air circula-
+tion and ventilation is also another
+important factor.
+Unreal Tournament 3 – Commence eye-bleeding … now.
+Pushing the envelope – the unforgiving games that’ll test your PC’s limits
+You’ve taken our advice and put to-
+gether something resembling a PC
+– or maybe you want to test the one
+you already have to check that the
+video card’s still running? There’s
+a variety of games both out now
+and upcoming that are sure to do
+the job.
+The first, and almost oldest, is
+probably Bethseda’s most recent
+RPG release, Oblivion. Despite
+being a year old now and holding
+an unsteady place in 2006’s game
+charts, Oblivion is a massive re-
+source guzzler, still providing a
+huge challenge to any computer
+while wandering around the huge
+vistas with lighting effects on full.
+And if that doesn’t do the job, there
+are mods that make the game even
+more demanding, racking up the
+settings even further and increas-
+ing the richness of the visuals. If
+you want to test large-scale graph-
+ics, this is the one.
+For those of you that have already
+picked up a copy of the latest strat-
+egy hit, Supreme Commander, or
+those that took a spin on the demo
+a month or so ago, you’ll already
+be aware of the scale of waging
+war. Huge populations of units on
+screen at once, with varying levels
+of zoom from global to close-up-
+and-personal. This is a game that
+takes whatever memory you’ve got
+and then demands more – a terrify-
+ingly impressive game when played
+on the right system, if you can get
+more than a 2 vs. 2 running smooth-
+ly online, you’ve already got a very
+capable machine.
+It’s also worth taking a step even
+further back in time and revisit-
+ing F.E.A.R., now available at a
+criminally low price. F.E.A.R. was
+a demanding game upon release
+– kicking up a fuss even on the best
+hardware, with software conflicts
+abound. Now, F.E.A.R.’s theatrical
+lighting and fast-paced shooting
+still provides a test to the average
+gamer’s PC. If you’re playing this
+on a resolution larger than a post-
+age stamp, you’re taking steps in
+the right direction.
+But it’s the future that holds the
+truly terrifying games. Already
+we’re seeing the new Command
+and Conquer – not thought to be
+too demanding – putting large pres-
+sure on a lot of mid-spec PCs. The
+advent of Windows Vista and its
+alleged focus on high-end gaming
+means that future releases could
+use even more of a machine’s raw
+resources – but that might not be
+the good news it sounds, as more
+resources available means more
+resources are used – leaving low-
+end gamers in the dust while the
+next-gen speeds off into the sunset.
+It’s not all doom and gloom yet,
+though, and thankfully the dreaded
+Vista exclusives seem thin on the
+ground – at least for the time be-
+ing. Unreal Tournament 3 (above)
+was one of the first sights we got of
+the Unreal 3.0 engine, now power-
+ing every next-gen game under the
+sun. It’s all very well for console
+gamers, who can rely (most of the
+time) on developers to get the right
+amount of power out of the plastic
+box. But the prospect of games like
+UT3 – with open-ended detail op-
+tions ready to be scaled to christ-
+knows-where and beyond – should
+be making any gamer think twice
+about putting off an upgrade for an-
+other year.
+The Unreal 3.0 engine has been
+licensed by Sony, EA, and Square
+Enix to name but three, and Epic
+have already stated that Unreal 4.0
+has been in development since ear-
+ly 2004 (though not due to be seen
+until 2010, such is their faith in the
+third engine).
+America’s Army 3.0, Bioshock,
+and Unreal Tournament 3 will all be
+using the engine that we’ve already
+seen used in Gears of War. However
+prepared you think you are for next-
+gen – you’re not prepared enough.
+20 felix Friday 9 March 2007
+GAMES games.felix@imperial.ac.uk
+

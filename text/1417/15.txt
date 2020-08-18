@@ -1,0 +1,361 @@
+28 felix Friday 28 November 2008
+Ten affordable gadgets that you should get...
+felix@imperial.ac.uk
+Technology
+Technology Editor – Ravi Pall & Richard Lai
+felix@imperial.ac.uk
+29
+Friday 28 November 2008 felix
+Technology
+Richard Lai
+Technology Editor
+Y
+ou just can’t avoid them
+- they’re everywhere! As
+we speak I have two items
+being sold on eBay, one of
+which is the lovely Sony
+Ericsson Xperia X1 (as much as I love
+the phone, money does come first). It
+was pretty obvious that the phone was
+going for at least £400 at that time, but
+I had this one douche bag who had the
+balls to ask, “Would you sell this for
+210 pounds including delivery?”
+Then I had another one who first
+buttered me up with “I like how you
+describe the phone” and “your confi-
+dence in accepting personal collection
+inspires me that you are a trustful sell-
+er”, followed by a slightly more sensible
+offer of £300. Sorry, but the buttering
+up just ruined it all.
+And literally just now a buyer by the
+name of “big.ojsimpson” offered to buy
+my phone in person, and I am not mak-
+ing this up! For some strange reason he
+insisted on paying me via PayPal before
+collection, instead of paying by cash
+which would save me the PayPal fees.
+Also I fear his PayPal payment might,
+for some reason, become void after-
+wards. Anything could happen, right?
+I swear I’ve never encountered that
+many weirdos outside Engadget - a
+respectable technology blog which
+has comment sections flooded with
+posts like “FIRST!!!!!111!” and “APPLE
+RULEZ”. Shut up already! The number
+of Apple fanboys there is definitely
+nothing to joke about. Someone please
+get those kids out of their basement.
+There is definitely a trend of online
+anti-socialism going on here, some
+sort of new-found disease like the
+online-gaming addiction. I’ve tried
+to imagine what the equivalent rehab
+training camp would be like (yes, they
+do have such camps for Warcraft ad-
+dicts in China), but the only cure I can
+think of is to just dump those idiots on
+Mars and make them build houses for
+us. Now let’s see who’ll build the 100th
+house FIRST!!!!!111! (Only if they man-
+age to sort out the oxygen problem
+beforehand).
+On a more serious note, lately eve-
+ryone seems to be down with the flu,
+and I might have caught a bit of sore
+throat from my flatmates too (cheers!).
+It made me wonder: if we can remotely
+control a robot on Mars, how could it
+be that we have yet to defeat the annoy-
+ing viruses on our own planet? Perhaps
+Biology really is the hardest subject on
+the campus? Well, at least that’s where
+most of the hot girls are too (ladies,
+please note that I didn’t say ‘all of’); in
+our Information Systems Engineering
+group we literally have zero girls, so
+perhaps some of us are already on the
+right path to become genuine, hard-
+core engineers.
+Either way, please don’t send us to
+Mars with those Internet douche bags.
+Well, not me anyway - I’ll say behind
+to exterminate the remaining trash-
+talkers.
+Oh, and the Star Trek trailer is great!
+Internet
+douche bags
+Weekend Timewasters
+TotallyRadShow.com
+This is a quality weekly podcast
+reviewing the latest movies, comics,
+video games and TV shows.
+Samorost
+Check out this weird yet beautifully-
+designed point-and-click game:
+http://amanita-design.net/
+Zero Punctuation
+Watch video game reviews done
+with minimal breathing and hilari-
+ous animation: http://is.gd/rN0
+Last.fm
+Listen to music for free on this on-
+line jukebox, as well as finding out
+what other artists you may like.
+No, it isn’t all about being a geek; it’s about spending your pile of copper coins on something cheap and fun.
+1. Laser Pointer, ~£5, ebay.co.uk
+So you see your neighbour’s cat sat
+aloneoutsideandyouwanttosomehow
+get its attention. Well, here’s a cheap
+toy you can play with: the bemused cat
+will try to catch the red/green dot for
+hours, until either it gets too frustrated
+or your batteries run out. Ah, good
+times.
+2. Sudokube, £3.49,
+BoysStuff.co.uk
+Bored of your Rubik’s Cube already?
+Then it’s time to move on to this new
+puzzle: rather than having to get all the
+same colours on each side, here you
+have to get all 1 to 9 on each side, just
+like you do in Sudoku. Even though
+it’s essentially the other way round as
+Rubik’s Cube, it’s not as easy as you
+think...
+5. Maggie Nut Cracker, £9.99,
+iwantoneofthose.com
+Nuts are good for your brain (and so is
+the magazine, in my opinion), so while
+you’re munching away in front of a
+pile of revision, let the former British
+Prime Minister motivate you at the
+same time. Do check out the amusing
+demo video on the website.
+4. Magic 8 Ball, £5.95, firebox.com
+At some point in life you will come
+across many tough questions, such as
+“Should I dump that rich loser?”, “If
+I ask the postgraduate out, will I be
+rejected?” and “Is it OK to feed the cat
+some cheeseburgers?”. Fear not, as the
+Magic 8 Ball is here to help. Don’t let
+the shiny plastic fool you - I’ve tested
+one before and it was quite accurate.
+E
+ver wondered why Sony’s
+PlayStation 3 is so expen-
+sive? Well, my friend, I’d like
+to tell you that it’s actually
+an underpriced supercom-
+puter. No, it’s not just about its Blu-ray
+playback feature - it’s the Cell proces-
+sor which makes the PS3 your home
+supercomputer.
+Last week EESoc invited John Eas-
+ton, Senior Consultant of IBM Systems
+and Technology Group, to talk about
+the Cell Broadband Engine (Cell BE,
+in short) technology. His emphasis
+was that in the past business estab-
+lishments were competing over the
+number of pieces of technological
+equipment they possess, but today it’s
+a totally different story: technology has
+become part of commodities and to be
+able to trade faster you have to look
+into “doing something you could never
+do before”.
+According to Easton, the current
+latencies in the trading arena are
+counted in milliseconds, and each can
+cost about $55,000 (which is eleven
+years’ worth of a Home student’s un-
+dergraduate tuition fees). Methods to
+keep such latencies down were very
+different even just five years ago: the
+performance-constrained market
+meant that companies relied on scaling
+to drive performance and drive down
+cost; today, the market trend indicates
+that there will be no more space for
+data centres in London in the next ten
+years, which is why IBM believes that
+innovation is the new scaling.
+However, the concept of the Cell
+processor started way back in 2000,
+when SCEI (Sony Computer Enter-
+tainment Incorporated) approached
+IBM for an engine that would make the
+PS3 future-proof from day one, and
+about 1000-times faster than current
+consoles. From that point onwards,
+SCEI, Toshiba and IBM formed STI - a
+joint technology development alliance
+on the Cell BE, and in September 2006
+IBM launched the QS20 blade module
+- the first commercial product utilising
+the Cell BE, followed by the highly-
+anticipated PS3 in November.
+The current generation of Cell is es-
+sentially a 90nm nine-core chip with
+ten threads, clocking over 4GHz with
+100 GFLOPS in labs (the PS3’s Cell
+is clocked at 3.2GHz). Instead of us-
+ing the traditional scalar code, Cell
+is programmed with the more com-
+plex vector language (known as array
+programming), in order to achieve a
+higher level of parallelisation. This is
+essential for heavy encoding/decoding
+and compression/decompression in
+signal processing, digital filtering, Fast
+Fourier Transform, advanced video
+rendering and many other real time
+processing tasks.
+Easton provided some very interest-
+ing examples of Cell applications, with
+the first video being of a medical com-
+puter tomography (CT) scan of a hu-
+man heart. It seemed to be an ordinary
+animation, but then we were told that
+with a 3GHz Wintel box, such 3D ren-
+dering from 313MB of raw scan data to
+just five 1MB slices would take about
+a hundred seconds, which is not very
+good for the average high-resolution
+CT scanning of 3000 slices (the cur-
+rent Siemens Somatom 64 takes about
+16 hours to process that); but with four
+Cell blades a sequence of fifteen sam-
+ples can be rendered to an even higher
+resolution in less than one second!
+Another video rendering demo was
+of a terrain rendering engine (TRE),
+which showed the performance differ-
+encebetweenanIntel-basedmachine,a
+G5-dual-CPU one and a Cell machine:
+Intel’s video was still rendering the
+landscape within the first few frames,
+then the G5 gave a jumpy animation,
+and finally the Cell gave a smooth visu-
+al flight over the mountains.
+Easton then played a recorded vid-
+eo of a life-like Ferrari car rendering,
+demonstrating IBM’s Interactive Ray
+Tracer (iRT) running on fourteen Cell
+blades which, as the name suggests, is
+able to change a render interactively in
+real time - a feature that is very impor-
+tant for movie productions and prod-
+uct video demos.
+Toshiba has also been making use of
+the Cell BE: back in CEATECH 2005
+they showcased their “Magic Mirror”,
+which virtually puts makeup on you as
+well as changing your hairstyle. Today
+we have the SpursEngine - a derivation
+of the Cell BE, running on just four
+cores and clocked at 1.5GHz peaking
+at 48 GFLOPS, and is already featured
+on selected Toshiba laptops for hand
+gesture visual recognition.
+Of course, we mustn’t forget the
+PS3, the power of which has been har-
+nessed by Stanford University’s Fold-
+ing@home, a distributed computing
+project for studying protein folding
+and misfolding.
+As of 25th November 2008 the
+PS3 has provided 38.9% of the to-
+tal TFLOPS with just over 58k active
+CPUs - a very impressive ratio com-
+pared to Windows’ mere 5.26% over
+235k active CPUs. And of course, you
+get to play games with stunning graph-
+ics and physics on the console!
+When asked if NVIDIA’s GPGPU
+(General-Purpose computing on
+Graphics Processing Units) is seen as
+Cell’s biggest competitor right now,
+Easton simply admitted that it is defi-
+nitely more powerful than Cell is in-
+tended to be (as proven by Folding@
+home statistics: 42.2% of TFLOPS from
+16k active CPUs), but for programmers
+the GPGPU is harder to work with; the
+only real fear will be Intel’s Larrabee
+GPU, due out in late 2009. Don’t worry
+though, IBM, as the PS3 will keep us
+happy for many more years.
+3. USB Cup Warmer With Mug,
+£2.99, Gadgetshop.com
+Cold tea is no good on a cold winter
+day, so this cheap peripheral should
+be a necessity for those who haven’t
+bothered paying for central heating. I
+got one of these last Christmas, but the
+warm winter in Hong Kong made me
+think I wouldn’t need it here. Fail.
+6. Powerball, from £7.99, Play.com
+Here’s another one for the ball-
+lovers: the gyroscopic exercise tool
+strengthens your arm muscles and
+fingers by exerting centripetal force,
+while you practise your wrist action. I
+strongly recommend getting the £14.99
+model which has an LCD speedometer
+- everyone will be wanting to take up
+theRPMchallengeatparties,anditalso
+provides great visual entertainment.
+PS3 is so underrated
+IBM’s “Inside the Cell Processor” lecture last week explains it all
+IBM’s Cell Broadband Engine - the heart of Sony’s PlayStation 3
+7. Toastabag, £5.99 (for pack of 2),
+Lakeland.co.uk
+As dumb as it may sound, this baby
+does work fantastically! Here’s the
+list of food that you can cook with
+one in a toaster: toasted sandwiches
+(obviously), non-soggy eggy bread,
+scrambled egg, burgers, fish fingers,
+omelettes, salmon fillets, etc. And the
+best thing is cleaning is just as easy as
+using the reusable bags!
+8. Dippy Egg Set, £7.95,
+firebox.com
+I smiled when I saw this kit, as earlier
+this evening my flatmate, Guto, was
+preparing Eggy Soldiers for supper
+(I know). The set comes with a cute
+microwave egg boiler (which also has
+a pin to prick the raw egg shell) and a
+handy soldier cutter, just the perfect
+combination for a quick, lazy meal. You
+should add this to your Christmas list!
+Easton’s placement of Cell on the purpose-speciality line
+10. SanDisk Ultra II 2GB SD Plus
+USB Card, £7.49, Play.com
+I must thank my flatmate, Jon, for
+this suggestion: if you have a digital
+compact camera, chances are you are
+using an SD card. Annoyed with the
+camera’s USB cable or external card
+reader (stupid MacBook...)? Now you
+can just plug this odd memory card
+straight into the USB port!
+9. Glowrings, £5.45, RVOps.co.uk
+These mini glowsticks contain the
+radioactive tritium (don’t worry,
+unlike radium it’s completely safe and
+housed in a very tough case) that will
+continuously glow brightly for ten
+years, very useful for marking your
+camping kit and keyrings, as well as
+luring fish when you’re out night-
+fishing.
+Background image: http://deepfriar.files.wordpress.com/
+

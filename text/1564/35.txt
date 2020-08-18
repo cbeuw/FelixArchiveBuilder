@@ -1,0 +1,91 @@
+35
+FRIDAY 17 JAN
+PUZZLES
+Puzzles Commanders:
+Kingshuk Dasadhikari,
+Oliver Price
+puzzles.felix@imperial.ac.uk
+Crossword
+Sudoku
+Each row, column, and 3 x 3 box must contain all the numbers from 1
+to 9. That’s all. Enjoy...
+FUCWIT League
+nickwp		 35
+Jia Choo 31.5
+Adam Stewart 18.5
+Yufan Zhao 17
+Juliette Chupin 8.5
+Harder:
+Killer:
+Across
+1. Whales (8)
+6. Greek stringed instrument (8)
+9. Brass instrument with a slide (8)
+10. Implausible (10)
+14. Prehistoric pachyderm (8)
+15. Thracian city (8)
+19. One of Johannesburg’s poorer areas (6)
+20. Unfortunate, as in, of a person (7)
+22. Blends (11)
+24. Pacific atoll that witnessed a battle (6)
+29. Robinson Crusoe, for one (8)
+30. Britain’s most famous junction (7)
+33. Death personified (6)
+34. American telegraphy pioneer (6, 5)
+35. Man Echo pursued (9)
+36. National park famous for its geysers (11)
+Down
+1. Double-hulled boat (9)
+2. Ireland’s head of government (9)
+3. Conductor’s coach in the old days (7)
+4. Outspoken American conservative political
+commentator (3, 7)
+5. Verbal error (5)
+6. Low male singing voice (8)
+7. Mythical, brutish, humanoid creature (3)
+8. Natural to a particular locale (10)
+11. Igloo-dweller (6)
+12. Pleasure-pursuer (8)
+16. Russian people known for cavalry (7)
+21. Pocahontas’ dad (8)
+23. September 29 (10)
+24. Not a talker (8)
+25. Spiritual movement built around Haile Selassie
+(9)
+26. Generosity (8)
+27. Famous pepper (8)
+28. Jesus’ denonym (8)
+30. Confection made by heating sugar (7)
+31. Looney Tunes hen (6)
+Crossword Clues
+Nonogram
+The lengths of runs of shaded squares in each row and
+each column are given. Squares can only be shaded or
+unshaded. Solve the puzzle to unveil a pretty picture.
+No clues! Instead, the numbers in each cage must add up to the
+number in the top left. Numbers cannot be repeated in a cage. Tips:
+The numbers in each box, row and column must add up to 45. Look for
+cages with only one possible combination e.g. a two wide cage total
+3 must contain 1 and 2 .
+Last Term’s Solutions
+Helix		 8
+Gabriel Quek 7
+Emma and Ben 6
+WJ		 3
+Guess the
+Stop
+The British rail network runs far and
+wide. The name of a line is scrambled
+in the following anagram, and the
+name of a stop on that line, with the
+given number of letters is encoded
+by the sum of the letters, where A=1,
+B=2... Z=26, <Space/Punctuation>=0.
+Find the line and stop. Note that
+London Underground lines may also be
+possible answers.
+Anagram:
+Tim the yams march din
+Stop:
+8 letters, Sum: 94
+

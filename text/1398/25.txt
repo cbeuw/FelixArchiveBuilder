@@ -1,0 +1,210 @@
+26 felix Friday 29 February 2008
+Compensating cameras
+Jonathan Silver wonders: is that a zoom lens, or are you just pleased to see me?
+R
+ight, lots of news this week
+so let’s not wait any longer.
+Many of you may have
+noticed on Tuesday that
+Micro$oft’s servers weren’t
+exactly behaving. People worldwide
+have experienced severe difficulty
+gaining access to Hotmail accounts and
+logging into MSN Messenger. Some
+pages on the MSN website were also
+unavailable. MS have yet to give any
+details to what caused this but claim to
+have remedied the problem. It brings
+forward some questions though. Are
+MicroSoft really ready to expand in
+the on-line market when they have dif-
+ficulties maintaining what they already
+have?
+Apple have upgraded all their non-
+MacBook Air laptops in keeping with
+some of its new features. The Pro’s have
+had across-the-board system upgrades
+including faster processors, cheaper
+RAM, larger hard drives, and the new
+Multi-Touch pad from the Air. The
+regular MacBooks have also received
+the same system upgrades, but not the
+inclusion of the innovative track pad.
+Concerns have been raised over
+wind power after a turbine in Den-
+mark destroyed itself after its brakes
+failed. There is some really impressive
+footage of it so I highly recommend
+you YouTube “Danish wind turbine”. It
+doesn’t seem that bad in the sense that
+most of these things are located off
+shore or miles from anything but any
+of you who have pulled of the M4 at
+Reading will have seen the Turbine that
+stands amongst a group of buildings.
+Apple have delayed the release of the
+iPhone (and iTouch) SDK which was
+supposed to be released this month.
+You think Jobs would be pressing hard
+to release this thing as third-party apps
+would probably significantly reduce the
+number of iPhones being jail-broken.
+YouTube is once again available in
+Pakistan after authorities there decid-
+ed to order their ISPs to ban the site.
+This snowballed and almost took out
+YouTube worldwide. The reason for
+this was due to blasphemous video be-
+ing posted on the site. This re-surfaces
+the whole freedom of information on-
+line in parallel with the censorship of
+Google in China and some partial cen-
+sorship in Germany. Should nations
+have the power to do this?
+Sony has announced it has bought
+a 1/3 stake in Sharp’s new LCD panel
+factory. Currently Sony uses Samsung
+panels but Sony and Samsung are com-
+peting for the top spot in flat panel tel-
+evision sales and this restructuring is
+expected to produce a far more com-
+petitive market for panels and hence
+better prices on the final TVs.
+A hugely entertaining argument has
+been put forth by the Open Rights
+Group that “illegal” filesharers should
+be paid. The logic is as follows: P2P
+filesharing allows a very cheap method
+of promoting low key artists and pro-
+jecting them to worldwide audiences,
+thus increasing their fan base for free.
+For this “service” they should be paid.
+I doubt the seriousness of actually im-
+plementing this idea and I expect it’s
+just been concocted to argue down the
+RIAA.
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+James Finnerty
+Technology Editor
+They sure manage to cram a tonne of clever stuff inside these things. Or maybe this is just fictitious propaganda to justify the pricetag?
+T
+hese days, you’re unlikely
+to find me wandering
+around College without
+a lump of black hanging
+over my shoulder.
+A digital SLR camera, or DSLR, is
+‘one of them big black ones’. They’re the
+weapon of choice for everyone from
+keen students to paparazzi, reporters
+to motor racing photographers. They
+are the key to good photography, and
+give you status, a badge of office, as
+someone who can Take Photos. They
+come in all shapes and flavours, and
+if you’ve ever been tempted by their
+hunky looks, there’s no better time to
+get involved.
+Why should I care? Compact, or
+‘point-and-shoot’ cameras, are de-
+signed to sell. They slip into your pock-
+et and take party snaps. If you’re lucky,
+only most of your photos are blurry,
+dark, or all orange. Your ugly friends
+will appreciate the blur and your pal-
+lid CompSci friends might like the tan,
+but if you want them to come out nice-
+ly, you’ll have to rethink things.
+OK, so I’m being harsh. But even
+when your shiny silver camera is ad-
+vertised as being fantastic, and has
+128 advanced scene modes including
+16 porn modes and Endless Creative
+Possibilities™, you can still only expect
+reliably sharp photos in bright, low-
+contrast environments, and they might
+not look quite like you remembered.
+So what does a DSLR do? It gives you
+IMAGE QUALITY, and, more impor-
+tantly, FLEXIBILITY.
+Image quality? Know how a film
+camera works? It’s got a load of optical
+gubbins that shines your picture onto
+the film in the back of the camera, and
+then the film slides along for your next
+shot. Guess what: a digital camera is
+nearly exactly the same. It’s just got a
+chip where the film would be. The size
+of this chip, or ‘sensor’, sets compacts
+and DSLRs apart. A compact camera’s
+sensor is about as big as a tooth, and a
+DSLR’s is as big as a big stamp. Each
+pixel, while still tiny, is much bigger
+and is much more sensitive to pretty
+things like light and colour. Result: bet-
+ter photos, in lower light, with better
+colours.
+That’s only part of the story. The im-
+age quality isn’t so much about the sen-
+sor at all. Quality is really in the LENS.
+It MAKES how sharp your shots are,
+and how good your colours are. The
+small plastic affair in a compact camera
+can’t really keep up, and there’s only so
+much you can enlarge a photo before
+it looks all soft and rubbish. The most
+basic DSLR lens destroys it, and sud-
+denly pictures have attitude, a punch,
+that you never thought possible.
+This is essential. Megapixels: bol-
+locks! A compact camera with a zillion
+megapixels is a fraud; if the lens can
+only produce a picture with 3 meg-
+apixels of detail, as is typical, having an
+8-megapixel sensor is a waste. Still, 3
+megapixels go a long way. It’ll make a
+lovely 6”x4” photo, or even a respecta-
+ble A4 enlargement if you don’t study it
+with a magnifying glass. My DSLR has
+only a 6-megapixel sensor, but because
+of DSLR lens quality, I get to use all 6
+megapixels. Even then, the difference
+between 6 and 10 megapixels is very
+small (it makes photos only 1.3 times
+bigger) and so really very few people
+need lots of megapixels. Ever.
+Flexibility? If all the quality is in the
+lens, then surely the camera doesn’t
+make so much difference? Right. That’s
+why DSLRs are a little bit like electric
+whisks. Press the little round button,
+and the lens pops off! Why? So you
+can get another lens out and put it on
+the camera, of course. Your other lens
+might be able to zoom in so far you can
+watch your neighbour getting changed,
+or it could be able to take amazing
+close-ups of fleas jumping between
+sugar crystals, or it might be as big as
+a dinner plate so it can take good pic-
+tures in low light. A creative photogra-
+pher might change lenses as often as a
+golfer changes clubs, as the need takes
+them, or they might not. Soon enough,
+though, you’ll be wanting to buy your-
+self a plethora of lenses for a plethora
+of occasions. Long ones, fat ones, it’s
+what a DSLR is all about. Generally
+speaking, any camera can use any lens
+by the same manufacturer, or a lens
+made by a third party and dedicated to
+your make of camera.
+Any camera usually does an awful lot
+of thinking before taking a photo. It has
+to consider lots of things and if it gets
+them wrong, the photo will be rubbish.
+How bright is the scene? Which bit of
+Generic lens photo used to fill whitespace number 1
+

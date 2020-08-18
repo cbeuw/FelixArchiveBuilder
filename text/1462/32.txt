@@ -1,0 +1,317 @@
+49
+49
+15
+15
+13
+13
+47
+47
+43
+43
+Hugo De Groot: “Ignorance of certain subjects is a great part of wisdom.”
+Music Quote
+of the Week
+Rant? Not
+mine today
+CharlieMurdoch Coffee Break Editor
+Well done to GLT who seem to have
+entered many of the puzzles this
+week... and won. So well done to you.
+Obviously a wee bit bored during revi-
+son, I suggest you spend more time on
+learning your shit and less time pissing
+about here.
+As always we can put a guest puzzle
+in, so if you fancy your name in print
+drop us an email at sudoku.felix@
+imperial.ac.uk
+[Include a puzzle with your email or
+we won’t bother with the ink.]
+W
+ell, it is revision time.
+That is all I’ve had to
+do this week. As a re-
+sult, my column in now
+complete. However, as it’s revision
+time I’ve spent a lot of time engaging
+in degree-worthy amounts of procras-
+tination. This is genuine post I found
+about a couple who met on a date
+website.
+“To the woman that crapped in
+my car… (NE Portland). We met on
+Craigslist so I am hoping that this post
+finds you. I know that it could quite pos-
+sibly be the most humiliating first date
+that you have ever been on, but I am
+willing to look past that. I thought we
+had chemistry sitting at McMenamins
+sharing that basket of Cajun Tots while
+drinking the Terminator Stout. I really
+felt like there was a connection there.
+I found you to be intelligent and witty
+and looked forward to further conver-
+sation with you.
+At some point in life, everyone has
+gambled on a fart and lost. It just hap-
+pened to be on a first date in the pas-
+senger seat of my car. Please don’t feel
+bad. The package I sent you with Pepto
+the next day and the note that said
+‘First dates are always a crap shoot.
+Call me’ was meant to be funny, not
+offensive.
+I have gambled on a fart and lost
+on multiple occasions. The first time
+I did it was very memorable. It hap-
+pened when I was five and sitting on
+my uncle’s lap. I am lactose intolerant,
+but love cheese. I probably win 95% of
+the time, but I don’t think anyone wins
+100% of the time. That’s why they call it
+‘gambling’. I’m the last person to judge
+you for crapping your pants. In fact, I
+am impressed by your boldness. The
+timing on the other hand, could have
+been a tad bit better… like when you’re
+not sitting on a heated leather seat…
+What I am trying to say is that if you
+want to go out again, I would be more
+than happy to take you someplace
+where we can get a meal that is high
+in fibre and less taxing on the digestive
+tract.
+I await your call, Tad
+P.S. - If you shat yourself on purpose to
+end the evening early…Touché…
+”
+[Ed - Having lady problems, Charlie?
+A dating website? Really?]
+Wordpath 1,462
+How to play:
+Make a path from the origin word to the destination
+word by taking steps between words using one of the
+three following methods:
+Letter Substitution: Substitute just one letter.
+e.g. WORDS -> WARD
+Anagram: Rearrange the letters.
+e.g. WARD -> DRAW
+Wordslide: Replace the current word with a new 4 letter
+word from any 5+ letter word that contains them both.
+e.g. DRAW-> WING (via DRAWING)
+No consecutive steps may be made by the same method.
+e.g. WORD -> WARD (by LS) -> WARE (by LS)
+would be invalid.
+Points are awarded for the earliest SHORTEST valid path
+between the two words. Dubious words will be checked
+against the OED. Send your solutions to sudoku.felix@
+imperial.ac.uk.
+ORIGIN:
+E X A M
+DESTINATION:
+F A I L
+Scribble box
+Solution 1461
+Arrow Maze 1,462
+How to play:
+Fill all the squares with numbers to form a path from 1 to 49, such that the arrow
+under each number points to the square containing the number one greater
+(except for 49 obviously, which has no arrow, being the end of the path).
+Hints:
+26 is pointed to by three arrows but only one of them is pointing only at 26, so
+this square must be 25. The square immediately right of 4 is only pointing to one
+square so can temporarily be labelled ‘A’ and the square it’s pointing to can be
+labelled ‘A+1’. Now we no longer consider ‘A+1’ as a destination for other arrows.
+32
+COFFEE
+BREAK
+Coffee Break Editor
+Coffee Break Editor Charlie Murdoch
+Charlie Murdoch
+coffee.felix@imperial.ac.uk
+felix FRIDAY 21 MAY 2010
+Char
+Char
+mmmmmm.....
+18
+18
+1
+1 Solution 1461
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+1
+1 24
+24 20
+20 25
+25 7
+7 21
+21 22
+22
+27
+27 47
+47 38
+38 14
+14 5
+5 6
+6 48
+48
+9
+9 12
+12 13
+13 37
+37 32
+32 16
+16 34
+34
+28
+28 11
+11 42
+42 2
+2 39
+39 15
+15 43
+43
+29
+29 45
+45 10
+10 26
+26 33
+33 40
+40 44
+44
+30
+30 46
+46 19
+19 35
+35 4
+4 3
+3 23
+23
+31
+31 17
+17 18
+18 36
+36 8
+8 41
+41 49
+49
+19
+19
+23
+23
+FUCWIT The Felix University/
+College-Wide Invitational
+Tournament League is
+new and improved, with
+an iPod nano for both the
+team and the individual
+with the most points at
+the end of the year.
+5 points for the 1st cor-
+rect answers for all puz-
+zles on these pages, 4
+points for 2nd, 3 points
+for 3rd, 2 points for
+4th and 1 point for 5th.
+Now then FUCWITs, an-
+swers to sudoku.felix@
+imperial.ac.uk. Go!
+The Cool Kids and Fergal 40 Points
+Harry Potter Trio 251 Points
+Sheryl 215 Points
+The Tough Brets 215 Points
+Kelvin Wong 125 Points
+Matthew Colvin 231 Points
+Individuals:
+Individuals:
+Teams:
+Teams:
+League Table
+GLT 129 Points
+Flavia Tang 44 Points
+Louise Parchson 78 Points
+Bethan Matthews 33 Points
+Jeff Wu 28 Points
+Absolute Cunt 33 Points
+The Three Kings 25 Points
+Sophie Lambrakis 17 Points
+Dr Science! 30 Points
+Team Dirty Medics 26 Points
+Giramondo 10 Points
+Zoe Dobell 10 Points
+Mark Mearing-Smith 10 Points
+Herens Thibaut 12 Points
+New
+Fuller
+Individual
+List
+YES!!!
+PUNCH
+HUNCH (LS)
+BACKS via
+hunchbacks
+BANKS (LS)
+MOUNT via
+mountebanks
+COUNT (LS)
+EIGHT via
+counterweight
+FIGHT (LS)
+Well done to last
+week’s winner Team
+Dirty Medics. Un-
+fortunately using
+‘CHING’ would not
+be valid.
+

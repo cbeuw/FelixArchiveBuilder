@@ -1,0 +1,316 @@
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19:00 - 01:00
+ALL UNION BARS
+£10.00
+Split across two nights, your hall will be invited to either the
+Saturday or Sunday night Mingle. As the first big social event
+of Welcome Week it’s the perfect way to get to know new
+friends from your hall of residence and meet new ones from
+others. Shift K3Y headlines both nights.
+03 & 04 October
+05
+03
+04
+20:00 - 22:00
+h-bar
+FREE
+POSTGRADUATE
+ONLY
+Visit the h-bar and enjoy some live music
+from our Jazz & Rock society on the
+first Saturday of term! Our Jazz & Rock
+society are one of the Union’s long
+running live music club, and feature a
+host of talented student musicians.
+03 October
+06
+17:00 - 20:00
+Fivesixeight
+metric
+FREE
+Freshers’ Fair doesn’t quite end when all the stalls have packed
+up - join us in Metric to see some of our Clubs, Societies &
+Projects showcase their talents.
+06 October AAAAAAAAAAAA
+11:00 - 16:00
+South Kensington
+campus
+FREE
+Imperial College Union Freshers’ Fair is
+packed with 400+ stalls showcasing the
+best of what student life has to offer.
+The biggest day of Welcome Week is not
+to be missed!
+06 October
+19:00 - 01:00
+JUNIOR COMMON
+ROOM
+FREE
+The Lite Mingle is for anyone who
+fancies a chilled-out alternative to the
+Mingle. We will be showcasing a live
+lounge of student performers as well as
+offering coffee and other non-alcoholic
+refreshments.
+LITE
+MINGLE
+03 & 04 October
+SHIFT K3Y
+live acoustic
+festival
+fRESHERS’ FAIR
+AFTERPARTY
+fRESHERS’
+FAIR
+19:00 - 23:00
+h-bar
+FREE
+POSTGRADUATE ONLY
+Fancy a Mojito or like a classy
+Cosmopolitan? There will be
+something for everyone at the
+launch of the new h-bar Cocktail
+Bar.
+05 October
+COCKTAIL
+BAR LAUnCH
+12:00 - 21:00
+h-bar
+prices vary
+We’re hosting a Pie & Ale Festival in the
+h-bar during Welcome Week featuring a
+host of pies and matching ales for you to
+try! You’ll find the full food and drink menu
+for the festival on our website.
+03 - 09 October
+PIE & ALE
+FESTIVAL
+What do you get when you cross a live band with karaoke?
+Bandeoke! Bust our your karaoke favourite or try something
+new alongside a live band.
+Bandeoke
+20:00 - 23:00
+Fivesixeight
+metric
+£3.00
+06 October
+20:00 - 23:00
+metric
+£3.00
+LIVE
+Comedy
+05 October
+Bring your new friends and have a
+giggle with our line-up of stand up
+comedians.Performances from Marcel
+Lucont, Carl Donnelly, Andrew Watts
+and special guest stars from Imperial
+Comedy! Presented by MC Sion
+James.
+The h-bar serves a range of premium
+wines, whiskys and spirits all year
+round - come and sample some of the
+range and learn more about what’s on
+offer from experts on the night.
+18:00 - 23:30
+H-BAr
+FREE
+POSTGRADUATE ONLY
+06 October
+WINES, WHISKYS
+AND SPIRITS
+19:00 - 01:00
+metric
+£2.00
+CSP Wednesday
+is your weekly
+night featuring live
+sport and music
+and is open to all,
+whether you’re part
+of a Club, Society or
+Project (CSP) or not.
+CSP WEDNESDAY
+07 October
+Get a team together and use your grey
+matter to compete for some great
+prizes! Pub Quiz in the h-bar is on the
+second and last Thursday of every
+month during term time.
+19:30 - 23:00
+h-bar
+£1 entry
+POSTGRADUATE
+ONLY
+07 October
+AAAAAAAA
+h-bar pub quiz
+19:00 - 23:00
+METRIC
+FREE
+Metric plays hosts
+to a number of live
+bands for your listening
+pleasure! The line up
+includes IC Big Band
+playing swing and
+jazz classics as well
+as mixing up modern
+classics.
+LIVE MUSIC, FEATURING
+IC BIG BAND
+08 October AAAAAAAAA
+19:00 - 22:30
+h-bar
+FREE
+POSTGRADUATE ONLY
+Bring your new friends and have a giggle with our
+line-up of stand up comedians presented by Nice
+‘n’ Spiky Comedy. We want to tear the roof off the
+h-bar with laughter! Performances from Earl Okin and
+James Dowdeswell, and presented MC Sion James.
+NICE N’ SPIKY
+COMEDY
+08 October
+AAAAAAAAAAAAAAAA
+20:00 - 03:00
+METRIC
+£12.00 IN ADVANCE
+£13.00 ON THE DOOR
+The Freshers’ Ball is the
+final party of Welcome
+Week for Undergraduates
+and a great way to
+celebrate with your new
+found friends. Alex Mytton
+(Made In Chelsea) is your
+headliner for the night
+alongside a host of DJs.
+09 October AAAAAAAAAAAAAAA
+19:00 - 01:00
+fivesixeight
+free
+DRI is Imperial College Union’s alcohol free club night. From 19:00,
+FiveSixEight, Metric and the Union Bar will be serving only non-alcoholic
+drinks for the rest of the evening. Entry for DRI is free. All students are
+welcome at DRI, including those under 18. It’s a great chance to meet with
+new and old friends and have a chilled night out after Welcome Week,
+whether you drink or not.
+11 October
+19:00 - 02:00
+All union bars
+£10.00 in advance
+buy one get one free
+POSTGRADUATE ONLY
+The Postgraduate Mingle is Imperial College Union’s official welcome party
+for all new incoming Postgraduate students. DJ Yoda will be headlining the
+largest PG social event of the year.
+10 October
+The Postgraduate
+AAAAAAAAAAAAAAA
+(madeinchelsea)
+alex mytton
+DRI
+dj yoda
+20:00 - 01:00
+h-bar
+FREE
+POSTGRADUATE ONLY
+Celebrate Friday at the h-bar with our Silent Disco!
+There will be two channels of music you can listen
+to on your own set of headphones - which will you
+choose?
+pgi friday
+silent disco
+09 October
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+11
+09
+08
+OCT-
+OBER
+2015
+YOUR ESSENTIAL
+GUIDE TO WHATS ON
+OVER WELCOME WEEK
+AT IMPERIAL COLLEGE
+UNION
+imperialcollegeunion.org/whats-on
+wel-
+come
+AAAAAAAAAAAAAAA
+

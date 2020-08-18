@@ -1,0 +1,331 @@
+Lecturer in biochemistry, Peter Little, describes how Imperial is
+A Revolutionary
+• Power!ines, VDUs and everyday appliances may
+be acting as carcinogens, concludes the US
+Environmental Protection Agency. In a report to be
+released later this month the EPA will publish results
+of a two year survey into the links between extremely
+low-frequency electromagnetic radiation and the
+occurrence of human cancer. The draft report says
+that 'the several studies of leukaemia, lymphoma and
+brain cancer in children exposed to magnetic fields
+from residential 60Hz electrical power distribution
+systems, supported by similar findings in adults, show
+a consistent pattern of response'. In a preliminary
+draft, these sources were to have been given the
+agency's B1 classification which includes chemicals
+such as DDT and PCBs. The biological mechanisms
+causing cancers by these actions are, as yet,
+unknown.
+• Two factors contributed to the low number of
+fatalities from the Romanian earthquake,
+measuring 6.9 on the Richter Scale, on May 30th. The
+first is that the epicentre was 90km below the
+surface, compared to 3km for the 1988 Armenian
+event. The second is that all the fragile buildings prone
+to damage in an earthquake had all been demolished
+after an earthquake of size 7.2 in 1977, says
+Professor Nick Ambraseys of Imperial. Two thousand
+people died in 1977 when multi-storey concrete
+buildings collapsed after being weakened by an
+earthquake in 1940.
+• Brazil is on its way to being capable of building
+an atomic bomb. The Brazilian Physics Society reports
+that once a new uranium-enriching centre is
+completed, they could have one seven days and £2
+million later. By a happy coincidence, the US
+representative to the International Atomic Energy
+Agency, Richard Kennedy, was touring Brazil. He
+urged Brazil to ratify the Nuclear Non-Proliferation
+Treaty. Brazilian diplomats retorted that the treaty
+was discriminatory and would sign only if it was
+changed. The centre is to provide fuel for a submarine
+reactor. Kennedy has struck back, criticising Brazil's
+role as a major arms exporter to Iraq. Brazil and the
+United States look destined not to meet in the World
+Cup.
+• 'Paintballing' may be having an adverse effect
+on ancient woodlands. The 'sport' involves hoards
+of war crazed executives land occasional student
+groups) trampling vulnerable new growth underfoot.
+The Government's watchdog, the Nature
+Conservancy Council, is to monitor this mindless
+destruction over the next 12 months at a site in
+Cambridgeshire. The 100,000 vandals of nature are
+putting at risk ash, oak and hazel trees, which have
+not yet adapted themselves to the mindless invasion
+of would-be James Bonds. A British Paintball
+Association Committee member said 'We...play...to
+damage'.
+Page 78
+Revolutions are normally heralded by an explosion at
+the palace gates but, occasionally, innumerable small
+changes combine quietly together to produce an
+equally dramatic qualitative change in our perception
+of the world. Biology has just started its second such
+revolution in twenty years. Most people did not even
+know the first had occurred!
+The first revolution occurred in the mid-70s when
+we learnt how to isolate single genes from complex
+organisms such as the human being and grow them
+in pure form-the recombinant DNA revolution. The
+next revolution will be the result of a proposal that
+was first put forward by a group of molecular
+biologists in Europe and the USA, to establish the
+structure of all genes in the human being; the Human
+Genome Project as it is called. The cost will be huge,
+perhaps three billion dollars, spread over 10 years.
+Why is this happening, what will it achieve and how
+will it be achieved?
+The function of DNA
+Genes are made of DNA, whose elegant and beautiful
+double-helical structure has become a totem of the
+new biology. Genes code for proteins in the same way
+as tape codes sound or video pictures but instead of
+using electrical storage, it uses a sequence of simple
+chemicals, the bases.
+Bases can be A, G, C or T (the full names are
+irrelevant) and DNA stores information in the triplet
+genetic code. A small region of DNA could have the
+sequence of bases GGATCTTTT, for example. Broken
+up into triplets of bases we have GG A, TCT and TTT.
+The cell uses this information to put a protein
+together.
+Proteins are the catalysts of cells. They can
+manufacture almost all of the complex organic
+molecules needed to 'make a human'. A protein is
+made up of a long, specific sequence of amino acids,
+20 of which are used in the body, put together in a
+unique order. The order determines the biological
+properties of the protein and it is this information that
+is stored in DNA. So, in our example, GGA codes for
+Glycine, TCT for Serine and TTT for Phenylalanine and
+the protein will have these amino acids in this order.
+So far I hope this is simple to understand. The
+problem is that the^e is a vast amount of DNA in each
+human cell, 6x10 bases, and only 5% of this is
+'genes'. The rest is the space betweengenes. All this
+DNA is called the human genome.
+How many genes a^e there a human being?
+Probably between 10 and 10 , all of which are
+present in every cell of our body. Of course, all genes
+do not work in al! cells: brain cells are very different
+from blood cells which are themselves very different
+from sperm cells and these differences are reflected
+in the genes that are expressed in the different cell
+types.
+Genetic Diseases
+That the system works at all is the product of three
+billion years of evolution, but it is still touch and go.
+One per cent of all live births in this country will have
+a genetic abnormality that will either kill or result in
+requiring medical support, sometimes for life. It is this
+that has powered the surge of work on the genetic
+basis of development. Genes that are responsible for
+life threatening diseases such as cystic fibrosis
+(carried by 1 in 20 of the white population of the UK)
+sickle cell anemia, phenylketonuria, thalassemia and
+Tay Sachs disease, have all been identified and the
+defects that cause disease are now becoming
+understood. At present, the best we can do is to offer
+diagnosis of the condition before a baby is born-
+antenatal diagnosis, followed by therapeutic abortion,
+if this is requested (it is not always). Perhaps later,
+as the normal function of the gene product is
+understood, we will be able to offer treatment rather
+than this unpleasant method of prevention.
+Not all genetic diseases are caused by single gene
+defects and a complex of genes interacting together,
+perhaps as many as five or six, can lead to, for
+example, a predisposition to breast cancer or coronary
+heart disease. Unless we have this gigantic picture of
+what normal genes look like in humans we cannot
+establish what the normal pattern of variation is within
+the genes, to decide which may contribute to the
+disease. The function and structure of perhaps 5% of
+our genes are partly understood. The rest of the genes
+are a complete mystery, of unknown structure, of
+unknown function and of unknown effect upon
+humans.
+After the sequence, what next?
+What happens when we achieve the goal and
+establish the sequence? The quick answer is that then
+the work really starts. How do we establish the
+function of a gene knowing only the sequence of
+amino acids it contains? In principal, the techniques
+of genetic engineering and molecular genetics allow
+these problems to be answered, but we quickly run
+into ethical problems. Genetics is carried out by the
+breeding of animals or plants together to examine the
+effects of a gene on the offspring. The idea of
+breeding humans is repugnant and ethically
+unacceptable, so how do we get round this problem?
+The obvious answer is to use another species and
+since we are ultimately interested in humans, it must
+be a vertebrate. The common house mouse is the
+preferred animal: rapid to breed, simple to keep and
+with a huge store of accumulated information about
+its genetics, development and structure. The
+sequence of all mouse genes is included in the Human
+Genome Project. Since mice have the same amount
+of DNA and about the same number of genes as
+humans, this doubles the size of the project's huge
+task. The genetics community is studying several
+other species with equal intensity as the human and
+the mouse, in particular the fruit fly, Drosophila
+melanogaster; the nematode worm, Caenorhabditis
+elegans, the yeast and the common gut-living bacteria
+E. coli. Fortunately, these organisms have less DNA
+than us-the fly and the worm 1 0 s
+bases, yeast
+4x107
+and E. coli 4x106
+.
+Sequencing DNA
+How will the project be done? Technically, we can
+sequence about 600 bases of DNA in one go and the
+normal way to sequence DNA is to break a small, say
+5000 base, gene randomly into 600 base fragments.
+Each of these fragments is then sequenced, choosing
+fragments at random. Computers are used to identify
+sequences which overlap or are the same, and it is
+a relatively simple operation to align lots of sequences
+of 600 bases to give one represenative sequence of
+the whole 5000 bases. It does mean many regions get
+sequenced several times-on average 4-5 and this
+may seem a labour intensive method as a
+consequence. It is not, because the process of DNA
+sequencing is automatable, but the process of
+identifying specific 600 base fragments to allow the
+\playing its part in. 25 YEARS AGO
+science
+5000 bases to be sequenced by about 9 unique 600
+base pieces, is not and is hugely labour intensive.
+Can we do the whole of human DNA like this? The
+computational problems alone would be tough, since
+3x109
+bases would require 5 million 600 base
+fragments, all sequenced 4-5 times. This is difficult
+but what makes it impossible is that some pieces of
+human DNA are found at more than one location in
+this chain-they are repeated. One class of this
+repeated DNA is about 350 bases long and present
+750,000 times. The computer, comparing 600 base
+sequences would have no way of knowing which of
+the repeats matched which and would get into a
+terrible mess.
+Some technical help is needed
+The way round this is to break the DNA into smaller
+pieces. First let us look at chromosomes: there are 46
+of these in humans, so we can analyse just one at a
+time. This is technically possible. The average
+chromosome is about 3x108
+which is a reasonable
+figure but still too large to sequence directly. So the
+next step is to make a 'map' of particular sorts of
+sequences along a chromosome, since this map lets
+us break the DNA into smaller regions. We can then
+construct sets of fragments of DNA each being about
+40,000 bases long and partially overlapping to cover
+the whole region. We can now sequence these
+40,000 base fragments by computerised analysis and
+since we know the precise relationship of 40,000
+adjacent fragments, we never need worry about the
+whole of the human DNA, just the fragments either
+side. This is technically tough, but again possible and
+is the work that my lab is most involved in. We know
+which fragments contain genes that we are already
+interested in, so we can overcome the problem that
+95% of DNA is not gene and to start with just the bits
+we know are interesting. Later we can do the rest and
+find totally new genes. That will be the real
+excitement!
+The future?
+We will need large computers and robots, to make
+sequences and handle DNA, and very careful work in
+our laboratories. The scale of the project will require
+international coordination, probably under the Human
+Genome Organisation (HUGO), a group of some 300
+leading figures in human genetics, myself included.
+The future course of the project is gradually becoming
+clear even though, as in any big money project,
+politics sometimes takes more time than actual work.
+If you want to see how this work is actually done, why
+not come and see my research team for yourself?
+The revolution has started and there was no
+explosion at the gates. That doesn't mean it is any
+less revolutionary.
+The determination of DNA sequence. Each
+band on this analysis represents a base.
+The sequence is read from the bottom
+going from band to band incrementally up
+the track. Each group of 4 represents all 4
+bases G, A, T and C, and there are about
+200 bases on this analysis. Human DNA
+would require about 10,000,000 similar
+pictures for a complete analysis.
+• Transistors have led to an incredible
+development in colour television. Developed by
+Japanese scientists, the portable set has a screen
+7)4" across and weighs 16lbs. Transistors were
+required for al! but the high voltage rectifiers and
+picture tube in order to pack the electronics into a 10"
+cube. Thanks to this, power consumption is kept
+down to 30 watts, one tenth of that normally needed.
+Another change is the use of one electron gun rather
+than three. The single gun presents red, blue and
+green colour information sequentially. The set,
+developed by the Yaou Electric Company of
+Kanagawa, is to be introduced to Japanese and
+American buyers shortly.
+• Lifts getting you down? The logistics of lifts;
+where they go, the number of stops they make and
+how many there are have always been within the
+domain of architects and engineers. But Miss Helen
+Parlow, a research assistant at Imperial, has just
+completed a study of these factors on traveller's
+waiting times. Most of the lift companies' work deals
+with offices, which only require the filling and
+emptying of the building in two half hours per day.
+Universities and hospitals have different needs, which
+has prompted interest in the report from the Ministry
+of Health.
+• 'Consort', the University of London's research
+and training reactor has been officially inaugurated
+at Imperial's field station at Silwood Park in Berkshire.
+It is water cooled and designed to run at 10OkW. This
+compares to the 10kW reactor originally envisaged.
+Working closely with Imperial, designers GEC-Simon
+Carves began about five years ago. The total cost is
+estimated to be about £100,000. It incorporates
+many research facilities, notably the large 'bare face'
+between the inner tube and concrete shielding.
+Access to the face is possible within 24 hours of a
+shutdown.
+Three years ago the University of London turned
+down an offer of a 'Merlin' reactor as a free gift from
+the AEI Company.
+• Concord, the supersonic airliner, is to carry a
+specially designed cosmic ray meter. The monitor,
+still in the experimental stage, has been developed by
+the Atomic Energy Authority. It will be capable of
+detecting all types of rays, including neutrons, present
+at the 12 mile level that Concord will be flying. Green,
+amber or red lights show depending on the dosage.
+Green is safe, amber is a warning light and red is
+dangerous. Action on a red light will be to descend
+to 9 miles where the density of the atmosphere should
+be enough to absorb any dangerous rays, although
+this will probably require a return to subsonic speed.
+• The Mathematical Association has published
+its report on the teaching of mechanics. It is
+intended as a guide for teachers, and insists that
+mechanics should be taught as part of a mathematics
+course rather than in science lessons. But it is feared
+that this approach may lead to too much abstraction
+and kill interest in the subject. Problems in the physical
+world cannot be ignored by students' learning
+methods in so-called 'applied mathematics' they say.
+The report deals with teaching to pre-university level.
+Page 79
+

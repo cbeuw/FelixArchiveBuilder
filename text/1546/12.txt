@@ -1,0 +1,214 @@
+Helter skelter helicenes
+Laurence Pope interviews Dr Fuchter, a synthetic and medicinal chemist at ICL
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 10 MAY
+12
+Dr Matthew Fuchter is a Senior
+Lecturer in Synthetic and Medicinal
+chemistry at Imperial College Lon-
+don. In close collaboration with Dr
+Alasdair Campbell from the depart-
+ment of Physics, Dr Fuchter and his re-
+search group have dedicated some of
+their research to OLEDs and a group
+of molecules known as helicenes.
+Laurence Pope: So what is an
+OLED? How do they diﬀer from
+regular LEDs?
+Dr Matthew Fuchter: OLED stands
+for organic light-emitting diode. They
+diﬀer from regular LEDs in that the lu-
+minescent material used within them
+is organic, i.e. carbon-based. This or-
+ganic material can be a molecule of
+low molecular weight, or a polymer.
+LP: Your work focuses partly on
+helicenes. What makes them so im-
+portant in OLED research?
+MF: My group’s research came from
+a molecular interest in this class of
+molecule. When we started this work
+helicenes hadn’t been explored in any
+depth as an OLED emissive material.
+There are already small molecules and
+polymers that have arisen from aca-
+demic and industrial research which
+produce light emitting devices with
+good eﬃciencies, wide colour pallets,
+long-lasting stability and so forth.
+We came from another angle, ex-
+ploring a feature of the helicene itself.
+Helicenes are thermally-stable poly-
+cyclic aromatics. Aromatic molecules
+are ﬂat, but if you start to fuse them
+together you get to a point where the
+polyfused system can’t lie ﬂat, as the
+rings start to bump into one another.
+That introduces a kink or a spiral into
+the molecule. Their electrons are still
+fully conjugated, but the molecule is
+no longer ﬂat.
+Why are they interesting? For devic-
+es, I see there to be two key interesting
+features.
+Because they’re not ﬂat, how they
+pack in the solid state is somewhat
+diﬀerent to common OLED materials,
+which are ﬂat. How molecules pack
+together in the solid state is important,
+with ramiﬁcations on light emission.
+But also, because helicenes are heli-
+cal, they’re also chiral, and can there-
+fore come in left- and right-handed
+forms. We were interested in how this
+chirality could potentially be exploited
+in organic devices.
+Putting these features together we
+wanted to explore the idea of using
+helicenes as the organic emissive ma-
+terial in OLEDs. It’s an interesting new
+class of molecule in their own right,
+but also have the potential to directly
+generate polarised light.
+Light can be polarised in certain
+ways. One form is circularly polarised
+(CP) light, where the light wave trav-
+erses as a helix, which also comes in
+left- and right-handed forms. Stand-
+ard OLEDs produce unpolarised light,
+which needs to be specially ﬁltered
+to generate CP light. We wondered
+whether you could use these chiral
+helicenes to generate a certain hand-
+edness of CP light.
+To cut a long story short we found
+we needed a mix of organic materials,
+blended with small amounts of either
+left- or right-handed helicenes with
+conventional, non-chiral material.
+These OLEDs were able to produce
+circularly polarised light using diﬀer-
+ent handed helicenes. It wasn’t 100%
+CP light, but rather enriched light.
+LP: How does the chirality of the
+helicene molecule control the chi-
+rality of the light?
+MF: We’re not sure why mechanisti-
+cally. Light emission is generated from
+the non-chiral polymer, not the heli-
+cene. It therefore looks like the heli-
+cene is interacting with the polymer
+in some way, most likely changing the
+conformation of the polymer to emit
+circularly polarised light. Almost cer-
+tainly the helicene is inﬂuencing the
+polymer structure, possibly organising
+it into a helical conformation.
+LP: So where is your research now
+heading?
+MF: There are a few diﬀerent direc-
+tions we’re heading in. One angle is
+more focused on commercial tech-
+nologies based on this, further vali-
+dating its eﬀect using other polymers
+and helicenes. How good can we get
+this? Can we fabricate OLEDs that can
+match up to state of the art devices
+whilst also generating CP-light? Can
+we tune the wavelength to emit more
+than just one colour of light? There are
+still a lot of unanswered questions!
+Academically, we want to further
+study what is happening, what the
+helicene is doing to the polymer. How
+does that relate to the eﬀect? Heli-
+cenes are fully conjugated molecules,
+which can carry charge and emit and
+absorb light on their own. Potentially
+you could further tune the helicene to
+improve the performance of the de-
+vice in terms of conductivity or light
+emission.
+Beyond that, OLEDs are one exam-
+ple of plastic electronics. This encom-
+passes a whole range of OLED devices,
+such as organic transistors, organic
+solar cells and so on. Do helicenes
+have applicability with other devices?
+Do they have any advantage, with their
+chiral property? Again, we still don’t
+know just yet.
+LP: Has much research been carried
+out with helicenes before?
+MF: There are some patents out there
+that claim novelty over the use of
+helicenes in OLEDs. None of them
+however have claimed the chirality
+of helicenes, as they use the racemic
+mixture, a mix of left- and right- hand-
+ed molecules. Their claims of novelty
+stem from the helicene’s thermal sta-
+bility properties.
+LP: What particular applications
+can you see arising from this re-
+search?
+MF: There are several potential appli-
+cations, some fairly immediate, oth-
+ers more long-term. One application
+of CP OLEDs is as the backlight of an
+LCD, leading to more energy eﬃcient
+displays.
+3D cinema relies on CP-light, split
+between your two eyes. In theory you
+could fabricate an OLED TV that uti-
+lises diﬀerent CP pixels to create a thin,
+fully ﬂexible 3D display with diﬀerent
+pixels emitting diﬀerent CP light.
+In photonics, the technology of
+light, there’s an interest in CP-light
+emitting and CP-light detecting de-
+vices. Optical communications is for
+me an interesting area, which relies on
+a light source being on or oﬀ to trans-
+fer information. Using an intercon-
+vertible CP-light source could double
+channel capacity, from just on and oﬀ
+to on, on-left, on-right and oﬀ.
+LP: How would you sum up the sig-
+niﬁcance of your research into heli-
+cene use in OLEDs?
+MF: The signiﬁcance for me lies in the
+novelty in what we’ve discovered. I
+would make two statements.
+We are the ﬁrst research group to
+show that a chiral small molecule do-
+pant can induce polymer OLEDs to
+directly emit CP light. This is the ﬁrst
+time it’s been shown that you can use
+dopants in this approach.
+This is also the ﬁrst study to use
+asymmetrically pure helicenes in this
+regard. There are very few papers fo-
+cusing on this asymmetrical mix.
+To read more about the Fuchter
+Group’s research visit imperial.ac.uk/
+fuchtergroup. For more information
+on Imperial’s Centre for Plastic Elec-
+tronics visit imperial.ac.uk/plastice-
+lectronics.
+Various graphical representations of helicene architecture. The aromatic
+rings begin to kink when they can no longer lie flat.
+imperial.ac.uk/fuchtergroup/research/tos
+Work by groups such as Dr Fuchter’s is part of the ongoing push to develop
+flexible plastic electronics.
+materialsgate.de
+PRYING APART AN OLED
+1) Cathode; 2) Organic emissive layer; 3) Radiation emission; 4) Organic conductive layer; 5) Anode. A voltage is applied
+across the OLED, creating an electric current (an electron flow) that flows from the cathode to the anode. Electrons are given
+to the emissive layer and removed from the conductive layer. Stripping electrons from the conductive layer creates holes that
+need filling with more electrons. These holes jump up to the emissive layer to recombine with electons. Upon recombination
+energy is released as a photon of light. The colour of the emitted light depends upon the material composing the emissive layer.
+

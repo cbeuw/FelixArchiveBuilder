@@ -1,0 +1,236 @@
+Need to clear your head?
+Philippa Skett on the new imaging technique that is sweaping labs nationwide
+D
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+The slimy world of Hagfish Haute Couture
+Science Writer
+FRIDAY 03 MAY
+10
+www.nature.com/news/see-through-brains-clarify-connections-1.12768
+o you ever ﬁnd your-
+self walking along the
+street, daydreaming
+away, and then sud-
+denly wonder what if
+people around you could hear what
+you were thinking? What if complete
+strangers could see into your head,
+listen to your thoughts and leave no
+stone of your conscience unturned?
+With the recent advances in tissue im-
+aging, your brain can now be as trans-
+parent as a gold ﬁsh bowl, but relax-
+your secrets will still remain safe for
+the foreseeable future.
+A new technique developed by a
+team in Stanford University in Amer-
+ica, known as CLARITY, holds the
+key to giving us the clearest insight
+yet into the structure of the brain. It is
+centred on the application of a deter-
+gent known as SDS to tissue to make
+both transparent and chemically per-
+meable. SDS removes lipid molecules
+that usually make tissue opaque by
+stopping light passing through, leav-
+ing tissues clearer than ever seen be-
+fore and ready for further treatment.
+With previous attempts at strip-
+ping away lipid molecules resulting in
+protein damage, CLARITY smoothly
+overcame this by also infusing the tis-
+sue with acrylamide, the same plastic
+used to make false nails. The acryla-
+mide is heated and is transformed into
+a type of brain scaﬀolding, holding
+all the important proteins and other
+biomolecules in place as the lipids are
+then stripped away.
+This leaves an immaculately trans-
+parent organ, which can be stained
+or treated with molecular markers
+to show diﬀerent cell types and their
+functions. Whole signalling pathways
+can be visually mapped – useful for
+identifying possible structural causes
+for neurological malfunctions.
+CLARITY is not suitable for living
+tissue but for deceased samples, and
+will be useful for preserving delicate
+specimens such as organs suﬀering
+from rare or particularly damaging
+diseases. Whole libraries of preserved
+brains could be made to display vari-
+ous progressions of neurodevelop-
+ment or model rare or incurable
+diseases. Instead of books you could
+borrow these transparent brains,
+study them then bring them back. As
+grisly as that may sound, it could in-
+ﬁnitely aid neurological research and
+bring us one step closer to ﬁguring out
+crucial cures for disorders.
+The brain has always been a mys-
+tery to humans both biologically and
+philosophically – although it was
+Descartes who identiﬁed thought as
+synonymous with existence with his
+famous quote “I think, therefore I am,”
+little else has been agreed on since.
+The translation between experience,
+memory storage, and recall is still
+not understood; computers may code
+their memory in binary digits but the
+brain’s coding of our thoughts is still
+a mystery. Until this crucial code is
+cracked, even the most intricate map
+of our mind on a cellular level will still
+not reveal those secrets we don’t want
+to share. We may be able to see the cir-
+cuit board, but we will still be unable
+to decipher the ﬁles.
+So unless the blueprint of our brain
+can be fully understood and not just
+mapped in a whirl of rainbow colours,
+those daydreams will still remain
+yours. Strangers in the street need not
+ever know just what you are think-
+ing, unless you are inclined to go up
+to them and tell them so yourself. No
+amount of transparent tissue is go-
+ing to change that – at least, not for
+a while yet.
+DOI :10.1038/496151a
+Clothes are important to anyone;
+whether you’re an avid fashionista or
+more of the practical sort, we all need
+clothes. However, the materials mak-
+ing up our clothes may be straying
+from the ordinary to the extraordinary
+in the not so distant future. The new
+source of the fabric for your brand
+new dress or coat could be swimming
+at the deep, dark depths of our ocean
+ﬂoor.
+The majority of the fabrics we rely
+on today are oil-based polymers,
+which basically means that the mate-
+rials are petroleum based. With our
+ever decreasing supplies of petroleum
+the demand for alternatives to these
+products is high... enter the hagﬁsh.
+Research led by Atsuko Negishi at
+the University of Guelph in Canada
+has suggested that hagﬁsh slime could
+be used to create a super stretchy, ly-
+cra-like fabric.
+The team managed to collect this
+slime from the hagﬁsh and realised
+that it could be treated and then spun
+into threads much like silk.
+This does seem a bit odd and grue-
+some, but it really is very logical to put
+these materials that nature provides to
+good use.
+Hagﬁsh are ancient, bottom-dwell-
+Lucy Hagger
+ing animals that have been around for
+over 300 million years. If you’ve done
+some evolutionary biology in your
+time, you should deﬁnitely remem-
+ber these weird and slimey creatures.
+It has been known for some time that
+when these strange, eel-like animals
+are approached or attacked they re-
+lease copious amounts of sticky slime
+as a deterrent.
+The slime contains mucous and
+huge amounts of certain protein ﬁbers
+belonging to the family intermediate
+ﬁlaments. These ﬁlaments are great
+for making fabrics as they can be de-
+formed and stretched to shapes and
+sizes very diﬀerent to their original
+form.
+But don’t go rushing out to the near-
+est high street for the latest fashion in
+hagﬁsh slime. The researchers aren’t
+quite ready to produce full on items
+of clothing, but they intend to pursue
+this concept further to hopefully cre-
+ate the basis for more environmentally
+friendly fabrics of the future.
+Images taken of neurons within the brain
+using the CLARITY technique
+Would you trust a robot to operate on
+your brain? Why not? Robotic neuro-
+surgery can provide a less painful, less
+dangerous and less invasive alterna-
+tive to traditional open methods.
+Under the guidance of Professor
+Lord Darzi and Professor Yang at the
+Hamlyn Centre for Robotic Surgery
+here at Imperial College London, aca-
+demics are pioneering a truly revolu-
+tionary approach to neurosurgery us-
+ing keyhole techniques.
+Keyhole surgery is performed
+through unconventionally small inci-
+sions using a light source, a camera
+and a television monitor and is at
+the moment used to carry out surgi-
+cal procedures in the abdomen or the
+pelvis.
+However, Imperial academics have
+recognised the potential for this con-
+cept to be applied to the brain, and are
+in the midst of developing a robotic
+platform for keyhole neurosurgery.
+This approach is extremely promising,
+with advantages including reducing
+the length of the incision, reducing
+the size of the bone ﬂap and reducing
+exposure and manipulation of healthy
+brain tissue.
+The ultimate goal of the robotic
+platform is to “integrate advances in
+endoscopy, image guidance and ar-
+ticulated instruments to enhance the
+feasibility, safety and eﬀectiveness of
+operations”, says Hani Marcus, a Clini-
+cal Fellow in the Hamlyn Centre.
+The use of robots to perform sur-
+gery has its roots in the use of a modi-
+ﬁed Puma 560 industrial robot in 1985
+to guide a brain biopsy.
+More recently the da Vinci robot, a
+telesurgical system whereby the sur-
+geon remotely controls the robots ac-
+tions, has allowed surgeons to perform
+operations that were previously con-
+sidered too diﬃcult to safely perform
+through keyhole approaches, such as
+the treatment of prostate cancer.
+Other developments include the i-
+snake, a snake-like device which can
+wiggle its way through to inaccessible
+areas and Acrobot's robot for hip re-
+placement surgery.
+Dr Brittain of the UK Medicines and
+Healthcare Products Regulatory Au-
+thority says "it is inevitable that within
+the next 10 years, we won't be putting
+the surgeons hand in a patient’s body
+anymore." Are intelligent robotics re-
+ally the future for surgery?
+Intelligent Robots to take
+over the operating theatre?
+Science Writer
+Sophie Shina
+http://bouncingideas.wordpress.com
+Alternatively, you could just
+wear this guy as a scarf
+

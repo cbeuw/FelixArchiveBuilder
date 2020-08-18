@@ -1,0 +1,298 @@
+10
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+felix FRIDAY 28 MAY 2010
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+Carla Mulas critically analyses the landmark research that has
+polarised opinion betwen academics and ruffled the media
+$600M
+The value of the collaboration
+between ExxonMobil and Synthetic
+Genomics, the company founded by
+Craig Venter
+‘Artificial cell’ arrives
+T
+he headline “Craig Venter
+creates artificial life” could
+be seen in virtually every
+newspaper and magazine,
+from the tabloid rag of
+The Sun through to the esteemed Sci-
+ence. Well, you have to give it to them;
+the title is catchy and certainly opens
+the doors to much media-loved bick-
+ering between discerning parties. But
+what is this buzz all about?
+To explain: Cells are the basic units
+of life and DNA is essentially their
+software. This fairly simple molecule
+contains a code in the form of four
+chemical bases that the cell decodes
+to synthesise proteins and enzymes,
+which in turn regulate cell behaviour.
+Easy.
+What Venter’s team did was to take
+small fragments of this DNA, identical
+to ‘natural’ DNA but synthesised by a
+machine, and paste them in increasing-
+ly big fragments. The final product was
+a slightly modified copy of the genome
+of a bacterium (the donor), which they
+inserted into a close relative bacterium
+(the host). The modified host showed
+the same characteristics as the donor,
+showing that DNA really controls cell
+identity (… surprise?).
+While some claim that Venter is
+playing God, it seems to me that he is
+a mere counterfeiter, simply trying to
+photocopy an incredible painting. The
+true achievement of this work is in the
+practical realisation of the task, which
+expected. We now have a slightly dif-
+ferent picture of how life at its basics
+works. It is not a simple chain that
+links DNA to protein, and conse-
+quently protein to function, but rath-
+er, it is a very complex network with
+many branching points, loops and
+interconnections.
+This is a problem at two levels. First
+of all, we have not yet mastered the art
+of creating new proteins because we
+are missing some of the information
+around a bit.
+This highly laborious technique,
+whilst providing an alternative to tra-
+ditional methods in which we sim-
+ply deleted or added genes, has the
+potential to become a valuable tool
+for things such as the production of
+medicines and the treatment of pol-
+lutants, and it has helped develop the
+field of ‘Synthetic Biology’. At present
+however, we seem to be incredibly far
+from being able to “design” a cell from
+scratch. This poses the question; why
+not use the well-designed and nature-
+tested models that we presently have
+as a scaffold? “It will eventually come
+in useful” appears to be the only pos-
+sible answer at present, even though
+it is hard to imagine the supporters of
+the $40m funding being happy enough
+with that...
+Whilst some people are concerned
+with the risk of this method being
+used to manufacture new biochemi-
+cal weapons, in light of what has been
+described above, it does not appear as
+though we are in more danger than we
+ever were before. After all, who would
+choose a new, more expensive, more
+complicated and troublesome tech-
+nique when current techniques are
+more than sufficient?
+Craig Venter’s work is revolutionary
+in the sense that now we can play with
+even bigger DNA fragments, and that
+the synthesised DNA appears to be as
+good as the ‘natural’ DNA. The crea-
+tion of new methods is always a pre-
+requisite for their optimisation and
+further developments, thus leading to
+lower costs, and so making them more
+widely available.
+However, in this case it looks like the
+progress of the “artificial cell” will not
+be limited by the improvement of tech-
+niques, but rather by the increased un-
+derstanding in the field of biology and
+biochemistry which requires much
+more effort.
+Without an understanding of the
+network DNA-protein-function, we
+are simply going to keep photocopying
+paintings.
+E
+very now and again there’s a
+piece of news that just leaves
+you stood wondering in
+amazement. Something that
+within one fell swoop can lift you to
+another realm of conciousness and
+totally transform your viewpoint in a
+positive manner. Dr Venter would like
+his creation of the ‘artificial cell’ to be
+one of these moments in time. Howev-
+er, it quite simply is not. Just forget it.
+The research published in Science
+last week titled “Creation of a Bacte-
+rial Cell Controlled by a Chemically
+Synthesized Genome” is a fine piece
+of work. As Carla explains, it is a feat
+of technical brilliance to be able to im-
+plant chemically synthesised DNA into
+an existing ‘shell’ of a cell (i.e. all the
+components of the cell including the
+organelles and enzymes) that has had
+its DNA removed and to then ‘re-boot’
+the system using this implanted DNA.
+It is a technical breakthrough, but then
+so too is a lot of the research coming
+out of research institutions every week.
+Creating life can surely only be a
+claim made legitimately once the en-
+tire cell and its components are synthe-
+sised from scratch using a man-made
+DNA construct? Rather than having a
+load of the hard work already done for
+you? This idea is a remote possibility
+and is something a million miles away
+What’s all this
+about then?
+NathanLey
+NathanLey Science Editor
+scaremongering, hyperbolic article
+alongside an interview with our very
+own Lord Robert Winston, who very
+gently and calmly put us all back in our
+place.
+So, in simple terms, the research
+itself is nothing to worry about, and
+neither are the possibilites and likely
+applications that eventually come out
+of it. What is more disturbing is some-
+thing else slightly more hidden.
+This week Prof John Sulston (a Nobel
+Prize winner for his work mapping the
+human genome, so you might expect
+him to know what he’s talking about)
+gave a slightly more cynical view on
+the issue, claiming that Craig Venter
+was seeking to create a monopoly with
+genetic engineering techniques. He
+made his claims on BBC Radio 4 whilst
+dismissing the research as nothing
+more than a “pretty little experiment”
+stating that “they are using this experi-
+ment to claim an enormous range of
+possibilities which really would give
+them control of all bioengineering in
+the future”. He continued: “it seems to
+me that this is exactly the sort of thing
+that we don’t want the patent system
+to do”.
+These are worries shared amongst
+the wider scientific community, but
+it is both easy and difficult to be too
+skeptic. On the one hand, we have a
+chauvanistic individual who clearly
+knows how to play the media, and
+who may partake in slightly dubious
+collaborations with cloudy motives (a
+$600M deal wth ExxonMobil having
+recently been announced). But on the
+other hand, this is the same individual
+who brought us shotgun sequencing
+and the completion of the human ge-
+nome project.
+The motivations of his research
+notably include the possibilities that
+work could be put towards advanced
+biofuels, new vaccines and medicines.
+These are wholesome and worthy
+aims to have, and so on the surface
+given his achievements to date thus far
+along with the power at his command,
+Craig Venter is clearly an important
+individual.
+As humans we are, generally speak-
+ing, all for innovation and creativity,
+especially in the name of discovery.
+But so too should we be for regula-
+tion and control over the bodies and
+individuals that oversee the important
+work on some of the most pressing is-
+sues society faces today.
+“These are worries
+shared amongst
+the scientific
+community, but it
+is both easy and
+difficult to be too
+skeptic”
+Scanning electron micrograph of M. mycoides JCVI-syn1
+probably took the word “trouble-
+shooting” to a whole new level. This
+project, started more than 10 years ago
+with a reported cost of $40m, has been
+termed by some as a “scientific land-
+mark”. But is it really? At first sight,
+there are already quite a few problems;
+to understand why, we need to go back
+a few years.
+When the race for the Genome Se-
+quences started, we had the hope that,
+upon its completion, we would liter-
+ally unlock the secret to life. While it
+became an incredibly useful tool, the
+results were not as self-explanatory as
+on how the sequence of a protein leads
+to a particular function (i.e. from the
+sequence of the protein alone we can
+deduce very little and we are missing
+the sequence-function relationship).
+Secondly, we can only try to under-
+stand the end product, i.e. a living cell,
+by examining the network or the inter-
+actions at the protein level, something
+which takes time, and which we are
+still working towards.
+This means that at present we can-
+not “write” a new code that will create
+a new cell but we can simply play with
+what Nature has given us, tweaking
+Dr Craig Venter, leader of the team to create the ‘artificial cell’
+from the stage we are currently at, and
+consequently unthinkable at this mo-
+ment in time.
+The standard mainstream reaction
+towards this research has been driven
+by the apparent fear that soon, this line
+of enquiry and technical expertise will
+make it possible for scientists to create
+fully fledged organismal life and com-
+mit acts tantamount to the ‘work of
+God’.
+Now, I’ve already aired my irrita-
+tion about the usage of the phrase ‘act
+of God’ relating to insurance claims,
+and it should come as no suprise that
+all this discussion of ‘playing God’ is
+equally as unappealing to me. Will
+we ever reach a point in time where
+tabloids and news outlets can report
+on stories without resorting to such
+tasteless tactics? Nevermind that the
+concept of a ‘God’ is very much open
+for debate. Credit where credit is due
+though, The Sun ran their standard
+

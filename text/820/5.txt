@@ -1,0 +1,198 @@
+IN THE
+British Airways' latest 150-seat
+airliner, which entered service at the
+end of April, promises to improve
+air safety by taking advantage of
+recent developments in electronics
+technology.
+About 75% of all air transport
+accidents have pilot error as a
+significant contributory factor.
+Computers aboard the Airbus
+Industrie A320 reduce the likelihood
+of errors being made by reducing
+pilot workload, and also by
+physically preventing him from
+exceeding the limits of the
+Any one of four
+computers can fly the
+plane
+aeroplane.
+Externally, the A320 looks
+deceptively ordinary. But the use of
+digital computers to control the
+plane and monitor the multitude of
+systems on board makes it, in its
+own quiet way, as revolutionary as
+Concorde was in the 1970's.
+Passengers invited to see the flight
+deck could be forgiven for thinking
+that they had mistakenly stumbled
+across an in-flight amusement
+arcade. Gone are the thousands of
+dials and switches which
+characterised previous generations
+of airliner cockpit. In their place lie
+six multi-colour cathode ray tubes-
+seven inch square TV screens
+which, instead of displaying the
+latest space invader game, provide
+the pilot with his speed, height and
+heading information.
+Behind the instrument panel
+computers are at work, ensuring
+that information is presented to the
+pilot in the most efficient way
+possible. The improved ergonomics
+reduce crew workload significantly,
+thereby contributing to the saftey of
+the aircraft and its on-time arrival
+and departure. Besides flying the
+plane, the crew needs to monitor or
+control engines, fuel, hydraulics,
+air-conditioning, electrics,
+pneumatics, auxiliary power, and
+several types of radio and
+navigation equipment. While the
+pilot was once expected to do many
+of these jobs at once, he can now
+concentrate on the most important
+tasks and let computers monitor
+other things. The passenger can be
+reassured that the plane is
+constantly checking itself; the A320
+makes certain that no checklist item
+can be overlooked—which in the
+past has so often been the cause of
+disaster.
+A central warning system alerts
+the crew to the onset of
+emergencies, and even displays the
+procedure necessary to safely rectify
+the fault. The pilot will be warned
+if his fuel is too low, if an engine is
+not running healthily, if he has
+forgotten to lower the
+undercarriage, and so on. Built-in
+test equipment aboard the A320
+provides 95% probability of tracing
+a fault to a single component, which
+can easily and quickly be replaced
+as soon as the aircraft has landed.
+A further striking feature of the
+flight deck is the absence of the
+pilot's conventional control column.
+Instead, the pilot is provided with
+a miniature sidestick, reminiscent of
+the few visible clues that computers
+also play a key role in helping the
+pilot control the aeroplane.
+The A320 is the first airliner to be
+fully equipped with computer
+driven 'fly-by-wire' (FBW) controls.
+Dnlike conventional aircraft, the
+pilot is not linked to the plane's
+control surfaces by a mechanical rod
+and cable system. Instead the pilot's
+demands are converted into an
+electical signal; this passes via a
+computer to an actuator, which
+moves control surfaces on the wings
+and tail.
+By moving the sidestick, the pilot
+is effectively telling the aeroplane
+where he wants to go. A powerful
+computer, performing 3 million
+operations per second, arranges for
+the plane to move in this direction
+by deflecting the appropriate control
+surfaces. If necessary, the computer
+may modify the aircraft's response
+to prevent it from performing
+potentially dangerous manoeuvres.
+This system is invaluable in an
+emergency situation, such as a near
+miss, when A320 pilots can apply
+full sidestick deflection instantly,
+obtaining the maximum response of
+the aircraft, without fear of stalling,
+or physically damaging the airframe
+by manoeuvring too violently.
+The A320, like most modern
+airliners, is equipped with an
+'autopilot', which automatically flies
+the plane along a set route, and is
+usually only engaged during cruise.
+In contrast, the FBW system is
+designed to assist the pilot during
+Science
+critical phases of flight, such as take-
+off and landing, when an autopilot
+could not match the ability of a
+human pilot to cope with the
+unexpected.
+With computers performing such
+important functions, designers have
+had to ensure that component
+failures or programming faults could
+not result in catastrophe. The A320
+features five man FBW computers,
+and any one of four of these is
+It is as revolutionary
+as Concorde in the
+1970's
+capable of flying the aircraft
+perfectly safely on its own. These
+computers are of two different
+types, programmed by different
+companies working independently
+from each other, to minimise the
+risk of software faults affecting more
+than one computer. Protection
+against faults is such that the aircraft
+can be dispatched with a failed
+computer, go on to suffer other FBW
+computer failures inflight,and still
+remain completely and safetly under
+the control of its pilots. A
+mechanical back-up system protects
+the aircraft from the consequences
+of complete electrical failure.
+Improved safety is only one of the
+benefits of FBW. Civil airliners must
+be specially strengthened to cope
+with every eventuality, such as
+extreme stresses arising from rare
+violent gusts and turbulence in
+storms. This insurance places large
+weight penalties on aircraft
+throughout their service life.
+Thanks to sensors linked to the
+FBW computers, the A320 can
+detect conditions of severe
+turbulence, and automatically
+deflects the control surfaces to
+counteract the 'stomach-churning'
+sensation of a sudden up-gust. As
+well as improving passenger
+comfort in rough weather, the
+reduction of loads imposed upon
+the airframe enables substantial
+weight savings to be made, allowing
+more passengers and cargo to be
+carried whilst consuming no more
+fuel.
+The benefits of using such
+advanced technology have not gone
+unnoticed. With nearly 500
+commitments from 20 airlines, the
+A320 is selling faster than any
+airliner in history. The European
+manufacturing consortium, in
+which British Aerospace has a 20%
+stake, are justifiably confident that
+their latest product can threaten
+American dominance of the 150-seat
+airliner market.
+Page FELIX December 2 1988
+

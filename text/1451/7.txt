@@ -1,0 +1,324 @@
+felix
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+7
+FRIDAY 29 JANUARY 2010
+Reversing the arrow of time
+In
+brief
+Climate panel
+credibility in question
+The head of the Internation-
+al Panel for Climate Change
+(IPCC), Prajendra Pachauri,
+has told critics he does not
+intend to step down follow-
+ing a mistake made in the
+fourth annual IPCC report
+released in 2007.
+The error which sparked
+the row is the date of 2035 being set in the report as the
+milestone for when the Himalayan glaicers could have disap-
+peared. In an interview with the BBC he stressed that despite
+the data in the report being questionable, it “does not detract
+from the fact that the glaciers are melting.” This news comes
+at a time when the credibility of climate science is still uncer-
+tain following the leaked emails from the UEA Climate Unit
+late last year.
+Arjun Hassard
+Arjun Hassard
+This may end up in the bullshit grave-
+yard of sensationalist physics specula-
+tion, but seemingly impossible occur-
+rences – such as a shattered pane of
+glass returning instantaneously to its
+original form, a Latte separating back
+into pure coffee and milk, or Megan
+Fox replying to my emails – are not as
+conceptually absurd as they may ap-
+pear at first glance.
+Take the Starbucks Skinny Cinnamon
+Dolce Latte for example. Intuition tells
+us that once you have mixed the key in-
+gredients of coffee, milk, cinnamon and
+pretentiousness, you can never recover
+them in their pure form. Yet the laws of
+physics that we worship and occasion-
+ally tattoo on ourselves are for the most
+part ‘time-invariant’ – in lay-douche
+terms, that means they work just as well
+going forwards and backwards in time.
+They are fundamentally symmetrical
+equations. So why can’t the chav un-
+break a library window and un-verdict
+himself an ASBO?
+The reason is that in the real world
+(i.e. the one where Mr T is not allowed
+to randomly murder warlocks) – the
+majority of physical processes are ‘ir-
+reversible’. This is governed by the
+super-exciting ‘Second Law of Thermo-
+dynamics’
+, which states that the change
+in entropy of a system is always posi-
+tive. The entropy of a physical system
+is its extent of disarray, essentially the
+number of ways in which the system
+can be arranged. Windows can be shat-
+tered, which increases disorder, but
+will never spontaneously un-shatter.
+Gases disperse naturally (especially in
+crowded elevators), but will not spon-
+taneously compress themselves. There-
+fore the ‘entropy of the universe’ always
+increases. (Disclaimer: for every macro-
+scopic system there IS a finite possibili-
+ty that the entropy can decrease, but the
+probability of this happening is so small
+that it is unlikely to have occurred once
+since the beginning of the universe.
+Even if you had a million baboons con-
+ducting thermodynamics experiments
+all day since the dawn of time. No toilet
+breaks. I’m serious.)
+So what this clown Lorenzo Maccone
+reckons is that counter-intuitive de-
+creases in entropy happen all the time,
+the snag is that we just fail to remember
+them! Before you sigh and flick to the
+centre page (I’ve seen it already and I can
+quite sincerely say unless you are bulim-
+ic it’s not worth it), Maccone claims his
+findings do not violate any laws of quan-
+tum physics. Plus he went to MIT, so he
+can’t be a complete head case (MIT is
+almost as good as Imperial right?).
+His argument is based on the premise
+that according to quantum mechanics,
+if anyone does observe an entropy-
+decreasing event, their memories of
+the event “will be erased by necessity”.
+Your memories will form and then
+be subsequently erased. Witnessing
+a system or process means you enter
+into a “quantum entanglement” with
+it (there’s scope for yet another dorky
+chat-up line here). In other words, you
+and the system are entangled and can-
+not truly be described independently.
+The entanglement, according to our
+amico Lorenzo, is between your mem-
+ory and the system. The crucial step is
+the removal of this entanglement, and
+“the disentangling operation will erase
+this entanglement, namely the observ-
+er’s memory”.
+This all sounds a bit like something
+Morpheus would say to Neo, before
+re-adjusting his ridiculous specs and
+scratching his ass. Nevertheless the
+thought experiment Maccone uses to
+elucidate his idea is fairly easy to under-
+stand (Medics...don’t worry about it):
+‘An experimenter, Alice, measures
+the spin state of an atom sent by her
+friend Bob, who is otherwise isolated
+from Alice’s laboratory. The atom is
+in a combined state (superposition)
+of spin-up and spin-down until Alice
+measures it as either up or down.
+From Alice’s perspective, her lab gains
+a single bit of information from outside,
+and it’s then copied and recorded in her
+memory and on her computer’s hard
+drive. That information flow from atom
+to lab increases entropy, according to
+Alice. Because Bob doesn’t see the re-
+sult, from his perspective the spin state
+of the atom never resolves itself into up
+or down. Instead it becomes quantum
+mechanically correlated, or “entangled,”
+with the quantum state of the lab. He
+sees no information flow and no change
+in entropy.
+Bob has total control of the quantum
+state of her lab. To reduce the entropy
+of the lab from Alice’s point-of-view,
+Bob reverses the flow of that one bit of
+information by removing any record of
+the atom’s spin from Alice’s hard drive
+and her brain. He does so by perform-
+ing a complicated transformation that
+disentangles the lab’s quantum state
+from that of the atom.
+From Bob’s perspective, the quan-
+tum information of the atom plus Al-
+ice’s lab is the same whether or not the
+two are entangled – there is no change
+in entropy as viewed from the outside.
+Such reversals could happen in real life
+but because the Universe – like Alice –
+would retain no memory of them, they
+would have no effect on how we per-
+ceive the world.’
+You might say that since this thought
+experiment is attempting to portray
+Maccone’s ideas as viable in the real
+world, he’s is doing himself no favours
+by pretending one of the physicists is
+actually a girl. Alice? More like Alan.
+Either way, my opinion is that his logic
+seems to hold. Whether it applies to our
+universe is incontestably another ques-
+tion altogether. But, like a cup of coffee
+getting cold while you argue with the
+Library cafe staff about the necessity
+of a tray, or a pint glass shattering into
+hundreds of pieces due to reasons un-
+related to Snakebite, it would be ‘sick-
+mansick’ if these things did happen in
+reverse. And memories of events being
+erased by necessity, especially if that
+event is Sports night, is something you
+are all familiar with.
+Bioterrorism
+and Botox
+NathanLey
+NathanLey Science Editor
+I
+t’s pretty much February now
+so understandably you may be
+reading this whilst depressed
+and/or fed up with life, espe-
+cially in light of how much
+work you claim to have to do. But
+you should see it as a positive thing.
+It's not unfair to say that the times
+where the going gets tough define
+our character. England cricket players
+don't have their greatness measured
+by how many test match double cen-
+turies they pile up on a concrete road
+against Bangladesh, nor is a football
+team’s success for the year determined
+by how far they go in a domestic cup
+competition. Nope, nothing good
+ever came easily. So get your head
+down, stick at it, and don't give up. If
+you do bottle it, it says a lot about you.
+Anyway that was just a point I wanted
+to get across.
+Topically speaking, "Bioterrorism"
+was an official line spouted by gov-
+ernments for a fair while, although
+it has died down recently (in light of,
+you know, nuclear stuff). This is the
+threat that we may all die at any given
+moment as a result of terrorists using
+germs or other biomaterial as weap-
+ons of mass destruction. To this day
+no such thing has quite materialised.
+2001 brought the US anthrax attacks,
+wherein letters containing anthrax
+spores were sent to various news of-
+fices, killing 5 people. But even this
+is considered by many to have been
+nothing other than an inside job, rath-
+er than the work of a terrorist threat.
+This week, however, New Scientist
+reported on a new threat from none
+other than our favourite facial en-
+hancer – Botox. It stands for the Botu-
+linum toxin produced by Clostridium
+bacteria, and it is the most poisonous
+known natural substance. It paralyses
+muscles, and can kill you in minute
+quantities (80 mg). If carefully regulat-
+ed between a few licensed companies
+it doesn’t pose a threat to our safety,
+but a cheap unlicensed version has al-
+legedly been produced in Chechnya,
+an area frequently associated with
+Muslim extremism. Put two and two
+together, and we have the next epi-
+sode in the story of “Bioterror”.
+In a tenuous but not totally unre-
+lated link to this, the news came last
+week that Heidi Montag recently un-
+derwent 10 plastic surgery treatments
+(including botox) within one day, at
+the age of 23. On the one hand we
+have here a sad story about an Ameri-
+can celebrity that is totally insignifi-
+cant; on the other we have a remark-
+ably dangerous precedent. Consider
+not only the irreparable damage to
+her young body that she's inflicted,
+but also the knock-on mental and so-
+cial effects. You think she'll be happy
+with these looks forever? Not likely.
+It is just the thin end of the wedge, a
+wedge which commits her to a life-
+time of regular cosmetic alterations.
+The worst thing is that as these
+things occur more frequently, they’ll
+become seen as more acceptable,
+and will be catered for by a more ac-
+cessible industry. How long until we
+reach a stage where it will no longer
+matter if you are born with something
+you don’t like, because you can just
+change it with a commercially avail-
+able product? Before you dismiss
+this idea, you cannot say that socie-
+ties don’t change and embrace liberal
+ideas. You only need to look at the
+change in public opinion on topics
+such as abortion, homosexuality and
+the voting rights of women. Unlike in
+these cases though, change will not
+be for the better. These are worrying
+times for society, on one front more
+so than on the other.
+Ambidexterity linked
+to hyperactivity
+In a talk entitled “The de-
+tection of extra-terrestrial
+life and the consequences
+for science and society”, Dr
+Frank Drake has warned
+that our technological de-
+velopment may hinder our
+progress to find extra-ter-
+restrial life. During the ana-
+logue TV age, transmitters surrounded the Earth with a 50
+light-year-wide ‘shell’ of radiation. The digital signals used to
+transmit information now would be virtually indistinguish-
+able from background level radiation.
+Dr Drake of “Drake Equation” fame believes that there
+could be up to 10,000 detectable civilisations within our
+galaxy. However, 50 years of scanning the skies has failed to
+confirm their existence.
+Hidden by the digital
+revolution
+A new study at Imperial Col-
+lege London has revealed that
+ambidextrous children are
+twice as likely to be hyperac-
+tive and struggle at school.
+Dr Alina Rodreguez, who
+led the investigation, said that
+“differencesinthebrainmight
+explain these difficulties, but
+there needs to be more re-
+search.” Not only were the ambidextrous children found to be
+more prone to learning difficulties such as ADHD, but the se-
+verity of any such condition was increased amongst this group.
+Dr Rodriguez stressed however that the results “should not
+be taken to mean that all children who are mixed-handed will
+have problems at school.”
+Forgotten what happened last night? Now you know why
+

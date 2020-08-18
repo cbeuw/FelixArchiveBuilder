@@ -1,0 +1,398 @@
+By Amadeus Stevenson
+Physics department
+Hacking is a widely misunder-
+stood term used by the media
+to refer to the act of breaking
+into other people’s systems
+and generally doing stuff you
+should not. Hacking is in fact
+the art of skilful programming.
+Cracking is the profane act of
+breaking into computer sys-
+tems. We are going to look at
+the most common methods to
+break into a system, and what
+you can do to prevent it from
+happening to you.
+The most easily preventable
+approach to gaining access
+to a system involves crack-
+ing your passwords, whether
+done manually with a “dic-
+tionary attack” which tries a
+long list of possible passwords
+(like your favourite pastime,
+girlfriend’s birthday etc) or a
+‘brute force attack’ where the
+program tries every possible
+combination of characters,
+like turning the wheel of a safe
+and trying every number com-
+bination until it opens. With
+the wonders of modern com-
+puting, however, your average
+cracker could write a small
+program or script to do this
+while he or she is watching a
+week’s worth of Eastenders
+episodes.
+More advanced crackers
+could use a technique called
+packet sniffing (electronic
+eavesdropping) to ascertain
+your passwords and personal
+information while you are
+using the internet via compro-
+mised systems. Then there
+are so-called ‘script kiddies’,
+untalented malicious individu-
+als who would readily install
+a small program such as a
+Trojan horse or a key-logger
+onto your computer, to capture
+your passwords as you enter
+them, or apply an exploit to a
+bug in your computer’s soft-
+ware. These are all things you
+should be aware of, without
+needing to have a complete
+mastery of them. Sometimes
+these techniques can come in
+useful for legitimate purposes,
+ie on your own systems if you
+forget a password.
+So, what can you do to
+protect your computer from
+crackers?
+1. Use a password. It is
+amazing that so many people
+are capable of pressing the
+“on” button on your laptop to
+gainmiraculousaccesstoyour
+entire collection of Friends
+episodes, or more seriously,
+your emails or college papers.
+If you have a laptop or a desk-
+top, you can set a BIOS pass-
+word on top of your operat-
+ing system password, which
+is required to simply boot the
+machine, so attempts to crack
+your operating system pass-
+word would first need to get
+past your BIOS password. The
+administrative password on a
+Windows XP machine is weak
+for the determined cracker: it
+can be easily reset as long as
+the machine has a floppy drive
+and an on/off button. A BIOS
+password is far less straight-
+forward to bypass, and you
+need that to start the machine
+up in the first place. Just
+make sure you do not forget
+it. And as we have seen from
+the different password crack-
+ing methods above, choose
+a good password that’s not
+easily guessable! Some simple
+maths will show that:
+A lowercase password of
+6 letters gives 266
+= 3.09x108
+possibilities, but a mixed (low-
+ercase, uppercase, numbers)
+password of 8 characters
+gives 628
+= 2.18x1014
+possibili-
+ties – so if you use uper/lower
+cases and numbers you stand
+a 7000% better chance of pro-
+tecting your computer.
+If you are the only one using
+your computer, try not to use
+the default administrator
+account to log in. Your safest
+bet is to set an administrator
+password, then add a normal
+user account (with a pass-
+word) which you would use
+for writing documents, emails
+etc. This would limit the dam-
+age possible from a program
+being run without your knowl-
+edge as, without the adminis-
+trative access, it would not be
+able to do much harm.
+2. Lock your post when you
+are away from the computer
+for five minutes and there are
+other people in the room. In
+Windows XP
+, you can press
+ctrl-alt-del and “Lock com-
+puter” to do this. This has
+the effect of stopping poten-
+tial misfits using the machine
+until they or you type your
+password in to ‘unlock’ it. If
+you don’t have this option you
+will need to enable the “secure
+logon” feature (Control Panel
+–> Users).
+3. Keep your operating sys-
+tem updated. If you are a
+Microsoft Windows user, you
+can easily update your com-
+puter (visit http://windowsup-
+date.microsoft.com) to make
+sure your computer isn’t rid-
+dled with security holes which
+appear over time. Automatic
+updates are a good idea. The
+same applies for other operat-
+ing systems.
+As we will see next week,
+these holes are easily exploit-
+able and pose a significant
+risk for your computer to
+get infected with spyware,
+adware, viruses and Trojans.
+www.felixonline.co.uk
+Felix
+Thursday 28 October 2004
+SCIENCE science.felix@ic.ac.uk
+5
+“...the program tries
+every possible combi-
+nation of characters,
+like turning the wheel
+of a safe and trying
+every combination”
+News
+in brief
+By Alex Antonov
+Mathematics department
+Duma ratifies Kyoto
+Russia’s lower house of parlia-
+ment ratified the Kyoto Proto-
+col last Friday, making the pact
+internationally binding at last.
+To come into force, the proto-
+col had to be ratified by coun-
+tries accounting for at least
+half of the developed nations’
+greenhouse emissions. This
+was much-needed support af-
+ter the US, the world’s biggest
+polluter, pulled out in 2001.
+UN cloning treaty
+on hold
+Despite renewed pressure
+from the Bush administration
+to sign a global treaty banning
+all forms of human cloning,
+nothing will be decided before
+the US elections next week.
+The UN’s 191 member nations
+remain divided on the issue
+of cloning human embryos
+for stem cell research, with
+a group of 63 – led by the US
+– opposing such “therapeutic”
+uses.
+One-atom-thick
+material discovered
+The new material, called
+graphene, part of the fullerene
+molecule family, is a two-di-
+mensional flat molecule with
+remarkable electronic, me-
+chanical and chemical proper-
+ties. Its applications include
+the production of ultra-fast and
+stable transistors. The discov-
+ery brings the idea of ballistic
+transistors – where electrons
+can travel without collisions
+– closer.
+Satellites prove
+space-time twists
+Scientists have made direct
+measurements that show the
+Earth is twisting the fabric of
+space-time as it rotates, also
+known as frame-dragging.
+These results are reported as
+the first to prove an important
+aspect of the General Theory of
+Relativity. The measurements
+show that the satellites’ orbits
+warped in a manner consistent
+with Einstein’s predictions.
+Court rules that
+whales and dolphins
+cannot sue Bush
+A three-judge panel of the US
+9th Circuit Court of Appeals
+in San Francisco, widely con-
+sidered one of the most liberal
+and activist in the country, said
+it saw no reason why animals
+should not be allowed to sue
+but said they had not yet been
+granted that right. The lawsuit
+claimed that the US Navy’s use
+of sonar equipment harms ma-
+rine mammals.
+Novel malaria vaccine now in sight
+As research closes in on a malaria vaccine, Emma Williams reports on
+this and another preventative method being developed at Imperial
+For many people, going on
+an exotic holiday generally
+means taking medicines or
+having vaccines against infec-
+tious diseases. Nowadays
+they are easily available and
+affordable. However, the peo-
+ple who live in these countries
+face the ongoing struggle of
+trying to reduce the incidence
+of such diseases like malaria.
+For these people the loss of
+a few days’ work through ill-
+ness is devastating. However,
+times may be changing, as it
+was reported this week that
+there are hopes of finding a
+malaria vaccine by 2010. Such
+a vaccine would offer hope to
+many people who suffer both
+physically and financially
+from attacks of malaria.
+The RTS,S/ASO2A vaccine
+was given to children between
+the ages of one and four living
+in Mozambique. The vaccine
+attacks what is known as the
+sporozoite stage of develop-
+ment of the parasite. The spo-
+rozoites are injected by the
+mosquito into the blood of the
+human host. Prior immunisa-
+tion initiates the production
+of antibodies and white blood
+cells that lock onto the para-
+site in the blood, reducing its
+survival and further develop-
+ment. The project was funded
+by GlaxoSmithKline biologi-
+cals (GSK) and through a glo-
+bal project called the PATH
+Malaria Vaccine Initiative,
+funded by the Bill and Melinda
+Gates Foundation.
+Malaria kills over one mil-
+lion people every year and its
+impact on world health is sec-
+ond only to tuberculosis. The
+parasitic disease is prevalent
+in 90 countries and affects
+one in ten of the world’s popu-
+lation. Malaria is caused by
+the parasite plasmodium
+and is transmitted via the
+mosquito. There are many
+life cycle stages of the para-
+site, completed both in the
+mosquito and human hosts.
+These stages can cause cyclic
+bouts of fever and chills.
+Severe forms of the infection
+can lead to kidney and brain
+damage, anaemia, coma and
+eventually death.
+Finding new ways to pre-
+vent malarial transmission is
+becoming increasingly impor-
+tant due to the high levels of
+resistancetotraditionaldrugs
+and insecticides. Political and
+social upheaval has led to
+large numbers of people relo-
+cating to new areas where
+the disease can be spread
+more easily. Additionally,
+changes in the environment
+such as road building, mining
+and irrigation have produced
+new breeding grounds for
+mosquitos.
+Closer to home, Imperial
+College PhD students and
+post-doctoral researchers
+are working on similar ways
+to prevent malaria transmis-
+sion. One candidate currently
+being tested in Thailand is
+a transmission blocking vac-
+cine. While the GSK vaccine
+prevents the infection of the
+human host, this transmis-
+sion blocking vaccine pre-
+vents parasitic agents taken
+from human host blood from
+developing in the mosquito
+and therefore precludes their
+further transmission.
+One current PhD project is
+examining methods to evalu-
+ate the efficacy of malaria
+vaccines. Current so-called
+‘gold standard’ tests take 10
+days to complete. New tech-
+niques are being developed
+that are quicker and more
+robust to observe whether
+the vaccine is working and to
+monitor if the parasite count
+is lowered. Serum from blood
+samples taken from immu-
+nised patients is used to cul-
+ture the parasite in vitro (ie
+outside the host).
+PhD student, Souraya
+Ramjanee told Felix: “It is
+hoped that the development
+of new techniques will reduce
+time and labour input and will
+in the long term lower costs
+associated with the develop-
+ment of new malaria vac-
+cines, funding for which can
+be very difficult to obtain.”
+In the future it is hoped
+that by using a combination
+of preventative methods, the
+incidence of malaria infec-
+tions will decrease. These
+measures will include not
+only the use of vaccines, but
+also insecticide impregnated
+bed nets and environmental
+control.
+Research at Imperial may one day prevent transmission of
+malaria by halting parasites developing in mosquitos
+Keeping your computer cyberspatially safe
+...or how to stop computer crackers from breaking into your computer
+Cybersecurity is a massive industry, not surprising in view
+of the increasing danger of computer crackers
+“...times may be
+changing, as it was
+reported this week
+that there are hopes of
+finding a malaria
+vaccine by 2010.”
+

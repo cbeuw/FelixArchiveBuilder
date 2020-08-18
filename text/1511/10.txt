@@ -1,0 +1,197 @@
+Tips & Hacks
+be.ez LA Robe 13 Black Addict
+The be.ez is a sturdy bag that has clearly been
+designed keeping your laptop in mind. There are
+enough pockets to carry a few peripherals and
+pens with you, as well as enough space for a small
+sheaf of papers. That said, the bag is quite small;
+don’t expect it to carry anything more than a small
+refill pad in addition to your laptop. In terms of
+style, the bag looks quite attractive when shut
+– I’m not so sure about the gaudy ‘raspberry’ in-
+terior of the review piece we received, but that’s
+possibly a question of personal taste. The inner
+sleeve is well cushioned and should protect your
+laptop well. Overall, the Black Addict is very good
+at keeping your laptop safe – the combination of
+the no-nonsense bag and memory foam sleeve
+mean you won’t have to handle your notebook too
+carefully. A very dependable option that doesn’t
+look too shabby either.
+Can you imagine a day without the internet?
+Today communication touches every aspect of
+our lives from social networking to business.
+We exploit information technology to enhance
+the learning experience through the use of the
+internet, supported by online initiatives such as
+podcasts and Virtual Learning Environments.
+However in countries such as Morocco, Thai-
+land, India and Nepal, social and economic
+development is restricted by a lack of commu-
+nications infrastructure.
+The Aurora project aims to provide internet
+access to communities in rural areas, bringing
+key social benefits and enhancing learning.
+Run by a team of students from the Electrical
+& Electronic Engineering Department, we aim
+to achieve this objective by creating wireless
+networks, coupling long range transmitters
+with an existing electricity grid. The key is
+Wi-Max technology – offering a range of up to
+10 km from a single router. By connecting Wi-
+Max routers in relays, we can get information
+to very remote locations.
+Founded in October 2011, the progress has
+been remarkable. One of our team members
+went to Morocco last December and conducted
+a location feasibility study – which proved Wi-
+Max was viable to implement in the region. We
+have fostered excellent links in industry with
+Internet Service Providers, energy companies
+and RuggedCom – a specialist Canadian based
+company manufacturing Wi-Max products
+who are one of our close industrial partners.
+Thanks to fantastic support from our depart-
+ment (in particular Dr Kristel Fobelets) and
+supervisor, Prof Kin Leung, a few of our team
+had the chance to visit the RuggedCom office
+in Lancaster and see Wi-max technology in ac-
+tion. We successfully managed to get a trans-
+mitter on loan which will enable us test the
+technical feasibility of the project right here in
+London. Therefore, our next step is to conduct
+a live field test by creating a Wi-Max network
+in Imperial College; we are in the process of
+completing licensing agreements for this.
+With this and our remaining location feasibil-
+ity studies just on the horizon, we believe we
+will soon achieve our ultimate goal of enabling
+schools in communities to use our WiMax net-
+work to enhance education in the near future.
+After seeing this project developed so much,
+just from an idea put forward by a few stu-
+dents, we are sure that every one of us can
+make a difference in this world. So we would
+like to encourage each of you to take an initia-
+Providing internet to all
+FELIX
+Friday 17 FEBRUARY 2012
+10
+technology.felix@imperial.ac.uk
+Technology Editors: Chris Bowers
+Feroz Salam
+TECHNOLOGY
+The Aurora Team
+tive, be bold and run with your creative ideas
+– we know first-hand that Imperial will always
+support you. Create the future.
+A new ‘best’ method for creating passwords?
+“Your password will expire in 10 days. Would
+you like to change it now?” This is the message
+that greets me when I log on to Outlook Web
+Access. I was first told my password was go-
+ing to expire at the end of January, so why have
+I not yet done so? The act itself of changing the
+password is by no means a complex task – but
+instead it’s the creation of its replacement that
+takes time and effort.
+The problem is, of course, security. While
+I don’t think my accounts are going to be the
+targets of everyday hacking, I still wouldn’t
+feel comfortable leaving my emails open to
+anyone who tried “123456” in the password
+field. We have all been encouraged to conjure
+up complex combinations of upper and lower-
+case letters, numbers and symbols, but these
+tend to be less than easily memorable. This has
+led people to possibly not bother with anything
+complicated, or leaving a note of their pass-
+word lying around.
+New discussion in the area, however, hopes
+to alleviate these issues greatly. Many of you
+will be familiar with the xkcd comic about
+password entropy, I’m sure, but it seems this
+also isn’t the answer. The problem lies in find-
+ing a good balance between memorability and
+security. Unfortunately, many hackers aren’t
+stupid, so “Pa55w0rd” isn’t going to fit the bill
+– that and its variations would be tried in most
+dictionary attacks. “P@s5w()r1}” is consid-
+ered much stronger, but is far less memorable.
+Instead, the solution relies on ‘padded pass-
+words’. The concept is simple – take a fairly
+memorable password (let’s use Lond0n as an
+example), and add a small ‘pad’ to it, increas-
+ing both the length and complexity of the fin-
+ished product. In our example, we could pad
+with “.**” and end up with “.**Lond0n.**”.
+Of course, the padding doesn’t need to be the
+same everywhere, nor does it need to be at ei-
+ther end. This is the key to the system – you
+could give away the base password to anyone,
+but as long as they don’t know your pad(s) and
+where padding exists in the password, they still
+wouldn’t be able to access your account.
+In technical terms, there are a few factors at
+play here. It is still highly recommended to use
+a combination of alphanumeric characters and
+symbols, as this massively increases the search
+space that a hacker would need to test every
+combination of. However, a hacker would only
+resort to this brute forcing when simpler mea-
+sures – such as dictionary attacks – have been
+exhausted, but the padding essentially forces
+any hacking attempt into that huge domain.
+Once this technique is being used, the biggest
+factor in the security of your password is its
+length, which of course the padding only helps.
+The memorability of the password is also not
+too bad – “Lond0n” by itself isn’t too taxing
+for example, and it’s easy to pick a pad that
+suits you – “&*(“ are neighbours on the key-
+board, but still an effective pad. Additionally,
+those without a great memory for passwords
+could write down either the pad or the base
+password without fear, as discussed before.
+In essence, these passwords are not too dif-
+ferent from a random, strong password with
+all the right elements. However, being easier
+to think up and remember brings them to more
+people. Given their security, this can only be a
+good thing.
+Chris Bowers
+Release windows hurt box office
+A joint study by researchers from Wellesley College
+and the University of Missouri has found that US
+box office takings are largely unaffected by piracy,
+and instead point to large international release
+windows (the time from American national releas-
+es to releases across the globe) as a significant
+factor in decreased overall revenue for movie fran-
+chises. Factors identified as contributing to this
+large window include the need to support legacy
+theatre systems that still depend on expensive
+35mm reels and the cost of promotional jaunts
+across the globe for the leading cast members.
+This probably has some relevance towards tele-
+vision programming as well, with top American TV
+shows often airing for the first time internationally
+a few seasons after their national success. While
+international television operators are naturally
+wary of betting on shows that haven’t been previ-
+ously tested, it is only a matter of time before it
+becomes unprofitable to even bet on successes,
+given the ease with which pirated versions can be
+accessed online. As the endless battles between
+copyright owners and pirates continue, it might be
+time for the movie industry to focus their energies
+on something they can actually control.
+The Aurora Team consists of Mehvesh
+Tariq, Sriram Kannan, Giri Kesavan,
+Sonal Rashmi, Jegadeesh Sitham-
+parathas, Wayne Yeang, Minoru
+Nanayakkara, Sumedha Kodaman-
+chali and Sathesh Elangovan.
+www.aurorawimax.co.uk
+Sturdy and dependable
+

@@ -1,0 +1,370 @@
+Felix Sports League
+...where do you stand?
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1152 741 36 5.00
+2 Rugby W1 2 2 0 0 77 0 -20 5.00
+3 Tennis M1 4 4 0 0 38 10 -232 5.00
+4 Tennis W1 5 5 0 0 56 4 -18 5.00
+5 Ultimate Frisbee 1st 3 3 0 0 45 9 -20 5.00
+6 Hockey W1 10 9 1 0 39 3 5 4.70
+7 Rugby M1 10 9 0 1 242 149 -103 4.10
+8 Fencing M1 9 8 0 1 1075 847 28 4.00
+9 Badminton M1 9 7 1 1 59 13 0 3.67
+10 ICSM Hockey W2 6 5 0 1 29 5 -2 3.50
+11 Table Tennis W1 5 4 0 1 19 6 -124 3.20
+12 Badminton W1 10 5 4 1 49 36 0 2.90
+13 Fencing W2 8 6 0 2 699 647 93 2.75
+14 ICSM Badminton W1 4 3 0 1 18 14 0 2.75
+15 Netball W1 8 5 0 1 334 252 -9 2.63
+16 Squash W1 5 3 1 1 11 9 -12 2.60
+17 Tennis M2 6 3 2 1 40 32 -64 2.50
+18 Lacrosse W1 7 5 0 2 101 37 -3 2.43
+19 Hockey M2 9 5 2 2 27 22 2 2.33
+20 Basketball M1 10 7 0 3 662 583 0 2.30
+21 Fencing M2 9 6 0 3 1078 908 52 2.00
+22 ICSM Hockey W1 4 2 1 1 23 9 -12 2.00
+23 Football M3 8 5 0 3 15 15 24 1.63
+24 Lacrosse M1 5 4 0 3 71 36 -9 1.60
+25 Football M1 9 4 2 3 15 14 228 1.33
+26 ICSM Badminton M2 4 1 2 1 15 17 14 1.25
+27 ICSM Football M2 7 4 0 3 15 12 -2 1.14
+28 Basketball W1 9 5 0 4 505 404 77 1.00
+29 Football M2 8 3 2 3 20 22 46 0.88
+30 Badminton M2 8 4 0 4 22 34 0 0.50
+31 ICSM Football M1 2 1 0 1 4 6 1 0.50
+32 ICSM Netball W1 2 1 0 1 82 72 2 0.50
+33 ICSM Netball W2 2 1 0 1 52 50 -3 0.50
+34 ICSM Netball W4 2 1 0 1 47 50 -40 0.50
+35 ICSM Rugby M3 4 2 0 2 88 90 28 0.50
+36 Rugby M2 10 5 0 5 92 132 -6 0.50
+37 Squash M3 6 3 0 3 10 19 -77 0.50
+38 Table Tennis M2 6 3 0 3 53 49 -37 0.50
+39 Hockey W2 8 3 1 4 10 32 79 0.13
+40 Netball W3 9 4 0 5 185 157 -52 0.00
+41 Futsal M1 7 3 0 4 31 40 13 -0.14
+42 Golf Mixed 1st 6 1 1 2 7 10 4 -0.17
+43 Table Tennis M1 5 2 0 3 38 47 -12 -0.40
+44 Futsal W1 3 1 0 2 2 11 52 -1.00
+45 ICSM Badminton M1 3 1 0 2 10 14 170 -1.00
+46 ICSM Rugby M1 3 1 0 2 52 104 4 -1.00
+47 ICSM Rugby M2 3 1 0 2 32 135 -22 -1.00
+48 Lacrosse W2 3 1 0 2 15 21 -9 -1.00
+49 Football W1 7 2 0 5 4 43 13 -1.43
+50 Rugby M3 10 2 0 8 100 120 -39 -2.20
+51 Squash M1 5 1 0 4 3 22 -19 -2.20
+52 ICSM Netball W5 4 0 1 3 25 185 -9 -2.50
+53 Netball W2 6 1 0 5 123 200 -4 -2.50
+54 Squash M2 6 1 0 5 11 18 -160 -2.50
+55 Squash M4 6 1 0 5 3 15 -7 -2.50
+56 Hockey M3 7 1 0 6 8 20 8 -2.71
+57 Hockey M1 10 1 0 9 9 46 82 -3.10
+58 Basketball M2 3 0 0 3 142 266 411 -4.00
+59 Fencing M3 5 0 0 5 424 656 36 -4.00
+60 Hockey M4 9 0 0 9 3 67 64 -4.00
+61 ICSM Basketball M1 1 0 0 1 46 64 35 -4.00
+62 ICSM Hockey M1 3 0 0 3 6 26 3 -4.00
+63 ICSM Hockey M2 3 0 0 3 3 19 101 -4.00
+64 ICSM Hockey M3 1 0 0 1 0 3 -2 -4.00
+Olympian visits IC Judo
+Judo
+Chung-Yiu Yi
+In early March 2012, judoka from the Im-
+perial College Judo club arriving for what
+was otherwise another regular evening
+of hard judo practice at ETHOS, found
+themselves very unexpectedly honoured
+by a visit from the Olympic Champion
+(Athens 2004) and World Champion-
+ship judo gold medallist (Brazil 2007)
+and nine times All-Japan Women`s Judo
+Champion (2002-2010), and multiple sil-
+ver & bronze medallist at various Olym-
+pic Games & World Championships, Ms
+Maki Tsukada sensei.
+In fact, so low key was her visit, that
+none of us instantly recognized this cham-
+pion of champions in our presence at the
+dojo, and indeed her very humble nature
+gave us no clues, as she helped us set out
+SPORT
+FELIX
+Friday 16 march 2012
+54
+Web: www3.imperial.ac.uk/sports
+Facebook: Search ‘Sport Imperial’
+Twitter: @SportImperial
+sport.felix@imperial.ac.uk
+Sport Editor: Indy Leclercq
+our tatami mats in preparation for the
+class.
+It was only on the mat, at the formal
+start of the session when Glenn our coach
+introduced her to us, that we gasped in
+awe at her presence before us! But this
+champion had just been helping us set out
+our mats! Amazing lady or what!?
+Tsukada sensei proved to be every bit
+a great champion, through her humble
+and generous and kind nature, during our
+two training sessions we have had with
+her. She has amazed us with her skillful
+demonstrations of her favourite throw-
+ing techniques: ouchi-gari, kouchi-gari,
+and osoto-gari. She also joined in our
+(often hilarious) warm up games as well
+as our newaza and our standing randori
+sessions and has given us much inspira-
+tion and treasured advice throughout. Al-
+ways eager to encourage us and to allow
+us to throw her with good technique, and
+always gentle when throwing us in re-
+turn. There will be many a young judoka
+amongst us, who will always remember
+and treasure their times with her and will
+have the fondest of memories of wrestling
+or throwing or being thrown or being pre-
+sented their 4th kyu belts, by a true cham-
+pion of champions. I am also sure those
+preparing for the upcoming BUCS judo
+championships in Sheffield next week,
+will have been inspired by these amazing
+times with her, and will fight with more
+SPORT
+FELIX
+sport.felix@imperial.ac.uk
+Sport Editor: Indy Leclercq
+confidence and skill as a result. We will
+always remember being amongst a true
+and humble champion who smiled and
+laughed with all of us and joined in our
+games and set out our tatami mats even
+before most of us had arrived for our class
+that evening in early March.
+Ms Maki Tsukada sensei has since re-
+tired from the Japanese judo squad and
+will be working alongside the Japanese
+Judo Olympic Squad, in the forthcom-
+ing Olympic Games. We thank her from
+the bottom of our hearts for finding the
+time to be part of our club, and we sin-
+cerely wish her well in her work and hope
+that she will always remember, as all of
+us at the judo club surely will, the larg-
+er-than-life times and laughter, smiles,
+warmth and ippons we all shared, if only
+too briefly, in the dojo at ETHOS, Impe-
+rial College. Many happy ippons yet to
+come Tsukada sensei! Sayonara and domo
+arigato gozaimasu!
+OUT
+OF
+DATE,
+CHECK
+K
+K
+C
+E
+H
+CH
+C
+,
+E
+T
+A
+DA
+D
+F
+O
+O
+T
+UT
+OU
+O
+W1
+W1 10
+10 5
+8
+nton W1
+nton W1 4
+4 3
+8
+5
+5 3
+6
+7
+7 5
+9
+1
+1 10
+10 7
+9
+y W1
+W1 4
+4 2
+8
+5
+5 4
+nton M2 4
+4 1
+1
+l M 7
+1
+1 9
+9 5
+8
+M2
+M2 8
+8 4
+l M 2
+W1
+W1 2
+2 1
+W2 2
+W4
+W4 2
+2 1
+M3 4
+10
+10 5
+M2
+M2 6 3
+8
+9
+9 4
+7
+st
+t 6
+6 1
+3
+3 1
+nton M1 3
+M1
+M1 3
+3 1
+M2 3
+3
+3 1
+7
+10
+10 2
+BACK
+AFTER
+EASTER
+R
+E
+T
+ST
+AS
+EA
+E
+R
+ER
+E
+T
+F
+A
+K
+K
+C
+A
+BA
+B
+0 2 699
+0
+0 1
+1 18
+18
+0 1 334
+1
+1 1 11
+2 1 40
+0
+0 2
+2 101
+101
+2 2 27
+0
+0 3
+3 662
+662
+0 3 1078
+1 1
+1 23
+23
+0 3 15
+0
+0 3 71
+71
+2
+2
+2 1
+1 15
+15
+0 4
+4 505
+505
+2 3 20
+0
+0 4
+4 22
+22
+0
+0
+0 1
+1 82
+82
+0 1 52
+0
+0 1
+1 47
+47
+0
+0
+0 5
+5 92
+92
+3 10
+0
+0 3
+3 53
+53
+10
+0
+0 5 185
+85
+0 4 31
+1
+1 2
+2 7
+7
+0 3 38
+0
+0 2
+2 2
+2
+2 10
+0
+0 2
+2 52
+52
+0 2 32
+0 2
+2 15
+15
+0 5 4
+0
+0 8
+8 100
+100
+“... so low key was her
+visit, that none of us
+instantly recognized
+this champion of cham-
+pions”
+“We will always remem-
+ber being amongst a
+true and humble cham-
+pion”
+Chung-Yiu Yi
+

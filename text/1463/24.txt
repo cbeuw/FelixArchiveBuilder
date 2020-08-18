@@ -1,0 +1,347 @@
+24
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 28 MAY 2010
+The Open Source Problem
+Feroz Salam looks at why the open source mantra is so confused
+I
+f you’re unfamiliar with the con-
+cept of open source software,
+you’re definitely not alone. In a
+market full of expensive consum-
+er electronics that are locked down
+and bound to carriers and application
+stores, the concept of releasing the
+code to software that has taken you
+hundreds of hours to create may seem
+unintuitive, even silly. Yet despite the
+unorthodox business model that it en-
+genders, open source software is sur-
+prisingly successful. A Linux server is
+probably behind a majority of websites
+you browse daily, whilst open-source
+Android powered smartphones have
+recently begun outselling the iPhone
+in the US. Yet despite a few notable
+exceptions, the concepts behind open
+source are opaque to the average con-
+sumer, which is in my opinion, to the
+detriment of the entire movement.
+One reason for this situation could
+be the fact that the concepts and ide-
+ology that define free/open source
+software have been made ridiculously
+complicated by those creating the soft-
+ware. It’s hard to get an ideological
+movement going if no-one within the
+movement can agree what the ideol-
+ogy truly is. An interesting example
+of this situation is the case of Linus
+Torvalds and Richard Stallman, two
+very important people in the world of
+open source. Between them, they have
+helped in the creation of some of the
+most widely used software tools in
+the world. Yet their philosophies on
+the way code should be released differ
+greatly. Stallman is the leading figure
+in the Free Software Movement, an or-
+ganisation that works towards software
+that can be freely distributed, modified
+and used without restrictions. The
+Free Software Movement could fairly
+accurately be described as the radical
+far-left of the software industry. Stall-
+man, in a testament to this culture,
+will only use a single Chinese netbook
+that solely runs free and open source
+software and nothing else. In contrast,
+the general open source movement
+(that the Free Software Movement at-
+tempts to distance itself from) isn’t as
+concerned with the licensing issues as
+they are with spreading the concept of
+open source, even if that means having
+to work with closed-source compa-
+nies in a trade-off. Those behind the
+Linux kernel recently accepted a code
+contribution from Microsoft, with Li-
+nus Torvalds (the father of Linux) say-
+ing: “I really find the whole notion of
+Linux as being “against Microsoft” to
+be silly and wrong-headed”. With there
+being no agreement within the move-
+ment, it’s hard to attract investment
+from businesses, who worry that the
+frequent and drastic licensing changes
+that have typified the last few years of
+open source software design, might
+work against them in the long term.
+One of the greatest things about
+open source software is choice. There’s
+a huge amount of software out there,
+and some of it is great. Yet the com-
+munity behind open source software
+can sometimes be intimidating to
+say the least. From Stallman with his
+frankly ridiculous Free Software Song
+to the endless bickering about soft-
+ware choices on internet forums, get-
+ting advice on software that is impar-
+tial and unclouded by dogma is hard.
+Advertising campaigns seem only to
+attack other closed source software
+without really educating people about
+benefits of open source. The end effect
+is a confusing jumble of contradictory
+ideas all being shouted at loud volumes
+- an effect that is frankly annoying and
+off-putting.
+Yet despite these problems, open
+source software has grown remark-
+ably over the last decade. Linux has
+been at the forefront of this growth,
+with its dominance of the server mar-
+ket, running the majority of the world’s
+supercomputers, and even the surpris-
+ing rise of Google’s Android mobile
+operating system. In some ways, the
+approach taken by Linux has been the
+most pragmatic, accepting help from
+those who offer it regardless of differ-
+ing ideologies and with a surprising
+resistance to dogma. Its success shows
+that open source can succeed. Yet as
+long as the continual disputes over ide-
+ology and licensing continue, it’s prob-
+able that businesses won’t see open
+source as a serious and viable option
+to replace their current software pack-
+ages. In the end, consumers will simply
+choose big named closed-source alter-
+natives that don’t come with the bag-
+gage of ideologies that they feel they
+have no personal investment in or sim-
+ply don’t understand.
+I
+f you haven’t heard, Google
+launched its attempt to infiltrate
+the TV space with Internet con-
+tent. Google TV aims to bring not
+only video but the whole Internet onto
+the small screen. But it’s not the first to
+attempt to do so. Microsoft tried and
+failed to do the same thing many years
+ago with its WebTV. Google thinks
+the failures of the past have been due
+to poor implementation, but I beg to
+differ.
+OK, having certain web content on
+your TV would be a boon. Web video
+such as YouTube, Hulu and the pleth-
+ora of other user created and network
+produced online video sites often de-
+serve to get off your monitor and ac-
+tually onto your primary watching de-
+vice, your TV. But anyone who’s ever
+tried to surf the web on their TV will
+know that it’s a paradigm that simply
+doesn’t work.
+The thing is your TV viewing ex-
+perience is a long distance one. You
+sit several metres from your TV and
+control it with a simple remote. Read-
+ing subtitles, and possibly the digital
+text that replaced TeleText, is about as
+much reading as you’re ever likely to
+do on your TV and there’s a reason for
+that. Reading text on your TV is both a
+strain on your eyes and plainly annoy-
+ing if the text is too small.
+To do justice to web browsing on
+your TV you’re going to have to sit
+pretty close to that screen of yours,
+even if it is a monster. And that’s the
+problem; you are going to have to get
+off your comfy sofa and either grab a
+chair or sit on the floor in the middle
+of your living room. If your TV was
+the only place to consume the web,
+perhaps this would be a viable option,
+but it’s not. I for one am not going to
+bother getting off my arse just to view a
+bit of news or IMDB on my TV when I
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+R
+oll up, roll up, what
+have we got for you
+this week eh? Well in
+the wake of the Goog-
+le geekfest that was Google IO,
+the big G’s web video format
+came under a bit of fire.
+WebM, heralded by Google
+as the open source answer to
+the video war currently rag-
+ing in the HTML5 spec,
+has spiked the interest of
+the MPEG-LA, the folks
+who licence out the
+H.264 specification.
+According to them,
+the WebM with VP8
+video codec flies
+just a little too close
+to the premium H.264
+codec and therefore might
+not be as free as everyone
+thinks. Maybe Steve Jobs was
+right when he said patent liti-
+gation was not far away for the
+open source audio and video
+codecs.
+The little green Android has
+also been in the news this week
+with Froyo causing quite a stir.
+Google claims Android 2.2
+has the fastest mobile
+browser and it’s quite
+possible with Froyo
+showing a 4.5x
+speed increase
+in several bench-
+marks over Eclair.
+Then we’ve
+got the news that
+‘Gingerbread’ will
+be the next tasty edition
+of Android, packing WebM
+support among other things
+and will land around Q4 2010.
+More mobile news this week
+from Samsung with Europe’s
+first Bada phone, the Wave.
+OK, the phone is pretty sweet,
+but Bada, well, let’s just say it’s
+a bit disappointing. Slap An-
+droid on it for goodness sake!
+LG showed off some serious
+3D screen real-estate this week
+with their 84-inch 3DTV, pack-
+ing a whopping 3840x2160 res-
+olution. That’s UHD, or Ultra
+HD; shame about the highly
+‘fashionable’ glasses you need.
+Sony was in on the OLED
+action this week with its pro-
+totype rollable OLED display.
+The 4.1 inch display is 80µm
+thin and can wrap around
+anything thicker than 8mm in
+diameter, like a pen or pen-
+cil. Outputting 16M colours
+with a 1000:1 contrast ratio
+and 100nits brightness, the
+432x240 resolution display
+could be the future of wear-
+able, rollable, slide out displays
+just like every decent sci-fi
+movie. Let’s just hope it makes
+it to market in the near future.
+Social networking is a luxury
+that the majority of us enjoy
+in one form or another, but
+it’s undoubtedly a great way
+to get into trouble if you’re in
+the public spotlight. To save
+his players from that prob-
+lem, England manager Fabio
+Capello has banned his squad
+from partaking in Twitter and
+Facebook. To be fair out of the
+preliminary named squad only
+Darrent Bent, the Sunderland
+striker, actually used Twitter.
+So if you were hoping for in-
+the-dressing-room progress
+reports from Rooney, Lampard
+and Rio, I’m afraid you’re out
+of luck.
+Nokia and Yahoo announced
+a partnership this week to
+trade services. Nokia is going
+to run Yahoo’s online mapping,
+to take on market leader Goog-
+le Maps, whilst Yahoo is going
+to bring its webmail expertise
+to Nokia phones. More com-
+petition is always good, but can
+Nokihoo! really compete?
+Last but not least, Apple
+launched the iPad in the UK
+today. Available in store with
+seriously short supply, good
+luck actually getting one.
+All Google
+TV’d out
+SamuelGibbs
+SamuelGibbs Technology Editor
+can just grab my iPhone, my laptop, my
+netbook or perhaps my tablet and do
+it. It’ll be a damn sight better browsing
+experience on all those devices than it
+possibly could be on my TV.
+If we look at the devices that can
+currently access the Internet that pack
+a browser and are plugged into your
+TV, we’ve got things like the PS3, the
+Wii, Media Centre PCs, perhaps even
+a Boxee box or Mac Mini. All of these
+devices do an admirable job of render-
+ing text on the big screen, but you have
+to zoom in so far to actually read it that
+it disrupts the browsing experience
+well beyond being a decent one.
+Is the answer reformatting and re-
+flow of text to fit the screen? Perhaps
+you could strip out the content from
+the site and display it in a purpose
+made ‘TV mode’. But again, isn’t it just
+easier to grab that netbook that’s be-
+side you?
+The other problem with browsing on
+your TV is that for the most part, TV
+watching isn’t a solitary experience.
+Are your friends, family or strangers
+watching in from the street, really go-
+ing to be chuffed with you taking up all
+or a significant portion of the screen
+to look up who directed the Exorcist?
+Perhaps the only social aspect of the
+current web experience is web video,
+meaning the browser simply gets you
+to the video content, nothing more.
+Google initially wants you to use
+another box under your TV that es-
+sentially sits in between your content
+boxes like Sky, Virgin, FreeviewHD or
+FreeSatHD receivers and your TV. It’s
+another box to buy that doesn’t really
+do anything you can’t already do with
+other devices. Perhaps once Google
+manages to get Google TV into actual
+TVs with partners like Sony, maybe
+you’ll find it gaining traction. But that’s
+still only a maybe for the big G.
+st of
+lks
+4
+might
+brow
+pos
+‘
+be th
+

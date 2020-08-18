@@ -1,0 +1,109 @@
+TP
+F E L I X 11
+Atomic clocks
+We'll meet in a moment... err... in 5,345669543 seconds
+The current most accurate clock (NIST-F1 foun-
+tain clock) neither gains nor loses a second in
+nearly 20 million years. Rather accurate. To
+understand how this super clock reaches such
+accuracy let's first remind ourselves what a
+clock is. All clocks have two basic components:
+The nist-1 clock
+a constant process to mark the increments of
+time and a means of keeping track of the incre-
+ments. For example, your grandfather's pendu-
+lum clock increments time with the oscillation
+mechanism of the pendulum. Christian Huygens
+(a Dutch scientist) made the first one in 1656
+and its error was less than one minute a day.
+While Huygens' clock (or your grandfather's
+pendulum clock) is a mechanical clock, the
+atomic clock is a quantum-mechanical clock. In
+other words, its working is based on quantum
+physics (physics of the ultra small). Essentially,
+the incremental component is given by the radi-
+ation frequency that causes the maximum tran-
+sitions of the clock's atoms (NIST-F1 uses
+Caesium 133) to another state. In English?
+Well... According to quantum mechanics, sub-
+atomic particles can only exist in discrete states
+and not at in between states (electrons have two
+hyperfine states). Generally, an atom remains in
+its hyperfine state. But when prodded by elec-
+tromagnetic radiation at a specific frequency, it
+will switch to the other state. For Caesium the
+specific radiation frequency is 9,192,631,770.
+Or in other words, when the radiation frequency
+is 9,192,631,770 a maximum number of
+Caesium atoms undergo a "hyperfine state"
+transition. As frequency is expressed in [s-1]
+(per second) it is obvious (...hopefully) that the
+9,192,631,770 beats define exactly 1 second.
+The idea of using hyperfine states for a clock
+was first proposed by U.S. physicist Isador Rabi
+in 1945.
+After this preamble, you can now understand
+that an atomic clock: 1) filters atoms by select-
+ing those in one hyperfine state, 2) radiates the
+selected atoms by microwaves, 3) measures
+how many changed atoms there are (fluores-
+cence detection), 4) tunes the microwave gen-
+erator to the frequency that causes the maxi-
+mum transitions. This optimal frequency (or
+number of oscillations) represents 1 second.
+So now why do we need such accuracy?
+Innumerable communication and navigation
+systems as well as synchronising systems
+(between computers,...) rely on it. One exam-
+ple is the GPS (Global Positioning Satellites)
+system. GPS determine the position of a receiv-
+er anywhere on Earth by timing the arrival sig-
+nals from four GPS satellites and doing a quick
+calculation to triangulate its position. Each
+Clocks clocks clocks...
+nanosecond (billionth of a second) of error
+translates into a GPS error of one foot. Thus
+each of the 24 GPS satellites contains four
+atomic clocks.
+More information on clocks:
+http://physics.nist.gov/Genlnt/Time/time.html
+Want to check your computer's clock against
+the official U.S. atomic clock?
+http://www.time.gov/
+Frangoise Mei
+Research proposal competition cont.:
+Runner Up (sorry no prize but I thought I'd print it) - Edward Hunt
+Inspired by the character "Eyeball Paul" from
+the Kevin and Perry movie, I have devised an
+experiment to establish whether drinking shots
+through your eyes really does get you drunk
+faster than conventional consumption.
+First I will round up 32 sober imperial stu-
+dents (!) and lead them to my underground lab.
+Each will be thoroughly examined in mental
+coordination using the classic book "1001
+Tricky Tongue-Twisters for Kids". They will then
+in turn be given a small amount of alcohol (left-
+over undrinkable Tesco Value Vodka). Half will
+be given ordinary shot glasses and half will be
+given contact lens cases full of vodka. These
+cases (which must be the double ended type)
+will be ideal for delivering a swift alcohol shot
+to each eye. Each sucker will, after their shot,
+be given a twenty minute exam in tongue-
+twister dexterity by my lovely assistants. It will
+be noted, for each subject, how long after the
+shot it took for their mental abilities to drop.
+The expected outcome of these tests will rev-
+olutionise the drinks industry. I will release a
+new line of spirit packaging based on lens case
+design and become fabulously, fabulously rich.
+The remaining profits will go to Imperial
+College, removing any need to merge with any-
+bugger, ever. Result!
+Inspired by these wacky ideas? For the next
+issue, with a prize of a £10 HMV token, tell sci-
+ence.felix@ic.ac.uk why you need 30 bicycle
+helmets...
+science.felix@ic.ac.uk The student newspaper of Imperial College
+

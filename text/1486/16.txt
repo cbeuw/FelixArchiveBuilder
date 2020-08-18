@@ -1,0 +1,147 @@
+felix
+TECHNOLOGY
+Technology Editors: Samuel Gibbs
+Feroz Salam
+technology.felix@imperial.ac.uk
+If preliminary reactions are anything to go by,
+it appears that Apple might have pulled another
+winner out of the bag with the newly released
+successor to the original iPad. The fully up-
+graded model has been garnering some serious
+attention from reviewers over the week, with
+the almost unanimous conclusion being that the
+device delivers exactly what was promised on
+the tin, if not more.
+With many reviewers having stripped the
+tablet down to its innards, it’s been found
+to pack a 900 Mhz dual-core ARM chip and
+another dual-core processor in the form of
+Imagination Technologies’ GPU. The inte-
+grated performance of both chips has man-
+aged to blow away standard benchmarks used
+for judging graphics performance, both when
+compared to the original iPad and to other
+similar competition.
+Reviewers are so far reporting that the lat-
+est incarnation of the slate manages anywhere
+between 50 – 65 frames/second under the GL-
+Benchmark for graphical performance. This
+is in comparison to the original iPad’s perfor-
+mance of between 15-20 frames/second and the
+Motorola Xoom’s 25-30 frames. Admittedly,
+the Xoom is running on a slightly higher reso-
+lution than the iPad 2, but the figures indicate a
+performance gap that can’t be explained by the
+fewer pixels on screen.
+The latest reviews will be worrying for Ap-
+ple’s competitors. Unlike the mobile market,
+where Android handsets have proved more
+than able to match and improve upon Apple’s
+iPhone, there has been little to indicate that they
+have anything new to offer in the tablet market,
+despite having a year to plan a response.
+For much of 2010, the iPad was the only
+viable option for those looking for a quality
+tablet. While many Windows tablets were an-
+nounced at trade fairs, there were none to be
+seen on sale; Android tablets proved relatively
+numerous but also relatively poor, seeming
+Free App of the Week
+iOS - Radio Player
+The iPhone might not come equipped with a radio
+tuner, but as they say, there’s an app for that: Radio
+Player. Simple, free, and plays in the background.
+Android’s got it’s fair share of streaming radio apps,
+but TuneIn is a solid option with a load of stations to
+choose from. Ad-supported, free radio sorted.
+Android - TuneIn Radio
+iPad 2 blows away rivals
+Feroz Salam
+Slipcases are pretty standard fare for laptop
+protection these days. From the cheap and
+cheerful to the leather-clad, there’s a slipcase to
+suit every taste and budget.
+The LA robe for Apple’s MacBook Pro line
+from be.ez fits into the middle range of slipcas-
+es. It incorporates some fancy Low Resistance
+Polyurathane (LRPu) foam into a fairly stan-
+dard zippered slipcase design. The foam ab-
+sorbs impact energy by freely deforming under
+load, reducing the amount of energy that can
+pass through to your laptop. It’s different from
+other foam in that it puts up less resistance to
+deformation and therefore absorbs more of the
+impact energy.
+In practice this means that it dents easily and
+then slowly recovers to its original formation
+Keep scratches at bay the LA robe rose
+Samuel Gibbs
+largely like outsized Android handsets (to a
+much greater extent than the iPad).
+Early 2011 brought announcements of Mo-
+torola’s Xoom slate, the first tablet that would
+sport Android’s tablet-oriented Honeycomb
+OS. Powered by a dual-core chip and some
+highly promising graphics, there was high
+expectation that the device could finally be a
+worthwhile response to the iPad.
+Yet any progress the Xoom has made has
+probably been undone over the last few weeks.
+The device was more expensive than most
+reviewers were expecting and on the back of
+the quality performance by the iPad 2, includ-
+ing the addition of the cameras the device was
+sorely lacking before, it’s hard to see why cus-
+tomers looking to buy a tablet wouldn’t choose
+Apple.
+The increased graphical performance of the
+iPad also means that the devices have more to
+offer gamers, with the larger screen giving a
+much wider range of interface options for de-
+velopers, now with the ability to display pretty
+pictures too. It’s definitely not the focus of the
+device, but it will be interesting to see how
+quickly developers pick up on the possibilities
+of the platform.
+It’s not all doom and gloom for the Xoom
+though: with 4G capabilities and working
+Flash on the way, it’s still got much to offer
+that the iPad doesn’t. Apple’s App Market
+and software distribution system still suffers
+from the same lock-in problems that Android
+doesn’t, and Android keeps it’s usual edge on
+customisability.
+The issue of picking between the tablets
+seems to boil down to the regular question of
+freedom versus user experience. The iPad 2
+appears to have been tailored for a quick and
+neat user experience, with enough similarity to
+the old iPad to keep the learning curve shallow
+yet enough behind-the-scenes improvements
+to deliver a noticeably better experience. The
+competition is going to have to do a lot better
+before they can even consider wooing consum-
+ers away from Apple.
+once the load is removed, which can be pretty
+disconcerting when you first start using the
+case, but does work as described.
+The case is designed to fit specific models
+ranging from the 15-inch MacBook Pro to the
+13-inch polycarbonate MacBook, however in
+our testing with the 13-inch MacBook Pro, the
+fit wasn’t snug enough for our liking, meaning
+that the laptop moved around inside the case
+rather a lot. The lining of the case is soft velvet,
+so perhaps this isn’t too much of an issue, but
+we would have preferred a better fit given the
+model specificity that be.ez claims.
+If you’re putting your laptop in a regular
+backpack, this slipcase might do the trick, but
+without any sort of cable storage or handle, it’s
+not going to be all that useful on its own. We
+liked the LRPu foam, but the LA robe certainly
+didn’t fit well enough for a simple slipcase.
+I still think anyone with a tablet looks like a massive prick
+Friday 18 March 2011
+16
+

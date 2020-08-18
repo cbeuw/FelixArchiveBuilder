@@ -1,0 +1,193 @@
+According to new analysis of more than 160
+years worth of data, the North Star may be wast-
+ing away, shedding an amount of gas equivalent
+to up to the mass of the Earth each year.
+The North Star, also known as Polaris, has
+been used by navigators for centuries, as its
+alignment with the Earth’s rotational axis
+means it always sits directly above the North
+Pole. It is also a ‘Cepheid Variable’ star, mean-
+ing it pulsates, getting dimmer and brighter as
+the conflicting forces of gravity inwards and
+radiation pressure outwards constantly tug the
+outer layers back and forth from its dense, burn-
+ing core.
+This ‘pulse’ of the star, with a period of
+around 4 days, has been observed by ancient
+astronomers for hundreds of years. In 2004,
+David Turner, of St. Mary’s University in Hali-
+fax, Canada, compiled an archive of these mea-
+surements. His analysis, including data stretch-
+ing back as long ago as 1844, showed that the
+North Star’s pulse was slowing down. Turner
+justified this increase in the star’s time period of
+around 4.5 seconds per year by concluding that
+the star was in the early stages of its evolution
+on its first crossing of the ‘Cepheid instability
+strip’, and still burning only hydrogen – a trade-
+mark of a young star.
+However, Hilding Neilson of the University
+of Bonn, Germany, was not so sure. Combining
+his own recent observations with Turner’s ar-
+chived data, Neilson and colleagues compared
+the star’s measured behaviour with state of the
+art models of stellar evolution. They didn’t
+match up.
+“Only if the star is losing a lot of mass can
+that [discrepancy] be resolved,” says Neilson,
+referring to the North Star’s mysteriously de-
+creasing pulse. In a paper published recently in
+the Astrophysical Journal Letters, he explains
+how the time period data is inconsistent with
+all regular phases of stellar evolution, and, in
+contradiction to Turner, he asserts that the star
+is old, having passed through the red giant stage
+and already burning Helium. In Neilson’s mod-
+el, as the star pulses, swathes of gas are pushed
+out from it in waves, as the pent-up light bursts
+through the star’s outer layers. He concludes
+that the North Star must be losing mass, at
+the rate of around one Earth mass each year –
+equivalent to roughly a millionth of the mass of
+the star itself.
+The result is particularly exciting because it’s
+the first truly strong argument for such extreme
+mass loss in a Cepheid star. While most sus-
+pected examples of Cepheid stars losing mass
+North Star is shrinking
+All other stars appear to rotate around the North star as the Earth spins
+are uncertain, as they are based on shaky ob-
+servations of the surrounding stellar material,
+this novel method employs the wealth of data
+already gathered about the North Star, to make
+actual quantifiable measurements of the rate at
+which it is wasting away.
+The quest for understanding the mechanisms
+of the North Star is not over, however, and
+Turner is the first to admit that “there are many
+mysteries about Polaris that defy simple expla-
+nation.” In the coming months and years, new
+data from the Hubble Space Telescope about
+its distance from Earth, and its luminosity, will
+hopefully help solve the mystery once and for
+all of what exactly is going on deep inside the
+star we thought we knew so well.
+DOI:10.1088/2041-8205/745/2/L32
+In a paper recently published in Science, a
+team from the University of Manchester has
+reported that graphene oxide is capable of
+selectively filtering water molecules, leaving
+all other types of molecule blocked. This is a
+particularly surprising result for the team, who,
+from previous research, expected the graphene
+derivative to be completely impermeable.
+More surprising with this research is that
+water permeated through the membrane at a
+rate very similar to that of water permeating
+through a system with no membrane.
+The team used a cylinder filled with water
+vapour to conduct the investigation. A seal
+made of porous copper plates coated with gra-
+phene oxide was used to cover the container,
+and then the loss of mass of the cylinder over
+time was measured.
+Additionally, when the cylinder was filled
+with other gases (such as hexane, ethanol, and
+helium), there was almost no loss of mass over
+a 24-hour period. This shows that the mem-
+brane prevented any gases other than water
+vapour from escaping.
+This seems to be a property of graphene ox-
+ide, rather than graphene itself – when the film
+was made of chemically derived graphene,
+permeability dropped again.
+Producing substances capable of blocking
+helium is a non-trivial task, with even glass
+allowing some to permeate through. The
+fact that graphene oxide allows water to pass
+through almost unimpeded, yet completely
+blocks other gases, surprised scientists.
+Under normal conditions, graphene oxide
+would have water molecules in capillaries lo-
+cated within the layers (where the other gas-
+eous particles would otherwise travel), and
+it is these molecules that prevent the flow of
+other gases. Water can still flow through, as
+the water at the top of the layer evaporates off
+leaving .
+In low humidity (i.e. when there is not much
+water vapour in the cylinder), the water within
+the layers is not replenished when it evaporates
+from the top, causing the capillaries to shrink.
+This also prevents water molecules escaping.
+Applications for this could include filtration
+and separation, and could find use in situations
+where it is desired to remove just water from
+a sample. In a more humorous test, the team
+sealed a bottle of vodka using the same mecha-
+nism, and found that the vodka became stron-
+ger over time as the water vapour evaporated
+through the seal.
+DOI: 10.1126/science.1211694
+Philip Kent
+FELIX
+Friday 10 February 2012
+12
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+Arianna Sorba
+Anxiety
+by Maria Veiga
+Last year, at an intelligence squared event, James
+Watson stated that one of the biggest improve-
+ments in medicine would be personalised genome
+sequencing, whereby patients will have a person-
+alised healthcare plan developed from their ge-
+nome sequence. Personalised genome sequenc-
+ing is now becoming a reality in Norway, less than
+a decade after the first human genome was fully
+sequenced.
+Norway’s plan is to focus on cancer care. Sev-
+eral phases have been outlined. Initially, in the
+pilot phase the Norwegian Cancer Genomics Con-
+sortium will look at 3,000 previous tumour biop-
+sies to better understand how different cancer
+mutations respond to drugs. Furthermore, 1,000
+patients will also have their genomes sequenced.
+The next phase will see specific clinical, comput-
+ing and laboratory infrastructure being built.
+Although, Norway is the first to incorporate ge-
+nome sequencing into its national health system;
+it is not the first country to have personalised med-
+icine. The UK and USA already have personalised
+medicine; just not on as large a scale as Norway’s
+proposed plans. In the UK, the NHS is currently
+only conducting research, with DNA extraction,
+storage and testing of tumour genomes. In Bos-
+ton, USA, researchers at Massachusetts general
+hospital have developed a test for 15 genes which
+are already targeted by current cancer drugs. Nor-
+way’s plans differ to Boston’s targeted testing,
+for within their healthcare system they plan to
+sequence entire genomes. It will be interesting
+to see which country’s strategy is preferable. Nor-
+way could just be putting in place infrastructure for
+general personalised healthcare, which does not
+just focus on cancer treatment. Furthermore, who
+knows what the extra data could reveal, perhaps
+even mutations in other genes.
+It is exciting to see how research and health-
+care are merging together more and more. Who
+knows what could be revealed through using per-
+sonalised genome sequencing and how the future
+of healthcare will be shaped.
+Jula Humphries
+Norway puts genome sequencing
+in national health system
+Wang Jinglei and Jia Hao, NASA
+Graphene oxide filters out water
+90% vodka, anyone?
+

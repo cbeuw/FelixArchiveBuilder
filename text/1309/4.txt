@@ -1,0 +1,301 @@
+In January 2005, the Huygens probe will attempt to land on the largest moon in the
+solar system. What it will find there remains a complete mystery to scientists.
+David Osumi-Sutherland reports on the countdown to Titan
+www.felixonline.co.uk
+Felix
+Thursday 9 December 2004
+4
+Science science.felix@ic.ac.uk
+It’s raining methane today. A
+dramatic storm is throwing up
+huge waves of methane that
+lash the ice cliffs. From out of
+the orange clouds descends
+a metal disc suspended from
+a large parachute. Inside the
+disc, sensors hum analyzing
+the chemical and physical
+properties of the atmosphere
+while cameras record the
+tumult below and the view
+out to the horizon. The disc
+approaches the ocean emit-
+ting a pulsing sound, sensors
+alert to echoes from the sur-
+face and the ocean’s depths,
+before disappearing into the
+crashing surf.
+Bad science fiction?
+Possibly. But it’s also a plausi-
+ble scenario for the Huygens
+mission to Saturn’s moon
+Titan in January 2005. The
+basic elements – methane
+rain, a hydrocarbon ocean
+with huge waves, and cliffs of
+ice – were outlined by one of
+the British scientists involved
+in the mission, John Zarnecki
+of the Open University, during
+a press conference in London
+last June. They are all rea-
+sonable guesses based on
+the rather limited data avail-
+able: Titan is certainly cold
+enough for methane and the
+other simple hydrocarbons
+present to be liquid and for
+water only to be present as
+ice. Zarnecki has even collab-
+orated with oceanographers
+at Southampton to predict
+what waves would look like
+on a liquid methane ocean
+on Titan (big, apparently). On
+the other hand, some have
+noted that the same data
+are consistent with the less
+romantic sounding possibility
+of a surface coated in a thick,
+oily sludge.
+The truth is, Titan is one of
+the most mysterious objects
+in our solar system. It is per-
+manently shrouded in a thick
+orange smog that, until last
+month’s close encounter with
+the Saturn orbiter Cassini,
+has completely obscured the
+surface from human view.
+Cracking Titan’s secrets may
+have wider implications for
+scientific knowledge than
+merely filling in a gap in our
+knowledge of the solar sys-
+tem. Titan’s atmosphere of
+nitrogen and hydrocarbons
+is intriguingly similar to that
+believed to have been present
+on the early earth. Perhaps
+studying Titan will give us
+a window on our own plan-
+et’s past. While the extreme
+cold of the surface (a chilly
+–180ºC) rules out the pres-
+ence of ‘life as we know it,
+Jim’, the processes going on
+at the surface are anyone’s
+guess right now.
+The moment of truth.
+Friday 14 January 2005,
+1.45pm, Germany:
+A group of scientists from
+around the world are waiting
+nervouslyfornewsfromTitan.
+If all is going well, Huygens
+will have just jettisoned its
+heat-shield, opened its first
+parachute and started to take
+pictures of the view from
+around 160km above Titan’s
+surface. Over the next two
+hours, as it descends to the
+surface, Huygens will beam
+back images and data from
+analyses of the atmosphere
+to its mothership, Cassini.
+If the probe survives hitting
+the surface, whatever that
+turns out to be, another set
+of sensors will rush through
+an analysis of what it has hit,
+sending back data as quick
+as they can, as no-one knows
+how long the probe will sur-
+vive. After that, the scientists
+back on earth face an agonis-
+ing wait while Cassini turns
+and transmits this precious
+data home.
+For many of the scientists
+waitingnervouslyinGermany,
+this will be the culmination
+of over ten years of work.
+For the past seven years,
+Huygens has piggybacked
+on the spacecraft Cassini’s
+two billion mile trip through
+the solar system. Since July,
+Cassini has been orbiting
+Saturn, collecting data on
+that planet’s famous rings, its
+moons and its magnet field.
+What nobody knew at the
+launch was that Huygens’s
+transmitter had a flaw that
+could have killed its mission
+before it started. A routine
+test of this transmitter during
+thejourneytoSaturnrevealed
+a fault that would have put
+the signal reaching Cassini
+from Huygens during its
+descent outside the frequen-
+cy range Cassini could pick
+up. Fortunately the mission
+co-ordinators found a simple
+solution: they plan to re-route
+Cassini during the transmis-
+sion so that it recedes from
+Huygens more slowly than
+originally planned. This will
+reduce the Doppler effect
+(the same effect that causes
+the pitch of an ambulance
+siren to drop as it speeds
+away from you), raising the
+frequency of the signal being
+received by Cassini into the
+range it can detect.
+Titan’s atmosphere is both
+a blessing and a curse for
+the Huygens mission. Having
+a much thicker atmosphere
+than Mars makes slowing
+the probe easier than slow-
+ing a lander like Beagle II.
+As Beagle II spokesman
+Colin Pillinger puts it: “At
+least going into Titan, it is an
+atmosphere that is going to
+stop you.”
+But dealing with that
+atmosphere poses other prob-
+lems. “We’ve got pretty good
+at designing instruments
+to work in space, but with
+Huygens we’re entering a
+new atmosphere for the first
+time, giving us a whole host of
+new problems to deal with”,
+explains Martin Tomasko,
+head of the team responsi-
+ble for Huygens’ imaging
+equipment. Data from the
+recent Cassini fly-by suggest
+that the atmosphere doesn’t
+contain corrosive chemicals
+that could damage Huygens’
+instruments. But there is a
+danger that components of
+the atmosphere could simply
+stick to and obscure the win-
+dows from which Huygens’
+imaging systems peer.
+However, Tomasko is quietly
+confident that the windows
+will not simply steam up with
+hydrocarbon condensation.
+He notes that, because the
+probe will be warmer than the
+atmosphere, it will in effect
+have heated windscreens. He
+also predicts that the clouds
+that shroud Titan will have
+a bottom, giving a clear view
+from as high as 50-70km.
+One of the biggest chal-
+lenges for the imaging team
+is simply to make sense of
+the data they get. “There are
+no lack of challenges,” says
+Tomasko. “The probe is going
+to be swinging, turning and
+being blown by the wind.” All
+of these factors need to be
+taken into account in order to
+fit successive pictures togeth-
+er into panoramic mosaics
+of the landscape below. The
+swinging and turning will be
+measured by a sun sensor
+sitting underneath two slits
+on top of the probe: whether
+the sun sensor is in shad-
+ow or exposed will depend
+on the angle and spin of the
+probe. Once the probe is out
+of the cloud, making mosaic
+images should become eas-
+ier. “If we can see distinct
+features in our images, we
+can use these to put mosa-
+ics together, rather than rely-
+ing on reconstructions from
+the movement of the probe,”
+explains Tomasko. Despite
+these problems, the wait long
+for the first images should
+not be long. Tomasko and col-
+leagues plan to work through
+the night on their mosaics so
+that they can release their
+two best images at a press
+conference on 15 January.
+What will those pictures
+show? Tomasko doesn’t want
+to speculate. By his own
+admission the first glimpses
+of Titan’s surface, gathered
+by Cassini during its recent
+fly-by, are frankly mystifying.
+While some features are vis-
+ible – dark regions and light
+streaks – no-one seems to
+have much of a clue what
+any of these features are.
+Tomasko seems more com-
+fortable predicting what we
+will not see. He notes thinks
+that the lack of any bright
+reflection of sunlight (spec-
+ular reflection) in Cassini’s
+recent images suggests that
+the ocean theory is wrong.
+However, some dynamic
+process seems to be going on
+at the surface. The lack of any
+obvious craters also suggests
+that the surface is constantly
+being remodeled, but by what
+process is anyone’s guess.
+One thing seems sure: if
+the mission goes to plan, in
+January 2005 we should have
+pictures of a very alien land-
+scape indeed.
+● For further informa-
+tion, visit the NASA and
+ESA mission websites:
+saturn.jpl.nasa.gov/
+home/ind1ex.cfm and
+www.esa.int/SPECIALS/
+Cassini-Huygens/index.
+html
+“The truth is that Titan
+is one of the most
+mysterious objects in
+our solar system. It is
+permanently shrouded
+in a thick orange
+smog...”
+A mosaic of nine processed images taken of Titan on 26
+October reveals the mysterious light and dark patches
+This is Titan
+Artist’s impression: Saturn appears through the veil of Titan’s thick atmosphere which is composed of mostly nitrogen
+and methane. The Huygens probe, having deployed its heat shield and parachute, hurtles towards the surface
+“Titan’s atmosphere is
+both a blessing and a
+curse for the Huygens
+mission...”
+

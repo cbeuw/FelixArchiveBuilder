@@ -1,0 +1,73 @@
+Concrete Results
+Following IC's impressive performance in the concrete
+canoe races Mike Rowley followed up, under the UROP
+programme, by using a concrete laminate to make a radio-
+controlled model speedboat. Powered by a 3.5cc engine its
+performance drew an appreciative audience at the Round
+Pond. Mike's real work was a thorough going investigation
+of new cement laminates using different textiles as the
+reinforcing material, including mosquito net and an IC hand
+towel (Domestic Section please note!). The results sug-
+gested that textile-reinforced concrete laminates could well
+replace asbestos tiles in the future. Incidentally the work
+was sponsored by Marathon Oil and Mike is probably going
+to work for them after graduating.
+'Oh that this too,
+too solid state
+would melt'
+Dr S. Angus, Director of the Thermodynamic Tables
+Project Centre in the Chemical Engineering Department,
+took on geologist G. Tsikos as a UROP student. Dr Angus
+writes:
+In the course of its work on the properties of fluids, the
+Project Centre from time to time encounters minor prob-
+lems of interest which it is unable to pursue and for Mr
+Tsikos we had available a problem on the boundary of our
+respective interests, namely the equation of the melting/
+freezing curve. We had a considerable quantity of experi-
+mental data from many sources in computer readable form
+and suitable programs for manipulating them, including
+least-squares fitting procedures, etc. and we asked Mr
+Tsikos to write short linking programs to investigate how
+well these data represented various suggested equations and
+to consider possible extensions of them.
+We warned Mr Tsikos that only negative results were to be
+expected and this proved to be the case, but the exercise
+was useful to us in closing several blind alleys, and Mr
+Tsikos was pleased to be working on a topic where the
+answer was not to be found in a textbook, but depended on
+his own efforts.
+Cancer Research
+Mark Exley, now in third year Biochemistry, joined Dr
+Lane in the Cancer Research Campaign group in the depart-
+ment. Dr Lane is working on the tumour-producing virus
+SU40. This is a small circular DNA molecule coding for 5
+or 6 proteins, one of which, large T antigen (T), is necessary
+and sufficient for the transformation of mammalian tissue
+culture cells (akin to tumour producing in the animal).
+His laboratory uses an immunolochemical approach to
+study Tantigen and its effect on host protein and DNA
+using monoclonal antibodies. Mark was engaged in the use
+of these reagents from initial purification to their use in
+radioimmunoassays, radioimmunoprecipitation and in situ
+characterisation of their antigens by cell staining with
+immunological sandwiches. We became particularly in-
+terested in 68K — a host protein which had provisionally
+been shown also to bind an anti-T antigen monoclonal.
+His work also involved mammalian tissue culturing, running
+polyacrylamide gels of cell extracts, autoradiography,
+centrifugation, column 'bead' chromatography (including
+affinity chromatography) and other purification tech-
+niques. He was able to work with the members of his
+laboratory, particularly whilst learning the techniques.
+Subsequently Dr Lane has obtained semi-pure preparations
+of 68K and much further information on its role in the cell
+is being obtained and will probably be published soon.
+A word for our sponsors
+To show their enthusiasm for, and faith in, UROP the following firms provided funds to support UROP students continuing
+their research during the Summer vacation.
+W.S. Atkins & Partners National Maritime Institute
+Barr and Stroud Ltd. I.P. Sharp Associates Ltd.
+Marathon Oil
+We thank them most sincerely for their help and hope that they will be able to repeat it this year!
+

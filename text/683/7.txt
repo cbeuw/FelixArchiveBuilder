@@ -1,0 +1,80 @@
+PUZZLESD
+However much this looks like a crossword it is in fact a puzzle.
+A £5 cheque to the person with the most correct solution next
+fortnight.
+G R A D E FOUR
+To solve last fortnight's puzzle put 65 volts across the circuit.
+Then each resistor in the network represents a square in the
+rectangle.
+The height and width of the squares are the voltage and
+current respectively through/across the resistors. We must of
+course set all resistor values to one ohm to ensure that each
+square is square. Using Kirchoff's laws we find the dimensions
+of the squares to be 25, 24, 23, 22 19, 17,11, 6, 5, 3.
+An alternative circuit is produced by turning the rectangle
+through a right angle and reconstructing the network.
+Congratulations to Neil Redman of Physics III who may
+collect his £5 cheque after 1.30pm from the Felix office on
+Monday.
+My consolations go to Peter Ruffhead of computing who was
+the only other person to solve the puzzle correctly. On the right
+is the solution to the Crossword of Monday 1 October. The
+winner is Simon Myers, Maths 2, who can collect his £5 on
+Monday.
+X
+i. ©
+1. I l l
+Z. in
+6. II 3 1
+? n-n
+4
+&n
+i P 5. m u
+ii. * rj 6 €8
+13. t 7 1*1^
+14. m 10. *
+15. dd 12. e./(
+is. • 16 cccc
+11 ntb 17. r
+11. dt
+27 uuu 20. X-NH
+28 er 11. r
+3Q ^ 23 9
+31. eee 25 dk
+33. c li>. xp
+35. ndr 2% cc
+37 u 32. c
+38. 8 34. mt
+41./, 36. ?
+42. ry n t
+43. ( 40. tr
+41. o
+l
+8 n. i t4
+4
+P 1 T c
+(L 1 A P o y o
+A hJ T H £ H S A w
+S U S 0 f
+1
+4
+f 1 £
+S T A X B
+8
+D e
+1 L V 0 P
+20
+O A T i
+£ f\ r 1 U H L s
+U C rJ A
+e s O 0 9 K s 1 N
+s I T 1 S IV/ A
+D f\ 0 r 1 1 S
+b N/ P l N T X r 8
+A L o P c A p u T 6
+T A 0 H T u
+c H e L o 1
+^ "
+e p s f 0
+FELIX Friday 19 October 1984 7
+

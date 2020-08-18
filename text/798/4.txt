@@ -1,0 +1,231 @@
+When computers want to store large
+amounts of information, they almost
+always have to use some form of
+magnetic recording medium.
+Recently, however, optical methods
+have started to become more
+common. Recent announcement*
+from ICI and 3M are likely to
+accelerate the move to optical storage.
+Optical methods can pack much
+more information into a given space
+than magnetic devices. For example,
+an ordinary Compact Disk can store
+almost a gigabyte (1,000,000,000
+bytes) of information or about 1000
+floppy disks' worth. This is big
+enough to store a large encyclopaedia
+and a large dictionary, indeed such
+things are already available for
+microcomputers. Disks cost about
+£100 and the drives (which can play
+your music CD's as well) about £500.
+Scientists will probably use them to
+distribute things like Chemical
+Abstracts, which normally takes up
+about three metres of bookshelf every
+year. A single CD is rather smaller
+than this and can be searched rapidly
+by computer.
+The trouble with CDs is that you
+can't put your own information on
+them. You can get writable optical
+discs, but they cost horrendous
+amounts of money and they still
+cannot be erased (though when you
+have a gigabyte this is rarely a
+problem). But 3M have developed an
+erasable optical disk based on thin
+films of rare earth metals. Lasers
+write to the disk by warming a small
+spot while the disk is in a magnetic
+field. This changes the magnetic state
+at the spot, which is detected by its
+effect on the polarisation of a weak
+laser beam. The process is reversible
+and so the disks can be repeatedly
+reused, just like ordinary magnetic
+floppies. They estimate that the cost
+will be about £2 per megabyte, about
+ten times cheaper than conventional
+hard disks.
+Considering all this, it may seem
+strange that ICI has recently
+announced a new mass storage
+medium based on paper. Well, it's not
+ordinary paper, but a plastic sandwich
+of a dye polymer. It costs about the
+same as good quality paper to make.
+Information is stored by burning holes
+in the dye using an infra-red laser.
+The cost of information storage works
+out at less than lp per megabyte
+(compared to floppy disks at about £1
+per megabyte for very limited
+capacity). The paper can be made in
+vast sheets and cut into disks or long
+strips.
+Again, it is not erasable, but it is
+so cheap that hardly matters. The only
+problem is that no one has built a
+storage device based on it yet. When
+they do, a single reel of digital paper
+U N D E R T H E
+M
+I
+C
+R
+O
+S
+C
+O
+P
+E
+by Steve Black
+Plastic paper for computers
+tape will store about one terabyte of
+information (this is about fifty times
+more than the sort of magnetic tape
+used as mass storage on mainframe
+computers; conveniently, it is about
+the amount of satellite data NASA
+expect to process every day by 1995).
+Whether digital paper will ever
+make its way into the microcomputer
+market depends on how cheap laser-
+based disk or tape drives can be made.
+Hopefully, whatever comes along will
+be cheap and more robust than the
+average floppy disk.
+Patenting Life
+If the creationists are right about
+world history, then American Law
+insists that all farmers should be
+paying royalties to God.
+The US Patent and Tradmark
+Office has recently announced that it
+will accept patents on genetically
+altered animals and plants. Such
+things are now possible for ordinary
+mortals as well as the Almighty. This
+has caused some degree of
+consternation among religious
+figures, who reckon that fiddling with
+life in this way is a breach of God's
+copyright. However, since He forgot
+to stake his claim with the patent
+office, no legal action is possible.
+On the other hand, environmen-
+talists have found other legal ways to
+object to genetically altered beasties.
+They have found various dodges to
+prevent field testing of a genetically
+altered bacterium in California (the
+bug had had its genes altered to
+prevent it making a protein that
+caused crop-damaging ice crystals to
+form). The environmentalists were
+worried that a Frankenstein bug might
+be released that could cause more
+trouble than it cured.
+We now know how to make
+genetically altered animals as well as
+bugs. But according to the American
+Patent Office '.. .unauthorised acts of
+reproduction of patented animals
+would seem to be an infringement of
+patent law...'. This seems likely to
+cause some annoyance to farmers,
+who will have to enforce strict sexual
+segregation on their beasts or pay
+royalties on the resulting progeny.
+(Nature 331 p651)
+Cancer and the Voters
+The State of California held a
+referendum last year on a law that
+tries to completely ban carcinogenic
+chemicals from the environment. It
+won overwhelming support, despite
+opposition from scientists.
+The law insists on tight control on
+chemicals known to cause cancer or
+birth defects (for example, companies
+using nasty compounds have to post
+warnings in public places). This may
+seem reasonable, but it is the strict
+definitions in the law that make it
+dubious. They may indeed also make
+it ridiculous.
+The law was promoted by a
+widespread fear that dangerous
+chemicals were being leaked into
+public water suplies, or used as food
+additives and so on. The ogres of the
+chemical and electronics industries
+were thought to be taking a cavalier
+attitude to public safety. Such an
+attitude has been worsened by the
+secretive behaviour of the offending
+companies: if they had taken the effort
+to keep people informed then they
+might never have aroused public
+disapproval.
+The strict limits enshrined in the
+law are going to make it difficult for
+some companies to operate at all
+(even though the Governor has
+interpreted them as loosely as
+possible). The law effectively
+assumes that any compound is
+dangerous if it causes cancer or birth
+defects in animals at any level of
+exposure. This ignores much of the
+evidence suggesting that animal
+experiments overestimate the danger
+of many compounds (there are some
+classic examples of this: penicillin
+kills hamsters and aspirin kills cats).
+The law's real mistake is that it
+assumes that all nasties are man-
+made. There are plenty of pretty
+horrible compounds that are perfectly
+natural. Many food products contain
+small amounts of deadly natural
+nasties (but not enough to do any
+damage) that the law does nothing to
+regulate. Anyway the biggest source
+of man-made cancer is not the
+indiscriminate efforts of the chemical
+industry, but individual choice.
+People choose to smoke tobacco and
+to eat unhealthy diets, they are not
+forced to do either. But no
+environmentalist is trying to ban
+cigarettes from sale, or to force
+MacDonalds to put health warnings
+on their burgers.
+Editor's Bit
+One of the problems in California is
+that the scientists never bothered to
+tell the people what they were doing
+and why, so the people got
+suspicious. Scientists have got to tell
+people what they are about or this sort
+of thing is bound to happen.
+A good place to practice is here.
+This very space in FELIX could be
+yours. If you have a good news story
+or a good feature article, send it to
+me (Chem Eng letter racks, the
+FELIX Office, or phone int 4642).
+Several people have promised me
+features on various topics, but very
+few have, as yet, materialised. If you
+have anything, I suggest you get it to
+me before Easter, you won't have the
+time afterwards.
+And, if anyone wants to be Science
+Editor next year, now is the time to
+start thinking about it.
+4 Friday March 11th 1988 FELIX
+

@@ -1,0 +1,313 @@
+28 felix Friday 23 January 2009
+felix@imperial.ac.uk
+Technology
+Technology Editor – Richard Lai
+felix@imperial.ac.uk
+29
+Friday 23 January 2009 felix
+Technology
+M
+y trip to the US had
+been very exciting.
+Very exciting indeed.
+Not only did I get
+taken to a police sta-
+tion in San Francisco and held a shot-
+gun, but I also had the chance to check
+out tonnes of cool new gadgets at the
+CES (Consumer Electronics Show)
+in Las Vegas. Frankly, the city is only
+worth visiting for the show (which is
+not open to the public), or if you’re into
+gambling and staring at fake tits.
+Apparently there were significantly
+fewer visitors this year; probably only
+60%oflastyear’sfigure,andweallknow
+the reason. Nevertheless, new gadgets
+were still pouring out over the four-day
+event, which took up large floor areas
+of several convention centres and ho-
+tels. Here’s an idea of the event’s scale:
+as a favour for a Hong Kong audiophile
+magazine, I took photos of every single
+room at the High Performance Audio
+& Home Theatre area, which occupied
+about 300 suites that took up five floors
+at The Venetian, and that alone took
+me two and a half days (bear in mind
+I literally only snapped a few shots in
+each room and didn’t sit down to listen
+to the systems)! If that wasn’t enough,
+I still had the Las Vegas Convention
+Center (LVCC), Sands Expo, Renais-
+sance and Hilton Hotel to explore!
+In the remaining days I only managed
+to cover some parts of the LVCC – the
+main venue of the show – and Sands
+Expo. As many CES regulars suggested,
+I wouldn’t be surprised if it took an en-
+tire month to see absolutely everything
+on show. Not only were my legs knack-
+ered, but my chapped lips (the harsh
+winds of San Francisco didn’t play nice-
+ly) and insufficient sleep also challenged
+my temper. Fortunately, the sight of fun
+and rare gadgets overcame my darker
+thoughts, otherwise I may have made
+the Vegas headlines following some sort
+of mental-breakdown behaviour.
+Anyway, enough moaning. Enjoy the
+rest of the article!
+Highlights of CES 2009, Las Vegas
+Richard Lai heads to the US, gains weight and picks out some of the best gadgets in the international show
+Televisions
+Have a strong
+opinion on a
+gadget?
+Want to share
+a review?
+Send in your article and high-
+resolution pictures or links
+to felix@imperial.ac.uk, and
+include “Technology section”
+in the e-mail subject.
+This year there were four distinct
+categories of TVs: the large, the
+thin, the eco-friendly and the 3D
+displays. While TV sizes had al-
+ways been the main driving force of
+the competition, many companies
+see that eco-awareness is opening
+a new market. Companies such as
+Sony, Panasonic and Toshiba had
+green booths comparing live power
+consumption of current TV models
+and new eco-friendly ones, as well
+as posters pointing out the recycla-
+ble materials used.
+The electronic companies also
+believe that 3D display is the future.
+Sony was displaying their 3D mod-
+els that require viewers to wear
+special glasses – quite an incon-
+venience for four-eyed peeps like
+myself – but apparently Samsung
+came up with a TV that displays
+3D right out of the box. Sadly Sam-
+sung was the only large booth that
+I failed to get to, so I’ll make sure I
+check them out next time.
+LG’s extremely thin and colourful OLED TVs, only 0.85mm thick!
+Panasonic’s 1/3 inch plasma TV
+Storage Media
+SDXC – the next-gen SD that gives you 32GB to 2TB capacity
+Now that the HD format war is
+over, the spotlight is returning to
+solid-state memory. As you can
+see above, the SD Association an-
+nounced the SDXC specification,
+giving you massive storage ca-
+pacities of 32GB up to 2TB on the
+tiny cards, and transfer speed of
+104MB/sec (up to 300MB/sec in
+the future). The final specification
+will be released to manufacturers
+next month, so expect to see SDXC
+cards and compatible devices in
+stores in about three months’
+time.
+SanDisk made a big presence at
+the show too, actively promoting
+their SSD products for laptops,
+notably the high-speed 240GB 2.5”
+SATA-II SSD, which will be avail-
+able directly from their website for
+$499 by mid-2009.
+SanDisk claims their latest SSDs are 5 times faster than HDDs
+“Next-gen” Gaming
+I came across a couple of very cool
+gaming products, both of which
+can be categorised as “next-gen”
+gaming, since they don’t require
+conventional controllers.
+For example, Mattel’s Mindflex
+(pictured left) consists of a small
+obstacle course platform, on which
+hovers a small purple ball support-
+ed by air blown from below, and the
+player controls the strength of the
+fan with his/her mind (theta-wave
+activity detected by a head band),
+and the X-Y coordination control-
+led by hand. Not bad for $80, huh?
+Another cool technology that the
+game industry should look into is
+GestureTek’s 3D gesture recogni-
+tion. As pictured on the right, a
+camera captures live 3D images
+and translates gestures into instruc-
+tions – in this case, steering and ac-
+celeration of a virtual car (moving
+the fists apart accelerates, and vice
+versa). As far as I could see, the vid-
+eogame’s responded very well.
+GestureTek has also collaborated
+with Hitachi and 3D sensor maker,
+Canesta, to create a gesture-con-
+trolled TV. A lazy man’s dream? Driving game sans steering wheel
+Mindflex – a mind control game
+Computers
+This year’s CES saw the birth of
+Sony’s first Intel Atom powered
+laptop, but the Japanese company
+insists the P Series is not a netbook.
+Sony’s Vice President, Mike Abary,
+was quoted saying the P Series is
+targeted at the premium market,
+of which the “customer probably
+doesn’t even know what a netbook
+is”. Frankly, we think this is just an
+excuse to justify the £849-or-higher
+pricetag. Nevertheless, the “laptop”
+felt good on hand, especially with
+the generously-sized keyboard, but
+you’re stuck with a nipple instead
+of a trackpad sadly. The small high-
+resolution screen (8”, 1600x768) is
+great for moies on the go, yet the
+device is crippled by a shabby 2hr
+45min battery life.
+Elsewhere,whatdidexcitemewas
+the ASUS Eee PC T101H prototype
+(pictured top, right hand column) –
+the first Eee-branded tablet PC. No
+prices yet (should be fairly afford-
+able anyway), but it should be out
+within the next few months.
+AnotherentryfromASUSwasthe
+Eee D200 (pictured right middle) –
+a 2TB media server with a small
+touchscreen, a slot-loading DVD
+burner and 802.11n router (yes, a
+built-in router!). It’s rumoured to
+be priced at a mere $600, and will
+come out in Q1 this year.
+A quick browse around MSI’s
+booth found a MacBook-Air-look-
+alike X320 (pictured bottom right).
+Weighing just 1.3kg with a 4-cell
+battery (60g lighter than Air!),
+sporting two USB ports instead of
+one, and coming in three colour
+options (black, silver and white).
+The X320 might do slightly better
+than the Air. We shall see.
+Sony VAIO P Series netbook laptop – not wallet-friendly
+British Pride
+ASUS Eee PC T101H tablet PC
+MSI X320 – MacBook Air clone?
+ASUS Eee D200 media server
+Even though I’m not British, it was
+still nice to bump into a few Brits in
+Las Vegas.
+Hailing from Cambridge was the
+renowned Bluetooth company CSR
+(Cambridge Silicon Radio), which
+launched the TrueWireless Stereo
+software development kit for high-
+end Bluetooth stereo headphones
+and speakers. The idea is that un-
+like traditional Bluetooth speak-
+ers, products developed using this
+SDK do not require a hardwire-link
+between the left speaker and right
+speaker. To make this possible, one
+of the speakers acts as the master,
+which buffers the data stream from
+the audio source, and then relays
+the appropriate data to the slave
+speaker. The developed products
+will work with any existing A2DP
+(Advanced Audio Distribution
+Profile, for streaming high quality
+stereo audio) devices. CSR’s TrueWireless Stereo SDK kills another wire
+If you’ve been at Imperial long
+enough then you might recognise
+this guy on the left: Mr. Haider Bah-
+rani was an M.Sc. student with the
+Control & Power Research Group
+in the EEE department, and before
+that he studied electronic engineer-
+ingatKingstonUniversity,wherehe
+met his close friend and later busi-
+ness partner, Remo Casadei. After
+finishing his M.Sc. in 1994, Haider
+joined Remo to launch Sonneteer
+and their first product shown at
+CES – the Campion amplifier –
+was actually Haider’s improved fi-
+nal year project from Kingston!
+At the showroom, Haider proud-
+ly showed me the freshly-launched
+Morpheus – a slick, hand-made
+£2200 high-end music centre that
+plays “music from all your home
+computers, the Internet, memory
+sticks and your mobile phone” and
+many more. Really impressive!
+Mr. Haider Bahrani, an Imperial alumnus, next to the Morpheus
+Last but not least: you may recall in
+my Stuff Live coverage last term, I
+mentioned the much-hyped portable
+DJ device, the Pacemaker by Tonium
+of Sweden. Well, on Day 0 of CES I
+caught sight of fellow Brit DJ Tristan
+da Cunha (left), who demonstrated the
+Pacemaker for me at Stuff Live, and
+then we bumped into each other again
+on the train after the London show. I
+didn’t manage to catch him then, but as
+I was out night-sightseeing on Day 2, I
+bumped into Tristan outside a casino!
+What a small, small world.
+Anyway, it turned out Tristan was the
+lone Brit in the Swedish group – that’s
+how good of a DJ he is! I then went to
+his booth on Day 4 to check out Pace-
+maker’s software update, and boy I was
+pleased: the UI “has been completely
+reworked” for user-friendliness, and
+it now has auto beat match – a crucial
+feature that was greatly missed in the
+first generation software. When the
+60GB version comes out in Spring for
+£300, I might actually have to get one.
+Tonium’s DJ Tristan da Cunha Tonium Pacemaker DJ device
+The ugly stuff...
+More cool stuff...
+WowWee Joebot can beatbox! Fujitsu PalmSecure system
+I take back all my comments re-
+garding how silly it is to keep ro-
+botic pets. WowWee’s Joebot has
+convinced me that I should get one:
+not only can you fight it with any IR
+remotes, but the comic robot can
+also beatbox and dance! I’m sold!
+As for the PalmSecure, this authen-
+tication system reads your palm
+vein pattern, requiring no physical
+contact, making it an ideal system
+for hospital security. The actual
+sensor is only slightly bigger than
+the average water bottle cap.
+I had a proper “WTF” moment
+when I saw these head-swinging
+(and no doubt head-shaking for us)
+iPod speakers.
+More hilarious still was that sat at
+the top of the animal kingdom was
+“Happy Obama” (congratulations,
+by the way). Search for “OZAKI
+Obama” on YouTube for some “Yes
+we can!” action.
+

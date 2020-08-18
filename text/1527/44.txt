@@ -1,0 +1,196 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 19 OCTOBER
+44
+Crossword
+ACROSS
+1. Eldritch deity
+5. Trench, defensive fighting position
+9. Sleepwalking
+10. Member of the University of Oxford
+11. Fruit garden
+12. City in Minoic Crete
+15. Flew too close to the Sun
+18. Suffering from Hansen’s disease
+19. A beard style; a type of brown (3,4)
+20. Animal’s hideout
+21. American songwriter
+23. Latin random number generator
+25. Former name of East Midlands Airport
+26. Vedic god of fire
+28. NATO’s ’T’
+31. Study of coins
+32. Rock containing precious metals
+DOWN
+1. Christian clerical robe
+2. Topology studies objects invariant under
+this
+3. Muslim warrior champion
+4. Another name for Scotland
+5. ... tubes: connect ovaries to uterus
+6. Government by foreigners
+7. Drama accompanied by music
+8. Purposefully obfuscate
+13. Divine by means of crystal ball
+14. Shrewd
+16. Containing carbamide
+17. Coffee; island of Indonesia
+20. A type of fabric
+22. Proof of innocence
+24. Genus with only Great Bustard in it
+27. State in India
+29. Prefix meaning “new”
+30. Commemorative lyric poem
+2
+2
+1 0
+3 2 1 1
+3 0
+3
+0
+3
+2
+2
+2
+2
+1 2
+2
+3 1 2
+2
+3
+3
+1
+1
+1
+1
+3
+0 3 3
+Slitherlink
+Licenced to kill?
+Despite my attempts to introduce new kinds of
+puzzles that only I care about, your favourite num-
+ber logic puzzle is here to stay.
+Your goal is to make a single loop by joining the
+dots so that numbered squares are surrounded by
+the corresponding number of lines (e.g. a square
+numbered ‘1’ can only have one line on one of its
+sides).
+As usual, send comments/complaints that the
+puzzles are too hard/complaints that the puzzles
+are too easy/complaints that the layout is an eye-
+sore/solutions to puzzles.felix@imperial.ac.uk.
+1
+9
+10
+12 13 14
+19
+17
+18
+20
+15 16
+23
+24
+22
+21
+25
+31
+26 27 28 29 30
+32
+11
+2 3 4 5 6 7 8
+Four inhabitants of the island of Knights and Knaves (where Knights always tell the
+truth and Knaves always lie) that know each other are shown two white hats and
+three black hats. They stand in a line so that Andy can see Bob, Chris and Dan, Bob
+can see Chris and Dan, Chris can see Dan, and Dan can see no-one. They each put on
+one hat without looking at it, and they are asked what colour hat they’re wearing:
+Andy: I don’t know.
+Bob: Yes you do. I’m wearing a black hat, by the way. Hey Dan, you’re wearing black.
+Chris: Hey, Andy’s not lying. I don’t know what I’m wearing either.
+Dan: Yes you do. Come on, Andy’s a knave, for crying out loud.
+What are they wearing? Who’s a knight and who’s a knave?
+Solution to last week’s Knights and Knaves puzzle:
+Andrew and Bartholomew are accusing each other of lying. That means that exactly
+one of them is a knave. However, Curtis says that both of them are knaves. Thus, he’s
+lying. Since he also accuses Andrew, Andrew is innocent. Since Andrew said he was
+innocent, he’s a knight (and Bartholomew is a knave). Finally, Andrew says that both
+BartholomewandCurtisconfessedtostealing,butthey’reknaves,sotheylied.Incon-
+clusion, none of the three men stole the horse.
+Last week’s crossword:
+Knights and Knaves
+Last week’s Slitherlink and Kakuro
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+Fill in the boxes according to the numbers. The numbers at the sides show
+how many blocks need to be filled in on that row or column, and how long
+the blocks are. Simple!
+Netflix is the world’s leading in-
+ternet subscription service which
+gives you access to hundreds of
+thousands of films and TV series
+at the click of a button and they’ve
+given us 2 six month subscriptions
+per week to give away to the lucky
+winners who successfully com-
+plete the most puzzles correctly.
+Send your answers to puzzles.fe-
+lix@imperial.ac.uk to be in with a
+chance of winning.
+Visit netflix.com/uk for more in-
+formation
+

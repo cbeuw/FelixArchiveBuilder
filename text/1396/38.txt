@@ -1,0 +1,158 @@
+The winner of Slitherlink 1,395 was
+the same as the week before. We ac-
+cidently put the same Slitherlink in
+two weeks running. We apologise
+profusely. It won’t happen again.
+Good luck with this one.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+The Polygon of Gayrific Grundeltonguing Gadzooks
+sudoku.felix@imperial.ac.uk
+39
+Friday 15 February 2008 felix
+Fun & Games
+V
+E
+E
+L
+R
+I
+D
+Slitherlink 1,396
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,394/5 solution
+3
+0
+x
+x
+x
+x
+3
+1
+3
+3 3
+1
+1
+2
+3
+1
+2
+3
+2
+2
+1
+2
+2
+1
+3
+3
+2
+2
+2
+3
+3 3
+3
+2
+2
+2
+3 3
+2
+3
+1 2
+2
+0
+1
+3
+2
+1
+3
+3
+2
+3
+3
+2
+3
+2
+2
+3 0
+3
+3
+3 3
+1
+3
+Shits & Giggles by Rayvon
+Last week’s solution:
+LADETTE
+Congratulations if you got ladette!
+Other words included:
+date, dealt, deet, delate, delt, delta,
+elate, elated, late, lated, latte, leet, let-
+ted, tael, tale, tate, teal, teat, teated,
+teed, teel, tela, telae, tele
+How to rate yourself:
+Under 14 words: Oh my god, if I was
+as bad as you are, I’d kill myself. Al-
+though you probably couldn’t even do
+that sucessfully.
+15 - 24 words: Thats getting better but
+seriously, you have to pull your socks
+up. I’d still be seriously considering sui-
+cide with this score.
+25 - 34 words: This is more like it. If
+you get a few more, I may have to not
+euthanase you.
+35 plus words: You are worthy.
+How to play
+Using the letters given, not more than
+once, make as many words as possible.
+They must be at least four or more let-
+ters long and each word you come up
+with must include the central letter.
+Capitalised words, conjugated verbs
+(past tense etc), adverbs ending in
+“-ly”, comparatives and superlatives are
+disallowed.
+1 2 3 3
+0 2 2 2
+2 1 2
+2
+1 2
+3
+

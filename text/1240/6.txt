@@ -1,0 +1,126 @@
+medicine feature
+Medicine In The Digital Age
+Looking at the changes in the lifestyle of
+our parents' and grandparents' lives it is
+hard to disagree that life has improved
+substantially. Every decade has seen a
+technological revolution. If the '70s, '80s,
+and '90s have seen semiconductors, PCs
+and the Internet respectively, in the 21st
+century 'pervasive computing' will be
+poised to transform our lives. This would
+mark a fundamental transition in medi-
+cine with an increasing adoption of per-
+vasive computing and broadband net-
+works in the provision of high quality
+care. Today, the network and computer
+are as essential to providing medical care
+as the stethoscope and reflex hammer.
+This new environment of bits and optical
+pulses is transforming virtually every
+aspect of medical care. This text address-
+es the opportunities central to our transi-
+tion to a 'digital age' in medicine.
+So, here's a sneak preview: I have been
+assimilated. I am hooked up to an elec-
+tronic device 24 hours. A n d I love it! This
+is how many people might feel in the not-
+so-far future. If you are asking why?, then
+think about this.
+The Smart Medical Home (SMH) is a
+project at the Center for Future Health,
+University of Rochester in collaboration
+with MIT's Media Laboratory. According
+to Philippe Fauchet one of the co-
+founders, "today we wait until you get
+sick, drag yourself to the doctor, and then
+we throw this multimillion-dollar heroic
+technology at you. So we wondered if it
+was possible to do early detection, even
+before you got sick, with technology that
+is very inexpensive, consumer friendly,
+and doesn't require a complex change in
+lifestyle."
+The Smart Medical Home would include
+a series of devices working in conjunction
+in the home to monitor a family's health.
+With the present work on networking pro-
+tocols like Bluetooth, etc, it is not far
+before we could realise such a smart
+home.
+Consider placing an adhesive bandage
+on a cut, and having the bandage tell you
+immediately that dangerous bacteria
+have got into the wound and you need to
+seek a doctor's help. Once you scan your
+bandage, the chip will connect to a home
+PC responsible for monitoring residents'
+health, reporting what kind of bacteria is
+present. The house will check a medical
+database via the web to determine what
+kind of treatment is necessary, confer
+with other sensors that have been moni-
+toring your gait for signs of stroke, your
+skin for signs of melanoma, and your med-
+icine cabinet to make sure you haven't
+been taking anything that may conflict
+with any new medication, and suggest to
+you in spoken English (or for that matter
+A Smart Medical Home
+any language you prefer) what steps you
+need to take to treat your infection.
+Cripes, hypochondriac alert...
+The California-based Stanford
+University Medical Center and Providence
+Everett Medical Center in Seattle,
+Washington, became the first two medical
+facilities in the United States to implant
+Biotronik's novel pacemaker, which fea-
+tures home monitoring technology. Home
+monitoring is the first technology of its
+kind to be approved by the Food and Drug
+Administration, and is anticipated to rev-
+olutionize the way physicians currently
+monitor their pacemaker patients.
+The home monitoring system implanted
+is one of the most exciting technologies
+that have been developed in the field of
+arrhythmia management. This technology
+will serve as a platform to deliver true
+21st century patient care by allowing
+physicians to provide more prompt
+response as well as more complete
+patient management to those with
+arrhythmia problems.
+With home monitoring, the pacemaker
+can be customized to automatically trans-
+mit a detailed cardio report to the physi-
+cian's office on a daily or weekly basis, or
+if the patient experiences a significant
+change in their heart condition, allowing
+the patient's clinician to be able to
+respond more effectively to their patients'
+changing cardiac status.
+This remote wireless pacemaker could
+become a critical telemedicine applica-
+tion, where cardiologists could monitor
+their patients with cardio-vascular condi-
+tions anywhere in the world. In the future,
+consumers will use personal medical
+technology in the privacy of their homes
+to maintain health, detect the onset of
+disease and to manage disease proactive-
+iy.
+Another area of interest in the way
+technology is being used for medical
+monitoring is 'Smart clothing,' that not
+only has the capability to make you look
+smart but would be able to think as well.
+VivoMetrics of Ventura, California, have
+begun beta-testing its LifeShirt. It looks
+like a sleek fishing vest and records more
+than 40 health parameters. Sewn into the
+vest are electrodes for heart monitoring
+and three conductive bands that gauge
+the movement of the heart and lungs from
+

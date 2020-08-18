@@ -1,0 +1,199 @@
+Genes affecting intellect
+We’re all guilty of pulling all nighters...
+Imperial students fall generally into two cat-
+egories: those who work hard and those who
+don’t work at all. Students across all years ei-
+ther diligently trek to the library every evening
+or pass it completely (as in, walk awkwardly
+around the redundant new library porch) to go
+straight to the Union.
+However, when it comes to academic suc-
+cess, there seems to be no such correlation.
+Blame your department, blame your note tak-
+ing skills or even blame the annual arrival
+of the American girls tempting you into the
+depths of Metric, but new research has shown
+your academic floundering or success could be
+down to your genes. A paper published online
+in Nature this week has taken the first step in
+actually quantifying how genetics can influ-
+ence cognitive ability, but take their findings
+with a pinch of salt - intrinsic aptitude alone
+won’t get you that 2:1.
+The study lead by Ian Brady, a professor of
+Differential Psychology at the University of Ed-
+inburgh, has allowed an insight not just into in-
+telligence causation but also intelligence degen-
+eration over time, thanks to data uncovered from
+the early 20th century that was collected across
+Scotland. Using a traditional cognitive testing
+method in conjunction with high tech genomic
+sequencing, test scores from a group of unrelated
+individuals were recorded at two distinct times in
+their lives, and then compared against the genetic
+variation between the groups.
+The test used was the Moray House Test
+(not that House), and is very similar in struc-
+ture to entrance tests usually taken for Gram-
+mar school entry by 11 year olds, sometimes
+referred to as the 11-plus. A combination of
+verbal reasoning questions were asked to just
+under two thousand participants aged 11 back
+in 1932 and 1947, and the same individuals
+were tracked down when they were aged 70 to
+FELIX
+Friday 03 February 2012
+10
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+Zero-point energy fluctuations
+first seen in solid object
+At a temperature of absolute zero, any atom or
+molecule will still vibrate as it has a minimum ther-
+mal energy known as zero-point energy. For the
+first time, evidence of zero-point energy has been
+seen in a solid object larger than a single atom or
+cluster – a silicon bar 12 micrometres long and
+less than a micrometre in diameter.
+Light reflected off an object will be red- or blue-
+shifted depending upon whether it is travelling
+away from or towards you, and according to clas-
+sical mechanics, an oscillating object will reflect
+an equal amount of red-shifted light as it does
+blue-shifted; otherwise, it would show that the ob-
+ject has net movement towards or away from the
+observer. However, at temperatures near absolute
+zero where quantum mechanics dominates, an ob-
+ject oscillating at its zero-point energy cannot emit
+energy to its environment, and thus cannot blue-
+shift any light reflected off it.
+Scientists at the California Institute of Technol-
+ogy cooled the silicon bar to within less than half
+a kelvin of absolute zero, and fired a laser at it. By
+measuring the reflected light, they saw an asym-
+metry between the red and blue-shifted reflec-
+tions, showing that the bar spent around 30% of
+its time in its zero-point energetic ground state.
+DOI: 10.1103/PhysRevLett.108.033602
+Keir Little
+I can’t see anything in this solid sphere
+take the same test under the same standardised
+conditions. They also gave a cell sample to de-
+termine how strong the genetic link may turn
+out to be.
+Their genomes were then scrutinised to pro-
+duce Single Nucleotide Polymorphism (SNP)
+data. SNPs are particular points in the genome
+sequence where one fraction of the species
+population has one nucleotide type, and anoth-
+er substantial fraction has another type. SNPs
+therefore can be used to give an insight into
+the possible genetic causes of varying char-
+acteristics between individuals in the same
+population, in this case intelligence. Over half
+a million SNPs were scrutinised for every in-
+dividual who took the test, and Brady was able
+to put forward the estimate that 24% percent
+of their cognitive ability is determined by the
+genes due to the differences in the scores be-
+tween the two age groups.
+So does this mean that about a quarter of our
+intelligence is genetically determined from the
+start? Not necessarily, as the overall statistics
+are a bit sketchy and the Moray House Test is
+just one of many ways to test intelligence, so
+a greater, more detailed study may be needed.
+A greater genetic insight is needed too, such
+as locating specific gene sequences, but this
+research does provide a new understanding on
+which to base future neurological studies into
+intelligence and its causation.
+However, if 24% of your intelligence is ac-
+tually genetic alone, that means that 76% is
+still down to you. This should come as great
+news to all those who spent Christmas revising
+hard and neglecting their family, their friends
+and their hygiene, as you may actually stand
+a chance of doing well. To everyone else, put
+down Felix, finish that Nonogram later and
+sulk over to the library. You may have to at-
+tempt to work hard after all.
+DOI:10.1038/nature10781
+Like us on Facebook
+facebook.com/FelixScience
+Follow the latest science
+news from Imperial and
+around the world on our
+Facebook page
+Researchers at MIT have discovered a new
+method of performing the Fast Fourier
+Transform algorithm which, in a large set
+of use cases, adds performance improve-
+ments. The MIT group submitted their pa-
+per, “Nearly Optimal Sparse Fourier Trans-
+form” to ArXiv on 12 January and presented
+their findings in the Symposium on Discrete
+Algorithms (SODA) last week.
+The Fourier Transform is a popular means
+of mathematical analysis which decomposes
+functions into their constituent frequencies.
+The Discrete Fourier Transform (DFT) is
+a realisation of this as an algorithm which
+takes a sequence of real or complex num-
+bers to process information stored in com-
+puters, with uses in academic areas in Com-
+puter Science and mathematics. The Fast
+Fourier Transform (FFT) is a set of algo-
+rithms which are able to efficiently compute
+the DFT in a significantly faster time. FFTs
+have been hailed as the Swiss Army Knife
+of algorithms, with wide ranging applica-
+tions in graphics (image processing, filters),
+digital signal processing (reconstructing a
+signal from frequency data), compression,
+optics, crystallography and data searching.
+FFTs work by performing a variety of
+optimisations on the DFT. Speeding up ele-
+ments within the summation equation, such
+as the amount of multiplication operations
+involved, allows for reduced processor us-
+age during the algorithm’s execution. This
+increases efficiency significantly, but there
+is no known proof which dictates the FFT
+is the fastest algorithm for computing the
+DFT. Renowned MIT mathematician Gilbert
+Strang has described the FFT as the “most
+important algorithm of our generation”.
+The MIT researchers’ new algorithm,
+coined the Sparse Fourier Transform (sFFT),
+improves on the FFT by considering a signal
+to be a product of narrower slices of band-
+width. With this, the signals are treated as
+oscillations rather than binary up/down di-
+rections, and the same slice of bandwidth
+can be sampled at different times to better
+determine where the dominant frequencies
+are. This strategy, notable for its use in 4G
+cellular networks, allows for sparse (heav-
+ily weighted) frequencies to be identified
+faster. As a result, the algorithm’s worst
+case efficiency is equivalent to the FFT,
+but the average case is an improvement for
+many general input signals.
+The sFFT algorithm, developed by two
+professors from MIT’s Computer Sci-
+ence and Artificial Intelligence Labora-
+tory (CSAIL) along with their students,
+has been described by Professor Martin
+Strauss from the University of Michigan
+as “greatly [expanding] the number of cir-
+cumstances where one can beat the tradi-
+tional FFT”.
+Faster Fast Fourier Transform found
+Alexander Karapetian
+Philippa Skett
+The Guardian
+

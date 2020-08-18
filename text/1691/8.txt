@@ -1,0 +1,529 @@
+ISSUE 1691
+FELIX
+SCIENCE
+FRIDAY, 4TH
+MAY, 2018 FELIX
+science.felix@imperial.ac.uk SCIENCE science.felix@imperial.ac.uk
+10 11
+Lab-grown heart used for drug safety testing
+C
+urrently, drug
+safety testing
+has to be ini-
+tially conducted
+on animals, before trials
+in humans begin. While
+animal models have
+proven to be useful, in
+some respects, they do
+not wholly mimic human
+reactions.
+One of my lecturers’
+favourite examples is tha-
+lidomide – a mild sleeping
+tablet that was proven
+safe in adults. Animal
+studies and human drug
+trials failed to detect its
+harmful effects on devel-
+oping foetuses, and, as a
+result, in 1962 thousands
+of babies worldwide were
+born with malformed
+limbs.
+This disaster led to in-
+creased stringency of the
+drug testing process, but
+did not reduce the fears
+of expecting mothers –
+pregnant women are less
+likely, for example, to
+take long or short-term
+medications to help
+control their symptoms of
+insomnia.
+However, a recent study
+in March by a research
+group in Syracuse Uni-
+versity, New York may
+have just found a reliable,
+clinically-relevant model
+to allow drug safety
+testing in embryos! This
+involves using stem cells
+– unspecialised cells that
+can be turned into differ-
+ent type of cells, such as
+heart cells. By utilising
+bioengineering principles,
+the research group in US
+were able to generate a
+heart in the early stages of
+development using stem
+cells.
+Current problems with
+growing a developing
+heart (also known as
+cardiac organoid) in the
+laboratory centre around
+the immaturity of the
+cells themselves. Those
+that were grown on a dish
+are simply not the correct
+shape or orientation, and
+therefore they have differ-
+ent functional properties
+to those inside a human.
+To resolve this, the
+group used biomaterials
+– substances that are able
+to interact with cells –
+combined with stem cells,
+to drive stem cell special-
+isation into heart cells, as
+well as encouraging cell
+maturation. The group
+patterned the biomaterial
+by creating the correct
+geometric confinement on
+the biomaterial, and, con-
+sequently, a 3D cardiac
+cell culture that mimics
+early heart development
+was able to be formed
+in approximately three
+weeks.
+Since human stem cells
+are used, these organoids
+are well suited for drug
+screening, because it
+eliminates the species dif-
+ference between animals
+and humans; this means
+patients can now have
+greater confidence when
+taking medications, and,
+perhaps, fewer animals are
+required for drug testing.
+In parallel, understanding
+the factors that influence
+human heart development
+may allow for the study
+of developmental heart
+abnormalities, allowing
+scientists to find treat-
+ments for congenital heart
+defects.
+The technology is still
+in its infancy, and the
+applications may only be
+limited to early defects
+at present. Furthermore,
+there are still discrepancy
+between the heart that
+grows inside a human,
+and that which is grown
+in the lab. More research
+is required, but the future
+prospects remain exciting.
+Science and eternity – perspectives on immortality
+O
+ne of the most
+recent hot
+topics in the
+field of science
+and technology centres
+around Netcome – a pri-
+vate company who have
+set out to preserve human
+brains post-mortem, such
+that, one day, following
+technological advance-
+ments, they would be
+able to “recreate your
+mind”. Nectome bases
+their business plan on
+award-winning research
+which resulted in the
+intact preservation of
+an animal connectome.
+This was done via a
+process called vitrifix-
+ation: a combination of
+chemical embalming and
+cryogenics which enabled
+the team to preserve all
+the synaptic structures
+within a rodent.
+cality. Neuroscience poses
+difficult questions, some
+of which have answers
+that would prove crucial
+for this project, such as
+the fact that it is cur-
+rently unknown whether
+an intact cryogenised
+connectome would retain
+the information that once
+circulated through the
+brain. Moreover, we do
+not know whether the
+information we want to
+retain is actually related
+to the biological basis of
+consciousness. For vitri-
+fixation to be successful,
+the brain needs to be
+removed fresh; while the
+protocol for replicating
+the procedure for human
+use is currently under
+development, this very
+idea of transhumanism is
+more entertaining, from a
+debate point of view, than
+ever.
+It is not often that
+science reaches out to
+people en masse, evoking
+such strong emotional
+reactions, as with the
+possibility of eternal life.
+Looking back in history,
+immortality has always
+embraced many spiritual
+dimensions, as seen with
+the ancient Egyptians,
+who were well known for
+preserving their leaders’
+remains, some of which
+still exist day.
+The novel approach by
+Nectome sounds appeal-
+ing, especially in cases
+where terminal illnesses
+are involved. However,
+the implications of such a
+project becoming reality
+are immense: ethically,
+legally, and in terms of
+the future of the human
+race. Since brain collec-
+tion must be completed
+imminently at death, this
+procedure could only be
+conducted in countries or
+states where assisted eu-
+thanasia is legal. Provided
+the protocol is successful,
+the person would lose
+their body, and possibly
+wake up to the prospect
+of having a conscious
+experience in a research
+computer.
+This scenario is riddled
+with questions. What
+would initially be a col-
+lection of independent
+“consciousness folders”
+on research computers
+may one day become
+the one and only means
+of human existence. We
+could look at it as an
+evolutionary success, as
+a new paradigm where
+we confront another type
+of mortality and begin
+the same cycle again, as
+a way of achieving unity
+and connection with each
+living human. Or, from a
+different perspective, this
+would create a collective
+consciousness and serve
+as a path to losing what
+was initially aimed to
+be preserved, the ego,
+instead reaching a point
+where everything current-
+ly known to us through
+our subjective experienc-
+es becomes nonsensical.
+Important advances
+and discoveries are still
+to be made, both in neu-
+roscience and technology,
+before we can unequivo-
+cally develop a protocol
+that would enable human
+consciousness to live
+forever in a computer
+simulation. Until then, we
+have to answer questions
+such as: “What, in fact,
+are we trying to achieve
+with this?”
+SCIENCE
+Sarah Wong
+Science Writer
+SCIENCE
+Maria Balaet
+Science Writer
+‘Siri, find me a picture of science’ // Wikimedia
+“It is not often
+that science
+reaches out
+to people
+en masse,
+evoking
+such strong
+reactions”
+This achievement,
+however, has not yet been
+replicated in humans, and
+the outline of their project
+has received criticism for
+its methodological practi-
+SCIENCE
+Steve Allain
+Science Writer
+S
+ome of you may
+have recently
+read that the last
+male northern
+white rhinoceros, called
+Sudan, was put down
+due to age-related
+ailments. The northern
+white rhinoceros is a a
+now functionally-extinct
+subspecies of the white
+rhinoceros, with only
+two females remaining.
+This day was imminent
+– with such a small
+surviving population
+size, their chances to
+recover seemed unlikely.
+However, what has
+been ignored by several
+media outlets is that the
+southern white rhino is
+something of a conserva-
+tion success story.
+It is still argued whether
+or not the southern and
+northern white rhinos
+represent subspecies
+of the white rhino, or
+whether they are two
+entirely separate species.
+For arguments sake, we
+are going to assume,
+using current knowledge,
+that they are both closely
+related subspecies.
+Let’s start with the
+southern white rhino,
+which experienced a pop-
+ulation crash, with reports
+from the early 1900s that
+as little as 50-100 individ-
+uals remaining in the wild.
+But, thanks to population
+recovery efforts across the
+globe, the southern white
+rhinos have bounced
+back, with a population
+size today amounting to
+over 21,000! Of course,
+with so many rhinos in
+such a small place, many
+have been reintroduced
+to previous areas of their
+range. Their status on the
+International Union for the
+Conservation of Nature
+(IUCN) Red List has also
+been down-listed to Near
+Threatened, and, despite
+this, population efforts
+remain ongoing in order
+to safeguard the rhinos
+for the future in light of
+illegal ivory poaching.
+These efforts are in need
+of worthy celebrations,
+but this message – that
+rhino conservation is
+working – is difficult to
+portray to individuals.
+It may come of a
+surprise to you, but there
+are three smaller rhino
+species living within Asia,
+aside from the two in
+Africa. The Sumatran rhi-
+noceros is the only living
+rhino species left which
+is woolly; most people
+would have thought that
+the last of these died out
+at the end of the last ice
+age but in fact, they are
+clinging on in south-east
+Asia. They are now listed
+as Critically Endangered,
+with only five substantial
+populations remaining in
+the wild: four on Sumatra
+and one on Borneo. Their
+rainforest homes have
+slowly been reduced as
+humans have expanded
+agriculture and cities in
+the previous range of the
+species. Their numbers
+are a lot more difficult
+to determine, as they are
+solitary animals which are
+widely scattered through-
+out their range – however,
+there are estimates that
+fewer than 100 animals
+remain. This species
+represents a group with
+no other living members:
+the woolly rhinos. When
+they become extinct, will
+we see the same media
+outcry? We are starting
+down the slippery slope
+to extinction, and now
+is the time to act, before
+they too are just another
+casualty of the Anthro-
+pocene.
+The southern white rhino is doing well thanks to con-
+servation efforts// Wikimedia
+Connect with conservation – the scandal of Sudan
+Let’s talk about sex(ual health)
+T
+hey say your
+years at univer-
+sity are some of
+the best of your
+life. That the lessons you
+will learn and the experi-
+ences you will gain will
+be paramount in forming
+who you are as a person.
+However, it does not
+always feel that way. For
+many of us the transition
+from the shelter of our
+homes to the whirlwind
+that is university can be
+overwhelming, and ad-
+justing to this newfound
+independence can feel
+like a continuous struggle.
+All too often we end up
+neglecting to take care of
+ourselves (we’ve all had
+that sad bowl of cereal
+for dinner, right?). Even if
+you do happen to be one
+of those super humans
+who find the time to study,
+eat healthily, exercise,
+and maintain a social life,
+there is still one aspect of
+our health that is greatly
+overlooked: our sexual
+health.
+Why is Sexual Health
+Important?
+University is a time of
+firsts, with many students
+finding themselves
+sexually as well as aca-
+demically. Being aware of
+our bodies is an integral
+part of maintaining
+honest, healthy, and ulti-
+mately satisfying sexual
+relationships. We believe
+that raising awareness on
+this issue and providing
+students with the correct
+tools can help to facilitate
+this, making everyone
+healthier and happier!
+That is why the Sexual
+Health Campaign team
+conducted a survey of 155
+Imperial students in which
+70% of participants ex-
+pressed interest in having
+a sexual health campaign
+and testing services.
+The Campaign
+The Sexual Health
+Campaign at Imperial is a
+new student-led campaign
+that was started by two
+postgraduates in the
+School of Public Health; it
+now has student members
+from across the university,
+and collaborated with the
+Union to empower and
+educate about sex.
+We have partnered
+with local sexual health
+clinics to provide full
+sexual health check-ups
+for students, as well as
+launching an awareness
+campaign to promote safe,
+consensual sex for all.
+How you can get in-
+volved
+Our campaign days are
+open to undergraduate and
+postgraduate students on
+three Wednesdays: May
+9th
+: (South Kensington),
+16th
+(Charing Cross) and
+23rd
+(South Kensington)
+from 11am to 4pm.
+Drop by, we would love
+to help answer any ques-
+tions you may have about
+the health check-ups, the
+campaign, or just about
+safe sex. In addition,
+the Jefferiss Wing at St.
+Mary’s Hospital will
+provide take-home testing
+kits ready to pick up
+throughout May.
+Hope to see many of
+you there, in order to show
+Imperial how important
+is sexual health for the
+student community!
+SCIENCE
+Nada Mohamed-Ali
+Harumi Quezada
+Yamamoto
+Clara Greiner
+Science Writers
+

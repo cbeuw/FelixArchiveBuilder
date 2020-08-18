@@ -1,0 +1,125 @@
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+17
+FRIDAY 26 OCTOBER
+Recording dreams
+Writer
+Chris Yates
+Have you ever had an absolutely fan-
+tastic dream, woken up and promptly
+forgotten everything that happened
+in it? I certainly have, and would love
+to be able to watch some of the more
+interesting ones back later. The idea
+of reading and recording dreams has
+been the preserve of science ﬁction,
+but as our understanding of the brain
+improves, it is getting closer to real-
+ity.
+A group of researchers in Japan,
+led by Yukiyasu Kamitani, have pre-
+viously used functional magnetic
+resonance imaging (fMRI) to identify
+which image a subject is looking at.
+Last week, they presented an exten-
+sion of this work, where they looked
+at the dreaming brain.
+fMRI was used to record the brain
+activity of three volunteers whilst
+they slept. When the researchers de-
+tected brain waves associated with
+dreaming, they woke the volun-
+teer and asked them what they had
+dreamt of. In this way, they were able
+to collect data on which parts of the
+brain are active when dreaming of a
+number of diﬀerent objects. The vol-
+unteers were then shown images of
+these objects whilst awake and their
+brain activity recorded. By compar-
+ing the data gathered whilst awake
+with that from the dreaming brain,
+the volunteers were able to predict
+the content of the dreams. For ex-
+ample, they could predict whether
+or not a man was present in a dream
+with an accuracy of 75-80%.
+At the moment, the method is lim-
+ited to a few common objects, such
+as ‘man’, ‘woman’ and ‘computer, but
+with more data the number of objects
+that can be identiﬁed could increase.
+Interestingly, areas involved in vis-
+ual processing and object identiﬁca-
+tion in the group’s earlier work were
+also found to be active whilst dream-
+ing, implying dreams are interpreted
+by the brain in a similar way to im-
+ages from the eyes.
+While we may still be some way oﬀ
+recording our dreams, this work is
+certainly a step in the right direction
+and could help to understand why we
+dream and how dreaming is related
+to brain activity.
+Tractor Beams: A possibility?
+Researchers at the University of New
+York have conducted the ﬁrst experi-
+mental demonstration of a tractor beam
+– a travelling wave that comes from one
+direction and pulls its target towards the
+beam’s origin.
+Up until now, beams have been used
+to move particles by working as opti-
+cal tweezers and optical conveyor belts.
+Optical tweezers work over small dis-
+tances, trapping particles for manipula-
+tion; whilst optical conveyor belts work
+over larger distances and use two op-
+posing beams to set up a “conveyor belt”
+of light to move trapped particles.
+The tractor beam is diﬀerent from
+these other methods because it has been
+used over much larger distances – mi-
+crometers instead of picometers – and
+comes from only one direction.
+A tractor beam works by redirect-
+ing more photons downstream from
+the target particle than upstream once
+they’ve hit the target – the force of being
+hit by photons is weaker than the force
+imparted by the redirected photons
+moving downstream, and so the particle
+Writer
+Jacob Ward
+is forced upstream towards the beam’s
+point of origin. How did the researchers
+do this? They used a Bessel beam.
+A Bessel beam is a beam that doesn’t
+refract at all and “self-heals” – after hit-
+ting a target, the beam reforms on itself
+downstream. The tractor beam just
+demonstrated works by ﬁring a Bessel
+beam in the shape of a circular ring,
+with another ring-shaped Bessel beam
+around the ﬁrst.
+The second beam interferes with the
+ﬁrst, causing it to rapidly change in
+intensity and snag the target particle,
+moving it upstream. The researchers
+were even able to use two tractor beams
+to simultaneously move one particle up-
+stream and another downstream.
+Whilst these beams are working over
+much smaller distances than in Sci-Fi,
+they’re still a revolutionary method for
+working on microscopic objects.
+DOI: 10.1103/PhysRevLett.109.163903
+DOI: 10.1103/PhysRevLett.58.1499
+Scenes like this from your fa-
+vourite video games could soon
+be reality...
+Kilgore Trout/Eve Online Pictures
+

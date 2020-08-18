@@ -1,0 +1,122 @@
+14 Science Felix • 15 December 1999
+Seeing the light
+As the 20th Century draws to a close, we are one step closer to the elusive quantum computer.
+An international collaboration of scientists from !
+_
+America and Japan have made another crucial
+breakthrough in the development of a quantum
+computer.
+The idea behind a quantum computer is that,
+instead of using electrons to carry out computation,
+it would use photons, allowing it to take advantage
+of quantum effects. For example, the "many worlds"
+interpretation means that when a particle is made to
+decide between two possible routes, the universe
+splits into two parallel universes. The quantum com-
+puter might even be able to use superposition in
+order to carry out calculations in several universes
+simultaneously.
+Teams of researchers worldwide are working on
+all the elements required to build a complete quan-
+tum computer, but until now they had been held
+back by the fact that there was no way to manipu-
+late photons precisely. However, the international
+team have now developed a device which allows
+only one particle through at a time, using an effect
+similar to a turnstile and the fact that when a high
+energy electron drops to a lower energy, it releases
+this energy difference as a single photon.
+J Kim and his colleagues at Stanford University
+utilised a phenomenon unique to the quantum
+world. First described by Robert Oppenheimer in the
+1920s, the so-called Tunnel Effect states that due to
+quantum uncertainty, an electron can and will pass
+through a physical barrier and appear on the other
+side. Therefore, if an electron "tunnelling" from a
+higher energy state to a lower energy state could be
+held somewhere in the middle, in a sort of quantum
+well, the subsequent arrival of another electron
+would be prevented, as the occupying electron
+would repel the oncoming electron due to its nega-
+tive charge. The original electron could then be
+Could this be the computer of the future?
+allowed to carry on its path and the resultant jump
+in energy states would release a single photon,
+which could be detected using sensitive equipment.
+The scientists were able to do this by placing
+two semi-conducting silicon wafers close together,
+doped with different elements. On one side the
+doping elements bond with the silicon to leave an
+excess of electrons, and hence a negative charge.
+On the other side, the silicon bonds to elements with
+too few electrons, creating a positive "hole" for the
+spare electrons to jump into.
+Electric currents are used to control the passage
+of the electrons into the quantum well by adjusting
+the voltage and hence the amount of energy given
+to the tunnelling electron. The whole apparatus has
+to be kept just above absolute zero (-273a
+C) to stop
+thermal vibrations contaminating the system.
+The results from this experiment proved that the
+number of photons emitted can indeed be regulat-
+ed. This in itself shows the validity of quantum theo-
+ry and could also be used to miniaturise computer
+components to the nano scale, offering a new way
+of processing information.
+SU-YEN THORNHILL
+"Public perception of science
+has never been lower"
+Opinion." Lindsay Gilmour attended Bernard Dixon's lecture at the Institute of Biology
+Former New Scientist editor Bernard Dixon gave
+the Charter Lecture for the Institute of Biology at the
+Royal Society on 24 November. Stating that scien-
+tists are ultimately dependent on public support for
+funding, he tried to explain how science journal-
+ism, and the way that scientists themselves talk to
+journalists, could help to change things.
+However, Dixon hi-jacked himself by spending
+nearly an hour in opposition to campaigning jour-
+nalism. The 'GM food furore1
+has clearly been
+bothering him, but his blanket accusations that
+journalists had no idea what they were talking
+about rather fell apart under his own summary.
+Dixon concluded that there are ten reasons why the
+British public don't want G M food on the shelves
+until more testing has been done, and not in the
+middle of the countryside - controlled conditions
+only please. I won't list all ten, but trust me, only
+one actually has anything to do with the science.
+It really is time that the image makers of sci-
+ence, people like Bernard Dixon, realised that 'GM'
+is not really a scientific debate, and that if they ally
+themselves with it unconditionally then they can
+only further tarnish the already creaky trust that the
+public has in scientists. Come on folks, for once
+let's exert a bit of that reasoned, rational approach
+that science is meant to be so good at and admit
+that the G M debate is about distrust of corporate
+America, dislike of agribusiness, recent food
+scares, environmental worries and general resent-
+ment of something which we are told is no danger
+but aren't offered any choice about.
+And by the time all those issues have been sort-
+ed out, the scientists doing the work might have
+some more conclusive results about possible aller-
+gic reactions, dangers to Monarch butterflies and
+the rest of it. Then we can have the science debate
+- but not until then.
+IfrV.of
+H I
+Intel have announced that a bug exists on their
+bug. is".e:
+xpecfec5 to ai» ent of
+PCs, Dell suspended all orders and manufactur-
+ing of their systems in order to further evaluate
+important than the environment or public health.
+cates
+food
+3,000
+JC
+

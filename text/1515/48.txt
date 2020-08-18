@@ -1,0 +1,147 @@
+Laurence Pope takes some time out to chat to Michael Cook, a PhD student designing
+“As A.I. becomes more
+sophisticated and more
+able to create, hopefully it
+will only serve to highlight
+what we value in human
+creativity”
+L
+aurence: So, first question, for
+someone who’s never heard of
+Angelina, how would you best de-
+scribe it?
+Mike: Angelina is just a piece of soft-
+ware, exactly like any other kind of application
+on your computer. It needs a lot more resources
+to run, and what it essentially does is I set a few
+parameters, let it run, and it emails me when it’s
+done to let me know when a new game has been
+produced. Inside there there’s all kinds of artificial
+intelligence going on to produce these games. It’s
+really just your average bit of code running on the
+PC.
+L: What was it that prompted you to look into
+A.I. and base your research on this sort of soft-
+ware?
+M: I’ve always played video games, and they’ve
+always been an interest, but A.I. in particular be-
+came of interest to me when I started computer
+science at Imperial. There are a few streams you
+can go down in computer science, but for me it
+was always about the logic and making computers
+do really unusual things. Video games are already
+an exotic thing for a computer to do anyway, pro-
+cedurally generated worlds, things like that.
+L: I’ve read a couple of the articles that have
+FELIX
+Friday 16 march 2012
+40
+games.felix@imperial.ac.uk
+Games Editor: Laurence Pope
+GAMES
+It’s not Crysis 2 quite yet I’ll admit... (An Angelina designed game)
+Games by Angelina: Artificial
+already been written, and I got the impression
+Angelina was very much in silico Darwinism.
+Would that be a fair assessment?
+M: I often relate it back to natural evolution, be-
+cause I think it’s a good touch point for people to
+understand computational evolution, and there are
+a lot of similarities. It’s probably best to talk about
+Angelina’s evolutionary processes.
+Computational evolution is a very common A.I.
+technique used all over the place; medicine, en-
+gineering, pharmacology, all kinds of stuffs. It’s
+been used in games before, so it’s not something
+new in that sense, we’re just using it in a different
+way. In essence it’s very much like evolution in
+the real world. It’s not really directed, there’s no
+intentionality, at each step it’s not clear where the
+program’s moving. It’s only when you step back
+and look at Angelina as a whole that you can un-
+derstand where it was headed. It’s just like evolu-
+tion in the real world – it doesn’t have a real goal,
+it’s just a process that happens naturally.
+It has helped to think of this as an evolution-
+ary process, because normally evolutionary pro-
+cesses in computing are just one thing, one spe-
+cies of animal, but in Angelina we have multiple
+species evolving alongside one another, and they
+exert pressures on one another, just as two species
+would in a natural environment. So if a level de-
+sign starts to tend toward a particular feature the
+power ups will have to alter their design to com-
+pensate for that.
+L: At the moment Angelina can’t add in graph-
+ics or audio on its own. What’s the raw product
+look like before you spruce it up?
+M: It looks pretty much like the Santa games up
+on my website now. It’s the stock stuff sitting there
+just waiting to be used. I often put in a lot of the vi-
+sual touches later, especially if I’m making a game
+for something like the New Scientist game. If you
+go back further, before the platform games, you
+can see what they were really like, when they were
+simplistic, little more than basic coloured shapes
+on the screen.
+In a way I feel that some of the coverage I’ve
+gotten has been a little cheap; the screenshots
+make it look very clever, but I did all that art. The
+good thing is my PhD supervisor, Simon Colton,
+does lots of work in A.I. generated art, so we’re
+going to look into ways to get Angelina to be a bit
+artier in future all by itself.
+L: So it’s likely that Angelina will soon be able
+to add in simple graphics all by itself, but what
+about higher resolution stuff? For example, do
+you think Angelina will be able to create a game
+as visually rich as Team Fortress 2?
+M: Yes, eventually. The idea of computational
+creativity is quite interesting, because researchers
+like ourselves are struggling with defining a grade
+of creativity. For instance, writing the Felix article
+you’re going to write requires a certain level of
+creativity, but reading it also requires a certain lev-
+el as well in order to visualise some of the things
+you’re discussing. Now you could argue that
+they’re two quite different levels of creativity, one
+being much higher than the other. Currently, some
+aspects of Angelina feel creative, but we don’t re-
+ally consider the system very creative at all.
+You could go some steps up and have Angelina
+design artwork based on existing things in the
+world. It could say look on Google images of im-
+ages of people or soldiers and restyle them in a
+particular painting style. That would be one form
+of creativity.
+To generate the kind of high-quality art style
+seen in TF2 from scratch would take a very long
+time, but definitely Angelina will start to make
+strides towards that eventually. 8-bit is just a con-
+venient start point.
+L: You’ve said before you believe Angelina has
+benefit for game designers, but do you think it
+has any use outside of that?
+M: It’d be better to say research like Angelina,
+as I’m obviously not the only person looking into
+this sort of A.I. There’s a bunch of different ways I
+hope it’ll affect the games industry.
+One of the ways as you say is that it’ll give de-
+signers more powerful design tools to work with.
+Secondly, from the opposite end of things, which
+is that people like you or I will be better able to
+design games, because tools like Angelina will be
+able to boost people up, just like Photoshop has
+boosted my photoediting skills in general. It’ll help
+us make more intelligent and interesting games for
+ourselves, which are still designed but are ampli-
+fied by the effects of intelligent tools.
+Thirdly I hope that’ll lead to really interesting
+games, and that’s a benefit for everyone. In com-
+putational creativity we often think about how A.I.
+can emulate existing human creativity. We talk
+about how A.I. artists could paint paintings that
+humans might, or design games that designers
+An exclusive look at Michael’s next line of Angelina-based research – the building of
+puzzle games with a series of levels and increasing difficulty
+

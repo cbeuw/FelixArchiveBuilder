@@ -1,0 +1,236 @@
+INVESTMENT
+FELIX
+39
+icu.investmentsociety@imperial.ac.uk
+INVESTMENT icu.investmentsociety@imperial.ac.uk
+INVESTMENT
+Eugene Gwan
+ICIS
+Investment Student Writer
+T
+he old adage
+“Do not place
+all your eggs in
+one basket” is
+probably one of the most
+important things to re-
+member when investing.
+It is easy for beginner
+investors to see gains in
+a particular stock and
+Why Asset Diversiﬁcation & Hedging is Necessary
+price ﬂuctuations) into
+systematic and non-sys-
+tematic risks.
+Systematic vs
+Non-Systematic Risk
+Non-Systematic risk is
+commonly referred to as
+company-speciﬁc risks
+(e.g. when the company
+misses its quarterly
+earnings target, company
+in ﬁnancial distress etc.).
+These events do not affect
+the market on the whole.
+Imagine that you invested
+100% of your funds into
+1 stock, your gains and
+losses are solely depend-
+ent on the performance of
+the company.
+Systematic risk is
+commonly referred to as
+market risk (e.g. reces-
+sions, changes in interest
+rates, political unrest).
+These events affect the
+overall performance of the
+ﬁnancial markets. Now
+imagine that you invested
+your funds equally into
+10 stocks instead, when
+there is negative compa-
+ny-speciﬁc news on one
+of the stocks, only a small
+portion of your portfolio
+is affected.
+2 portfolios to consider
+When constructing
+the optimal portfolio, we
+are trying to eliminate
+the non-systematic risks
+through asset diversi-
+ﬁcation. Note that it is
+impossible to diversify
+away the systematic risks.
+As you can see from
+the graph below, as the
+number of ﬁrms increas-
+es, the non-systematic
+risk decreases and tends
+towards 0, leaving only
+the systematic risk.
+From the earlier
+example, if you invested
+your funds equally into
+10 stocks and there is
+negative company-spe-
+ciﬁc news on one of the
+stocks, only 10% of your
+stock portfolio is affected,
+the other 90% will remain
+untouched. If we extrap-
+ISSUE 1736
+Example of a breakdown of 3 levels of diversified portfolios // americancentury.com
+Systematic risk is not a function of the number of firms and cannot be removed no
+matter how many stocks are added to diversify the portfolio // Eugene Gwan
+have the urge to allocate
+more of their funds into it,
+hoping to generate even
+higher absolute returns.
+However, it could very
+well go south the next day.
+There are many ﬁnan-
+cial instruments such as
+stocks, bonds, Indexes,
+exchange-traded funds
+(ETF), commodities and
+real estate investment
+trusts available to inves-
+tors.
+For this article, I will be
+focusing on diversifying
+a portfolio consisting of
+stocks and bonds as it is
+more commonly accessi-
+ble for retail investors.
+Stocks represents the
+company that you buy
+shares in. A company
+offers its shares to inves-
+tors to raise money to grow
+its business or acquire
+new assets and when you
+buy a company’s shares,
+you become a shareholder
+of the company. Its share
+price will also ﬂuctuate
+depending on economic,
+industry/company speciﬁc
+events.
+In ﬁnance, we divide
+these risks (unexpected
+“Systematic
+risk is
+commonly
+referred to as
+market risk”
+olate this portfolio to
+500 stocks, similar to the
+S&P500, we are able to
+completely eliminate all
+non-systematic risks.
+So you might ask,
+if diversiﬁcation is so
+important, why shouldn’t
+I just invest in an index
+such as the S&P500?
+This strategy is indeed
+highly favoured by
+passive investors as they
+only need to monitor the
+macroeconomic perfor-
+mance of the country
+and global economy
+rather than monitoring
+each stock individually.
+Investors are not able
+to directly invest in the
+S&P500 but rather invest
+through an Exchange
+Traded Fund (ETF).
+ETFs are just a basket of
+securities that tracks an
+underlying index and is
+traded on an exchange.
+One common ETF that
+tracks the S&P500 is
+(NYSEARCA:SPY). By
+buying into this ETF, you
+expose yourself to the 500
+companies that comprises
+the S&P500, therefore
+diversifying away all
+non-systematic risks.
+For investors that are
+looking for returns above
+the market (S&P500),
+they should split their
+optimal portfolio into an
+active and passive portfo-
+lio, whereby the passive
+portfolio consists of
+ETFs, bonds and treasury
+notes. The active portion
+consists of stocks that they
+have individually picked.
+If executed properly,
+the active portion of the
+portfolio will be able to
+generate much higher
+returns and increase the
+overallreturnsoftheentire
+portfolio. As with any
+form of active investing,
+due diligence is required
+to analyse the individual
+companies before buying
+into them.
+Role of Bonds
+Bonds serve as a hedge
+to your stock portfolio and
+investors consider bonds
+a safe haven. When the
+market is showing signs of
+weakness, investors ﬂock
+to bonds and this is known
+as a “ﬂight to safety”. This
+increase in demand pushes
+the bond prices upwards,
+offsetting the losses in
+your stock portfolio. As a
+retail investor, it is recom-
+mended to only purchase
+investment grade bonds,
+BBB rated and above.
+Investors are to monitor
+for interest rate risks,
+such as when the central
+banks increase interest
+rates. This means that
+other investors are able
+to seek higher returns in
+the market than what your
+bond can offer, therefore
+lowering the price of your
+bond.
+Together, the active
+portfolio, passive port-
+folio and bond portfolio
+provides a good starting
+point from which you
+can explore the different
+strategies to manage the
+risks and maximise your
+reward-to-risk ratio.
+“By buying
+into this ETF,
+you expose
+yourself to the
+500 companies
+...diversifying
+away all non-
+systematic
+risks”
+

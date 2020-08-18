@@ -1,0 +1,168 @@
+F E L I X
+A N O T E O N B E E T O N S F U N C T I O N
+HISTORICAL
+S i n c e the days o f NEWTON, s t u d e n t s c o m p i l i n g
+l a b o r a t o r y r e p o r t s have o f t e n found t h a t s e v e r a l
+of t h e i r e x p e r i m e n t a l o b s e r v a t i o n s appear t o be a t
+v a r i a n c e w i t h the t h e o r e t i c a l laws w h i c h t h e i r
+l e c t u r e r s have d e c r e e d s h a l l g o v e r n the e v e n t s
+t h e y a r e i n v e s t i g a t i n g . The e a r l i e s t a t t e m p t s t o
+make t h e s e r e s u l t s a c c e p t a b l e t o examiners and
+moderators were u s u a l l y made b y the method sugges-
+ted b y BOYLE b y the a p p l i c a t i o n t o the w o r s t
+r e s u l t s o f a n a r b i t a r y c o n s t a n t C ( t h e c u l i n a r y
+c o n s t a n t ) . T h i s method g i v e s a good f i r s t
+a p p r o x i m a t i o n and i s s t i l l w i d e l y used where t h e
+time f a c t o r i s i m p o r t a n t ( e . g . when o n l y two days
+r e m a i n t o w r i t e seven r e p o r t s ) . L a t e r r e s e a r c h
+has d e v e l o o e d more p o w e r f u l methods, p a r t i c u l a r l y
+those o f BEET ON and COOKE w h i c h a r e the s u b j e c t o f
+t h i s n o t e .
+COOKE'S LAW
+COOKE (1916) suggested t h a t the u s e o f the
+C u l i n a r y C o n s t a n t C had the d i s a d v a n t a g e t h a t a
+check o f the c a l c u l a t i o n s would i n s t a n t l y r e v e a l
+i t s use and the r e s u l t i n g r e p o r t , b e i n g i n c o n s i s -
+t e n t , was a e s t h e t i c a l l y u n s a t i s f a c t o r y . He enun-
+c i a t e d the famous law which b e a r s h i s name and
+w h i c h may be s t a t e d a s f o l l o w s : -
+"In any s e t o f e x p e r i m e n t a l o b s e r v a t i o n s ,
+i f some o b s e r v a t i o n s l e a d t o r e s u l t s
+w h i c h a r e c l e a r l y i n c o r r e c t and r e q u i r e
+amendment, the o b s e r v a t i o n s must be amen-
+ded a t the same time t o conform t o the
+amended r e s u l t s . "
+T h i s was a g r e a t advance, but s t i l l l e f t the
+s t u d e n t w i t h o u t guidance on which r e s u l t s t o amend
+and b y how much t o amend them.
+The Work o f BEETON
+BESTCN (1949) r e v o l u t i o n i s e d p r e v i o u s methods
+and i n the s h o r t time s i n c e h i s paper was pub-
+l i s h e d h i s methods have found w i d e s p r e a d accep-
+t a n c e . BEETON'S c o n t r i b u t i o n may be summarised
+as f o l l o w s .
+I f a dependent v a r i a b l e y obeys the r e l a t i o n
+y=f (x) , e x p e r i m e n t a l d e t e r m i n a t i o n o f the relation-
+s h i p can be r e p r e s e n t e d b y y=f(x+s) where s i s a n
+independent random v a r i a b l e i n t r o d u c e d b y e x p e r i -
+mental e r r o r . BEETON p o i n t s out t h a t i n a l l
+p r a c t i c a l cases s may be r e p l a c e d b y a new
+v a r i a b l e s i n t r o d u c e d b y c a l c u l a t i n g v a l u e s o f x
+from s u i t a b l y chosen v a l u e s o f y on a s l i d e r u l e
+w o r k i n g t o 2 s i g n i f i c a n t f i g u r e s o n l y .
+Thus the r e l a t i o n s h i p becomes y=f(x+s) w h i c h
+i s BEETON'S FUNCTION.
+W H E R E T H E "TIME
+FACTOR lS\Mf»ORTANT
+I N T R O D U C E D B>y
+e x P E R t M E N T A l . E R R O R .
+A m p l i c a t i o n s o f BEEION'S F u n c t i o n
+I t i s u n n e c e s s a r y t o p o i n t out how the use o f
+BEETOil'S f u n c t i o n reduces the l a b o u r o f l a b o r a t o r y
+work.
+The a c t u a l o b s e r v a t i o n s a r e worked out from
+the known laws g o v e r n i n g the experiment t o be
+performed b e f o r e e n t e r i n g the l a b o r a t o r y . I f no'
+such laws e x i s t s u i t a b l e data can be o b t a i n e d from
+the L a b o r a t o r y R e p o r t s o f p r e v i o u s y e a r s ' ( s u c c e s s -
+f u l ) s t u d e n t s . A c t u a l work i n the l a b o r a t o r y i s
+reduced t o two q u i c k r e a d i n g s t o determine the
+approximate range o f w h i c h the a p p a r a t u s i s
+c a p a b l e . The remainder o f the l a b o r a t o r y time
+may be spent i n the consumption o f c o f f e e .
+F u r t h e r R e s e a r c h
+F u r t h e r r e s e a r c h i s i n hand t o e x t e n d the
+p r i n c i p l e s o f the work o f COOKE and BEETON t o ease
+the l o t o f the p o s t graduate s t u d e n t engaged i n
+o r i g i n a l work. Here, the d i f f i c u l t y i s t h a t the
+fundamental laws on w h i c h the c a l c u l a t i o n i s t o be
+based a r e ' u s u a l l y unknown. Some success has been
+a c h i e v e d w i t h the a i d o f a c r y s t a l b a l l purchas ed
+from Government s u r p l u s s t o c k s ( B a l l s , c r y s t a l ,
+g a z i n g , E n g i n e e r s , 22C/1380) but t h i s method i s
+n e a r l y as l a b o r i o u s and l i t t l e more a c c u r a t e t h a n
+a c t u a l l a b o r a t o r y work.
+( C o n t i n u e d at! the f o o t o f t h e n e x t column.)
+S S E R P X E Y L I A D
+No m a t t e r how u n i n t e r e s t i n g the news, t h i s morn-
+ing, one can be s u r e t h a t the average d a l l y paper w i l l
+have c o n t r i v e d some way o f making i t i n t e r e s t i n g .
+Whatever has happened, a c o n f e r e n c e , o p e n i n g of"new
+b u i l d i n g s , e t c . , i t ' s a f o r e g o n e c o n c l u s i o n t h a t t h e
+p a p e r s w i l l f i n d some member, of the female sex who i s ,
+at l e a s t , r e m o t e l y connected w i t h i t . The o n l y o t h e r
+r e q u i r e m e n t s a r e t h a t she s h o u l d have been p h o t o -
+graphed i n a b a t h i n g costume, and been i n v o l v e d i n a
+major s c a n d a l .
+Let us t a k e a n example from jshe "Sserpxe Y l i a d "
+- t h i s f i c t i t o u s t i t l e would be c a t c h y enough f o r
+any paper.
+I t was r e p o r t e d t h a t Mr. C h u r c h i l l was t o meet
+P r e s i d e n t Truman. The problem c o n f r o n t i n g the papers
+i s how t o b r i n g t h e s e d r y f a c t s home t o such a s Mrs.
+S m i t h who i s washing some_Q.S. " s m a l l s " i n Swindon.
+They a r e the common f o l k o f these i s l a n d s - t h e
+backbone o f O l d E n g l a n d . T h e i r language i s s i m p l e .
+They have l e a r n t a l l t h e r e i s t o know about the h i g h
+c o s t o f l i v i n g , d e a t h d u t i e s and- 19/6 i n the £, i n
+the s e v e r e c l a s s r o o m o f everyday l i f e . B u t , a s k them
+what a C o a l i t i o n i s and few c o u l d t e l l y o u - and I
+doubt whether you'd get one t o t e l l you how many
+masts i t h a s .
+Nov/, l e t us l o o k a t the way i n w h i c h the d a i l i e s
+b r i n g t h i s news o f Mr. C h u r c h i l l t o us.. Do t h e y show
+a photo o f the P r e m i e r and g i v e a l e a r n e d e x p l a n a t i o n
+of " b a l a n c e o f payments"? No, t h a t would bore them.
+I n s t e a d our paper, w i t h commendable r e s e a r c h , f i n d s
+a gentleman, who haypens t o be a n A m e r i c a n who
+happens t o have met Mr. C h u r c h i l l d u r i n g the war. By
+g r e a t good f o r t u n e he a l s o has a c o u n t r y mansion a t
+w h i c h i t i s w i t h i n t h e bounds of _pp.ssj._bili.ty. J;hat. Mr
+C h u r c h i l l might s t a y . L a s t l y , and most - e s s e n t i a l , he
+has a w i f e who, b e i n g a t t r a c t i v e , has been p h o t o -
+graphed i n a b a t h i n g costume.
+That c a t c h e s them.. Put a h e a d l i n e two inci.es
+h i g h on the f r o n t page and nobody n o t i c e s i t , b u t
+g i v e B e t t y G r a b l e a two column spread and e v e r y -
+body s i t s up. T h i n k what a 'wow' FELIX would be w i t h : - -
+' SWEETHEART'S SCARF - WINNING EIGHT'S TALISMAN
+A p r e t t y crepe de c h i n e s c a r f d e p i c t i n g beauty
+s p o t s o f the " P o t t e r i e s " f l u t t e r e d i n the breeze
+as the winners o f the Lowry Cup (see S p o r t s Review:
+A l a n Knobby) flashed, p a s t the post y e s t e r d a y . The
+s c a r f was a t the neck o f Bob Merryweather who coxed
+the v i c t o r i o u s Mines V l l l t o f i n i s h 3 l e n g t h s u p .
+Many admired the charming s c a r f worn by the
+handsome f a i r - h a i r e d s t u d e n t , but few r e a l i s e d t h a t
+i t brought unexpected l u c k t o the crew.
+The s c a r f belongs t o Miss F e l i c i t y F i l i g r e e , .
+who i s Merryweather's f i a n c e e . A t t h e i r l a s t meeting,
+M i s s F i l i g r e e t h r u s t the s c a r f i n t o Bob's hand w i t h
+the i n j u n c t i o n :
+"Wear i t , i t ' l l b r i n g you and y o u r
+boys l u c k , Sonny" (She has always c a l l e d him Sonny
+e v e r s i n c e he t o l d h e r he was the Marquis o f B l a n d f o r d )
+"Oh - and f o r heaven's sake, don't g e t y o u r t r o u s e r s
+wet o r y o u ' l l c a t c h your death o' c o l d " .
+W i t h these words o f encouragement, M i s s F i l i g r e e
+l e f t t o r e t u r n t o h e r work as Rodent O p e r a t i v e i n
+Maida V a l e , and, u n f o r t u n a t e l y , was not a b l e t o w i t -
+ness Bob's v i c t o r y .
+When i n t e r v i e w e d a f t e r the r a c e and t o l d o f the
+crew's s u c c e s s . M i s s F i l i g r e e was almost s p e e c h l e s s
+w i t h d e l i g h t , but managed t o say t o our r e p o r t e r -
+"He b e t t e r ,hadn't get any f l o u r on my s c a r f .
+W e l l I g o t t a push - I'm a f t e r another r a t now".
+Such i s the n a t u r e o f t h i s pure and generous E n g l i s
+.maid- she n e v e r . l e t s work i n t e r f e f e w i t h her p l e a s u r e .
+R e s u l t o f Main Event: Morphy Cup; C.&O. 1 s t .
+jN.B. Resemblance t o any p e r s o n , l i v i n g o r dead, i s e n t i r e l ,
+TWO OUICK R E A O M & s " ™ E
+L.A&OOR O F
+BIBLIOGRAPHY. JJUt&*mt WORK.,,
+l) P r i n c i p l e (3rd E d i t i o n only) Newton I p.37.
+) Proc.Lunar Society,Vol.VI.Boyle R.(paper)p.1498.
+.3) The Aesthetics of Engineering Experiments.£ooke J ch
+(4) Experimentation without Hesitation,Beaton ?.Readers'
+Digest, Vol.XVI, So.6,p.172.
+

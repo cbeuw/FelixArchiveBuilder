@@ -1,0 +1,167 @@
+12 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+13.02.2015
+Science Editor James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+"Are these
+pesticides
+harmful to
+humans?"
+In the last few years, the solar
+photovoltaic (PV) industry has
+experienced a boom like never
+before. In 2013, installed global PV
+capacity increased by just under 40%,
+from 102GW in peak conditions, or
+GWp, in 2012 to 139GWp in 2013.
+Accessing the economies of scale
+associated with this huge ramp up in
+production, prices are falling below
+the milestone $1/Wp, according to an
+Imperial College London/Grantham
+Institute report last November. Some
+countries are starting to reach “grid
+parity” – a term which essentially
+describes the potential for solar power
+to compete with conventional (fossil
+fuel) generation in electricity markets
+without the need for subsidies.
+When people talk excitedly about
+this success, they are almost entirely
+referring to crystalline silicon-based
+Photovoltaic solar power (c-Si PV).
+Last year the International Energy
+Agency estimated that c-Si’s market
+share of all PV technologies had
+grown to around 90%, with the
+remaining 9% constituting almost
+entirely of what’s known as Thin-
+Film PV, a more flexible, less energy
+intensive alternative seen as the
+second generation of PV technologies.
+In fact, apart from a brief concern
+over stability of silicon supply chains
+in 2009 which allowed Thin-Film PV
+to take around a 15% wedge of the
+market, c-Si has almost always been
+the vastly dominant solar technology.
+Perhaps on the back of this
+success, there have been a wave
+of new technologies, the so-called
+third generation solar technologies,
+which are hoping to capitalise on
+the enthusiasm felt in current solar
+markets by exploiting some of the
+problems seen with traditional PV.
+Indeed, despite its current
+hegemony, c-Si PV is by no means
+a perfect technology. Its recent and
+historical success is arguably rooted
+in policy commitments.
+For example, Germany’s the
+revolutionary Feed-in Tariff for
+silicon-based PV in 2000 encouraged
+industry standardisation, an
+increasingly secure supply chain and
+global market acceptance. Of course,
+this should not be used to undermine
+c-Si PV’s success but, crucially, and
+fascinatingly, this does mean there is
+room for improvement, as is always
+the case with new tech.
+What’s all the fuss about?
+One of the biggest problems faced by
+c-Si cells is that they are limited to a
+maximum theoretical efficiency (i.e.
+the maximum amount of the sunlight
+that hits a solar panel that can be
+converted into electricity) of around
+33% with solar efficiency tables in
+recent years consistently recording
+them at around the 25% mark.
+This limit, known as the Shockley-
+Queisser limit after its discoverers,
+essentially exists due to the fact that
+sunlight reaches the Earth at many
+different wavelengths, only some of
+which can be absorbed by silicon cells
+to generate electricity.
+By contrast, using combinations
+of different semiconductors such as
+gallium arsenide and germanium,
+so-called ‘multi-junction’ (MJ) cells
+can expand the range of wavelengths
+absorbed by the cell overall,
+generating more electricity. To do
+this requires sunlight to be highly
+concentrated via parabolic mirrors or
+lenses onto the cell area and, as recent
+laboratory tests by the Fraunhofer
+ISE in Freiburg have recorded, can
+produce staggering efficiencies of
+46%.
+In actual fact, some of these
+Concentrator Photovoltaic (CPV)
+systems using MJ cells are already
+operational with one in Arizona
+producing electricity with cell
+efficiencies of around 36%. Further
+modelling by Illinois State University
+of potential future CPV locations in
+the Southwest USA has shown that
+any project which is situated in an
+area with direct sunlight greater than
+5.4 kWh/m2
+– the amount of sunlight
+you might expect from a holiday in
+Southern Italy as a very rough idea
+– can have a higher Internal Rate
+of Return than equivalent c-Si PV
+projects.
+Not all Sunshine and Roses
+Necessarily with every new
+technology, CPV has its drawbacks.
+Unlike conventional c-Si PV
+which can produce electricity
+in normal daylight even with
+cloud cover (although obviously
+not as efficiently), CPV systems
+can only function properly with
+direct sunlight, or Direct Normal
+Irradiance (DNI), that hits modules
+at the right angle so that light can be
+concentrated in the right direction,
+namely, onto the small and highly
+efficient MJ cell area. As a result,
+CPV systems often need highly
+accurate solar trackers to make sure
+they are always receiving as much
+direct light from the sun as possible.
+This in turn pushes up both economic
+and energy costs, although studies
+from the University of California,
+Berkeley find that energy costs are
+still generally regarded as competitive
+with conventional PV.
+So it is not for everyone. CPV can
+only really be deployed at utility-scale
+"There have
+been a new
+wave of
+technologies,
+the so-called
+third
+generation
+solar."
+Joshua Emden on the story behind this ever evolving technolgy and what’s
+in store for the future in solar technology
+Solar power is expanding:
+meet the third generation
+"CPV systems
+can only
+function
+with direct
+sunlight."
+330nm-thick film of organometal halide perovskite fabricated on a glass sheet. This film is
+the active element of Perovskite 20% efficient solar cells. Photo credit: TheGuardian
+

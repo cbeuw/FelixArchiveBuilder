@@ -1,0 +1,181 @@
+Tips & Hacks
+Cheaper mobile roaming charges
+In an attempt to avoid shock bills for customers,
+this week MEPs have voted to introduce a cap on
+what companies can charge per megabyte of data
+while roaming. Additionally they have voted to cut
+prices for texts and calls, but this is the first time
+any limitation has ever been made on data. In the
+age of the ‘always-on’ smartphone, turning your
+phone on for even a few minutes while abroad
+can result in a massive – and often unexpected
+– bill. While each tweet, email and status update
+may only be a few kilobytes, it all adds up. This
+is a very positive step then for anyone who trav-
+els abroad and wants to keep in touch with his/
+her digital world. While this legislation is not final,
+all further approval is expected to be “a rubber-
+stamping exercise”. So, by mid-2014, we should
+be seeing maximum charges of 12p per minute,
+4p per text and 16p per megabyte.
+I
+’m quite ambivalent when it comes to
+the relative merits of operating systems
+and the devices they run on. The Mac vs.
+PC debate has been stumbling along for
+almost as long as I can remember, and
+much of what can be said has been said, many
+times over. Suffering the minor misfortune of
+having to use Windows, OS X and Linux on a
+regular basis, it’s hard to have strong opinions
+when at the end of the day a computer is re-
+ally just a lump of metal and plastic, and not a
+philosophical statement, despite what Stephen
+Fry would have you believe.
+In choosing a modern laptop/operating sys-
+tem, what you are really debating is largely per-
+sonal preference: aside from gamers who have
+more options on Windows, buying a laptop
+usually boils the decision making process down
+to a question of money and aesthetic ideals. So
+what does a Macbook Air do to define itself as
+unique? Quite a lot, as we shall soon see. In
+this review, I have forgone the usual listing of
+specifications and benchmarking tests: the lap-
+top has been out for 6 months now and there’s
+enough of that available online if you need it.
+What I have tried to focus on is the experience
+of using a Mac as a student. If you have been
+sitting on the fence about buying a Macbook
+for a while, my goal is to push you off it in ei-
+ther direction.
+Remarkably thin and elegant, the Air is one
+of the most striking laptops I have ever used.
+The hardware has clearly been designed to ben-
+efit the user experience: one pleasing difference
+from the average laptop is its roomy touchpad.
+For such a thin piece of kit, it also sits well
+in the hand – I often found myself carrying it
+around with one hand as easily as I would a
+sheaf of papers. The only real problem I had
+with it from a design perspective is how eas-
+ily I misplaced it on my desk, which is more a
+testament to its diminutive size rather than any
+misstep on Apple’s part.
+In terms of performance, I was quite happy
+with the system as it was – when it came to
+browsing, doing some writing and watching
+flash videos (what I mostly use my computer
+for, aside from programming), the Air per-
+formed solidly. If you require Matlab or other
+major programming IDEs such as Eclipse, the
+higher-end Air coming in with 4GB of memory
+and an i7 processor would be a better bet, but
+keep in mind the limited space (256GB being
+the upper storage limit on the device) would
+probably require investment in an external hard
+drive.
+Considering the solid state drive and the i5/
+i7 processors inside these machines, the smooth
+performance isn’t much of a surprise. In terms
+of Flash in particular, I was impressed by how
+easily the device handled the plugin, something
+that I have had troubles with on Linux for a
+while now. Battery life was comparable to my
+not-so-ultra ultrabook, which is impressive,
+and probably enough to get you through a nor-
+mal day at uni without having to rely on find-
+ing a power socket. I was very impressed by
+the speaker quality, which was loud and clear
+– something I was not expecting considering I
+still don’t know exactly where the sound was
+coming from.
+Elegant and a good performer; so where are
+the Air’s flaws? I have to admit I was not too
+enamoured of OS X. Where I look at plans for
+Windows 8 and see changes that Microsoft
+has planned, OS X seems very much transi-
+tional. The changes to the UI are there (fingers
+flick up to scroll up, other gestures to do other
+fancy things), but it’s not the same big break
+that Microsoft and some other Linux operating
+systems are experimenting with. Whether this
+Perfection, at a premium
+FELIX
+Friday 02 march 2012
+16
+technology.felix@imperial.ac.uk
+Technology Editors: Chris Bowers
+Feroz Salam
+TECHNOLOGY
+is necessarily a bad thing, I don’t know. OS X
+was for a very long time a leader in terms of
+UI functionality, and it is still very much on
+par with the other major operating systems. If
+you’re looking for the ‘next big thing’however,
+this isn’t it.
+Another issue that is not so much a criti-
+cism but a statement of fact revolves around
+the price. This is not so much an argument
+about Apple’s Air as much as a point about
+‘ultrabooks’ in general. The Air and ASUS’s
+Zenbook both retail at roughly the same price
+(after Apple’s student discount is taken into ac-
+count). For shaving off a kilo or two in weight
+(and taking a slight performance hit), you are
+paying a premium of roughly 200 pounds (HP’s
+Pavilion series offer the same processor and a
+better spec for the extra weight). Whether or not
+this is worth it is only a call you can make. If
+your budget for a computer hovers around 1000
+pounds and you aren’t a power user (the Air, re-
+member, doesn’t offer a CD drive, only has two
+USB ports and comes with basic Intel integrat-
+ed graphics), this might be the laptop for you.
+I liked the Macbook Air, a lot. I don’t usu-
+ally care about the computer beneath my fin-
+gers as long as it works, but it’s very obvious
+that a lot of effort has gone into making the
+Air something special. It’s different, and not
+in a bad way. It can also handle your everyday
+computing tasks for a whole day, something
+that can’t be said about some other ultrabooks
+released over the last few years. OS X may not
+be a revolutionary computing experience, but
+it’s a solid system that compares favourably in
+many aspects to Windows. The real question, as
+always withApple products, is whether you can
+justify the price: if you’re someone who wants
+a feature for every penny, this may not be the
+device you’re looking for. If you’re willing to
+accept the price premium for a laptop so thin
+that it could also be used as a cheese slicer, I say
+go for it: you’re not going to find much better
+out there.
+Tweet archives open for business
+Twitter has this week “unlocked” its tweet ar-
+chives for market research purposes, allowing
+businesses access to tweets dating back to the
+beginning of 2010. Specifically, it has partnered
+with the UK-based data mining company Datasift,
+who – while analysing approximately 250 million
+tweets each day, will provide the data to others for
+a fee. For comparison, companies used to be able
+to search only thirty days’ worth of tweets, and
+regular users are still limited to seven days. This
+has, of course, sparked privacy concerns, but Twit-
+ter has quickly come forward to shoot them down.
+The executive director of Privacy International, Gus
+Hosein, claims people have always been happy
+to use Twitter in the knowledge that their tweets
+would disappear fairly rapidly. Twitter’s counterar-
+gument, however, is that people use the service
+knowing that what they tweet is visible to anyone
+at that given moment. Of course, private and de-
+leted tweets will not be made available to anyone,
+which one would expect. Even so, it will be inter-
+esting to see if this affects Twitter’s popularity.
+Feroz Salam finally gets his hands on a Macbook Air
+“[the Air] is elegant and
+a good performer”
+

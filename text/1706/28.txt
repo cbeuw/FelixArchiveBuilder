@@ -1,0 +1,458 @@
+ISSUE 1706
+FELIX
+37
+PUZZLES fsudoku@imperial.ac.uk
+     
+ 
+
+  
+   
+   
+ 
+FUCWIT
+1 CHZYNo.1InMy<3 115
+2 HoneybunnySnugglepuff 107
+3 Maxiane 106
+4 Luncheon Pals 104
+5 Yeet Infection 103
+6 DQ 101
+6 BudgetGreg&13Whales 101
+8 Lunar Lunacy 96
+9 S.B.S. 88
+10 KBLB 79
+11 Sudok-urself 68
+11 Computer Magic 68
+13 Cat Ladies 65
+14 Lilmonix3 54
+33 Freakamathics 13
+Send your solutions to fsudoku@imperial.
+ac.uk before Wednesday midday to take
+part in the leaderboard!
+Points available
+Crossword			 6
+Minesweeper 4
+Sudoku 3
+Nonogram 4
+Total 17
+Last week’s solutions
+  
+       
+     
+  
+    
+     
+   
+     
+     
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+   
+
+  
+  
+  
+   
+ 
+SUDOKU
+Fill all the boxes with a number between 1
+and 9. A number can only appear once in a
+row/colum, and only once in each sub-box.
+CROSSWORD
+Across
+7. Soap and air (6)
+8. It must be so (6)
+9. Protective layer around your flesh (4)
+10. Most people can’t afford to buy a house
+without one (8)
+11. Egypt has many (8)
+13. Off-road vehicle (4)
+14. The menu option after“File”(4)
+16. So cute (8)
+18. Sub-atomic particle with no charge (8)
+21. Ratios defined by bookmakers (4)
+22. Approximately four and a half litres (6)
+23. Magical card that opens any door... on the
+underground. (6)
+Down
+1. Thanksgiving meal highlight (6)
+2. Plentiful (8)
+3. Sowing line (4)
+4. A shot of coffee (8)
+5. Show off (4)
+6. It killed a lot of people in the 14th century (6)
+12. They live in a boot (8)
+13. Envy (8)
+15. Musical entertainer (3.3.)
+17. It has many many steps (6)
+19. Not short (4)
+20. A mini bassoon (4) NONOGRAM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+    
+  
+ 
+    
+    
+ 
+ 
+ 
+  
+
+
+
+  
+
+MINESWEEPER
+The number in a cell represents the number of mines adjacent to that
+square (up/down, left/right, diagonal). Find and mark all of the mines
+to clear the board.
+

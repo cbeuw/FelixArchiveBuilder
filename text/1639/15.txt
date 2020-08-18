@@ -1,0 +1,233 @@
+How did you get the game out there then?
+Did you send it to games publications or
+was it just through word-of-mouth on the
+internet?
+We were reviewed in PC Gamer. We sent copies of
+it to every magazine out there – not just the gaming
+magazines but also lifestyle magazines. I remember I’d
+gone skiing with Tom and we got back and the Linux
+Format review was the first review to hit. I thought the
+Linux guys were going to love Uplink and the Linux
+Format reviewer gave it 61%. I remember picking it
+up in the newsagent at the airport and I was crushed.
+We thought that this was the end of this adventure for
+us. We didn’t think we would be able to pursue a 61%
+game. About two weeks later, the PC Gamer review
+came out. Now obviously PC Gamer is bigger than
+Linux Format. The reviewer, Kieron Gillen, only gave
+us have a page but it turned things around for us. After
+that every score was 80% plus.
+Then we asked ourselves, what’s the next step? At this
+point we were selling it boxed online and the obvious
+next step was getting it into the shops. In those days,
+and still now, my thinking is to go back to first principles.
+If I’m going to put a game into the shop, what are
+they going to do to add value. They were just putting
+games on shelves in front of a consumer. We went to a
+distributor rather than a publisher and did a deal with
+them. They charged about a quid a box, which sounded
+reasonable to me. The indie game stores took it. Zavvi
+refused it. Game refused it. HMV were the only major
+store that carried Uplink. WHSmith’s wouldn’t carry
+it, they said it was immoral. We made a bit of money
+from this but not a lot. We’d done our UK retail deal so
+then we looked to North America. Rather than working
+with a distributor over there we knew we had to work
+with a publisher, because we couldn’t do the marketing
+ourselves. We went to a couple of trade shows and
+eventually hooked up with a company called Strategy
+First, a Canadian company. They were going to
+advance us $50,000 dollars for distribution across the
+United States with a ten percent royalty. We were only
+three guys so we were quite happy with this. Strategy
+First renamed it Uplink Hacker Elite – which Chris hates
+– and redid the packaging. So, they distributed it and
+we waited for our $50k cheque to come back and then
+they declared Chapter 11 bankruptcy protection in
+Canada, which means they didn’t have to pay any of
+their debts. So we didn’t see a penny of the sales over
+there. I don’t think it did very well either.
+So at this point you weren’t digitally
+distributing the game on your website?
+No. We actually padded the build size out with an
+encrypted MP3 of Chris playing his guitar to something
+that would take three hours to download over a 56k
+modem. We determined that three hours we be too
+long for pirates to share the game. There was no real
+online distribution at this point but that was our novel
+counter-piracy strategy. It didn’t work. Nothing works.
+After Uplink, the next game you released
+was Darwinia. Could you tell me more
+about how that came about?
+Chris had finished writing Uplink the day Tom and I got
+involved in the business. We were desperately looking
+at how we could make more money from it: a Linux
+version, a Mac version, and all those distribution deals I
+talked about. We even looked at Pocket PCs and PDAs.
+But Chris had been on Uplink for two years and he was
+finished with it so he went on to write Darwinia. There
+was quite a lot of tension in the company at that point
+because we wanted him working on Uplink. Darwinia
+took him a long time to get finished. Uplink had been
+developed at university in his spare time so we expected
+the next game, a full-time project, to be delivered in
+about a year. Ultimately, for various reasons Darwinia
+took three years to make so we were well and truly
+out of money after that period. We were broke, flat
+broke. Tom and Chris were selling all their CDs and
+signing on to benefits to try and keep things going.
+Then we launched Darwinia. And Darwinia was a
+tough old sell. Now we had a lot more experience and
+our route to market was more open. The game reviewed
+very strongly; it got 90% in PC Gamer. They loved
+it. It went into the IGF Awards [Independent Games
+Festival] and won three prizes that year because it was
+like no other indie game. Independent games in those
+days were much smaller. Darwinia was what Chris likes
+to call triple-I. This was pre World of Goo.
+People in the games industry were really excited and
+wanted to see what would become of the indie game
+scene. They were willing to look past Darwinia’s QA
+problems and its control problems to see the game for
+what it really was. But commercially it was a flop, we
+struggled to make any money back.
+Now, at that time Valve were just about to launch
+their digital distribution platform called Steam and they
+reached out to us (or we reached out to them) and we
+had a big debate internally about whether we should
+put Darwinia on Steam. We were looking at the sales
+for our site, which were pretty small, and decided that
+even if they did cannibalise our sales we were making
+so little money it didn’t matter. The status quo was that
+we were fucked. So, we did the deal with Steam. Which
+was of course the best deal we’ve done in the history
+of Introversion. Everything we’ve made, we’ve made
+through Valve. Darwinia didn’t immediately pick up but
+obviously Valve brought the audience and the sales did
+eventually increase enough for us to get Defcon done.
+Defcon was a really big moment for us. It was
+massively popular, more popular than anything else
+we’d ever seen. In those days you had to hire a physical
+box, and our servers just died under the load. It took us
+five or six hours to get them back up. I don’t know how
+much money we lost in that time. Still, it was by far the
+biggest commercial success we’d had up to that point.
+But the perception was that Darwinia was the bigger
+success. This is where things started to go wrong for
+us. Microsoft, or an agent, reached out to us and said
+that Darwinia had won all these awards and Microsoft
+were launching the Xbox 360 and would be doing
+digital downloads. Microsoft were very interested in
+Darwinia and new IP. They wanted really cool indie
+titles.
+Even though Darwinia hadn’t been particularly
+popular we then got involved into what turned out to
+be a six or seven year mammoth project. They wanted
+every game on XBLA to be multiplayer – that was
+part of their strategy. Darwinia had originally been a
+multiplayer game but ended up being singleplayer. We
+thought it would be as simple as just reactivating the
+multiplayer mode of the game. We tried to do that and
+it just didn’t work. It was shit.
+That ended up with Chris working on our fourth
+game, Multiwinia. The company got sidetracked down
+this multiplayer route that we had agreed to deliver
+for Microsoft. And we had done so much work for this
+multiplayer game. Even though it didn’t review well
+and no one bought it, Multiwinia was still a brilliantly
+fun game. We launched it on PC and nobody played
+it. Everybody who had enjoyed Darwinia looked at
+Multiwinia, which was a completely different gameplay
+experience, and said ‘I don’t want to play this’. And
+the rest of the world who had played Darwinia and
+hated it didn’t want to play the sequel. We ended up
+targeting a niche of a niche.
+At conferences people still come up to us and tell
+us that Uplink is the best game they’ve ever played,
+that Darwinia is the best game they’ve ever played,
+or that Defcon is the best game they’ve ever played.
+And there have been more than ten people in the last
+ten years that have said Multiwinia was the best game
+they’d ever played. So we must have done something
+right with it.
+It was a big flop on PC but we were still working on
+the console version of it. This was going to be a bigger,
+shinier version of the game. Eventually we burned the
+company into the ground – there was no money left.
+We were going to launch Darwinia and Multiwinia
+together on XBLA as Darwinia+ about six years after
+we had intended to do that. And it flopped too. The day
+after we launched we knew things hadn’t gone well. I
+phoned everyone up and sacked them. I shut down
+the office. We had quite a lot of debt that we’d taken
+on, so I had to restructure all of that. I didn’t think that
+was going to be easy. I wasn’t really a businessperson
+at that time, I was just a person. And when you owe
+someone money as a person you go to court and they
+come round to your house and take your stuff. What I
+didn’t realise was that companies aren’t quite like that.
+With everyone I owed money to, we made a payment
+plan over about a two year period. If anyone one of
+them had rejected the payment plan they would all lose
+all of it. Obviously, they all accepted it. After a little
+while we suddenly realised that there was a reasonable
+amount of money still dripping into Introversion from
+the back catalogue on Steam. And to be fair, a little bit
+coming in from Microsoft. All of these little trickles were
+merging into a stream of money. That was enough to
+keep me and Chris employed. That’s when Chris came
+up with Prison Architect. At that point Humble Bundle
+had just launched. They’d already done a Frozenbyte
+bundle and we went out and asked if there was any
+interest in an Introversion one. We would bundle our
+games and give them other stuff like tech demos and
+they liked this idea. Kieron Gillen was the first time the
+company was saved and Humble Bundle, in my view,
+was the second time. We made about three quarters
+of a million from the ‘Humble Introversion Bundle’
+and that just gave us enough cash to get to the alpha
+version of Prison Architect. That takes us up to 2012.
+Within three days of Prison Architect launching we’d
+made $100,000 dollars. Now we’ve made about $22
+million. Humble gave us just that little bit of resource to
+get us to Prison Architect, which was our first mega-hit.
+I remember buying that bundle at the
+time, and that was the first time I had
+ever heard of the company. Do you think
+that the bundle’s success helped with
+getting your name out there and played
+a part in Prison Architect’s success?
+One of the things that I learnt relatively early on was
+that everyone else’s view of Introversion was not the
+same as mine. I kind of assumed everyone knew all
+of our games and knew we were the company behind
+Uplink. I’d lived it. There was this natural assumption
+that someone who had bought Uplink would buy
+Darwinia. The reality is that it’s nothing like that at all.
+You stand on each game separately. I’m quite big on
+trying to push the Introversion brand. I want people
+to say that they’re buying the next Introversion game
+because they know it’s going to be good even if it
+doesn’t review very well, like Tarantino. People go and
+watch his movies because there hasn’t really been a
+bad one. There’s been great ones and mediocre ones
+but they have never been awful. So I think the Humble
+Bundle brought a new audience to us and Prison
+Architect built a new audience on top of that.
+>>>
+From Uplink to Darwinia
+Uplink.
+Kieron
+Gillen was
+the first
+time the
+company
+was saved
+and Humble
+Bundle, in
+my view,
+was the
+second time
+7
+6
+

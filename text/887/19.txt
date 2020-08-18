@@ -1,0 +1,165 @@
+Dr Stephen Richardson on the Public Equiry chaired by the
+Hon. Lord Cullen into the...
+P i p e r A l p h a D i s a s t e r
+Late in the evening of July, 1988, there
+was an explosion on the Piper A l p h a
+platform in the North Sea. Within a
+matter of a few hours, 166 men had died.
+One more died in hospital twelve days
+later. Over 10% of this country's
+production of oil had ceased. The world's
+biggest offshore oil disaster had
+happened—and it had happened not in
+some remote corner of the world but in
+the U K . What had gone w r o n g on Piper?
+And w h y did it have such disastrous
+consequences?
+The safety and operation of Britain's
+North Sea oil and gas platforms is, for the
+time being, under the control of the
+Secretary of State for Energy. One week
+after the disaster on Piper, the then
+Secretary of State, Cecil Parkinson,
+appointed L o r d Cullen to hold a Public
+Inqury to establish the circumstances of
+the accident on Piper A l p h a and its cause.
+The Inquiry sat for a total of 180 days,
+130 of which were concerned with the
+disaster itself (Part 1) and the remaining
+50 with the future (Part 2). L o r d Cullen's
+report was published on November 13
+1990 and is extremely thorough and
+hence necessarily lengthy. The Inquiry
+heard evidence from a large number of
+witnesses—including most of the
+survivors—and from several experts.
+M u c h of that expert testimony was
+provided by three members of the
+Chemical Engineering Department at
+Imperial College: K e n Bett, Graham
+Saville and me. Of the total of 35 experts'
+reports produced in Part 1 of the Inquiry,
+11 were produced by the three of us. A s
+a result, we got to k n o w a great deal
+about what had happened on Piper. What
+follows is a brief summary of the events
+leading to the disaster and some of m y
+personal views (which I believe accord in
+all essentials with Lord Cullen's
+recommendations) on the w a y ahead.
+The Piper oil field is about 120 miles
+north-west of Aberdeen. It was discovered
+by Occidental in January 1973 and was
+one of the first in the deep waters of the
+northern North Sea. Production of oil
+started in December 1976, so that less
+than four years elapsed between
+discovery and first oil, a record that has
+only rarely been beaten. Originally, only
+oil was to be exported. This was done
+through a sub-sea line 128 miles long to
+the purpose-build Occidental refinery on
+the island of Flotta in the Orkneys. Piper
+proved spectacularly productive. Indeed,
+one of its wells was the most productive
+in the whole of the North Sea. W h e n
+Occidental sought permission to raise
+output from Piper, the then Secretary of
+DEPARTMENT OF ENERGY
+The Public Inquiry
+into the
+Piper Alpha Disaster
+The Hon Lord Cullen
+Figure 1
+State for Energy, Tony Benn, granted it
+only on condition that the excess gas
+produced with the oil, and initially flared
+at Piper, should be exported. Accordingly,
+a gas treatment plant was incorporated
+on Piper rather as an afterthought. Gas
+export started in December 19.78. The
+amount of gas exported by Piper was,
+however, very small (only about 0.6% of
+the total from the U K sector of the North
+Sea) whereas the amount of oil exported
+was large (about 10% of the total from
+the U K sector: Piper was the biggest
+single producing platform). In order to
+maximise the oil export, some of the
+heavier fractions in the gas (essentially,
+the propane) were separated as liquid
+condensate from the rest of the gas
+(mainly methane) and injected into the oil
+for export to Flotta, as shown in Figure 2.
+At about 21.45 on July 6, 1988, one of
+the pumps for injection of condensate
+into the main oil export line tripped.
+Shortly afterwards, some gas alarms were
+activated, the first-stage gas compressors
+tripped and the flare was observed to be
+much larger than usual. A t about 22.00
+there was the first explosion on Piper.
+This rapidly led to fires in the part of
+Piper containing the oil/gas separators
+(see Figure 2) and oil export pumps.
+Flames and smoke rapidly enveloped the
+accommodation modules on the platform,
+in which the majority of the men on
+Piper were off-duty. A t about 22.20, the
+fires had heated one of the high-pressure
+gas lines connecting Piper to another
+platform, the Tartan platform operated by
+Texaco (see Figure 3), to such an extent
+that the pipe ruptured and the gas in the
+line flowed out very rapidly, further
+fuelling the fires on Piper. Gas initially
+flowed out of the line at about 3 tonnes
+per second, w h i c h is of the same order as
+the rate at w h i c h the U K consumes
+energy. A photograph showing the
+fireball almost immediately after rupture
+of the Tartan line is reproduced on the
+front cover of Lord Cullen's report (see
+Figure 1).
+The situation on Piper was rapidly
+escalating. A t about 22.50, another gas
+line ruptured, this time the line to the
+compression platform (MCP-01) operated
+by Total, the chief function of which is as
+an intermediate pumping platform for gas
+from the giant Frigg field (see Figure 3).
+Again, gas initially flowed out of the line
+at about 3 tonnes per second. A t about
+23.20, the final gas line, that to Claymore
+which is the other platform operated by
+Occidental in the North Sea (see Figure
+3), ruptured. A t much the same time,
+large sections of the structure of the
+platform had weakened so much that
+most of the topsides (in other words the
+parts of Piper above the supporting steel
+jacket) fell into the sea. One of the parts
+of the topsides that fell into the sea was
+the main accommodation module, a four-
+storey building in which there were 81
+men. A l l of them died.
+In the early morning of July 7 1988,
+the only remaining part of Piper was the
+well-head module: three-quarters of the
+original platform had been destroyed and
+lay in a tangled mass on the sea bed. The
+fires from the o i l and gas lines and wells
+were producing flames about 200 metres
+high, with a rate of energy consumption
+of order 100 gigawatts. The fires were
+extinguished finally only on July 29 1988.
+The remains of Piper was toppled on
+March 28 1989.
+The disaster had cost the lives of 167
+men, 2 of w h o m were rescue workers
+whose fast rescue boat was destroyed
+when the gas line to MCP-01 ruptured.
+137 of the bodies of the deceased were
+recovered; 30 are still missing. Of the
+137, 109 died from smoke inhalation, 13
+

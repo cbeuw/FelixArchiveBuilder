@@ -1,0 +1,179 @@
+What you missed in Science
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+11
+FRIDAY 03 MAY
+Felix Science recaps what went on in the world outside revision and the library
+Viruses have been getting out of hand
+this Easter, with the H7N9 outbreak
+reaching 104 in humans throughout
+China and 21 lives being claimed by
+this strain of avian inﬂuenza virus.
+Although there is no evidence of sus-
+tained human-to-human spread so
+far, with China being the epicentre of
+both the outbreaks and a busy hub for
+airline traﬃc, it may be only a matter
+of time before this bird ﬂu takes to the
+skies – literally, it could be coming to
+an airport near you.
+In more positive news, new pro-
+tein on the scene, CD33, a little-
+known regulator protein, has been
+found to prevent support cells clear-
+ing toxic plaques that result in Alzhei-
+mer’s disease.
+Suppression of such a protein may
+contribute to future treatments for
+the disease. Not only that: a new liver
+hormone called betatrophin has been
+discovered that encourages growth of
+insulin-secreting cells, which could
+be manipulated for future diabetes
+treatment development. High-ﬁves
+all round for the immunologists out
+there.
+And lastly, we celebrated the 60th
+anniversary of the Double Helix, with
+the original paper describing the DNA
+structure being published in Nature
+on the 25th of April, 1953. If any mol-
+ecule deserves a birthday party, DNA
+is it. mRNA, the smaller, more active
+yet unloved sibling of DNA celebrates
+its birthday sometime in October,
+but it seemed that no-one even cared
+enough to record the date properly,
+so this was probably the only biomol-
+ecule birthday worth watching out for
+this year.
+DOI: 10.1016/j.neuron.2013.04.014
+NASA have had a busy Easter break-
+in the past month, their probe on
+NASA’s Cassini spacecraft spotted a
+hurricane on Saturn two thousand
+kilometres wide, alongside capturing
+photos for the ﬁrst time of meteor-
+oids crashing into Saturn’s rings. A
+top month for NASA; not so much for
+Saturn.
+Theoretical physicists got busy
+measuring antigravity, leaving us pon-
+dering if anti-matter atoms fall up,
+whilst pesky pyrrole molecules were
+also seen to be making the rules up as
+they go along.
+The impact of quantum laws of
+physics has been seen to now exert
+eﬀects at a molecular level, with pyr-
+roles moving over metal surfaces in
+a manner contradictory to classical
+physics. It was initially thought that
+zero-point energy – residual, unde-
+tectable energy in the quantum world
+that means nothing is perfectly still –
+did not apply to whole molecules, but
+pyrroles deﬁed this in recent tests in
+the Cavendish Laboratory in Cam-
+bridge. Back to the drawing board
+guys!
+And ﬁnally, someone spotted what
+looked like a penis drawn by the Mars
+exploration rovers Spirit and Oppor-
+tunity whilst looking for water on the
+red planet.
+Although this was claimed to be a
+complete accident, anyone who has
+ever come within a mile radius of Im-
+perial knows that scientists never re-
+ally grow up. We are all kids at heart,
+just with access to lasers, chemicals
+and the odd bio-hazardous bacterial
+strain.
+Somewhere out there, an astrophys-
+icist is quietly chuckling to himself, af-
+ter completing the ultimate doodle in
+this solar system.
+Chemists have been taking imagery
+to a new level this Easter, with them
+deciding that there is no such thing as
+“too small,” when it comes to viewing
+scale, if nothing else.
+X-ray single-crystal diﬀraction, that
+molecular structure determination
+method that we all know and love, saw
+a revamp at the beginning of April.
+Scientists from both Japan and
+Finland established a new protocol
+for the method to no longer require
+crystallisation of the target molecule
+before analysis. Molecules can now be
+as small as 80ng for studying by this
+diﬀraction method, so if you have that
+speck you have been dying to identify
+handy, now is your chance.
+STAM, or Saturated Transient Ab-
+sorption Microscopy, also hit the
+chemical scene towards the end of last
+month. This new imag-
+ing system, using three
+laser beams, allows for
+super-resolution opti-
+cal microscopy, and overcomes the is-
+sue of the diﬀraction limit that hinders
+usual light microscopy.
+Images are generated using STAM
+by comparing the contrast between
+excited and ground state electrons in
+molecules when excited upon illumi-
+nation instead, making it possible to
+study nanomaterials, again if nothing
+else, in much greater detail.
+Rice University also found out this
+month that when squeezing the liquid
+phase of silicone, it gets surprisingly
+stiﬀ when repeatedly and gently com-
+pressed, although polymer scientist
+Rafael Verduzco declined to comment
+on whether or not such research was
+inspired by more intimate moments
+he has had outside the lab.
+In conventional silicones, polymer
+chains are usually randomly orien-
+tated that allow for a return to their
+usual state after compression. In liq-
+uid phase silicone, it was found that
+the chains are organised in rod shaped
+coils and are initially randomly ori-
+entated. Repeated compression leads
+to them rotating and pointing in the
+same direction however, contributing
+to the stiﬀness.
+With silicone being a biocompatible
+material, incorporating this new in-
+formation back into the bedroom may
+occur within the foreseeable future,
+if some adventurous biologists fancy
+getting on board too.
+I don’t want to speciﬁcally suggest
+penis-related ideas, but if the self-
+stiﬀening silicone glove ﬁts...
+DOI: 10.1038/nature11990
+DOI: 10.1038/nphoton.2013.97
+DOI: 10.1038/ncomms2772
+Biology
+Physics
+Chemistry
+DOI: 10.1002/anie.201302289
+http://latino.foxnews.com/latino/news/2013/04/25/penis-graffiti-discovered-on-mars/
+http://news.rice.edu/wp-content/uploads/2013/04/0429_VERDUZCO-1-web.jpg
+http://blogs.biomedcentral.com
+One large penis for man, one
+giant erection for mankind
+Felix Science can confirm this is
+exactly what the inside of an implant
+looks like
+The high-flying H5M9 virus
+

@@ -1,0 +1,85 @@
+Tinker
+A group of aeroplanes is based on a small island. The tank of
+each plane holds just sufficient fuel to take it halfway arou nd the
+world. Any desired amount of fuel may be transferred from the
+tank of one plane to the tank of another whilst the planes are
+airborne. The only source of fuel is on the island, and for the
+purposes of the problem it is assumed that there is no time lost
+in refuelling either in the air or the ground.
+What it the smallest number of planes that will ensure the
+flight of one plane around the world on a great circle, assuming
+the planes have the same constant ground speed and rate of
+fuel consumption and that all planes return safely to their inland
+base.
+Solutions to me at the FELIX Office by Friday 23 November.
+G R A D E 3
+Last fortnight's puzzle only really required the solver to
+visualise the first and second letters as co-ordinates of a grid.
+Each two letter combination then fills a two by two square in the
+grid which is 'closed' at the sides.
+The problem may then be solved quite quickly by simply
+fitting five two by two squares into the grid.
+The Solution AA, B C , C E , D B , E D is depicted below, the nine
+other solutions being translations and reflections of the same
+thing.
+Of the ten correct solutions Neil Thornton of Maths 2 was the
+lucky winner and may collect his £5 cheque from the FELIX
+Office.
+FEATURE!
+fi B C D E
+A
+B
+C
+D
+E
+WHISKY GALORE!
+The winners of the
+Glen morangie whisky competition are as follows:
+1st: Victor Gembala (Elec Eng)
+2nd: Martin Passingham (Chem Eng)
+3rd: Robert Marsden (Rock Mechanics)
+Watch this space to see when
+you can collect your whisky from the FELIX Office.
+IMPERIAL COLLEGE UNION
+THE JUNIOR COMMON ROOM;
+SHERFIELD BUILDING
+PRINCE CONSORT ROAD ;
+SW7 2AZ Tel: 589 8882
+/IK) i ,. ' , (\
+s i m
+ROOM BOOKINGS
+When a club or individual books a Union room it is
+important to note and obey the following points.
+1. A substantial cash deposit may be demanded (and
+must be paid beofre the event) and a room hire charge
+may be levied.
+2. The general public are not to be admitted to the
+building at any time. The only people allowed in the
+Union are IC students, staff, students whose institutions
+have reciprocal agreements with ICU and people on
+official business (for example aspeaker at a meeting). No
+one else is allowed in.
+3. The only alcohol which may be sold in the Union
+Building is from the Union Bar. This rule must not be
+broken, as to do so would jeapardize the college liquor
+licence which would mean no Union Bar, Southside BAr
+etc, for a long time.
+4. The person applying to use the room is responsible
+for making sure that there is no trouble, the room is
+vacated by the set time, the room is cleared up and
+returned to a clean and tidy state.
+In the event of any trouble or complaints the Deputy
+President or any member of the Union Executive
+Committee may take charge of an event. This means that
+in the event of any trou ble the D P has the power to halt the
+proceedings.
+If you are booking a room for a club or society please
+read the back of the booking form. It could save you, and
+us, a lot of trouble.
+Finally, anyone booking the Concert Hall or any room
+requiring additional lighting should contact Dramsoc (int
+3531 or Union Office) at least two weeks in advance.
+Without this notice equipment cannot be guaranteed.
+Dave Parry
+FELIX Friday 16 November 1984 13
+

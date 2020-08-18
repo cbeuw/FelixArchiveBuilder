@@ -1,0 +1,216 @@
+PUZZLES
+37
+FRIDAY 11 JANUARY
+Puzzles Commanders:
+Sotirios Karamitsos
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+Mini Crossword
+3
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2 2
+0
+0 0
+2
+2
+2
+2 2
+2
+2
+2
+2
+2
+2
+2
+2 2 2
+3
+3
+3 3
+3
+3
+3
+3
+3
+3
+Slitherlink
+1. Tasty?
+In case you forgot them over Christmas,
+here are the rules. You need to draw a sin-
+gle closed loop by joining the dots (not di-
+agonally!) so that the numbered squares are
+surrounded by the corresponding number
+of lines.
+FUCWIT is resetting this term, so keep send-
+ing your answers to puzzles.felix@impe-
+rial.ac.uk.
+The numbers show you how
+many groups of black squares
+are in a row or column, as well
+as how many black squares
+each group consists of. Filling
+in the grid produces a pretty
+picture.
+FUCWIT
+Final Standings
+TEAMS
+TTBumbles 43
+Epiphenomenal Imbroglii 32
+Sexy Beasts 17
+INDIVIDUALS
+Yufan Zhao 62
+Wael Aljeshi 34
+M-Soup 21
+Jake Humphrey 17
+Tan Wei Jie 10
+Gordon Wu 8
+Jason Parmar 2
+Chang How 2
+Cosmin Badea 1
+Hashi
+Connect all the islands with
+bridges so that you can get
+from any island to any other
+one. There are restrictions,
+though: the bridges have to
+be either vertical or horizonal
+and they must not intersect.
+You can have up to two bridg-
+es between any two islands
+and, last but not least, each
+island must have exactly as
+many bridges as the number
+on it states.
+If a knight says “I believe that X”, X must be true, because if he is sane, he does believe X and
+what he believes is true, and if he is insane, he believes ‘not X’, but what he believes is false.
+Similarly, if a knight says “I believe that I believe that X”, if he is sane, X must be true, but if he
+is insane, X must be false, since he doesn’t believe that he believes X, which from the above
+means that X is false. The above holds for an odd or an even number of “I believe that”s, re-
+spectively.So,thefirstinmateensuresthattheheadissane.Thesecondinmatecanbeeither
+insane or sane, but assuming he is sane leads us to a contradiction, because the statement
+of the inmate behind him means he is insane. So he must be insane. Thus, we can proceed
+in pairs (1-2, 3-4, ...), all of whom are sane-insane, and also deduce that the 99th inmate is
+sane. This, along with the head’s statement, means that the horrible conclusion Craig came
+to was that, apart from the head doctor, all the doctors in the asylum were insane and all the
+inmates sane!
+Knights and Knaves
+2 3
+1
+3 1 2
+5
+3 2
+2
+2
+3 1 1
+2 1 2
+3
+5 4
+2 3
+3 4
+3 3
+1
+2 2 2
+2 2
+2
+4 2
+4
+3 1 2
+3 2
+2 3 1
+ACROSS
+1. Latest time (8)
+4. Headwear (3)
+6. Organised, sorted (8)
+9. Crystal Ball (3)
+10. Permitted (7)
+11. Times of year (7)
+13. Bread (4)
+15. In the countryside (5)
+16. Measure of alcohol (4)
+18. Bird feature (4)
+19. Seeping, dripping (7)
+20. Prostitute (6)
+DOWN
+1. Mythical beasts (7)
+2. Genetic code (3)
+3. Sewing pins (7)
+4. Move on one leg (3)
+5. End of, e.g. fingers (3)
+7. Bone (3)
+8. Fork- tailed songbird (7)
+10. Coral Island, ring shaped
+reef (5)
+12. Main body artery (5)
+14. Scare (6)
+15. Bap (4)
+16. Audible breath to show
+emotion (4)
+17. Cash register (4)
+Congratulations to the winners!
+We will be in touch about
+Netflix subscriptions.
+2 4 9
+6
+1 11 15
+3
+5
+1
+3
+1
+2
+3
+1 4
+4
+2
+1
+1
+2
+1
+2
+2
+1
+4
+1
+2
+2
+1
+4
+5
+5
+2
+2 1 1 1
+3 5
+9
+6 3
+7 2 2
+7
+6 1 1 1
+1 1 5
+1 1 1
+1 1 3
+2 2 2 2
+1 2 3 4 5
+6 7
+8
+9 10
+11 12 13 14
+15 16 17
+18
+19
+20
+Christmas Nonogram
+Sorry about the typo - and I tried so hard!
+Want to see
+your name
+here? Have
+good ideas to
+share? Submit
+a puzzle.
+

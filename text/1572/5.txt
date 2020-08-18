@@ -1,0 +1,190 @@
+5
+FRIDAY 14 MAR
+FelixScience
+@Scifelix
+SCIENCE
+You can’t teach an old virus new tricks
+James Bezer on the giant virus that is still infectious despite its age
+Epigenetics implicated in type 2 diabetes
+Fiona hartley
+Science Editor
+A
+fter spending 30,000
+years lurking deep
+within the Siberian
+permafrost, an
+enormous virus has
+escaped its icy lair. Even after all those
+years encased in ice, it’s still deadly.
+But this isn’t the plot of a low-budget
+horror ilm. his is real science.
+If you’re feeling worried, don’t panic.
+Fortunately for most of our readers,
+this particular virus is only deadly
+if you happen to be an amoeba. But
+even so, the fact that a microbe could
+still be infectious after such a long
+time in ‘hibernation’ raises a worrying
+thought. Could human diseases like
+smallpox, that we have managed
+to subdue, be released into the
+environment by melting permafrost?
+Researchers at Aix-Marseille
+University discovered the virus in
+an ice core taken 30m underground
+in the far northeast of Russia. Once
+they had defrosted it, they discovered
+that it could still invade an amoeba,
+hijacking the cell’s apparatus to make
+copies of itself. his is the irst time
+that a virus this old has been shown to
+still be infectious. With rising global
+temperatures, this may suggest the
+possibility of more dangerous ancient
+viruses emerging from the ice.
+he team’s investigations, published
+in the journal PNAS, show the virus
+in question is remarkable for more
+reasons than just longevity. At 1.5
+micrometres in length, Pithovirus
+sibericum is the largest virus ever
+discovered, and is similar in size to
+many bacteria. It’s more than ten
+times the size of an average lu virus
+(usually around 50-100 nanometres),
+and is so big that it can even be seen
+through a regular light microscope. It
+contains over 500 genes – 50 times the
+number found in a typical lu virus.
+Pithovirus is one of a number of
+giant viruses to have been discovered
+in recent years. In 1992, scientists in
+Bradford identiied what they thought
+was a new type of bacterium, but it
+was only in 2003 that it was shown
+to actually be a huge virus. Just last
+year, another, named Pandoravirus,
+was discovered in a sample from the
+coast of Chile. Under the microscope,
+they have a fairly broad range of sizes,
+although their shapes and structures
+appear alike.
+But surprisingly, despite their
+external similarities, there are
+signiicant biological diferences
+between them. Pandoravirus has
+about 5 times as many genes (about
+2,500) as Pithovirus, and the two share
+only a handful of proteins. hey also
+attack other cells in diferent ways:
+Pandoravirus uses the cell nucleus
+to replicate, whereas Pithovirus only
+requires structures in the cytoplasm.
+heir evolutionary relationships,
+though, remain a mystery. he
+unique features of these viruses
+have led to speculation that they
+may constitute a fourth domain of
+life, alongside eukaryotes (such as
+plants and animals), bacteria and
+H
+ow can the body change
+how a gene acts without
+changing the DNA
+sequence of said gene?
+Part of the answer lies
+with epigenetics: alterations to a
+genome that don’t happen by messing
+with the nucleotide sequence of DNA
+but by changing how the gene is
+expressed.
+Common changes include DNA
+methylation, which normally
+suppresses gene expression, and
+the addition or removal of histone
+proteins from a gene sequence.
+Histones act like spools, winding
+up DNA so that it doesn’t take up as
+much space as it ultimately could.
+Epigenetic diferences are being
+found in an almost-unlimited number
+of diseases: cancer, epilepsy, arthritis,
+obesity. A recent paper published in
+PLoS Genetics has now found that
+epigenetic changes may inluence how
+susceptible one is to type 2 diabetes.
+Type 2 diabetes develops happens
+when your pancreas either doesn’t
+produce enough insulin to maintain
+a normal blood glucose level –
+called insulin deiciency – or your
+body is unable to use the insulin
+that is produced, known as insulin
+resistance. Insulin is responsible for
+the absorption of glucose from the
+blood, generating cellular energy.
+Researchers from Lund University in
+Sweden compared cells that produce
+insulin in healthy individuals to those
+who sufer from type 2 diabetes. hey
+found that over 800 genes in diabetic
+individuals have epigenetic changes
+that aren’t observed in healthy people.
+102 of these epigenetic alterations
+were proved to cause diferential gene
+expression in diabetic individuals.
+Ultimately some of the afected
+genes contribute to reduced insulin
+production, which can be one of the
+underlying causes of type 2 diabetes.
+Type 2 diabetes is typically treated
+by changing one’s diet and exercising
+regularly, to maintain normal blood
+glucose levels. But as the disease
+cannot be cured, treatment may
+eventually include using medication
+to control blood glucose levels.
+Charlotte Ling, who led the study,
+said, “[Our research] can help us to
+understand why people develop the
+condition. his also opens the way for
+the development of future drugs.”
+Furthermore, the researchers found
+that the epigenetic changes identiied
+in diabetic individuals “had already
+taken place in healthy subjects as a
+result of age or high BMI (body mass
+index)”.
+his suggests that these changes may
+be contributing to the pathogenesis of
+type 2 diabetes. Future research can
+use this work to identify new target
+genes for therapy.
+“Unlike genes that can’t be changed,
+epigenetic changes are reversible,”
+said Tasnim Dayeh. In fact, drugs
+that cause epigenetic changes have
+long been used in the treatment of
+cancer and epilepsy. his lends further
+support to the hope that this work
+could be important in developing
+treatment drugs.
+Perhaps one day the stigma of
+sufering from ‘self-inlicted’ diabetes
+– type 2 diabetes being a condition
+archaea. Whatever their true origin,
+the discovery of these giant viruses,
+and the huge variation between them,
+has been a vivid demonstration of the
+extreme diversity of microbial life.
+JuLIA BARtOLI / ChANtAL ABERgEL / IgS / CNRS / AMu
+Pithovirus sibericum will eat you alive... if you’re an amoeba. Phew!
+linked to obesity and old age – will
+lessen, as people are able to receive the
+medical treatment that they deserve.
+We can only hope.
+DOI: 10.1371/journal.pgen.1004160
+EPISONA
+These two mice have different epigenetic methylation pattern at a speciic gene
+loci that impacts hair colour and weight.
+

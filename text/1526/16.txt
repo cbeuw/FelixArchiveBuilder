@@ -1,0 +1,225 @@
+From stem cells to sex cells
+Stemcellresearchreceivesanothervitalboost.Fiona Hartleyreports
+apanese researchers have
+created viable eggs in
+mice from skin stem cells
+which produced healthy
+fertile oﬀspring that suc-
+cessfully had their own progeny. This
+breakthrough could hopefully lead to
+treatments for human infertility in the
+distant future.
+Stem cells give rise to all special-
+ised cells in the body, and are also
+self-renewing to produce more stem
+cells. Stem cells in humans come in
+two basic forms: embryonic stem
+(ES) cells and adult stem cells. ES
+cells were ethically controversial be-
+cause of the embryonic destruction
+required to harvest them. In 2006,
+Shinya Yamanaka succeeded in repro-
+gramming adult stem cells to an ES
+cell-like state. These cells were named
+induced pluripotent stem (iPS) cells.
+Yamanaka won the Nobel Prize for
+Physiology or Medicine for this work
+just this week.
+Mitinori Saitou and his team from
+Kyoto University, the authors of this
+study, have previously made func-
+tional sperm cells from adult cells in
+mice, which were used to successfully
+fertilise eggs. Their new study, pub-
+lished in Science last week, shows that
+a modiﬁed version of the system they
+used to make sperm can also make
+eggs that, importantly, give rise to
+healthy progeny.
+The group applied a mix of signal-
+ling molecules to turn ES cells and iPS
+cells (derived from skin stem cells)
+into primordial germ cells (PGCs), the
+precursor cells to sperm in males and
+oocytes (eggs) in females. The PGCs
+were then added to embryonic ovary
+tissue, making “reconstituted” ovaries.
+This mixture was transplanted into fe-
+male mice, where immature oocytes
+developed. The immature oocytes
+were removed, and allowed to mature
+in vitro. The team then fertilised the
+mature oocytes with mouse sperm.
+The resultant embryos were trans-
+planted into surrogate female moth-
+ers, and these embryos developed into
+fertile mice.
+Saitou and colleagues are now inves-
+tigating whether PGCs can be made
+from adult human stem cells. This may
+prove diﬃcult because of diﬀerences
+between mouse and human cells, but
+the ultimate hope is that one day this
+technique could be used to make eggs
+to help infertile couples have children.
+Scientists have cautioned that a lot of
+work remains before this goal is re-
+motely achievable though, including
+ethical considerations about using hu-
+man ovary tissue to culture the cells.
+The immediate impact of the study
+will be to provide a robust system for
+further investigation of mammalian
+female germ-line development, the
+poor understanding of which is one
+of the reasons why the research does
+not yet have any current clinical rel-
+evance.
+J
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 12 OCTOBER
+16
+nationalgeographic.com
+The Battle of Ideas is a weekend long
+festival of talks and debates hosted by
+the Institute of Ideas, an independ-
+ent think tank. On the 20th and 21st
+of October, 350 speakers and 2000+
+attendees are expected to gather at
+the Barbican centre for 80 talks and
+debates on some of the most press-
+ing contemporary issues in politics,
+culture and science. The battles are
+an opportunity, says the Institute, to
+be fearless in the face of controversy
+and to explore the intellectual legacy
+of our generation, summed up by their
+punchy tag-line: FREE SPEECH AL-
+LOWED.
+The Science and Ethics strand of
+talks, entitled ‘Ethical Battles in Sci-
+ence and Medicine’ promises to be
+particularly exciting; speakers include
+Sir Professor Mark Walport, direc-
+tor of the Wellcome Trust and future
+Government Chief Scientiﬁc Adviser,
+and the award winning science ﬁc-
+tion writer Ken Macleod. This strand
+of talks will aim to dissect the ethical
+questions surrounding emerging sci-
+ences; biotechnology, and embryology
+for example. It will look at if and how
+science should inform policy on a wide
+range of areas from climate change to
+organ donation, and the ways in which
+it could reshape our cultural attitudes
+regarding issues such as homosexual-
+ity and abortion. The attitudes of the
+public and the inﬂuence of the me-
+dia will be examined in this context,
+highlighting the ever-pressing issue of
+good and bad practice in science com-
+munication. Student discounts are
+available; for more information visit.
+http://www.battleofideas.org.uk/
+Battles of Science and Ethics
+Jamie-Li RickmanScience Writer
+Deadly snake venom better pain-killer than morphine
+Nick Kennedy Science Writer
+Few of us associate the black mamba,
+one of the world’s most venomous
+snakes, with pain relief.
+But ﬁndings recently published in
+Nature show that black mamba ven-
+om may be a more eﬀective pain-killer
+than morphine.
+The black mamba, Dendroaspis pol-
+ylepis, is feared throughout southern
+and eastern Africa for its extreme
+speed, length, aggression and lethal
+toxicity.
+However, the French scientists in-
+volved found that its venom not only
+served to abolish pain in mice, but did
+not cause any side-eﬀects. Morphine,
+commonly used in anaesthesia to re-
+duce pain, has myriad side-eﬀects, the
+most dangerous of which is respira-
+tory failure.
+Snake venom can be so deadly be-
+cause it attacks key ion-pathways
+across neuronal membranes. We rely
+on this transport of ions to commu-
+nicate vital information around our
+brain and body. If these pathways are
+prevented from working as normal,
+our entire neuronal super-organism
+breaks down – signals cannot be
+passed around the body. But some sig-
+nals communicate unpleasant sensa-
+tions, like pain.
+Black mamba venom contains pain-
+killing proteins called mambalgins.
+These mambalgins block the acid-
+sensing ion channels (ASICs) in the
+cell membrane. ASICs are principal
+players in the pain pathway.
+But a perplexing question remains:
+why does venom of such legendary
+toxicity contain pain-killing proteins?
+This is a question nobody seems able
+to answer.
+The black mamba is not the only
+venomous snake with a potential ben-
+eﬁt to medicine. There are already
+three drugs on the market based on
+snake venom proteins. Eptiﬁbatide
+and tiroﬁban are derived from antico-
+agulant proteins found in the venom
+of the southeastern pygmy rattlesnake
+and African saw-scaled viper, respec-
+tively. Both drugs are used to treat
+suﬀerers of angina or heart attacks.
+Contortrostatin, a component found
+in copperhead venom, is being used to
+attack breast cancer cells and to pre-
+vent cancer from spreading.
+In fact a plethora of highly toxic ani-
+mals – and of course plants – exhibit
+this ‘poison paradox’.
+Cone snails are predatory sea snails.
+They hunt and immobilize prey using
+a radular tooth and a poison gland
+containing neurotoxins. In 2004 the
+Food and Drug Administration ap-
+proved the pain-killer Ziconotide, de-
+rived from snail cone toxin, for use as
+a non-addictive pain-killer substitute
+for morphine.
+The venom of the Israeli yellow scor-
+pion contains a protein that binds to
+cancerous cells found in gliomas, a
+type of brain cancer. When combined
+with a radioactive solution, this pro-
+tein can target and destroy glioma
+cells – and ultimately the cancer. As
+research progresses the number of
+these highly useful animal and plant-
+derived compounds will only increase
+in number.
+So it seems there is a charitable ﬂip
+side to these venomous creatures that
+are making up for countless lost lives.
+DOI: 10.1038/nature11494
+I’M TIRED OF THESE MOTH-
+ERFUCKING SNAKES IN THIS
+MOTHERFUCKING ARTICLE
+news.wisc.edu
+The recent successes will help aid
+research into germ-line development.
+Meanwhile, the mouse thinks: “hmmm,
+definitely smells like an arse”
+

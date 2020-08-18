@@ -1,0 +1,611 @@
+comment.felix@imperial.ac.uk
+9
+Friday 31 October 2008 felix
+Comment
+8 felix Friday 31 October 2008
+Comment, Opinion
+& Letters
+Am I typing slowly enough for you?
+A. Geek
+Let us know your views: comment.felix@imperial.ac.uk
+Letters may be edited for length and grammar purposes
+Views on these pages are not representative of felix
+U
+nless you have really
+been dedicating your
+life to Imperial College
+and haven’t had a chance
+to look at a newspaper,
+you’ll be aware that the US elections
+are just around the corner.
+With the backing of political heavy-
+weights such as Teddy Kennedy and
+the former Secretary of State Colin
+Powell, Barack Obama is able to take
+time off the campaign trail to visit his
+sick grandmother… which may show
+him to be a caring family man, but
+that’s just a coincidence.
+Other than his unorthodox herit-
+age and the fact that for the first time
+in almost 20 years the US presidency
+is out of the hands of either the Bush
+or Clinton Dynasties, what is different
+about Obama? According to his web-
+site, he ‘was raised by a single mother
+and his grandparents. They didn’t have
+much money, but they taught him val-
+ues from the Kansas heartland where
+they grew up. He took out loans to put
+himself through school.’
+That, coupled with his smooth and
+eloquent mastery of the English lan-
+guage as well as his relatively young
+age and his short time in Capitol Hill,
+makes me believe that he has not spent
+long enough time around politicians to
+become corrupt and saturated with the
+sleaze that is associated with Politics.
+Sadly, I have developed a condition
+where by I have the cynicism of a man
+many years my senior and so I began
+to ask the question: if it is that easy to
+bring change, why have the majority of
+previous world leaders been so corrupt
+and why, no matter how far you look
+back, the same issues trouble the same
+people? The poor get poorer and the
+rich get richer.
+The answer lies in the electoral proc-
+ess. Imagine a medical profession
+where there is still the same number of
+doctors but there can only be one con-
+sultant per country at any one time. Or
+where there is still the same number of
+accountants but only one can be char-
+tered at any one time! That is the world
+of politics, there is only one job as head
+of state and every MP in the UK or
+Senator in the US is gunning for it.
+I don’t believe that Richard Nixon,
+Ronald Reagan or even George ‘Dubya’
+Bush were evil people intent on bring-
+ing war to the world. However, they
+were ambitious and driven to succeed,
+willing to do anything to be the best
+in their career and therefore become
+president. This puts the candidate in
+a position whereby they must sacrifice
+certain morals or ethics for ‘the greater
+good’.
+Though their foreign policies may
+differ, every presidential candidate on
+the run up to elections suddenly be-
+comes Jewish and wears a kippah or
+yarmulke in order to secure the Jew-
+ish vote. They promise to increase the
+military budget and to be tough on
+immigration and terrorism, as well as
+magically improving the financial situ-
+ation for ‘Joe the Plumber’.
+These are all things the Barack
+Obama is ‘guilty’ of. The question is
+this: is he just playing the game by its
+rules in order to win or is this JFK of
+our time being molded into the very
+thing he is aiming to go against – ‘the
+status quo’.
+Let us hope that Mr. Obama is the
+man that will finally have the strength
+of character to change politics and not
+let politics change him.
+Elections 2008: Time for change
+Gilead Amit
+I
+’m beginning to tire of the Sil-
+ver Surfer generation. Partly
+because they’re not dying off
+anyway near as fast as statistics
+say they should, and partly be-
+cause they’re driving my technological
+life into a mire of touchscreens, ‘natu-
+ral interfaces’ and pure molten fecal
+matter. There was a time when to run a
+piece of software you’d actually need to
+write code yourself; applications that
+were supplied with the sort of manuals
+that make the Bible look like a pocket
+novel. An era when technology was in-
+distinguishable from magic and people
+still had to look things up in encyclo-
+pedias with only a few authors. What’s
+wrong with it now? Lucy. Lucy is what’s
+wrong with it now.
+I’ve named her Lucy because that’s
+the name of the puppy my family has
+recently taken on, and they both share
+thecharacteristicsofbeingstupid,short
+and amusing to watch when struggling
+with something new. The human Lucy
+was standing next to me on the Tube
+and my attention was drawn to her
+when she started making a noise I can
+only describe as somewhere between a
+machine gun and a bluegrass percus-
+sion track. I look over and she’s flail-
+ing around with a Blackberry phone,
+trying to scroll through four hundred
+emails of fetid garbage. The great thing
+with the Blackberry is that it can store
+approximately three bazillion emails
+but is completely incapable of show-
+ing more than four onscreen at once,
+even in abbreviated form. So she stood
+there, scratching her way up using a
+tiny, absurd scroll wheel to scurry up
+the infinite list of babble.
+Why is Lucy the problem? Lucy is
+the one who asked for the scroll wheel
+in the first place, you see. She’s the
+person who thinks that surfing the
+net on the iPod Touch is a good idea.
+Lucy wants Facebook on the move and
+she plays the Wii because it’s ‘just like
+playing real tennis’. Lucy is the modern
+technological consumer and, despite
+being all about the Geeks, Imperial has
+plenty of you folk in its ranks. You’re
+the new, fashionable majority, with dis-
+posable income up the wazoo in spite
+of the credit crunch and a desire for all
+things over designed. And you’re ruin-
+ing all my fun.
+The reason I’ve come to this conclu-
+sion is that I’ve been fiddling a bit with
+Linux lately, in an attempt to really get
+to know some of its more obtuse fea-
+tures. I’ve tinkered on the command
+line, I’ve started to use console-based
+IRC clients. Hell, I even used ViM a bit,
+and you normally have to get a doctor
+to sign saying you’re a lost cause before
+you install that. It’s definitely an un-
+wieldy beast, beating you with a stick
+made of pure error message every time
+you look at it a bit funny, or use too
+many vowels when spelling. But the
+fact is that it’s fast. And it makes you
+fast as a result. Text editing with ViM
+is just wondrous and when you’re us-
+ing simple, clever software on Linux
+it just glides - like computers are sup-
+posed to.
+There’s learning involved, of course.
+It’s non-intuitive. It doesn’t even try to
+make sense most of the time and the
+rare occasions that it does something
+adhering to logic it normally requires a
+Masters degree or a misspent youth to
+understand what it’s trying to tell you.
+But that doesn’t mean it’s not a better
+option, which it undoubtedly is. So
+why aren’t we all tapping away at eighty
+words per minute, leafing through syn-
+tax lists and understanding the Ext2FS
+file system? Because Lucy doesn’t want
+to. Because the technology industry
+is telling itself that what Lucy really
+wants is things that look like some-
+thing Fisher-Price made. Why have
+two buttons on a mouse when you can
+have one? Why ask the user what they
+want from a machine when you can
+convince them they need it all? Why
+keep it the size it is now when you
+can make it smaller? The idea seems
+to be that if you can remove the need
+to learn how technology works then
+that means you’re doing the right thing
+for the public. We’ve thought about it
+good and hard and decided that noth-
+ing good comes of actually learning
+things and that it’s probably best if we
+just dumb down mankind’s greatest
+achievements so that everyone can just
+smack their heads against a red button
+that says ‘EMAIL’ and it’ll just write ‘lol’
+in reply to everything in your inbox.
+It originated out of a need to placate
+the older generation, who were seen as
+being left out of the technological fu-
+ture. But when the generations below
+us picked it up too it became evident
+that far from including those that were
+unlikely to be able to learn how to ac-
+cess these services we were really set-
+ting the bar low for the future. We were
+saying that complexity was bad and that
+if it needed more than five minutes of
+remembering stuff then that was just
+inconsiderate towards the consumer.
+Well, good luck with that. I’m now
+officially a technology snob. You fuck-
+ers riding the Web 2.0 wave can do so
+until it crashes on the sands of idiocy
+and crushes your feeble skulls. Mean-
+while, I’ll start organising my life,
+breezing through work and soaking up
+the sweet satisfaction of understand-
+ing how to use masks in Photoshop
+CS. Technology requires learning. It’s
+a language, a skill. But that’s like, ef-
+fort, right? And since when did any-
+thing ever come about through effort?
+Fuck that for a game of soldiers! Let’s
+all go back to mashing our iPod Touch
+screens.
+Think I’m wrong? Mash your key-
+board with badly-formed sentences
+of anger in an email to anangrygeek@
+googlemail.com. Or you can just shout
+into your speakers and hope that I’ll
+hear. You arsehole.
+I could be angry if I wanted to be...
+New Imperial Girl: Internet dating
+Imperial Girl
+D
+espite Jovan’s persua-
+sions to get me to choose
+a more creative ‘writer-
+name’ I’ve decided to
+keep it straightforward
+and meaningful - just how I hope my
+column to be received. There is no
+need for too much of an introduction
+because my name says it all: I am a girl
+and I am studying at Imperial.
+In these articles I want to talk about
+things that keep me thinking, wonder-
+ing and debating with myself. Last year
+whilst studying for exams (for those
+quick people you will have already de-
+duce that ‘last year’ = 2nd year or >) I
+watched multiple episodes of Sex and
+the City and I realised that maybe by
+writing these articles anonymously I
+might be able to relate a small part of
+my life to you readers. I emphasis that
+what I will continue to write about is
+my personal experience; it by no means
+generalises for any group of people.
+Being at Imperial can be tough for a
+girl. We can’t be too ‘girly’ else we get
+ostracised by the outweighing major-
+ity of boys on campus but we can’t in
+turn become the Tomboy else we will
+never get asked out on dates. But what-
+ever tactic you use as a girl on campus,
+I find that it doesn’t make a huge dif-
+ference to your dating life. With this in
+mind I was recently introduced to this
+guy online who lives in Australia. Orig-
+inally I was only talking to him because
+I needed some guidance on some area
+of studying but when we first started
+talking on Skype I realised that we had
+clicked instantly. I could tell that we
+both felt it. But even though internet
+dating is so taboo and long distance
+relationships never work, I had an urge
+to be in a relationship with this guy
+who I had never met.
+Then I started thinking, 70% of the
+population at Imperial are guys (don’t
+quote me on this) and I haven’t had
+these feelings for anyone of them.
+Why? Maybe it was a consequence
+of the situation, neither of us have
+webcams so neither of us knew what
+each other look like (of course we have
+since added each other as friends on
+Facebook, come on!!). But for the first
+few conversations we knew only each
+other’s name and country of residence.
+There was no pressure, a perfect op-
+portunity to get to know each other in
+the most non-superficial way. Maybe
+that is it? We live in such a superfi-
+cial society where what you wear and
+how you look generally define you as
+a person. I am not denying that I am a
+follower, I do think it’s important but
+maybe it’s time that we had a visor that
+blanks the exterior and allows us to see
+our potential boyfriends/girlfriends for
+who they really are.
+I’ll give you another example, I used
+to crave this boy - his sense of style was
+so HOT, he had a beautiful face and
+he was exactly of the physique I liked.
+The other day whilst walking into col-
+lege down Queens Gate I thought I saw
+him. I felt a rush as I remembered how
+I really ‘liked’ him. I wasn’t wearing my
+contacts so as I got closer I realised
+it was just another guy with the same
+sense of fashion and hairstyle. “Damn,”
+I thought, “is that all there was to my
+attraction?” I really only ‘liked’ the way
+he looked and that was it. I can’t fool
+myself that it was anything more but is
+that all it takes?
+Maybe it’s time that we give our eyes
+a break and let our ears and mind de-
+cide for us. If only guys at Imperial
+would see that girls like myself want to
+be judged for who they are and for our
+physical attractiveness to come sec-
+ondary to this. No?
+Amin Elmubarak
+Caz is free to speak again
+T
+he second time a felix
+contributor has written
+a response to one of my
+own comment pieces and
+I, once again, find myself
+flattered although I am sure it is not
+out of sycophancy that these respons-
+es have come to be. That my opinion
+has caught the eye of another and has
+sparked a debate is enough to please
+me greatly.
+This time Abdul Hannan has put
+forward his own views on Freedom
+of Speech, which I argued vehemently
+in favour of in my commentary on the
+subject. He first points out that this no-
+tion of Freedom of Speech is very much
+a concept originating and enforced by
+‘civilized society’, in this case the West-
+ern world. He makes a valid point as
+many societies outside the Western
+realms do not experience so much of
+the freedom we enjoy here due to re-
+ligious or political history; the collec-
+tivist approach in Communist China,
+for example. Abdul seems to imply by
+writing ‘it is this Freedom loving soci-
+ety that screams from mountain-tops
+when anyone dares to question the
+concept of Freedom’, that to strive for
+freedom of speech, thought and action
+is something which should be abated.
+Admittedly, there cannot and should
+not be absolute freedom of action lest
+the world descends into anarchy. In a
+perfect world there would be absolute
+freedom of action where we humans
+would exist at an elevated moral level
+and so the question of anarchy would
+not arise; utopia would have been
+reached and we would be back living in
+the proverbial Garden of Eden! This is
+completely unattainable.
+Depending on your beliefs, we are
+each unique individuals, no one is
+the same, and with this should come
+the basic human right of freedom to
+chose the way we live and behave. As
+able minded people we do have abso-
+lute freedom of speech (we control the
+words that emit from our mouths) but
+when exercised this may lead to unfair
+criticism of a person or group. This
+is where we need to use our sensitiv-
+ity and discretion so as not to appear
+oafish and on a mission just to inspire
+hate; either chose to refrain or rethink
+how we express our views.
+‘Terrorists? Which terrorist groups
+does Caz refer to anyway?... Caz quite
+unashamedly has used conformist self-
+censorship, to be as vague as possible’.
+Here I stand corrected in my hasty
+use of the word ‘terrorist’. Of course, I
+should have made it clear I was refer-
+ring to the Islamic terrorists who re-
+sponded to the move to publish ‘The
+Jewel of Medina’ with an attempted
+bombing of the home of the owner
+of Gibson Square publishing house.
+However, due to the content of the
+novel (which explores the prophet Mu-
+hammad’s relationship with his bride
+Aisha) as well as the large amount of
+Islamic terrorist activity occurring in
+recent years, it would be clear that it
+was Islamic terrorists that took objec-
+tion to a book that supposedly slates
+their religion. It would not have been
+racist to state originally that these were
+Islamic terrorists, that would be a mere
+statement of fact.
+I have to strongly disagree with Ab-
+dul’s ‘implicit advice’ to Muslims that
+if they object to a book of this nature
+that they are a terrorist. One steps over
+the border into terrorism when one
+begins putting explosives through let-
+ter boxes! To object to a publication is
+completely legitimate, just as much as
+the publication itself, and is in accord-
+ance with this very idea of freedom.
+‘It is this Freedom loving society
+which evangelically chooses to im-
+part its values to the rest of the world,
+through coercion and bullying.’ It is
+this fact and the conduct of the West-
+ern world that riled Islamic extremists
+to launch an attack on America seven
+years ago on September 11. Because
+of this attack our own freedom in the
+west, most notably at airports, has
+been impinged upon. It seems that the
+‘terrorists’ have got their way. (By no
+means am I implying we should take a
+cavalier approach to security.)
+Abdul makes some excellent points
+about the apparent ‘catch-22’ of Free-
+dom of Speech – it can never be ab-
+solute as the manifestation of one per-
+son’s freedom will conflict with that of
+another. Here in felix we have a good
+example of Freedom of Speech by the
+presence of these opinion columns. I
+have voiced my views and he has ex-
+pressed his. Both are valid arguments
+and ideas which have inspired free
+thinking and debate and I welcome an-
+yone else’s thoughts on this paradoxi-
+cal notion and, indeed, any others.
+Caz Knight
+I
+’ve always been a little bit unsure
+about sharing this page in the
+newspaper. I feel like the psychi-
+atric patient who’s been thrown
+into the wrong wing of the
+asylum: I’m the gentle manic depres-
+sive who hears voices (played by Tom
+Hanks, perhaps – or a young Dustin
+Hoffman) suddenly surrounded by the
+paranoiac sociopaths one particularly
+rapid heartbeat away from an apoplec-
+tic fit.
+Anger seems to be of the essence in
+writing a comment piece today. Jeremy
+Clarkson, who in many ways has come
+to represent what a 21st Century col-
+umnist should be like, seems to have
+found the elixir of middle-age with
+his unique cocktail of gasoline, vitriol,
+loud metaphor and overblown, uncon-
+ventional simile. Gordon Ramsay also
+seems to have soared to popularity on
+similar wings, as the first chef to fricas-
+see and say a frick on live television.
+Now I just don’t get that angry about
+life. I wish I did – God knows it would
+make these pieces easier to write and,
+I imagine, more enjoyable to read. It’s
+very easy to summon anger, and though
+channelling it into humour is harder,
+it’s always effective. So here I am, with
+a rich, bellicose vein of comic material
+that I just can’t access. Because either
+I don’t care enough about things to let
+them irritate me, or I care too much to
+resort to cheap, knee-jerk reactions to
+get a laugh.
+But this week I seem to have hit the
+right frame of mind. Various grotesque
+acquaintances of mine have been get-
+ting on my goat (a cheap joke about
+Welsh sexual practices was wisely re-
+moved in the edit). The reasons are en-
+tirely unimportant: in fact, my flatmate
+dared me to infuse all 800 of today’s
+meticulously-chosen words with the
+full Satanic force of my rage, and not
+once mention the reason for my fury.
+Going round in such vicious circles is,
+unfortunately, beyond my rhetorical
+skills.
+I have also managed to calm down
+considerably. The thing with me is
+that my natural state of equilibrium
+is distasteful apathy. People and situa-
+tions might initially get on my nerves,
+but it will always end in a wry smile of
+the greatest possible passive aggres-
+sion and a general hatred for human-
+ity. Lectures on Monday afternoons,
+for instance, are particularly good at
+getting me into that mood. Spending
+three hours in a crowded room with
+200 physicists after the freedom of the
+weekend is enough to drain me of all
+respect or affection for our misguid-
+ed species. But not enough to get me
+angry.
+On rare occasions, however, a par-
+ticularly febrile anthropoid can suc-
+ceed in denting the calm shell of my
+mental stability. And this week, you
+guessed it, was one of those times. So
+my temper has been rising. My blood,
+as darling Gordon recommends, has
+been set to a gentle simmer. The milk
+of human kindness, which ordinarily
+flows through my veins like spring wa-
+ter running across Swiss countryside,
+has been curdling.
+And, Jesus, it’s amazing how mor-
+ally satisfying rage can be. Even vacu-
+ous, pointless anger is a guaranteed
+pick-me-up. It sharpens the senses
+and heightens awareness: it gives you
+something to focus on. The thing
+about human psychology is that fo-
+cus is a guaranteed path to happiness.
+Eastern meditation emphasizes focus
+on emptiness as the path to nirvana,
+but total investment in any of our ma-
+terialistic Western substitutes works
+well enough. Some people are satis-
+fied by total commitment to another
+person, others devote hours on end to
+work of one kind or another, and some
+dedicate themselves to collecting ex-
+periences, books, points in an online
+game, academic awards or rare 1920s
+stamps from the Outer Hebrides.
+It is much easier, however, to be fo-
+cused on an emotion. Many lovers
+derive greater consolation from being
+in love than they do from each other’s
+company, and God knows how many
+teenage or tweeny sods have powered
+their internal motors on the consola-
+tion they derive from a good wallow. I,
+and I know I am not alone, am able to
+go for days on the power of fury. While
+there is certainly something cathartic
+in writing an amusing article about
+some erstwhile irritant, there is more
+than emotional cleansing going on.
+Rage, like self-pity and, to a lesser
+extent, love, is hugely self-indulgent. A
+good fume makes us feel important. It
+makes us feel as though our opinions
+matter and that we have enough expe-
+rience to make judgements that count.
+To be able to condemn something or
+someone and raise a criticism or a com-
+pliment indicates the value of our own
+opinions and heightens our feelings of
+power. Getting angry over trivialities is
+a way of patting ourselves on the back
+for how well we think and how insight-
+fully we can analyse situations.
+Hence the mileage we comic writ-
+ers (‘we happy few’, indeed) are wont
+to squeeze out of frustration. And,
+hypocrite that I am, though I’ve cov-
+ered ground on the same issue, at least
+today rage and frustration were riding
+in the passenger seat and not powering
+the car.
+The Editor’s idea of an amusing inset. My idea of an amusing caption.
+

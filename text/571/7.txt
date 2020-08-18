@@ -1,0 +1,130 @@
+Exploration
+Society
+China, Thailand, the Patagoniari Andes, Ice and
+Greenland, Kenya and Central Africa are all the
+sort of places the IC Exploration Board and
+Society want to help expeditions set out to. Now
+is the time to start planning for 1982/3, even for
+those with relatively simple objectives.
+Some of the above sound formidable, but with
+the help of the huge amount of experience and
+the numerous contacts that exist in and outside
+the College (at the Royal Geographical Society
+and British Museum for instance) they are within
+anyone's capabilities.
+Substantial backing as well asfianancialhelp is
+available from the Exploration Board for
+'expeditions' in the widest possible sense of the
+word. The opportunities range from those
+involving scientific and engineering orientated
+projects (e.g. environmental studies, hydrology
+and communications) to those wanting to climb,
+cave, carry out underwater salvage work or just
+to undertake a difficult journey.
+For next term we intend to organise several
+meetings concentrating in turn on some of the
+places mentioned. There will be speakers with
+personal experience to the country, able to give,
+an intersting talk with good slides, as well as'
+suggest the sort of thing a student expedition
+might undertake, outline the problems and
+answer questions.
+Anyone with ideas, experience, specialist
+knowledge or just plain interested please come
+along. Hopefully these meetings will provide the
+seed for one or two expeditions. It will be a
+worthwhile development if some muftidisciplinary
+expeditions can be formed from those in different
+years and on different courses.
+Take China for instance — a feasible
+proposition considering the links the College has.
+An attempt was made two years back and
+considerable progress achieved. However, it
+foundered since the leader left for Hong Kong —
+in theory to gain information — but was so
+enticed he stayed. So, why not try again? The first,
+student expedition ever to China!
+If you have any ideas in the meantime, go ahead
+and follow them up. You can contact me,
+chairman of the Explorataion Society, through
+the Mech Eng 1 pigeon-holes.
+Max Balfour
+Scaramouche
+Solutions
+Last Week's Solution
+On the face of it, White appears to have a valid
+mate in two by 1 N-B6. Whatever Black replies,
+then White mates with 2 R-R8.
+However, if Black can castle, she can avoid this
+mate.
+Now by the rules of chess, Black cannot castle
+if she has moved her king or rook. So if she can
+castle what was her last move? Not with the pawn
+on KN2, certainly, for this pawn hasn't moved. So
+it must have been with the pawn on QN4. This
+pawn cannot have come from QN3, or else White
+illegally left herself in check at the end of her
+previous move. Nor can it have come from QB3
+(capturing) since White still has all sixteen men.
+(A lot of otherwise complete entries missed this
+point.) So Black's last move was P(N2)-N4 which
+allows 1 PxP en passant, check. The rules forbid
+castling out of check, so 1... K-Ql is forced, and
+mate follows with 2 P-K7.
+So there are alternative solutions, depending
+on Black's last move. If Black played P(N2)-N4,
+White should play PxP en passant, whereas if
+Black moved king or rook last, then White should
+play N-B6.
+Out of forty-five entries, six were absolutely
+correct and the winner is Jeremy Moss,
+Chemistry 1, who can collect his prize from the
+FEUX Office.
+Count Scaramouche
+Consider the number of ways of spelling
+EHCUOMARACS in one quarter of the diagram.
+There is only one choice of E. From that E you
+have a choice of two Hs, and from each H you
+have a choice of two C s . . . etc.
+So EHCUOMARACS can be spelled out in 2">
+ways. So SCARAMOUCHE can be spelled in the
+same number of ways. So taking all four quarters
+of the diagram into consideration; there are 4.210
+ways, except that the four 'straight' spells have
+each been counted twice. Hence there are 4.210
+-
+4=4092 ways to read SCARAMOUCHE in the
+diamond.
+Cubes
+Since 3S
++7^K)3
+=370, itis obvious that 33
++73
++l3
+=371.
+Shot in the Dark
+Four.
+Inspect a jar from the middle shelf. If it's fixer,
+inspect all the jars from the top shelf. If it's stop,
+inspect the other two jars from the middle shelf.
+But if it's developer, you must inspect another
+jar from the middle shelf. If this is stop, take the
+remaining jar from the middle shelf. If it's
+developer, then inspect two jars from the top
+shelf.
+A little thought will convince you that this
+method will always provide you with at least one
+jar of each chemical.
+Bathtime
+Neither; the clear patch is still exactly the right
+size (half the size of your face).
+Cockroach Vol-au-Vent
+John and Rae cross together. John brings the
+torch back. Steve and Liz cross together. Rae
+brings the torch back. John and Rae cross
+together. Total time: 12 minutes.
+Trousers
+Zero. If six of us get the right trousers, then so will
+the seventh.
+PogeS FELIX, December 12, 1980
+

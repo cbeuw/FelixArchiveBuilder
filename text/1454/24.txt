@@ -1,0 +1,375 @@
+24
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+felix FRIDAY 19 FEBRUARY 2010
+Chip-and-PIN yourself
+into a world of hurt
+Simon Worthington looks at the so called ‘secure’ Chip-and-PIN
+verification system and how it might not be as safe as you think
+T
+he days of securely paying
+with plastic are over. It’s high
+time we all went back to pay-
+ing with paper money, or
+perhaps even doubloons. They’re both
+probably safer than the current elec-
+tronic system we have in the UK, the
+infamous ‘Chip-and-PIN’. Last week,
+eminent security researcher Ross An-
+derson and his team published a paper
+identifying a huge security flaw in the
+system that governs all of our real-life
+credit and debit card transactions. The
+take home message of the paper was
+that our cards are not, and have never
+been, as secure as we all thought.
+Before our current system, bank
+cards carried just the magnetic stripe
+that stored the account details of the
+card. Cashiers would swipe the card
+and ask for a signature from the cus-
+tomer, which would then be compared
+to one written on the back of the card.
+It meant the decision of whether or not
+the signatures matched was up to the
+cashier. This system worked pretty well
+for the customer, except for the fact it
+was pretty open to fraud from forging
+of signatures or card cloning of stolen
+cards on which new signatures could
+be written. Chip-and-PIN was devised
+as the security mechanism that took
+the discretion out of the hands of the
+cashier and made the whole system
+electronic. Cards now include a chip
+that authenticates the transaction us-
+ing a PIN known only to the user,
+which is entered into a card terminal
+when paying. The idea was that this
+would make stolen cards worthless
+whilst also removing any liability from
+the cashiers and by extension their
+employers.
+The whole authentication process is
+actually quite complicated, with data
+and numbers being transferred up and
+down and all over the place, but the
+important part happens when you ac-
+tually type in your PIN.
+The PIN is punched into the termi-
+nal’s keypad and sent to the card. The
+card then decides if the PIN is correct
+and sends the appropriate message
+back to the terminal. The security flaw
+arises due to the fact that this conver-
+sation between the card and the termi-
+nal keypad is not encrypted. A piece of
+electronics in the middle can intercept
+the PIN entered on the terminal and
+simply return a ‘yes’ message which
+looks as if it originated from the card,
+regardless of whether the PIN was cor-
+rect or not. The card never even re-
+ceives the PIN and eventually just as-
+sumes something went wrong and that
+the authentication was carried out suc-
+cessfully by some other method, like
+the good old signature check. Neither
+the card, the terminal or even the bank
+has enough information about the
+transaction to detect the subterfuge.
+So where does this leave us con-
+sumers? Well, Chip-and-PIN was also
+designed as a system to help protect
+banks, shifting all of the liability for
+unauthorised purchases onto the card-
+holder. If the system worked securely
+this arrangement would be fine and it
+probably is the consumer’s fault if they
+let someone else know their PIN. Now
+this security hole has been unveiled it
+means that thieves have a means to use
+stolen cards and therefore the card-
+holder genuinely isn’t to blame. Banks
+can and do hide behind the fact that
+purchases are supposedly ‘verified by
+PIN’, with at least one court case us-
+ing this as evidence of consumer neg-
+ligence. This weakness brought to light
+by Anderson and his team, however,
+suggests that this might not always be
+the cause. Unfortunately for consum-
+ers, until this hole gets patched, which
+will take a very, very long time, or the
+justice system wakes up to the fact
+that Chip-and-PIN is broken, there is
+very little protection for card-wielding
+consumers.
+What can you do to protect your-
+self? Very little, apart from vigilance
+at the terminal and ATM. Check the
+card slot for any foreign devices such
+as skimmers and make sure the termi-
+nal doesn’t look like it’s been tampered
+with before you stick your card in it.
+Watch those statements kids.
+T
+his week has seen the annual
+Mobile World Congress take
+place in Barcelona. MWC
+is THE place where mobile
+device manufactures come to show off
+their latest wares and where journalists
+flock to attempt to chart what we can
+all expect for the mobile year.
+This year Microsoft stole the show
+with what can only be described as
+a mobile resurgence with Windows
+Phone 7. OK, so Windows Mobile/
+Phone 6 and 6.5 run quite a lot of
+phones out there, but it’s been a dead
+duck for the last two years. With com-
+petition from Android, the iPhone, the
+ever-present RIM and Palm’s webOS,
+it was about time Microsoft brought
+themselves into the modern smart-
+phone game.
+Windows Phone 7 series represents a
+serious paradigm shift from Microsoft.
+Not only is it based on Windows CE6,
+like the Zune HD, but they’ve com-
+pletely rewritten their UI playbook.
+Gone is the reliance of a stylus to get
+things done, the humble finger reigns
+supreme, as it should. In fact, Windows
+Phone 7 is so drastically different from
+its predecessors and any other phone
+operating system out there at the mo-
+ment, it’s pretty hard to describe.
+Microsoft calls its interface ‘Metro’
+and it is essentially like a Zune interface
+blown up and extended. Drawing more
+from its Zune and Media Centre expe-
+rience than Windows, Metro is heavily
+reliant on motion and typographic ele-
+ments forged in a high contrast, mini-
+malist UI. Gone is any degree of alpha
+shading, bevels or modern accents that
+Apple and co, insist on splashing eve-
+rything with. That’s not to say Micro-
+soft’s ‘chromeless’ design lacks polish,
+but it’s a simplified plain interface that
+really suits the small screen.
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+Another week, another tech
+story and there’s plenty of them
+to choose from this week, so
+let’s get cracking, OK?
+First up for your gadget
+gorging pleasure is the world’s
+first 4G netbook. The Sam-
+sung N150 packs your usual
+netbook fare, nothing really
+to shake a stick at apart from
+the LTE modem (that’s Long-
+TermEvolution
+for those keeping
+track). Boast-
+ing potential
+speeds of
+100Mbps
+down/50Mbps up, real world
+tests showed Sammy manag-
+ing roughly 28Mbps which, to
+be fair, is faster than my home
+broadband. A lot to get excited
+about then.
+Perhaps even more remark-
+able than superfast mobile
+broadband was the ‘super’
+AMOLED display Samsung
+had in its first Bada (don’t ask)
+phone the Wave. Although the
+phone itself is a bit snooze-tas-
+tic the screen really did prove
+to be super, showing bright,
+vivid and fully saturated colour
+in bright sunshine, something
+ordinary AMOLED screens
+just can’t manage. With all
+the benefits of OLED screens,
+emitting their own light,
+thus saving power and giving
+amazing vibrancy plus
+outdoors readability, I
+really hope Samsung
+and others stick this
+amazing display in
+something a bit more
+exciting!
+More phone news
+from MWC in Barce-
+lona this week from a
+rather unlikely part-
+nership, Puma and
+Sagem. The Chav-
+Phone, err, I mean the
+Puma Phone, features a
+capacitive touchscreen, 3.2MP
+camera with LED flash, GPS, a
+compass and a pedometer for
+sporty types. What makes this
+little beggar a little different
+from the rest is the solar cell
+it’s packing on its back for on-
+the-go green charging.
+Impressive little guy,
+but I for one couldn’t
+seriously consider
+buying something
+phone-like with
+Puma branded across
+it. Look for it through-
+out Europe this April.
+RIM finally joined
+the modern world
+this week with a Web-
+Kit-based browser
+for Blackberry. Finally
+Blackberry addicts will
+have a fast, efficient mobile
+browser that doesn’t suck. Will
+this make you buy a Black-
+berry? Probably not, but it
+will make accessing the web a
+much less tiresome affair. Hats
+off RIM, that didn’t take long;
+only 3 years or so.
+Wired was in the news again
+this week with more iPad relat-
+ed talk. This time it had a fully
+rendered demo of
+its digital maga-
+zine format
+which it hopes
+to launch on
+the iPad come
+March. Inter-
+estingly, the
+digital maga-
+zine Wired cre-
+ated was wrapped up in Adobe
+Air meaning it should be a
+quick port to the iPhone/iPad,
+if Apple approves it, of course.
+The big question is, will punt-
+ers pay for something they can
+normally get free online? Per-
+haps not, but only time will tell.
+The ISS this week got its
+new window, Cupola, bolted
+onto the Tranquillity module.
+As you can see, courtesy of
+Gizmodo, it presents
+pretty impressive
+views of Earth and
+even looks like
+a Tie Fighter to
+boot. Awesome.
+Bad news for
+Adobe this week
+as a recent report
+indicates malicious
+PDF documents made up 80%
+of all computer exploits in
+2009. It seems Adobe Reader
+has become the new mass-
+market target for malware.
+Doesn’t bode well for students
+and researchers where the PDF
+journal article reigns supreme.
+Samuel
+Samuel
+Gibbs
+Gibbs
+Technology
+Editor
+Return of the
+Windows Phone
+SamuelGibbs
+SamuelGibbs Technology Editor
+The Start screen holds rows of tiles
+down the middle which are live and
+animated with ones that are used more
+often promoted to the top. The list of
+tiles can be infinitely long and scrolled
+down with a swipe.
+Status updates and things like that
+can be pushed to the tile allowing
+you to see them at a glance of the
+animation.
+Microsoft has also fleshed out the
+‘hub’, something that will be familiar
+to Zune HD users. Hubs offer a middle
+ground between icons and a full blown
+application. A hub is an extension of
+the OS which can carry content in from
+both local or cloud sources, meaning
+photo galleries can be browsed right
+from a hub.
+Think of them as a way to pull in-
+formation into the OS without having
+to have a separate app running. Mi-
+crosoft showed off a variety of hubs
+at MWC2010 including a People hub
+which pulls in contact information and
+status updates from social networks,
+contact databases such as Gmail’s
+contacts and of course Exchange. The
+smart thing about the hub is that the
+first screen you see is a dynamically
+generated screen with the people you
+contact most right in front of you and
+a section for ‘Me’ which allows you to
+update your status across multiple net-
+works. Other hubs featured included
+Games with Xbox Live support, the
+Marketplace, aka App Store, Music
+and Video for all your media, Pictures,
+Office and the usual calendar, mes-
+sages, email, phone, Bing Maps and
+Search, and of course IE mobile.
+An impressive turn around for Mi-
+crosoft indeed, but how it actually per-
+forms in the hand remains to be seen.
+I for one am excited to see Microsoft
+back in the game, it’s been a while.
+plus
+I
+ng
+is
+n
+e
+s
+e
+e
+e
+e
+e
+th
+I
+i
+o
+t
+th
+K
+for
+TermEvo
+for thos
+track).
+ing
+sp
+

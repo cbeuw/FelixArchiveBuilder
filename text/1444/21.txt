@@ -1,0 +1,292 @@
+21
+felix FRIDAY 13 NOVEMBER 2009
+technology.felix@imperial.ac.uk TECHNOLOGY
+Weekly Wrap-up: A quick guide to the best of the rest you might have missed
+The war for neutrality rages
+W
+ith all the debates on
+knobbly vegetables, it’s
+easy to forget that the
+European Parliament
+plays a huge role in the way that we
+all live. MEPs from all over Europe are
+currently debating the proposed ‘Tele-
+coms Reforms Package’, which will put
+in place new laws to regulate the way
+we use and access the Internet here in
+the EU. In doing so they will decide the
+outcome of the most important, yet
+least reported, debate the Internet has
+ever faced, about ‘net neutrality’. What
+is decided now on net neutrality will
+shape the way the Internet grows and
+changes, and will ultimately affect the
+way we work and play in the future.
+OK it’s important, I get that, but what
+the hell is net neutrality? Well simply
+put, net neutrality is the principal that
+all information on the web should be
+treated equally.
+‘Net neutrality is
+the principal that all
+information on the web
+should be treated equally.’
+Tim Berners-Lee, often credited
+with invention of the web, defines it as
+“the freedom of connection, with any
+application, to any party”, meaning that
+everybody should be able to use their
+Internet connection without any sort
+of limit to access whatever they want.
+If you’re thinking that’s how it works
+already, then you’d be right, but all that
+could soon change.
+Telecoms companies such as Virgin
+Media in the UK, as well as Comcast
+and AT&T in the US, have expressed
+interest in limiting or blocking access
+to certain websites owned by com-
+petitors or charging website owners a
+fee to have their site delivered at un-
+restricted speeds to users as they are
+at the moment. Those who couldn’t
+pay would have traffic from their sites
+slowed down through traffic shaping
+or even stopped from passing across
+the company’s network.
+Hopefully by now it’s pretty easy to
+see why net neutrality is a good thing.
+Freedom on the Internet has been the
+main reason that the web has grown
+into the powerful tool we know today,
+with surfers able to drive innovation
+of ideas and technology from their
+back bedrooms or garages. No-one can
+doubt this innovative force when they
+remember that Google, Skype, eBay
+and Twitter, tools many of us use daily,
+were all started by a regular person with
+an idea.
+Without a neutral Internet it would
+make it hard for those sites to even
+come into existence today as single
+Simon Worthington reports on why your freedom to use the net as you choose is at risk
+with the European Parliament considering a non-neutral Internet as ISPs line their coffers
+developers struggle to pay the fees re-
+quired to get their idea noticed.
+Anti-neutrality systems would be
+beneficial for the present day Google
+and eBay though, as it would help to
+stifle their competition and generally
+reduce the competitiveness of the In-
+ternet as a whole. Big companies like
+Amazon could afford the prices to have
+their service upgraded whilst smaller
+companies offering the same home-
+delivery services wouldn’t be able to pay
+the money and keep low prices and so
+would fall out of the market. This is of
+an obvious disadvantage to me and you,
+because loss of competitiveness would
+hamper the drive to the low Internet
+prices we know and love. Enforcing
+neutrality across the web would help
+ensure even small companies get a slice
+of custom and so can make the market
+competitive.
+Another area in which the Internet
+is often applauded is free speech, with
+blogs providing a platform for any-
+Google
+acquires
+AdMob
+This week Google extended its ad-
+vertising reach deeper into the mo-
+bile market with the acquisition of the
+mobile advertising leader, AdMob.
+The purchase is reported to have cost
+Google $750 million in stock, making
+waves in the relatively small mobile ad
+serving market. It’s important to note
+that the mobile ad serving market ben-
+efits from the lack of widely available
+ad-blocking technology that plagues
+the desktop market meaning that in
+most cases each ad served is in fact
+seen.
+Google already had a mobile adver-
+tising system in place that mimicked
+it’s signature Google Adsense text ads
+from the desktop. In purchasing Ad-
+Mob, Google not only buys a signifi-
+cant market share but also the technol-
+ogy for mobile display ads. Google’s
+VP of engineering, Vic Gundotra said
+that acquiring the AdMob engineering
+team was critical to Google’s accelera-
+tion of its mobile ad efforts.
+AdMob, which has good links with
+content providers and the lucrative
+mobile app space, will propel Google
+to the forefront of the mobile sector.
+Having Google leading the charge in
+mobile ads may also see an expansion
+of the market sector, especially with
+Google’s tie-ins with its open-source
+Android operating system. The mobile
+app space, which has seen rapid expan-
+sion on the iPhone and Android plat-
+forms in recent years, has increasingly
+seen ad supported programs provid-
+ing a potentially lucrative market for
+Google to have bought into.
+set up a company to do it better. War-
+Mouse is aiming this at the OpenOf-
+fice MMO playing crowd and they
+might go potty over it, but I think I’ll
+stick to my trusty Logitech thanks.
+This week Mozilla had a party to cel-
+ebrate Firefox turning the big 5-noth-
+ing. Yes that’s right, the browser of
+choice for the web savvy, but Google
+hating, user really is five years old. The
+project which grew out of the death of
+the Mozilla suite (aka Netscape Navi-
+gator) celebrated its fifth birthday by
+being crowned the vulnerability king
+and not in a good way.
+A recent study found that Firefox
+suffered from 44% of the total vulner-
+abilities affecting todays browsers.
+Safari, which includes Mobile Safari
+came in second and the normal culprit
+of the browser wars Internet Explorer
+came in at number three. The winner
+in all this happens to be the least used
+browser Opera.
+Now I know there are Opera fanboys
+about and for good reason, it’s fast and
+reliable, but it goes to show there’s
+safety through minority.
+Speaking of vulnerabilities, this week
+it’s emerged that there’s a new threat
+from the computer virus. Your normal
+everyday virus either wants to steal in-
+formation from you, send out a load of
+spam or turn your computer into part
+of a botnet. Although that’s pretty in-
+convenient and could potentially be
+damaging to your finances or identity,
+it doesn’t come close to causing jail
+time for the infected.
+A new type of virus has started to
+crop up which paedophiles use to es-
+sentially store their collections of kiddy
+porn on your computer. Now this is
+pretty disturbing just from the thought
+of kiddy porn being on your compu-
+ter and some hideous person access-
+ing it for their ‘needs’. But you might
+be shocked to know that it might even
+lead to you facing a conviction for pae-
+dophilia because who’s going to believe
+‘a virus did it’ claim? It all comes down
+to the fact that the exams that courts do
+on your computer are costly and they
+don’t like paying for them meaning
+they’re often skipped. In essence un-
+less you fork out a pretty penny for the
+exam you could be convicted straight
+up for having kiddy porn. So next time
+you click on that .exe or browse that
+dodgy website with the ‘free stuff’ just
+think twice and always use protection.
+NEC this week showed off its Tele
+one and everyone to air their views on
+whatever they want. There have been
+countless examples in Internet history
+where bloggers have made a difference
+in the real world, in everything from the
+revival of Family Guy to your screens,
+to forcing the resignation of ethically
+ambiguous US Senator Trent Lott. Eve-
+ryone can contribute equally, and with
+that comes choice and diversity. With-
+out a neutral network the playing field
+isn’t level any more. Rich commentators
+would have more impact on discussion
+because they wield the financial power
+to get themselves a better quality of
+service.
+Thankfully, it’s not too late just yet
+to do something about this. There are
+several campaigns (Internet based, of
+course) to fight for net neutrality, and
+many of them have active petitions.
+If you want more information, go to
+www.laquadrature.net for the low-
+down on net neutrality in Europe, and
+also check out the rather corny sound-
+ing www.savetheinternet.com. What-
+ever you do, don’t just sit there, because
+your freedom to browse, play and work
+across the internet really is at risk. In
+the end, the governments and commis-
+sions have to listen to somebody, and
+it’s either going to be us or the telecom
+companies looking to line their wallets.
+Who would you rather it was?
+‘Whatever you do, don’t
+just sit there, because
+your freedom to browse,
+play and work across the
+internet really is at risk.’
+fantastic enough, NEC aims integrate
+this technology with real-time spoken
+language translation which would give
+the wearer the ability to read translated
+text projected into their eye balls when
+someone speaks to them in a foreign
+language.
+OK, I know that sounds a bit fishy,
+but we’re nowhere near April and it’s
+not inconceivable that with advances
+in voice recognition, this kind of sys-
+tem could revolutionise the way we
+communicate in foreign countries.
+For the time being NEC said the Tele
+Scouter glasses could be implemented
+using facial recognition to give sales-
+men an overview of a particular clients
+recent purchases.
+NEC hopes to have the glasses tested
+and available in November 2010. I just
+hope they can build in a bit of Termi-
+nator style augmented reality for the
+ultimate wearable computer system.
+Forget Layar and the other phone
+based augmented reality apps, having
+info beamed into your eyes is definitely
+the way forward.
+SamuelGibbs
+SamuelGibbs Technology Editor
+SamuelGibbs
+SamuelGibbs Technology Editor
+Another week in tech has passed us
+by and what do we have to show for
+it? How about the hideous looking
+OpenOffice Mouse?
+Featuring 18 buttons, 63 program-
+mable profiles and even an analogue
+joystick, this instant carpul tunnel sur-
+gery inducing monstrosity is soon to
+hit the stores for the bargain price of
+£45. Obviously not a fan of the Mag-
+icMouse, a World of Warcraft-loving
+gamer decided his mouse didn’t have
+enough buttons and went ahead and
+Scouter glasses in Tokyo. The glasses
+work by projecting information di-
+rectly on the wearers retina provid-
+ing a HUD type overlay. If that wasn’t
+

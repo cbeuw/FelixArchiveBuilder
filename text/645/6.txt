@@ -1,0 +1,192 @@
+This may be the age of computerised telecommunications, but the
+College telephone system is still very much dependent on
+operators %and jack plugs. Here, ace investigative reporter Jon
+Barnett looks into the eccentricities of the present system and
+speculates on future developments.
+Time to Switch
+Exchanges?
+At a place as superbly equipped as Imperial
+College it can be interesting to highlight
+some of the inadequacies which exist.
+Examples of these are the telephone
+networks—both internal and external—on
+which the College depends.
+Jon Barnett
+One cannot fail to notice that almost
+every office has two telephones, one
+internal, one external, the reason being that
+the two networks are independent and
+apparently incompatible. Let us look at the
+internal system first.
+South Ken
+Internal
+Each telephone on the internal network has
+a four digit number in the range 2000-4999,
+and the exchange is fully automatic. There is
+an emergency 999 facility which may be
+answered either by the College switchboard
+or Sherfield Security (out of hours). In
+addition the system can be linked up with
+the Silwood or Southside networks by
+dialling 6 or 0 respectively. In both cases
+only one two-way link exists. For Silwood it
+is a rented Post Office line and for Southside
+it is a private line. College owns the main
+internal network and rents the Southside
+network, and Silwood is standard British
+Telecom.
+This is where the fun starts. South
+Kensington internal is incompatible with
+British Telecom, but Silwood appears to be
+a variation of the Private Automated Branch
+Exchange (PABX)—every phone has a three
+digit number and acts as both an internal
+and external phone. One can ring Silwood
+on a BT line (Ascot 23911) and ask for any
+extension. Apparently on some Silwood
+phones one can dial 9 and get a direct BT
+line, while on the rest all one does is dial
+0—the General Office—and ask for one line.-
+So if Silwood is compatible with the South
+Kensington internal and BT, why can't the
+South Kensington network be linked to the
+real world?
+Some of you will have thought this over
+and are now rushing to the nearest internal
+phone in order to dial 6-9 and get a BT
+external line. Forget it! It doesn't work.
+Neither does dialling 6-0 and asking Silwood
+General Office for a line. There is no
+indication of why this is not possible, but
+they say it can't be done.
+Southside
+Internal
+There is also an internal network in
+Southside and Linstead. This is a rented
+GEC Reliance System with an automatic
+exchange located in a tunnel under
+Southside, as a result of which it is not
+expected to complete its twenty year
+lifespan. Phones on this network have two
+digit numbers and as described above, 0
+patches into the South Kensington internal.
+It is amusing to recall that when the
+system was installed, the plan was to identify
+This may look like a Science Museum exhibit,
+but in fact the college depends on it to deal
+with 2,000 calls a day with up to 12 operators
+working simultaneously
+each landing telephone by landing num-
+ber—which is unique. Hence staircase three,
+level two in Falmouth Keogh—landing 23—
+would have been extension 23. For some
+reason this entirely sensible idea was not
+implemented. Landing extensions were
+numbered sequentially instead, running up
+and down each staircase.
+Apart from this little quirk, the system
+works well, and the more imaginative
+among you will already have realised that if
+they are visiting Silwood they can dial their
+friends in Southside/Linstead directly from
+any Silwood phone by dialling 6-0-landing
+extension assuming both direct lines are free.
+The only worrying aspect of this pleasant
+system is the rental cost of the Southside
+network (around £4,000) and the unknown
+maintenance cost of the South Kensington
+internal.
+Page 61
+External
+Telephones
+Until ten years ago the College switchboard
+was located in the Beit Building. A larger
+switchboard was then acquired which is
+located in the basement of Sherfield. This
+switchboard has a capacity for up to 2,000
+extensions, and handles up to thirty lines.
+Additionally it is thirty years old—older
+than the unit it replaced—and consists of
+two separate switchboards joined together.
+Part of it came originally from the
+Admiralty and part from Buckingham
+Palace and all in all it's a bit of a mess.
+During one afternoon—peak traffic—
+there can be up to twelve operators working
+the board including Vi Lindfield, the
+Supervisor, and Brian Hocking, the only
+male operator, who also tends to work on
+weekday evenings as well. They deal with
+around 2,000 calls per day.
+One half of the board is incoming, one
+half outgoing. On- a busy night an operator
+can be kept running up and down the room
+dealing alternately with incoming and
+outgoing calls, which is one reason why
+they don't appreciate impatient 'flashers'
+who tap the phone to get attention.
+Problems
+with the
+local
+exchange
+As if this were not bad enough, in January
+the local telephone exchange was replaced
+with the very latest in telephone technology.
+Days later, wreckers moved in to take the
+old equipment away. They eventually
+reached the equipment which generates dial
+tones and accounting pulses. This still had
+some wires running into it, so out with the
+wire cutters and...Imperial College was cut
+off for a day. Our switchboard cannot talk
+M a y 2 0 , 1 9 8 3 H H H n ^ B B H H
+directly to the new exchange so BT have
+been compelled to retain that equipment
+specially for us. Nevertheless, a lot of calls
+are still liable to be cut off without warning.
+It is obvious having said all this that
+Imperial badly needs a new switchboard.
+A computer based system such as the
+Monarch would not just have the benefit of
+being more reliable and compatible with the
+local exchange; it is also used as an internal
+network, so we could do away with both the
+Soufh Kensington and Southside internals.
+Every telephone may be independently
+programmed as to what type of external
+calls, if any, may be made from it.
+Automatic limitations on time, especially
+for overseas calls may be imposed.
+Telephones which are engaged can switch
+calls through to somewhere else auto-
+matically. The specifications are fascinating.
+The convenience of a College internal phone
+on every Hall landing which could also
+indirectly receive external calls is obvious.
+The possibilities are endless.
+When, Where, £?
+It is now rumoured that in two years' time
+College will introduce a new telephone
+switchboard, scrapping the South Kensing-
+ton but probably not the Southside
+internals. This will be at a basic cost of £2m
+which is about equal to the annual College
+phone bill. Offset against this will be
+increased savings as mentioned above—
+preventing non-urgent calls before 1:00pm
+slashed the quarterly bill from £800,000 to
+£500,000. Far fewer operators will be
+needed—probably about four. How this cut
+will be achieved the operators themselves
+prefer.not to discuss; it's a sour note that in
+order to introduce long overdue improve-
+ments the College will have to axe jobs.
+Still, with care and by fully exploiting
+available facilities, Imperial may soon have
+a very impressive and efficient telephone
+network. Let us hope such efficiency and
+order rub off onto other areas of the
+College.
+Knit one, purl one-the College knitting machine in action.
+(Page7
+

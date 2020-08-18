@@ -1,0 +1,165 @@
+Introversion
+The fall and rise of
+An interview with Mark Morris
+You started at Imperial in the late nineties,
+studying Computing. A lot has obviously changed
+since then. How was your time here and how –
+having revisited the department – have things
+changed?
+There was a big change that occurred in the department
+about five or six years ago, and since then it doesn’t
+seem to have changed much. When I first went to
+Imperial for my walk around day (I didn’t have an
+interview) it was just a sort of ‘come and have a look
+at the university’, that would have been the Spring of
+1997. At the time I wanted to do a Computer Science
+degree, but I had this fascination with, or I thought I
+had a fascination with, AI. In those days there were all
+these old Sun SPARCstations with these huge monitors
+and really crappy optical mice. I don’t know if you
+even remember mice with balls in them but that was the
+norm back then. In order for these mice to work you
+had to have a little mousemat with a grid on it. Hardly
+any of the mice worked, because the grid had faded
+off. And there were these old dot matrix line printers
+you could use; it was all pre-laser and no Wi-Fi, no
+mobile phones. None of that kind of stuff.
+I was in Weeks hall, and I remember one of the
+reasons why I applied to Weeks hall was because it
+was one of the few – it was the only hall actually –
+that gave you a network connection. On a Computer
+Science degree I knew I was going to be able to want to
+work from home. I’m not sure broadband was around
+to be honest; I think we were all on dial-up modems.
+We were really at the back of the birth of the internet.
+It was kind of an exciting time for Computing and
+the internet but the department hadn’t really caught
+up with that. So very quickly after leaving I felt quite
+out of touch, despite being a very recent Computer
+Science graduate. We’d done very little HTML, very
+little JavaScript. We’d done no PHP.
+They’re a bit odd, but that’s Imperial’s way. They give
+you these problems, they give you the high level skills,
+but none of that instantiation of web development was
+covered at all. Which was quite different to classical
+imperative programming which I was spending most of
+my time doing. But I look back fondly on my days at
+Imperial, I’m still friends with three of the other guys I
+went to Imperial with.
+Backthen,wasthereanysortofgamedevelopment
+community?
+None. There was nothing at all. Chris had written a
+few games in his spare time. I think he’d written three
+or four before coming to Imperial, and he came to
+Imperial with a game called Shadows. I’d never even
+considered game development but I’d been a gamer
+up until going to university. There was no community
+at all as far as we were aware. Chris had been telling
+me in a pub of this game idea he had for a hacking
+sim, which ultimately ended up being Uplink. And he
+said: ‘you watch these films like Sneakers and Hackers
+and Lawnmower Man, but no one’s ever really made
+a game that simulates that’. I still don’t really have
+the vision to keep up with Chris. Until I see it, I can’t
+really deal with it. Even then I didn’t know what he was
+talking about, I had no idea how he was going to make
+this thing fun to play, or interesting.
+He wrote Uplink when Tom and I were out drinking
+– we were going out most nights and he was staying
+in most nights coding. We’d get back at three in the
+morning and he’d be up programming. Sure, he’d come
+out occasionally but that was definitely his passion.
+There was a competition in our final year run by the
+business school for £10,000 for the best business plan.
+And Tom, my Electrical Engineering buddy, had taken
+all the corporate programmes. He was a lot more clued
+up on the operation of companies.
+I said to Tom and Chris: ‘Chris you’ve got a game
+idea and Tom you’ve got the business knowledge,
+should we just write this business plan’. We never
+intended to run a business. We were going to do our
+best to win and if we won we’d get ten grand, we’d
+split it three ways and pay off a bit of student loan,
+and that would be the end of it. We wrote the business
+plan, but it became very clear to us quite quickly that
+Imperial weren’t really interested in supporting that.
+They were much more interested in new ideas and new
+technology that they could exploit.
+They wanted innovative technology that had broad
+appeal, rather than a videogame. Everytime we went to
+the meetings they were like: ‘rather than selling a game
+you could sell the technology to make games’. We
+stopped bothering going forward with the competition
+but we had this business plan that said we were going
+to make a few posts on a forum and we were going
+to set up a website to take some credit card orders. It
+took off relatively quickly, within a few months we were
+able to order 3000 units of Uplink, which we shipped
+around the world. That’s kind of how it began.
+There was nobody else at Imperial making games,
+and when we started launching the business properly
+and going to trade shows it appeared to us at the time
+that there was nobody else making games at the scale
+we were. There were no other small, micro-studios.
+Everybody that was making games, was like EA or
+Frontier – the big studios. Subsequently it turned out
+there were a few other developers around and making
+money then, but we just didn’t know about them. There
+certainly wasn’t the community that there is today.
+Perhaps there were more on the West Coast; there’s
+always been a nice burgeoning community there. The
+internet was very new so it was difficult to track down
+these groups of developers. We felt that we were
+trailblazing to a certain extent.
+So why do you think Uplink did well? Was it the
+community you created online?
+With video-games it’s 99% the game and 1% everything
+else around it. That 1% is important as really good
+games can get missed but fundamentally the game has
+to be wonderful to be successful. And I think what we
+did with Uplink was combine our technical knowledge
+– or Chris’ technical knowledge – with a very emotive,
+tense and well crafted mystery story. You were as close
+to believing you were a hacker, choosing to support
+or down this big organisation, than any other hacking
+game that has been made. I think Uplink stands up
+today. There’s a few tweaks that could be made but
+fundamentally hacking is exactly the same as it was 15
+years ago. Now there’s script kiddies but that’s about
+the only difference. The actual principles of hacking
+are pretty similar. There’s new stuff like jacking into
+Wi-Fi that Uplink doesn’t simulate.
+There’s a lot of technical people in the world that
+like playing games, intelligent people like everyone at
+Imperial, MIT and Oxford and Cambridge, that are a
+little underserved by the mainstream media. Everything
+– and it’s changing a bit now – tends to be dumbed
+down to try and broaden the appeal. The problem
+when you’re smart and you see dumbing down, is
+that the suspension of disbelief is broken. Suddenly
+you go ‘this is bollocks!’ if you ever watch a hacker
+movie and see someone like this [Mark clatters on the
+keyboard] you go ‘that’s bollocks!’ They’re not really
+there, they’re not really doing that. The only time I’ve
+seen it filmed well is Mr. Robot. You’re looking at the
+commands they’re typing and it looks to me as if they’re
+doing is pretty close to what they’d need to be doing.
+A lot of people played Uplink and the community
+definitely helped drive it – that’s the 1% I’m talking
+about. The forum and things we set up, that was quite
+new then. We did a little treasure hunt where you
+actually had to hack our website; we brought Uplink into
+the real world. The fact that Uplink had this branching
+pathway fueled the discussions on the forum. People
+were having radically different experiences which
+added to this sense of mystery. X-Files was probably a
+big touchstone for Uplink – a mystery where you don’t
+really know what’s going on. I think those were the
+factors that caused Uplink’s success. There was nothing
+else like it. It was a young internet where everyone was
+tech savvy. The audience came together well.
+>>>
+An Imperial Success Story
+Words by Cale Tilford
+5
+

@@ -1,0 +1,110 @@
+Wind
+Power
+Wind Power is one of the most promising of
+the renewable energy sources in many parts
+of the world. A team in the Electrical
+Engineering Department headed by Dr Leon
+Freris are working on two interesting
+projects involving wind energy conversion.
+Wind is particularly abundant in the
+United Kingdom; with an annual average
+windspeed experienced by the North
+Western coast of Scotland and the Scottish
+Isles being as high as anywhere in the world.
+But to exploit this non-polluting and
+inexhaustible energy source it is necessary
+to develop aerogenerators which convert
+wind energy into electricity as efficiently and
+reliably as possible. With conventional
+designs, some major problems have been
+encountered and it is hoped that a new
+aerogenerator under development at
+Imperial College will help to solve them.
+One of the problems is the fatigue
+experienced by the blade roots due to wind
+turbulence and the shadowing effect of the
+tower over millions of revolutions. The new
+design hopes to overcome this cyclic stress
+by having the blades attached to the hub
+through an ordinary and cheap universal
+joint. In this way the blades have freedom to
+'cone', that is move out of the plane of
+rotation, thus relieving the blade root from
+the fatigue experienced by conventional
+designs. So that the joints experience a
+minimum of centrifugal force, the blades are
+counterbalanced. These universal joints also
+allow blade pitch control, for example the
+possibility of changing the angle of the blade
+aerofoil with respect to the wind. By
+adjusting the pitch it is possible to control the
+power converted from the wind, and so
+prevent the system from overspeeding at
+high winds. The pilot system about to be
+tested, is shown in figure one, and has a set of
+blades of 3.8 metres diameter; but ultimately
+the aerogenerator will be fitted with blades of
+eight metres diameter and will provide a
+maximum of about l l k W from the
+generator. The whole system is under the
+supervision of a microprocessor based
+controller which loads up the wind turbine
+optimally to maximise the energy from the
+wind, and also monitors other variables and
+takes action to protect the system if
+Fig 1 above-exploded view
+Fig 2 below-what a whopper
+Fig 3 top right-close up
+necessary. This new aerogenerator will soon
+be installed at the Rutherford Appleton
+Laboratories in Oxford so that extensive
+studies on its performance can be carried
+out.
+Another area of wind energy exploitation
+which has enormous potential is in the
+generation of electricity in power networks
+supplied by diesel generator sets. These
+networks are found in areas too remote for
+connection to a national grid or on islands.In
+these situations the exploitation of wind is
+particularly attractive as islands often
+possess a high annual average windspeed,
+and diesel generated electricity is expensive
+particularly when fuel transportation costs
+are high. When the required wind generation
+capacity is small in comparison with the
+diesel installed capacity then addition of wind
+generators is not normally a problem.
+However, to obtain substantial fuel savings
+sufficient wind capacity is needed to supply
+on occasions the total load demand. Then
+system stability and control logistics become
+a problem.
+Dr Freris is involved in a co-operative
+project supported by the Science and
+Engineering Research Council, and Hawker
+Siddeley Power Plant Ltd which is being
+carried out at Imperial College and the
+Rutherford Appleton Laboratories (RAL) in
+Oxford. The main intention is to develop a
+wind/diesel system which is commercially
+viable. The project involves extensive
+system modelling and experimental studies,
+based on a working system which consists of
+a 16kW aerogenerator and a 7kW diesel
+generator. Figure two shows this system
+which is based at the RAL site.
+The work up to date has led to the
+establishment of ways to minimise diesel fuel
+consumption, maintain system voltage and
+frequency as conditions vary, and minimise
+the wear and tear on the diesel engine.
+Projects such as these that provide
+pollution free energy from inexhaustible
+sources are of importance to developed
+countries but even more so to developing
+countries as the technology used can be
+readily adapted to exploit local materials and
+expertise.
+FEUX Friday 7 June 1985 5
+

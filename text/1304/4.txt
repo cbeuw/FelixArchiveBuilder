@@ -1,0 +1,410 @@
+By Amadeus Stevenson
+Physics department
+Last week we began looking
+at ways in which your com-
+puter is vulnerable to attack
+from crackers or malicious
+individuals. This week we are
+going to look at what vulner-
+abilities are, why they are
+bad news and how to protect
+yourself in the best way pos-
+sible.
+As you all know, the soft-
+ware you use on your com-
+puter is made up of source
+code, which is programmed
+in a human readable compu-
+ter ‘language’ before being
+converted into machine exe-
+cutable code and run. Really
+large software, like an operat-
+ing system such as Microsoft
+Windows XP
+, is made up of
+lots and lots of this source
+code, which in the case of
+XP
+, with over 40 million lines
+of code, when printed out is
+roughly equivalent to a 600m
+high stack of A4 paper.
+It is hard to keep track of it
+all. Inevitably mistakes, also
+called bugs, will creep in or
+be overlooked. A bug is a flaw
+in the coding, that means that
+part(s) of the program might
+not work correctly. Many bugs
+are nuisances – a certain fea-
+ture might not work correctly.
+More irritatingly, a bug can
+cause a crash and this can
+result in the loss of work.
+Serious bugs may result in
+vulnerabilities such as buffer
+overflows, where a malicious
+user can run some of his/her
+own code remotely on your
+computer, doing all kinds of
+possible damage without your
+knowledge.
+How do you get rid of these
+bugs and vulnerabilities?
+Keep your computer updated
+regularly with patches for
+your operating system and
+software, which will update
+the code so that these vulner-
+abilities no longer exist.
+For Microsoft Windows
+users, visit windowsupdate.
+microsoft.com (automatic
+updating can be enabled
+through the Control Panel).
+For Apple Macintosh users,
+visit www.apple.com/support/
+downloads/.
+For Linux/BSD users, visit
+your distributor’s website
+for information on the latest
+patches.
+It is true that Microsoft
+Windows operating systems
+have the largest frequency
+of these patches, and hence
+bugs, out of the operating
+systems listed above. There
+are many reasons for this,
+but that is beyond the scope
+of this article. A good idea
+to increase security, and par-
+ticularly to avoid spyware and
+adware, is to try switching
+to a web browser other than
+Microsoft’s Internet Explorer,
+which has frequent problems
+(see picture, right) and which
+these malicious programs
+can exploit to install them-
+selves on your computer.
+Alternatives are aplenty,
+the most popular ones includ-
+ing Mozilla, Mozilla Firefox
+(www.mozilla.org – both free)
+and Opera (http://www.opera.
+com – a free version is avail-
+able). These will work on all
+the main operating systems
+listed above.
+Many viruses and worms
+use vulnerabilities on
+unpatched systems to prop-
+agate and cause damage.
+The widespread ‘MSBlast’
+or ‘Blaster’ worm, which
+appeared in August last year,
+caused massive havoc when
+it infected hundreds of thou-
+sands of Windows 2000 and
+XP computers. As a result,
+systems were rendered unus-
+able due to constant reboot-
+ing.
+The Blaster worm exploited
+a vulnerability in a part of the
+XP or Windows 2000 operat-
+ing system to infect systems.
+The vulnerability had a patch
+available for it for quite a long
+time before it appeared. The
+virus took advantage of the
+fact that many people had not
+bothered to keep their sys-
+tems updated – an important
+example of why you should
+do so.
+According to Microsoft’s
+website, the vulnerability
+allowed one to “run code of
+attacker’s choice.” In the
+case of the Blaster worm,
+this was to download and run
+itself. Once running on the
+computer, the worm would
+launch more attacks on other
+computers to infect them, and
+try to take down Microsoft’s
+updates website using a tech-
+nique called a Distributed
+Denial of Service (DDoS).
+Another way of stopping the
+worm infecting a computer
+in this case would have been
+to use a firewall to block out
+unneeded parts of XP and
+2000, which the worm used to
+infect other systems.
+www.felixonline.co.uk
+Felix
+Thursday 4 November 2004
+4
+“the Blaster worm...
+took advantage of the
+fact that many people
+had not bothered to
+keep their systems
+updated”
+Shields up Worf and secure that comms line!
+Computer vulnerabilities and why you should keep yourself updated
+Warning: security holes in software found on a daily basis
+By Tom Simonite
+Science Communcation
+Last month, the $10 million
+Ansari X-prize was won after
+eight years of competition
+between 27 privately-funded
+teams from around the world.
+The challenge was to send
+a three-man craft carrying
+at least one person beyond
+100km above the earth twice
+in a two week period.
+Now the foundation behind
+the prize is expanding its
+remit, planning prizes for a
+whole series of science and
+technology breakthroughs,
+described as “the greatest
+challenges facing human-
+ity in the 21st century”. None
+have yet been laid down, and
+the foundation is asking for
+suggestions from the pub-
+lic. To get you started, their
+website offers a few ideas,
+ranging from “a cure for can-
+cer or other major diseases”
+to “artificial intelligence, tel-
+eportation, molecular assem-
+blers (true nanotechnology),
+cold fusion, or a believable
+virtual reality system.”
+This is a clearly a very dif-
+ferent project. The original
+X-prize aimed to encourage
+the development of a private
+space industry. Although it
+will only ever be for the rich,
+private vehicles would have
+reached space eventually
+sooner or later. The legacy
+of the prize is that a small
+number of rich people will be
+able to pay to go into space.
+In the end the lot of human-
+ity has been changed little by
+the success of SpaceShipOne,
+winner of the original prize.
+The new set of prizes has
+loftier ambitions, but will
+the same approach work for
+the very different challenges
+intended?
+The jackpot, and the chal-
+lenge itself, are motivational
+and promotional devices.
+Just like the original X-
+prize, the prizes offered will
+never match the sums need-
+ed to meet the challenge.
+SpaceShipOne won just
+a third of the total $30 mil-
+lion bill for the project, more
+than $20 million of which was
+picked up by Microsoft co-
+founder Paul Allen.
+Just as before, the prize’s
+main role is to stimulate the
+dedication of private funds
+to research without imme-
+diate, guaranteed commer-
+cial value. Investors are
+attracted by the concrete
+and recognisable goals, the
+benefits of being associated
+with the ideals of the prize,
+and widespread publicity in
+the event of success. On this
+basis, private individuals and
+companies may already be
+considering getting involved,
+but the success of the new
+prizes ultimately depends on
+the scientific details of the
+challenges set. Perhaps they
+should think again: is it possi-
+ble to set challenges that both
+fulfil the aspirations of solv-
+ing major problems, and still
+work within the framework of
+the competition?
+A cure for cancer is per-
+haps an example of the worst
+kind, although it is certainly
+aspirational enough. Whilst
+the treatments available con-
+tinue to improve, we are a
+long way from ever eradicat-
+ing the complex set of pathol-
+ogies labelled as cancer. Few
+researchers in the field would
+admit to entertaining such a
+possibility. More focused chal-
+lenges closer to the realms of
+possibility – such as an AIDS
+vaccine – would be much
+more powerful. Getting the
+balance right is a very diffi-
+cult task, and there is certain
+to be a degree of risk in any
+choice made. Perhaps it’s not
+surprising that they’re asking
+for a little help – make your
+contribution to our future at
+www.wtnxprize.org.
+New X-Prize for “the greatest
+challenges facing humanity”
+“The jackpot and the
+challenge itself are
+motivational and
+promotional devices”
+By William Gates
+Bioengineering department
+Browsing through a news-
+paper earlier this week, I
+was suddenly confronted by
+a headline: “Tea can help in
+fight against Alzheimer’s.”
+Startled, I read it again. Yes, I
+was reading what I thought I
+was. Great, I thought. I drink
+loads of tea.
+But I am, after all, a sci-
+entist (OK... a student scien-
+tist). Not wanting to become
+too enthusiastic too soon,
+I decided to read the small
+print, which happened to be
+the rest of the article. Soon I
+found that my hope had dis-
+sipated. Tea apparently con-
+tains chemicals that inhibit
+acetylcholinesterase, an
+enzyme which hydrolyses
+acetylcholine, a neurotrans-
+mitter, in the synaptic cleft
+(neural junctions). Reduced
+acetylcholine can indicate, so
+inhibiting the enzyme would
+reduce the breakdown of the
+chemical.
+This sounded worryingly
+familiar. Acetlyl cholineste-
+rase inhibitors form a potent
+weapon in many insecticides,
+where they disrupt the nerv-
+ous system of the pest, caus-
+ing it to die. If I drank too
+much tea, would this have the
+same effect on me?
+Admittedly this is unlikely; I
+probably wouldn’t die of nerv-
+ous system failure if I drank
+too much tea. Yet this rais-
+es an interesting point. Tea
+also contains caffeine, which
+is another chemical that has
+various negative side-effects.
+So, if I were an Alzheimer’s
+sufferer and I drank 20 cups
+of tea a day to try to increase
+the concentration of the acetyl
+cholinesterase inhibitors in
+my body, the chances are that
+I would develop conditions
+that were damaging to my
+health, rather than positive.
+So are we, as consumers,
+misled by research that is
+specifically weighted so as to
+promote a certain product?
+Not that I am accusing tea
+companies of fabricating evi-
+dence for the health proper-
+ties of their product; yet it
+could be that a certain aspect
+of the research results have
+been highlighted to provide
+an exaggerated illusion of
+how healthy tea actually is. In
+political circles, this may be
+called ‘spin’.
+There are other examples of
+myths that surround certain
+foods. Chocolate makes you
+happy, for example. Maybe.
+But if you were so desper-
+ate to be happy that you ate
+lots of chocolate and put on
+weight, would you be satis-
+fied?
+I know of no-one who feels
+that being fat is a necessary
+prerequisite to being happy.
+Similarly, red wine ceases to
+be good for you when you
+drink it in excess amounts.
+We, as consumers, must be
+sceptical of the information
+presented to us by food com-
+panies. Might a bright young
+star in a cigarette company
+one day turn around and
+say: “Smoking reduces fertil-
+ity; therefore cigarettes are
+effective for use as contracep-
+tion”?
+Ultimately the question
+must be whether we can
+believe everything we hear.
+In a market – indeed a world
+– where misrepresentation is
+commonly used to promote
+an idea or illusion, we must
+read between the lines. Often
+there are underlying facts
+that have been marginalised
+when they should actually
+have been emphasized. We
+cannot trust those who use
+information in a way which
+benefits them rather than us,
+the consumers.
+In this day and age, it seems
+that a certain amount of mis-
+trust is vital.
+Misrepresentation, illusion
+and ‘spin’ in science
+“In a market – indeed
+a world – where
+misrepresentation
+is commonly used to
+promote an idea or
+illusion, we must read
+between the lines”
+Does tea really improve
+your memory?
+Winner of last months X-prize: SpaceShipOne
+SCIENCE science.felix@ic.ac.uk
+

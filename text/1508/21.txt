@@ -1,0 +1,251 @@
+”
+Y
+ou cannot censor the In-
+ternet. You cannot sub-
+poena a hashtag. You
+cannot arrest an idea.
+You CAN expect us.”
+These are the words of decentralised
+hacktivist online group Anonymous,
+tweeted as they launched a hailstorm of
+Distributed Denial of Service (DDOS)
+attacks on various websites just hours
+after the US Government shut down
+Megaupload.com on Thursday 19 Janu-
+ary. Their attacks successfully brought
+down websites belonging to the RIAA,
+MPAA, Universal Music, the Depart-
+ment of Justice, the US Copyright Of-
+fice, EMI, the FBI and others by flood-
+ing them with requests, but a number
+of outlets have begun accusing them of
+falling head first into a trap.
+Thursday’s wave of activity saw the
+largest coordinated attack in the his-
+tory of Anonymous, with over 9000 par-
+ticipants – both willing and oblivious.
+Unsurprisingly, their efforts have been
+slated as counterproductive, with claims
+that the US government had deliber-
+ately timed the Megaupload takedown
+to occur directly after the SOPA protests
+where Wikipedia, Wordpress and vari-
+ous websites underwent a blackout to
+raise awareness against provisions in
+the acts.
+If this is true, then it is plausible that
+not only did the US Government take
+heed of Anonymous’s words, to “expect
+us”, but that they also considered such
+actions may play in their favour by over-
+shadowing the peaceful and lawful pro-
+tests from all the websites blacking out
+last week. Popular tech website CNET’s
+Molly Wood reported that “if the SOPA/
+PIPA protests were the web’s moment
+of inspiring, non-violent, hand-holding
+civil disobedience, [the move by Anon-
+ymous] feels like the unsettling wave of
+car-burning hooligans that sweep in and
+incite the riot portion of the play.’’
+It is likely that this would be ripe
+ammunition for the US government to
+use against freedom on the internet and
+I think this will cause them to call for
+tighter internet controls to crack down
+on what they perceive as cyber-terror-
+ism, and at the very least, may provide
+emotional motivation for them to do so.
+Lord what a mess – A letter to the editor
+SOPA: who got the last lulz?
+The websites blacked out on Thursday
+to protest against provisions in the Stop
+Online Piracy Act (SOPA) and Protect
+Intellectual Property Act (PIPA) bills,
+which threatened the health of the inter-
+net. If they went through, the US gov-
+ernment would have the ability to order
+ISPs to alter their DNS servers from re-
+solving the offending websites, to force
+search engines like Google to modify
+their results to exclude such sites, and
+so on. Outright censorship. I’m not an
+advocate of piracy, though I believe in
+freedom of speech and believe the inter-
+net is our safest place to express this.
+I’d heard of Megaupload through
+MegaVideo. It was notorious for lim-
+iting videos to 72 minutes, and I was
+firmly aware that it was a site mostly
+used to transfer pirated files. It wasn’t
+too long before people discovered how
+to make their film nights more conve-
+nient in first year, circumventing the
+MegaVideo limit by simply switching
+from the Imperial wireless connection
+to a wired one.
+While some people did use Megaup-
+load to illegally pirate files, it must be
+noted a great deal of users had legiti-
+mate intent, for instance transferring
+files which were too big for E-mail. I
+believe the US’s rash decision to take it
+down without warning was completely
+unjustified, and there has been emphasis
+lately on users who wonder what hap-
+pened to their files.
+This raises another interesting ques-
+tion regarding cloud services: why
+Megaupload and not, for example, Rap-
+idshare? In fact, Rapidshare reportedly
+are “not concerned” about the takedown,
+emphasising that they don’t provide fea-
+tures such as a rewards system for fre-
+quently downloaded files. Rapidshare,
+Dropbox and Windows Live SkyDrive
+all fall into the same category from a
+technical perspective, and a fair propor-
+tion of us use these services regularly.
+What happens to our files if a service is
+taken down?
+Megaupload’s servers contained
+more than 25 petabytes of data (over
+25,000,000 gigabytes), personal files,
+and I’m appalled at their availability be-
+ing so abruptly withdrawn. Your music
+library is your personal soundtrack to
+Dear Editor,
+I would like to protest in the weakest
+possible terms against the total disre-
+gard Felix shows for the correct style
+of address of Peers of the Realm.
+References to life peers “Lord
+Robert Winston”, “Lady Eliza Man-
+ningham-Buller” and others regularly
+appear despite being hideously im-
+proper. According to Debrett’s – a re-
+source I use almost as much as How to
+Get Laid, but to more avail – it is only
+the younger sons and the daughters of
+Dukes and Marquesses are styled in
+the format “Lord (or Lady) [forename]
+[surname]”, and not actual peers.
+Should one insist on including the
+first name then it should come before
+the peerage title; think “Alfred, Lord
+Tennyson”.
+your life, a photo is potentially an in-
+stance of a treasured memory and your
+documents are the fruits of your ongo-
+ing creative efforts, work related or not.
+Take away access to all my files today
+and you’ll be taking away my life. For
+this, I think that cloud backup and stor-
+age are not real substitutes to their local
+equivalents, and while Megaupload had
+a lot more problems than piracy (their
+employees were accused of money
+laundering and trafficking), I’m hesitant
+to store mission critical data up there in
+case of some kind of amalgamation of
+Murphy’s law and freak unavailability.
+More to the point, now all those 25
+petabytes are in the possession of the
+feds, it’s likely they’ll go through as
+much of it as possible to secure a con-
+viction. It’s also likely that IP address-
+es of uploaders were logged too. See
+where I’m going with this? Privacy is
+completely out the window, and the US
+government nonchalantly demonstrated
+they didn’t really need SOPA anyway.
+Now while I disagree with these vio-
+lations, I must also disagree with some
+methods used by Anonymous to DDOS
+the affected websites after Megaupload
+went down. The attacks were conducted
+by the aptly named Low Orbit Ion Can-
+non program (C&C gamers will get the
+reference), a piece of software initially
+written by the ‘’good guys’’ to per-
+form stress tests and load balancing on
+networks. The software was later open
+sourced and people began voluntarily
+using it to flood websites with connec-
+tion requests, causing them to over-
+load and go down. It even has a ‘’Hive
+Mind’’ mode, where the program acts as
+Just because the BBC and others
+routinely fuck it up doesn’t mean Fe-
+lix has to.
+Best wishes,
+Christopher Kaye
+Junior Treasurer
+ICU History Society.
+Your music library
+is your personal
+soundtrack to
+your life,a photo
+is potentially an
+instance of a
+treasured memory...
+take away access
+to all my files today
+and you’ll be taking
+away my life
+a slave and accepts commands originat-
+ing online, allowing for increased coor-
+dination.
+Though use of this tool on other web-
+sites equates to criminal activity, it can
+be said that everyone who participated
+was doing so of their own free will.
+This was, unfortunately, not the case
+for some unsuspecting users, since the
+program was modified to work using
+JavaScript and the link was shortened
+and distributed throughout Twitter un-
+der the Anonymous hashtag. This meant
+it could run inside a browser with no
+downloads necessary and that the link
+could be shortened to trick users into
+visiting the page without realising what
+they were getting into. It is claimed that
+more than 27,000 computers were in-
+volved in the DOJ attack with “average
+people participating in the DDOS at-
+tack from their living rooms”. The stats
+were, however, not broken down into
+the amount of traffic from the voluntary
+program as opposed to the involuntary
+JavaScript link.
+Some Anonymous spokespersons
+responded saying that “preying on un-
+suspecting users is despicable”, and that
+they “need to fight for the user, not land
+them in jail”, though we cannot be sure
+who can speak for them and whose word
+to trust, due to their decentralised na-
+ture. These issues surrounding Anony-
+mous give the vigilante group an aura of
+recklessness, which the US government
+don’t hesitate to exaggerate, and while
+SOPA appears to have indeed perished,
+we can only ask ourselves: at what cost?
+Now excuse me while I mourn Megaup-
+load with 72 minutes of silence.
+Sorry, we know some of you are so street that the sight of feds is terrifying
+“
+Your mu
+Your mu
+is your p
+is your p
+Alexander
+Karapetian
+COMMENT
+FELIX Friday 27 january 2012 21
+“
+If you wish to write a
+letter, email:
+felix@imperial.ac.uk
+

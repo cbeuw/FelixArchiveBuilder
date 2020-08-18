@@ -1,0 +1,135 @@
+12 felix
+FRIDAY 29 October 2010
+TECHNOLOGY
+Technology Editor: Samuel Gibbs
+technology.felix@imperial.ac.uk
+Free App of the Week
+iOS - VLC for iOS
+Want to play something your iPhone’s built-in Quick-
+Time app can’t? You need the iOS version of the go-
+to media player, VLC, on your iPhone. Sorted.
+RockPlayer for Android can play virtually every format
+under the sun, and with aplomb. If you’ve ever want-
+ed to play video files, the free RockPlayer is a must.
+Android - Rockplay for Android
+The iOS App Store: over 250,000 apps and
+more than 6.5 billion downloads onto 120 mil-
+lion iPads, iPhones and iPod touches, which
+are themselves growing, at a rate of 230,000
+devices per day.
+The numbers are staggering, even more so
+when you consider that the store is only two
+years old; the App Store concept has been tre-
+mendously successful for Apple’s mobile plat-
+form, but what’s next?
+Last week Steve Jobs, the CEO of Apple, an-
+nounced the new Mac App Store – a place to
+discover, purchase, and install applications for
+your Macintosh computer.
+The obligatory technology blog coverage
+surrounding the Apple press event made the
+new store sound like a potential game chang-
+ing, maybe even revolutionary, new way to get
+applications. Imagine thousands of applica-
+tions available to purchase and install at the
+click of the mouse. No serial numbers to type
+in, no installers to deal with, just instant grati-
+fication. But is this just another example of the
+Jobs ‘reality distortion field’ causing the media
+to applaud every word that he utters?
+Perhaps it is best to start with what appears
+to be wrong with the Mac App Store. It will
+inevitably become the de facto place for devel-
+opers to sell their applications, and the go-to
+place for consumers.
+Jobs said that it will not be the only way to
+install applications, but the average first time
+consumer will click on the Mac App Store icon
+when prompted, as they turn on their shiny
+new computer for the first time, and think that
+it’s the only way. The iOS App Store is often
+criticised for being overly restrictive, with
+Apple explaining that this is to improve the
+consumer’s experience by preventing ‘buggy’
+applications and ‘questionable content’. The
+newly published review guidelines for the
+Mac App Store specifically prohibit games,
+‘Russian Roulette’for example; perhaps Apple
+have had some bad experiences in their Cali-
+fornian headquarters?
+At any rate, inside the iOS Store, there is a
+definite ‘race to the bottom’ with application
+prices. There appears to be an emphasis on
+quantity, not quality, and this could make its
+way across to the desktop. Developers could
+spend less time developing good quality ap-
+plications if they can only get a small amount
+of money from the consumers, especially once
+Apple has taken its cut of the proceeds.
+They must also write their applications us-
+ing Apple’s own developer tools, which may
+not mean much to the average consumer, but it
+will make it harder for developers to sell cross
+platform applications such as Matlab, in the
+Mac App Store. Also expressly prohibited are
+plug-ins, such as Adobe Flash, although given
+Apple’s resistance to Flash on iOS devices it
+comes as no real surprise.
+Maybe I am being overly harsh, and simply
+objecting to change. In my opinion, the pro-
+cess of installing applications currently within
+Mac OS X can be confusing for new users,
+with applications coming with or without in-
+stallers, simply packaged within virtual disks
+or just compressed straight into a ZIP file.
+Users will never have to deal with installers
+or dragging applications into the application
+folder, if the only source of applications is the
+Mac App Store. Yet I haven’t even mentioned
+what could become one of the most important
+benefits of only installing applications from a
+‘walled garden’ – I’m referring of course to
+security.
+Macintosh users are currently not the main
+target for malicious attacks, with only a small
+proportion of computers worldwide running
+Mac OS X, but this will likely change one day
+once it becomes ‘profitable’ to attack Macs.
+The Mac App Store would provide a place to
+get applications that are not infected or mali-
+cious, and if there are any security holes in ap-
+plications, they can be updated with a single
+click.
+Additionally the potential to have every
+Macintosh user see your application on their
+new computer will attract new developers to
+the Mac platform; therefore the variety of ap-
+plications will increase (if the large number of
+competing applications, and likelihood of low
+prices do not put off developers). The concept
+of being able to install proper desktop applica-
+tions with a single click is certainly appealing;
+cheap applications that are easily accessible
+lead to impulse purchases (I’m looking at you
+Super Monkey Ball!). You may even be able
+to purchase and install Adobe Creative Suite
+Master Edition or the newly announced Auto-
+Cad 2011 for Mac OS X with a single click,
+although with the former being almost 30GB
+in size I would not recommend downloading it
+at College or in halls.
+Imagine if Microsoft were to implement a
+similar idea on Windows? Ignoring the accu-
+sations of a monopoly, and the likely EU an-
+titrust lawsuits, it could make software more
+secure if every application has to be individu-
+ally reviewed, allowing consumers to easily
+keep applications up to date and patch security
+holes.
+Will the Mac App Store change the way we
+discover applications on our personal comput-
+ers? It opens in less than three months; until
+then we can only speculate.
+The Mac App Store
+Craig Buchanan
+

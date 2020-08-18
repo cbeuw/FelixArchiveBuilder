@@ -1,0 +1,312 @@
+14
+SCIENCE
+Science Editors
+Science Editors Nathan Ley & Brigette Atkins
+Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+felix FRIDAY 09 OCTOBER 2009
+NICE (The National Institute for
+Health and Clinical Excellence) is a
+health authority of the NHS. Its func-
+tion is to publish appraisals on whether
+or not particular treatments should be
+considered for use by the NHS. NICE
+was established partially as a result of
+the controversy surrounding the ‘post
+code lottery’ wherein particular treat-
+ments were given to patients based
+on the geographical location of their
+home. It is the body responsible for the
+approval of life-extending drugs, nota-
+bly Herceptin and Revlimid.
+NICE invites consultee and commen-
+tator organisations to take part in the ap-
+praisal (these can include a variety of dif-
+ferentgroupswithwildlydifferingagendas
+i.e. manufacturers of competing drugs,
+patient groups, health care professionals
+etc). Along with this, there is an academic
+centre which collates all the information
+on the drug undergoing appraisal and pre-
+pares a report. Interplay between these
+bodiesandafurtherindependentappraisal
+committee leads to the creation of an ap-
+praisal consultation document which is
+submitted to NICE for approval.
+It’s all rather professional and trans-
+parent really. NICE appraisals are
+based on calculations and evaluations
+of drugs according to cost-effective-
+ness in specific life scenarios. In other
+words, it’s a trade off between money
+and life. Sound dodgy? You know, the
+whole quantifying the value of life
+thing? Well it shouldn’t.
+QALY stands for quality adjusted
+life year. This is a quantitative meas-
+ure used to guage the health benefits
+provided by a treatment regime. This is
+calculated as the number of years that
+would be added as a result of the treat-
+ment, with each year in perfect health
+assigned a value of 1.0, through to im-
+mediate death with a value of 0. Prob-
+lems arise in that some argue that there
+are health states worse than death, and
+that therefore as a result there should
+be negative values possible on the
+health spectrum. Also, determining
+the level of health depends on meas-
+ures that some argue can place dis-
+proportionate importance on physical
+pain or disability over mental health.
+The effects of a patient’s health on the
+quality of life of others (e.g. caregiv-
+ers or family) do not figure into these
+calculations.
+The weighting values of between 0
+and 1 are usually determined by meth-
+ods such as the following: Time-trade-
+off (TTO), Visual Analogue Scale, and
+Standard Gamble, as explained in the
+right hand box.
+However, the weight assigned to a
+particular condition can vary greatly,
+depending on the population being
+surveyed. For example those who do
+not suffer from the affliction in ques-
+tion are on average more likely to
+overestimate the detrimental effect on
+quality of life, compared to those who
+are afflicted.
+QALY is used in cost-utility analysis
+to calculate the ratio of cost against
+QALYs saved for a particular health
+care intervention (i.e. an older more
+established drug that may have a lower
+efficacy). This is then used to allocate
+healthcare resources (finite resources
+provided by the taxpayer also required
+for other medical purposes such as
+helping keep babies alive - the other
+end of the spectrum), with an inter-
+vention with a lower cost to QALY
+saved ratio being preferred and as a re-
+sult chosen over an intervention with a
+higher ratio. This method is controver-
+sial because it means that some people
+will not receive treatment as it is calcu-
+lated that the cost of the intervention
+is not warranted by the benefit to their
+quality of life (as a guideline, NICE ac-
+cepts, as cost effective, those interven-
+tions with an incremental cost-effec-
+tiveness ratio of less than £20,000 per
+QALY, rising to £30,000 on occasions)
+Its supporters argue that since health
+care resources are inevitably limited,
+this method enables them to be allo-
+cated in the way that is most beneficial
+to society relative to other treatments
+i.e. instead of most beneficial to the
+single patient. This makes logical sense
+in a way that most sane people can un-
+derstand. Finite NHS resources dictate
+the necessity to prioritise some treat-
+ments over others.
+Since the UK is a welfare state, basic
+health care is fundamentally free to all
+citizens in the sense that it is funded by
+general taxation including national in-
+surance contributions. This model, de-
+spite all criticism of the NHS, has been
+generally accepted as a good thing 60
+years on. And so I hear you ask, “why
+is this topical now and what does this
+have to do with NICE”. Well…..this is
+where it gets a bit more political.
+It seems as though our neighbours
+on the other side of the pond have re-
+cently taken to a bit of NHS bashing,
+you know, the whole “evil” “orwellian”
+and “socialist” rhetoric. This wave of
+abuse came in response to murmurs
+from congressional republican town
+hall meetings of the proposal for state-
+sponsored “death panels” as part of
+Obamas support for a completely pub-
+licly funded healthcare programme.
+Since then, the Obama administration
+has announced they would support a
+‘health insurance cooperative’, which
+represents a compromise from their
+stance earlier in the summer, but is at
+least slightly progressive. The last time
+a similar democratic health care plan
+was proposed (the Clinton adminis-
+tration in 1993) it was shot down by a
+pact of conservatives, libertarians and
+the health insurance industry. And so
+the grim fact remains; the USA is the
+only wealthy industrialised nation that
+does not provide universal health care.
+They are in a blinkered minority in be-
+lieving that health care is a service, and
+not a fundamental human right (out-
+side the realm of one’s ability to pay).
+NathanLey
+NathanLey Science Editor
+Be grateful for the ‘Death Panels’
+The welfare state may be under attack, but the method and philosophy remains by far the fairest option
+Here, respondents are asked to
+choose between either remaining
+in a state of ill health for a period
+of time, or being restored to per-
+fect health but having a shorter life
+expectancy.
+Respondants are asked to rate a
+state of ill health on a scale from 0 to
+100, with 0 representing death and
+100 representing a state of perfect
+health. This method has the advan-
+tage of being the easiest to ask, but
+it is the most subjective. It can be
+considered as similar to other linear
+scales such as the Borg scale
+In this method, respondents are
+asked to choose between remain-
+ing in a state of ill health for a pe-
+riod of time, or choosing a medical
+intervention which has a chance
+of either restoring them to perfect
+health, or killing them
+Time-trade-off (TTO) Visual analogue scale (VAS) Standard gamble (SG)
+Consequently, they at present have a
+society in which health insurance is
+available to the highest bidder subject
+to the harsh conditions presented by
+market forces. All this results in a na-
+tion in which medical debt is the high-
+est cause of personal bankruptcy.
+As recently as last week Florida
+Democrat Alan Grayson accused re-
+publicans of obstructing health care
+reform as “foot-dragging, knuckle-
+dragging Neanderthals”. And you can
+see his point. He based his opinions
+on a Harvard study which concluded
+that the US health care crisis is costing
+44,000 lives a year. All this in the most
+powerful country on earth? I’ll take
+death panels any day.
+The USA will continue to stick to
+their ways so long as scaremongering
+and demonisation remain effective po-
+litical tools. Whilst the UK will contin-
+ue to provide treatment and approve
+effective and cost-effective drugs in
+accordance with democratic scientific
+judgement in a way which does not
+hinge on how much cash someone has
+sat in their kitty. NICE is entirely nec-
+essary and continues to perform a fair
+and proper role in our society.
+A new publishing company was
+launched in London last month.
+MediKidz started originally in New
+Zealand in 2006, but has now they aim
+for global business to produce comic
+books about as many medical condi-
+tions as possible.
+Two medical doctors Dr Kate Hers-
+ov and Dr Kim Chilman-Blair realized
+there was hardly any child-friendly
+information about illnesses that af-
+fect children all over the world. Af-
+fected children are left to their own
+devices. Their families are left with
+the burden of explaining the medical
+issues surrounding their condition.
+“There is no medical information for
+kids” Chilman-Blair told Felix. “Often
+when we made a diagnosis of a young
+child we felt helpless that we had noth-
+ing to give the child themselves to un-
+derstand what we had just told them,”
+Hersov told the BBC.
+So, the two doctors decided to start a
+series of comic books that would even-
+tually cover up to 300 most common
+paediatric conditions, including condi-
+tions such as asthma, leukemia, HIV
+and diabetes. They already have 26 ti-
+tles in stock, and several UK hospitals
+ordered copies as well a national cater-
+ing company that is going to distribute
+comic books about obesity in schools
+around the country.
+The comic book series features su-
+perhero team called MediKidz. They
+live on a planet that is shaped like a
+human body, the MediLand. Each
+character has super powers related to
+certain part of the body, such as Chi,
+an expert in lungs, or Axon, a brain
+specialist. In each comic book they
+take a child character on an exciting
+tour of Mediland, explaining along the
+way the disease the child suffers from,
+what caused it and how it can be di-
+agnosed and treated. So each comics
+book is like a package of information
+explaining both the science behind the
+disease and the issues that patients will
+encounter such as medical procedures
+and medication they will have to take.
+Importantly the scientific information
+is delivered in an engaging and humor-
+ous way, through visually appealing
+comic books.
+“Comic books appeal to kids across
+the board” Chilman-Blair told Felix
+in an interview, “They appeal to both
+boys and girls, and even parents can
+learn from them. We would like our
+comics to become a one-stop-shop for
+all medical issues.”
+This isn’t the first time anyone came
+up with the idea of using comics to
+deliver scientific or medical informa-
+tion. Comics have also been used in
+health promotion and to help children
+cope with the psychological impact of
+diseases including cancer and diabe-
+tes, examples include Captain Chemo
+comics and Omega Boy vs Dr. Diabe-
+tes. Some of these have actually been
+drawn and conceived by the children
+patients themselves, perhaps showing
+the need and inclination of children
+for such materials in a comic book
+medium. The comic books can be
+purchased from their website (www.
+medikidz.com) for £5.99 each, and
+part of the cost is contributed to the
+charity MediKidz Foundation, which
+aims to help educate children in the
+developing countries and deliver this
+information to them for free. The com-
+ics are good value for money, in this re-
+viewer’s opinion. They explain quite a
+bit of science in the 32 pages, and the
+narrative is actually very engaging. If
+you don’t want to cash out for com-
+ics but still want to support MediKidz’
+charitable aims, you can join them on
+Facebook and Twitter.
+MediKidz: Superheroes explain medicine to children
+MicoTatalovic
+MicoTatalovic Science Reporter
+Skinderella is one of six superheroes
+making understanding medicine easy
+

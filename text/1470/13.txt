@@ -1,0 +1,184 @@
+FELIX Friday 22 October 2010 13
+BUSINESS
+Did Physics break the
+economy? Can it save it?
+Afonso Campos explores the role of mathematical methods in the explosive cocktail
+that led to the greatest economic meltdown in generations and questions their future
+A
+t the apogee of the math-
+ematical finance move-
+ment in the mid-ninties,
+billions were being made
+by pioneering science
+and finance academics and those who
+had the foresight to see the increasing
+use of these techniques. Louis Bach-
+elier, the informal father of the disci-
+pline about a century ago, would have
+been proud. Bachelier speculated that
+because of the “memorylessness” of
+stock market noise (that is, events that
+momentarily alter the price of a stock
+in a way that does not reflect the gen-
+eral sentiment of the markets), stock
+price increments are completely inde-
+pendent and able to be modeled by a
+Gaussian distribution. Even after this
+was postulated, academics were still
+unaccustomed to witnessing mathemat-
+ics solving problems in finance. Now,
+however, a large slice of this so-called
+quantitative finance draws inspiration
+from the physical sciences, seen by
+some purists as a pristine and sacred
+discipline. Physics, not unlike finance,
+concerns itself with a seemingly infinite
+set of parameters, constantly changing
+and evolving; completely dynamic, so
+its use in the field is not as far a cry as
+one may have initially thought.
+In the good times, nothing could
+seemingly go wrong. In 1994, eleven
+prominent academics, bankers and fi-
+nanciers came together to form Long
+Term Capital Management (LCTCM), a
+highly mediatic hedge fund in Connecti-
+cut. The superstar team included Myron
+Scholes who co-created and published
+the famous “Black-Scholes Option Pric-
+ing Model”. Given the experience of the
+partners, all evidence pointed to LTCM
+becoming the most successful financial
+institution of all time, and the first few
+years of activity lulled investors and the
+markets into a false sense of security
+given returns in excess of 40%. It was
+seen to be the epitome of quantitative
+finance since Bachelier’s initial paper.
+The Oracle of Omaha, Mr Warren Buf-
+fett himself, called the derivatives used
+by houses like LTCM “weapons of mass
+destruction”. At the time, he could not
+have foreseen the extent to which his
+words would become true. The financial
+world slowly but surely began succumb-
+ing to the flaws in the models.
+Chaotic, scared, unruled, disrespect-
+ed, anarchical, greedy, uncertain, melt-
+down, unfinished, prophetic; these are
+merely a few groups of letters that spell
+the sentiment of a world suffering a bro-
+ken economy and spirit. The beginnings:
+well known; a significant increase in
+mortgage defaults in the United States.
+The consequences: immeasurable; tril-
+lions of dollars of financial devastation,
+corporate collapse, record low consumer
+confidence; possibility of deflation. In
+order to raise funds to lend money, mort-
+gage providers repackaged their debt in
+complex financial products which they
+sold to supposedly responsible banks,
+ensuring the ratings agency gave these
+investment vehicles very high ratings,
+falsely deeming them suitable and a
+worthwhile investment. The banks
+themselves increased the complexity of
+these products and sold them on to in-
+vestment funds with an appetite for su-
+pernormal returns and a carefree attitude
+towards risk.
+There are some who blame the high
+level and complexity of the mathematics
+involved for the crisis. Professor L.C.
+Thomas of Southampton University
+suggests that the crisis we are now feel-
+ing was created not necessarily by the
+mathematics but by an explosive com-
+bination of “greed and a conspiracy of
+optimism”. The exoteric models created
+by the physicists and mathematicians
+had actually worked surprisingly well
+in identifying problem areas in the debt
+merry-go-round. The models, however,
+were possibly far too complex for any-
+one other than their creators to under-
+stand, meaning that the average mort-
+gage salesman felt detached from the
+process and became unwilling to ‘listen’
+to an abstract mathematical formula and
+became an irresponsible lender.
+It is almost undeniable that mathemat-
+ics has had a tremendous impact on the
+crisis and is one of its catalysts. The ex-
+tent, however, is considered by leading
+academics somewhat limited. Dr. Dorje
+Brody, a reader of mathematics and re-
+searcher in financial mathematics at Im-
+perial College believes the models are
+only to blame as they allowed products
+“whose contents are quite obscure to be
+traded” when their prices were being
+quoted on an “ad-hoc” basis.
+The consensus lies in the understand-
+ing that no matter what role the models
+played in the downturn of the economy,
+mathematics will be instrumental in fix-
+ing the situation. Dr Brody thinks that
+that it will however depend on “whether
+people come to the realisation that mod-
+el building at a phenomenological level
+is feasible” in the world of finance.
+There is a widespread sentiment that
+financial institutions have ransacked
+and wrongly appropriated the tech-
+niques developed by physical scientists
+and mathematicians. Many believe that
+those who learn the ideas of physics and
+mathematics and manipulate them for
+use in the financial markets are, in one
+way or another, deviants of sorts, sell-
+ing out their ‘sacred’ science. It’s almost
+like a Dr Faustus meets Mephistopheles
+scenario. The truth, however, is that in a
+not so far-fetched way of thinking, phys-
+ics and finance are in fact much more re-
+lated in essence than one may initially
+postulate. Scraping the possibility of
+malicious intent from either front, it is
+then possible to come to the somewhat
+abstract conclusion that while both deal
+with very fundamentally different ideas,
+the two share a very paramount synergy.
+Both fields aim to advance knowledge,
+evolve science and help ensure that the
+perpetual curiosity of mankind does not
+cease.
+More importantly, they help observ-
+ers gain a view of the world that throws
+a welcome helping hand in making life
+better for a myriad of people. Given the
+accepted view that quantitative finance
+is here to stay, the necessity lies not in
+accepting that it draws from methods in
+the physical sciences, but rather engag-
+ing in a symbiotic relationship with the
+best minds in the field. Perhaps we will
+go back to a simpler time and a financial
+system where the level of mathematical
+exoterism is diminished and people be-
+come once again the drivers of the mar-
+kets and economy instead of an obscure
+formula developed in a small room on
+the 54th floor of a sky-scraper in New
+York City.
+The use of mathematical methods in finance was so widespread, universities were worried about losing research talent to Wall Street
+“Model building at
+a phenomenological
+level is feasible” – Dr
+Dorje Brody
+“Physics and finance
+ensure perpetual
+curiosity does not
+cease.”
+

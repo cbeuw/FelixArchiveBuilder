@@ -1,0 +1,174 @@
+New milestones reached in
+fight against Alzheimer’s
+Philip Kent looks at the latest Alzheimer’s research
+Binding of proteins to nanobodies causes a change of capacitance
+A
+lzheimer’s is an as-yet incur-
+able disease that accounts for
+the majority of cases of de-
+mentia. A characteristic symp-
+tom of people with Alzheim-
+er’s is memory loss, with the person affected
+gradually becoming increasingly forgetful;
+unable to remember their own identity, and
+eventually, complete unresponsiveness in
+its later stages. This is amongst many other
+symptoms.
+A common misconception is that Alzheim-
+er’s is a genetic disorder. Whilst there are
+many cases where a malformed chromosome
+can cause the disease to develop (often in
+earlier ages than other sufferers), this only
+accounts for very few cases. Scientists are
+currently unsure on the exact causes of the
+majority of the cases, which generally de-
+velop after the age of 65.
+This is an incredibly saddening thing to
+happen to anyone, but luckily two new pieces
+of research may help in the quest to find a
+cure for this disease.
+Detection
+In the minority of cases, Alzheimer’s is
+caused by genetics, making it hard to iden-
+tify whether a person will suffer in later
+life. Current techniques involve a number of
+tests (which also ensure that the patient has
+Alzheimer’s, and not a different form of de-
+mentia); but before these tests are done, de-
+terioration to the patient’s mind, as well as a
+proactive step of actually going to the doctor,
+must already have taken place. Luckily these
+tests have up to 90% accuracy.
+However, new research from the United
+States can help to improve both the time and
+accuracy of detection. This works through
+use of a biosensor, a device that interfaces
+between biological and electrical systems.
+When the compound under investigation re-
+acts with the biosensor on its catalytic zone,
+an electrical signal is generated that can be
+investigated.
+In this development by a team lead by
+Shalini Prasad from the University of Texas,
+a biosensor has been developed that can mea-
+sure the concentration of a number of pro-
+teins which have been linked to diseases such
+as Alzheimer’s and Parkinson’s. These pro-
+teins bind onto nanobodies (not dissimilar to
+antibodies), causing a change in capacitance
+in an electrical layer. Prasad’s team found
+that the change in capacitance is linked to the
+concentration of the antibody under investi-
+gation.
+These proteins build up in fluid that sur-
+rounds the brain, which can be extracted and
+analysed. The extracted fluid is applied to the
+biosensor, which can detect even very small
+concentrations of the problematic proteins.
+FELIX
+Friday 27 january 2012
+10
+science.felix@imperial.ac.uk
+Science Editors: Kelly Oakes
+Alexander Karapetian
+SCIENCE
+In brief
+‘Extinct’ monkey rediscovered in
+Borneo
+Deep in a forest in Borneo, researchers have found
+what they thought was an extinct species of monkey
+called Miller’s grizzled langur.
+As late as last year, researchers thought that the
+elusive monkeys were extinct. But this has changed
+now that PhD student Simon Fraser accidentally
+caught a group of the langurs on camera, which he
+had originally set up on a time lapse to try to get a
+glimpse of another rare animal, the Bornean clouded
+leopard. The photographs were taken in the Wehea
+Forest of East Kalimantan last June.
+It was a challenge for the researchers to confirm
+the identity of the monkeys once they had spotted
+them in the images, because so few photographs of
+them exist. In the end, the researchers had to resort
+to descriptions from museum specimens.
+In recent years, the langurs have had 95% of their
+habitat destroyed by logging, agricultural enroach-
+ment, coal mining and fire.
+Kelly Oakes
+Lolcats? Owls? Let me introduce the lolgur
+Möbius
+by Maria Veiga
+This is an improvement over existing meth-
+ods – Prasad told the RSC’s Chemistry World
+that they aren’t as sensitive. With the old
+methods, it isn’t possible to detect whether
+a patient is likely to suffer from Alzheimer’s
+(or Parkinson’s) from such an early stage.
+So far, scientists have only tested samples
+of the fluid obtained post-mortem, but thanks
+to the high sensitivity of the new technique,
+detection in samples obtained during the
+early stages of Alzheimer’s looks to be a
+possibility. Prasad’s team hopes to take part
+in clinical trials, which should give an indi-
+cation as to how well it works as an early
+indicator.
+Prevention
+Drugs are available which slow down the
+progression of the disease, which means that
+people diagnosed with Alzheimer’s can still
+enjoy a good quality of life for a longer time
+– and this is only aided by early detection
+that may be made possible by this research.
+However, a drug to stop the development of
+the disease does not yet exist.
+A new research project undertaken jointly
+by the Universidad de Antioquia in Colom-
+bia, and the Banner Institute from the United
+States may go some way to changing this.
+This study involves a group of people who
+are likely to develop Alzheimer’s, with drugs
+trials seeing if the progression of the disease
+can be stopped.
+These subjects, of which there are 500, all
+originate from the Antioquia region of Co-
+lombia, and are all likely to develop the dis-
+ease due to a genetic mutation. One of the
+researchers, Francisco Lopera, stresses that
+“what is useful in treatment and prevention
+of neurodegenerative disorders will be useful
+to those suffering from sporadic Alzheimer’s
+as well”.
+The subjects in this study are analysed us-
+ing a PET scanner. A tracer is injected into
+the subject, where it travels to the brain and
+binds to the same protein in Prasad’s work.
+Therefore, the image built from the radiation
+released gives a very good image of the areas
+of the brain containing the protein.
+The group has also got a set of drug can-
+didates from previous tests in rats. After ob-
+taining clinical approval, these drugs can be
+injected into the subjects, then retested via
+the PET scanner after a couple of years to
+see if the drug is effective in preventing the
+development of the proteins. This means that
+it is relatively quick to obtain a set of candi-
+date drugs.
+This method can also find drugs for other
+diseases, including Parkinson’s and Hun-
+tington’s. In addition to this, by analysing
+subjects who are in further stages of the dis-
+ease, it may be possible to find drugs that
+stop or reverse the buildup of proteins. The
+group intends to do research in this area, as
+the massive trial being undertaken will yield
+immense amounts of useful information on
+how Alzheimer’s develops, and how drugs
+affect it. If a prevention drug is found, it can
+be given to subjects who will develop Al-
+zheimer’s (by virtue of their genetics), and
+they can then be tested via this technique in
+their later years to see if the disease has been
+prevented.
+

@@ -1,0 +1,45 @@
+Founded 1949 The Newspaper of Imperial College Union
+SABBATICAL
+ELECTIONS
+MANIFESTO
+SUPPLEMENT
+H o w to vote
+1. Valid voting papers 2. Invalid voting papers
+Candidate W Candidate W
+Candidate X \ Candidate X
+Candidate Y Candidate Y y
+Candidate Z Candidate Z
+Candidate W \ c Candidate W
+Candidate X Candidate X i
+Candidate Y % Candidate Y
+Candidate Z X Candidate Z
+Imperial College Union elections are run by
+the 'Single Transferable Vote' (STV) system.
+What this essentially means is that as well
+as being able to nominate your first choice
+candidate you may also nominate your
+second and your third and so on up to the
+number of candidates standing. This means
+that should your first choice candidate not
+get many votes you may still be able to
+influence the result with your second and
+subsequent choices.
+Things to remember when completing a
+ballot paper.
+1) If there are n candidates then you may
+complete a sequence of numbers from 1 to n
+placing one number against each candidate.
+2) You need not complete the sequence up
+to n but it must be unbroken and it must start
+with 1.
+3) No number may be repeated.
+4) Any markings on the paper other than a
+sequence of numbers beginning with 1 and
+going up to n or less with no duplications will
+invalidate the ballot paper.
+5) There is no mention of Abstentions in
+the voting schedule, however abstentions
+will be recorded for information. Abstain by
+writing ABSTAIN across the ballot paper.
+FELIX Friday 8 March 1985
+

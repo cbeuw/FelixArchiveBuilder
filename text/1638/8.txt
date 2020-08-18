@@ -1,0 +1,403 @@
+PAGE 10 PAGE 11
+felixonline.co.uk felixonline.co.uk
+THE STUDENT NEWSPAPER OF IMPERIAL COLLEGE LONDON FRIDAY 10th
+JUNE 2016 FRIDAY 10th
+JUNE 2016
+science.felix@imperial.ac.uk
+SCIENCE
+SCIENCE science.felix@imperial.ac.uk
+Science, what’s good?
+Dr. Wilko Duprez
+Writer
+Should all scientific papers be openly avaialble to anybody? Photo Credit: Nic
+McPhee
+Making all science open access by 2020
+T
+he EU Competitiveness
+Council, a committee
+including research,
+science, and industry
+ministers from all member
+countries, announced last week that
+scientific publications should all be
+open access by 2020. We all wish
+for this to happen, but is the idea
+utopian?
+There are many hurdles to
+overcome. Firstly, there are no legal
+bindings. According to the council
+itself,it is only a“political orientation
+for the 28 governments”. Secondly,
+four years is a very short period
+for such a dramatic change in the
+publication process, especially when
+encountering strong resistance from
+the private publishing industry
+whose interests are at stake. Thirdly,
+the actual details to achieve this goal
+have yet to be announced.
+FELIX contacted private
+scientific publishing groups but they
+all declined to comment about the
+EU report. Through a spokesperson
+from the International Association
+of Scientific,Technical and Medical
+Publishers (STM), they announced
+“it is vital that embargo periods
+(when articles are only available
+through paid subscriptions) be set
+at a sustainable level to enable the
+subscription model to continue
+to support the operation of high
+quality journals”.
+Researchers disagree, especially
+when it comes to matters of
+public importance. According to
+Professor Stephen Curry, a biologist
+here at Imperial and open access
+advocate, the slow release of articles
+is actually harmful. “There was
+a recent initiative to encourage
+people working on the Zika virus
+research to release their initial data
+and their results very quickly even
+in advance of publication. But we
+still haven’t moved to such a system
+for antimicrobial resistance, HIV
+infection and malaria, and that in
+itself have cost lives”.
+Another counter-argument is
+the financial burden. “The upfront
+costs for an immediate transition
+will need to be covered. These costs
+will currently fall disproportionally
+on research-intensive countries that
+produce more research relative to
+the rest of the world,” claims the
+STM.
+However, it might be a fallacious
+argument. “I think you have to
+recognize that most of this research
+is publicly funded and all the money
+that goes to pay for subscriptions
+at the minute is largely publicly
+funded as well,” commented Prof.
+Curry. “Because most of the work
+is publicly funded it has to be made
+open access by right, and I think
+there is enough money in the system
+to fund that. It is just a manner of
+moving the accounts around”.
+It is already unlikely that universal
+open access will be achieved by
+2020, but through incremental
+steps in governmental policies
+and consensus we may slowly start
+to separate access to scientific
+information from corporate profits
+although that requires patience.
+The Amazon river is one of
+the most biodiverse fresh water
+ecosystems on the planet.The many
+fish species that call its water home
+though are shrouded in mystery.
+A new study analysing otoliths,
+the stone like bones located in fish
+ears, might help us understand the
+migratory routes of many species.
+The research might potentially
+redefine our knowledge on many
+fish species especially in the cases
+of fish which are economically
+valued and which regularly travel
+through the borders of multiple
+nations, such knowledge can be
+invaluable, informing management
+policies. The chemical composition
+of otoliths can reveal whether the
+fish has lived in 'black' or 'white'
+water, as well as what the salinity of
+its habitat was.
+Herman et al. 2016 @ Royal Society
+Open Science
+Jane Courtnell
+Science Editor
+Can we control disease using
+computers? Researchers at
+the Massachusetts Institute of
+Technology suggest yes, having
+integrated digital and analogue
+computations into cellular DNA.
+Disease acts as an input to initiate
+module expression which turns gene
+segments on or off,converting input
+into an output,hence converting,say
+chemical concentrations to a simple
+0 or 1 signal. This biological circuit
+has potential to cause the body to
+initiate one of say three output
+responses, in accordance to, for
+example, blood glucose levels, thus
+acting as a diabetes control. Other
+potential uses include treatments for
+cancer, bowel disease, and probiotic
+bacteria development to treat gut
+disease, with clinical trails for the
+latter beginning in twelve months.
+Lu et al. 2016 @ Nature
+Communications
+Fish ears yield
+secrets
+All hail genetic
+computers
+F
+eeding on gas, literally,
+is what astronomers at
+Massachusetts Institute
+of Technology have, for
+the first time, detected. Black
+holes feasting on clumpy, cold gas.
+Devouring clouds at a speed of
+355 kilometres per second (800,00
+miles an hour) in the Abell 2597
+Brightest Cluster Galaxy, the sight
+is a stark reminder of the shear
+amount of energy harnessed by
+these celestial bodies; energy levels
+which are clearly expanding, with
+each gas cloud being absorbed
+into their accretion discs. Viewing
+the same great void millions years
+later, its outburst will be ever more
+brighter, and much more powerful.
+Brian et al. 2016 @ Nature
+Solving the
+mammal puzzle
+Microbial
+nanowires
+Our ancient mammalian lineage
+may be older than we initially
+thought. Scientists investigating
+prehistoric mammalian teeth
+collections, have significantly added
+to our understanding of when our
+fury relatives really advanced in
+the wake of their distant reptilian
+relatives, the dinosaurs. The
+commonly accepted view is that
+dinosaurs, the main competitors of
+the mammalian clade constrained
+mammal ecological expansion.
+The University of Southampton
+has turned this view on its head,
+putting two and two together; that
+is, with a diverse tooth collection,
+comes a diverse animal group.
+Our mammalian lineage may have
+already diversified extensively before
+the K-T mass extinction event some
+66 million years ago.
+Grossnickle et al. 2016 @
+Proceedings of the Royal Society
+Black hole's
+gassy diet
+Take a geobacter bacterial cell, its
+pili, and attach each to a graphite
+electrode, and wham! You have
+an electrical current. That’s right,
+Mother Nature has produced
+organic, electrically conductive
+hair-like filaments which give the
+geobacter a little spark. Aromatic
+amino acids in the pili of the
+geobacter transport electrons at a
+voltage comparable to that of copper
+wire. Proteins are usually electrically
+insulating, but geobacter pili are
+counter-intuitively conductive.
+Scientists at the University of
+Massachusetts at Amherst, Holy
+cross, and Brookhaven National
+laboratory found that the way the
+small molecules are arranged, at a
+distance of 0.3 nanometres, gives
+the pili their copper like electrical
+conductivity.
+Evans-Lutterodt et al. 2016 @
+mBio
+Sophie Walsh
+Writer
+How will a Brexit scenario impact science?
+FELIX asks the scientists on each side of the fence so you don't have to
+B
+rexit may have finally
+overtaken myriad
+memes of Donald
+Trump’s hairpiece on our
+newsfeeds. For months, the EU
+referendum has loomed large in a
+collective public mind, bamboozled
+by potential impacts on everything
+from human rights to house prices.
+It is a political hot potato that when
+dropped on the 23rd
+June, could
+see us out on our ear in the cold,
+looking in through the window at
+the EU planning their Christmas
+party, wondering whether we have
+done the right thing.
+But above the cacophony of
+multiple debates, what of Britain’s
+unassailable drivers of modern
+progress – science, healthcare,
+research? Enter Martin McKee,
+Professor of European Public
+Health at the London School of
+Hygiene and Tropical Medicine
+and Professor Angus Dalgleish,
+Foundation Chair of Oncology at
+St Georges University and Senior
+Advisor to the pro-leave lobby
+group ‘Scientists for Britain’, who
+have real problems agreeing.
+As a champion of international
+health care, McKee’s extensive
+travel around the world engaging
+researchers and policy makers in
+neglected health issues has led
+The Lancet to comment that “even
+conversing with him is liable to
+cause jetlag”. I am inclined to agree
+as I conduct our conversation over
+email during his stopover between
+Mexico and Miami.
+“Would the world class status of
+our institutions falter without the
+backing of the EU? Yes”, he says.
+And the biggest threat to research?
+“The difficulties we would face in
+engaging with European networks,
+[…], the difficulty with exchanges
+of staff, exclusion from EU science
+advisory committees, […], we
+should also not ignore the inevitable
+cut to science funding”.
+McKee is right – the EU has
+brought us undeniable rewards. UK
+universities are huge beneficiaries
+of its research grants – (Imperial
+received £48.8m in funding in 2014),
+200,000 UK students and 20,000
+UK staff have been able to work or
+study in Europe under the Erasmus
+scheme, our NHS is part-staffed
+by skilled non-British EU workers
+and cross-country clinical trials for
+rare diseases have been coordinated
+where small disease population sizes
+are a real issue. But it is far from
+perfect, with problems many and
+manifest and questions about anti-
+democratic behaviour lingering.
+While this needs to be considered,
+in leaving, McKee argues, there is a
+real risk that we would continue to
+contribute to the EU from outside
+while relinquishing our place at the
+negotiation table.
+Dalgleish, on the other hand,
+holds less complimentary views of
+the EU, labelling it a “sclerotic”,
+“dying organisation” that is heading
+for a “headlong crash into a
+wall”. He regards the views of the
+remain campaign as “unnecessary
+scaremongering” and feels Britain
+will continue to thrive, regardless of
+the “completely and utterly doomed
+EU”.
+It's all these guys' fault. Climate change, Donald Trump, the Illuminati, anchovies on pizza, everything. Photo Credit: Hernan Pinera
+in light of recent trade discussions
+and TTIP proposal between the US
+and the EU – “It’s black and white
+[…] either you have the EU or you
+have the NHS but you can’t have
+both”.
+A report published this week by
+Lord Darzi,Director of the Institute
+of Global Health Innovation at
+Imperial College and the London
+School of Economics, addresses
+some of these concerns, and it is
+well worth reading. Amongst other
+suggestions, it claims that both the
+EU and member states will be able
+to agree TTIP reservation clauses
+for national health services, helping
+secure against privatisation. “The
+core principle of the NHS”, the
+report comments, “will continue
+to be defined by UK government
+whether we remain in, or leave, the
+EU”.
+“I find it inexplicable that even
+a handful of scientists in the UK
+can support Brexit”, say McKee,
+“initially I just assumed [it] was a
+lack of awareness of the issues, their
+misconceptions, such as those on
+the Clinical Trials Regulation, have
+now been pointed out numerous
+times yet they persist in repeating
+them. It must now be clear that
+they simply make up 'facts' to fit
+their arguments, with a complete
+disregard for the truth. Sadly, you
+have to fact check everything they
+McKee's Twitter picture. Handsome
+and politically minded Photo Credit:
+Twitter
+The only question that matters. Will we
+need Visas for Malia, Greece? Photo
+Credit: Keith Parjer
+say. Even where there is a grain of
+truth it is hardly never the whole
+truth, and almost always years out
+of date”.
+And so the clock ticks and we
+edge further towards the deadline.
+As an unprecedented event, can
+our predictions about what will
+happen to science, research and the
+NHS be anything more than noisy
+rhetoric amidst largely speculative
+debate? That said, hilarious as they
+are, memes of Donald Trump’s
+hair should remind us of how close
+a nation could come to making
+a decision with far reaching
+ramifications.
+“We are taking a leap in the
+dark”, says McKee, “I’m sure we
+could salvage something [should we
+leave], but it will clearly be much
+worse than what we have already”.
+I find it
+inexplicable
+that even a
+handful of
+scientists in
+the UK can
+support
+Brexit
+“There will be hardly any
+difference at all in the practical
+day to day science [we experience
+in Britain]” he says, asserting that
+our position on the world stage
+is secured – “Britain is far bigger
+than the EU in science”. He is
+more concerned by the impact of
+remaining on our NHS, particularly
+

@@ -1,0 +1,247 @@
+Nonolink 1,461
+Yeah. Not too many entries last week, but we did get a few. So well done to Kelvin Wong. As it’s
+exam time all puzzles from next week will score DOUBLE POINTS or any number of points
+that I can be arsed to give away. Deal with it.
+3
+2 1
+2
+3
+1
+3
+1
+3
+3
+2
+2 3
+1
+3
+2 1 1 1
+1 3 2 1
+2
+3 2
+1 1 1
+2 3
+1 1 2
+3
+1 1
+2
+2 0
+3
+1 2 3
+2
+1 1
+How to play:
+The numbers at the side represent the size and
+order of blocks in each column and row. There
+must be at least one space between each block.
+Then insert the numbers from the box in the top
+left corner into the unshaded cells and proceed
+as for a normal ‘Slitherlink’:
+All numbered cells must be surrounded by the
+corresponding number of edges. The solution
+consists of one continuous line. Any cells without
+a number can have any number of edges.
+See last issue’s solution (right) for more help.
+Send your solutions to us at sudoku.felix@
+imperial.ac.uk
+Solution 1460
+Bridges 1,461
+How to play:
+Connect all the
+‘islands’ together by
+bridges running in
+direct lines, North,
+West, East and South
+only, with no more
+than two bridges
+connecting any two
+distinct islands.
+Every island must
+have a total number
+of bridges from it
+equal to the number
+on the island and
+bridges must not
+cross islands, one
+another or lead to
+nowhere!
+If you would like to design a puzzle and see it
+printed in felix but don’t want to do one every
+week, just send us your ideas to the usual place -
+sudoku.felix@imperial.ac.uk and if we like them
+we’ll print them!
+The winner of last week’s foray into bridges and shit
+was Kelvin Wong so well done to you and all that
+jazz.
+Please keep these answers coming in as it makes
+us feel loved and like we aren’t wasting our time. I
+know we are and I would much rather be playing
+flash games and pretending to revise but this will
+suffice for a bit, So yeah, answers are pretty key to
+making this feature work.
+Solution 1460
+felix
+07726 799 424
+Love
+Lovestruck
+struck
+It’s revision fodder:
+3
+2
+4
+2
+2
+5
+1
+3
+4
+1
+1
+3
+2
+3
+3
+1
+3
+4
+4
+2
+6
+3
+6
+25
+felix
+coffee.felix@imperial.ac.uk COFFEE BREAK
+FRIDAY 14 MAY 2010
+2
+1
+1
+1
+6
+1
+2
+1
+1
+2
+1
+2
+1
+2
+3
+1
+1 7
+1
+2
+3
+4 0
+3
+2
+3
+1 2 2 1
+3 1 1
+1 3 1 1
+5 1
+2 2 1 1
+3 1 1
+2 1 1
+1 1 1
+3 2 1
+1 3 2 1
+2 2 3 2 2 1
+2 2 3 3 3 1 2
+1 2 3 3 2 3 2
+2 2 1 1 1 1
+2 1 3 3 2 3 2
+3 2 2 2 1 2 1
+1 3 3 1 2 2
+“You wer e in the SAF other day talking to
+a ginger guy. You seemed quite close, so I
+didn’t want to interupt. I guess I can now.
+Can I borrow your APP notes for retakes?”
+LC xxs
+“The lanky one in physics. You have those
+glasses that go dark indoors. Im a big stevie
+wonder fan.
+”
+B
+“Dear hot second year chemist, please
+notice me? I know we could be good together
+if you just gave me the chance. I feel like
+one half if a sponge cake. Me, you, jam and
+some buttercream might make the prefect
+combination?
+Harry Bunting
+2
+1 4
+4
+2
+3
+2
+2
+3
+3
+2
+1
+4
+2
+1
+1
+2
+2
+1
+6
+4
+1
+3
+3
+3
+2
+2
+1
+3
+5
+1
+2
+4
+6
+3
+2
+3
+5
+6
+4
+1
+3
+1
+3
+3
+2
+4
+4
+4
+6
+6
+3
+5
+2
+2
+2
+6
+4
+2
+2
+1
+4
+2
+4
+4
+1
+3
+1
+1
+7 6
+2
+4
+Only at Imperial would someone do this. Only at Imperial would we all find this a little bit funny.
+Loving our Imperial lives indeed.
+

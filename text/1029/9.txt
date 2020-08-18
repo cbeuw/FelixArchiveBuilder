@@ -1,0 +1,153 @@
+A Fast, Floppy
+Check Mate
+his home computer. Last year one of his programmes, Genius 2 beat
+For hundreds of years the game of
+chess has been thought of as one
+of the defining marks of human
+intelligence. Its grandmasters
+may not have been viewed as very
+useful by the general public, but
+in some abstract sense we were
+always glad they existed. N o w
+however, the shadow of the
+computer looms large over the
+world of chess.
+O n one level sit the big
+number crunching mainframes,
+with names like Deep Thought
+and Deep Blue; these are the
+dedicated chess machines which
+play the 'full' game. Scurrying
+below such behemoths are the
+micro-computer based pro-
+grammes; the rapidly developing
+kings of'speed chess'. Perhaps the
+most famous of these are the Chess
+Genius series of Richard Lang.
+In a similar way to many of
+of those who have since come to
+prominence i n the computing
+field, Richard just started off
+messing around at home. He also
+studied Physics at Imperial. "I
+worked a bit too hard and didn't
+play hard enough" he joked when
+I spoke to h i m over the phone
+from his home on Dorset. After
+graduating i n 1977, he got his
+first job doing safety research for
+British Gas.
+"It was about the same time
+that I got a home micro and just
+played around with it, as a
+hobby", Richard explained. A t
+first he toyed with simple
+programmes for noughts and
+crosses and the odd video game,
+but 'the first proper game pro-
+gramme' he wrote was a chess
+playing programme. "I started off
+playing chess at school", he said
+"and I did play at the college club,
+but only for a term". This hobby
+grew u n t i l one of this pro-
+grammes won a European micro-
+computer chess competition.
+After that he was offered a job
+with a small software house,
+before going freelance a few years
+later.
+Chess Genius 2 burst onto
+the scene last year during the
+Intel Chess Grand Prix. T h i s
+tournament, sponsored by the
+makers of the ill-fated Pentium
+chip, pitted the best micro-chess
+programmes against some of the
+world's top grandmasters.
+"When we heard that we
+were drawn against Kasparov [the
+world chess champion] i n the
+very first round, we thought we'd
+be knocked out and go straight
+home", recalled Lang. "It would
+have been no disgrace to lose. I
+was absolutely amazed when we
+won."
+O f course for the purist,
+speed chess competitions are
+viewed as artificial events with
+each player only having a total of
+twenty five minutes to make their
+moves. However, the fact that it
+was Kasparov that had lost,
+resulted in a media explosion.
+"As soon as we'd won, I
+knew it was a really big event, a
+mile stone i n computer chess",
+Lang told me. "Kasparov looked
+absolutely devastated when the
+game was over and he went
+backstage and disappeared from
+the tournament." As another
+grandmaster commented at the
+time, "he [Kasparov] wanted to
+crush the computer, not just beat
+it".
+O f course the inexorable
+rise of computers i n chess has
+been on the cards for a long time.
+It is said that Napoleon was
+fooled into believing that he had
+been beaten by a mechanical
+chess playing machine. In actual
+fact there was a midget secreted
+inside the mechanism, or so the
+story goes.
+By the late eighties only the
+top thousand chess players were
+capable of beating the best
+computers. T h e n i n 1989 the
+mainframe, Deep Thought, beat a
+Danish Grandmaster. Kasparov
+losing to a micro was seen as a
+different matter.
+Kasparov's hostility to
+computers beating him at chess is
+not merely an intellectual
+reaction, though. As the top
+player i n the world he makes
+around £1 m i l l i o n a year. As
+many have commented, who'll
+want to watch people play chess
+when they can buy superior
+software for £100?
+It's not something that
+particularly concerns Richard. "I
+think computers add to the game"
+he said, " A car can 'run' faster
+than a human and it doesn't stop
+people running. Y o u can play
+against a computer to improve
+your game too".
+With Chess Genius 3 selling
+around 10,000 copies a year,
+Richard says "it's an on-going
+work". There are about four
+similar programmes on the
+market, and they're highly
+competitive. Next week Richard
+takes his latest development to
+H o n g K o n g for the W o r l d
+Computer Chess Championships.
+There's also a revenge match
+against Kasparov in Germany. "I
+think he'll take computers much
+more seriously in the future", said
+Lang.
+A n d the in future? "Well
+maybe in ten years I'll get round
+to the Chinese game of Go! I've
+heard it's quite interesting". Q
+I9U1AV95 F E L I X D H
+

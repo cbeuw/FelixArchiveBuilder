@@ -1,0 +1,95 @@
+38 THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON FELIX
+22.05.2015
+Puzzles Editor Michael Faggetter
+Puzzles
+fsudoku@imperial.ac.uk
+FUCWIT
+Don’t forget to send in your
+completed puzzles.
+Points are awarded for each correct
+solution, bonus points (in brackets)
+are awarded to the first correct
+answer!
+We’re always looking for more
+puzzles, so if you ever fancy making
+your own crosswords, nonograms,
+slitherlinks or anything inbetween,
+let us know and we can include them
+in the issue!
+Leaderboard
+Teams:
+1. Fully Erect 235
+2. L3Gendary 88
+3. WG		 69
+4. pintosRules 51
+5. Mindsuckers 48
+6. Dapper Giraffe 15
+7. AnyonebutKofi 8
+8. Ebolalala 7
+9 SAFCAF 4
+10. Aerodoku 2
+Individuals:
+1. Adam Stewart 106
+2. Jem Ong 45
+3. Catmelon 39
+4. Kebab King 21
+6. Ayojedi 18
+7. Sach Patel 11
+8. Angus		 8
+9. Gene H. 7
+10. Fengchu Zhangjj 3
+=10. Li Wei Yap 3
+Points avaliable this week:
+Tiny Sudoku (each) 3 points (+1)
+Each Sudoku 3 points (+2)
+Quiz		 3 points (+2)
+Slitherlink 3 points (+1)
+Small nonogram 2 points (+1)
+Large nonogram 3 points (+2)
+Super nonogram 5 points (+3)
+Bridges 4 points (+3)
+Last Week’s
+Solutions:
+Big and strongogram
+QUIZ ANSWERS
+1) Thanet South
+2) Elaine Benes
+3) (Cheeky) Nando’s
+Bridges
+Bridges is played on a
+rectangular grid with no
+standard size. Some cells
+start out with numbers
+from 1 to 8 inclusive;
+these are the islands.
+The rest of the cells are
+empty. The goal is to
+connect all of the islands
+into a single connected
+group by drawing a series
+of bridges between the
+islands. The bridges must
+follow certain criteria:
+They must begin and
+end at distinct islands,
+travelling a straight
+line in between; They
+must not cross any
+other bridges or islands;
+They may only run
+orthogonally; At most
+two bridges connect
+a pair of islands; and
+The number of bridges
+connected to each island
+must match the number
+on that island.
+4) El Greco
+5) Bookkeeper
+6) House of Romanov
+7) Iodine
+8) San Antonio Spurs (either
+is acceptable)
+9) McDonald’s
+10) Tenebrism
+

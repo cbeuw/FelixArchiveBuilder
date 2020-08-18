@@ -1,0 +1,48 @@
+Until 26th October 1990, Digital is offering Imperial College a 50% discount off list price
+for all workstations, memory, disk & tape drives and add-ons on orders over £500.
+Here are just some of the discounted configurations for Digital's RISC workstations:-
+DECstation 2100 workstation
+10 integer MIPS 2.7 single precision Mflops
+8.3 SPECmarks 1.2 double precision Mflops
+15" monochrome monitor
+19" monochrome monitor
+15" colour monitor
+16" colour monitor
+19" colour monitor
+List price Discounted price
+£5253 £2627
+£5763
+£8228
+£8262
+£10354
+£2882
+£4114
+£4131
+£5178
+DECstation 3100 workstation
+14 integer MIPS 3.7 single precision Mflops
+11.3 SPECmarks 1.6 double precision Mflops
+19" monochrome monitor
+16" colour monitor
+19" colour monitor
+List price Discounted price
+£8610 £4305
+£10685
+£12865
+£5343
+£6433
+DECstation 5000 workstation
+24 integer MIPS 6.4 single precision Mflops
+18.5 SPECmarks 3.7 double precision Mflops
+19" grey-scale monitor
+16" colour monitor
+19" colour monitor
+List price Discounted price
+£12945 £6473
+£14225 £7113
+£16345 £8173
+All the above systems are configured with 8Mb memory, keyboard, mouse, SCSI interface,
+ethemet interface and ULTRIX licence. Prices shown above do not include VAT.
+A full range of memory upgrades, disks and other add-ons are also available at discounted prices
+Call Digital's Workstation Team on 071-412 6564 for further details.
+

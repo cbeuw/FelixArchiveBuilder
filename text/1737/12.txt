@@ -1,0 +1,68 @@
+POLITICS
+MONDAY, 9TH
+DECEMBER, 2019 FELIX
+12
+politics.felix@imperial.ac.uk
+Created by Isabelle Zhang
+and Eamon Akil Farhat
+GENERAL
+ELECTION
+POLL
+Felixʼs 2019 220 PARTICIPANTS
+With a general election in full swing, Felix has been
+polling students at Imperial College to gain some
+insight into their voting intentions and opinions on a
+People’s Vote (a second referendum Brexit).
+This anonymous survey, which was open to all
+irrespective of voting eligibility, also asked for gender,
+age and faculty.This data was then used to determine
+whether certain stereotypes applied to Imperial, how
+voting preference differed across faculty, how Brexit
+cuts across party alliance.
+23% FEMALE; 77% MALE
+MEAN AGE OF 20.9
+41.1% SCIENTISTS
+46.9% ENGINEERS
+12.0% MEDICS
+Imperial vs. National Student Voting Intention
+Labour Conservative Liberal Democrat Green Plaid Cymru Sinn Fein SNP Brexit
+This chart represents each respondent to our
+survey as a seat in a mock parliament.
+We then scaled the latest national student
+poll from Dec 2 (published by ICM) onto
+a second mock parliament with the same
+number of seats.
+We even did a Chi-squared test to see if the
+Red&Blue are statistically different - and yes,
+yes they are (x-value: 9.29; p-value: 0.0023)
+Felix general election poll ICM Student Voting Intention
+LABOUR: 50% vs. 72%
+CONSERVATIVE: 21% vs. 8%
+LIB DEM: 21% vs. 10%
+Scotland England
+Wales
+The international student body weighs in Lots of students at our university can’t vote but we still included them
+in our survey. To show the geographical variation in voting intention
+we represented each region surveyed as a constituency showing which
+party would win and which would be runner up, with focus on countries
+in the United Kingdom.
+Asia
+Europe
+Africa
+North America
+South America
+Oceania
+Labour
+Conservative
+Labour Labour Labour
+Labour Labour
+Labour
+Labour
+Conservative Liberal Democrat
+Liberal Democrat
+Liberal Democrat
+Liberal Democrat
+Plaid Cymru
+Country vectors from freevectormaps.com
+Diagrams made on flourish.studio
+

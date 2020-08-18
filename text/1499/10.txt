@@ -1,0 +1,152 @@
+TECHNOLOGY
+FELIX
+10
+Competition Corner
+Technology Editors: Chris Bowers
+Feroz Salam
+technology.felix@imperial.ac.uk
+Friday 28 october 2011
+Bought a shiny new smartphone but forgot to bud-
+get for any credit? Never fear, as Vizz Africa have
+promised to give some lucky people pre-paid SIM
+cards, so you can make good use of your new gad-
+get. While the new network may have a focus on
+very reasonable rates to call Africa (1p per minute
+to a landline in South Africa!), the costs for calling
+within the UK are pretty good too, costing only 4p
+per minute for a landline call, or 9p per minute
+to another mobile. So that credit is going to last
+you a while.
+But enough figures, here’s how you can win:
+Over the last two decades, we have more or
+less come to accept the presence of robots in
+our lives. They make our cars and process our
+foods - our manufacturing industry would not
+be anywhere near the same without them.
+The robots of today, however, are a far cry
+from the imagined robots of science fiction
+— the problem is how to integrate an artificial
+intellience into a robust humanoid shape that
+can process and interact with the world around
+them. Scientists from Munich and Tokyo have
+been working together to solve this problem,
+and recently released a video of their test pro-
+totype, PR2, fetching them a sandwich.
+What is remarkable about this is that PR2
+did not know very much about sandwiches
+when he went on his quest — he started off by
+looking in the kitchen fridge, and not finding
+anything matching the description there, he de-
+cided that Subway would be the best place to
+find one. Ordering the sandwich, picking it up
+and heading back home, he proves more than
+a little versatile at navigating the treacherous
+Snacks now, world domination later
+Feroz Salam
+A Tech Show comes to town
+Last weekend, the first annual London Inter-
+national Technology Show came to ExCeL
+London. With some big names in the line-up
+and bargain-price tickets, we decided to take
+a look at what the latest technology exhibitors
+had to offer.
+The spread of companies represented was
+quite wide, ranging from online systems
+builders and sellers such as Scan Computers
+and Overclockers UK to software companies
+including Parallels, and even some maga-
+zines came along, for example Micro Mart
+welcoming visitors into a shed built for the
+occasion… All-in-all, it was set to be an in-
+teresting day.
+First impressions however, were not quite
+what was expected. To one side was a Rock
+Band 3 playing area, and the other side host-
+ed a driving simulator running on three 3D
+monitors which you had to sit in a hydraulic
+chair to see. In front there were a few ma-
+chines playing the Battlefield 3 campaign. As
+it turns out, this was not just bad planning,
+and was quite representative of the exhibition
+as a whole. Gaming featured fairly heavily,
+as did 3D displays, and it was rare to come
+across demonstration computers set up with
+only a single monitor.
+Slightly further in though, things started to
+align more with our expectations, with the
+Asus stand showing off some powerful ma-
+chines in interesting builds. The centrepiece
+here was an Intel hex-core i7 based setup
+in a custom transparent case, with two side
+compartments for water-cooling. This was
+definitely the most interesting cooling setup
+I have ever seen, with each compartment hav-
+ing its own waterfall of cooled water cascad-
+ing into a pool at the bottom. If cooling is
+your thing though, the liquid-nitrogen over-
+clocking session later in the day would have
+been right up your street.
+At the other end of the spectrum, if high-
+end PCs don’t float your boat, there were old
+arcade games available to play for free in au-
+thentic cases, and even demonstrations of a
+tiny remote control helicopter that seemed to
+be indestructible. At least, it suffered no dam-
+age from its several impacts with the ground
+from near the high ceilings of the room.
+Other things to see and try included full
+3D home cinema setups from Samsung, high
+quality headphones and a Top Gear simula-
+tor, in which you would be taken in a lap
+round the Top Gear Test Track with The Stig
+driving.
+Overall, as an “International Technology
+Show”, I have to say it was quite disappoint-
+ing, and did not meet with expectations. On
+the other hand, as an event at which to play
+some new games – including some on PCs
+you probably cannot afford – and see smatter-
+ings of new-ish technologies, it was not a bad
+day out. There could have been more exhibi-
+tors, and it could have been more focused on
+new technologies, but it was their first year,
+and I reckon it will definitely be worth a look
+when it returns next October. And hey, with
+free pens and a free copy of a magazine that
+would normally cost more than the ticket,
+where can you go wrong?
+Chris Bowers
+of calls, texts and internet
+access for your phone
+For your chance to win a SIM card with £100 worth
+of credit, simply email competition@vizzafrica.
+co.uk with the answer to the following question:
+What was the title of Dappy’s recent Number One
+hit?
+A. No Return
+B. No Regrets
+C. No Reply
+The first 25 runners up will also receive a SIM
+card with £20 worth of credit.
+The winner drawn out of the hat will be announced
+in the next issue of Felix and online at www.viz-
+zafrica.co.uk/result.
+Competition closes Wednesday 2nd November
+2011
+For full terms and conditions see http://vizzafrica.
+co.uk/about_termandCondition.php
+corridors of a university campus.
+There is unfortunately little detail on how
+much PR2 was figuring out for himself and
+how much was preprogrammed. The core
+of his abilities is built around a ‘semantic
+search’ engine, which allows him to build
+relations between the things he sees in the
+world. For example, seeing cups in the kitch-
+en would cause him to look in the kitchen if
+asked for one. To watch PR2’s jaunt into the
+great unknown, take a look at http://bit.ly/
+niBDyY.
+Finally, the perfect place to hide my cans of Strongbow
+Behold – WALL·E’s demented and less animated cousin, PR2
+

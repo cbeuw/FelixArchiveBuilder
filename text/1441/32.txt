@@ -1,0 +1,309 @@
+31
+felix FRIDAY 23 OCTOBER 2009
+games.felix@imperial.ac.uk GAMES
+The Versus Round - Arkham Asylum
+The latest part of the Batman saga is out, but is bat-tastic or a joker? Adam Omar and Nick Virago fight it out
+L
+et’s start with the positives.
+The voice acting is spot
+on. Most of the main cast
+of Batman: The Animated
+Series is present, and they
+do a good job. Special mention goes
+to Mark ‘Luke Skywalker’ Hamill,
+who plays the Joker. His cackling voice
+spews such wonderful lines as “Tell
+me Bats, what are you really scared of?
+Failing to save this cesspool of a city?
+Not finding the commissioner in time?
+ME! In a thong??”
+The art direction and sense of style
+and atmosphere are amazing, and
+thankfully they mimic the cartoon
+and the comics more than the recent
+movies. The game engine, however, is
+crap. No matter how many bloom and
+fog effects they smear on the screen,
+the graphics never look good (from a
+technical point of view); it’s sort of like
+a Vauxhall with red paint and a Ferrari
+badge. True to its console roots, tex-
+tures are low-res and repeated ad in-
+finitum. No matter how high you turn
+up the resolution, it’ll look crap with-
+out lots of anti-aliasing on and it’ll run
+crap unless PhysX is turned off. PhysX
+doesn’t really add anything anyway be-
+sides cloth-ier cloth and cobweb-ier
+cobwebs and foggier fog.
+Now we get to the meat (or rather,
+the rotting maggot ridden carrion) of
+the game, the gameplay. You will spend
+a large portion of your time in Arkham
+Asylum running down look-alike cor-
+ridors and beating up groups of thugs.
+This is where things fall apart. One
+button is used as an all-purpose attack
+button. You cannot control exactly
+what he does; you can merely point in
+the rough direction of an enemy and
+click. It looks impressive in game, with
+Batman twirling and flipping like a true
+master, but all the player will have to do
+is left click, left click, left click. Right-
+clicking activates your counter move,
+which you only press when you see a
+blue sign, quick-time-event style. You
+have absolutely no control over what
+Batman actually does, only whether
+or not he does it. There is such a large
+difference between your control inputs
+and what actually happens in the game;
+you might as well sit on the mouse and
+let your buttocks play the game. The
+cherry on the proverbial excrement
+cake is the unskippable slow-motion
+scene you have to sit through each time
+you kill the last enemy in a group.
+The combat, although horrible, isn’t
+nearly as infuriating as the ‘Detective
+Mode’. The detective mode lets you see
+through walls and makes evidence and
+important items glow bright
+orange. also highlights
+nearby ene-
+mies, and dis-
+plays such
+useless in-
+formation as: ‘2 hostiles detected, 1
+unarmed, 1 armed’. Yeah no shit, Sher-
+lock. As if I needed to press a button to
+get that bit of information, as opposed
+to, you know, simply counting the
+number of enemies on screen and hav-
+ing a look at whether or not they’ve got
+weapons? Once in a while the player
+will have to use the ‘evidence scanner’
+portion of the detective mode. The
+evidence scanner is basically like a bad
+point and click adventure game – scan
+every pixel till you find the object that
+glows. Not exactly prime detective
+work.
+A word about physics. I find it per-
+plexing that this game completely
+wasted many many good physics-y op-
+portunities. More development time
+should have gone to the grappling
+hook, rather than the cape.
+Other gripes include the Riddler
+collectibles strewn about the game
+world – obviously a cheap way to
+extend game time, though they do
+break the immersion somewhat.
+The checkpoint save system is
+always a bad idea, no matter
+what game it’s in. It’s espe-
+cially annoying here since
+checkpoints aren’t where
+you expect them to be,
+e.g. the start of each
+level not being a
+checkpoint. Also, a
+flock of black bats
+appear and fly to-
+wards the top left
+corner of the screen
+every time you gain
+experience. All this
+experience you get
+is used to purchase
+ability and equip-
+ment upgrades,
+which seems a bit
+odd, since it’s essen-
+tially Batman paying
+himself for his own stuff.
+Also, the batarang infi-
+nite ammo and auto-
+aim removes any
+need for skill.
+Batman Arkham
+Asylum is an utter
+disappointment.
+There’s a sense
+throughout
+the game that
+it could have
+been so
+much bet-
+ter, if only
+it hadn’t
+been de-
+signed to
+cater to
+the lowest
+common
+primordial
+ooze de- nomi-
+nator. The grime at the
+bottom of your bathtub
+could play it. The game
+is just too easy,
+and far too
+auto-
+mated. It really
+is the equivalent
+of watching a Bat-
+man movie while randomly
+clicking away on your mouse
+“...left click, left
+click, left click...”
+Opinionated bastard?
+Write for Versus - simply smash
+your keyboard angrily in the
+general direction of
+games.felix@imperial.ac.uk
+T
+here are two types of great
+game. There are games
+which innovate, but stum-
+ble. Games like the flawed
+ARMA 2, a game riddled
+with gigantic, fun-ruining bugs, which
+is still great because it communicates
+its vision of large-scale, beautifully-
+realised warfare. Then there are games
+that refine. Games that take a template,
+a well-established style, and build it
+from the ground up, fixing the prob-
+lems, enhancing the good bits, polish-
+ing and sanding down a genre. Step
+forward Batman: Arkham Asylum, the
+latest beautiful refinement of the third
+person action adventure.
+The aim here was clearly to sew to-
+gether the good bits of being Batman
+and chop off the bad. Combat is a
+great example - it eschews fiddle but-
+ton combinations, instead preferring
+to keep both eyes and brain locked
+to the screen, asking you to choose
+the next target. This removes the
+need to memorise a keyboard lay-
+out, and instead neatly emphasises
+the need to keep an eye out for
+threats. You’re Batman. You
+know how to do a reverse-up-
+percut-ollie-
+crotchgrab.
+So you
+don’t need
+to worry
+about it - in-
+stead, you’re
+watching to see who’s
+got a gun, who’s running to
+alert the others, who’s getting ready to
+lunge in with a kick. You know, super-
+hero stuff. Stuff that makes your chest
+bulge and your biceps break out of
+that smelly, unwashed t-shirt.
+This is the key - WWBD? If Bat-
+man would do it, add it in. That’s
+fun. If he wouldn’t, chuck it. Be-
+cause the odds are that those things
+are gamey and dull.
+So stealth, say, isn’t a case of alarms
+and view cones and countdowns and
+snore, snore, snore. You’re the fuck-
+ing Batman, right? Death shadow?
+Angel of darkness? You grapple into
+the shadows, and you’re gone. To
+a gamer, that sounds like an easy
+way out, oversimplifying the game
+mechanics. But the goons are still
+there, the puzzles are still unsolved,
+the objectives incomplete. And ul-
+timately, you’re still very weak, and
+very prone to Bullet In The Face
+syndrome. No, the grapple-tastic
+freedom doesn’t make the game
+too easy. It just makes you a
+bit more like Batman. Are
+you noticing the pat-
+tern that’s forming
+here?
+“Tight” and “Sol-
+id” are the words
+you’ll hear describ-
+ing this game. It’s finessed,
+polished, the graphics are well-
+rounded without demanding you
+upgrade the old box in the corner.
+The UIs give you exactly the informa-
+tion you need - no more, no less. That
+takes careful design. The voice acting
+is well-directed, full of life and yet not
+overused and annoying. It’s an elegant
+balancing act of a game, and a joy to
+play as a result.
+And it’s not a classic, alright. Let’s get
+that straight. Batman isn’t going into
+the history books here no matter what
+talk you hear of ‘Game of the Year’.
+Because Batman doesn’t innovate, it’s
+happy just to do a job and do it well.
+The hublike layout of the eponymous
+asylum is straight out of a mid-nineties
+platformer, and there are boss fights
+which - yes, Dara - require you to do
+something three times before victory.
+It’s true. But being content with doing
+a good job isn’t a bad thing.
+It all gels together so well, it all con-
+nects up in such a beautiful way, and it
+wants you to play it. It does. It remem-
+bers that challenge in games shouldn’t
+be like an end-of-term exam, but like
+a kickabout in Hyde Park with some
+mates. You’re having fun, while dis-
+playing a skill. You’re not performing
+strict instructions under the threat of
+punishment. You’re mucking around.
+You want to lure twelve goons into an
+epic fist-fight? Do it! Or pick them off
+one by one and hear them scream and
+get paranoid. Smear exploding glue on
+the walls. Do what you want.
+It’s a toybox, through and through,
+and that’s a good thing. The challenge
+modes, for instance, are all about get-
+ting better at the balletic combat - not
+about the memory, but about the feel-
+ing. About being the powerhouse, the
+iron-clad motherbitch without need-
+ing to fiddle around with a gamepad or
+look up the best moves online.
+It can feel a little counterproduc-
+tive at times, but Batman’s sense of
+freedom and character is a strength,
+not a weakness. The game is a linear
+thing, and some elements are laugh-
+ably last-year. But it sets out to do one
+thing - deliver on the license. And after
+a string of terrible, terrible games that
+are supposed to support a franchise of
+some kind, Batman is the first one in a
+long, long time that actually manages
+to convey the material it’s based on.
+When I first played Batman, I was
+initially put off. It seemed overblown,
+and I’m always hesitant when people
+start declaring something to be this
+good.
+But Batman really is special.
+“...you are
+the goddamn
+Batman...”
+

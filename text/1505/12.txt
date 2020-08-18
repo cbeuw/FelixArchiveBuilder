@@ -1,0 +1,143 @@
+TECHNOLOGY
+Tips & Hacks
+Technology Editors: Chris “The Snowman” Bowers
+Feroz Salam under the mistletoe
+technology.felix@imperial.ac.uk
+Spotify launches app platform
+Spotify launched an app platform last week that
+will allow developers to add features to the stand-
+alone Spotify application. The first applications an-
+nounced include the Guardian app, which allows
+users to read reviews and new music recommen-
+dations, as well as similar apps from Rolling Stone
+magazine and Pitchfork. London’s Music Hack Day
+saw a few more interesting apps released: Chordify
+allows you to select a song and automatically finds
+you guitar tabs for it, and CTRL allows you take con-
+trol of a virtual turntable, giving those Spotify party
+mixes some extra effect.
+While the app model will definitely see some in-
+teresting software being released for the platform,
+it is worth asking whether every piece of software
+adapting the model adds much of value. Bloat is an
+unavoidable feature of most commercially released
+software, and an app system for what is essentially
+a music player is perhaps a step too far.
+Merry Christmas from the
+Felix Technology team!
+Enjoy this USB Christmas tree,
+only £12.99 on Amazon
+FELIX
+12 Friday 09 december 2011
+W
+hen Nokia announced their
+partnership with Windows
+Phone 7 instead of Android
+back in February I honestly
+thought that they’d made
+one of the biggest mistakes in the company’s
+history. How wrong I was.
+Windows Phone 7
+As much as I’d like to talk about the physical
+phone, the truth is, just like the iPhone, the great-
+est feature of the Nokia Lumia 800 has got to be
+the operating system. Having previously owned
+an iPhone, iPhone 3G, iPhone 3GS and a HTC
+Desire I’m quite familiar with iOS and Android,
+the two biggest mobile phone operating systems.
+So I put my bias against Windows Phone 7 to
+one side – just for a day – to try this OS out,
+and I wasn’t disappointed. We were used to lis-
+tening to Steve Jobs at every keynote speech,
+consistently overusing the words “innovation”
+and “revolutionary” until they almost had no
+meaning. Yet what Microsoft have done is truly
+innovative and, well, genius. Windows Phone 7
+has struck a perfect middle ground between iOS
+and Android: it looks slick, it’s incredibly fast
+and most importantly, it’s unbelievably intuitive
+to use.
+Price
+At £350-400, depending on what network you’re
+on, it’s £100-150 cheaper than an iPhone 3G or
+Samsung Galaxy S2. It’s even cheaper on con-
+tract. For example, I pay £26 a month for 600
+minutes, unlimited texts, unlimited data, 2GB
+free BT Openzone a month and 4 months insur-
+ance, and get the phone for free.
+Integration
+The integration of several separate applications
+into one phone is one of the main successes. I’ll
+quickly give you two of many examples. The
+first is games: all games go through a very slick
+Xbox Live interface which, if you have an Xbox,
+is made even better. The other is social network-
+ing integration: if you click on a group of con-
+tacts, e.g. “Chemistry” on “what’s new” there
+is a feed of all your friends’ updates, Facebook,
+Twitter, Live Messenger, Google+ and even
+LinkedIn.
+Even with messaging it integrates social net-
+working; imagine if text, MSN, Facebook Chat
+were all in one thread – on this they are. You can
+be messaging one of your friends using Face-
+book and, when they go offline, you just tap a
+button and you can send them the message as a
+text, it’s all part of the same interface.
+Productivity
+This phone isn’t only great on a personal use lev-
+el, it’s great for work. Microsoft Office has One-
+Note, Excel, Powerpoint and Word so that you
+can edit all your documents from your SkyDrive
+offline or online, on the go – great for some last
+minute edits to your lab reports.
+Another awesome feature for productivity is,
+because it’s Microsoft, Outlook and Calendar
+are by a long way the best I’ve ever seen on any
+phone (or even tablet). It doesn’t matter if it’s
+Gmail, Yahoo, Hotmail or, for best functionality,
+Outlook Exchange, it’s quick, slick and intui-
+tively designed for navigation and organisation.
+For example, threads of e-mails are kept
+grouped, much like in Gmail, and you swipe
+from “all” to “unread” to “flagged” to “urgent”
+and you can link as many inboxes together as
+you like.With calendar, not only do you get your
+“day” and “agenda” from your e-mail calendar
+(that is how I organise my life) but you have the
+option of including Facebook events and other
+calendars (which are all kept colour coded). This
+also links in with “tasks” of the “to-do” list as
+it’s called on the phone, organised in level of pri-
+ority, deadline and again, colour coded. If you
+keep yourself organised online using Google or
+Outlook it’s an absolute lifesaver and helps keep
+you exceptionally well organised.
+Criticism
+No phone is perfect. The two biggest flaws with
+this phone are, firstly, the battery life, and sec-
+ondly, the limited amount of apps.
+But I’m pretty sure Nokia and Windows Phone
+7 know about these. Nokia has a “battery saver”
+option you can turn on, or to automatically come
+on at “xx%”. The “Marketplace” may be sparse
+in its range of products, but at the moment it has
+everything I can think of that I would want on a
+phone, and it seeing as its relatively young for an
+app market, it’ll definitely grow.
+Conclusion
+I can honestly say I never thought I’d be in fa-
+vour of, let alone endorse any Windows attempt
+at a mobile OS, but here I am, in ownership of
+the best phone in the world.
+There is so much more to this phone than I can
+write, but I’m running out of space. I guess the
+point I’m trying to get across is, forget your bias
+against Microsoft, get that iPhone out of your
+arse and just try this thing out. You will not re-
+gret it.
+Nokiasoft: a match made in heaven
+Jason Parmar coos over his new Nokia Lumia 800
+It’s love at first sight for Jason Parmar
+deadmau5 helped to launch the Nokia Lumia 800 at Millbank Tower in late November
+

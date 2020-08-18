@@ -1,0 +1,193 @@
+WALKA80UT-
+LOOKSEE
+by Ntbile Optics lite.
+In the Sixties London was swinging: Elvis
+Presley and Marilyn Monroe were replaced on
+this side of the Atlantic by the Beatles, Twiggy
+and the mini-skirted pop scene in Carnaby
+Street. We were brought up on the move-
+ment's tail end and with the cynical acceptance
+of the 80s, can only guess at the awe and
+optimism with which the (almost) previous
+generation embraced the explosion of mass-
+media advertising, mass-produced fashion fads
+and all-pervasive commercial 'culture'.
+The art of the 60s was concerned with
+scrutinising the 'new' language of the ad men,
+the mid-20th Century urban folk art we all
+absorb subconsciously. It is an art which relies
+for visual and emotional impact on the symbols
+and images of our everyday materialistic
+world, as we see it and react to it through TV,
+newspapers, comic strips, girlie magazines,
+glossies, billboards, etc. Pop artists are not
+painting about 'life'—their experiences and
+emotions—but rather about an advertising/
+packaging type of lifestyle.
+Peter Blake
+It seems almost inconceivable that anyone can
+be consistently optimistic about a Sunday
+magazine lifestyle! Peter Blake was a student
+at the Royal College of Art in the 1950s and his
+Pop period paintings draw freely on popular
+sources of imagery for inspiration. Yet, if there
+is a hint of melancholy, there is no aggro—he
+paints what he enjoys and infuses it with
+nostalgia and sentimentality.
+The paintings are not all easy, but most are
+figurative, which provides a key to their
+understanding. A series of paintings of girls
+and boys, and his 1961 'Self Portrait with
+Badges' open his major retrospective at the
+Tate.
+They are followed by circus ladies, by Pop
+works with pin-ups and fan magazine photos
+Marilyn Monroe, who provides the inspiration
+for some of-Peter Blake's paintings.
+(not a section for WIST members!) and by a
+collection of prize fight heroes and strippers.
+During the 70s Blake left London to live in
+an old West Country railway station. He
+formed the Brotherhood of Ruralists and this
+period of countryside idyll is recorded with
+pictures of children and fairies and the well-
+known 'Through the Looking Glass' illus-
+trations.
+A traditional 'painterly' manner
+Peter Blake is a hoarder of bits and a
+Romantic: there is a Victorian element, even to
+his Pop collage-collections, filled with
+evocative memorabilia and scrap-book
+clippings. He is also a painter in the traditional
+sense. One room is devoted to his exquisite
+watercOlours and another to precise drawings
+of finely observed circus people, animals and
+corners of country life; this strong sense of
+drawing is allied to a bright, fresh handling of
+paint and an obvious enjoyment of his subject-
+matter. I'm not desparately keen on his
+sensual fairies but his 1975 'Academy' collage
+is a delightful joke and'Portrait of David
+Hockney in a Hollywood-Spanish Interior'
+contrasts razzmatazz party glitter with
+the sitter's ambiguous reaction as onlooker-
+it's technically superb even in it's unfinished
+state.
+Where, When, E?
+'Peter Blake' is at the Tate Gallery, Millbank
+SW1 until March 20. It's open Mon-Sat 10-
+1750, Sun 14-1750. Admission 75p for
+students, otherwise £1.50.
+P I N C C C M I C
+Of Bars and Bars
+As you hopefully will have noticed, next Friday
+sees another orchestra concert, and
+rehearsals are in full swing even now.
+Unfortunately, the predilection of the
+orchestra for Mahler, Tchaikovsky and
+Walton is exceeded only by their predilection
+for alcohol. last week the conductor, Rich T
+Biscuit (no relation to Duncan Biscuit) found
+that a lot of the string section had gone
+missing. Realising that they would be in the
+Queens Legs, the local hostelry, he headed
+over there, to find twenty five of them
+indulging in drinking.
+A word or two about string players is
+necessary here. Unlike brass players, who
+drink as often as possible, string players only
+drink if they are standing on the vertex of a
+square formed by other string players. For
+instance, in diagram 1, a string player standing
+at A can drink, while a string player standing at
+B can not.
+B
+/ i
+s I
+- - A
+Diagram 1
+Rich found the 25 string players standing in a
+formation shown in diagram 2. Since he did not
+actually need the string section at that time,
+but he would need them sober later on, he
+wanted to remove as few people as possible,
+while ensuring that the remainder, unless they
+moved, would not be able to drink. Can you
+say how few people he needs to remove, and
+can you give a sample pattern that the
+remainder would take up, assuming they don't
+move?
+Solutions, comments, criticisms to me at the
+FELIX Office by 1:00pm Wednesday. £5 from
+Mend a Bike and two free tickets to the
+orchestra concert lor a randomly selected
+correct entry.
+Last Week's Solution
+Algebraic Numbers
+There were twelve people who found an
+expression to give 4. A lot of people seemed to
+have a lot of tun with this one, from Phil Fisher
+and Richard Glovers recommendation that I
+should take base seventeen, to Duncan
+Baldwin's thoughts of differentiating with
+respect to n. The four best ideas are shown
+below. The winning entry came from Reginald
+Tan of Chem Eng 2, and he can collect his £5
+cheque from the FELIX Office on Monday
+after 1:30pm.
+As for who found the most: since an infinity
+of numbers can be generated by taking
+factorials, on the grounds of neatness and
+style, Leann Jones of Maths 2 and A M Watkin
+of Aero 2 tied for the Jingles haircut voucher,
+and by the tried and trusted method of tossing
+a coin, the voucher was awarded to A M
+Watkin, who can collect the voucher from the
+FELIX Office.
+4= JH+Jn
+n
+'
+W
+T
+T where primes denote
+/ -ri' differentiation wrt n
+ln(nxn)
+I
+n
+V
+r
+T
+In
+l|5rT^n*n taking the In in basev^rf
+I \ Factfcwjiea..
+Diagram 2
+Angling Corner
+Only two entries to this, from Perola and
+Paul Elson of Mech Eng 1, but I hope it was
+interesting.
+The first thing to notice about right acute
+angles is that an angle is a right acute angle if
+and only if both its sine and its cosine are
+rationals (ie can be expressed as p/q .where
+both p and q are integers). Now if we take a
+multiple of any right acute angle,
+sin(nA) = sin(A + (n-l)A)
+= sinAcos((n-l)A) t cosAsin((n-i)A)
+cos(nA) = cos(A + (n-l)A)
+= cosAcos((n-l)A) - sinAsin((n-l)A)
+and nA is therefore a right acute angle by an
+easy inductive argument.
+We can thus without loss of generality, com-
+plete the proof by considering the angle A+B,
+where both A and B are right acute angles, and
+this again follows from
+sin(A+B) = sinAcosB + sinBcosA, and
+cos(A+B) = cosAcosB - sinAsinB, both clearly
+being rational.
+No Footnotes this week, as 1 want to keep
+some in store for next term when I don't have
+as much time. Don't any engineers have any
+difficult pet problems?
+FELIX is published by the Editor for and on behalf of Imperial College Union Publications Board, and is printed bp the Union Print Unit, Prince Consort Road, London SW7 2BB.
+Tel 01-589 5111 Ext 1048 or Internal 2S81. Editor: Martin S Taylor; Business Manager: Peter A Rodgers: Advertising Manager: Nick Thexton Copyright FELIX 1983
+

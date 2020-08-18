@@ -1,0 +1,242 @@
+10
+SCIENCE
+Science Editors Nathan Ley & Brigette Atkins
+science.felix@imperial.ac.uk
+felix FRIDAY 27 NOVEMBER 2009
+Placenta fluid: football’s ‘miracle’ cure
+Every time the Aerosmith song
+“Pink” springs to mind, I readapt the
+two first verses: “Pink, it’s my new ob-
+session / Pink, it’s not even a question”
+to “Green, it’s our new obsession /
+Green, it’s still a question”. Why is this?
+Broadly speaking, society has been
+pushing forward for a ‘green’ change in
+habits and technology; however, many
+still question the need to go green.
+Also, narrowingly speaking, the issue
+of what’s ‘green’ or not is controverse.
+Such is the case of bioplastics and bio-
+degradable plastics.
+Biopolymers have been around way
+before humanity, appearing, disap-
+pearing, mixing, dispersing, forming
+organisms, forming more complex or-
+ganisms; even more complex than the
+plots of Mexican or Venezuelan soap
+operas. In the same way that these
+soap operas are full of beautiful people,
+biopolymers are full of beautiful mol-
+ecules. Look at DNA; how impressive
+is that with its long double helix shape?
+And multifunctional proteins with
+their sensor-actuator characteristics?!
+A biopolymer is a polymer (a long
+molecule comprised by repeated small
+molecules, the monomers) derived
+from renewable sources (e.g. vegetable
+oil or starch). A bioplastic is a biopoly-
+mer with something mixed, such as
+pigment to give colour to the mixture.
+Biodegradable is a characteristic of
+a material being broken down into
+smaller molecules or elements by liv-
+ing organisms.
+Not all bioplastics are biodegradable,
+as is the case of Polyamide 11, used in
+automotive applications. We can then
+divide bioplastics into two main fields:
+those that are biodegradable, with the
+packaging industry being the main
+consumer and those that are not bio-
+degradable, mainly found in the auto-
+motive and electronics industries.
+As with everything in life, everyone
+has a different definition of what is a
+biodegradable plastic. To address this
+issue, the International Organisation
+for Standardisation (ISO) released
+the standard EN13432, establishing
+how fast and in which conditions a
+plastic must degrade.
+The other issue that generates great
+discussion (mostly due to commer-
+cial and not scientific or engineering
+aspects) is whether bioplastics have
+a lower environmental impact than
+“petroplastics”. Both sides should
+not be dismissed, however, the oppo-
+nents of bioplastics generally do not
+take into account (many times, con-
+sciously) that the technology is new
+and that the economies of scale are
+still not as developed as in petroplas-
+tics, in spite of continuing to show a
+promising increase. Statistics vary,
+but bioplastics consumption has
+been growing at about 17 % per year
+and is forecasted to reach 900 kilo-
+metric tons in 2013. Now, it’s impor-
+tant to have in mind that this is less
+than 1 % of the total yearly consump-
+tion of plastic.
+Leaving Mexican soap operas and
+chemistry aside, let’s talk about the
+engineering of bioplastics.
+Presently, they have 3 main draw-
+backs that reduce their utilisation
+compared to petroplastics: manufac-
+turing difficulty, lower performance,
+and higher cost. So, the obvious mar-
+kets are those where products have a
+short life and/or are reasonably pro-
+tected from certain environmental
+conditions, and mass-produced. For
+these reasons and together with en-
+vironmental concerns and marketing
+(the ‘look-good-to-others’ factor),
+NunoHelder Science Reporter
+Are revolutionary bioplastics environmentally sound?
+Shupaula Dass Science Reporter
+When perusing a footballer’s shopping
+list, one would expect to find not much
+out of the ordinary. Vitamins, protein
+shakes, lean beef steaks, thongs, and
+horse placenta. Okay, perhaps shop-
+ping for Black Beauty’s placenta is a bit
+extreme. But players can receive treat-
+ment for their injuries using equine
+placental fluid. Just when we thought
+these pillars of male finesse could not
+transcend any higher levels of bizarre-
+ness, they do. Arsenal’s Van Persie is
+the latest player to surrender the bread
+and butter that is his ankle to Dr Ko-
+vacevic for treatment. But this is not
+the first time the placenta has been
+used, and indeed, is not its only use.
+The placenta, from the Latin word
+for ‘cake’, is unique to mammals. Con-
+necting a fetus to the uterine wall it
+delivers oxygen and food, taking away
+any fetal waste. As culture has evolved,
+so has perception of it. In Nigeria, the
+Nibo people view the placenta as the
+deceased twin of the baby and con-
+duct a funeral for it. Then there are
+people spread throughout the world
+who eat it. The act of eating the pla-
+centa, for anyone who wants to use this
+as a dinner date discussion is placen-
+tophagy. Humans who tantalise their
+taste buds in this activity come from
+America, Europe, and Mexico to name
+a few places in the world. Animals, in-
+cluding herbivores also eat placentas.
+Apart from placentophagy being be-
+lieved to alleviate postpartum depres-
+sion, it is also used as an ingredient in
+some Chinese medicines. Medically-
+speaking, the placenta contains a lipid
+compound named prostaglandin. The
+presence of the compound stimulates
+the return to normal size of the uterus.
+Oxytocin is present in small quantities,
+easing stress of the birth process.
+So what’s with the recent placenta
+craze? Robin Van Persie is the answer
+to this. Through the sporting grape-
+vine Van Persie heard of Dr Kovacevic’s
+miracle cures for injuries. Before he
+left he commented that the doctor is
+‘vague about her methods but I know
+she massages you using fluid from a
+placenta.’
+Another treated native Serbian play-
+er was able to offer a more detailed
+explanation. “She uses a combination
+of electricity and the miracle gel that
+is her exclusive product. The electric
+current goes through a stick holding
+the gel, which is applied to the injured
+spot.”
+There must have been something
+in that gel. Physiotherapists predicted
+Liverpool striker Yossi Benayoun to
+be out for up to 5 weeks, healing from
+a hamstring injury. After receiving
+the placental treatment, he was back
+within a week. On the pitch. Not only
+was he able to play, but he scored the
+equalising goal.
+The treatment however does not
+seem to work for all players and there
+are people who remain skeptical of it
+even within the sporting profession.
+Arsenal manager Arsene Wenger is
+among them claiming that sometimes
+it “can be psychological for the players
+to feel they can be helped. I'm not a fan,
+but I'm not a doctor either. I respect
+the freedom of everybody to be treated
+in the way they want to be treated.”
+Numbers of players considering this
+treatment have risen. Almost as high as
+the result from the recent Spurs/Wigan
+game. Yet the treatment has not been
+scientifically supported, thus causing
+much uproar. Dr Mariana Kovacevic
+has not registered her business under
+Serbian law which could cause prob-
+lems for her patients. Her clinic will be
+shut down until she files the necessary
+paperwork to legalise her business,
+that is, if officials can find her. Van Per-
+sie left for treatment but has not been
+reported to have turned up at the “offi-
+cial” Kovakcevic clinic. She is shady as
+she is notorious. Rumours of her mira-
+cle secret formula have spread to other
+European teams, such as Real Madrid,
+who have asked the Serbian doctor to
+divulge her recipe.
+Madness. Pure madness is the only
+way to describe this placental con-
+troversy. Sure it’s a useful organ, full
+of goodness, eaten for hundreds of
+years. I don’t doubt that. What I ques-
+tion is the mental state of ball-kicking,
+thong-wearing players that represent
+this wonderfully-conservative island.
+Victoria Beckham…forget your knick-
+er drawer, worry about what’s behind
+David’s motivation for you popping out
+another one.
+Arsenal striker Robin Van Persie after a horrific challenge from a dirty Italian
+A massage using fluid from horse placentas? It’s all the rage for the treatment of sport-related injuries
+the packaging (e.g. trays, containers,
+and bags) and automotive (interior
+trim and under-the-bonnet applica-
+tions) industries, followed by the elec-
+tronics (e.g. laptop and mobile casings)
+industry are investing more and more
+in these materials.
+Not all bioplastics are biodegradable;
+they tend to be harder to manufacture
+and have lower performance. Due to
+this, they are found in particular ap-
+plications, mostly in packaging, au-
+tomotive and electronics. While their
+consumption has been growing about
+17 % per year, they still amount for
+less than 1 % of the yearly plastic con-
+sumption. As they are relatively “new”,
+the science and technology involved
+is recent, leading to a higher cost and
+some controversy regarding sustain-
+ability. There is another advantage to
+bioplastics...some of them are edible
+and yummy.
+Who’s up for some starch?
+The Honda FC Sport Concept is a hydrogen fuel cell sports car with body panels made from bioplastics
+

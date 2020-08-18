@@ -1,0 +1,193 @@
+32 felix Friday 11 January 2008
+The little guy that’ll win your love
+The teen-eeepc with a teeny price. James Finnerty finds out exactly what is on offer for your cash
+I
+reckon that not very many peo-
+ple reading this will have heard
+of this easy-to-overlook new
+product, which I feel should
+be given a lot more attention,
+especially within the student demo-
+graphic. To cut what could be a long
+story short, the eeepc (pronounced as
+a single e) is a new laptop from the es-
+tablished motherboard and notebook
+manufacturer ASUS. Now i know what
+you’re thinking: whats so special about
+another laptop? Its not a Mac so I'm
+not going to buy it. Well I'll explain.
+The big selling point of the eee is the
+fact that it is one of the smallest fully
+functional laptops ever produced; it's
+so portable I'm stuck as to whether to
+class it as a laptop or a palmtop.
+Before going any further I'll lay out
+all the facts and figures so you can get
+a better idea of what this device has to
+offer. Its dimensions are 225mm wide ×
+165mm deep × 35mm thick and its very
+low mass pulls in at an anorexic 920g.
+So it’s not going to break your back like
+every other 'portable' machine brought
+to you by the other big manufacturers.
+Its screen can be a bit limiting at 7”,
+but it pulls off a reasonable resolution,
+for its size, of 800x480 pixels. It uses
+a 900Mhz Intel celeron M processor
+with its clock speed tamed down to
+630Mhz to save on battery and heat,
+but there are some warranty-voiding
+ways of getting it to run at full whack.
+At the Celeron's disposal is 512mb of
+RAM and behind this is 4Gb of Solid
+State memory, fulfilling the role nor-
+mally occupied by the faithful hard
+disk. In place of your usual Vista/XP or
+OSX, you get supplied with a reason-
+ably mainstream Linux variant called
+Xandros. The eee also has a decent
+battery life of 3-4 hours and is supplied
+with a wall-wart style charger, as op-
+posed to a normal laptop charger with
+a huge brick midway down the cable.
+Now to get onto the eee's pros and
+cons. It's small; this is good and bad.
+The keyboard, track pad and screen
+can be hard to use at first, producing
+typing errors and frustration at trying
+to click the correct icon, but this is the
+cost associated with having this level of
+carry-around-all-day portability.
+A big consideration for many is the
+small storage capacity. After the oper-
+ating system and applications you’re
+left with a mere 1.4Gb space that you
+can use. This isn't a lot for your mu-
+sic and films but it’s plenty for all the
+documents and other work you want
+to store on it.
+People may or may not be put off by
+Linux (comes with free socks and san-
+dals these days y'know) but as of late
+it’s started stepping into the domain
+of the big boys, even Dell now supply
+it as an option. The eee comes setup
+with a simplified Linux desktop called
+“easy-mode” which can be swapped for
+a standard full desktop. If you’re really
+not interested in dipping your toes in
+the Linux ocean the manual provided
+gives a full set of simple instructions
+on how to install Windows XP and
+some recommended adjustments to
+optimize the machine.
+B
+y now I’m sure you’ve all
+had a chance to play about
+with a Wii and found that
+it’s easy to use and (mostly)
+does what you want. Today
+we’re going to delve a bit into how the
+Wiimote works and just how Nintendo
+got it to tick ever so perfectly.
+In contrast to a regular light gun
+which operates off the light emitted
+by the TV, the Wii sensor bar contains
+two banks of five infra-red LEDs. The
+Wiimote has an image sensor which
+focuses these into two bright points
+and measures the distance between
+them. By using this, compared to the
+fixed distance of the LED banks in the
+sensor bar, the Wii can use triangula-
+tion (that’s some fancy form of maths
+to you medics) to work out how far
+away from the screen you are and
+where you’re pointing. It can also use
+the offset from horizontal to work out
+the angle you’re holding the Wiimote
+at, fancy eh?
+The Wiimote has a few more tricks
+up inside the indestructible shell to
+work out what you’re doing with it.
+Whilst you’re swinging it with enough
+force to break that expensive HDTV
+that you bought a few weeks ago you’re
+actually moving a silicon weight of
+less than one millionth of a gram at-
+tached to a few springs. A current runs
+through the weight which is measured
+by silicon plates all around, distribut-
+ing it equally at rest. With that glori-
+ous backhand you move the weight
+no more than a whopping five nano-
+metres, changing how the current is
+distributed. The Wii calculates how
+smooth, long and powerful your shot
+was based upon the voltage change,
+matches it to a swing in its database
+and decides you were actually aiming
+at the guy with an afro in the crowd!
+The Wii doesn’t know all this info via
+some kind of voodoo or black magic; it
+actually uses Bluetooth to talk to your
+Wiimote. Now I’ve not tried using my
+phone to play the Wii but it’s the same
+technology and does have a built-in
+limit of up to eight active devices, lim-
+iting the Wii to a maximum of seven
+players. There’s also a few other nifty
+devices hidden away in there including
+a 3300μF capacitor in case the batteries
+come loose during a frantic stick-wag-
+gling moment, a speaker that’s bloody
+useful as it’ll bleep within a range of
+up to ten meters to remind you it’s
+you’re go (even if you’re in the loo) and
+a 16KiB EEPROM chip that can store
+your Mii, Pokémon and controller set-
+up. Now that’s a useful feature!
+Finally, as you probably noticed,
+there’s a huge port on the bottom of
+the Wiimote too. Currently you can
+hook the Nunchuk in there and get
+worryingly tangled playing Boxing,
+but Nintendo does have plans for extra
+connectivity.
+Expect to get a light gun attachment
+that mounts the Wiimote along the
+barrel, a steering wheel and a whole
+host of other bizarre add-ons. Un-
+fortunately there won’t be a charging
+dock based upon the port as it has lim-
+ited connectivity. So next time you’re
+frantically waggling your Wiimote or
+making a perfect serve, just remember
+that you’re moving a block of silicon of
+less than a millionth of a gram no more
+than five nanometers, aiming with
+some LEDs and a bit of IR radiation
+when all the while the King of Demark
+& Norway oversees that your Wiimote
+talks fair with your Wii.
+What’s inside this magic wand?
+Like taking expensive things apart? Well Andrew Slater will save you some time and money
+One’s big, one’s small. One’s light, one’s heavy. One’s fiddly, one’s clunky. You’d think with all this crap to worry about, people wouldn’t say ‘size
+doesn’t matter’ any more
+Okay, Andrew, if you can’t put it back together what will you do then hmmm?
+You may look at the power of this
+machine and think: this is a little retro
+isn't it? My phone has got more grunt.
+Well the fact is, for day to day tasks
+such as web browsing (Facebook, web-
+mail etc.) and taking notes in lectures
+(Facebook, webmail etc.) you really
+don't need much more power than this
+little guy puts at your disposal. It could
+be considered the definitive student
+tool, especially at the loan-friendly
+£220.
+felix@imperial.ac.uk
+Technology
+Technology Editor – James Finnerty
+

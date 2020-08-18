@@ -1,0 +1,193 @@
+FELIX
+14
+Tips & Hacks
+TECHNOLOGY
+Technology Editor: Feroz Salam
+technology.felix@imperial.ac.uk
+Friday 24 june 2011
+Bitcoin: truly anarchist currency
+Money made and traded online is valuable. Com-
+panies across the web have been striving to find a
+model for digital currency that works. From Facebook
+to Farmville; World of Warcraft to Second Life people
+are buying currency that is used online even though
+it has no physical manifestation. Stranger still, peo-
+ple are willing to accept payments for goods and ser-
+vices in the real world using these virtual currencies.
+In 2009, Satoshi Nakamoto, a Japanese cryptogra-
+phy expert created the worldís first decentralised
+digital currency and Bitcoin was born.
+Now this sort of economic alchemy has been done
+before. All modern day government-backed curren-
+cies are fiat: their value is not tied to anything physi-
+cal. But unlike conventional currency, Bitcoin (BTC)
+has no centralized issuing or holding authority. Its
+production is hardcoded into the software itself and
+cannot be altered. Only market forces control its val-
+ue. So what benefits does this offer compared with
+the tried and tested British Pound Sterling?
+Transfers are conducted from peer to peer and are
+certified by the network itself so there is no need for
+banks or other third parties, resulting in almost no
+transaction fees. Your account can’t be frozen, even
+by the founders of Bitcoin, so you have complete li-
+quidity and freedom to spend your money irrespec-
+tive of external forces. This is extremely valuable to
+people who keep large amounts of money on-line in
+accounts at companies such as Paypal. Earlier this
+year the US government froze hundreds of millions
+of dollars in online poker accounts leaving thou-
+sands of people without access to over 80% of their
+net value, something that would be impossible using
+this new currency.
+There are still a lot of kinks that need to be ironed
+out. Last week $500,000 worth of BTC were stolen,
+causing the currency’s market value to crash from
+$20 per 1BTC to just $0.01 per 1BTC. However, it
+has subsequently bounced back. Furthermore, the
+anonymity that the system affords attracts a black
+market where people buy and sell contraband such
+drugs, weapons and stolen personal information so
+governments are becoming increasingly weary of
+this uncontrollable marketplace. Right now you can
+only use Bitcoins to buy niche tech products and ser-
+vices and gimmicky alpaca socks.
+However, if major retailers start taking virtual cur-
+rency seriously it could revolutionize our perspective
+on money, doing for finance what the internet did for
+publishing, ownership and transfers. Adam Labi
+A
+s summer draws nearer and the
+spring round of exhibitions and
+trade fairs draws to a close,
+there’s a lot of shiny new tech-
+nology to look forward to over
+the next few months. Driving the latest round of
+products is the incessant slide towards perpetual
+connectivity: be it mobile, tablet, laptop or the
+increasingly elusive desktop, all major tech
+players are pushing to have you wired 24/7.
+NFC and mobile wallets
+The most noticeable push this summer will lie
+in NFC and the possibilities it opens up for
+mobile wallets. To the uninitiated, NFC chips
+are a close relative to the RFID chips that you
+have in your student and Oyster cards. The
+new NFC technology that is being champi-
+oned by telecom operators and device manu-
+facturers alike will allow your phone to read
+and write data to sensors and other phones by
+touch alone.
+The applications for the technology are very
+promising. Tapping two phones together could
+transfer a song between friends, or connect
+them on Facebook. The real money will lie in
+mobile wallets, however. The concept of us-
+ing your phone as a wallet (tap-to-pay on spe-
+cial till sensors) has been floated for at least
+a decade and has made some inroads in the
+Far East, but hasn’t kicked off in earnest yet.
+This is all set to change in the next few weeks,
+as card companies, phone manufacturers and
+line operators are all jockeying frantically for
+a slice of what might be a huge revenue pie.
+Orange’s Samsung QuickTap handset has al-
+ready been introduced in the UK, and the three
+major mobile operators in the UK (Everything
+Everywhere, Telefonica and Vodafone) have
+just announced a move to form a mobile pay-
+ment joint venture that will bring widespread
+coverage ‘before the end of the year’. With
+Google Wallet also promising similar func-
+tionality in the near future, the death of cash-
+points may be within sight.
+Location, location, location
+GPS on phones has been available for some
+time now, but it has taken a while for most
+businesses to cotton on to the potential of
+knowing exactly where your user is. While
+services that depend on location often tread
+the fine line between creepy and useful, there’s
+something to be said for the wealth of location-
+based discount services mushrooming on so-
+cial networking sites. Check-in, publicise the
+restaurant, receive a coupon and everyone’s
+happy. It’s not everyone’s cup of tea, but on a
+student budget, I’m not complaining.
+Take your stuff with you
+The potential of the ‘cloud’ has been trum-
+peted by the media for the last few years now,
+but there has been a stark absence of many
+real cloud products beyond data backup and
+Google docs. If the last few months are any
+indication, however, 2011 is poised to be the
+year where you’ll never have to worry about
+leaving home without your books, music or
+videos.
+Amazon, Google, Apple and Spotify all
+have huge plans for your music library - their
+services will all give you varying degrees
+of access to your songs across your devices.
+Spotify’s services have been up and running
+in the UK for a while now, and the others are
+supposed to roll out from late 2011 onwards.
+Along with the Kindle’s cross-platform books
+service and rumours of a launch for streaming
+movie provider Netflix, there will soon be no
+barrier to carrying your media with you wher-
+ever you go.
+The summer will also see the launch of
+Google’s Chromebooks in the UK. A radical
+re-envisioning of what a laptop should look
+like, the system only comes bundled with what
+is essentially a browser. In future, you will be
+able to find all the software you need through
+their online apps. It’s a bold move, and there’s
+no telling how far it will go just yet, but if
+you’re buying into the cloud philosophy and
+want a basic computer on the cheap, this will
+probably be worth having a look at.
+Finally, a free lunch?
+The implications of all this innovation are
+huge. On the one hand there are the positive
+consequences: we will see people finally being
+able to exchange media seamlessly by tapping
+phones together, while physical money is mak-
+ing it’s inexorable decline into obsolescence.
+Devices around us are becoming smarter and
+increasingly interconnected every day: inte-
+grating chips into almost everything we own is
+becoming an expectation rather than a luxury.
+As always, freedom comes at a price. Ubiq-
+uitous computing has been driven in part by
+a system of barter in a 21st century context:
+your personal information in exchange for
+a service. This has worked brilliantly so far:
+swapping some personal information for tar-
+geted advertising is a price that most of us are
+willing to pay. Yet technology companies are
+constantly redrawing the boundaries, and for
+the first time the, dynamic is shifting away
+from users choosing to upload their data and
+towards devices constantly collecting data
+from your palm as you travel, spend money
+and make friends.
+If nothing else, it’s always worth remem-
+bering that anything you put out there on the
+internet will always remain on some server,
+owned by a company that you have no con-
+trol over. Facebook, Twitter and Google have
+us wrapped around an innocuous finger of free
+services and constant connectivity. The onset
+of ubiquitous computing might take nothing
+from your pocket, but will drop these compa-
+nies into your life forever. As gloomy a proph-
+ecy as that may seem, the information is only
+there if you choose to give it to them. So if you
+do choose to tap-to-pay using NFC or coupon
+your way around town with foursquare, always
+remember the hidden price you are paying for
+the service. Have a great summer!
+‘Everything everywhere’ a reality?
+Feroz Salam picks out the top tech debuting this summer
+

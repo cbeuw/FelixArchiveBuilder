@@ -1,0 +1,217 @@
+IC team beats Cambridge, MIT, Harvard, and Tokyo to second place in the prestigious iGEM competition
+Picture the scene. It’s summer 2006.
+Undergraduates, exams success-
+fully navigated, head off to roam the
+world, free from the toil of univer-
+sity for three long months. But look
+closely; there are still signs of life
+in the Bioengineering Department.
+Hidden away in a small corner of
+the building, a team of undergradu-
+ates and postgraduates are working
+on a new research project in col-
+laboration with Professors Richard
+Kitney and Paul Freemont. Their
+brief is a demanding one. In just ten
+weeks they have to show that sim-
+ple biological systems can be built
+from standard, interchangeable
+parts and operated in living cells.
+The results were presented at the
+iGEM (international Genetically
+Engineered Machine) competition
+in Boston last weekend. On the eve
+of their flight to Boston, the team
+took time out to talk to me about
+their work intensive summer.
+So, why did eight undergraduates
+decide to forego the pleasures of
+the summer break to work on Im-
+perial’s iGEM entry? “I don’t think
+any of us had any idea how much
+work was involved,” admits Fa-
+rah Vohra, a biomedical engineer-
+ing student. “But the competition
+simply sounded interesting,” adds
+Christin Sander, also a student in
+biomedical engineering.
+Within a few short weeks, the
+team had decided that they would
+attempt to build the world’s first
+molecular oscillator. Even to have
+reached such a decision so quickly
+was impressive. “Getting familiar
+with the ideas was a huge hurdle,”
+says Farah. John Chattaway, a biol-
+ogy student agrees: “we spent the
+first week just finding out about
+synthetic biology!” This is an obvi-
+ous problem for the team. In the
+US, where the study of synthetic
+biology began five years ago, many
+students are taught synthetic bio-
+logical principles in their lectures.
+US colleges choose their iGEM
+teams early in the year, giving
+these teams a running start when
+the competition begins. Will Impe-
+rial adopt a similar approach to this
+in future years? “That would be a
+good idea. A very good idea,” says
+Farah.
+But back to the oscillator. I ask
+the team to explain the potential
+applications of their system. “If we
+treat the oscillator as a clock we can
+control other things in the system;
+make sure things happen at peri-
+odic times,” Farah tells me. This
+conjures up images of a biological
+computer in my mind. Jiongjun Bai,
+an electronic engineering student,
+agrees:“thiscouldrevolutioniseour
+way of thinking about materials. So
+in future we won’t need transistors
+or semi-conductors; everything can
+be built from biological materials.”
+Not all of the iGEM teams have
+chosen this line of inquiry. “MIT
+have made some smelly bacteria,”
+says Farah. I’m not sure quite what
+to make of this, but the examples
+are coming too thick and fast to
+raise questions: “and Cambridge
+have made some bacteria that
+fight. The culture changes colour
+Imperial College wipes the floor
+as one population becomes domi-
+nant,” Farah continues. “It’s like a
+war game,” adds Jiongjun, “there
+are lots of innovative ideas. We are
+at the competition to impress.”
+But this is no ordinary compe-
+tition, I suggest. There is a sur-
+prising level of openness, with all
+teams providing regular progress
+updates on the Internet. “It’s all
+on our wiki,” Farah explains, “so
+other teams can look at it and use
+it to help with their own research.”
+“Yes, the competition promotes
+openness,” adds Christin, “so eve-
+ryone knows what’s going on. It’s
+not a strict competition.”
+A key feature of Synthetic Biol-
+ogy is its strong cross-discipline
+approach. The undergraduates on
+the iGEM team are drawn from
+electrical engineering, biomedical
+engineering, biology and biochem-
+istry. I wonder if it was easy to work
+together. “It’s been an experience,”
+says Farah diplomatically. They all
+agree with this. Christin explains
+why this approach is important:
+“the concepts people bring with
+them are different. And the way to
+approach a problem; that’s differ-
+ent too. But that’s the point. To try
+to gain the advantages of the differ-
+ent fields.” I probe deeper into the
+contrast between the engineering
+and biological approach. “We found
+that the engineers were thinking
+‘OK, this is what I want to build’, but
+the biologists were working at the
+DNA level, thinking ‘OK, but what
+have we actually got, and what can
+we do with it?’ They had limitations
+in mind whereas the engineers
+Get involved
+probably didn’t,” says Christin.
+These contrasting perspectives
+are evident during the interview;
+there are a number of disagree-
+ments about the answers to my
+questions, reflecting the different
+academic backgrounds on show.
+But it always remains very friendly,
+an amazing accomplishment con-
+sidering the team have been work-
+ing together intensively for several
+weeks. I ask if the experience has
+been worthwhile. “We learnt a lot,”
+says Christin, “not just about syn-
+thetic biology, but about general
+research.” My own undergrad sum-
+mers were spent earning much-
+needed cash to pay for University.
+Did the experience gained make up
+for this loss of earnings? “Oh, we did
+get paid,” John corrects me. “Yes,
+but it wasn’t proportional to the
+input though,” comments Farah.
+Truly, then, these undergrads have
+learnt some valuable lessons about
+the nature of scientific research.
+As Felix was going to press, we
+heard that the Imperial iGEM
+team had been named the over-
+all first runner-up at the competi-
+tion in Boston, beating many other
+well established teams along the
+way. They also won first prize in
+the Best Documentation and Best
+Measurement and Part Characteri-
+sation Categories. This is a fantas-
+tic achievement for the team, con-
+sidering that this is the first year
+they have taken part in the contest..
+Ninth university in the world? After
+this week’s iGEM competition, the
+other eight had better start watch-
+ing their backs.
+The victorious Imperial team: weighed down with certificates and trophies after entering the world’s first molecular oscillator into the iGEM competition
+Looking for something to do
+this summer? Want to get in-
+volved with the fastest growing
+new science since the dot-com
+revolution? Imperial College is
+now recruiting team members
+for its entry to the 2007 iGEM
+competition. Students from
+all disciplines will work on the
+project over the summer be-
+fore jetting off to present their
+work at the annual Jamboree
+at MIT in November.
+iGEM (international Geneti-
+cally Engineered Machine) is a
+competition set up to explore
+what it is that makes things
+alive – whether or not we can
+just break life up into a series
+of constituent components.
+Involving all disciplines
+from biology to engineering,
+it involves trying to ‘engineer’
+biological devices by using
+standardized parts called “Bi-
+oBricks”. New Biobricks are
+released every year as the sci-
+ence advances, so each year
+students are working on the
+cutting edge.
+Visit http://parts2.mit.edu/
+wiki/index.php/Imperial_Col-
+lege_2006 to read more about
+this year’s entry or send an
+email to igem.imperial2007@
+gmail.com for more informa-
+tion about this year’s entry.
+7
+felix
+Friday 10 November 2006
+SCIENCE science.felix@imperial.ac.uk
+Colin Barras
+

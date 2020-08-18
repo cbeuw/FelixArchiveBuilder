@@ -1,0 +1,304 @@
+Science science.felix@ic.ac.uk
+www.felixonline.co.uk
+Felix
+Thursday 14 October 2004 5
+Do you like sushi? Imperial
+College scientists have dis-
+covered that the puffer fish
+(‘fugu’), a Japanese delicacy
+known for its deadly after-
+taste, may be able to reduce
+the spreading of cancerous
+cells, otherwise known as
+metastasis.
+When metastasis occurs,
+treatment becomes difficult
+and so new ways to diag-
+nose the potential metastatic
+tumour and suppress it are
+needed. The puffer fish pro-
+duces a toxin called tetro-
+dotoxin (TTX), which can
+be deadly since it blocks the
+activity of certain ion chan-
+nels, normally found in nerve
+and muscle cell membranes.
+It is so deadly that only the
+most skilled (and licensed)
+Japanese chefs can prepare
+the dish.
+So why is this toxin impor-
+tant in cancer research? The
+Imperial group is a part of the
+Biological Sciences depart-
+ment. Led by Professor
+Mustafa Djamgoz, the team
+of PhD and post-doc scien-
+tists were the first to dis-
+cover that the ability of pros-
+tate and breast tumours to
+metastasise involved the
+expression of TTX-sensitive
+ion channels. In other words,
+they found that aggressive
+tumours seem to become
+excitable, rather like nerves
+and muscles. These were
+identified as voltage-gated
+sodium channels (VGSCs)
+and were expressed specifi-
+cally in prostate and breast
+cancer cells that had the abil-
+ity to metastasise.
+Prostate cancer affects
+50% of men by the age of 50.
+Treatment includes drastic
+surgery which can result in
+extreme functional problems.
+Breast cancer, although more
+easily detectable, affects one
+in nine women, both young
+and old. In many cases, the
+primary tumour is not the
+killer, so the ability to dis-
+tinguish early whether or
+not a tumour will metasta-
+sise would save many men
+and women from devastating
+surgery. The expression of
+VGSCs in prostate and breast
+cancer may be a novel way of
+detecting if the tumour will
+metastasise.
+Despite on-going phase II
+clinical trials of the use of
+TTX for treating pain and
+heroin addiction, the pros-
+pect of utilising TTX for pre-
+vention (or cure) of cancer
+metastasis remains difficult.
+In the meantime, recent
+advances by the Imperial
+group have been in the devel-
+opment of a novel antibody
+that exploits the fact that it
+is the embryonic form of the
+sodium channels that have
+an increased response dur-
+ing cancer progression. In
+breast cancer, this embryi-
+onic ion channel differs from
+the adult form by 7 amino
+acids and so would allow the
+antibody enough specificity
+to ‘lock’ onto and block the
+channel.
+In the same way that TTX
+blocked the channel and
+reduced metastatic behav-
+iour, it is hoped that the anti-
+body will do the same.
+Scott Fraser, a post-doc-
+toral scientist in the group,
+told Felix: “There is the pos-
+sibility that the antibody will
+be used for early and defini-
+tive diagnosis and therapy of
+breast cancer metastasis.”
+Headofthegroup,Professor
+Djamgoz, commented: “It’s a
+good old channel and it is a
+viable target for treatment of
+metastatic disease. The anti-
+body works as a ‘magic bul-
+let’ which can either deliver
+drugs directly to the tumour
+cell or itself become the chan-
+nel blocker.”
+However, it seems that uti-
+lising the same approach for
+the prostate cancer VGSC
+will be more difficult due to
+the channel sequence differ-
+ing by only one amino acid.
+Professor Djamgoz con-
+cluded by saying: “I am still
+(also) very optimistic for the
+use of natural toxins in the
+therapy of metastatic dis-
+ease. After all, botulinum
+toxin (“botox”) is equally
+lethal but works because it
+so specific and its dose and
+locality of application can be
+controlled”.
+The group’s research is
+well-funded by a number of
+organisations, including the
+Medical Research Council,
+Cancer Research UK, the
+Wellcome Trust and the
+BBSRC. A series of public
+relations exercises also led
+to the establishment of a
+registered charity (the Pro
+Cancer Research Fund, or
+PCRF) that supports the
+neuroscience approach to
+finding novel solutions to the
+most common cancers in the
+world. The charity also raises
+money by organising various
+social and sporting events
+through the PCRF Support
+Group and volunteers.
+l If you would like to
+know more about the
+research or support
+the PCRF, you can visit
+www.prostatecrf.org (or
+www.bio.ic.ac.uk/staff/
+mbad) or donate directly
+through www.justgiving.
+com
+Imperial innovation in cancer research
+Imperial College stands at the cutting edge of cancer research. This week Emma Williams
+investigates some recent innovations and talks to the scientists now in the front line
+Puffer fish produce terodotoxin (TTX), a neurotoxin which blocks ion channels associated,
+according to researchers, with the spreading (or ‘metastasis’) of cancer tumours
+“There is a
+possibility that the
+antibody will be
+used for early and
+definitive diagno-
+sis and therapy
+of breast cancer
+metastasis”
+By Kate Wighton
+Science Communication
+Still searching for drink-
+able decaffeinated coffee?
+Bacteria may be the answer.
+In a study to be published
+in the Journal of the America
+Chemical Society, scientists
+have claimed to have engi-
+neered bacteria to produce a
+molecule responsible for the
+breakdown of caffeine. This
+molecule could be introduced
+into coffee plants to create
+decaffeinated plants, result-
+ing in good-tasting, naturally
+decaffeinated coffee.
+In coffee plants, caffeine
+is produced very quickly but
+broken down very slowly,
+hence the high caffeine con-
+tent. This slow breakdown is
+due to a slow-acting decaf-
+feinating enzyme. The team
+at Emory University, Georgia
+engineered bacteria to pro-
+duce a faster version of this
+decaffeinating enzyme, which
+can then be reintroduced into
+coffee plants, enabling the
+plants to rapidly break down
+caffeine.
+Chemists Justin Gallivan
+and Shawn Desai, who are
+behind the work, essentially
+used bacteria as miniature
+chemical reactors.
+In this case, the bacteria
+were engineered to depend
+on theophylline, the prod-
+uct of caffeine breakdown.
+However, the bacteria would
+not make the theophylline
+molecules under normal con-
+ditions. This problem was
+overcome by making the bac-
+teria dependent upon theo-
+phylline for survival.
+To isolate the enzyme
+responsible for converting
+the caffeine to theophyl-
+line (the product of caffeine
+breakdown), DNA thought to
+code for the decaffeinating
+enzyme was then introduced
+into the bacteria.
+To ensure that the bacteria
+needed this enzyme for sur-
+vival, the chemists designed
+a ‘survival switch’. This
+switch recognised theophyl-
+line and turned on a protein
+that would give the bacte-
+ria antibiotic resistance.
+However, only caffeine was
+made available to the bac-
+teria. As Gallivan explained,
+“they now need the break-
+down product (theophylline)
+of the enzyme for survival,
+but they can’t do much with
+caffeine”.
+Henceexposingthebacteria
+to the antibiotic would force
+them to rely on the enzyme
+to perform the decaffeinating
+reaction, produce theophyl-
+line, and in turn switch on
+the antibiotic resistance and
+survive.
+“At the end of the day,
+we will know that all of the
+surviving bacteria have
+‘learned’ to break down caf-
+feine to theophylline, and
+thus contain the enzyme that
+we’re interested in,” says
+Gallivan.
+The fact that the bacteria
+now need theophylline for
+survival may increase the
+enzymes’ efficiency. “We hope
+to use this process, known
+as directed evolution, to help
+speed up the enzyme to break
+down coffee faster,” Gallivan
+says.
+The more efficient enzyme
+could then be introduced back
+into coffee plants, and voila:
+decaffeinated coffee straight
+from the plant.
+The research is still in its
+early stages. Interestingly,
+whether the alteration of the
+rate of caffeine breakdown
+would have any physiological
+effect on the plant was not
+mentioned.
+However, even if this work
+does lead to good decaffein-
+ated coffee, there is still an
+age-old question that this
+research cannot answer:
+what is the point in drinking
+coffee if you don’t get the caf-
+feine kick?
+l Further reading:
+www.emory.edu
+Directed bacterial evolution to help develop decaf coffee
+Decaf coffee: bacterial evolution could give it more flavour
+“At the end of the
+day, we will know
+that all of the sur-
+viving bacteria have
+‘learned’ to break
+down caffeine”
+

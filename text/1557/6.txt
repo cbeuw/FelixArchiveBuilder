@@ -1,0 +1,210 @@
+6 FRIDAY 25 OCT
+Editors: Philippa Skett,
+Keir Little, Fiona Hartley
+science.felix@imperial.ac.uk
+SCIENCE
+STEFAN SEIP (TWAN)
+Happy Felix Friday everybody. The week is nearly over and the weekend
+looms. My favourite weekend activity is of course catching up on all of the
+sleep that I feel like I missed over the week, so today’s page about slumber
+was particularly interesting for me to put together. I’m disappointed to
+ﬁnd that cheese keeps you awake rather than merely causing you to have
+vivid dreams though, since I’m partial to a slice or four of cheese on toast
+as a midnight snack.
+But before we get distracted by the fascinating question of whether
+eating Cheddar before bed makes you have nightmares, and the self-
+experimentation that is bound to follow, let me talk about the waking
+world. It must have seemed like a very bad dream to the US researchers
+who were unable to continue their work throughout the duration of the
+US government shutdown. Fortunately they are now able to get back into
+their labs and begin the arduous process of getting back to normal, but for
+many the consequences of those empty days won’t be apparent until later.
+In more local news, citizen science is back in the spotlight, because the
+conclusions from the BBC’s Stress Test have been released. You might
+remember having taken the online test back in 2011. The BBC surveyed
+over thirty thousand individuals with the test, and Professor Peter
+Kinderman from the University of Liverpool published the ﬁndings from
+the data collected in PLOS One (doi:10.1371/journal.pone.0076564).
+It doesn’t come as a surprise to me that brooding is such a huge predictor
+of common mental health issues suﬀered by the British public, such as
+anxiety and depression. My own experiences certainly compel me to
+agree. And it turns out that rumination – thinking too much – can be
+even more harmful than blaming oneself for negative events that happen
+in life.
+Dr Ellie Pontin, a clinical psychologist also involved in the study, believes
+there is a good message to be taken home from the results. Knowing
+that your problems are not just down to factors you can’t alter is quite a
+hopeful thought. Yes, it’s hard to change or be told that you should change
+for your own beneﬁt, but at least you’re not doomed. It’s the message I’ll
+be musing on if I ﬁnd myself thinking unhealthily.
+T
+he 16 day US government
+shut-down ended last
+week with an uneasy truce.
+Obama’s refusal to accept
+the House Republican’s
+condition of delaying Obamacare led
+to the closure of many federal science
+institutions, painfully elucidating
+the instability of government funded
+science in America.
+The full eﬀects of the shutdown on
+the scientiﬁc community will perhaps
+never be known. The tangential
+investigations and light-bulb
+moments of inspiration that bring
+break-throughs require momentum,
+and that has been lost. Overcoming
+the inertia post shut-down will be
+a long and diﬃcult process. But the
+immediate impacts are obvious. Basic
+lab operations in cancer research and
+HIV were stopped and clinical trials
+could not be initiated. The National
+Institute of Health (NIH) were forced
+to turn away around 200 patients a
+week awaiting treatment, roughly 30
+of whom were children. For those with
+degenerative illnesses this delay could
+cause irreparable damage. Specially
+bred lab mice at the NIH needing
+constant monitoring have died; these
+unique strains will be expensive and
+time-consuming to restart. NASA
+could not undertake vital checks on
+the new James Webb Space Telescope
+which is set to replace Hubble, some
+of which may never be completed
+before launch. An environmental
+programme in the Antarctic has
+Scientists go back to work
+Jamie Rickman on the impact of the US shutdown
+missed a crucial research window; it’ll
+have to wait another year.
+Scientiﬁc research is never immune
+to ill circumstance; faulty equipment
+and bad conditions can similarly
+disrupt progress, so one should
+perhaps be wary of sensationalising
+the lasting eﬀects of this moratorium.
+But there is something deeply
+unsettling in the balance of power
+between scientists in the US and the
+government who sign their checks.
+75% of NIH employers were
+sent home, or furloughed, with no
+guarantee of back pay. A source
+inside the NIH, warned against
+speaking to the press, lamented the
+demoralisation this caused in her lab
+for those deemed ‘inessential’. For the
+majority of workers on low pay and
+10-12 hour days this kind of ﬁnancial
+insecurity and lack of recognition is
+untenable, forcing them to consider
+ﬁnding work elsewhere. She explained
+that her biggest frustration was that
+she would rather have gone to work
+without pay and continue research
+than let her mice die. During the
+1995 shutdown this was allowed,
+while last week it was illegal to check
+work emails let alone enter a lab. This
+strange and obtuse piece of legislation
+not only expresses a ﬂagrant
+disregard for the value of science but
+a fundamental misunderstanding
+of the way it operates. When it did
+enter the debate in Congress, the only
+arguments that stood ground against
+the tide of republican indiﬀerence
+reduced science to a political asset;
+the lost time could mean the US
+losing its competitive edge over
+China for example. In this landscape
+of brinkmanship politics more
+shut-downs are expected, and the
+damaging eﬀects will be cumulative.
+Some would say the future of federally
+funded science in the US looks bleak.
+T
+he most distant example of
+a gravitational lens has been
+discovered by scientists in
+Germany. The large galaxy,
+9.4 billion light years away
+from us, focuses light towards the
+earth, like a sort of cosmic telescope,
+enabling us to detect another smaller,
+more distant galaxy that would
+normally be too dim for us to pick
+up. But the unexpected discovery of
+this smaller galaxy has puzzled the
+astronomers behind the research,
+at the Max Planck Institute for
+Astronomy in Heidelberg.
+Gravitational lenses are a
+phenomenon predicted by Albert
+Einstein’s general theory of relativity,
+which describes the way massive
+objects change the shape of space and
+time. When diﬀuse light from a far
+away galaxy passes close to a large
+object,thiscurvedspacetimecausesits
+path to be bent, or lensed, and focused
+onto a narrow path. Measurements of
+the extent of this lensing can be used
+to estimate the object’s mass, as the
+heavier it is, the greater the eﬀect it
+will have on nearby spacetime.
+Using data from the Large Binocular
+Telescope in Arizona, and the Hubble
+space telescope, the astronomers at
+the Max Planck Institute have broken
+a 30 year record by discovering a
+gravitational lens more than a billion
+Most distant gravitational lens yet discovered
+light years further away than the
+most distant one previously known.
+Through careful measurements, they
+have estimated its mass at 8 x 1010
+times the mass of our sun. This is an
+important ﬁnding, as it enables them
+to verify the more usual techniques
+used to weigh very distant galaxies,
+which are based on extrapolations
+from nearer examples that we know
+more about.
+The images from Hubble showed
+ETHAN GOOD
+James Bezer
+Science Writer
+Amundsen-Scott south pole station, now under “caretaker status”
+light from an even more distant
+galaxy forming a full circle, called an
+Einstein ring, around the nearer one
+that caused the lensing. This is a sign
+of very precise alignment between the
+two galaxies and the earth, which is
+very unusual. The more distant dwarf
+galaxy, just a few tens of millions of
+years old, and around 108 times the
+mass of the sun, is a type that’s thought
+to be very rare. Such a perfect example
+of gravitational lensing involving one
+should, therefore, be extremely rare.
+Yet this is the second discovery in
+recent years. It is as yet unknown
+as to whether this is due to chance,
+or if these galaxies are actually more
+common than our current theories
+would suggest. According to Arjen
+van de Wel, head of the group, these
+surprising observations “have the
+potential to start a new chapter in our
+description of galaxy evolution in the
+early universe.”
+NASA / ESA / A. VAN DER WEL. The Large Binocular Telescope, one of the worldʼs most advanced, saw ﬁrst light in 2005
+Fiona’s science corner
+Fiona Hartley Science Editor
+

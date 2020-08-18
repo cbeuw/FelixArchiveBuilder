@@ -1,0 +1,283 @@
+sudoku.felix@imperial.ac.uk Fun & Games
+The winner of Slitherlink 1,404 was
+Hringur Gretarsson yet again! Awe-
+some cheesecake with redcurrent
+puree and a cinnamon biscuit base.
+We’ll give a prize out in the summer.
+The more entries, the better your
+chances.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+Slitherlink 1,405
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,404 solution
+3
+0
+x
+x
+x
+x
+2
+2
+2
+1
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“ [continued from last week] “5
+minutes remaining,
+” I’m fucked,
+this is crazy... What the fuck is
+wrong with me? “Finish writing
+please,
+” That’s it, all over... Bye-bye
+2:2, Bye-bye masters... 32 marks
+not answered, out of 60, thas 36%
+max... Maybe even a 3rd, a pass,
+fuck! So much for 90%... I ain’t
+ever felt that blank before, I got a
+problem for sure... However hard
+i work, However much i believe...
+However much i prepare, Its da
+same old shit... Fuck this, bitch,
+Studyings not for me... Fuck this
+place, Fuck Imperial BSc... “Nerves
+got the better of me,
+” Not much on
+a C.V... This is the bane of my exist-
+ence, Soul-killer, that’s I.C.
+Peace”
+Wordoku 1,405
+H
+F
+T
+S
+E
+M
+I
+K
+A
+M
+K
+S
+T
+I
+A
+F
+E
+H
+E
+I
+A
+H
+F
+K
+T
+S
+M
+S
+A
+M
+I
+K
+E
+H
+F
+T
+F
+H
+K
+M
+T
+S
+E
+A
+I
+I
+T
+E
+F
+A
+H
+K
+M
+S
+A
+S
+F
+K
+H
+I
+M
+T
+E
+T
+E
+I
+A
+M
+F
+S
+H
+K
+K
+M
+H
+E
+S
+T
+A
+I
+F
+1,404 Solution
+B
+A
+Y
+I
+N
+T
+Y
+Y
+L
+R
+B
+N
+B
+A
+T
+H
+R
+T
+L
+T
+A
+B
+N
+Y
+R
+B
+B
+N
+L
+H
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters. Once you’ve completed
+the puzzle, there is a hidden word
+to find. Email answers to sudoku.
+felix@imperial.ac.uk.
+The winner of Wordoku
+1,404 was Louis Tsang.
+Congratulations! The hidden
+word was: MAKESHIFT. Keep
+those entries coming in.
+2 3
+0
+2 2
+0 3
+1
+2
+3
+2
+3
+2
+2 3
+1 2
+1
+1
+3 1
+3
+3
+0
+2
+2
+3
+3 2 2
+2
+25
+Friday 30 May 2008 felix
+www.tevong.co.uk
+Adlib by Tevong You
+3
+3
+3
+3
+1
+2
+2
+2
+2
+2
+3 2
+2
+3
+2
+2
+3
+2
+3
+2
+0
+2
+2
+2
+2
+1
+1 2
+2
+2
+2
+2
+2
+3 3
+2
+3
+3
+3
+1
+2 1 3
+3 2
+2 1
+3
+2
+2
+

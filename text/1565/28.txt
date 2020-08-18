@@ -1,0 +1,78 @@
+29
+FRIDAY 17 JAN
+PUZZLES
+Puzzles Commanders:
+Kingshuk Dasadhikari,
+Oliver Price
+puzzles.felix@imperial.ac.uk
+Crossword
+Sudoku
+Each row, column, and 3 x 3 box must contain all the numbers from 1
+to 9. That’s all. Enjoy...
+FUCWIT League
+nickwp		 40
+Jia Choo 36.5
+Adam Stewart 18.5
+Yufan Zhao 17
+Juliette Chupin 8.5
+Harder:
+Killer:
+Across
+1. Star death (9)
+5. River / Machinery part (3)
+7. Perform (fatally) (7)
+9. Hard work / Transplant (5)
+10. Diluted (7)
+11. Unresolved state (5)
+12. State of holy rule (9)
+14. Perennial bulbous plant (5)
+17. Covered (7)
+19. Carpentry tool (5)
+20. Closing play (7)
+21. Name at birth (3)
+22. Kind of Steel (9)
+Down
+2. Forecast (7)
+3. Capital of Normandy (5)
+4. Supernatural being / Tube station (5)
+5. Fissure (5)
+6. Small space rock (9)
+8. Pertaining to hormones (9)
+10. Ironman Competition (9)
+13. Distance, in Imperial (7)
+15. Slightly more than a quart (5)
+16. The media (inked) (5)
+18. Lebanese city (5)
+Crossword Clues
+Nonogram
+The lengths of runs of shaded squares in each row and
+each column are given. Squares can only be shaded or
+unshaded. Solve the puzzle to unveil a pretty picture.
+No clues! Instead, the numbers in each cage must add up to the
+number in the top left. Numbers cannot be repeated in a cage. Tips:
+The numbers in each box, row and column must add up to 45. Look for
+cages with only one possible combination e.g. a two wide cage total
+3 must contain 1 and 2 .
+Last Term’s Solutions
+Helix		 8
+Gabriel Quek 7
+Emma and Ben 6
+WJ		 3
+Guess the
+Stop
+The British rail network runs far and
+wide. The name of a line is scrambled
+in the following anagram, and the
+name of a stop on that line, with the
+given number of letters is encoded
+by the sum of the letters, where A=1,
+B=2... Z=26, <Space/Punctuation>=0.
+Find the line and stop. Note that
+London Underground lines may also be
+possible answers.
+Anagram:
+am the kilns
+Stop:
+10 letters, Sum: 106
+Milder:
+

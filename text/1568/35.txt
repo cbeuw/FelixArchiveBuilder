@@ -1,0 +1,218 @@
+36 FRIDAY 14 FEB
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+Find the egg-laying chicken
+ME: Introduce yourself:
+MR: My name is Michael Rolph, I
+am the co-founder of Yoyo which
+has launched very recently here at
+Imperial.
+ME: What is the history of Yoyo,
+how did you guys start out?
+MR: I’ve got a personal background
+which is very much from the payment
+space. Ex-Barclaycard Business, First
+Data, Paypal and I’ve spent the last
+three or so years prior to Yoyo both as
+an investor and advisor in the inancial
+technology space, speciically helping
+large corporations think about how
+they innovate in payments. I’ve been
+quite privileged to see a lot of what
+goes on out there. My two co-founders
+are equally serial entrepreneurs:
+Alain Falys was the founder of OB10
+and Dave Nicholson founded Zopa,
+and both of them were talking about
+mobile payments. I’ve been from the
+space and every day I heard for the
+last 15 years or so about how mobile
+is going to be the future of payments.
+he reality is that this time last year,
+when the three of us got together,
+the conclusion was that there was
+nothing out there. here is a lot of
+talk about people like Google, Paypal
+and whoever else, but you realise that
+there is nothing there. here’s lots of
+startups that have tried to do mobile
+payments but nothing has stuck.
+So the conclusion we got to was
+the that the only thing that looked
+interesting was Starbucks app. 13% of
+all their sales in the US and UK come
+from mobile devices. It was the one
+shining light, so we looked at their
+app in quite a bit of detail, as much
+as we could and we came to a few
+conclusions. Firstly, it was not built
+for purpose, it was just an extension
+of their pre-paid program. he other
+part of it was, actually, it got pretty
+bad pretty quickly. You get the instant
+stamp, but if you get enough stamps
+to get a reward, they send you the
+reward as a paper voucher to your
+home address. hat is just insane.
+hen when it comes to ofers, there
+is no context, there is no relevance to
+the ofer they are sending you based
+on what you like and what you buy. So
+we quickly said, it’s really interesting,
+it works, it’s adding some value but
+there is a lot that could be better. Our
+starting point then became: Starbucks
+but better. So that’s how we came
+about.
+ME: I know you have a link with
+Imperial Innovations, how did that
+start/work out?
+MR: Alain [Falys] was actually
+a Venture Partner at Imperial
+Innovations and when we all three
+came together it felt quite natural that
+we should meet there. Innovations
+have been very early supporters of us
+as a team. We were unique and quite
+diferent from a lot of people who had
+tried this before and failed, because
+we were from the space and we are
+not a traditional set of entrepreneurs,
+as we are not irst time entrepreneurs.
+We also had good connections in the
+retail space and we had a good view
+of it. So they supported us early on to
+make it [Yoyo] our full time job, as it
+were. So since September last year, all
+three of us have been really focused on
+Yoyo.
+ME: So, I am also quite aware that
+you are active in other universities,
+why target universities and
+students?
+MR: Launching something that
+changes, or gives someone the ability
+to change their behaviour, as mobile
+does, is not easy because you’ve got
+a two-headed beast to tackle. You’ve
+got to get the consumers, the users, as
+well as the retailer. he whole industry
+talks about this chicken and egg
+situation, but in my mind if you’ve ind
+the thing that looks like the chicken
+that laid the irst egg that then became
+the chicken, then its a pretty obvious
+point that you can do something with
+it. So we started of at universities,
+just as it worked for Facebook. What
+we are building here is a consumer
+network, and from that perspective,
+you need to get your critical mass
+pretty quickly, get some momentum.
+Equally you need to solve a problem,
+and when you think about what
+we’ve really done, even if we forget
+what Yoyo is going to do in the retail
+space, there are some real annoyances
+around paying and loyalty aspects in
+any closed campus environment that
+we addressed. Most would say, either
+you have to pay by cash or you’ve
+got to use some kind of closed-loop
+prepaid card, which you have to top
+up, and that can become quite a pain.
+So although payment isn’t
+broken, there are a number of small
+annoyances like queueing for an ATM,
+having to deal with change, having to
+wait in a queue whilst someone mucks
+around with getting the right change
+or dropping their money, whatever it
+may be, that if you eliminate would
+make everything much easier and
+we’ve done that in a very simple way.
+ME: Now, more specific to Imperial,
+at the moment you are linked to
+Taste Imperial, are you planning to
+branch out to the Union?
+MR: We are currently integrating
+into the Union, and at some point in
+February we expect to be there. We
+are actually testing today. We expect
+tobe up and running within fourteen
+days or so.
+ME: At the moment it is only
+with Taste Imperial (food related
+establishments) are you planning
+anything with the gifts shop at
+Imperial for example?
+MR: he only thing that currently isn’t
+able to accept Yoyo, or going to accept
+Yoyo within February are the shops,
+but we will bring the shops on board
+as well.
+ME: In terms of features, is there
+anything that you are planning to
+release?
+MR: he next release will include
+things like PIN-entry for access to the
+app, it will include automated top-up,
+and a whole bunch of things around
+the rewards, sort of Yoyo speciic
+rewards but actually what we’ve got
+here is the irst release, so we are
+actually building version 2, that will
+bring in things like being able to share
+rewards with friends for example.
+ME: Currently you are only on
+Android and iOS, are you planning
+anything Windows?
+MR: We will do a Windows
+application, probably towards the
+end of this year. We built something
+for Apple and Android, not because
+it’s not necessarily easier, but because
+that’s 95% of the market. However
+universities are actually one of the
+only areas where Windows has a
+proportionately higher share, so it is
+deinitely on our list of things to do.
+ME: Also you work with QR codes
+right now, what about NFC?
+MR: he reason we work with QR
+codes, is because it is the easiest thing
+for a retailer. It works with all their
+existing hardware, the only thing we
+have to help them with is the scanners,
+but that’s relatively easy. As for NFC,
+we are not adverse to it, we are actually
+technology agnostic at the front end,
+so if NFC did become the norm, then
+absolutely we would make it part of
+the every-day experience of Yoyo.
+ME: Do you see contactless cards as
+a competitor to Yoyo?
+MR: No. A lot of people have issues
+Max Eggl talks to one of the Yoyo founders Michael Rolph,
+on the merits of mobile and future plans of Yoyo at Imperial
+The whole industry
+talks about this
+chicken and egg
+situation, but in my
+mind if you’ve find
+the thing that looks
+like the chicken that
+laid the first egg
+that then became
+the chicken, then
+its a pretty obvious
+point that you can do
+something with it.
+“
+”
+left to Right: Maximilian Eggl, Michael Rolph MAxIMILIAN EGGL
+

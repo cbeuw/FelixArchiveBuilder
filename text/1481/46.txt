@@ -1,0 +1,226 @@
+SPORT
+46 felix
+Friday 04 february 2011
+sport.felix@imperial.ac.uk
+Sports Editors: Jovan Nedic
+David Wilson
+Felix Sports League
+sponsored by
+Team P W D L F A Diff Index
+1 Fencing W1 7 7 0 0 940 497 443 5.00
+2 Fencing M1 8 8 0 0 960 757 203 5.00
+3 Basketball M1 7 7 0 0 529 391 138 5.00
+4 Table Tennis M2 5 5 0 0 77 8 69 5.00
+5 Water Polo W1 5 4 1 0 72 12 60 4.40
+6 Volleyball M1 10 9 0 1 19 4 15 4.10
+7 Volleyball W1 10 9 0 1 18 4 14 4.10
+8 Tennis M1 10 8 1 1 76 44 32 3.80
+9 Lacrosse W1 7 6 0 1 103 27 76 3.71
+10 Table Tennis M1 6 5 0 1 70 32 38 3.50
+11 ICSM Netball W1 10 8 0 2 399 269 130 3.20
+12 Basketball W1 5 4 0 1 229 178 51 3.20
+13 Squash W1 10 8 0 2 31 8 23 3.20
+14 Table Tennis W1 5 4 0 1 20 5 15 3.20
+15 Hockey W1 9 7 0 2 53 16 37 3.00
+16 Lacrosse M1 8 6 0 2 117 74 43 2.75
+17 Netball W1 10 7 0 3 425 288 137 2.30
+18 Rugby M1 10 7 0 3 217 143 74 2.30
+19 ICSM Football M1 7 4 1 2 23 14 9 2.00
+20 Hockey M1 7 4 1 2 22 17 5 2.00
+21 ICSM Hockey W1 16 9 2 5 48 38 10 1.81
+22 Badminton M1 10 4 3 3 44 36 8 1.40
+23 Tennis W1 5 3 0 2 30 30 0 1.40
+24 ICSM Hockey M3 5 3 0 2 9 18 -9 1.40
+25 Hockey M2 9 4 2 3 16 23 -7 1.33
+26 ICSM Rugby M3 7 4 0 3 146 202 -56 1.14
+27 Football M1 10 5 1 4 27 17 10 1.10
+28 Badminton W1 10 5 1 4 34 46 -12 1.10
+29 Fencing M2 9 5 0 4 1017 994 23 1.00
+30 Hockey M3 6 2 2 2 6 5 1 1.00
+31 ICSM Badminton W1 6 2 2 2 27 27 0 1.00
+32 Netball W3 6 3 0 3 181 162 19 0.50
+33 ICSM Football M2 4 2 0 2 14 13 1 0.50
+34 Netball W2 8 4 0 4 295 333 -38 0.50
+35 ICSM Badminton M1 8 3 1 4 24 40 -16 0.13
+36 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+37 ICSM Football M3 0 0 0 0 0 0 0 0.00
+38 Lacrosse W2 0 0 0 0 0 0 0 0.00
+39 ICSM Netball W2 9 4 0 5 282 298 -16 0.00
+40 Fencing W2 9 4 0 5 1026 1051 -25 0.00
+41 ICSM Hockey M1 7 3 0 4 13 14 -1 -0.14
+42 ICSM Hockey M2 8 2 2 4 12 24 -12 -0.25
+43 Football W1 5 2 0 3 11 15 -4 -0.40
+44 Badminton M2 8 3 0 5 33 31 2 -0.63
+45 Football M2 9 4 0 7 12 27 -15 -0.89
+46 Water Polo M1 2 0 1 1 13 18 -5 -1.00
+47 ICSM Hockey W3 3 1 0 2 3 13 -10 -1.00
+48 ICSM Rugby M1 9 2 1 6 144 279 -135 -1.33
+49 Squash M3 7 2 0 5 10 23 -13 -1.43
+50 Fencing M3 7 2 0 5 755 843 -88 -1.43
+51 ICSM Rugby M2 10 2 1 7 172 344 -172 -1.60
+52 Squash M4 4 1 0 3 5 7 -2 -1.75
+53 ICSM Hockey W2 8 2 0 6 20 39 -19 -1.75
+54 Hockey W2 8 2 0 6 10 32 -22 -1.75
+55 Rugby M3 8 2 0 6 66 281 -215 -1.75
+56 ICSM Badminton M2 5 1 0 4 14 26 -12 -2.20
+57 Hockey M4 6 1 0 5 7 17 -10 -2.50
+58 Rugby M2 12 2 0 10 168 320 -152 -2.50
+59 Football M3 7 1 0 6 13 24 -11 -2.71
+60 Rugby M4 7 1 0 6 49 295 -246 -2.71
+61 Tennis M2 6 0 1 5 14 57 -43 -3.00
+62 Squash M2 10 1 0 9 11 39 -28 -3.10
+63 Squash M1 6 0 0 6 4 26 -22 -4.00
+64 ICSM Netball W3 7 0 0 7 134 257 -123 -4.00
+5
+52 Squash M4 0 3 5 1.75
+5
+53 ICSM Hockey W2 8 2 0 6 20 39 -19 -1.75
+5
+54 Hockey W2 8 0 6 10 32 1.75
+5
+55 Rugby M3 8 2 0 6 66 281 -215 -1.75
+5
+56 ICSM Badminton M2 5 0 26 2.20
+5
+57 Hockey M4 6 1 0 5 7 17 -10 -2.50
+5
+58 Rugby M2 0 10 168 320 152 2.50
+5
+59 Football M3 7 1 0 6 13 24 -11 -2.71
+6
+60 Rugby M4 0 6 49 295 246
+6
+61 Tennis M2 6 0 1 5 14 57 -43 -3.00
+6
+62 Squash M2 10 0 9 39 28 3.10
+6
+63 Squash M1 6 0 0 6 4 26 -22 -4.00
+Ice Hockey: Devils’ rookies
+fall to mighty the Spitfires
+Imperial’s beginner ice-hockey team made a
+valiant effort last Wednesday night, in their first
+game of the season / ever for some. Most hav-
+ing started ice hockey last October, a few with
+no skating experience at all. Coach/Charitable
+Imperial Alumni Dave Coolegem soon instilled
+in them the essentials of ice hockey and sowed
+the seeds for success. The B-team is in its third
+year, playing in Division 3 of the British Uni-
+versities Ice Hockey Association and has com-
+petitors in all the top universities of the UK,
+including Oxford for the first time this year.
+The opposition, Southampton Spitfires, are a
+one year veteran team with a crop of good play-
+ers, the result of having no team in the division
+immediately above. They also had one win un-
+der their belts, a convincing 13-5 match against
+Bristol Lions. Their number 42 was clearly the
+star player, credited with 7 goals alone he was
+the man to mark.
+Despite the impressive results the Devils’
+were not intimidated and played well, often
+outnumbered in the neutral and offensive zones.
+As our first match of the season, against a tough
+opponent the aim was to play defensively and
+this was achieved very well. The first period
+was a time for learning our enemy, we held out
+for 6 minutes until their second line had had a
+chance to size up our team and seized the initia-
+tive with an unassisted goal from 62. The Dev-
+ils’ regrouped but conceded again 5 minutes
+later as the result of some close-combat around
+the net, scored by 69, assisted by 42. The game
+returned to an even balance, with some good
+runs into the offensive zone but sadly the for-
+wards couldn’t convert these opportunities into
+goals. The period ended with a final goal from
+42, assisted by 69.
+The Devils’ defence had played consistently
+– chasing down break-outs and preventing open
+shots on goal, but once the play had opened up
+the teamwork broke down and men were going
+unmarked. The first intermission was the per-
+fect time to remedy this, with insightful words
+from Coach Coolegem and an urging to shoot
+on their goal much more often. The second pe-
+riod went much better, with good coordination
+established between D(efence) and more ag-
+gressive play in the offensive zone. Fundamen-
+tals were remembered with good play being set
+up and fewer risks taken. The mid-point of the
+period was marked by Devils’ Centre Eugene
+Lau being called for Boarding (checking an op-
+ponent into the boards head first) and spending
+two minutes in the sin bin. The Power Kill was
+handled calmly, with all four players on the ice
+working hard to clear the puck and close down
+the shooting lanes. The return to even teams
+saw more possession by the Devils’, special
+mention going to Defender Matt Nolan for
+some inspired runs into the offensive zone but
+sadly no goals.
+By the third period both teams were waning
+somewhat. The Spitfires were determined to
+increase their lead, but the Devils’ hadn’t lost
+all their fight. More spirited attempts to score
+were lead by Rob Barakat and Sofie Liljegren
+in particular. Two more goals were conceded
+around ten minutes in, but the play returned to
+stalemate leaving the end score a reasonable
+5-0 win for the Spitfires. Having come away
+worse in the past, veteran players pointed out
+this was largely damage limitation and there
+would be plenty of opportunities for convinc-
+ing wins in the remainder of the term. The
+Devils B-Team are already looking forwards to
+their next match on Saturday against Oxford-
+Womens’ at the Oxford Ice Rink.
+Stefan Bauer
+Ice Hockey
+Men’s 2nd 0 - 5 Southampton 2nd
+Handballers win
+Southern University
+tournament
+...Continued from Back Page
+a goal offering 6m² of target area is too small
+and wasted potentially decisive counter attacks,
+granting Imperial a close victory.
+With no time to analyse the mistakes made
+in the second game, IC was scheduled to face
+Cranefields University from what they call
+“buzzing Milton Keynes” on their Universi-
+ties website in the next fixture. Since the newly
+founded UKI women’s Handball team was only
+narrowly defeated by our opponents women’s
+team in their first ever matches, there was more
+than enough motivation to do well against this
+unfamiliar opponent. Despite trailing by 2 goals
+for a short period of time, the Eagles managed to
+get back into the game and secured a close vic-
+tory in a game that should have been a one-sided
+affair in favour of Imperial.
+After a long but productive break, the Imperial
+Eagles had to face their arch enemy UCL, who
+had not dropped a point in the tournament either
+at that stage, in the last game of the day. With
+everyone fully aware of the tension between the
+local rivals, it was certain to be a worthy and
+eventful final for this new competition. Regard-
+less of the poor performance in the previous
+games, Imperial was on top of their game from
+the first minute and established a 2-goal lead in
+the crucial stages of the game. In the last min-
+utes, the UCL left-back challenged the Eagles’
+goalkeeper, who finally managed to find his
+form when it mattered the most, for a loose ball,
+which resulted in the Imperial number one chip-
+ping 3 teeth. Entirely unimpressed by the loss
+of enamel, the Imperial Eagles managed to hold
+off their rivals desperate attempts to score a last
+minute goal and secured their title in style.
+It was a truly memorable day that accurately
+displayed Imperials superiority on the court,
+but leaves questions as to whether the team has
+enough consistency to win the draining tourna-
+ments in Nottingham and Lyon.
+

@@ -1,0 +1,217 @@
+New drug could hold the key
+to pancreatic cancer
+The thunder god vine, or Lei Gong
+Teng, is a herb used in traditional
+Chinese medicine and believed by
+some to be of use in a variety of ail-
+ments from arthritis to kidney dis-
+ease. The plant contains multiple ac-
+tive compounds, and one of the most
+promising of these is triptolide, pre-
+viously shown to have potential as a
+drug for treating various cancers, in-
+cluding pancreatic cancers.
+The 5-year survival rate for pan-
+creatic cancer is only 5%, and in con-
+trast to the advances made in treat-
+ing other cancers in recent years, this
+rate has not improved signiﬁcantly
+over the last 30 years. Attempts to
+develop new chemotherapeutic drugs
+have had little impact, at best adding
+only a few months or even weeks to
+life expectancy.
+However despite its potent anti-
+cancer properties, which can be
+readily demonstrated in the lab,
+triptolide has proved to be of lim-
+ited use as a drug. This is primarily
+because it does not dissolve well in
+water, one of the essential ‘drug-
+like properties’. Research published
+in Science Translational Medicine
+this month (http://stm.sciencemag.
+org/content/4/156/156ra139.full),
+however, presents a way around this
+problem. Researchers based at the
+University of Minnesota developed
+Minnelide, a modiﬁed synthetic ver-
+sion of triptolide. The modiﬁcations
+inhibit the activity of the drug, but
+they also make it water-soluble. This
+allows Minnelide to be administered
+and absorbed, and once it reaches its
+target, enzymes naturally occurring
+in the body’s tissues convert it back
+to its original form, allowing it to get
+to work.
+Minnelide was tested extensively
+here, both in vitro with cultures of
+cancer cell lines, and in mouse mod-
+els with xenografted human pancre-
+atic tumours. In all tests it performed
+as well or better than gemcitabine,
+the current standard of care for
+chemotherapy in pancreatic cancer,
+and in fact worked in some scenarios
+where gemcitabine is completely in-
+eﬀective.
+Minnelide is as yet in the early stag-
+Sarah Byrne Writer
+t is, by now, almost common
+knowledge that changes in
+water temperatures will af-
+fect the biodiversity of marine
+life. Less research has been in-
+vested into the topic of how individu-
+als and populations of surviving spe-
+cies will change in response to such
+developments. A model devised by a
+collaboration of scientists attempts to
+answer this question.
+The size of a ﬁsh is aﬀected by a great
+range of factors, but mostly its envi-
+ronment’s water temperature, oxygen
+concentration, and nutrient availabil-
+ity. Changing climates will aﬀect the
+oxygen concentration in Earth’s water
+bodies (in part due to the fact that
+gaseous oxygen is less soluble in water
+at higher temperatures), which can be
+expected to have a direct eﬀect on ﬁsh
+populations because oxygen is a key
+ingredient for body growth.
+The scientists modelled the eﬀect
+of changing oxygen concentrations
+on diﬀerent stages of a ﬁsh’s life cycle
+and the consequent changes in their
+populations. After testing this model
+by simulating historical changes and
+ﬁnding a strong correlation (P < 0.01)
+with observed data, they then extrap-
+olated forwards by a few decades to
+predict what may happen to the glob-
+al ﬁsh populations by 2050, should
+climate trends continue, using a “high
+irradiation” model.
+The outcome is worrying; on aver-
+age between more than 600 modelled
+species, the maximum body mass
+could decrease by 14-24% – despite
+water temperatures being predicted
+to increase by less than 0.05°C per
+decade. Approximately one half of
+this eﬀect is due to changes in distri-
+bution and abundance (i.e. there are
+fewer ﬁsh, particularly fewer adult
+ones), the other due to changes in
+physiology (each ﬁsh is smaller). The
+eﬀect is particularly marked in tropi-
+cal regions.
+The model is, of course, limited
+by necessary simpliﬁcations and as-
+sumptions. The scientists attempted
+to reduce the uncertainty carried over
+from the used predictions of climate
+developments over the next years by
+using two diﬀerent earth system mod-
+els and ﬁnding areas of agreement be-
+tween the two results.
+DOI: 10.1038/nclimate1691
+Writer
+es of testing; the road from drug dis-
+covery to general therapeutic use is
+a long one, and the process may take
+several years. The ﬁrst studies in hu-
+man subjects are expected to start in
+December of this year. These will be
+Phase 1 trials, which usually involve
+testing in small groups of healthy vol-
+unteers, to establish safe dosages and
+measure side-eﬀects. Only when the
+drug reaches the stage of randomised
+controlled trials in which its eﬀec-
+tiveness is compared with existing
+treatments, will it be clear whether
+Minnelide can really live up to its
+promising beginnings.
+The shrinking of the fish
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 26 OCTOBER
+16
+I
+Annina Sartor
+Improvements in carbon dating
+A new study of sediment cores from
+Lake Suigetsu, Japan, has the poten-
+tial to improve the accuracy of the
+radiocarbon dating techniques used
+widely by archaeologists and climate
+scientists.
+Radiocarbon (14C) has a known
+half-life of ~5,700 years and is ab-
+sorbed equally by organic processes.
+Scientists can then ﬁnd the age of
+such objects by seeing how the ratio
+of radiogenic to non-radiogenic car-
+bon (12C) has changed. However this
+can only be found accurately if the
+original, atmospheric ratio of carbon
+is known.
+This can be measured directly from
+tree-rings up to ~12,500 years ago.
+Beyond this point are other climate
+proxies such as ice cores, marine
+sediments and speleothems (cave
+deposits) but these require assump-
+tions about the reaction of ocean or
+groundwater carbon to atmospheric
+changes or local climate conditions.
+At Lake Suigetsu the accumulation
+of a ﬁne layer of seasonal algae allows
+researchers to count back the years
+of each layer, called varves, just like
+a tree ring. Radiocarbon from mi-
+croscopic plant fragments was then
+Matthew Parker Writer measured to ﬁnd the analogous at-
+mospheric radiocarbon at the time
+each varve was deposited. With the
+new sediment cores, researchers now
+have a complete terrestrial record
+dating back up to ~52,000 years.
+A ‘control period’ of the ﬁrst 12,000
+years was anchored against the
+known tree-ring record. The Suigetsu
+data was then compared to two spe-
+leothem sets (dated using U-Th de-
+cay) and was found to lie within the
+deviation expected of the two diﬀer-
+ent time scales. The potential of sedi-
+ment cores at Lake Suigetsu for dat-
+ing was ﬁrst recognised in 1993 but
+the original core included missing in-
+tervals, which made an independent
+age impossible. A further four cores
+(funded by the UK Natural Environ-
+ment Research Council) were taken
+in 2006.
+Although this discovery is not ex-
+pected to cause any major historical
+revisions it will allow archaeologists
+to improve dating accuracy by up to
+several centuries. This will also help
+scientists understand the carbon-cy-
+cle, particularly the mechanisms that
+transport atmospheric carbon into
+other radiocarbon sinks, such as in
+the oceans.
+DOI: 10.1126/science.1226660
+Xtyn24/stock.xchng
+The God Vine
+Nemo ate the mushrooms
+and lost himself. It turns
+out he was still at home
+

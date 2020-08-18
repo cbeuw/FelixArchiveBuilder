@@ -1,0 +1,255 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 15 FEBRUARY
+36
+Wordoku
+2
+2
+2 2
+2
+2 2
+2 2 2
+2
+2
+2
+2
+2
+2 2
+2 2
+2
+2
+2 2
+2
+2
+2
+2
+2
+2 2
+1
+1
+1
+1
+1 1
+1
+1 1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3 3
+Slitherlink
+Ophis
+You probably know this by
+now: draw a single closed
+loop by vertically and hori-
+zontally joining the dots so
+that the numbered squares
+are surrounded by the cor-
+responding number of lines.
+FUCWIT
+League Table
+Hashi Connect all the is-
+lands with bridges so
+that you can get from
+any island to any
+other one. There are
+restrictions, though:
+the bridges have to
+be either vertical or
+horizonal and they
+must not intersect.
+You can have up to
+two bridges between
+any two islands and,
+last but not least,
+each island must
+have exactly as many
+bridges stemming
+from it as the number
+on it.
+TEAMS
+Requiem for a Bean
+Sexy Beasts
+G.A.Y.S.
+I ate all your bees
+INDIVIDUALS
+Wael Aljeshi
+Yufan Zhao
+Helix
+M-Soup
+Tan Wei Jie
+Send your answers to puzzles.
+felix@imperial.ac.uk.
+6
+6
+6
+2
+6
+3
+4
+4
+7
+4
+4 4 6 4 4 4 4
+6
+Fill the cells with a
+continuous line (the
+“snake”) that does not
+pass through a cell
+twice, doesn’t intersect
+with itself, and passes
+through all white boxes
+(but no black boxes).
+The numbers show you
+how many times the
+snake turns in the cor-
+responding row or col-
+umn. The snake enters
+and exits the grid at the
+shown points (and only
+those points). There’s a
+hint to get you started.
+Nonogram
+The numbers in each row and
+column tell you how many
+groups of black squares are in a
+row or column, as well as how
+many black squares each group
+is made up of. Filling in the grid
+produces a pretty picture, which
+in turn produces points if you
+send it in, so get solving.
+2
+2 3 1
+1 5 2
+2 5
+1 5 3
+3 1
+3 1 3
+3 2 1
+2 3 3
+1 3
+1 2 2
+2 1
+3
+3 2
+2 1
+3 1 2
+2 2
+3 1 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+     
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+
+Last week’s Solutions
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+        
+        
+        
+        
+        
+        
+        
+        
+        
+38
+15
+4
+4
+28
+28
+22
+17
+4
+

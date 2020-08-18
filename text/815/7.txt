@@ -1,0 +1,144 @@
+Feature
+The Answer
+T
+* transformation to change Y
+D decision to use .
+Interestingly,
+questions, T
+method of solution.
+So, if we want a machine to solve
+problems it must be able to do
+algebra, which is the definition of a
+computer. Unfortunately most
+computers use numerical methods
+of solution, and as Harry points out
+'L can always arrange that the
+answer you get from a computer is
+wrong.' It's rather like Hitch Hikers
+Guide to the Galaxy; the computer
+will provide a numerical answer, but
+there is no guarantee that it is the
+correct one for the problem. For
+example:
+If x=l/Pfori = 1, 2...P
+p
+then the sum £ x i = 1 is fairly
+obvious, but because of random
+rounding off errors a computer will
+not give this answer. As a result
+new developments in computing,
+such as PROLOG and artificial
+intelligence, are using symbolic
+solution.
+Hairy spent six months looking
+through all the mathematics
+'fffelibrary for a counter-
+ing this structure,
+Similarly a
+looked at
+n and political
+Harry is sure
+are sound but
+lenon he needs
+in nature. This
+^j^^hging that the
+stants of a system vary
+w^*:
+li&;
+Srt'Swer being sought, eg
+the inductance of a coil varying with
+conveniently illustrates the structure the current it carries,
+of problem solutions. In essense the "The first phenomenon would
+form is: , ^ ^ S ^ ^ M ^ ^ i ^ m travel and
+A universal problem solving
+technique that could provide the key
+for time travel and universe
+creation—it all sounds just a little
+incredible. Yet Harry Fairbrother
+has that unnerving air that suggests
+he might just know something that:
+you don't. Decanting some
+strawberry milkshake into a QT
+polystyrene cup, he starts to explain
+the intricacies of his theory.
+'What I'm trying to do is give the
+way of solving a problem a
+structure, so that you eliminate trial
+and error.'
+The technique itself came from
+looking at the 'totality of
+everything', in particular
+knowledge, which Harry considers
+to have accumulated from solving
+problems. This led him into
+studying the structure of problem
+solution, looking for a consistent
+pattern, and from this he was able
+to develop his theory.
+The first step is that all problems
+in nature can be expressed as:
+P(Y) = G
+where:
+P is the problem
+Y a set of things looking for
+activities
+G is the goal.
+Once the problem has
+formulised in this way it is then
+transformed and a decision made,
+which gives the solution;' •Aij&Jj,*
+therein lies the problem vammfep,
+problems: transformations caK;
+$f£:;';;
+difficult to find and, of c 0 « ^ # ^ ,
+decisions can be wrong! Confused?
+Then maybe the Pythagoras'
+Theorem Proof (see inset) will help:
+it contains nothing new, though
+IF A = B '
+AND B = C
+THEN A = C
+Harry considers that 'every
+problem can be symbolise
+algebraic form. 'Ip terms of mat
+a canonical form is obtained
+P = T^DT*
+where
+T transformation to use
+er to life,
+ing?
+the most
+jthat there
+ount of
+inverse with
+jme universe
+WWMffhai'would, no doubt,
+please Douglas Adams!
+Mad? Perhaps.
+Misunderstood? More than likely.
+P y t h a g o r a s '
+Theorem Proof
+a2
++ b2
+= c2
+Total Area = (a + b)2
+= Inner square + 4 triangles
+= c2
++ 4 x Viab
+= c2
++ 2ab
+The decision is then to set;
+Problem has goal of proving that the (a + b)2
+= c2
++ 2ab
+hypotenuse squared is equal to the a2
++ b2
++ 2ab = c2
++ 2ab
+squares of the other two sides.
+The problem is then transformed Hence solution;
+thus: a2
++ b2
+= c2
+October 28 1988 FELIX Page 9
+

@@ -1,0 +1,278 @@
+Renting a property is expensive
+and difficult, but getting your foot
+on the property ladder is even hard-
+er. As of October 2006, according to
+rightmove.co.uk, the average ask-
+ing price for a property was nearly
+£220,000 and this is even higher in
+Greater London, at over £300,000.
+These prices are amplified in some
+areas; for example, in September in
+Kensington and Chelsea, the aver-
+age asking price jumped 10% to just
+short of £1 Million. The main cause
+of this is a lack of houses of the right
+quality in the right areas.
+For first-time buyers these prices
+are proving just too high. First-time
+buyers are now borrowing 3.27
+times their income on a mortgage.
+Imperial College Graduates, who
+earn the most of all graduates, last
+year averaged starting salaries of
+£25,780, which even with borrowing
+over 3 times would leave them with
+a house well below the national
+average.
+All this is not to say it is impos-
+sible to get yourself on to the prop-
+erty ladder once you graduate. The
+government has recently raised
+the threshold on stamp duty, in an
+attempt to make it easier to buy
+cheaper houses for which first-time
+buyers demand.
+The government has also just
+introduced a scheme called Open
+Market HomeBuy designed at pro-
+viding an additional 25% of the val-
+ue of homes in interest-free loans
+for key workers.
+Many people rely on their parents
+to give them a little boost. With the
+average couple needing £29,000 for
+deposit and stamp duty on a house,
+people spend years saving up just
+so they can take out a mortgage.
+This is where mum and dad join
+in, helping towards the deposit, or
+even contributing to mortgage re-
+payments. Most parents get this
+money from the big increase in
+value of their house, completing the
+property circle.
+Increasingly another way of gain-
+ing a mortgage is becoming popu-
+lar. Getting a house and sharing
+the mortgage with another person
+often allows someone to get a share
+of their first property. However this
+has many pitfalls. Finding someone
+to share a mortgage with requires
+a lot of trust. It is very difficult to
+get out of the mortgage if you can-
+not stand to live with each other:
+you are liable for any of their short-
+comings in payments, and you both
+have to agree what to do with the
+house further down the line.
+Whilst it can be tough to get on
+the property ladder it is definitely
+possible. Once you do get yourself
+a nice little place, you can sit back
+and reap the benefits of increas-
+ing house prices whilst others are
+trying to get themselves their first
+house.
+City explained: hedging with swaps
+Options and futures allow the oppor-
+tunity to hedge price risks, swaps
+allow the opportunity to hedge risk
+against cash flows. At their most
+simple, swaps do exactly what they
+say: they swap the cash flow of, say,
+company A with those of company
+B. Inherently, they are not traded
+on exchanges and are classified
+as over the counter (OTC) deriva-
+tives, contracts which are struc-
+tured specifically for their primary
+market, by investment banks. As
+such, they cannot be bought or sold
+on the open market and represent
+flows which are of course very spe-
+cific to the counterparties involved
+in the transactions.
+There are three main types of
+swaps: interest-rate, currency, and
+equity swaps. In an interest-rate
+swap (IRS), there is a transfer of
+the interest rate paid on borrow-
+ings and loans by company A and
+company B. Why would compa-
+nies want to swap interest rates?
+Just like options and futures help
+eliminate price risks, interest-rate
+swaps help eliminate risk to inter-
+est rates. Typically, in an IRS, a
+company will exchange the floating
+interest rate (i.e. variable market
+rate), usually LIBOR plus 50 basis
+points, to a fixed interest rate. LI-
+BOR is short for London Interbank
+Offered Rate, a rate that banks of-
+fer each other on borrowings on the
+London interbank money market.
+The British Bankers Association
+publishes different rates with differ-
+ent maturities; for example, there
+exists a daily LIBOR, three-month,
+When you first think of cartels, it
+conjures the image of an illegal
+drug empire in the deepest jungle of
+South America with tight ranks and
+extreme rules, such as the Medellin
+Cartel. Whilst a cartel in business
+is unlikely to result in deaths, it can
+involve the exchanging of brown
+envelopes and secret meetings.
+A cartel is a group of independ-
+ent businesses whose goals are to
+jointly raise prices and income, lim-
+it supply, or eliminate competition,
+usually in a market where there
+are only a few sellers, for their ad-
+vantage. Such cartels are illegal in
+most countries; however, they con-
+tinue to exist, particularly interna-
+tionally, where nations have immu-
+nity under public international law.
+In the UK, the Office of Fair Trad-
+ing enforces European Community
+(EC) and UK competition laws in
+particular the Cartel and Competi-
+tion Act 1998.
+Perhaps the most renowned and
+most commonly used example of
+a cartel is that of the Organization
+of Petroleum Exporting Countries
+(OPEC). It is has 11 member state,
+and was founded by Libya, Iran,
+Iraq, Saudi Arabia, and Venezuela.
+Its members are very important to
+Jayraj Choksi
+Business Correspondent
+six-month, one-year, five-year – any
+period up to 50 years. Basis points
+simply mean 0.01% (1bps = 0.01%).
+It is worth noting that the principal
+borrowing, the money on which the
+interest rate is being paid, is not the
+focus of the swap, only the interest
+rates themselves. As with cash set-
+tled options and futures, a swap is
+settled in net. So for example if A
+owes B 1.5% and B owes A 3%, B
+simply pays A 1.5%.
+Currency swaps employ a similar
+structure; however, they relate to
+the conversion of one currency to
+another. In effect, currency swaps
+allow companies to borrow debt
+in one country, where it may be
+cheaper, and then swap it into the
+currency they need it in. This can
+be a dangerous game as the compa-
+ny has debt obligations in the cur-
+rency it has initially borrowed in,
+and if there are no revenue streams
+in that currency to cover for the re-
+payments, the company would then
+have to convert money, exposing it
+to foreign exchange rates.
+A landmark currency swap oc-
+curred in 1981 between IBM and
+the World Bank, arranged by Salo-
+mon Brothers (now a part of Citi-
+group). IBM had raised debt princi-
+pal in Deutsche Marks (DEM) and
+Swiss Francs (CHF), and swapped
+them into dollars (USD) to finance
+their various corporate ventures.
+The problem for IBM was that to
+repay its DEM and CHF loans it
+would rack up considerable trans-
+action costs when buying the DEM
+and CHF to repay their loans, pay
+a call premium (i.e. pay more than
+market price), issue bonds in USD
+then convert the money to DEM/
+4 felix Friday 3 November 2006
+BUSINESS business.felix@imperial.ac.uk
+the production of oil, accounting for
+about 60% of the worlds known oil
+reserves and 41.7% of the oil pro-
+duction in 2005. Its main aim is to
+protect the interests of its nations
+by controlling the amount of oil its
+members output. Whilst this might
+sound all bad and mean high prices
+for us, OPEC also tries to keep the
+oil market steady by altering its out-
+put and can even increase output to
+try and absorb a sudden market in-
+crease in the price of oil.
+Closer to home, earlier this year,
+many airlines, including British
+Airways, had their offices raided by
+the EC and the Department of Jus-
+tice and are still under investiga-
+tion. This was to look into possible
+price fixing of fuel surcharges and
+other costs related to cargo. With
+the EC imposing a maximum fine of
+up to 10% of annual sales, and with
+the negative publicity, this could be
+costly to the airlines involved.
+Typically cartels have a very short
+life. It is very easy for one member
+to break production limits and pro-
+duce more in attempt to make more
+money for itself. As soon as this
+happens, the cartel will become in-
+effective, and normal market forces
+will begin to take over.
+CHF and pay capital gains taxes if
+they made any money in the proc-
+ess. At the same time, the World
+Bank wanted to borrow DEM and
+CHF to lend to its customers, and
+doing so on the open market would
+involve issuing DEM and CHF
+bonds, which would have had large
+issuing costs.
+Under the swap, the World Bank
+assumed IBM’s DEM and CHF ob-
+ligations and borrowed in USD to
+pay off IBM’s loan. Actually, it de-
+livered the money straight to IBM.
+In the meanwhile, IBM paid off the
+World Bank’s USD loan. The cur-
+rency rates swung in IBM’s favour,
+and Salomon Brothers made a lot of
+money.
+Finally, equity swaps. These are
+actually a subset of a broader type
+of swaps called total return swaps.
+In this type of swap, party A holds
+certain assets, say shares, and pays
+any returns those assets make to
+party B, who in return pay A inter-
+est. In essence, party B has gained
+exposure to the price risk without
+actually holding the asset, but any
+capital gain made from the assets
+must also be given up by A to B. Any
+losses are paid by B to A.
+In short, swaps allow companies
+to hedge their operational risks and
+allow them to cut many of the costs
+associated with raising debt.
+Get on the property ladder Analysis: oil cartels
+The average couple borrows more than £28,000 from parents
+Paul Estruch
+Business Correspondent
+OPEC is the oil cartel responsible for half the world’s oil output
+Currency swaps play an increasing role in hedging all kinds of risk
+The average property in the UK is now worth in excess of £200,000
+

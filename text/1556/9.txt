@@ -1,0 +1,188 @@
+9
+@feliximperial
+FelixImperial
+FRIDAY 18 OCT
+SCIENCE
+...and releasing a vaccination for malaria
+Results released on the 8th of Octo-
+ber revealed that scientists are making
+promising progress in the develop-
+ment of an eﬀective malaria vaccine
+called RTS,S. The vaccine could po-
+tentially save millions of lives as it
+aims to combat one of the world’s
+deadliest diseases.
+This mosquito-borne disease kills ap-
+proximately 660,000 people a year,
+mostly children, and almost all in Af-
+rica. The nature of malaria makes it
+extremely hard to vaccinate against
+since it is caused by protozoal para-
+sites, which are considerably larger
+and more complex than bacteria and
+viruses.
+These unwieldy organisms are capable
+of wearing a number of diﬀerent pro-
+tein coats to disguise themselves from
+the immune system, making them ex-
+ceptionally diﬃcult to detect. It is thus
+essential for the vaccine to protect
+against something permanent on the
+surface of the parasite.
+The imminent vaccine aims to defend
+against Plasmodium falciparum, cur-
+rently the deadliest strain of malarial
+parasite. P. falciparum, like many oth-
+er protozoal parasites, follows a spe-
+ciﬁc lifestyle once inside the body.
+Injected through the bite of a female
+anopheles mosquito, the parasite en-
+ters the bloodstream and is carried
+straight to the liver to infect liver cells.
+At this stage of its lifecycle it is called
+a sporozoite and expresses a surface
+protein called a circumsporozoite.
+Researchers are using this circum-
+sporozoite molecule to act as part of
+the immunization. It will be this mol-
+ecule that the immune cells become
+sensitive to and seek to destroy when
+next detected within the body.
+Unfortunately for researchers, cir-
+cumsporozoites alone are not enough
+to provoke a suﬃcient immune re-
+sponse. They must be combined with
+another antigen to do so.
+The vaccine in question creates a hy-
+brid of circumsporozoite antigens
+with Hepatitis B surface antigens and
+an additional immune booster. It is
+this combination that prompts the
+necessary immune reaction.
+Trials so far have been promising. The
+recently released results indicated that
+young children (aged 5-17 months at
+the beginning of the trial) experienced
+46% fewer cases of malaria than those
+immunized with a control vaccine.
+Infants (aged 6-12 weeks at the begin-
+ning of the trial) were reported to ex-
+perience 27% fewer cases of malaria.
+Initially designed in 1987, it has been
+a long time in the making. It is hoped
+that it will be available for use by
+2016. Whilst not providing complete
+protection, the sheer number of peo-
+ple suﬀering and dying from malaria
+worldwide, estimated at over 300 mil-
+lion cases, means this is a huge step
+forward.
+Lauren Hoskin
+sciencesays.co.uk
+They donʼt suffer like you after a long ﬂight, Fiona Hartley explains
+Jet lag resistance in mice
+light-dark cycle at least twice as
+quickly. When the V1a and V1b
+receptors in wild-type mice were
+temporarily blocked with chemicals
+they too recovered from their induced
+jet lag quickly (though not quite
+as quickly), confvwirming that the
+missing receptors are responsible for
+the accelerated rate of recovery.
+In addition, the mutant mice did
+not suﬀer any obvious ill-eﬀects to
+CaptiveBredReptileForums
+Jet lag is one of those annoyances
+that stems from living in the modern
+era. Anyone who has ﬂown to Asia
+or come home to the UK after an
+American holiday recognises its
+unpleasantness. You just have to wait
+for your body to adjust to the new time
+zone. When evolution was working on
+humans, it had no foresight regarding
+the development of the aeroplane, or
+that it would play havoc with our body
+clock by enabling us to travel across
+the planet in one or two journeys.
+The suprachiasmatic nucleus (SCN)
+acts as the ‘master clock’ of the human
+body. In the SCN there are thousands
+of neurons that regulate the numerous
+bodily functions that run in a 24-
+hour cycle, which are called circadian
+rhythms. These include your core
+body temperature, urine output, and
+expression of genes that aﬀect the
+circadian clock (unsurprisingly called
+clock genes).
+The SCN also synchronises these
+rhythms with the outside world. When
+we pass through several time zones on
+a jet plane, our internal clocks become
+misaligned with external time. Shift-
+workers have a similar problem.
+Since some studies suggest that
+shift work increases the risk of heart
+disease and certain cancers, a way to
+combat the physiological eﬀects of
+misaligned circadian rhythms would
+be signiﬁcant to many.
+Jet lag was ﬁrst studied in 1965,
+over a decade after the advent of
+passenger jet services. Since then
+the condition has eluded a cure. But
+Hitoshi Okamura and his colleagues
+at Kyoto University have made a
+breakthrough in understanding how
+the neurons in the SCN communicate.
+This gives scientists greater hope that
+there could one day be a treatment for
+the symptoms of jet lag. The group
+published their study in Science last
+week.
+Arginine vasopressin (AVP) is a
+hormone released by around half of
+the neurons in the mouse SCN and
+detected by several receptor proteins.
+There are also AVP receptors in the
+human SCN. In a population of mice,
+the researchers deleted two AVP
+receptor genes: V1a and V1b. This
+made the mice unable to respond
+to AVP. The group then placed this
+genetically-modiﬁed population and a
+wild-type population of mice on a 12-
+hour day, 12-hour night light cycle for
+two weeks.
+When the light cycle was changed to
+mimic an eight hour time diﬀerence,
+as occurs when humans suﬀer from
+jet lag, the ‘normal’ mice took many
+days to readjust to the new rhythm.
+However, the mice lacking in AVP
+receptors re-entrained to the new
+their internal clocks. Their circadian
+rhythms maintained a normal 24-hour
+cycle. As with a mechanical clock, the
+SCN was able to uphold good time-
+keeping internally whilst being easily
+resettable in response to external solar
+time.
+It will still be very diﬃcult to create
+a magic pill capable of treating jet
+lag thanks to the presence of AVP
+receptors throughout the body. Any
+drug disrupting the receptors in the
+SCN would also disrupt receptors
+that control blood pressure and water
+retention, the better-known functions
+of AVP. But the hope is there, and the
+knowledge should help scientists to
+further investigate the intricacies of
+the SCN.
+DOI: 10.1126/science.1238599
+Sheʼs obviously taken a red-eye ﬂight recently
+PATH MALARIA VACCINE INITIATIVE
+

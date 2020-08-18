@@ -1,0 +1,195 @@
+NHS Reforms
+particularly true in the area of systems
+which provide management with
+information on resources, costs and the
+progress of contracts. Why else are
+hospitals quoting such a wide range of
+prices for the same procedure? (Even a
+simple 'bed day' in a London hospital can
+cost anything between SI80 and £250.)
+The NHS is waking up to the fact that it
+needs accurate, timely information on all
+its activities, to be able to manage itself
+successfully whether the reforms endure
+beyond the life of this government or are
+abandoned as rapidly as they were
+introduced. The NHS is finally waking up
+to the fact that it needs information
+systems and information technology of
+the kind that have been used in industry
+and the commercial sector for years.
+Sadly, its plunge into IT is in many cases
+causing as many problems in the new
+system as all the other factors.
+The NHS is an immature market as far
+as IT is concerned. 'Mature' industries put
+up to 20% of their expenditure into IT.
+The NHS spends less than half a percent
+of its expenditure (around £200 million
+per year, expected to grow to around
+£500 million per year over the next five
+years). It lacks expertise in specifying,
+purchasing, installing, operating and
+managing information systems. It has
+insufficient and inexperienced staff and
+has been slow to recruit or train. One of
+the most damning reports on the NHS
+produced by the National Audit Office,
+"Managing computer projects in the
+National Health Service", concluded that
+"management of computer projects was
+often weak, with many failures to follow
+good practice, resulting in poor value for
+money".
+In addition, some system suppliers have
+seen the chance to turn a quick buck and
+are fleecing the NHS with inflated prices
+and unsuitable systems. Where the NHS
+develops its own systems, these often
+overrun on cost and price, are poorly
+designed and still fail to meet the needs
+of the users. The systems already in place
+are fragmented and run on a bewildering
+array of hardware and software. Jo
+Bayes, a department of health research
+student, put it succinctly when she said,
+"you name it, we've got it. Not only that,
+we have all the previous marks, models
+and versions, and those are just the ones
+we know about!"
+The NHS also lacks any clear strategy
+on information and information systems.
+It is disturbing that, five years after the
+resource management initiative was
+launched, the deputy director of the NHS
+Management Executive's information
+systems directorate, Ray Rogers, could
+call his workshop session at the annual
+Healthcare Computing conference "FIRST
+thoughts on an information strategy for
+the NHS".
+• Nowhere is the folly of such haste and
+inexperience shown more clearly than in
+the area of GP fundholding. GP practices
+which wished to become fundholders had
+to have more than 9000 patients on their
+list and to already be sophisticated
+computer users. Such experienced and
+enthusiastic users would be expected to
+have little problem with the systems
+designed to manage the fundholding
+aspects of the practice (essentially
+accounting and tracking patients). This is
+not the case.
+The first problem lies in the
+specification of the system. This was
+drawn up by the Department of Health
+and sent to the system developers.
+Systems were then tested by consultants
+Touche Ross for 'conformance' to the
+specification. Unfortunately, the designers
+of the specification clearly had no idea
+how a real GP practice worked, what
+information was required or would be
+available at which stage of the treatment.
+For instance, the system asks for a
+The Audit Cube
+The audit cube
+identifies the issues
+involved in a nursing
+audit, sets them in the
+context of the whole
+NHS, and provides a
+guide against which
+audit progress can be
+measured.
+O
+R
+G
+A
+N
+I
+S
+A
+T
+I
+O
+N
+A
+L
+A
+U
+D
+I
+T
+diagnosis from the GP before the patient
+is sent to the hospital or outpatient clinic.
+This allows a sum of money to be
+earmarked from the GPs funds to pay for
+that treatment. The doctor, however, is
+usually sending the patient to the hospital
+in order to obtain that precise diagnosis
+and at the time of referral cannot provide
+the answer demanded by the software.
+Once the patient reaches the hospital,
+accompanied by the vast amounts of data
+which are required by the department of
+health, the hospital usually throws most
+of this information out of the window,
+since it has no use for it. The 'unique
+referral number' given to each patient by
+the system is meaningless to the hospital
+system, while the standard referral letter
+contains no details of the contract
+number, which is what the hospital is
+interested in. As Angie Daniels, Oxford
+regional primary care computing advisor,
+said at a recent seminar on primary care
+computing: "Nobody thought to share the
+specification with the hospitals." Another
+consequence is that necessary information
+is not flowing back from the hospitals to
+the fundholders.
+Apart from these problems, some users
+have discovered that passing the
+conformance test did not guarantee that
+their system would actually work on 1
+April 1991. At least one system did not
+and several of the others are very
+unstable, particularly in their interaction
+with other GP system such as patient
+registers. This instability is undoubtedly
+the result of the speed with which the
+systems were developed (around six
+months in most cases) and the
+inadequacies of the specification, which
+appears to have been aimed at
+accountants rather than software
+designers. There have also been
+complaints of inadequate training and a
+lack of basic accounting understanding by
+system suppliers.
+There are some good aspects to the
+reforms. The NHS does need better
+information that will allow both managers
+and clinicians to make sound judgements
+about patient care. But the way the
+reforms have been implemented, the
+speed, and the sacrifice of real needs to
+political expediency will not help the NHS
+face its future. Baroness Cumberledge, a
+leading Conservative health policy
+advisor, told a conference of health
+service managers earlier this month that
+the NHS was in danger. Its 'board of
+directors' is Parliament, she explained,
+and Parliament was dominated by the
+"two-swords length that separates the
+government and the opposition". The
+NHS is being used to score political
+points. It should be more important than
+that: it is an important national resource
+and it deserves better than to be kicked
+about like a football between the children
+at Westminster.
+

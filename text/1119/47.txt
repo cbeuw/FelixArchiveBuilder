@@ -1,0 +1,220 @@
+24 June 1998 GAMES 53
+PC 2D & 3D GRAPHICS HARDWARE
+VIPER 330
+Diamond Multimedia, £69 it it it-k
+In the dark distant past PCs
+bleeped their way through low-res-
+olution games. First the soundcard
+removed the bleeping and added
+F M music; millions of soundcards
+were then sold. Next high resolu-
+tion graphics cards allowed us to
+play games with decent graphics.
+N o w the 3D accelerated graphics
+card seem to be following the same
+path as games start to d e m a n d a
+3D card. These graphics cards
+come in two main groups, the pure
+3D accelerator cards and the more
+general 2D/3D cards. The differ-
+ence between the two groups can
+generally be compared to the dif-
+ference between owning a sports
+car or a hot hatchback. Everyone
+knows that a sports car will gener-
+ally beat the hatchback, but the
+hatchback is something y o u can
+use everyday. So hatchback test
+number one, the Viper 330. Is it
+Peugeot 306 Gti or M G metro
+turbo?
+The Viper 330 is powered by a
+GAME REVIEW
+MEN IN BLACK
+SouthPeak Interactive,
+PC / Playstation DO StdTS
+With, I believe, the slimmest
+exceptions of Batman, Indiana
+Jones and the Last Crusade and
+the o d d Star Wars titles, games
+under film licences are unadulter-
+ated, indefensible slurry. Et, quelle
+surprise, here w e are with M e n in
+Black. M a y b e this would be the
+one? The mould breaker? Could
+Southpeak Interactive be the ones
+to pull M e n in Black out of the
+cesspool? Well, no.
+It all looked bad from the start;
+very slick menu system, expensive
+TV adverts, M i B cartoon influences
+in the intro sequence; just not
+what y o u ' d want. A n d then the
+game. You (Will Smith) investigate
+a break-in a N e w York apartment
+building. At least y o u do when y o u
+persuade your at fuck-utterly badly
+animated irritation of a character
+to point in the right direction at the
+door handle. Progressing through
+the door, y o u are greeted by the
+piss-poor sample "Som'in tells me
+this mus' be da place". A n d that is
+the best in the game. The objec-
+tive, I learn, is to kill the baddies
+and disarm the bomb. A h yes, a
+fight scene. I was looking forward
+128bit NVIDIA Riva 128 with a 230
+M H z R A M D A C - impressive speci-
+fications. The 4 M B o n b o a r d
+memory allows y o u to run resolu-
+tions of 1 6 0 0 x 1 2 0 0 at 6 5 , 0 0 0
+colours at a high refresh rates
+8 5 H z . The 2 D performance is not
+especially fast compared for 2 D
+cards. However, PC Magazine's
+tests showed that it is within 12%
+of the 2D/3D leader, the Matrox
+Millenium II.
+This card though is not opti-
+mized for the graphical "school run
+and shopping trip" but it is the 3D
+performance where the card is seri-
+ously g o o d . The image quality is
+almost up to 3Dfx level (the current
+top sportster) and though there
+were the o d d incorrect polygon
+clipping errors, they were not
+enough to irritate. It doesn't sup-
+port Glide (the low-level interface
+supported by 3Dfx cards and used
+in many games) but is able to run
+some openGL (ie. quake) and all
+DirectX (ie. Tomb raider 2) games,
+to this. There are two ways of
+scrapping, both dreadful to con-
+trol, one being 'stand still and kick
+them in the shins until they die'
+and the other being shooting them
+from long range (you miss from
+anything shorter then about six
+feet). Enemies have no intelligence
+whatsoever, running straight
+towards y o u and crouching,
+punching badly in the direction
+they crouched in, allowing even
+the least experienced gamer to run
+behind them and boot them up the
+arse. The animation - mentioned
+before - is astonishingly bad. W h e n
+the character jumps it is an undis-
+guised rehash of the walking
+and run them at speed. Even on a
+Pentium 120 resolution changes
+didn't really compromise the high
+frame rates. Tomb Raider 2 was
+tested using resolutions from
+3 2 0 x 2 0 0 to 800x600.
+Where the Viper 330 has a real
+edge is in price. At the s u b - £ 1 0 0
+level it beats the other 2D/3D cards
+hands d o w n , makin it an affordable
+hot hatchback. At this price it also
+competes against the older pure
+3D cards. Here the car analogy is
+back again - while everyone would
+love a sports car on their drive
+sometimes your head has to rule
+your heart and you buy the hot-
+hatch because it is almost perfect.
+Anyway y o u can always buy that
+sports car later and so too with the
+pure 3D card.
+Gary Smith
+animation m o v e d linearly upwards
+then d o w n w a r d s , with normal
+gravitic motion effects abandoned
+mercilessly. M a k i n g use of any-
+thing requires c a m p arm-waving
+for several seconds in the vague
+direction of the object like Kenneth
+Williams chastising a small child
+with a light slap around the ear.
+But less funny. The puzzles are not
+even slightly challenging, relying
+exclusively on a drab combination
+of tricks and oh-so obvious clues,
+and suffering from the dreaded
+find-the-pixel disease. I'm afraid
+that seemed incurable. The inten-
+tional "humour" is stretched at
+best, the unintentional more so
+MORE GAMES
+TREASURES
+OF THE DEEP
+Namco, Playstation it it it it
+Diving suits, sharks, submarines
+and really excellent 3D graphics.
+Treasures from the D e e p has
+pretty much everything including
+excellent strategy/action game-
+play. As a navy seal y o u have to
+complete a series of missions
+from the shallows of the
+Caribbean using wet suits and
+chariots to the deep sea antics of
+the Arctic oceans. Fortunately
+decompression sickness is not a
+feature as y o u soon afford proper
+subs. Against y o u , the denizens of
+| the deep, along with an army of
+divers and their submarines. O n
+your side your basic w e a p o n , a
+spear gun might seem a bit wet,
+but soon y o u will be buying nets,
+torpedoes and homing missiles to
+even the odds. Take too many tor-
+pedoes or air though and you
+have no extra capacity for bonus
+treasure found near wrecks but
+take too little and y o u are shark
+bait. The graphics are crisp, and
+the distance fogging removes
+most of the nasty p o p - u p events.
+The fish and sharks also show
+some intelligence (or lack of it).
+Fish tend to mind their o w n busi-
+ness while sharks are attracted by
+blood - either yours or someone
+else's. So d o n the wet suit and
+snare, shoot and m a i m but avoid
+the endangered species because
+they're not big or clever.
+Gary Smith
+i n
+after the first couple of glitches. To
+give a little bit of credit, the art-
+work on the backgrounds was well
+executed, notably the competent
+and stylish vistas and movie-faith-
+ful attention to detail. The point of
+view, a Resident Evil style third
+perspective was a g o o d idea for
+the game, but the effect was
+spoiled by slightly obtuse camera
+angles. You can change characters
+once you've completed the first
+level and are indoctrinated in the
+M i B , but it doesn't change the
+gameplay a touch. You are still a
+badly animated, witless and infuri-
+atingly stupid figure, be y o u a thin
+black man (Smith), a stocky white
+man (Tommy Lee Jones), or a
+poorly pixelated and overly wide
+female (apparently Linda
+Fiorentino).
+A c o m p l e t e waste of time,
+money and licence. Arse, arse,
+arse. Jon Trout
+

@@ -1,0 +1,278 @@
+ISSUE 1720
+FELIX
+9
+ARTS arts.felix@imperial.ac.uk
+More than Human? Stephanie Dinkins
+AI: More than Human sees collaboration between cutting edge researchers at DeepMind (MIT) and a wide range
+of artists including Stephanie Dinkins.
+ARTS
+S
+tephanie Dinkins’
+eureka moment
+came as she stood
+face-to-face with
+BINA48, a black female
+robot residing in a first-
+floor office in Vermont.
+The opportunity was
+thanks to the work of the
+Terasem Foundation, a
+group dedicated to testing
+the limits of uploading
+a mind into a computer.
+Faced with “the only
+black female robot on the
+planet”, Dinkins felt that
+her cyber companion’s
+answers to questions
+about race and gender
+seemed incongruent with
+the experience of a black
+woman in 21st century
+America.
+Technology, often host
+to futuristic fantasy, also
+reminds us of very present
+concerns. For Dinkins,
+there is a tangible fear
+that “AI and technology
+will start homogenising us
+… boiling us down to the
+mean”. How can we create
+sentient entities meant to
+operate in cosmopolitan
+communities when the
+creators are far from cos-
+mopolitan? Is the answer
+for AI entities to only be
+encoded by people from
+their ‘community’? Ac-
+cording to Dinkins, “pro-
+grammers require lots and
+lots of information and
+interviews and contact,
+to appreciate some of the
+nuances of a culture”.
+Thus, the path forward
+lies not in the subjective
+experience of whoever
+writes the code, but
+education and exposure
+to different communities.
+“We’re not just providing
+facades,” Dinkins is eager
+to emphasise.
+With in this drive to un-
+derstand others in order to
+create a synthetic identity
+comes “ideas of empathy,
+compassion, ethical
+stances towards each
+other”, says Dinkins.
+Perhaps, one is allowed
+to hope, planning for the
+future can help to heal the
+enduring ignorance and
+misunderstandings of the
+present.
+Based on her experi-
+ence and art engaging with
+authenticity and agency,
+and with the generous
+funding of Pioneer Works
+Tech Lab and others,
+Dinkins has created Not
+The Only One, or N’TOO.
+The project is a multigen-
+erational memoir of three
+generations of women
+in her family (spanning
+almost a century), as told
+by a custom deep-learning
+AI. The AI has been fed
+numerous interviews
+with these women and
+continues to gather new
+knowledge from interac-
+tions with the public. The
+idea of learning through
+exposure to the real world
+is reminiscent of Micro-
+soft’s AI chatter bot, Tay,
+which enjoyed a life-span
+of 16 hours during which
+it evolved from a naïve
+online sentience into, as
+Dinkins puts it, a “crazy,
+vile, racist, homophobic,
+xenophobic thing”. A
+bitter reminder that online
+discourse is perhaps not
+the best way to raise a
+new-bornAI. When I raise
+this fear with Dinkins,
+she concedes that she
+provides only a founda-
+tion upon which the AI
+builds its own sentience.
+However, to follow her
+family traditions, N’TOO
+is designed not to ‘hear’
+crude or vulgar terms. In
+doing so, she treads a fine
+line between ‘organic’
+growth of the AI and
+cultural limits.
+The tradition of oral
+history is deeply rooted in
+older cultures. The griot,
+found in present-day
+West African tribes, is a
+historian, story-teller and
+vocal artist. As Francis
+Bebey, Cameroonian
+writer, wrote in African
+Music: A People’s Art, the
+griot is “a living archive
+of the people’s traditions”,
+one who receives news
+and information from
+the community. Though
+Dinkins is reluctant to lay
+claim to the griot heritage
+and title, she recognises
+a curious similarity
+between her family’s oral
+tradition and N’TOO’s
+essence: “things are verbal
+… they’re somewhat
+encoded.” While griots
+are bound by mortal
+limitations and lifespans,
+N’TOO may become what
+Dinkins dubs “almost the
+active griot with a digital
+memory”. However, the
+similarities end there.
+The human griot offers
+broad sweeping lessons in
+human nature, while the
+interpersonal conversa-
+tions recorded by N’TOO
+old data”? For Dinkins, the
+movement to “have more
+people of colour in the top
+ranks helping to write the
+code, write the algorithms,
+and control some of the
+ways they’re being used
+or sold to other systems”
+brings both social and
+economic benefits. If you
+educate communities
+about algorithms using
+non-biased data, you get
+what Dinkins heralds as
+“better outcomes”. For
+instance, a ProPublica
+report into machine bias
+revealed how algorithms
+based on zipcodes charged
+Asian-Americans more,
+on average, for online
+SAT tutoring. However,
+this extends beyond
+“small social justice …
+predict when technology
+will reach the feared
+singularity, when it even-
+tually surpasses human
+intelligence. She defers to
+the judgement of greater
+minds: “we have 25-50
+years to get this right”.
+Such a deadline is fast
+approaching, and raises
+vital questions: “how do
+we prepare ourselves, and
+how do we prepare it?” A
+technology that is made
+by all, for all.
+As the interview draws
+to a close, I ask her for her
+advice for anyone looking
+to be involved in program-
+ming, whether as an artist
+(like her) or as a program-
+mer. She counsels young
+people to “remember
+to bring your whole
+self”, a holistic approach
+involving both skill-set
+and identity. Deploring
+adherence to the status
+quo as “complacent”, she
+recommends “remaining
+flexible, mentally and in
+the modalities you use.”
+We stand on an exis-
+tential precipice. Climate
+change catastrophe looms
+heavy on the horizon.
+Should we survive,
+N’TOO stands as a salient
+reminder that our histo-
+ries, as well as our futures,
+deserve protection in the
+digital Eden that follows.
+Not the Only One (2019) Stephanie Dinkins // Courtesy of
+the artist
+Not the Only One (2019) // Courtesy of the artist
+Where? Barbican Centre
+When? 16th May – 29th
+August
+How Much? £11
+Rahul Mehta
+Arts Writer
+“Dinkins
+reminds us
+that“our lives
+are being
+bounced off
+algorithms all
+the time.”
+“Technology,
+often host
+to futuristic
+fantasy, also
+reminds us of
+very present
+concerns.”
+“holds some of the things
+we tend to forget, the
+particularities.”
+Dinkins’ work extends
+beyond her most recent
+project. She has founded
+Project Al Khwarizmi, a
+community-based project
+in Brooklyn that brings
+coding and data to com-
+munities of colour. As we
+rapidly immerse society
+in technology, Dinkins
+reminds us that “our lives
+are being bounced off
+algorithms all the time”.
+From social media feeds
+to criminal justice, we are
+unknowingly controlled
+by digital mechanisms.
+But what happens when
+“this system is based on
+it’s about the way we
+decide to live as humans”,
+Dinkins notes.
+Are we ready for AI?
+Dinkins is reluctant to
+

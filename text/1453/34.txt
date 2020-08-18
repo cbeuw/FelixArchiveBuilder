@@ -1,0 +1,322 @@
+34
+COFFEE
+BREAK
+Coffee Break Editor
+Coffee Break Editor Charlie Murdoch
+Charlie Murdoch
+coffee.felix@imperial.ac.uk
+felix
+Scribble box
+FRIDAY 12 FEBRUARY 2010
+Vince Lombardi: “The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather in a lack of will.”
+Quote of the Week
+Wordoku 1,453
+Solution 1452
+How to play:
+Wordoku is identical to Sudoku; we’ve just replaced
+numbers with letters. Complete the puzzle and then
+send the whole grid to sudoku.felix@imperial.ac.uk.
+You will not get credit for just the word alone. It’s not
+an anagram.
+Evil Wordoku is exactly the same... only harder... and
+there’s a letter missing... that MAY be a duplicate -
+just solve it like normal and insert the letter that you
+believe makes the word.
+N
+O
+U
+X
+E
+S
+W
+D
+A
+S
+W
+E
+A
+N
+D
+O
+U
+X
+X
+D
+A
+W
+O
+U
+N
+S
+E
+O
+N
+S
+D
+U
+X
+E
+A
+W
+W
+E
+D
+N
+A
+O
+S
+X
+U
+U
+A
+X
+E
+S
+W
+D
+N
+O
+D
+S
+W
+U
+X
+E
+A
+O
+N
+A
+U
+O
+S
+W
+N
+X
+E
+D
+E
+X
+N
+O
+D
+A
+U
+W
+S
+I was *expletive*
+censored
+CharlieMurdoch Coffee Break Editor
+I w
+Char
+Char
+L
+ast week, I went off on a bit of
+a rant about the inconsequen-
+tial goings on of life. As a re-
+sult I was censored. Personally
+I believe a few well placed expletives
+have the ability to get your point across
+1) much faster and 2) much clearer.
+For example, the phrase ‘fuck off’
+does not mean ‘go away’. Neither
+does it mean ‘please leave me alone.’
+It means ‘get out of my sight, you are
+really beginning to annoy me and I’m
+about to get angry.’ Now would you
+ever say that? Err no. So ‘fuck off’ it is.
+Now that got me to thinking about
+some of the common expletives we use
+in day to day life. What do they really
+mean? One of my personal favourites
+is ‘bugger off’. This literally means,
+‘go have anal sex with another man.’
+Where does that come from? Similarly
+the word ‘cretin’, is an often used word
+to describe someone who is being a
+bit of an idiot (or moron). Now cre-
+tin originally derives from the French
+word crétin. This actually originates
+from the French dialectal word for a
+deformed and mentally retarded per-
+son found in certain Alpine valleys.
+Not even the whole of shitting France!
+That moves me onto ‘shit’, a.k.a poo.
+‘Shit’ is thought to have derived from
+two places: the old English verb ‘sci-
+tan’ which means to split or devide.
+Later, circa 1585 the noun ‘scitte’ arose
+which defined purging or excrement.
+‘Shit’ was not considered to be taboo
+until after 1600, and rarely appeared
+in print- not even in all Shakespeare’s
+writings. It still caused anger as late
+as 1922 (in Ulysses) and was omitted
+from some dictionaries as recently as
+1970 in the Webster’s New World.
+From this word, numerous derivi-
+taves arose- the past participle ‘shat’
+and the comical ‘shite’. But it’s biggest
+claim to fame is the phrase ‘the shit
+has hit the fan.’ This was described by
+Hugh Rawson in 1989: “The expres-
+sion derives from an old joke. A man
+in a crowded bar needed to defecate
+but couldn’t find a bathroom, so he
+went upstairs and used a hole in the
+floor. Returning, he found everyone
+had gone except the bartender, who
+was cowering behind the bar. When
+the man asked what had happened, the
+bartender replied: ‘Where were you
+when the shit hit the fan?’ ”.
+mmmmmm.....
+Wordpath 1,453
+How to play:
+Make a path from the origin word to the destination
+word by taking steps between words using one of the
+three following methods:
+Letter Substitution: Substitute just one letter.
+e.g. WORD -> WARD
+Anagram: Rearrange the letters.
+e.g. WARD -> DRAW
+Wordslide: Replace the current word with a new 4 letter
+word from any 5+ letter word that contains them both.
+e.g. DRAW -> WING (via DRAWING)
+No consecutive steps may be made by the same method.
+e.g. WORD -> WARD (by LS) -> WARE (by LS) would
+be invalid.
+Points are awarded for the earliest SHORTEST valid path
+between the two words. Dubious words will be checked
+against the OED. Send your solutions to sudoku.felix@
+imperial.ac.uk.
+ORIGIN:
+N I N E
+DESTINATION:
+F I V E
+Scribble box
+Solution 1451
+GOOD
+MOOD (LS)
+DOOM (An)
+ROOM (LS)
+REST via
+RESTROOM
+BEST (LS)
+GLT found this nice
+four step solution.
+It wasn’t the first or
+the shortest, but it
+was the first, shortest
+valid solution!
+A few submissions
+tried to use “IEST”
+but this is not a
+word according to
+the Oxford English
+Dictionary! Sorry.
+N
+I
+A
+A
+R
+O
+F
+C
+R
+O
+C
+I
+R
+O
+T
+N
+A
+O
+T
+I
+A
+R
+R
+E
+T
+C
+A
+R
+This week’s winner
+was The Tough Brets.
+They even correctly
+deduced the solution
+phrase:
+“AXE WOUNDS”
+Even though it was
+ruined by our Puzzle
+Commodore messing
+uptheWordokuagain-
+this time, obviously, by
+getting the ‘O’ and ‘U’
+the wrong way round.
+Don’t worry, he’s been
+disciplined and has
+assured us that this
+issue’s puzzles are all
+error-free.
+Caption Competition 1,453
+How to play:
+Come up with a hilarious caption for one or more of these photos. Funniest/ cleverest caption gets the points (as decided by
+the felix office). Yeah, it’s subjective but if you keep us happy we produce better work and there’s an iPod nano in it for you.
+A
+A
+P
+P
+E
+E
+N
+N
+L
+L
+E
+E
+A
+A
+H
+H
+N
+N
+D
+D
+H
+H
+P
+P
+H
+H
+E
+E
+A
+A
+I
+I
+P
+P
+D
+D
+N
+N
+P
+P
+I
+I
+D
+D
+L
+L
+N
+N
+E
+E
+P
+P
+INTERMEDIATE EVIL
+FILM [Inception]
+ADVERT [Intel] STORMTROOPERS [Injection]
+

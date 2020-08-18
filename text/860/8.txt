@@ -1,0 +1,153 @@
+This
+Week
+• Optical fibres have transmitted signals over a
+new record distance. The Japanese
+telecommunication company Nippon Telegraph and
+Telephone (NTT) sent digital data a distance of
+2,223km without using electrical repeaters.
+The attenuation of optic fibre means that amplifiers
+are required periodically along the length of the cable
+to boost the signal. Previously these have been
+electrical, that is, the light pulses are converted to an
+electrical signal, amplified then transformed back to
+light. Such repeaters are prone to failure and costly,
+particularly for lines in awkward environments, for
+instance, on the sea bed.
+Different means of building repeaters are being
+investigated. One method uses the rare earth element,
+erbium, and keeps the signal in the optical domain
+throughout. The NTT record was set using 25 of these
+repeaters which each form a section of the line 160km
+long being separated by 80km.
+• Orthopaedic surgeons may soon be able to install
+better fitting replacement knee and hip joints with the
+hope that they will function for many years longer
+than present renewals. A new computer system will
+enable the surgeon to view the joint from all angles
+allowing rehearsal of the operation and joints to be
+tailor-made. Today's replacement hips for example,
+rarely last for more than a decade due to joint
+loosening or the implant breaking as loads on the body
+alter; bone can gradually grow and adjust. The present
+fitting system involves choosing a standard size
+replacement joint after comparing the X-rays of the
+bones with different sized templates.
+• Genetically engineered mice that have a human
+immune system are now being used to test new AIDS
+drugs. HIV, the virus responsible for the disease, does
+not effect many species and chimpanzees have had
+to be used for experiments which are rare and
+expensive. The virus only affects those parts of the
+mice which are of human origin but it is hoped to
+provide new insight into the disease, if only for
+ensuring that a new drug has no anti-viral effects
+before further tests are carried out.
+• Mute swans in Britain have been dying more than
+ever in recent years after having been poisoned by
+lead. This is due to the swan swallowing shotgun lead
+pellets or lead weights discarded by anglers, which
+are now banned. The lead accumulates in the body
+and causes weight loss, muscular paralysis and a
+reduced resistance to disease leading to the inevitable
+death of the swan.
+A recent report suggests that results from 'chalation
+therapy' are encouraging with 49% of poisoned
+swans being apparently successfully treated although
+only 22% survived for more than two years. The
+treatment involves injecting the swan two or three
+times a day with sodium calcium edetate for at least
+a week, this combines with the lead rendering it
+harmless. Side effects such as mineral deficiencies
+though are not well quantified yet, however.
+• Plug 'Food Irradiation'. An Envirosoc lecture to be
+given by Dr Tim Lang from the London Food
+Commission, 12.45pm on Thursday March 1 in Mech
+Eng 542.
+Small steps and
+giant leaps
+Fig. 1. Artist's impression of the Ulysses launch from
+Of all human exploits space exploration must surely
+rank in the forefront for firing our imagination and
+sense of adventure. Now as we enter the '90s a new
+era of solar system exploration is dawning where,
+compared with the lean times of the '80s in which
+missions were few, the future once again looks bright
+with a flotilla of sophisticated space probes set to
+embark upon exciting voyages to different reaches of
+the solar system. Indeed there is every prospect that,
+to paraphrase Neil Armstrong's famous words when
+setting foot on the moon, these 'small steps' will lead
+to 'giant leaps' in knowledge and human achievement.
+In this article I describe the solar system space
+missions already approved for the '90s, highlighting
+the important role which Imperial College scientists
+are set to play. Imperial involvement centres on
+investigating the behaviour of plasmas and magnetic
+fields in solar system space, especially those
+processes which are relevant to the universe.
+First, though, it is right to question the.reasons for
+conducting expensive space exploration when there
+are so many pressing human problems here on Earth.
+To my mind, such highly technological scientific
+pursuits are vital for intellectual and national vigour;
+if worthwhile intellectual challenges are absent
+stagnation soon sets in. What greater intellectual
+challenge can exist than to understand the region of
+space in which we live and which we may eventually
+colonise? The analogy with Columbus is allied to this
+argument for if he had not sailed, progress would
+certainly have been delayed. There is every reason to
+believe that practical benefits for humankind will also
+come from exploring the solar system. Last but
+certainly not least, solar system exploration offers
+perhaps the best opportunity for forwarding
+international collaboration and detente.
+During the '90s new exploratory missions are
+confirmed or planned to every planet in the solar
+system and to several asteroids and comets. This
+exciting programme includes fly-bys, orbiters,
+atmosphere probes, balloons, landers, rovers and
+the Space Shuttle later this year. Courtesy ofESA
+sample return missions. The table lists those missions
+already approved.
+The new era of solar system exploration began last
+year with the successful launches of the Magellan and
+Galileo spacecraft (the first NASA planetary missions
+in over a decade). Magellan is targeted to Venus,
+Earth's hostile sister planet, which it will reach on
+August 10, 1990. It will perform detailed scanning at
+various wavelengths of the Venusian atmosphere and
+surface, looking for deep cloud patterns, lightning,
+volcanoes and evidence of plate tectonics. Later this
+month Venus will also be visited by the Galileo
+spacecraft, probably the most sophisticated robotic
+probe yet flown. This encounter will be followed by
+two Earth flybys to speed Galileo's passage to Jupiter
+which it will reach in December 1995. There it will
+release an atmosphere probe, undertake detailed
+measurements of the swirling atmosphere, giant
+magnetosphere (ten times the Sun's diameter) and
+energetic radiation belts, and perform a complex tour
+lasting twenty months, of the numerous moons of
+Jupiter. Many will recall the stunning Voyager
+photographs of the Jupiter system; but these could
+pale into insignificance when compared with the
+definition achievable on Galileo which will rival that
+of Landsat pictures of cloud cover over the Earth's
+surface. Without question many significant
+discoveries will follow. Of special interest to Imperial
+workers is Jupiter's volcanic moon, lo. Intense electric
+currents flow between lo and Jupiter's outer
+atmosphere which cause fluctuation in the intensity
+of radio waves emitted from Jupiter's vicinity. Imperial
+has been in the forefront for proposing models for the
+origin and structure of these currents and radio
+emissions, and Galileo will provide unique data for
+testing these theories when it flybys lo at about 1000
+km.
+In October this year the pioneering Ulysses mission
+will be launched (figure 1) to fly over the poles of the
+Sun in a unique journey lasting over four years.
+Ulysses will be the first probe to explore our solar
+Page 8
+

@@ -1,0 +1,135 @@
+12 felix
+FRIDAY 12 november 2010
+TECHNOLOGY
+Technology Editor: Samuel Gibbs
+technology.felix@imperial.ac.uk
+The first mention of a mythical Play-
+Station phone was over four years ago
+in September 2006 on several gadget
+rumour websites. Recently Engadget,
+arguably the largest gadget blog in the
+world, has staked their reputation on the
+fact that the fabled device exists -- shar-
+ing specifications and a series of photo-
+graphs of an Android based smartphone
+with a custom Sony Marketplace for
+games. When Engadget says something
+exists, it definitely exists.
+Sony’s attempt at bridging the gap
+between a games console and a phone
+appears to be a direct response to the
+handheld gaming threat posed by the
+iPhone, and to an extent the iPod touch,
+with the touch screen interface, acceler-
+ometer gaming controls and wide range
+of cheap downloadable games in the
+App Store.
+Now the Playstation phone appears to
+be real, with Sony Computer Entertain-
+ment Europe quickly retracting a state-
+ment by an employee that the phone is
+a ‘fake’ and instead stating that they ‘do
+not comment on speculation’.
+The rumours predict a 1GHz proces-
+sor, 512MB of RAM, 1GB of ROM,
+a 3.7”-4.1” screen size and perhaps
+most surprisingly, a MicroSD card slot
+in lieu of its proprietary and more ex-
+pensive M2 or MemoryStick Duo slot.
+Prices are not known, although it can
+be expected to undercut the iPhone
+and compete with existing Android
+smartphones.
+The phone will likely be available in
+the first half of 2011. This is of course
+all rumour at the moment, until it is of-
+ficially announced and in the hands of
+reviewers everywhere!
+It’s no secret thatApple isn’t the biggest fan
+of Adobe’s Flash. One of the big criticisms
+of the iPhone is its inability to display Flash
+content, which upon the device’s release,
+made up a huge portion of the internet’s
+streaming videos and games.
+This inspired Steve Jobs to write an open
+letter back in April, criticising the technolo-
+gy on multiple fronts, including: openness,
+size, reliability, power consumption and de-
+velopment. One can only assume that lost
+somewhere in the first draft of this letter
+was a reference to Flash’s mother, possibly
+linked to some remark about obesity, per-
+haps having her own postcode.
+As well as irritating Adobe, whose CEO
+Shantanu Narayen later announced the
+company had “moved on” from iOS de-
+velopment, it extinguished any hope left
+in iPhone owners that they will ever get to
+watch Megavideo or play Miniclip games
+on their pocket pal of choice.
+Then along came Skyfire, an alterna-
+tive mobile browser choice with a twist,
+previously only available on the Android
+platform. Skyfire’s brand new iOS app
+finally brought Flash video to the iPhone
+(without having to go the jailbreak route).
+This feat of Apple defiance is achieved by
+transcoding the video into Apple-friendly
+HTML5 wrapped H.264 on their own serv-
+ers, before streaming it to users. On top
+of this killer feature is a fully functioning
+mobile browser built on top of the Webkit
+underpinnings that powers Mobile Safari,
+maintaining most of the capabilities seen in
+the built-in iOS browser, but adding things
+like: private browsing (porn mode, if you
+will), a related pages explorer and fast ac-
+cess to Facebook.
+As one can imagine, it has been a huge
+success. Just hours after its US release the
+app shot to number one in the iTunes app
+charts and had to be pulled by Skyfire as
+their servers were crippled by the sudden
+onset of iPhone users. Early downloaders
+who have given it a try seem to be happy
+with the product. Flash is a bit slow to load
+as the servers do their converting, but the
+content is delivered with a decent quality.
+One drawback is that the HTML5 video re-
+turned to the user does not allow scrolling
+to a specific point in time in the video, nor
+can it implement the “skip ad” features that
+some sites offer.
+It’s also important to note that this tech-
+nology does not work with Flash games, so
+procrastinating in lectures will still be best
+done with apps or laptops.
+At the time of writing, the app remains
+pulled from the app store, but will slow-
+ly be re-released in the US to be sold in
+‘batches’ and expanded globally as Sky-
+fire reinforces their servers to deal with us
+demanding iPhone users. While it’s not in
+Apple’s nature to change their principles
+when it comes to user-interface and how
+that interacts with features, this app makes
+one thing tremendously clear: iOS users
+want Flash!
+Free App of the Week
+iOS - Sky Sports News for iPhone
+Whatever sport you follow, Sky Sports News has you
+covered. Quickly look up the latest news and scores
+from around the world, right from your iPhone.
+Behold: The PlayStation Phone is real!
+Craig Buchanan
+It may have a dodgy name for football, but it’s better
+than soccer I guess. Simple, fast and all the scores
+at the tap of a finger.
+Android - SportsTap for Android
+SkyFire = iPhone + Flash
+Want to watch Flash video on your iPhone even though
+Jobs doesn’t want you to? Get yourself SkyFire browser
+Chris Fonseka
+Engadget stake reputation on
+Sony scoop
+

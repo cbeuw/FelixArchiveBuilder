@@ -1,0 +1,169 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 02 NOVEMBER
+44
+Crossword
+1 1 2 2
+0
+0
+3
+3
+2
+1
+3 2
+2 2
+2
+0
+0 1
+2
+3
+1 2 1
+3
+2
+3
+3 3
+2
+2
+3
+3 3
+3
+3
+1
+1
+1
+1 1
+1
+1
+Slitherlink
+Countdown
+Yet another Slitherlink. To solve it, you need
+to make a single closed loop by joining the
+dots so that numbered squares are surround-
+ed by the corresponding number of lines (e.g.
+a square numbered “3” must have a line seg-
+ment on three of its sides).
+HisGraceandherGracetheDukeandDuchessofRumpterfrabbleandtheReverend
+Saunterblugget Hampterfuppinshire reminisce about this year’s Moonlight Ball.
+Duchess:Itwasalight-heartedaffair.Beforethedance,weallplayedaparlourgame
+inwhicheveryonetriedtoguesshowmanyofuswereknaves.Someonesaid“Atleast
+oneofusisaknave”,thensomeoneelse“atleasttwoofusareknaves”,then someone
+else “at least three of us are knaves”, and so forth until everyone had had a go.
+Duke: Sadly, everyone paired off after that and the Reverend couldn’t find a dance
+partner. At least one person in the ball had a good time, though.
+Reverend:Oh,Duchess,neverbeforehasitbeenclearerthatyourmarriageistainted
+by at least one knave amongst you.
+Duchess: Agreed,Reverend.(turning to her husband)Do stop lying, Herb.
+Who’s a knight and who’s a knave? How successful was the ball?
+If “ja” means “no”, Aaron says that at least one of them is a knave, effectively claiming Barbara
+is a knave (since nobody can claim to be a knave themselves). Then Barbara says he is a knight.
+Thisleadstoaparadox (“You’realiar”,“You’reright”)nomatterwhatthepairare,so“ja”means
+“yes”.Assuch,Aaronclaimsthatbothareknights,whileBarbaraclaimsthatheisaknave.IfAar-
+on is a knight, then Barbara is a knight who is lying, so Aaron is a knave, and Barbara a knight.
+Knights and Knaves
+Last week’s crossword
+Chess
+Solution to last week’s Knights and Knaves puzzle:
+Solution to last week’s Slitherlink
+It’s another nonogam; the
+numbers show you the
+length of the groups of black
+squares as well as how many
+of them there are in a row or
+column.
+FUCWIT
+League Table
+INDIVIDUALS
+Yufan Zhao 14
+Wael Aljeshi 12
+M-Soup 4
+We’ve received quite a lot of solu-
+tions from individuals, but not that
+many from teams. Get to solving,
+fellas, because these are Netflix
+subscriptions we’re talking about.
+Send answers as always to:
+puzzles.felix@imperial.ac.uk
+T E L E T U B B I E S I
+E O E A I R K E D
+N U L L E D R N N O
+T I E G I G G L E L
+A A V E N U E U A L I
+C O D E O E L A D S
+L R U G L A S S E
+E O P E N I N G R D
+O C S I R E D
+D R O O L E D T E T
+A L D S T Y L E S
+R A F T
+T E F L O N T R A N Q U I L
+S R N U I N
+C O N T R I V E P U N Y
+6
+1
+1
+1
+1
+1
+3
+1
+3
+1
+1
+1
+1
+1
+1
+1
+9
+1
+1
+1
+5
+1
+1
+6
+2
+1
+1
+1
+5 8 8
+3
+1
+1 5
+3
+1
+1
+1
+4
+1
+1
+4
+3
+3 3
+1 1 2 2 2 2 2 2 2 2
+3 3 4 4 4 4
+1 1
+3 3
+2 3 1 1 3
+1 1 1 1 1 1 1
+1 1 3 3 3
+1 1 1 1 1 1
+2 1 1 1 3
+1 2 1 3 2
+1 1 3 1 1 1
+1 3 3 2
+1 1 1 1 1 1 1 2 2 2 2 2 2 2 2
+1 2 1 1 1 2 2 2 2 2 2 2 2 2
+2 2 2 2 2 2 2 2
+4 4 4 4
+2 2 2 2 2 2 2 2
+2 2 2 2 2 2 2 2
+41312432
+Nonogram, EBPuzzle,
+Thermometer Sudoku
+And now for a classic chess problem:
+White to mate in two moves.
+

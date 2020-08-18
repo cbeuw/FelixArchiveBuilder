@@ -1,0 +1,526 @@
+sudoku.felix@imperial.ac.uk Fun & Games
+The winner of Slitherlink 1,406 was
+Richard Taylor! Congratulations!
+Awesome cheesecake with redcur-
+rent puree and a cinnamon biscuit
+base. We’ll give a prize out in the
+summer. The more entries, the bet-
+ter your chances.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+Slitherlink 1,407
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,406 solution
+3
+0
+x
+x
+x
+x
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“DOUR”
+“DOUR”
+“DOUR”
+“Riki I love your height. what’s the
+secret?”
+“DOUR”
+“Dour”
+“Whoever checks the Wordoku gets
+paid too much. And if they don’t
+get paid, they should be tortured in
+a medieval fashion.
+”
+“Dour”
+“Dour”
+Wordoku 1,407
+S
+N
+G
+E
+A
+B
+N
+O
+M
+E
+B
+A
+O
+N
+M
+S
+N
+G
+N
+M
+O
+N
+S
+G
+E
+B
+A
+G
+S
+M
+N
+E
+O
+N
+A
+B
+O
+A
+N
+B
+M
+N
+H
+S
+E
+N
+E
+B
+S
+G
+A
+O
+M
+N
+B
+G
+S
+A
+N
+N
+M
+E
+O
+A
+N
+E
+M
+O
+S
+B
+G
+N
+M
+O
+N
+G
+B
+E
+A
+N
+S
+1,406 Solution
+U
+K
+I
+E
+C
+O
+K
+E
+I
+U
+E
+J
+O
+U
+U
+J
+N
+C
+O
+J
+B
+C
+B
+U
+J
+K
+O
+B
+N
+E
+K
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters. Once you’ve completed
+the puzzle, there is a hidden word
+to find. Email answers to sudoku.
+felix@imperial.ac.uk.
+OK, so we made a mistake,
+my bad, but the word was
+MONGBEANS. This weeks word
+is brought to you by Chazzle
+Dazzle Wordoku extraordinaire!
+3
+29
+Friday 13 June 2008 felix
+ACROSS
+1 Put an end to juice game (6)
+4 Celestial body is a drug (8)
+9 Neighbours on either side make
+animal noises (6)
+10 Portuguese count in Western coast
+of Ionian province (8)
+12 God with sore back (4)
+13 Distorted facial expression in the
+hoods (5)
+14 Hear hear? (4)
+17 Sex addict can champion many
+movements (12)
+20 Christian ship on the run crashes,
+but brings them back dead or alive
+(6,6)
+23 Significant work stirring soup (4)
+24 Looks at the gentry (5)
+25 Steady business (4)
+28 Dizzy Prime Minister (8)
+29 Past elements include faded
+colours (6)
+30 Indication to stop in a seedy part of
+town (3,5)
+31 Remained boring-sounding (6)
+1 2 3 4 4 5 6 7 8
+9 10
+11 11
+12 13 14
+15 13 16
+17
+16 18 18 19
+18 20
+21 22 21 22 23
+23 22 24 25
+26 26 27
+28 29
+30 31
+DOWN
+1 Burning to hold a note while giving
+voice (8)
+2 Inform us about costumes (8)
+3 Chase around London
+neighbourhood (4)
+5 North country measurement from
+police HQ (8,4)
+6 Throw out, so as to measure up (4)
+7 Empty lives of Greek fruits (6)
+8 Jackass has master key (6)
+11 Calm hometown somewhere in the
+Empire (12)
+15 Confusion over no money runs
+riot (5)
+16 Cherish the radioactive material
+found in the valley. (5)
+18 Exclusively non-drinking lyrics in
+disarray (8)
+19 Compressed tread contains enough
+to be flattened (8)t
+21 Bird in an apartment over the
+riverhead (6)
+22 Tightened wallet is dead (6)
+26 Malign head of African state (4)
+27 Massive Virginia highway (4)
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,407
+C
+A
+L
+P
+E
+L
+E
+L
+L
+W
+P
+W
+O
+A
+N
+E
+I
+E
+E
+D
+H
+I
+D
+E
+A
+L
+S
+T
+E
+A
+D
+O
+R
+N
+S
+A
+T
+P
+H
+I
+V
+T
+U
+O
+A
+F
+T
+E
+R
+M
+A
+E
+E
+A
+R
+T
+L
+R
+I
+Y
+G
+L
+A
+N
+E
+T
+E
+C
+O
+U
+P
+H
+A
+L
+T
+E
+L
+O
+P
+O
+C
+P
+S
+U
+P
+A
+D
+D
+S
+C
+L
+U
+K
+E
+W
+A
+R
+A
+M
+H
+T
+M
+U
+B
+I
+A
+E
+A
+G
+B
+R
+O
+M
+O
+R
+O
+N
+T
+D
+C
+E
+V
+I
+T
+N
+O
+N
+D
+R
+A
+J
+N
+R
+C
+E
+B
+U
+L
+L
+E
+T
+D
+O
+C
+H
+R
+S
+N
+E
+F
+O
+S
+M
+N
+E
+E
+H
+E
+A
+D
+E
+R
+R
+E
+A
+S
+E
+R R S C H E E R L E A D E R M
+E S
+Solution to Crossword 1,406
+F A R T H I N G E C L I N I C
+O P O T T E A M E O I N N
+S
+O
+I saw plenty of people attempting last
+week’s crossword in the Felix office,
+but alas, no one actually managed to
+finish it. Better luck with this week’s!
+Enoch
+I
+1
+3
+2
+1
+2 3
+2 3
+2
+3
+1
+2 1
+2
+2
+2
+3
+2
+1
+3 3
+3 2 2
+1
+2
+3
+2
+3 3 3
+2
+2
+2
+2 2
+2
+1
+2
+2
+1
+3
+1
+1
+3
+1
+2
+1
+2 2
+2 1
+0
+2 2 2 2
+2
+2
+2
+2
+2
+2
+2 2
+2 2
+2 2 2
+2
+2
+2
+2
+2
+2
+2 2
+2
+2
+2
+3
+3
+3
+3 3
+3
+3 3 3
+3
+3
+1
+1
+1 1
+1
+1
+0
+

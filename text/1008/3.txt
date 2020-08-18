@@ -1,0 +1,243 @@
+News and Editorial
+(Ubercackcrfrom page 1)
+The hacker managed to shut-
+down part of the Finnish equiva-
+lent of Britain's JANct system by
+stopping all e-mail reaching it. It
+caused the Finnish network to
+disappear off of the computer
+map and is known by computer
+experts as, 'a major denial of ser-
+vice attack'. The problem was
+traced by a Finnish user who
+reported this breach of security. A
+high level Finnish authority then
+contacted Imperial College to ask
+what, was going on. It is claimed
+by Professor Hynds, Mead of the
+CCS, that the CCS have, "man-
+aged to make sure that nothing
+like that, will happen again."
+However, when asked about
+whether improvements had been
+made, Mr Bennet replied: "None
+what so ever as far as I am con-
+cerned, no actions have been
+taken." Currently the present, sys-
+tem is vulnerable to anyone who
+has a workstation on the internet
+and knows the name of the local
+network.
+The experienced hacker,
+known in computer circles as an
+'Ubercracker', 'nuked' the system
+which means that they sent pack-
+ets of information to a machine
+on the network. The machine at
+the receiving end in Finland, act-
+ing as a nucleus for the university
+network, contained a bug that
+can be manipulated to make the
+machine stop 'talking' to die net-
+work.
+Currently all of the college's
+Unix based computers, except,
+those maintained by the
+Department of Computing are
+running a system that, is extreme-
+ly easy to break into. The
+Department of Computing uses a
+system called Kerberos diat is far
+more difficult to break into. It is
+not completely safe but. anyone
+wishing to break into a
+'Kerberosed' system would need a
+long time to do it. and know
+exactly what they were doing. It
+improves security by providing
+extra protection on passwords
+that move around the various sys-
+tems. "Basically, it makes things
+many times more secure than it
+currently is, and the College
+ought, to be using Kerberos now,"
+said Bill Sharp, computing sup-
+port, at St, Mary's.
+(RSM Namesfrom page 1)
+October 1995, it would show that
+the department wants to be
+involved in the new Graduate
+School.
+Professor Worthington said
+the change would only be of
+'marginal help' in the Research
+Assessment Exercise which the
+department will undergo next
+year in its bid to get a Grade 5
+rating, this would give the depart-
+ment more research money. The
+rating is seen as being vital to the
+financial well being of the depart-
+ment. Prof Worthington admitted
+that they were still not balancing
+their accounts, but with new lec-
+CciitoriaL
+At (he Mind's Edge
+My brother recently bad a motor
+cycle accident, which left, him with
+pins in his shoulder, left leg and
+right foot and, in addition, some
+very strange dreams. We were dis-
+cussing general anaesthetics and I,
+a veteran of two operations, men-
+tioned that the last, time I had one
+I was looking into the assistant's
+beautiful blue eyes as she counted
+down (1 giddy with gas and a mild
+infatuation) and I wondered why
+she stopped at 'seven'. "The oper-
+ation is over," she replied and I
+spent a lazy narcotic afternoon
+puncturing the hours with brief
+islands of consciousness. My
+brother, however, seems to have
+suffered rather badly. He speaks
+of hallucinations and tortured
+nights.
+"I was in this woods, talking
+to a strange monk in an iron
+mask. I lay there for hours and it
+was only the hospital bed that
+gave it away: that I was dream-
+ing." Aid: "there was this space-
+man next to my bed all night. I
+kept screaming at him to go away
+but he just sat there. All night..."
+And, slightly comically I confess,
+he spent the Friday after the third
+operation fervent in the belief that,
+he was an 'aircraft door'. He told
+me, quite genuinely, that, he was
+surprised to be in hospital with all
+these other doors — since when did
+doors go to hospital? And why
+would a nurse call a door by its
+News In Brief
+BY PETER LANIGAN, IAN DAVEY AND RACHEL WALTERS
+Union Disciplinary
+Two students have been banned
+from the Union Building after a
+disturbance during Fresher's
+Week.
+The incident occurred inside
+the Union Building on the night, of
+the casino and the hypnotism
+show. It resulted in the involve-
+ment, of security and Union
+Stewards.
+The students, undergraduates
+in the Departments of
+Mathematics and Mineral
+Resources Engineering, appeared
+before a disciplinary committee
+shortly after the incident.
+Dan Look, Deputy Union
+President (Finance & Services),
+said that the matter was being
+treated as personal and would not
+reveal any names. He declined to
+comment further. It is believed
+that the students had been drink-
+ing heavily, and that the incident
+happened towards the end of the
+evening.
+Women's Problems
+In a new initiative for the female
+population of Imperial College,
+security's women staff have
+undergone training by the
+Metropolitan Police in dealing
+with victims of sexual harassment,
+and assault. Women make up
+10% of the staff, which will enable
+at least two to be on duty at each
+shift.
+tureships and the additional
+£200,000 per year that a Grade 5
+rating automatically generates, it
+would make a balanced budget
+possible.
+In the case of Materials, the
+third department of the RSM,
+discussions are taking place for a
+name which would better reflect
+its activities. Professor Maclean,
+the head of Materials, has insisted
+that a change is not imminent,
+and would be for 'marketing's
+sake' rather than to reflect any
+philosophical change. He
+emphasised that undergraduate
+courses would continue, and
+pointed out that his is the biggest
+Materials department in the
+country. "Rumours of our death
+are greatly exaggerated," he
+joked, insisting that Materials will
+continue to exist, as a separate
+department.
+Credits
+Editor
+Printer
+Business Manager
+Advertising Manager
+Editorial Team
+Owain Bennallack
+Andy Thompson
+Tim Bavister
+Helen Randall
+Music
+News
+Photography
+S-Flles
+Vik Bansal
+Declan Curry & Andrew Tseng
+Ivan Chan & Diana Harrison
+Tim Parsons
+Art & Literature
+Cinema
+Clubs, Societies & Union
+Columns
+Features
+Jon Jordan
+Wei Lee
+Piers Doniell
+Marcus Alexander
+Kate Cox
+Seven Day Guide Wei Lee & Ivan Chan
+Sport Juliette Decock and Mark Baker
+Standby Jon Jordan
+Editorial Assistance
+Collating Last Week
+Jon Jordan, Andrew Tseng & Helen Randall
+Helpfulness Steven Newhouse
+first name?
+What, lies behind the brain,
+beneath those neurones and deep
+in the heart of nothingness or
+soul? I sometimes wonder if there
+is a part if the brain dedicated to
+believing — some peoples convic-
+tions seem so bizarre and irra-
+tional even in daily life. I have a
+theory thai, the much hyped virtu-
+al reality will not come through
+billion pixel displays, supercom-
+puters or lasers writing directly on
+to the retina but by tapping
+straight, into this 'belief lobe'. After
+all, LSD and even dreaming
+appear to do just. that. But dien,
+my reality always was virtual...
+2I0CT94 F E L I X E H
+

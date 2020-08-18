@@ -1,0 +1,400 @@
+Feature
+• 1
+l IHE ART OF NVISM
+M
+• • •' • * .
+• # M# #
+« • • • » • < • » • • • iwl^s
+Since the 1960's, the synthesizer has
+become one of the most common
+instruments in modern music. Their
+spread so worried the British Musicians
+Union that, in 1982, it threatened to
+outlaw computers and drum machines
+from recording sessions. When the
+Moog synthesiser was introduced in
+1965, Phil Spector was producing soul
+records using full orchestras and
+choirs—it was the only way he had to
+produce the lush background sounds that
+he wanted for songs like You've Lost
+That Loving Feeling, by the Rightchous
+Brothers. Just ten years later soul groups
+were using a single Moog, and its
+relatives like the Oberheims, Arps and
+Korgs to supply the very same type of
+effects. String and brass synthesizers
+were designed specially for the new
+market. Where Spector needed an
+orchestra of over 30 performers, the new
+groups required one or two electronic
+keyboards.
+It was the development of the cheap
+transistor that allowed the production of
+the synthesizer, and the microchip its
+proliferation. Electric keyboards from
+firms like Casio are now replacing
+electric organs in the expanding home
+market. The sounds of one-fingered
+versions of Vive Espana to Bosa Nova
+rythms played on cabinet-sized organs
+are giving way to pre-programmed
+songs backed by sophisticated drum
+machines no larger than a briefcase. But
+attempts to design synthesizers have
+been made throughout the 20th century;
+their efforts always thwarted by the lack
+of technology capable of taking their
+ideas.
+The first attempts at producing music
+using electricity, in the closing stages of'
+the 19th century, were mere toys
+compared with the vision of Thaddeus
+Cahill, a keen inventor and musician
+from America. Elisha Gray, more
+famous with his battle over the invention
+of the telephone with Alexander Graham
+Bell, had designed a machine he called
+the "musical telegraph". He had found
+his nephew playing with a strange
+electrical circuit involving a metal reed
+vibrating against a metal bathtub in the
+summer of 1874. Inspired by this, he
+designed a set of parallel circuits to
+produce an instrument that played over
+an octave's range. However, Gray
+dropped the project to continue his
+research into the telephone system. It
+was taken up by German, Ernst Loranz,
+who, in 1885, devised a way of
+controlling the sound envelope—the way
+a note begins and ends.
+Along with the 'Singing Arc' of
+William Duddell, an English physicist,
+these instruments were mere drawing
+room curiosities. Cahill's Telharmonium
+project was a far more serious attempt,
+prevented from success by the lack of
+suitable technology at the time. His idea
+was to broadcast the sound from his
+instrument over the telephone lines to
+listeners wearing headsets far away, or
+to loudspeakers hidden discreedy behind
+aspidistras in hotel foyers.
+The method he used to generate the
+individual notes in the machine was to
+the noise put out by
+the motors could
+have easily drowned
+the music.
+have a 'rheotome' (a type of primitive
+alternator) for each note. It consisted of
+a brush rubbing against a cogged wheel;
+the intermittent contact would produce
+an oscillating electrical signal, in this
+case a pure sine wave. Thus the note
+produced by an individual rheotome
+would have similar tonal qualities to
+those played on the higher keys of a
+flute. Cahil was a keen student of tonal
+physics and realised that this sound
+would be too thin and reedy, and so for
+each note he used five rheotomes,
+corresponding to the fundamental and
+the various harmonics. These harmonics
+could be taken out if desired, but if left
+in gave an effect akin to a real musical
+ms'trument. His original specification
+called for 408 individual rheotomes, but
+he only ever used 144 in the last, and
+largest instrument. After demonstrating
+a small prototype version to prospective
+backers, he was put in touch with
+various investors by George
+Westinghouse of the now multi-national
+electrics company. With this financial
+support he built his second
+Telharmonium—an instrument that
+weighed 200 tons and used up to 15
+kilowatts of power. At the turn of the
+century there were no vacuum tubes, no
+way of amplifying a signal to any great
+degree. This meant that each rheotome
+required an eleven inch shaft of steel,
+each note about 6 feet, and a whole
+octave, 30 feet. In order to supply the
+required six or seven octaves the
+machine had to be massive. It was
+fortunate that the output of the
+Telharmonium was transmitted; the
+noise put out by the motors themselves
+could have easily drowned the music
+In 1906 the machine was upgraded to
+itsfinalform and moved to New York.
+However the telephone transmissions
+brought complaints about interference
+with the network, and imperfections in
+the machine itself caused the business
+to fall apart in 1911, despite widespread
+interest.
+In 1920, Russian scientist Leon
+Theremin developed his own
+instrument, using the newly invented
+technology of the wireless. It had no
+moving parts, and so may be described
+as the first totally electronic musical
+instrument. The Theremin, as it was
+later christened, was played by moving
+the hands around two aerials protruding
+from its cabinet—one controlling pitch
+and the other loudness. This way of
+controlling the instrument was its major
+downfall; it meant that it was only ever
+capable of producing rising and falling
+glissandi effects. While impressive at
+first, they quickly bored composers.
+Until the invention of the modern
+synthesizer, the Theremin found a niche
+in movie sound effects—used quite
+prominently in the sciencefictionclassic
+The Day the Earth Stood Still. Despite
+its short-lived popularity, the Theremin
+appeared once again forty years later,
+when Robert Moog, inventor of the
+Moog synthesiser, financed himself
+whilst getting his physics doctorate by
+selling a transistorised version of the
+Theremin at 50 dollars apiece. One of
+those instruments then featured on the
+Beach Boys' Good Vibrations, and it is
+still being used by avant-garde
+performer Youssef Yancy.
+The Theremin spawned renewed
+interest in electronic music, and related
+instruments quickly appeared. The
+1930s brought a new emphasis. Up to
+this point the new technology was
+designed to produce brand new sounds,
+but now electric organs and electric
+pianos were beginning to be
+developed—instruments that would
+mimic their acoustic counterpoints,
+using similar tone-generation principles.
+Thefirstelectric organ, designed by
+Laurens Hammond in 1929, used the
+same tone wheel idea as Cahill's
+Telharmonium. But Hammond had the
+benefit of the newly invented thermionic
+valve and the associated amplifier
+circuits. Modern organs now have
+totally electronic oscillators, but
+Hammond paved the way for the organs
+that would be used by jazz and rock
+combos around the world. The
+Hammond itself, despite being in
+essence a very primitive device, lived
+on right into the seventies, forming a
+great deal of the sound of groups like
+Procul Harum and Van der Graaf
+Generator.
+The other instruments to be developed
+at this time were existing ones that were
+to be electrically amplified rather than
+imitated. The piano was thefirstto be
+given the treatment, developed by
+classical piano makers, Bechstein and
+Son in the late 20s. Individual pickups
+over each string converted the vibrations
+into electrical impulses to be fed through
+valve amplifiers. Similarly the electric
+guitar was introduced by the Electro
+String Company using Adolph
+Rickenbacker's designs during the early
+30s. Ironically, it took the further
+development of synthesizers for
+composers to realise that these
+instruments could easily be treated to
+produce new sounds. The modern fuzz-
+box was made only after rock musicians
+of the 60s found that their valve amps
+distorted the output from their electric
+guitars by a process known as 'clipping',
+producing a much rawer-edged sound.
+The fuzz-box produces the same effect
+without seriously damaging an
+amplifier, coupled with the fact that the
+newer transistorised versions do not
+distort in quite the same way. Other
+effects such as Wah-Wah and Distortion
+Multipliers were soon to follow.
+The first true synthesizer was
+produced by RCA in 1955, and named
+after its designers, Harry Olson and
+Herbert Belar. The machine took up the
+better part of the studio it was housed
+in—like the computers of the day, any
+ambitious synthesizer had to be that big
+to house the required number of valves.
+The tone generators were
+electromechanical, like the
+Telharmonium and the Hammond before
+it, this time an arrangement of tuning-
+fork oscillators, conforming to the
+twelve note scale. Hammond himself
+had tried to introduce an instrument—
+the Novachord—in 1939 which featured
+over one hundred valves, and
+unprecedented sound-shaping controls.
+The machine, however, was plagued by
+technical difficulties surrounding the
+complexity of the instrument; difficulties
+that had been ironed out by the mid-50s.
+Olson and Belar had forseen that the
+largest use for a synthesizer would be
+in the popular music market, and
+designed it to imitate existing
+instruments rather than to produce
+entirely new sound. As such it had more
+in common with the modern home-
+organ, but it was a premonition of the
+string and brass synthesizers that were
+to appear twenty years later. Despite
+their original intention for the machine,
+popular music artists were never able to
+use it. The majority of its use came from
+experimental composers and researchers
+into using computers in music.
+It was the invention of the transistor
+that opened the door to mass-produced
+synthesizers for the popular market.
+barking dogs, choirs
+and scraped paving l
+stones could all be
+played like a piano.
+Working independently, Donald Buchla
+and Robert Moog were developing very
+similar systems, introducedfinallyin the
+mid-60s. The new approach to music-
+synthesis was a voltage controlled
+system, which defined pitch, tone,
+modulation and the envelope
+characteristics of a sound. It meant that
+oscillators could affect other oscillators
+to produce entirely new waveforms, and
+in turn control other features of a sound.
+Even the tone generators were now an
+electrical circuit—the transistor circuit
+that appears on many a problem sheet.
+The Moog design quickly became the
+most popular, despite Buchla's use of a
+sequencer, not least due to the fact that
+the Moog had a traditional keyboard
+while the Buchla had a touch-sensitive
+plate. The original Moog design was a
+modular studio system, toofragileto go
+on the road with bands. This was soon
+remedied by the introduction of the
+Mini-Moog, a smaller and far more
+robust version. Other companies soon
+began to introduce their own models
+based on the voltage controlled system,
+like Oberheim, Korg, Roland and EMS.
+The EMS VCS3 was thefirstthat many
+musicians ever toyed with as it was far
+cheaper than many of its counterparts,
+and also quite unreliable. These early
+synthesizers were all monophonic—only
+one key would play at a time. This fact
+caused a lot ofridiculefor synthesizer
+players from'their more highly trained
+contemporaries playing guitars and
+pianos. Bands like Queen and Boston
+proudly displayed "no sythesizers used"
+on their record sleeves in the hope that
+virtuoso playing meant better music.
+Queen eventually succumbed to the lure
+of the artificial in 1979 by featuring an
+Oberheim quite heavily.
+By this time polyphonic keyboards
+had been introduced by Moog and
+Oberheim, as sythesizers moved in to
+take over the electric organ market.
+Simple computers were soon
+incorporated into the instruments with
+the introduction of Sequential Circuits'
+best seller, the Prophet 5. This keyboard t -
+could remember patches that a player
+had programmed in before and call up
+the settings automatically. This idea
+became the basis of Casio's range of
+home synthesizers, sophisticated toys
+that could remember tunes as well as
+sounds and replay them to pre-
+programme backing tracks.
+Home-computers quickly saw the
+impact that built-in sound generators
+could have in their machines and soon
+introduced the VIC-20 and the Sinclair
+Spectrum. They were vastly inferior to
+their true synthesizer parents, but
+showed how useful computers could be
+in music-production. The
+Commodore-64 featured a far more
+sophisticated sound-system, but the truly
+professional system, such as those used
+on the Apple, required separate
+keyboards and synthesizer units.
+Even Moog's design was not ideal; a
+new wave of digital machines was being
+introduced, thefirstbeing the Synclavier
+(1975). The advent of the integrated
+circuit had made it possible to make
+synthesizers that worked on frequency
+modulation rather than the old style
+amplitude modulation, as in the Moogs
+and Oberheims. The digitisation of
+waveforms made it possible, at least in
+theory, to shape them on a
+microcomputer to produce custom-built
+sounds of great complexity. As
+computer speed increased, so more
+detail could be packed into a waveform.
+The result was the Fairlight Computer
+Musical Instrument, unveiled in 1979.
+It made it possible to design complete
+sounds on a computer screen and then
+play them over a six octave range, it also
+had the feature of recording sounds
+through a microphone and analysing
+them into their components so that
+barking'dogs, choirs and scraped paving
+stones could all be played like a piano.
+The sampler had arrived.
+Such was the complexity of the
+machine that unless a musician was
+willing to spend months training on the
+instrument, as artists like Peter Gabriel
+and Larry Fast had, special technicians
+had to be drafted in to program them—
+creating a whole new breed of
+instrument technician, mid-way between
+a session musician and a roadie.
+Numerous samplers followed, ranging
+from £700 'toys' like the Casio SK-1
+with its tiny noises through to
+Synchaviers costing over £30,000.
+With these new machines there seems
+to be little room for development, apart
+from the addition of more memory to
+produce clearer sound—the only goal
+left now is to make them easier to use,
+and cheaper.
+But in less than a century, progress
+has moved at such a rate that one
+electronic instrument can almost replace
+all others. Whether this is good for the
+music industry, or merely setting upon
+the road of endless records using
+identical bland sounds of massed choirs
+and orchestras, still remains to be seen.
+

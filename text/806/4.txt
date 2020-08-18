@@ -1,0 +1,199 @@
+Catching up
+with nature
+Bacteria are just about the simplest
+things there are, but the simplest bug
+can do thousands of things that
+humble the combined might of the
+world's chemical industry. This
+makes chemists very very jealous. It
+also makes them put a lot of effort into
+catching up.
+The things that make chemists
+jealous are the selectivity and speed
+of enzymes (nature's chemical
+factories). Take nitrogen fixation:
+bugs can turn molecules of Nitrogen
+(N,, a notoriously inert molecule)
+into ammonia (NH,, a reactive
+molecule easily converted into
+fertilizer for the plants they live on)
+at room temperature and pressure.
+Whgn chemists want to make
+ammonia (and they do, as more
+molecules of ammonia are made than
+any other chemical) they have to heat
+nitrogen and hydrogen to 700 degress
+at hundreds of atmospheres pressure
+over a metallic catalyst. Chemists can
+therefore get very annoyed watching
+a lawn grow.
+However, we have started to
+understand how nature does this
+clever trick. Chemists at the
+Agriculture and Food Research
+Council's Institute for Nitrogen
+Fixation at Sussex University, have
+been exploring the structure of the
+nitrogenase enzyme (where nitrogen
+fixation actually happens) and they
+know quite a lot about it. The active
+centre, buried deep in a large protein,
+contains an atom of molybdenum (a
+fairly rare second row transition
+metal, and the least abundant element
+known to be important for any natural
+process: fans of The Hitchhiker's
+Guide may want to know that its
+atomic number is 42; this may or may
+not be significant).
+Some of the other chemists at
+Sussex have been trying to second-
+guess nature by building simple
+molybdenum compounds and looking
+at their reactions with atmospheric
+nitrogen. They have been able to do
+some temptingly interesting chemical
+reactions, but have not yet produced
+a useful room-temperature source of
+ammonia.
+As well as doing simple chemistry
+under mild conditions, enzymes are
+good at doing very complicated
+chemistry extremely selectively. All
+living things are, ultimately, built up
+from the building bricks present in air
+(oxygen, nitrogen, carbon dioxide)
+and water plus a few other elements
+U N D E R
+MICRO
+by Steve Black
+in smaller quantities. The complexity
+of living things is a reflection of the
+complexity of the chemistry done by
+their enzymes.
+Consider how much chemical
+jiggery-pokery must be required by
+the enzymes of the plant Caffea
+Arabica to assemble bits taken from
+air and water into that molecule
+without which student life as we know
+it would be impossible, caffeine.
+Enzymes presumably work because
+they are very good at recognising
+other molecules. An enzyme must
+pick specific molecules from complex
+mixtures and put them together in a
+well-orchestrated way. To do this it
+has to hold molecules tightly together
+and encourage them to react. We are
+just starting to uncover just how
+enzymes go about such business.
+Not all our discoveries in molecular
+These diagrams show the molecular structure of the molecules in a chemical
+shorthand. Carbons and hydrogens are not shown explicitly so as not to clutter
+up the skeletal picture. So, each vertex in the diagram is a carbon with enough
+attached hydrogens to make its total number of bonds equalfour. Me stands
+for —CH,
+caffeine
+diquat
+paraquat
+dibenzo (24) crown (8): molecules like this can tell the difference between
+diquat and paraquat.
+a sort of sandwich with bits from the
+other molecule as the filling.
+Dr Williams (IC Chemistry) and his
+colleages realised that they might be
+able to exploit this effect to make
+sandwiches with nasty molecules such
+as diquat and paraquat (see diagram).
+So they made a range of different
+crown-ethers until they found ones
+that would form the right sort of
+sandwich. Their compounds can
+distinguish between diquat and
+paraquat even though they are very
+similar chemically. Unfortunately
+they have not yet found a compound
+that can cure paraquat poisoning, but
+their compounds can be exploited as
+very sensitive detectors of paraquat.
+Studies like this are starting to help
+chemists understand how nature's
+factories go about telling the
+difference between similar molecules.
+Meanwhile, other chemists are
+trying to build very simple artificial
+enzymes. These try to incorporatejust
+a single chemical feature found in
+some natural system in an attempt to
+model one part of the enzyme at a
+time. For example, many enzymes
+work by pulling a simple organic
+molecule into proximity to a metal
+atom which can cause useful
+transformations in the bound
+molecule (bits can be added to it or
+taken from it).
+Chemists in the Netherlands have
+recently started work on some very
+crude mimics of this sort of process.
+They have built relatively simple
+molecules with two components: one
+end of the molecule holds a metal
+atom, and the other end can attract
+some simple organic building blocks
+and bring them close to the metal
+When I finish my thesis I will be
+going to Holland to see what happens
+next. We hope to gain some insight
+into the way enzymes use metals to
+encourage their reactions. We might
+even be able to design some useful
+new catalysts.
+Chemists all over the world are
+putting a lot of effort into uncovering
+nature's tricks. We may not be
+moving very quickly, but we are
+catching up.
+Caffeine is C g H | 0 O 2 N 4 organised as
+shown in the picture. If the plant had
+left out just one —CH, then the
+molecule would have been
+theobromine (the much milder
+stimulant in chocolate) and student
+life would be impossible. And
+caffeine is just a throwaway molecule
+apparently used by the plants as an
+insecticide. The molecules we are
+built from are much more complex
+then that (and enzymes themselves
+work well because they are extremely
+complex molecules).
+recognition have been deliberate. For
+example, workers at ICI, Imperial
+College and Sheffield University were
+looking for ways to encapsulate
+cisplatin (a useful anti-cancer drug
+with nasty side effects) when they
+noticed an unusual interaction
+between bits cf one of their platinum-
+containing molecules and bits of their
+complexing agent, a crown ether (see
+diagram). Basically the flat aromatic
+rings (the hexagonal bits in the
+picture) can fold up (the rest of the
+molecule is very flexible) to produce
+P.S.
+Anyone who fancies a go at the job
+of Science Editor next year should
+probably contact me (int 4642) and/or
+next year's FELIX Editor. I've
+enjoyed it and I will pass on hints and
+ideas to anyone who wants them
+More than one person can do this job
+Next week is the last of my columns
+and I will be trying to work out what
+science actually is (can you think of
+a good definition?).
+Friday 10th June 1988 FELIX
+

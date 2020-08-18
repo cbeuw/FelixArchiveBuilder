@@ -1,0 +1,136 @@
+36
+FRIDAY 17 JAN
+PUZZLES
+Puzzles Commanders:
+Kingshuk Dasadhikari,
+Oliver Price
+puzzles.felix@imperial.ac.uk
+Crossword
+Sudoku
+Each row, column, and 3 x 3 box must contain all the numbers from 1
+to 9. That’s all. Enjoy...
+FUCWIT League
+nickwp		 45.5
+Jia Choo 43
+Adam Stewart 18.5
+Yufan Zhao 17
+Juliette Chupin 8.5
+Harder:
+Killer:
+Across
+1. English city (10)
+6. Scented powder (4)
+10. Oblivious (7)
+11. Wild applause (7)
+12. Charitable person (14)
+14. Designed for ease of use (9)
+16. Integer (5)
+17. Northern French city (5)
+19. Leafy zone surrounding a town (5, 4)
+21. Electronic component made by etching (7, 7)
+24. He has an alma mater (7)
+25. Sketch showing how something works (7)
+26. Smooth (4)
+27. Green area on South Kensington campus (6, 4)
+Down
+1. Rain heavily (4)
+2. Inconsiderate motorist (4, 3)
+3. Part of the body (5, 9)
+4. Large sea (5)
+5. Pain (9)
+7. Lasting (7)
+8. Make up (10)
+9. Historical conflicts between France and Britain,
+etc (10, 4)
+13. Transparent packaging (10)
+15. East African port (9)
+18. Time off (7)
+20. African country (7)
+22. Music not produced by a major record label
+(5)
+23. Portent (4)
+Cryptic:
+Across
+1. Motor phuts around city (10)
+6. First seen in topsoil and loam, chalky mineral
+(4)
+10. Unconscious conflict between Austria and
+Spain goes after peacekeepers (7)
+11. Zero tax with small charge for great reception
+(7)
+12. Thin Polish prat turned out to be someone
+generous (14)
+14. Suiting the body of finance, change “Cent” to
+“Guinea” (9)
+16. Rowing team’s pressure to drop leader (5)
+17. Poorly in the French city (5)
+19. You can’t build on this intermediate sports
+rank (5, 4)
+21. Electronics direct pic, run it differently (7, 7)
+24. Ex-student reduced swelling in bum (7)
+25. Figure service sent back, gaining weight (7)
+26. Seventy illustrates this kind of number (4)
+27. With ruler, rule between compass points area
+outside library (6, 4)
+Down
+1. Stream first of photos of us (4)
+2. Selfish driver, by the sound of it, sat on large
+motorbike (4, 3)
+3. Enema still isn’t swirling around organ (5, 9)
+4. Large volume of water capsized canoe (5)
+5. Pain to teach about absorbing oxygen and
+hydrogen (9)
+7. Bearing a girl included in search engine (7)
+8. One drug goes tits up in attractive form (10)
+9. Some number of bent cops won aerial battles
+involving France (10, 4)
+13. Wrapping survey up in what? Get stick over
+it (10)
+15. African city resolved dogma on matter, we
+hear (9)
+18. Freedom from garland? Certainly (7)
+20. Country singer Chris after weary rising... (7)
+22. ...change of key at end of country music (5)
+23. Ladies losing weight may be good or bad sign
+(4)
+Crossword Clues
+Nonogram
+The lengths of runs of shaded squares in each row and
+each column are given. Squares can only be shaded or
+unshaded. Solve the puzzle to unveil a pretty picture.
+No clues! Instead, the numbers in each cage must add up to the
+number in the top left. Numbers cannot be repeated in a cage. Tips:
+The numbers in each box, row and column must add up to 45. Look for
+cages with only one possible combination e.g. a two wide cage total
+3 must contain 1 and 2 .
+Last Week’s Solutions
+Helix		 8
+Gabriel Quek 7
+Emma and Ben 6
+WJ		 4
+Guess the Stop
+The British rail network runs far
+and wide. The name of a line
+is scrambled in the following
+anagram, and the name of a stop
+on that line, with the given number
+of letters is encoded by the sum
+of the letters, where A=1, B=2...
+Z=26, <Space/Punctuation>=0.
+Find the line and stop. Note that
+London Underground lines may
+also be possible answers.
+Anagram:
+bare look
+Stop:
+10 letters, Sum: 104
+Last Week:
+Anagram: Thameslink
+Stop: Farringdon
+Week Before:
+Anagram: Hammersmith
+and City
+Stop: Moorgate
+Milder Sudoku
+by Paul G.
+

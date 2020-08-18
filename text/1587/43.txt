@@ -1,0 +1,191 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 43
+07.11.2014
+FELIX
+Puzzles Editor Michael Faggetter
+Puzzles
+fsudoku@imperial.ac.uk
+Last week’s solutions
+Chess Max Eggl
+White to mate in 2 moves.
+Gone Fishing
+Easy Gentle Moderate Tough
+Nonogram Stephen Ball
+Easy Hard
+Quick Crossword
+Acrostic Grid
+LOCAL HERO
+1. LA (AL)
+2. ORC (ROC)
+3. CHIN (INCH)
+4. AIMED (MEDIA)
+5. LIKENS (SILKEN)
+6. HUSTLES (SLEUTHS)
+7. ESTRANGE (REAGENTS)
+8. RESIDENTS (TIREDNESS)
+9: OPPRESSING (POP SINGERS)
+Sudoku
+Complete this weeks nonogram reveal the second pre-historic animal! Shade in cells according
+to the numbers at the end of the rows and and columns. You might find this one slightly easier
+than last week.
+Nonogram
+Chess
+Word Ladders
+Sincere apologies to everyone who attempted the hard chess puzzle last week. There was a
+mistake and the puzzle was unsolvable. The puzzle king should have been positioned on
+the square f2.
+Once again, apologies to all who attempted the hard chess puzzle last week, which was
+unsolvable.
+Key:
+Rows=1-8; Columns=a-g
+K=King; R=Rook; B=Bishop;
+Q=Queen
+Easy: 1. R4b6+ ; Ka7
+2. R8b7#
+Hard: 1. Qh4 ; Kh3 or Kh4 or Kh5
+2. Bf5#
+or 1. Qh4 ; Kf4
+2. Qd4#
+2
+3 2 1 2
+1 8 5 2 1 1 4 3 1 1
+1 1 1 2 3 4 5 8 8 8 2 8 2 1 2 10 2 1 2 4 1 4 1
+2 12 1 1 1 7 5 4 4 5 3 3 5 5 11 2 7 6 2 6 1 4 8 3 2
+1 3 15 10 1 2 5 3 2 2 1 2 3 4 5 1 5 1 6 1 10 7 3 13 2
+2 2
+15 2 6
+11 3 1
+1 1 9 3 6
+2 1 8 10
+2 1 7 10
+3 1 5 4 3 1
+3 1 6 6 2
+3 1 6 2 2 2
+3 2 3 2 3
+3 11 7
+3 11 5
+3 5 5 1 5
+4 5 3 7
+5 2 1 9
+7 1 1 11
+1 1 1 4 3 1 1
+2 1 2 1 4 3 1 2
+2 2 1 3 1 1 1 2
+2 1 2 1 2 1 2 2
+FOOD
+FOND
+FIND
+BIND
+BINS
+CITY
+CITE
+LITE
+LIKE
+LAKE
+BIKE
+PIKE
+PINE
+PINT
+PANT
+FOOD
+FOND
+FIND
+BIND
+BINS
+CITY
+CITE
+LITE
+LIKE
+LAKE
+B
+P
+P
+P
+P
+FOOD
+FOND
+FIND
+BIND
+BINS
+CITY
+CITE
+LITE
+LIKE
+LAKE
+BIKE
+PIKE
+PINE
+PINT
+PANT
+6 9 8 5 3 2 1 4 7
+7 1 5 6 8 4 9 2 3
+3 4 2 1 7 9 8 6 5
+4 8 6 7 2 3 5 9 1
+9 2 1 4 5 8 3 7 6
+5 3 7 9 6 1 2 8 4
+2 5 4 8 1 7 6 3 9
+8 6 9 3 4 5 7 1 2
+1 7 3 2 9 6 4 5 8
+7 6 8 2 4 9 1 5 3
+9 4 5 3 7 1 6 2 8
+2 3 1 6 8 5 9 4 7
+6 2 4 9 1 7 8 3 5
+1 7 9 8 5 3 2 6 4
+5 8 3 4 2 6 7 9 1
+3 5 2 1 6 8 4 7 9
+4 1 7 5 9 2 3 8 6
+8 9 6 7 3 4 5 1 2
+6 9 8 5 3 2 1 4 7
+7 1 5 6 8 4 9 2 3
+3 4 2 1 7 9 8 6 5
+4 8 6 7 2 3 5 9 1
+9 2 1 4 5 8 3 7 6
+5 3 7 9 6 1 2 8 4
+2 5 4 8 1 7 6 3 9
+8 6 9 3 4 5 7 1 2
+1 7 3 2 9 6 4 5 8
+7 6 8 2 4 9 1 5 3
+9 4 5 3 7 1 6 2 8
+2 3 1 6 8 5 9 4 7
+6 2 4 9 1 7 8 3 5
+1 7 9 8 5 3 2 6 4
+5 8 3 4 2 6 7 9 1
+3 5 2 1 6 8 4 7 9
+4 1 7 5 9 2 3 8 6
+8 9 6 7 3 4 5 1 2
+This wordsearch
+contains the names of
+30 different types of
+fish but I’m not going
+to tell you what they
+are.
+However, I have been
+kind and only placed
+words on
+horizontal and
+vertical lines.
+Can you find them all?
+Name:________________________________ Date:_____________
+U E N A N U T S A I L F I S H
+F H E D S R A Y H E R R I N G
+B S A U E L O S C L O W N D T
+A I A C M O N K F I S H I O R
+R F N A A L E R E K C A M C O
+B T G R H I A R A K R I A S U
+A A L R N P T R R C E E I A T
+I C E A A P U N E O C E I R S
+P E R B R I B I P L I K O D S
+A S F C I K I L P L A R O I A
+L A I A P E L R A O L A O N B
+I L S I O K A A N P P H A E A
+T M H U A A H M S R I S T T E
+E O O L E E C I R T C E L E S
+E N O H S I F G N U L P R A C
+PIKE SOLE ANGLERFISH BARB
+TROUT SHARK BARRACUDA CATFISH
+SEABASS COD CARP ELECTRICEEL
+HALIBUT LUNGFISH MACKEREL MARLIN
+PIRANHA POLLOCK RAY SARDINE
+SNAPPER SAILFISH CLOWN HERRING
+TILAPIA SALMON KOI TUNA
+PLAICE MONKFISH
+

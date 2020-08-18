@@ -1,0 +1,299 @@
+F E L I X 7
+Research sectiorcM)
+POWER &
+One problem which is receiving
+much attention is that of the con-
+trol of the power system network.
+When a fault or short-circuit oc-
+curs on the system causing a line
+or generator to trip out of circuit,
+the resultant redistribution of
+power may cause other lines and
+generators to overload, thus pre-
+cipitating cascade effects which
+can cause blackouts over large
+areas. In these circumstances,
+the traditional means of com-
+munication and control, exercised
+by control engineers by telephone,
+cannot always operate with suf-
+ficient speed to avert serious dis-
+turbance and, in the extreme case,
+disaster.
+In the future, it will be neces-
+MACHINES Cont
+sary for large power systems, as,
+for example, the British Grid
+System, to be operated by cen-
+tralised computer control. System
+data will be telemetered to the
+control computer which will per-
+form optimising calculations and
+issue instructions to satellite com-
+puters, which will, in turn, per-
+form the necessary control func-
+tions on the generators, turbines
+and transmission system. In the
+laboratory a variety of control
+techniques are being studied and
+assessed and new techniques are
+being developed in order to arrive
+at a generalised philosophy of
+automatic control for such sys-
+tems.
+AUTOMATIC CONTROL SYSTEM
+The Automatic Control Section
+is responsible for teaching auto-
+matic control techniques and the
+philosophy that underlies their
+application throughout the Col-
+lege, both at undergraduate and
+postgraduate levels. It runs a
+one-year postgraduate course
+which is the most advanced of its
+kind in this country. The group
+also engages in researches on
+automatic control, seeking to put
+the subject on a proper scientific
+basis and to extend our knowledge
+on how to apply these techniques
+to the control of industrial proces-
+ses. In doing this, extensive use
+is made of digital computers and
+work has just started on four-
+year programme of research in
+which use will be made of a large-
+scale digital computer (Atlas) for
+direct control of some difficult
+industrial processes.
+In undertaking this very general
+research investigation it is our
+intention to continuously seek
+favourable industrial contexts for
+the work and it is pleasing to be
+able to report our continued col-
+laboration and support from five
+industries with who. we are
+associated on specific proj^ s, as
+follows: —
+Central Electricity Generating
+Board (Electricity Supply)
+We are .investigating the possi-
+bilities of applying optimal
+methods to on-line use of digital
+computers for adaptive control of
+a sizeable power system. The
+problem of economic scheduling
+of power generation to meet a
+given load demand while satis-
+fying a power limit and limited
+rate of rise of power has been
+investigated. The problem of
+optimal frequency control is also
+being investigated.
+Royal Aircraft Establishment
+(Aerospace)
+We are investigating the opti-
+mal control of a homing missile
+ending on a terminal-time criteri-
+on where the terminal time is not
+accurately known; and also when
+the information received by the
+missile of the target position is
+incomplete, noisy and non-linear.
+United Kingdom Atomic Energy
+'Authority-and-National Institute
+for Research into Nuclear
+Science (Nuclear Power)
+With the U K A E A we are hav-
+ing discussions on the possibility
+of direct computer control of a
+nuclear reactor and with NIRNS
+we are engaged on studies of the
+optimal control of a linear accele-
+rator associated with NIMROD,
+the high-energy proton accelera-
+tor.
+British Iron and Steel Research
+Association (Steel Industry)
+We are, in collaboration,
+making a general study of non-
+corifact speed measurement utiliz-
+ing correlation methods. The first
+method being investigated is a
+photo-electric one and arising
+from this we are making a funda-
+mental study of the reflection of
+light from moving surfaces and
+the implications that this will have
+on the form of the optical system
+required for successful correlation
+analysis.
+National Physical Laboratory
+(Chemical Process Control)
+We are collaborating on the
+optimal control of a pilot-scale
+process. This is a small-scale
+distillation column which has been
+set up by the N P L for the pur-
+poses of evaluating certain opti-
+misation techniques. The effort
+will be, devoted initially to the
+plant-modelling problem and later
+to the application of optimal-con-
+trol techniques.
+Other problems being< studied
+which have an industrial interest
+include a study of the boiler start-
+up problem; the influence of
+queue discipline on traffic control;
+the development of a high-speed
+data link to Atlas using a tele-
+vision co-axial cable; and auto-
+matic hill-climbing devices for
+maintaining maximum efficiency
+in plant under varying disturbance
+and load conditions.
+PROFESSOR JUSTIN
+A PROFILE
+Professor Tustin began his
+industrial career some fifty years
+ago, at the age of sixteen, as an
+apprentice with Charles Parsons
+Limited. At that time the firm
+was engaged in the development
+of the steam turbine, and Profes-
+sor Tustin spent much of his time
+removing the irregularities from
+steel castings with a cold chisel
+and hammer, because modern
+abrasives were not known in
+those days. The workshop was
+dark, dirty and unpleasant,
+littered with thrown away food
+and rubbish, and ridden with rats
+and fleas. When the men started
+work at six o'clock in the morn-
+ing, sunlight only penetrated the
+grimy windows where the panes
+were broken.
+Professor Tustin has spent two
+extended periods abroad in dra-
+matically different countries —
+Russia and the U.S.A. He went to
+Russia in 1932 (when the British
+Traction Industry was at a stand-
+still) to work at the Moscow Trac-
+tion Works, where he joined a
+group of engineers, several of
+them from other countries. At
+that time ihey were building the
+Moscow Underground Railway
+and were electrifying the main line
+from Moscow. Professor Tustiu
+was much impressed by the en-
+thusiasm and determination which
+alone achieved success at a time
+when th :re was a shortage of
+of everyday commodities, even of
+paper to write on. He believes
+this determi lation and persever-
+ance to be responsible foT the
+rapid grow, i of Russia's tech-
+nology to III; outstanding level of
+achievement he saw when he
+returneJ fiere for a short time in
+196C.
+During the war Professor Tus-
+tin was involved in the develop-
+ment of automatic control, par-
+ticularly automatic gun-laying
+and gyroscopic stabilisation. Soon
+after the war he was appointed
+Head of the Department of Elec-
+trical Engineering at the Univer-
+sity of Birmingham.
+Protessor Tustin has also been
+to the U.S.A. as a visiting profes-
+sor at the M.I.T. in 1955, which
+gave him the valuable opportunity
+of assessing American technical
+education. Of American research,
+he says that sometimes so much
+time is spent installing and ma-
+nipulating elaborate apparatus
+that not enough thought is given
+to the work being carried out.
+However, the resources of men
+and money are so great that this
+fault has not been very important.
+Shortly after he returned to
+England, Professor Tustin be-
+came Head of the Electrical
+Engineering Department at Im-
+perial College—a position which
+he held until the return of Sir
+Willis Jackson. Professor Tustin
+welcomed his release from the
+administration which had cur-
+tailed his other activities. Since
+then, although much of his time
+has still been taken up with
+problems concerned with the ex-
+pansion of the Department and
+admission of students, he has
+been able to devote more time to
+work in the heavy electrical
+engineering field such as energy
+losses in electrical machines, and
+economic aspects of engineering.
+When he retires from the Col-
+lege in October next Professor
+Tustin will be able to look back
+on a long and useful career in
+industry and teaching. But retire-
+ment will not mean the end of
+his contribution to science, as it
+will enable him to devote more
+time to his other interests, one of
+which is electrical phenomena in
+the brain.. His own fertile brain
+will ensure that he does not lack
+absorbing problems in his retire-
+ment.
+P.G. ACTIVITY
+Various sections of the Depart-
+ment have been organising lec-
+tures and seminars during the
+year. Professor Cherry presented
+a series of meetings on " Social
+Aspects of Communication " and
+Mr. Cory has presented a weekly
+seminar on " Broader Aspects of
+Electricity Supply." In addition
+meetings are held four or five
+times a term in which Staff and
+P.G.s can meet informally over
+drinks and discuss some topic of
+current or general interest. This
+term, for example. Sir Willis
+Jackson has talked about en-
+gineering and politics in Africa;
+Professor Tustin has given his
+personal impressions of the Slump
+and discussed how such disasters
+can be avoided in the future; a
+Ghanian P.G. will later be talking
+about some problems in his
+country. Gradually a picture is
+being built up of the engineer in a
+world of people. Experiment con-
+stantly takes place to ensure that
+both engineering and people
+receive due attention in the edu-
+cation the Department is seeking
+to provide, for engineering exists
+to serve people and a university
+department should lead the way
+in trying to understand both.
+

@@ -1,0 +1,538 @@
+TECHNOLOGY
+Technology Editor
+Technology Editor Samuel Gibbs
+Samuel Gibbs
+technology.felix@imperial.ac.uk
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+33
+felix FRIDAY 16 OCTOBER 2009
+Danger for SideKicks
+Trouble in the cloud puts users at a loss, Samuel Gibbs reports
+Where’s the
+silver lining?
+A
+nother week, another
+tech launch. This time it’s
+Windows mobile in the
+spotlight, or should I say
+Windows Phone? Yeah, rubbish name
+I know, but Microsoft wants to transi-
+tion towards a ‘Phone’ brand and away
+from the Pocket PC days of Windows
+mobile. Windows Phone is still only
+Windows Mobile 6.5 and as such still
+sucks in my opinion. A dated mobile
+operating system that simply hasn’t
+kept with the times. I know there are
+going to be a few of you who are still
+passionate about pocket Microsoft,
+but look at the lengths companies like
+HTC go to just to skin the UI and make
+it user friendly.
+However, it’s not all doom and gloom
+for Windows mobile in Europe at least
+as we got the launch of the HTC HD2.
+This is an absolute beast of a device
+with a massive screen, Snapdragon un-
+der the hood and a whole lot of HTC
+UI magic up front.
+Amazon announced this week that
+its highly sought after US only Kindle
+e-book reader is going international.
+The new GSM based Kindle will be
+heading to over 100 countries and
+will be available in the US for $279. Of
+course international pricing has yet to
+be announced, but I wouldn’t be sur-
+prised if we get screwed with the cur-
+rency conversion and it’s at least £279
+in the UK. Feature-wise it will be iden-
+tical to the current generation Kindle,
+so except for the Amazon book store
+access there’s not that much you can’t
+get in a Sony reader. Amazon haven’t
+announced that their ‘academia aimed’
+Kindle DX will make an appearance
+out of the US, but to be honest it’s not
+cut out for what Amazon are aiming
+at. Until we can scribble on the screen
+and e-ink displays increase their re-
+fresh rate, they’re simply not going to
+be useful for reading text books or pa-
+pers. Believe me I’ve tried and it’s not
+worth the hassle.
+Good news for UK iPhone users
+seeking a way to watch TV on their de-
+vice. BBC’s iPlayer has been available
+for some time on Apple’s golden child,
+but those seeking ITV, C4 or Five pro-
+grams have been out of luck. Into the
+breach steps TVCatchUp.com, with
+an iPhone optimised site with free live
+streaming of 11 TV channels includ-
+ing BBC, ITV, C4 and Five channels
+in impressive quality, on WiFi at least.
+Those without an iPhone can still get
+in on the party with over 30 channels
+streamed live on TVCatchUp.com.
+OK, a free initial signup is required
+and the streaming is supported by ad-
+vertising, but free live TV streamed
+anywhere in the UK is nothing to be
+sniffed at.
+The cloud took a bit of a knock this
+week with T-mobile’s disaster com-
+pounded by Apple’s Mobile Me service
+having serious problems. Private user
+data was displayed to the world and
+the service has been pretty flakey all
+week. Still where some fail, others tri-
+umph, with Google pushing out shared
+folders to it’s Google Docs online of-
+fice suite. Big news if you happen to
+use the Google service as you can now
+share whole folders full of documents,
+spreadsheets, PDFs etc instead of just
+single documents. If you happen to be
+working on a collaborative project you
+might want to check it out.
+SamuelGibbs
+SamuelGibbs Technology Editor
+Weekly Wrap Up – The Best of the Rest
+S
+o what’s been happening this
+week? Well, Rupert Mur-
+dock’s been making waves
+this week with two announce-
+ments. First up we’ve got Sky Songs
+music streaming service, a Spotify
+premium competitor, which is due to
+launch Monday next week. For £6.49
+or £7.99 you get unlimited streaming
+of over 4 million tracks as well as 10 or
+15 MP3 downloads respectively. Sky
+are marketing this as the ‘mainstream’
+users service, providing music to those
+who don’t know much about technol-
+ogy or music. Sky also said that its
+iPlayer like service, Sky Player, would
+be coming to the Xbox 360. Sky Play-
+er in the living room on the 360 with
+both live streaming and On-Demand
+content sounds like a winner to me,
+although I would swop Sky for Netflix
+streaming any day of the week. There
+will of course be fees involved and may
+be bundled in with certain Sky packag-
+es, but you may end up seeing Premier-
+ship football on your Xbox in the near
+future. Sky Player for the 360 is being
+launched on the 27th October.
+ently Apple has put out a bootloader
+update that essentially makes the
+iPhone 3GS unjailbreakable by cur-
+rent methods. Why it took Apple so
+long to do this is anyone’s guess, but
+it’s a major setback for the iPhone Dev-
+Team and friends. On the App front,
+Directed Electronics have released an
+app that makes it possible to remotely
+start, lock or unlock your car from
+anywhere in the world with just your
+iPhone. The free Viper SmartStart app
+hooks into their remote start in-car
+system allowing you to start your car
+from the comfort of your home should
+it be freezing outside. Of course this
+could also be handy if you have a part-
+ner who repeatedly locks themselves
+out of their car. You can unlock it for
+them even if you’re halfway around the
+world on business.
+On the theme of phones and port-
+able gadgets, nuclear batteries may
+soon be powering tiny tech. The nu-
+clear isotope cell, a development of the
+University of Missouri, can provide up
+to 6 times more power density than
+chemical cells and for potentially hun-
+dreds of years. If you are hesitant to
+shove a nuclear battery in your pocket,
+remember that you already stick a po-
+tentially highly explosive chemical mix
+C
+loud-based solutions hold
+a lot of promise and are
+certainly in the spotlight
+at the moment with more
+and more being off-loaded to the inter-
+net. Whether it be your email, online
+storage, bookmarks, contact syncing
+or even your backup, pretty much eve-
+rything is moving to the cloud. There
+are many potential benefits of this kind
+of solution, one of them being that you
+have access to your data wherever you
+go. Most of you will have used web
+email like Gmail, Hotmail, Yahoo Mail
+or even the Imperial Outlook web ac-
+cess at some stage and therefore can
+attest to this up side. But, inherent in
+the design and operation of cloud so-
+lutions there are problems that could
+cause major issues if you rely solely on
+these services. One of them is discon-
+nection; this is probably the most fre-
+quent problem with cloud-based solu-
+tions. For email, an outage of a couple
+of hours might not be too much of an
+issue, but what about services such as
+cloud computing and storage? Well
+this week has been one of the worst
+weeks for cloud computing of all time
+and it all revolves around user data.
+T-Mobile has been selling the Side-
+Kick line of devices for a long time now.
+For those unfamiliar with the SideKick,
+it’s basically a messaging feature phone
+and a popular one at that. It accesses a
+server for basically everything it does,
+including the basics like looking up
+contacts. Everything that’s stored on
+the phone is uploaded to the SideKick
+servers where it is accessed whenever
+you do something on your phone. It’s
+safe, secure and convenient. So much
+so that most people using the phones
+won’t even notice it. Well, that is until a
+problem arises and that’s exactly what
+happened this week for T-mobile in
+the US. To cut but a finer point, some
+idiot screwed up on the server side of
+things, failing to make a decent backup
+of users data before doing a ‘routine’
+upgrade on the server. Rumour has it
+the upgrade was out-sourced to Hi-
+tachi and ran into ‘complications’. The
+net result was that Danger/T-mobile
+lost all the data of a fair few SideKick
+users with little to no chance of getting
+it back. Now you would have thought
+that this just meant that the data that
+SideKick users moved to the server
+was lost. Although this could poten-
+tially be a big deal, it would not be the
+end of the world. However, due to the
+way that the SideKick works, anything
+that’s not on the server but still on the
+phone is lost when you reboot or turn
+off the phone, essentially like stor-
+ing it in RAM only. T-mobile issued a
+statement to all SideKick users urging
+them to not let the phone lose power,
+reboot or take the battery out. Lack
+of access is one thing, but total loss of
+all your user data is a whole other ball
+game, especially when it arises that it’s
+due to the human error of not back-
+ing up properly for an upgrade to in-
+frastructure. Admittedly your average
+user doesn’t backup their data nearly
+enough. It can be a faff, it’s boring and
+it’s something you don’t think of until
+it’s too late. For a company storing user
+data on its servers, backup is essential
+and should be thorough and automatic.
+For Danger to lose all its users’ data
+from a paid service is totally inexcusable
+and someone is absolutely certain to be
+made recently unemployed.
+There are two key ramifications of
+this disaster, one being it will ‘prob-
+ably’ never happen again. The other
+is that users might think twice about
+relying on cloud-based solutions even
+for everyday tasks. You might think
+that Google or Microsoft or any of the
+big players are immune to this kind of
+mistake, but let’s not forget that after
+a recent purchase it’s Microsoft who
+now own Danger.
+So if you’re a keen cloud user, and if
+you’re reading this you probably use
+at least one cloud solution even if you
+don’t realize it, you should take note of
+all the SideKick users’ plights and think
+about backing up. Whether it’s your
+phone contacts, your pictures, your es-
+says or your banking records, don’t just
+rely on the provider to back up your
+stuff, make sure you have at least one
+local copy. Backup now and forgo the
+pain of lost data.
+SamuelGibbs
+SamuelGibbs Technology Editor in your pocket on a daily basis. I don’t
+know about you but a tiny battery that
+lasts for years not hours would be an
+absolute blessing.
+Not quite nuclear, but still pretty
+explosive, NASA declared war on the
+moon and commenced a bombing run
+in the ‘name of science’, broadcasting
+the whole event live on NASA TV.
+The LCROSS satellite was deliberately
+smashed into the surface of the moon
+in an effort to find water. It was hoped
+that the impact would create a cloud of
+dust from the crater that could be ana-
+lysed for the presence of water. If water
+does exist on the moon it will certainly
+be easier to make it a pit stop on the
+way to future planets. Each kilo of
+water costs about £12,500 to send into
+space, which makes Evian look like a
+cracking bargain.
+Next up we’ve had a couple of inter-
+esting titbits of iPhone news. Appar-
+Got something to say?
+Pitch me an idea to:
+technology.felix@imperial.ac.uk
+No good idea turned down, so if it’s
+interesting and tech, try me.
+

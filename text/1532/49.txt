@@ -1,0 +1,258 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 23 NOVEMBER
+50
+Crossword
+3
+2 0
+3 3 1
+1
+1
+3
+3
+3
+3
+3
+3
+3
+2
+2 2 2
+2
+2 2
+2
+0
+2
+3
+3
+3 3 3
+3
+3
+3
+3
+1 2
+2
+2
+2
+2 2
+Slitherlink
+Kakuro mini
+What we are all thinking
+Do you even need me to tell you the rules? Construct a single
+closed loop by joining the dots so that the numbered squares
+are surrounded by the corresponding number of lines.
+Fill the cells with numbers so that they add up to
+the number on their right (for rows) or above them
+(for columns). But wait! Each row or column can-
+not contain the same number twice.
+The Island of Knights and Knaves has been swept by an airborne disease that has caused
+some of the inhabitants to become insane, meaning that every statement they believe
+is wrong. As such, sane knights and knaves still always tell the truth and lie, but insane
+knights (honestly) lie and insane knaves (deceptively) tell the truth!
+Suppose you are a sane knave, and you want to let someone know that you are, indeed,
+a sane knave.
+What statement should you make?
+You are implicated in a court case and you have but one witness. You have no idea what
+his mental faculties are or whether he is a knight or a knave, but you are allowed to ask
+him one question. You need to make absolutely sure that he does not reply with “no”.
+What is such an appropriate question?
+IfBweretoanswer“yes”,thenweimmediatelyknowthatheisaknightandthatAisaknave.How-
+ever, if we were to know that, we could solve the puzzle. So, B must have answered “no”, and the
+Noble would also have to answer “no” (as knowing B’s answer does not help us solve the riddle).
+Assume now that the Noble said that B is a knave. Then, A can be either a knight or a knave with
+nocontradiction.However,thepuzzleissolvableaftertheNoble’sanswer,sohemusthavereplied
+that B is a knight, meaning that A is also a knight and that the elixir is worth buying.
+Knights and Knaves
+Solution to last week’s Knights and Knaves puzzle:
+More nonogam goodness;
+the numbers show you the
+length of the groups of black
+squares as well as how many
+of them there are in a row or
+column.
+FUCWIT
+League Table
+TEAMS
+TTBumbles 19
+Epiphenomenal Imbroglii 16
+INDIVIDUALS
+Yufan Zhao 36
+Wael Aljeshi 18
+M-Soup 15
+Jake Humphrey 6
+Gordon Wu 4
+Jason Parmar 2
+Send answers to puzzles.felix@
+imperial.ac.uk.
+Hashi What you have to do is
+link all the islands with
+bridges so that no set
+of islands are isolated.
+Watch out, though; the
+bridges have to be either
+vertical or horizonal and
+they must not intersect.
+You can have up to two
+bridges between any
+two islands and each is-
+land must have exactly
+as many bridges as the
+number on it states.
+ACROSS
+1. Megan Fox robot film (12)
+9. Know about, be _____ (5)
+11. Notepad backing material (9)
+12. Grandparent (3)
+13. Most extreme, greatest (6)
+14. Made from farm animal hair
+(7)
+16. Japanese car company (6)
+17. Item of furniture (5)
+19. Australian animal (3)
+21. E.g. A deserted island (6)
+22. Gang responsible for The Bad
+Touch (10)
+23. Continent (4)
+26. A sad film (4, 6)
+28. Small explosive (7)
+29. Shakespear play (7)
+30. Female sheep (3)
+31. Means the same as (7)
+32. Help (3)
+DOWN
+1. Fairly priced (10)
+2. Surname of a tennis player (5)
+3. Preserved by lowered tempera-
+ture (6)
+4. Uncommon (4)
+6. Angry speech (4)
+7. Travelled through water (4)
+8. Character from the magic rounda-
+bout (8)
+10. Nameless (9)
+13. Ridiculous (6)
+15. Disproves a statement (7)
+18. Unfinished business (5, 3)
+20. Weekday (8)
+23. Star sign (5)
+24. Oval nut like seed (6)
+25. Aquatic photosynthesizing or-
+ganisms (5)
+27. Pot of money to be won (5)
+god forbid you pay attention in lectures
+4 4
+1
+1
+4 4
+4 4
+5
+1 2
+2 3 4 2
+2 1 2
+3 3
+4
+3 4
+4 2
+2 1 7
+1
+2 3
+3 2
+2 3
+3
+3 1 1
+3
+1
+2
+1 3
+3 2
+12 16 7 15
+17 4
+9 6
+22
+10
+15
+6
+6
+6
+22
+6 13
+7
+11
+7 4
+24
+4 3
+15 14
+5
+2
+10
+1
+12
+1
+1
+4
+3
+8
+1
+1
+5
+2
+1
+8
+6
+4
+7
+1
+11
+1
+5
+2
+1
+12
+1
+12
+1 1 1 1
+2 2 4 1 2
+2 2 1 1 1
+2 2 2 1 1 2
+2 2 1 1 2
+15
+5 3 5
+5 3 5
+5 3 5
+15
+2 4 4 2
+2 7 2
+2 5 2
+3 3
+5 5
+1 2 3 4 5 6 7 8
+9 10
+11 12
+13
+14
+15 16
+17 18 19
+20 21
+22
+23 24
+25 26 27
+28 29
+30 31 32
+M I C R O S O F T P A N T O
+I A B I F N E
+C A R R O T R A I S I N S
+R B L E N M S
+O N O M A T O P O E I A E
+W M R R S L I L O
+A S Y M B O L S L
+V E I N E O S A
+E O M F A T A L I T Y
+S N O O K E R R I E
+O P S F L E E C E C
+R U B Y A N E A
+G F B G N A Z I
+H A T H L E T I C R
+S T U N T E H E R G O
+

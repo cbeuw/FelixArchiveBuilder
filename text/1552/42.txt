@@ -1,0 +1,186 @@
+PUZZLES
+Puzzles Commanders:
+Sotirios Karamitsos,
+Louisa Byrne
+puzzles.felix@imperial.ac.uk
+FRIDAY 21 JUNE
+46
+Last week’s solutions
+1
+1
+1
+1
+1
+1 1
+1
+1
+3
+3 3 3
+3
+3
+3
+3
+3
+3 3
+3
+3
+Slitherlink Ophis
+I convinced myself not to include Hashi for this issue, but I think removing the old
+Slith’ would probably bring forth Ragnarok, ushering an era of doom for us all. Rules:
+draw a single closed loop by vertically and horizontally joining the dots so that the
+numbered squares are surrounded by the corresponding number of lines.
+Answers to Riddle Time:
+a) 942+942+942 b) 7
+= 1413+1413 3 1 4
+5 8 6
+2
+Fill the cells with a continuous line that does not pass through a cell twice, doesn’t
+intersect with itself, and passes through all white boxes. The numbers show you
+how many times the line turns in the corresponding row or column. The snake
+enters and exits the grid at the shown points (and only those points). The two
+grey squares have the same component.
+2
+2 2
+2
+2
+2
+2 2 2
+2
+2 2
+2
+2 2
+2 2 2
+2 2
+2
+0
+0
+Hitori
+You’ve seen enough Hashi (or, as those who aren’t totalbaka gaijins call it,
+Hashiwokakero), so the last issue for the year is as good a time as any* to
+introduce another Japanese puzzle that only weeaboos care about: Hitori.
+The rules: eliminate numbers so that every remaining number appears ex-
+actly once in each row and column. The non-erased numbers must be all
+be connected orthogonally (i.e. vertically or horizontally, but not diago-
+nally), and erased numbers can’t be orthogonally adjacent. *no it’s not
+FUCWIT
+League Table
+INDIVIDUALS
+Yufan Zhao 43
+Wael Aljeshi 28
+Gabriel Quek 3
+Tan Wei Jie 3
+And that’s it for this year, folks.
+But what the hey. Send those so-
+lutions one more time.
+puzzles.felix@imperial.ac.uk.
+3 4 8
+2
+6
+4
+4
+4
+6
+6
+3
+6
+4 4 4
+6
+6
+6
+
+
+ 
+
+     
+        
+        
+        
+        
+        
+        
+        
+        
+2 4 1 5 10 8 7 3 7 4
+5 9 2 3 5 7 8 7 1 5
+6 1 9 5 4 2 3 8 10 1
+10 3 3 1 7 10 8 7 7 6
+3 7 6 8 9 4 4 1 5 1
+7 6 9 4 9 1 10 9 2 5
+9 7 3 6 5 3 1 10 8 7
+1 5 7 2 6 4 6 6 6 3
+4 4 5 4 3 6 7 1 9 5
+4 8 7 10 6 8 2 6 3 9
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+“That’s all folks!”
+Want this weeks
+solutions? Bonus
+puzzles? Email us if
+you can’t stand the
+thought of waiting.
+Here is something sent with the
+nonogram solution. Enjoy!
+

@@ -1,0 +1,201 @@
+TECHNOLOGY
+Technology Editor: Jason Parmar
+Maximilian Eggl
+techology.felix@imperial.ac.uk
+Maximilian Eggl
+Qi. his sounds like some sort of Chi-
+nese “life energy” philosophy, but
+that’s not what we are talking about
+here. Pronounced “chee”, Qi is a wire-
+less inductive power standard that is
+increasingly being adopted by handset
+manufacturers such as Nokia and LG
+for inclusion into their handsets. For
+phones that do not support the wireless
+charging standards, there are cases de-
+signed to envelope the devices and pro-
+vide wireless charging capabilities. But
+is wireless charging even necessary, or
+is it just a solution to no one’s problem?
+Wireless charging
+works in a similar way
+to induction cooking. A
+changing magnetic ﬁeld
+induced by the charging
+mat causes a potential
+diﬀerence, or a voltage
+diﬀerence, across a con-
+ductor inside the phone.
+By Faraday’s laws, this
+causes a current to ﬂow
+inside the conductor, and
+we’ve got a steady power
+source for the phone. So,
+in order to take advan-
+tage of this technology,
+you would need to both
+have a phone that sup-
+ports wireless charging,
+and a wireless charging
+device.
+he wireless charg-
+ing mats are not cheap.
+I bought a Maxwell Air
+Voltage Wireless Charg-
+er oﬀ Amazon for £43,
+but the price has now
+gone up to almost £50
+at the time of writing.
+Google oﬀers a trendy
+“charging orb” for its
+Nexus 4 device, retail-
+ing for US$59.99 (£40)
+and not yet on sale in the
+UK. If the various man-
+ufacturers wish to see
+FRIDAY 01 MARCH
+40
+wireless charging take oﬀ, they are not
+doing themselves a favour by charging
+such a high price for the charging mat.
+he upside to this is that these charg-
+ing mats should work with future
+devices, if the Qi standards remains
+dominant. (Caution: if you are look-
+ing to buy a wireless charging mat,
+avoid the ones sold by “Powermat” –
+they do not conform to any standards,
+and you will need a separate case for
+all of your devices.) But how do these
+wireless charging gizmos perform?
+I do not speak authoritatively on
+this matter, but from my experience
+with wireless charging on my Nexus
+4, I would say that the wireless charg-
+ing has good performance. In fact, I
+might say that it performed better
+than I expected. Charging is almost as
+quick as using an AC adapter. It is re-
+ally convenient to just place the phone
+on the mat and watch it start charging
+automatically, without my needing to
+plug in anything. he downside to this
+is that the phone tends to get a little
+warm when charging. I notice that if I
+use the phone while it’s charging, the
+temperature can get up to 42 degrees,
+at which point the phone would de-
+cide to stop charging (for safety I pre-
+sume). his leads to the phone and the
+charging mat getting into what I call
+the “spasm” mode where the charg-
+ing indicator would toggle on and
+Charging your Phone... Wirelessly
+Will the lack of Wires (or lack thereof) ever conspire to be desired?
+The News Bubble
+General news from around the tech world, so you can keep up to date with the
+newest, weirdest and most futuristic things around.
+Nokia Release Phones
+At the Mobile World Congress in Barcelona, Nokia has just released 4 new
+phones, all aimed at the lower end. The two new WIndows 8 smartphones
+called the 720 and the 520, retail between £220 and £120 respectively. Both
+of these are quite well euipped compared to their cheap price. On the other
+hand Nokia also released two new feature phones, the 301 and the 150. The
+301 is your bog standard feature phone and will be available for about 50
+quid. However the 150 has created quite a buzz on the internet, as not only
+is it priced at the very lucrative price of £13, but also apparently has a bat-
+tery that lasts for an entire month without recharging. Nokia really wants to
+regain that top mobile vendor spot, and this strategy seems like it may prove
+very succesful.
+Chromebook Pixel
+Google has also released a new product, the Pixel. An apparently high-end
+laptop, this device is aimed at power users with a bit more cash in their pock-
+ets. Coming with the Chrome OS, a purely browser based operating system
+and with a pixel density of 239 ppi (which by the way makes it the highest
+resolution laptop currently on the market) it looks like quite an interesting
+laptop. However, without an internet connection, it just becomes a $1,499
+paper weight.
+Galaxy Note 8.0
+All good things come in sets of three, and fittingly Samsung also has released a
+new product. The Galaxy Note 8.0 used with a smart stylus, which allows you
+to use the buttons on the tablet without actually pushing them, is going into
+direct competition with Apple’s new iPad Mini. With a higher screen resolu-
+tion and generally good reviews, when this comes out later this year, it may
+prove to be a good adversary.
+iPhone Ahead of S3
+Recently Apple has been hammered, its stock has lost a third of its value from
+its $700 high, and everyone has been predicting that the days of the Cuper-
+tino Company are numbered. However recent data related to mobile hand-
+set sales puts the Samsung Galaxy SIII, Android’s most popular phone, only
+third in the list. Number one spot is taken by the iPhone 5, Apple’s flagship.
+The surprising thing is that the second spot is taken by the iPhone 4S. Apple’s
+phone which is more than a year old, and is quite outdated compared to other
+handsets out there is still outselling everything except for its bigger brother.
+Seeing that kind of data really makes me wonder why Apple is being ripped
+apart by all the critics and investors.
+The wire-
+less charging
+mats are not
+cheap
+Tech editor
+Yong Wen Chua Tech Writer
+oﬀ every few seconds.
+I suppose with more
+iteration, the hardware
+would be more eﬃcient,
+and the heat produced
+through the charging
+should reduce. But is
+this even necessary?
+Advocates would say
+that wireless charging
+is very convenient, and
+helps in bringing about
+a wire-free environ-
+ment. his is absolutely
+true, as I have noted
+in the previous para-
+graph. However, pardon
+my cynicism, this also
+sounds patently like a
+ﬁrst world problem.
+here is also a wire that
+goes from the AC wall
+socket to the charging
+mat, something that
+you can’t really be rid of.
+You are just trading one
+cable for another. here
+are arguments saying
+that the mechanical act
+of plugging in and tak-
+ing out the charging ca-
+ble can lead to mechani-
+cal failure on the phone,
+although I have yet to
+see it really happen to me.
+Sceptics would call wireless
+charging a fad. I would call it
+something cool. While I can see
+the added convenience of wire-
+less charging, the whole solution
+doesn’t really bring much more to
+the table. What we need are bat-
+teries that last longer, and compo-
+nents that use less power. Wireless
+charging does not even address any
+of these problems. When you add
+in the cost of buying one of those
+charging mats, there is simply no
+added beneﬁt. So until these charg-
+ing mats become more aﬀordable,
+there is simply no point in using
+wireless charging.
+”
+“
+It is really
+convenient to
+just place the
+phone on the
+mat
+

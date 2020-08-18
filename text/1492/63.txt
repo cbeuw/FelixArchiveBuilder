@@ -1,0 +1,215 @@
+1 2 3 4 5 6 7 8
+7 8
+9 10
+11 12
+13 14 15
+16 16
+17 18 19
+20 21 22
+23
+24 25
+26 26
+FELIX 27
+SPORT
+Friday 10 june 2011
+Cryptic Crossword 1,492
+Across
+1 Race to hunt after a spire (12)
+9 Put the lid back on the summary
+(5)
+10 Ditch insect is quite cutting (9)
+11 Modest secretary is tardy (8)
+12 Corrupt king undergoes changes
+in spring (6)
+13 Suppositions surround a part of
+the leg (8)
+15 Cut a piece of valuable metal (6)
+17 Annoyed in that shirt you wear
+(6)
+18 A challenging ordeal revealed in
+a gaunt letter (8)
+20 Honestly get back on the same
+side (20)
+21 Somehow wrong age for a cart
+driver (21)
+24 Chopin censored mangled rise in
+intensity (9)
+25 Farewell! I die in Australia (5)
+26 Title illustration on the cover is
+endlessly put together (12)
+Down
+1 Remove a mark from a surface
+(7)
+2 Former wife talked about being
+thrown out of the church (14)
+3 Student back in slip-ups (5)
+4 Gives you the right to English
+honours (8)
+5 Part of the foot soundly cured (4)
+6 Alien cronies mess around with
+emission (9)
+7 Present day found hidden in
+naive talents (5,9)
+8 Older stalker loses knighthood
+(6)
+14 Rectal act, somehow, in the
+Black Maria (6,3)
+16 Minor ocarina thrown in the
+pasta (8)
+17 Elegant tree (6)
+19 Central turret hides atrocities (7)
+22 Seize Greek snake (5)
+23 Unknown future (4)
+Felix Sports League
+sponsored by
+5 points for a win | 2 points for a draw | -4 points for a loss
+Team P W D L F A Diff Index
+1 Fencing W1 9 9 0 0 1210 607 603 5.00
+2 Fencing M1 10 10 0 0 1229 919 310 5.00
+3 Table Tennis M2 11 11 0 0 156 31 125 5.00
+4 Water Polo W1 8 7 1 0 102 24 78 4.63
+5 Volleyball M1 11 10 0 1 22 4 18 4.18
+6 Volleyball W1 11 10 0 1 21 4 17 4.18
+7 Basketball M1 12 10 0 2 917 735 182 3.50
+8 ICSM Netball W1 12 10 0 2 493 312 181 3.50
+9 Lacrosse M1 11 9 0 2 154 85 69 3.36
+10 Tennis M1 12 9 1 2 84 60 24 3.25
+11 Table Tennis M1 12 9 1 2 84 60 14 3.25
+12 Basketball W1 9 7 0 2 464 348 116 3.00
+13 Netball W1 13 10 0 3 546 367 179 2.92
+14 Squash W1 11 8 0 3 31 12 19 2.55
+15 Hockey M1 12 8 1 3 46 25 21 2.50
+16 Rugby M1 14 10 0 4 344 191 153 2.43
+17 Hockey W1 13 9 0 4 67 24 43 2.23
+18 Lacrosse W1 9 6 0 3 110 64 46 2.00
+19 Table Tennis W1 6 4 0 2 20 10 10 2.00
+20 ICSM Football M1 9 5 1 3 28 18 10 1.67
+21 ICSM Hockey W1 20 10 3 7 54 48 6 1.40
+22 ICSM Rugby M3 10 6 0 4 252 266 -14 1.40
+23 Football M1 13 7 1 5 34 20 14 1.31
+24 Badminton W1 13 7 1 5 44 60 -16 1.31
+25 Hockey M2 12 5 3 4 22 26 -4 1.25
+26 Football W1 7 4 0 3 19 19 0 1.14
+27 Tennis W1 7 4 0 3 42 42 0 1.14
+28 ICSM Hockey M3 7 4 0 3 11 27 -16 1.14
+29 Netball W3 9 5 0 4 291 217 74 1.00
+30 Hockey M3 11 4 3 4 17 13 4 0.91
+31 Badminton M1 11 4 3 4 44 44 0 0.91
+32 Fencing M2 10 5 0 4 1122 1128 -6 0.90
+33 ICSM Hockey M1 10 5 0 5 25 20 5 0.50
+34 Netball W2 12 6 0 6 445 483 -38 0.50
+35 Badminton M2 10 4 1 5 43 37 6 0.20
+36 ICSM Hockey M2 11 3 3 5 19 29 -10 0.09
+37 ICSM Netball W2 11 5 0 6 341 360 -19 0.09
+38 Squash M4 6 2 1 3 8 7 1 0.00
+39 Ice Hockey M1 0 0 0 0 0 0 0 0.00
+40 ICSM Football M3 0 0 0 0 0 0 0 0.00
+41 Lacrosse W2 0 0 0 0 0 0 0 0.00
+42 ICSM Football M2 5 2 0 3 14 16 -2 -0.40
+43 Fencing W2 10 4 0 6 1142 1170 -28 -0.40
+44 Fencing M3 10 4 0 6 1146 1201 -55 -0.40
+45 Football M3 11 3 2 6 22 30 -8 -0.45
+46 ICSM Badminton W1 9 2 2 5 32 46 -14 -0.67
+47 ICSM Badminton M1 10 3 1 6 24 56 -32 -0.70
+48 Squash M3 9 3 0 6 17 26 -9 -1.00
+49 Tennis M2 10 2 2 6 40 79 -39 -1.00
+50 Hockey W2 12 3 1 8 13 41 -28 -1.25
+51 ICSM Rugby M1 11 2 1 8 144 427 -283 -1.82
+52 Water Polo M1 3 0 1 2 23 30 -7 -2.00
+53 ICSM Rugby M2 12 2 1 9 200 438 -238 -2.00
+54 Rugby M2 14 3 0 11 194 356 -162 -2.07
+55 ICSM Hockey W3 5 1 0 4 4 17 -13 -2.20
+56 ICSM Hockey W2 10 2 0 8 21 42 -21 -2.20
+57 Rugby M3 10 2 0 8 71 357 -286 -2.20
+58 Hockey M4 11 2 0 9 15 32 -17 -2.36
+59 ICSM Badminton M2 6 1 0 5 16 32 -16 -2.50
+60 Squash M2 12 2 0 10 16 44 -28 -2.50
+61 Rugby M4 8 1 0 7 59 325 -266 -2.88
+62 Football M2 12 1 0 11 14 36 -22 -3.25
+63 Squash M1 7 0 0 7 5 30 -25 -4.00
+64 ICSM Netball W3 9 0 0 9 186 352 -166 -4.00
+65 ICSM Netball W3 7 0 0 7 134 257 -123 -4.00
+Imperial hockey
+visit Malaysia
+Nur Insafi Hockey Club
+P
+roudly possess-
+ing one of the
+most ridiculous
+tour kits seen
+at Imperial, 32
+members of Imperial Col-
+lege Hockey Club will be
+touring Malaysia this July.
+Following last year’s fantas-
+tic trip to Slovenia and Croa-
+tia, where much amusement
+was had on overnight trains,
+and the opposition ranged
+from under-fifteen inter-
+nationals to casual mixed
+teams, the tourists will be
+travelling further afield to
+Kuala Lumpur, the Cameron
+Highlands, and Penang. In
+Slovenia and Croatia, there
+were Roman ruins, sun, and
+enormous cocktails – Ma-
+laysia seems more likely to
+provide jungles, beach and
+temples.
+With the help of our con-
+tacts in Malaysia, matches
+will be played at Univer-
+siti Putra Malaysia, in Kuala
+Lumpar, and Nur Insafi
+hockey club in Penang. Uni-
+versiti Putra Malaysia have,
+worryingly, described them-
+selves as semi-professional,
+and will doubtless provide a
+challenging start to the tour.
+The touring group, as is
+traditional for ICHC, is a
+mix of all teams and abili-
+ties, ladies and men. A third
+of the party will have just
+completed their first year at
+Imperial, and just less than
+that will be about to leave us
+– what better way to finish
+the year!
+As many of us will be
+travelling to that part of
+the world for the first time,
+some culture-shocks are
+sure to be had. The club’s
+last tour so far afield took us
+to India, where we struggled
+to fit into rickshaws, and
+were stunned (mostly) by
+some of the world’s most
+famous sights.
+This time the trip will take
+in sights of Kuala Lumpur,
+such as the Petronas towers
+and the Batu Caves, before
+moving onto the hill territo-
+ries of the Cameron High-
+lands.
+Penang is our last stop,
+playing hockey on the main-
+land (where our opposi-
+tion have kindly agreed to
+accommodate us), before
+moving out to the island
+with its reputedly fantastic
+beaches.
+If reading this has you en-
+vious, join ICHC and make
+sure you don’t miss out on
+next year! Nur Insafi Hockey Club, soon to be facing Imperial in Malaysia
+Jessica Poore on the
+club’s Summer tour
+This year’s colourful tour kit
+

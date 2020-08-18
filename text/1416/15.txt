@@ -1,0 +1,517 @@
+28 felix Friday 21 November 2008
+Hi, I’m a Mac virgin
+felix@imperial.ac.uk
+Technology
+Technology Editor – Ravi Pall & Richard Lai
+felix@imperial.ac.uk
+29
+Friday 21 November 2008 felix
+Technology
+Headlines we
+couldn’t fit in
+Fujitsu Siemens
+demos external
+laptop GFX card
+Jerry Yang to quit
+as Yahoo! boss,
+sobs over MS offer
+All sorts of new
+smartphones
+released
+Apple launches
+new, pricey 24”
+Cinema Display
+Richard Lai
+Technology Editor
+G
+ood day, everyone! Apol-
+ogies about last week’s
+absence - an update
+patch killed the connec-
+tion between our Mac
+Tiger servers and Leopard iMacs, so
+our article submissions were flying all
+over the room and mine just got lost!
+Like the folks on this week’s Engadget
+podcast put it: “it’s a great time to be
+alive”, with two of my most-anticipated
+devices - HTC Touch HD and Sony
+Ericsson Xperia X1 - being launched, as
+well as the INQ1 Facebook phone from
+3, and a new iPhone firmware expected
+to come out soon. I’m actually very
+surprised to hear that the Blackberry
+Storm does not have wifi, probably to
+milk more money from unlimited-data
+plans. If you’re lucky enough to be an
+owner of the Touch HD, Storm, Xperia
+X1 or even the T-Mobile G1, we’d like
+to hear from you.
+Whilst on the topic, I’ve recently
+picked up the unreleased (abandoned?)
+Sony Ericsson M610i smartphone from
+eBay. I don’t know why but every now
+and then I do search for prototype mo-
+bile phones or even laptops. I’ve never
+used a Symbian phone properly before
+- the last one (and my first ever) I had
+was the Sendo X, which I sold just two
+weeks after I bought it, simply because
+of my dissatisfaction with its sync
+speed with Windows. The hardware
+was well-built though, but that didn’t
+save the company from liquidisation.
+However, the M610i was overshad-
+A
+pple’s anti-Windows
+campaign has been quite
+successful with get-
+ting PC users’ attention,
+boosting their compu-
+ter sales figure to an all-time-high 2.6
+million in Q4 2008; likewise for their
+iPhone figure, jumping from Q3’s 717k
+units to Q4’s staggering 6.9 million
+units. If you’re wondering whether it’s
+time for you to join the Mac party, then
+you might find this article useful.
+I had been waiting for the right Mac-
+Book for a long time, the previous gen-
+erations being impractical with their
+scratch-magnetic polycarbonate cases.
+So when the aluminium MacBooks
+came out four weeks ago, I was so fas-
+cinated by its manufacturing process
+that I immediately bought my first ever
+Mac (the 2.0GHz MacBook) at the Re-
+gent Street Store the next day. It was
+about time as well: I’ve been through
+five or six Windows laptops and have
+suffered from the lack of built-in, pro-
+fessional-looking multimedia editors.
+Yes, Windows Movie Maker is very
+easy to use, but its boring templates
+mean your videos will all look the
+same; not the best choice if you want
+your video to stand out.
+Back in the Windows days I was stuck
+with Adobe Premiere Pro and Nero Vi-
+sion, both being very time-consuming
+to edit with and the latter provided
+only a few DVD menu templates of ac-
+ceptable presentation. In the contrary,
+when I came across Apple’s impressive
+iMovie app at the Regent Street store,
+I couldn’t stop thinking how much bet-
+ter my DVDs could have been, and
+how much time I could have saved
+back then with a Mac.
+Now my dream of owning the per-
+fect machine has come true. Or has it?
+Here are my thoughts of my first-Mac
+experience so far:
+Build quality / Service
+Let’s talk about the hardware first. I
+am probably the world’s unluckiest guy
+to have gone through two MacBooks
+within four days after my purchase:
+the first one had a dead pixel (and ap-
+parently I was the first in the country
+to have reported a problem with the
+new MacBook), but fortunately Ap-
+ple did a direct
+swap followed by
+an overnight mi-
+gration service. I
+thought that was
+a smooth process,
+until on my way
+home on the bus
+I noticed that the
+replacement had
+a chipped hinge,
+which brought
+me back to the
+store. Hope-
+fully my third
+one (which
+I’m typing on
+right now)
+will be less
+trouble-
+some. Hav-
+ing said that,
+I must praise Apple’s efficient service
+but do be careful with where you serv-
+ice your Mac: some Hong Kong users
+told me that they were refused replace-
+ments for having just one dead pixel
+instead of three or more.
+The actual body itself is very well-
+built: London-born Jony Ive CBE, Ap-
+ple’s Senior Vice-President of Industri-
+al Design, calls it “precision aluminium
+unibody enclosure” (kudos for not
+saying “aluminum”) which provides a
+very strong structure with fewer parts.
+Like my old ThinkPad, I would hap-
+pily pick up my MacBook on just one
+corner, with the lid open, knowing that
+it wouldn’t flex. I originally feared that
+the metallic edges were going to be a
+problem, but they are actually nicely
+sanded for your wrists’ pleasure, unlike
+the plastic MacBooks.
+Input Interface
+The new glass trackpad now supports
+multi-touch gestures, making life a lot
+easier: scrolling is the same as before
+with two fingers, three-fingers for for-
+ward and backward, four-fingers for
+Exposé (similar purpose to Vista’s “Flip
+3D”), the obvious rotation and zoom
+gestures etc. It really didn’t take long to
+get used to these. Also, the click but-
+ton is gone! Steve Jobs is known to hate
+buttons (although we have yet to see
+a touchscreen Mac) so now the entire
+trackpad has cleverly become the but-
+ton. Again I found it very easy to use,
+as your thumb can still click on where
+the button used to be. Right-click is
+made easier as well by just clicking
+down with two fingers.
+Ports and Guts
+Now this is where Apple has let every-
+one down: the MacBook no longer has
+a Firewire port (a high speed connec-
+tion for camcorders and hard drives).
+As mentioned before, one of my main
+intentions of getting a Mac was for
+video editing, so Cupertino has broken
+my heart a little here. To make up for
+it though, Apple
+teamed up with
+NVIDIA and
+gave birth to the
+9400M chipset,
+which churns
+out much more
+graphics power
+than the old
+MacBook.
+The sweeties
+from previous
+models are still
+here: the Mag-
+Safe power
+cord connec-
+tor is prob-
+ably still the
+best inven-
+tion to date
+in the lap-
+top world,
+followed by Apple’s compact power
+adapter which has two retractable
+hooks for cable management. The
+slide-in optical drive and the screen’s
+gradual ambient light sensor alone are
+enough to force Oxford redefine the
+word “cool”.
+All the ports are neatly located on
+the left hand side of the laptop, which
+can be both a good thing and a bad
+thing: the good is obviously the neat-
+ness and clean look, but the downside
+is that you may have to relocate your
+various peripherals to reach the ports,
+and then you’ll worry about the lack of
+extra USB ports: I personally find that
+five should be the standard for anyone
+(mouse, pen drive, iPod/iPhone, print-
+er and camera), so MacBook users will
+have to invest on a USB hub (powered
+ones are recommended).
+Stability
+Now onto the software front: Mac us-
+ers have always been proud of their
+system’s stability, but over the last few
+weeks I had already had several crash-
+es. For instance, I bought an HP all-in-
+one printer with the new MacBook,
+but when I attempted to do some scan-
+ning the entire system just crashed,
+forcing me to hard-reboot; and literally
+just now it crashed again when I was
+simply browsing my documents, and
+took at least five reboots to get back to
+the normal state. At neither events did
+Ravi’s advice of using “cmd+alt+esc”
+(Mac’s “Ctrl+Alt+Del”) work. Perhaps
+it’s just early days.
+My other problem is iPhoto: it’s sim-
+ply stupid. I tried to burn an album
+onto a CD using iPhoto, but rather
+than having a disc full of JPEG files I
+got three versions of iPhoto library
+files instead, forcing you to use iPhoto
+to load the photos. Lame.
+Ignoring all the above though OS X
+really is quite nice: even for a first-tim-
+er like myself it’s very easy to use, and it
+takes literally only a few seconds from
+lid closed to fully awake, search is light-
+ning-fast, awesome “iLife ‘08” suite bar
+iPhoto, expandable workspace using
+Spaces, powerful self-repair tools etc.
+Verdict
+Overall, the experience so far is quite
+nice and I have only the few regrets
+mentioned above plus a dented bank
+account. OS X is very easy to pick up,
+but if you think otherwise then I’m
+sure the free Apple seminars at Regent
+Street will be of great help. Many say
+that once you go Mac, you never go
+back (like felix has done), but I doubt
+I’ll become one of those – Mac is ob-
+viously not as perfect as many fanboys
+claim, plus Windows machines love my
+wallet. If you insist on getting the new
+MacBook/MacBook Pro, I suggest that
+you hold on for a few more weeks to let
+Apple rid the bugs in the new systems.
+“For a first-timer
+like myself it’s
+very easy to use”
+owed by the arrival of my Touch HD
+and Xperia X1. Both Windows Mo-
+bile phones are probably HTC’s best
+phones to date, even though the lat-
+ter is released under a different brand.
+Build quality is superb, probably only
+let down by the less-than-ideal OS
+(many wish for Android on them). The
+graphical interface is great but still far
+from perfect (laggy, lacking few practi-
+cal functions, etc.). If I were to choose
+my favourite out of the two, I think the
+Xperia’s keyboard has won my heart.
+Moving on to cameras: have you
+seen the sample movies recorded on
+the Canon EOS 5D Mark II? This 21.1-
+megapixel DSLR does some real good
+HD video capture, and the quality
+beats the Nikon D90’s jelly-like, 720p
+video recording (and I am admitting
+that fault as a Nikon fanboy). Although
+quite pricey, as with most prosumer
+cameras, I like the fact that you don’t
+have to carry both a DSLR and an HD
+camcorder, as the former alone is pain-
+ful enough to carry around, especially
+through airports where they still limit
+you to one hand-carry only. Well, I bet-
+ter start looking for a sponsor!
+This week I decided to share my
+thoughts on my Mac virgin-experi-
+ence, as it would probably appeal to
+most current Windows users (but not
+so much with stubborn Linux users).
+If you enjoy the article, please consider
+donating to the “5D-Mark-II 4 Richard
+Charity” - our phone operators in felix
+are standing by.
+It’s a good time
+to be alive...
+Weekend Timewasters
+CollegeHumor.com
+In my opinion the best site for com-
+edy sketches and funny clips. Must
+check out their original videos!
+Diggnation.com
+Watch the co-founder of Digg.com
+and his friend talk about some of the
+week’s hottest “diggs” on the site.
+Syobon (a.k.a. “Mario Cat”)
+This classic annoying-yet-addictive
+Japanese game will keep you busy
+for hours: http://is.gd/7Y1G
+Bloons Tower Defense 3
+The more balloons you pop, the
+more money you get, then you get
+to pop even more! http://is.gd/7Yct
+Shuttle Endeavour
+upgrades Space
+Station
+Acer consumer
+laptops No.1 seller
+in 3Q08 market
+FCC approves
+white space
+frequency Wi-Fi
+MacBook / Pro
+TrackPad seizures
+patched by Apple
+Samsung sued
+by Spansion over
+flash patents
+As one of many who have bought Ap-
+ple’s new iPhone 3G, I too know the
+drawbacks of email on a mobile de-
+vice. The mobile distractions when out
+with friends (or even when, perhaps,
+in lectures) used to extend to receiving
+the occasional text message or phone
+call. This has since been upgraded to
+being able to instantly acquire the lat-
+est pointless news from some society’s
+mailing list that you now regret signing
+up for in freshers’ fair.
+Unfortunately, having used a GMail
+account for the past 4 years (has GMail
+been in beta for FOUR YEARS!?), I was
+rather unhappy to find out that Goog-
+le do not offer a push email service.
+Simply speaking, instead of having an
+email arrive on my iPhone soon after
+it is sent, my phone simply checks my
+GMail account for new emails every x
+minutes, where x is a minimum of 15.
+Apple originally came up with a so-
+lution by teaming up with Yahoo for
+their “YMail” service, which would
+give “free push email to all iPhone us-
+ers.” However, recently, some users
+including myself have noticed that
+the push email service seems to have
+silently stopped. Although there are
+many other push email solutions avail-
+able online, I decided to try Apple’s
+new MobileMe.
+Despite being an avid mac user for
+the last few years, I have never tried us-
+ing Apple’s now obsolete .Mac service.
+Apple have since thoroughly improved
+this, renaming it to MobileMe, and
+giving great support for iPhone users.
+Even though MobileMe publicly didn’t
+have a smooth start, I decided to sign
+up for a free trial account. MobileMe
+offers much more than push email,
+including an address book contact list
+which keeps in sync over-the-air (great
+for getting someone’s number whilst
+out on your phone, and finding it on
+your PC or Mac seconds later, without
+any need to sync), a calendar service,
+highly comparable to Google calendar,
+adecentphotostorage/sharingwebapp,
+tightly integrated with the iPhone and
+iPhoto, and finally iDisk, which is very
+useful for having synchronized folders
+between your computers.
+AfterusingMobileMeforafewweeks
+and experiencing the tight integration
+service offered, MobileMe feels like a
+product which really bridges the small
+gaps. Even if I didn’t own an iPhone, or
+even a Mac, MobileMe is highly use-
+ful for sharing files and photos with
+friends, and even having synchronized
+bookmarks and folders between my
+other computers. Setup is quick and
+painless, and the settings sync between
+all your devices. Back to my mac screen
+sharing is something hard to live with-
+out, and feels very responsive.
+Overall, I would highly recommend
+MobileMe for most Mac users. Even if
+you just sign up for the free trial for a
+short time, I think most will agree that
+it is a smooth and seamless service that
+keeps those important things in sync.
+“MobileMe is a new Internet service
+from Apple that syncs email, contacts,
+and calendars from a secure Internet
+server, or "cloud," to all the devices you
+use: your iPhone, iPod touch, as well as
+Mac and PC computers. This data is
+accessible anywhere and automatically
+ensures that you get identical email,
+contacts, and calendars, no matter
+which device you use. MobileMe also
+provides a suite of ad-free web appli-
+cations that deliver a desktop-like ex-
+perience through any modern browser.
+Me.com is the place where it all comes
+together. MobileMe applications at
+me.com include Mail, Contacts, and
+Calendar, as well as Gallery for viewing
+and sharing photos, 20GB of storage,
+and iDisk for online file sharing”
+Marc Kerstein
+Mobile Me + iPhone = Nice?
+Backup your work
+A review of the Western Digital My Book
+Ravi Pall
+Technology Editor
+With a previous article about the
+online backup service provided by
+Mozzy, it may be thought it would be
+worth while investing in your very own
+backup solution. We are all hard work-
+ing students living in the age of the in-
+ternet, but it simply isn’t worth while
+backing up all your data on an online
+service. The downfalls including band-
+width limitations, transfer speed and
+the knowledge that your data is with
+a 3rd
+party. It would seem for the aver-
+age user at home, the simplest answer
+to this problem is to buy an external
+HDD (Hard Disk Drive). Thefore the
+first thing I did was to trawl though the
+The web interface to the online Mobile Me service. Giving online access to your calendars, contacts, files, photos and mail.
+The new MacBook with it’s shiny screen.
+internet, looking for the best solution I
+could find at a reasonable price.
+Along came the Western Digital My
+Book. The model I chose was latest
+version of the My Book comes in a very
+sleek matt black finish. Asthetics aside,
+let me engross you with the all so geeky
+details. My personal My Book has a
+1TB storage capacity. A bit excessive I
+know, but some people need this stor-
+age now, and I’m sure there will come
+a day I will too. One of the first things
+I did was to transfer my 65GB iTunes
+library across, which bearly dented the
+capacity of this drive. At this point I’d
+like to mention how quick this was. Us-
+ing Firewire 400 the whole library was
+transferred in less than 20 minutes. As
+I have just mention the Firewire 400,
+now is the time to mention the
+connectivit. All the ports are on
+the back, which include the power
+input, 2 Firewire ports, a USB 2.0
+port and 1 eSATA port. Thats alot
+of flexibility from a drive with the
+form factor of a small dictionary.
+It wasn’t particularly cheep
+though. The 1TB My Book with
+eSATA cost about £120, but this is
+still very competitively priced with
+similar products available. WD is
+also a big name in HDD’s so the
+2 year included warranty, like the
+unit, is reliable. There is no noise,
+and it runs cool even though there
+is no fan. The top feature is the au-
+tomatic on sevice which only turn
+the HDD on when connected. WD My Book
+

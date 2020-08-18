@@ -1,0 +1,603 @@
+sport.felix@imperial.ac.uk
+34 Friday 27 February 2009
+felix
+Sport
+35
+felix
+Friday 27 February 2009
+sport.felix@imperial.ac.uk Sport
+Sports league
+Team P W D L F A Diff % FI
+1 Tennis Men's 1st 10 10 0 0 88 12 76 100 5.00
+2 Volleyball Women's 1st 8 8 0 0 17 1 16 100 5.00
+3 Squash Men's 1st 12 11 0 1 51 9 42 92 4.25
+4 Fencing Women's 1st 10 9 0 1 1317 1067250 90 4.10
+5 Hockey Men's 1st 10 9 0 1 57 13 44 90 4.10
+6 Fencing Men's 1st 9 8 0 1 1187 753 434 89 4.00
+7 ICSM Badminton Men's 1st 6 5 0 1 28 20 8 83 3.50
+8 Lacrosse Women's 1st 11 9 0 2 162 43 119 82 3.36
+9 ICSM Netball 3rd 9 7 0 2 323 174 149 78 3.00
+10 Badminton Men's 1st 12 8 2 2 61 35 26 67 3.00
+11 Table Tennis Men's 1st 13 10 0 3 145 73 72 77 2.92
+12 Squash Men's 2nd 8 6 0 2 25 13 12 75 2.75
+13 ICSM Netball 2nd 8 6 0 2 250 144 106 75 2.75
+14 Netball 2nd 11 8 0 3 364 201 163 73 2.55
+15 Hockey Men's 3rd 10 4 4 2 19 25 -6 40 2.00
+16 Hockey Women's 1st 12 7 1 4 41 28 13 58 1.75
+17 Basketball Women's 1st 8 5 0 3 387 345 42 63 1.63
+18 ICSM Hockey Women's 1st 11 6 1 4 47 26 21 55 1.45
+19 Hockey Men's 2nd 10 6 0 4 37 30 7 60 1.40
+20 Squash Men's 3rd 7 4 0 3 14 9 5 57 1.14
+21 Basketball Men's 1st 7 4 0 3 496 474 22 57 1.14
+22 Badminton Women's 1st 12 6 1 5 57 39 18 50 1.00
+23 ICSM Hockey Women's 2nd 8 3 2 3 23 23 0 38 0.88
+24 Hockey Men's 4th 7 3 1 3 15 23 -8 43 0.71
+25 Tennis Men's 2nd 9 4 1 4 35 46 -11 44 0.67
+26 ICSM Football Men's 1st 9 4 1 4 15 20 -5 44 0.67
+27 Football Men's 1st 9 4 1 4 19 20 -1 44 0.67
+28 Fencing Men's 2nd 6 3 0 3 722 690 32 50 0.50
+29 Squash Women's 1st 12 2 6 4 20 32 -12 17 0.50
+30 Badminton Men's 2nd 7 2 2 3 27 29 -2 29 0.29
+31 Rugby Union Men's 2nd 13 6 0 7 231 286 -55 46 0.15
+32 Football Men's 2nd 8 3 1 4 19 27 -8 38 0.13
+33 Rugby Union Men's 3rd 11 5 0 6 197 207 -10 45 0.09
+34 ICSM Rugby Union Men's 2nd 11 5 0 6 175 161 14 45 0.09
+35 Volleyball Men's 1st 9 4 0 5 10 10 0 44 0.00
+36 Tennis Women's 1st 10 4 0 6 44 56 -12 40 -0.40
+37 ICSM Rugby Union Men's 3rd 10 4 0 6 120 246 -126 40 -0.40
+38 Football Women's 1st 7 2 0 5 10 25 -15 29 -1.43
+39 Hockey Women's 2nd 10 2 1 7 10 44 -34 20 -1.60
+40 ICSM Rugby Union Men's 1st 14 3 1 10 243 401 -158 21 -1.64
+41 Football Men's 3rd 8 2 0 6 14 26 -12 25 -1.75
+42 ICSM Netball 1st 13 2 1 10 314 497 -183 15 -2.15
+43 ICSM Hockey Men's 2nd 10 2 0 8 15 18 -3 20 -2.20
+44 ICSM Football Men's 2nd 5 1 0 4 7 16 -9 20 -2.20
+45 Rugby Union Men's 1st 14 2 1 11 120 416 -296 14 -2.29
+46 ICSM Hockey Women's 3rd 6 1 0 5 7 32 -25 17 -2.50
+47 Lacrosse Men's 1st 8 1 0 7 40 114 -74 13 -2.88
+48 Netball 3rd 8 1 0 7 86 284 -198 13 -2.88
+49 ICSM Hockey Men's 1st 9 1 0 8 15 32 -17 11 -3.00
+50 Rugby Union Men's 4th 10 1 0 9 95 421 -326 10 -3.10
+51 ICSM Badminton Women's 1st 11 0 1 10 11 78 -67 0 -3.45
+52 Rugby Union Women's 1st 2 0 0 2 15 109 -94 0 -4.00
+53 Table Tennis Women's 1st 4 0 0 4 3 12 -9 0 -4.00
+54 ICSM Hockey Men's 3rd 5 0 0 5 0 15 -15 0 -4.00
+55 Netball 1st 8 0 0 8 162 306 -144 0 -4.00
+1 2 3 3 4 5 6 7 8
+9
+10 10 11
+12
+14
+13 14
+15 16 19
+17 18 19
+22 20
+21 22
+32
+23 24
+34
+25 26
+Answers to: sudoku.felix@imperial.ac.uk
+Crossword No. 1,426
+Across
+1 Oddly, Moe seeks those who will
+inherit the earth. (4)
+3 Self-satisfied politician (Labour) is in
+a vegetative state with little money.
+(10)
+10 Ponder right to vote, with French
+leader installed. (7)
+11 Father puts first of kids in an enclo-
+sure or parcel. (7)
+12 Nobleman and queen quarrel about
+military leader; book offers riposte.
+(15)
+13 Nine fall into anger spun by potion.
+(6)
+14 Easy to recite from assignment –
+last three parts of fable. (8)
+17 Roman emperor has endlessly fre-
+quent duties, but no tie. (8)
+18 Sailor standing by route overseas.
+(6)
+21 Recluse runs foes ragged with ability
+to deal with difficult situations. (15)
+23 Revere one quantity of medicine
+containing lithium. (7)
+24 Fury at power cut around fourth of
+February. (7)
+25 What women have to iron: skirt,
+insanely small. (10)
+26 Old French artist turned around
+without finishing. (4)
+Down
+1 An amazing occurrence: vehicle
+reversed in a long distance. (7)
+2 Outpouring of English hesitation
+about very loud toilet heard before
+six. (9)
+4 Sulk, losing head, and sob, making
+hullaballoo. (6)
+5 Minor damage inflicted by incisive
+report? (5,3)
+6 One version of events: competence
+is what is lacked by those who do
+not take responsibility. (14)
+7 Escape Hitler’s mistress, with Ger-
+man support. (5)
+8 That heat really obscures part of
+hospital. (7)
+9 Violent ruction disrupted children’s
+entertainer’s technique. (14)
+15 Loud, deep sound with poor abil-
+ity to travel; it comes back to its
+origin. (9)
+16 Is it the same as midday meal? One
+is confused. (8)
+17 Method of payment I put before
+two females in city. (7)
+T O I S M I S T R A D D L E
+H E M E I G A T H T R O Q U
+O R I E N T M M I N O T A U R
+R A S A K E R C A M O B I E
+O U S S G E C K O L F L A K
+U B I E C C C A S E B O E E A
+G I V E A M O N K E Y S L U E
+H H E O L E L I O R A I N A
+N E R W E L L I N F O R M E D
+H N S O B O E O N Y N S M I V
+I C O N P S C R E E T D O J O
+C N U H M N T D N M R D H C
+C O R D E L I A P P E S E T A
+U V C K A O H E F N I S C T
+P R E G N A N T S A U N T I E
+T
+A
+Solution to crossword 1425
+Saturday 21st February
+Football
+Men’s 1s ULU 1
+Royal Holloway 2s ULU 0
+Men’s 2s ULU 0
+Queen Mary 1s ULU 4
+Men’s 3s ULU 0
+UCL 3s ULU 11
+ULU Cup
+Men’s 4s 1
+King’s College 2s 2
+Men’s 5s 1
+King’s College 4s 1
+(King’s College win 4-2 on penalties)
+Sunday 22nd February
+Lacrosse
+Mixed 1s ULU 7
+UCL Mixed 1s ULU 5
+Monday 23rd February
+Netball
+Women’s 1s ULU 17
+LSE 1s ULU 16
+Women’s 2s ULU 21
+Imperial Medicals 2s ULU 31
+Women’s 3s ULU 42
+LSE 7s ULU 2
+Squash
+ULU Cup
+Women’s 1s ULU 5
+RUMS 1s ULU 0
+Water Polo
+Mixed 1s ULU 6
+UCL Mixed 1s ULU 8
+Wednesday 25th February
+Badminton
+BUCS Cup
+Men’s 1st 4
+University of Bath 2s 4
+(Bath win on a countback)
+Fencing
+BUCS Cup
+Men’s 1st 118
+Northumbria University 1st 129
+Women’s 1st 129
+University of Cambridge 1st 125
+Football
+Men’s 3s ULU 0
+King’s College 1s ULU 4
+Hockey
+Men’s 3rd 3
+Royal Holloway 2nd 0
+Men’s 4th 2
+University of Portsmouth 4th 1
+Women’s 1st 3
+Kings College Women’s 1st 0
+Lacrosse
+BUCS Cup
+Women’s 1st 9
+University of Exeter Women’s 2nd 12 (A.E.T)
+Squash
+BUCS Cup
+Men’s 1st 2
+University of Birmingham 1st 3
+Women’s 1st 0
+LSE Women’s 1st 4
+Table Tennis
+BUCS Cup
+Men’s 1st 12
+Cardiff University 1st 5
+Volleyball
+BUCS Cup
+Men’s 1st 3
+Oxford Brookes University 1st 0
+Women’s 2nd 0
+King’s College 1st 3
+Saturday 28th February
+Football
+Men’s 1st ULU vs UCL Men’s 1st ULU
+Men’s 2nd ULU vs LSE Men’s 3rd ULU
+Men’s 3rd ULU vs Imperial Medicals 1st ULU
+Men’s 4th ULU vs Queen Mary Men’s 3rd ULU
+Men’s 5th ULU vs LSE Men’s 5th ULU
+Men’s 6th ULU vs Queen Mary Men’s 4th ULU
+Men’s 7th ULU vs St Barts Men’s 3rd ULU
+Sunday 1st March
+Badminton
+Mixed 1s ULU vs UCL Mixed 1s ULU
+Football
+Men’s 2nd vs UCL Men’s 2nd
+Hockey
+ULU
+Men’s 1st vs Kings Medicals Men’s 1st
+ULU Cup
+Men’s 2s vs King’s Medicals
+Women’s 1st vs Kings Medicals Women’s 1st
+Lacrosse
+ULU Cup
+Mixed 1s ULU vs Kings Mixed 1s ULU
+Rugby
+Women’s 1st vs LSE Women’s 1st
+Gutteridge (ULU) Cup
+Men’s 1st vs King’s College Men’s 1st
+ULU Cup
+Men’s 2nd vs Imperial College Men’s 3rd
+Monday 2nd March
+Netball
+Women’s 1s ULU - RUMS 1s ULU
+Women’s 2s ULU - Uni of the Arts London 1s ULU
+Wednesday 4th March
+Badminton
+Men’s 2nd - University of Hertfordshire 2nd
+Basketball
+Men’s 1st - St George’s Medical School 1st
+Women’s 1st - St George’s Medical School 1st
+Fixtures & Results in association with Sports Partnership
+19 Fall into strange incident in the
+outskirts of Dortmund. (7)
+20 Jeff’s heart battled, we hear, in
+struggle. (6)
+22 Southern peak by mountain top
+seen in bad weather. (5)
+Fencing
+Men’s 2nd - Royal Holloway 1st
+Football
+Men’s 1st - University of Chichester 2nd
+Men’s 2nd - RUMS 1st
+Men’s 3rd - Kingston University 5th
+Women’s 1st - Middlesex University 1st
+Men’s 4s ULU - LSE 4s ULU
+Hockey
+Men’s 2nd - University of Kent 3rd
+Men’s 3rd - University of Surrey 2nd
+Women’s 1st - Kingston University 1st
+Men’s 1s ULU - St George’s Medical School 1s ULU
+Netball
+Women’s 1st - King’s Medicals 1st
+Women’s 2nd - Queen Mary 2nd
+Women’s 3rd - St George’s Medical School 3rd
+Rugby
+Men’s 2nd - LSE 1st
+Men’s 3rd - University of Chichester 2nd
+Men’s 4th - University of Hertfordshire 2nd
+Squash
+Men’s 2nd - King’s College 2nd
+Tennis
+Men’s 1st - Imperial College 2nd
+BUCS Cup
+Men’s 2nd - London Metropolitan University 3rd
+Volleyball
+Women’s 2nd - London School of Economics 1st
+Netball ladies narrowly
+edge out LSE
+IC Netball 1st girls have won again and
+this time it was a league game – huz-
+zah!! We didn’t make it easy for our-
+selves though… Down for the entire
+game, after the third quarter Colette
+promised the girls a match report
+(with special bonus details on twat of
+the match Rachel Dilley, hehe) if they
+pulled their socks up and won it. So
+here it is.
+The night before the game the girls
+were struggling, due to numerous
+members of the squad being injured,
+to get a team together at all. Luck-
+ily PhD student Alex Godlee gallantly
+stepped in at the last minute (1130pm,
+I was having a minor heart attack) and
+the girls headed off to the surprisingly
+smelly Berrylands via Wimbledon and
+free curry.
+Perhaps it was the snacks weighing
+them down, perhaps the fact that they
+hadn’t had their traditional Powerade
+boost (other sports energy drinks are
+available) or maybe it was the fact that
+they arrived at 6.15 when the game was
+supposed to start at 6pm so had to get
+straight on with no warm-up but IC
+1s were half asleep in the first quarter.
+LSE clearly weren’t fully on it either
+though, except for their uber lively
+centre, and didn’t take full advantage
+so at quarter time they were only 5-3
+up. The low goal count was due to hav-
+ing to play short quarters to make up
+for our lateness.
+IC knew they weren’t playing half as
+well as they could and team captain
+Rachel told us so. Play in the defen-
+sive D was solid as ever thanks to the
+well-rehearsed duo of GK Kate Chap-
+man and GD Rachel Dilley. Defence
+were working hard and making great
+interceptions but needed to bring it
+down the court further. Nina Davies at
+Netball
+Imperial 1st 17
+LSE 1st		 16
+Colette Gregory
+WA, eventual player of the match, was
+working too hard and having to get on
+the end of every ball. At half time it was
+6-5 to LSE and Imperial were bringing
+it back. We just needed to slow it down
+and play our game as we wanted to.
+Biased umpiring led to WD Alex con-
+stantly being pulled up for contact and
+distance. GS Sam Westrop was getting
+very frustrated as the umpires were
+somehow managing to foresee the fu-
+ture and repetitively blew up for an
+LSE back line before the ball had even
+touched the ground off court. One per-
+son who did deserve to be pulled up for
+contact though was GA Colette Grego-
+ry who was utilising her new found ag-
+gression. This was much to the delight
+of Kate who enjoys watching a good
+scuffle from a safe distance down at the
+other end of the court.
+At one point in the final quarter IC
+fell 4 goals behind as LSE led 15-11
+but if it’s one lesson we’ve learnt this
+season it’s to keep our heads up! De-
+termined to go into Varsity on a high
+the girls dug deep and banged in shot
+after shot. Carolyn and Nina provided
+great support working it round the at-
+tacking circle to give Colette and Sam
+some closer attempts at goal.
+At the final whistle the court went si-
+lent. No one on either side seemed ful-
+ly certain what the score was; the game
+had become so intense everyone was
+concentrating too hard on their play to
+think about anything else. Sam turned
+to dumbfounded Colette and said “We
+just won…” as if half trying to convince
+herself. Nobody dared react though
+as they didn’t want to pre-empt the
+win and look like prize numpties. The
+umpires announced the score: IC 17 –
+LSE 16. Whoops of joy and girly little
+jumps echoed down the court, mainly
+led by Carolyn. A group hug followed
+along with a nice team talk from our
+captain Rachel who was “very proud”
+of our performance. Meanwhile the
+LSE GK clenched her fists and wailed
+“Nooooo!!” Slightly o.t.t. in this net-
+baller’s opinion but then again they
+had just been beaten by a team that
+has lost to everyone else this season
+including several teams that they had
+already beaten by a significant margin
+– gutted!!
+After our win we were in a boisterous
+mood and ladette conversion swayed
+onto discussing the finer points of
+the merkin (that’s a lady garden wig
+for those who aren’t familiar with the
+term) whilst in the changing rooms
+and on the journey home. Our team
+captain and twat of the match seemed
+oddly informed in the department of
+rasta fashioned muff toupés… I’ll leave
+it at that shall I Rachel? ;)
+Netball may be a non-contact sport, but taking balls to the face happens
+IC Football 2nds
+on a hot streak
+ICUAFC 2nd XI rolled into this week’s
+varsity clash on a hot streak. After
+struggling for form before Christmas,
+the 2s have put in a series of impressive
+displays in both the ULU and BUCS
+competitions to stave off relegation in
+the former and push for promotion in
+the latter competition. An unfortunate
+injury to Captain and Bola-Bola fa-
+vourite Mitchell Fern has allowed him
+to mastermind two victories and a hard
+fought draw from the sidelines. Despite
+an ever changing line-up composed of
+more than 20 players over the previous
+three fixtures, Mitch’s tactical nous
+proved too much for the opposition.
+The 2s first fixture post-snow saw
+them face a brutish Hertfordshire side
+who came to Harlington expecting a
+stroll but were shocked early on when
+a beautifully curled through ball from
+Matty Smith put Damian in behind the
+defence and he caught the keeper cold
+with a first time hit from an acute an-
+gle which flashed in at the far post. The
+2s rampaging opening 20 minutes was
+then further rewarded when Max rose
+highest, glasses on, to meet Grego’s
+pinpoint corner and nod it in for a 2-0
+lead. At this point the home side pro-
+ceeded to fall asleep and an audacious
+cross-come-shot looped over Paul in
+the 2s goal to leave the score 2-1 at
+half-time.
+Despite a rousing team-talk from
+Mitch, Hertfordshire continued to
+pound away at the Imperial backline
+and a quickfire double, with a tap in
+from a neat free-kick and another
+lobbed goal, allowed the away team to
+take the lead for the first time in the
+game. The 2s needed something to lift
+the spirits and the Hertfordshire cen-
+tre forward obliged receiving a second
+booking for a lunging challenge on
+Max. This, coupled with the introduc-
+tion of the fastest man alive in Sim,
+gave Imperial the impetus they needed
+to press on. The equalising goal came
+scrappily after a sustained bout of pres-
+sure when the ball was lumped hope-
+fully into the box landing at the feet
+of Matty Smith who looped it cleverly
+over the keeper’s head. With 10 min-
+utes to go Mamzi was introduced on
+the wing to provide the guile necessary
+to carve open the Hertfordshire back
+4 but unfortunately Sim was unable
+to finish after his clever through ball.
+However with five minutes remain-
+ing Ron, who had battled terrifically
+throughout in midfield, provided an-
+other scintillating ball which sent Sim
+through 1-on-1 to finish exquisitely
+and win the match.
+The 2nds looked to continue their
+good form 3 days later when they met
+LSE 2s in a relegation scrap. With only
+11 players travelling to Berrylands it
+was going to be a tough ask but the 2s
+answered the call. The game started at a
+frenetic pace with both teams creating
+several half-chances with Sim looking
+especially dangerous up front, crack-
+ing the cross bar with a sumptuous
+effort after breaking in behind from a
+long ball played by Paul Reynolds.
+However it was to be LSE who took
+the lead when their striker used his
+exceptional pace to speed away from
+the Imperial defence and finish with
+aplomb. The lead was to be short-lived
+though, a foul on the half way line
+would usually spell little danger but
+not with a certain roving midfielder
+prowling on the edge of the area. Jon-
+ny Hill swung in a dangerous ball and
+Romain lifted himself, like the prover-
+bial salmon, through the air to plant a
+header into the top corner. This boost-
+ed Imperial who pushed for a second,
+coming closest when Grego lifted a ball
+through for Jeremy, only for his shot to
+crack the outside of the post. Half time
+came with this epic tussle poised deli-
+cately at 1-1.
+The 2nd half was a back and forth
+affair with both teams enjoying spells
+of pressure but neither really creating
+any clear-cut openings. With the game
+creeping towards the final few minutes
+LSE managed to scramble an opening
+with a penetrating cross from the left,
+the ball falling to their centre forward
+only for Fitz to throw himself in front
+of his strike, taking one for the team
+and preventing it from crossing the
+line. This was followed by a mesmer-
+ising challenge from Jon Card to take
+the rebound off the foot of another
+LSE player and scoop it over the cross-
+bar from no more than 2 yards out.
+These two season saving interventions
+inspired a final flurry at the other end
+with Damian picking the ball up deep
+before turning his man and delivering
+a pinpoint pass to Sim in the LSE area.
+Sim skillfully evaded the challenge
+of one defender before being hacked
+down by a second, and hearing a swift
+whistle from the referee who pointed
+to the penalty spot. His strike partner
+Damian, stepped up to coolly side foot
+the ball into the bottom corner send-
+ing the keeper the wrong way. Imperial
+withstood a final LSE barrage to claim
+a hard-fought victory.
+Imperial 2s then faced a testing trip
+to Cobham to face a UCL 2s team
+sweeping all before them in BUCs.
+Once again though, with a changed
+line-up, IC 2s pulled of an impressive
+result. In a tight opening few minutes,
+the away side took an early lead when a
+Grego corner struck a UCL leg divert-
+ing it past the keeper into the corner.
+Football
+Imperial Men’s 2nds 4
+Hertfordshire Men’s 3rds 3
+Football
+Imperial Men’s 2nds 2
+LSE Men’s 2nds 1
+Football
+Imperial Men’s 2nds 1
+UCL Men’s 2nds 1
+Damian Phelan
+Imperial pressed for more with neat
+interplay between Viktor, Damian and
+Grego creating opportunities which
+didn’t quite find the target. However it
+was UCL who would strike next right
+on the stroke of half time, when an in-
+swinging free-kick was met by a glanc-
+ing header which deceived James Skeen
+in the Imperial goal, this the only blot
+on an otherwise excellent performance
+from the Club Captain saving several
+times at point blank range. The 2nd
+half exhibited the growing potential
+in the IC 2s team, with a resolute per-
+formance at the back from Fitz, Mark,
+Jon Card and Jonny Hill restricting
+UCL’s potent attack, allied with some
+neat attacking play just failing to yield
+a winning goal. Notable mention must
+go to Viktor for a couple of audacious
+bicycle kick through balls which bam-
+boozled the UCL defence as well as the
+IC attack.
+Imperial footballer showing concentration from the pressuring opposition player
+Well done to Mochten Sie Mein Man-
+schaft for winning last week’s cross-
+word. I hope you enjoy this weeks.
+		 Sam Wong
+

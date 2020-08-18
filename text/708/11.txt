@@ -1,0 +1,78 @@
+FEATURED
+regards. Well there is some very good
+news—this summer a bumper memory
+upgrade (paid for by the winnings of a top
+secret consortium which used the MINITAB
+statistical package to predict horse races)
+will mean that the machines can support
+'virtual memory'. This swaps programs and
+data in and out of the processor in such a way
+that the machine can appear to handle more
+work than at first seems possible. And then
+CEDIT will be thrown in the in bin where it
+belongs and a screen editor installed instead.
+Those arrow keys which have lain dormant
+for so many years will actually come into use.
+Many of the terminals currently running at
+about 30-40 characters per second will be
+upgraded to eight times that speed, which
+will remove many of those annoying delays
+when the screen is filling up. And all of this
+before the beginning of the Autumn term.
+VAX for the
+memory
+More significantly perhaps is the news that
+ICCC is thinking of buying a VAX 8600. This
+is a recently announced machine which can
+handle a respectable numbers of terminals in
+a very user-friendly way. This would be
+bought for the teaching of Computing Aided
+Design, and as this requiries a lot of
+computing power it seems that initially it
+won't be used for anything else. However,
+STOP PRESS ICCC's first voice recognition
+once people use a machine like the 8600 they
+realise what a difference in productivity a
+decent system will bring. In the future it may
+well be that two networks are run in parallel.
+One would be a number crunching system
+consisting of the current CDC machines
+which would be used mainly for research
+where real data is being processed in large
+quantities. The other would be a less
+equipment!
+powerful but still useful network of new
+machines like the VAX 8600, which would
+allow greater productivity through increased
+ease of use. This second network would be
+used mostly by (contented?) undergrad-
+uates. Then maybe Chemistry 3 would be
+able to get on with their course instead of
+wondering how to unblock the printer
+queue.
+PhoeTfix
+The literary magazine of ICU
+Available from the bookshop, ICU
+office and libraries for only 30p
+Logistix Recruitment Limited
+148 King Street, Hammersmith, London W6 0QU
+Telephone 01-741 8511-7
+Graduates &
+Post Graduates
+COMPUTER SCIENCE/ELECTRONICS/
+ELECTRICAL ENGINEERING
+Since 1978, our company has assisted large
+numbers of I.C. graduates find employment in the
+computer industry. We specialise in recruiting for
+small, expanding companies working on real time
+projects utilising mini and micro computers.
+Currently, we are looking for people interested in
+Artificial Intelligence, Compiler Writing,
+Communications Software, UNIX Systems,
+V.L.S.I., Software Development Environments
+and local Area Networks.
+Make sure that you start your career off in the right
+direction by contacting one of our consultants and
+benefit from their free advice and counselling.
+FEUX Wednesday 19 June 1985 11
+

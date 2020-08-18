@@ -1,0 +1,185 @@
+8 FRIDAY 18 OCT
+Editors: Philippa Skett,
+Keir Little, Fiona Hartley
+science.felix@imperial.ac.uk
+SCIENCE
+Utsav Radia on a new step to neurodegenerative disease treatment
+The MRC Toxicology Unit research
+team, led by Professor Giovanna
+Mallucci at the University of Leicester,
+has managed to successfully control
+the progression of Prion disease, a
+neurodegenerative disorder, in mice.
+The study, published in Science
+Translational Medicine, shows great
+promise for human neurodegenerative
+disorders such as Alzheimer’s, which
+aﬀects around half a million people in
+the UK.
+In Prion disease, the build up
+of abnormally folded proteins
+over-stimulates cellular control
+mechanisms within the brain that
+switch oﬀ the production of all
+new proteins. Without certain vital
+proteins, the nerve cells within the
+brain struggle to send and receive
+messages and eventually become
+starved.
+This control mechanism is supposed
+to be self-regulated, so that protein
+production ‘turns on’ again when
+the misfolded proteins have been
+removed. However, in mice with
+Prion disease, the abnormal protein
+levels continually increased, resulting
+in protein production being kept
+‘switched oﬀ’. This would eventually
+trigger the death of the brain nerve
+cells.
+The team had previously trialled a
+method using proteins that blocked
+the pathway for the ‘oﬀ switch’
+so that new protein production
+could continue in presence of other
+abnormal proteins. This time, the team
+was able to use an orally administered
+drug-like compound which, once in
+the bloodstream, was able to cross
+the blood-brain barrier and block
+the same pathway that switched oﬀ
+all new protein production within
+the brain. The compound worked by
+inhibiting an enzyme, PERK, which
+in the presence of high levels of
+misfolded protein, would trigger cell
+apoptosis (controlled cellular death).
+This enabled the nerve cells within
+the brain to survive in the presence of
+abnormal proteins, thereby restoring
+some brain function and preventing
+further memory loss.
+In Alzheimer’s disease, parts of the
+brain start to atrophy causing the
+formation of beta amyloid protein
+plaques and neuroﬁbrillary tangles,
+known as tau tangles. Amyloid
+proteins are abnormally folded and
+hence the build up of these can
+disrupt and damage the cholinergic
+neuronal cells within the brain that
+carry messages to and from the CNS,
+gradually destroying them. Slowly,
+this disease can spread to other areas
+within the brain, further damaging
+our ability to process thought, speech
+and memory.
+Professor Mallucci conﬁrms that
+the “compound has completely
+prevented neurodegeneration” in the
+mice studied. However, there were
+certain prominent side eﬀects on
+the mice, including damaging eﬀects
+on the pancreas which caused mild
+diabetes and weight loss. The next big
+challenge is to transform this method
+of treatment into human patients with
+minimal side eﬀects.
+Professor Morris, of King’s College
+London,saysthat,“Thisﬁnding[...]will
+be judged by history as a turning point
+in the search for medicines to control
+and prevent Alzheimer’s disease.” So
+far, we have only been able to control
+the symptoms of Alzheimer’s through
+AChE inhibitors such as donepezil
+and NMDA receptor antagonists like
+memantin.
+Whether this new research will
+enable us to revolutionise the way
+Alzheimer’s can be treated, only the
+coming years will tell.
+Breakthrough towards curing Alzheimer’s...
+ALZHEIMERʼS DISEASE EDUCATION AND REFERRAL
+allows vesicles to merge with target bodies to transfer their
+contents, Randy Schekman discovered a set of genes that are
+instrumental in directing vesicle traﬃc, and Thomas Südhof
+unearthed how electrochemical signals are processed by
+vesicles to release their contents accurately and precisely.
+The signiﬁcance of their work, though apparently simple
+and fundamental in nature, is crucial in understanding this
+delicate system within the human body. Any disturbances or
+inconsistencies in the vesicle traﬃc system can lead to long-
+term adverse eﬀects upon general health, and are known
+to contribute to many major medical conditions such as
+diabetes, immunological problems and neurological disorders.
+Peace
+The Organisation for the Prohibition and Control of
+Chemical Weapons (OPCW) received this prize not for one
+particular campaign but a cumulative eﬀort over decades in
+trying to eliminate and outlaw the use of chemical weapons
+internationally. Such weapons were infamously deployed in
+both World Wars, and have also been more recently used
+by terrorist organisations, with current media focus on the
+alleged use of chemical weapons against the Syrian people.
+Since their formation, the OPCW has led eﬀorts to prevent
+manufacture, ensure destruction and eradication of chemical
+weaponry, receiving the support of over 180 countries to
+date. Although heavyweights such as the USA and Russia
+have not acceded to the OPCW’s strong recommendations,
+there is growing international pressure for this to change, all
+thanks to their eﬀorts for a peaceful and more secure world.
+Physics
+Researchers and experimenters of CERN, working at the
+LHC in Geneva, Switzerland, capped nearly 40 years of
+theoretical study and experimentation to ﬁnd certain physical
+evidence for the existence of the Higgs boson, a particle
+included in the Standard Model. It was hypothesised by
+modern particle physics to be crucial in giving all elementary
+particles the property of mass. Its discovery proved the
+existence of the Higgs ﬁeld, which bestows this property,
+achieved by attempting to produce the boson by accelerating
+two streams of particles to extremely high energies (in the
+region of Teravolts) and causing them to collide head-on.
+Theawardingoftheprizehasbeencontroversialasamultitude
+of people had been involved in establishing the Higgs boson in
+theoretical physics, and more involved in the experimentation
+to obtain physical evidence. The Nobel Prize’s policy is to
+only allow up to three people to share an award, which this
+year went to Peter Higgs and Francois Englert. Besides
+them another colleague, Robert Brout, was also considered
+to be a frontrunner to share it, but he passed away in 2011.
+Medicine
+Vesicle traﬃc is the transportation system of molecules
+within our bodies at the cellular level, in packages called
+vesicles. Three researchers shared this prize, although
+they did not directly collaborate on a speciﬁc study: James
+Rothman unscrambled the protein machinery which
+Nobel prizes announced
+Chemistry
+The Nobel Prize for Chemistry this year was awarded to three
+scientists for their work in multiscale modelling of complex
+chemical systems. Martin Karplus of the University of
+Strasbourg and Harvard University, Michael Levitt of Stanford
+University and Arieh Warshel of the University of Southern
+California, began their work in the 1970s, using computational
+models to simulate and study chemical reactions. Over the
+years, the methods became more sophisticated, and their
+applications expanded to include well-known biomedical
+problems such as protein folding and drug design.
+When applied to large biological systems such as
+proteins, however, most computational methods encounter
+a problem of scale: the diﬃculty in simultaneously
+modelling both the atom-level chemical properties and
+the large-scale behaviour of the overall system. The work
+of the Nobel winners provided a way to bridge this gap,
+combining quantum mechanics with classical physics.
+Computational methods and their advocates, unfortunately,
+often meet with scepticism from experimental scientists.
+In Imperial’s own Life Sciences department, there are
+reports of early-career academics having had to play
+down their interest in theoretical research when applying
+for jobs, with one senior lecturer dismissing the entire
+ﬁeld as ‘nonsense’. This historic award should ﬁrmly
+establish the importance of theory in modern science.
+

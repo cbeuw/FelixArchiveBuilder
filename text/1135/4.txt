@@ -1,0 +1,97 @@
+News 8 February 1999
+Machines that conceive of blue bananas
+The City & G u i l d s C e n t e n a r y Lecture
+series g o t o f f t o a h i g h l y s u c c e s s f u l
+start last w e e k , t h a n k s t o a talk f r o m
+o n e o f IC's f o r e m o s t r e s e a r c h e n g i -
+n e e r s , Igor A l e x a n d e r . T h e l e c t u r e
+series is d e s i g n e d t o c o m m e m o r a t e
+the c e n t e n a r y o f C & G U n i o n , a n d will
+h i g h l i g h t s o m e o f t h e m a j o r e n g i -
+n e e r i n g a c h i e v e m e n t s o f t h e last 100
+years.
+Professor A l e x a n d e r is o n e o f t h e
+f o r e m o s t w o r l d a u t h o r i t i e s o n artificial
+i n t e l l i g e n c e , f r e q u e n t l y q u o t e d b o t h
+o n TV a n d radio, a n d c o m b i n e s this
+with t h e role o f Pro-Rector. H i s talk,
+entitled ' E n g i n e e r i n g i n N a t u r e ( a n d
+t h o s e w h o c r a c k e d it)' f o c u s e d o n t h e
+d e v e l o p m e n t o f A l over t h e last forty
+years, a n d his c h a n g i n g r e l a t i o n s h i p
+w i t h his subject. H e w e n t t o university
+in South Africa b e f o r e t h e days o f c o m -
+puters a n d e v e n transistors, a n d thus,
+o n g r a d u a t i o n , h e e n v i s i o n e d a life-
+t i m e s p e n t d e s i g n i n g valve a m p s .
+This all c h a n g e d after h e h e a r d a
+lecture o n c o m m u n i c a t i o n g i v e n b y IC
+Professor G l e n Cherry, " w h i c h t a u g h t
+m e that e n g i n e e r i n g p r i n c i p l e s c o u l d
+be a p p l i e d t o t h e study o f s o c i e t y " .
+F r o m this - s e e m i n g l y i n n o c u o u s -
+b e g i n n i n g , h e s t a r t e d t o " e x a m i n e
+By David Roberts
+:
+y:':"/'L:'.>-':::
+Photo: Courtesy of Imperial College
+w h a t is m e a n t by e m o t i o n s a n d e x p e -
+r i e n c e " , a n d h o w , o n a m o r e practical
+level, this c a n b e a p p l i e d to r o b o t a n d
+a n d r o i d d e s i g n .
+In t h e early sixties, h e f o l l o w e d
+closely in t h e f o o t s t e p s o f M I T expert
+W a r r e n M c C u l l o c h , w h o first d e v e l -
+o p e d t h e c o n c e p t o f c y b e r n e t i c s . But
+t h e s e early c o n c e p t s w e r e n o t f o l -
+l o w e d t h r o u g h , t h a n k s to t h e "cult o f
+the o m n i p o t e n t p r o g r a m m e r " - y o u n g
+d e s i g n e r s w h o b e l i e v e d that t h e pro-
+g r a m m e r c o u l d o v e r c o m e every o b s t a -
+cle (rather than t h e m a c h i n e h a v i n g to
+' l e a r n ' h o w t o deal w i t h t h e m ) . Thus,
+it w a s n o t until t w e n t y y e a r s after
+M c C u l l o c h , in 1 9 6 3 , that A l e x a n d e r
+d e s i g n e d t h e first d i g i t a l n e u r o n e ,
+w h i c h h a d t h e ability t o g e n e r a l i s e
+results a n d turn t h e m into l e a r n i n g . By
+a d d i n g s u c h n e u r o n e s t o g e t h e r h e
+d e v e l o p e d s y s t e m s o f pattern r e c o g -
+n i t i o n , w h i c h , w h e n e m b e d d e d in
+c o m p l e x f e e d b a c k l o o p s , g e n e r a t e s a
+s i m p l e n e u r a l n e t w o r k .
+T h e s e s y s t e m s h a v e n o w d e v e l -
+o p e d into a p r o g r a m m e w i t h t h e abil-
+ity to i d e n t i f y s h a p e s a n d c o l o u r s ,
+w h i c h a l l o w s a n a m a z i n g p e r c e p t i v e
+ability. Prof A l e x a n d e r d e m o n s t r a t e d
+this w i t h a picture o f a M a r t i a n land-
+scape; g i v e n s o m e basic k n o w l e d g e o f
+f e a t u r e s o n Earth, it c a n detect rocks
+a n d hillside, a n d c a n track d o w n m o r e
+interesting features. M o r e impressively
+still, it h a s t h e ability t o ' v i s u a l i s e '
+objects it h a s n eve r s e e n - w h i c h h e
+d e m o n s t r a t e d by a s k i n g t h e c o m p u t e r
+to i m a g i n e a b l u e b a n a n a w i t h red
+spots. This, h e believes, is t h e first step
+o n t h e road t o a ' c o n s c i o u s ' c o m p u t e r
+- w h i c h , if his b o o k is t o b e b e l i e v e d ,
+h e h a s d o n e , i n t h e s h a p e o f a
+m a c h i n e c a l l e d ' M a g n u s ' .
+T h u s t h e r e w a s o n e m e s s a g e
+w h i c h Professor A l e x a n d e r w a n t e d to
+Impart o n his a u d i e n c e , "to b e a n engi-
+neer is t o u n d e r s t a n d t h i n g s - e v e n
+t h o s e that h a p p e n in n a t u r e " .
+Staying in London over Easter?
+Student accommodation is available in Evelyn Gardens
+from 27 March to 24 April 1999.
+For information and an application form call into:
+The Conference Office
+Watts Way
+Prince's Gardens
+(next to Basics Pizzeria)
+reservations@ic.ac.uk 0171 594 9511 / 7
+Rooms are limited so apply now to avoid disappointment!!
+

@@ -1,0 +1,208 @@
+”
+“
+Tackling Cystic Fibrosis
+Ned Yoxall talkstoDr Jane DaviesonnewadvancesinCFtreatment
+n June this year, the Cystic
+Fibrosis Gene Therapy Con-
+sortium started a ground
+breaking new trial looking at
+the eﬀects of regularly dosing
+suﬀerers with gene therapy. Ned Yox-
+all speaks to Dr Jane Davies, the clini-
+cal lead investigator in London, to ﬁnd
+out more.
+Ned Yoxall: Thanks so much for
+agreeing to meet! Could you tell me
+a little about your background –
+how did you end up in cystic ﬁbrosis
+(CF) research?
+Dr Jane Davies: It’s a bit of a random
+story! I went to medical school in
+Dundee before coming to London
+where I did a series of paediatric clini-
+cal jobs with a particular interest in in-
+fectious diseases. Before long I found
+myself at the Royal Brompton doing a
+respiratory and cardiac job, and this
+is where I had my ﬁrst contact with
+CF patients. The CF lung is full of in-
+fection, so I ended up doing an M.D.
+looking at how bacteria stick onto the
+epithelial cells. After a spell at Great
+Ormond Street, I came back to this
+job – a combination of a clinical con-
+sultant and an academic – where I’ve
+been for the last 12 years.
+NY: Could you give me a brief dum-
+my’s overview of what CF does to the
+body?
+JD: CF is a genetically inherited dis-
+ease, so if a patient has two copies
+of the abnormal gene then the cells
+lining the organs of their body don’t
+handle salt well. The mishandling of
+the salt leads to dehydration of the
+surface secretions – particularly in
+the lungs – so they become dry and
+sticky. They then act as a very attrac-
+tive place for bugs and viruses enter-
+ing the body. This triggers an inﬂam-
+matory response, but the infection is
+never properly cleared, so you enter a
+vicious cycle of chronic infection and
+inﬂammation which leads to tissue
+damage and other diﬃculties.
+NY: So what’s it like to live with CF?
+JD: Well I don’t know that ﬁrst hand,
+so no matter how well I know my pa-
+tients I can never pretend to know
+exactly how they feel. It is certainly
+very diﬃcult both practically and
+psychologically though. Practically,
+a huge amount has to be done every
+day to manage the disease – up to an
+hour a day of physiotherapy to clear
+mucous from the lungs, as well as
+nebuliser treatments and between ten
+and twenty diﬀerent pills to be taken.
+That’s when things are going well, and
+almost all patients go through epi-
+sodes where they need to be in hos-
+pital for several weeks at a time. Psy-
+chologically, it’s completely relentless
+and it’s something that you know will
+be with you for the rest of your life and
+you know that your life will be consid-
+erably shortened – life expectancy is
+in the late thirties at the moment.
+NY: What is the Gene Therapy Con-
+sortium, and what’s it trying to do?
+JD: It’s an amalgamation of three indi-
+vidual groups – Imperial, Oxford and
+Edinburgh – which had previously
+been working in competition, but were
+brought together by the Cystic Fibro-
+sis Trust to work in collaboration. The
+aim was to bring a step change in gene
+therapy trials where success would be
+measured by how patients actually felt
+or performed after treatment rather
+than by molecular markers in the lab.
+NY: Has gene therapy been attempt-
+ed in the past?
+I
+SCIENCE
+Science Editors: Philip Kent,
+Laurence Pope, Philippa Skett
+science.felix@imperial.ac.uk
+FRIDAY 23 NOVEMBER
+20
+“
+”
+CF is physi-
+cally exhaust-
+ing; psycho-
+logically it’s
+completely
+relentless
+“
+”
+Our approach
+uses synthet-
+ic liposome-
+based vec-
+tors to deliver
+DNA
+JD: Yes – for lots of diﬀerent diseases.
+It’s been really successful at treating
+some cancers and immunodeﬁciency
+disorders, but gene therapy trials for
+CF have never been big enough or
+long enough to look for clinical ben-
+eﬁts before now.
+NY: What makes it so diﬃcult to
+achieve?
+JD: Lots of gene therapy approaches
+use a virus to carry the experimen-
+tal gene into the cells. Viruses can be
+quite good at this and for some dis-
+eases it works really well as one viral
+“hit” can be a treatment for life. The
+problem with cystic ﬁbrosis is that
+you need to treat the lungs, which
+constantly renew themselves, so you
+can’t easily target a stem cell – you
+need to give the treatment repeatedly,
+and unfortunately the viruses are tar-
+geted by the body’s immune system.
+So although you can get excellent gene
+transfer the ﬁrst time, by the third or
+fourth time, with most viruses at least,
+it drops to nothing.
+CF necessitates the frequent use of
+breathing mask nebulisers
+Interested in interviewing
+for Felix Science?
+Have you wanted to have a go at interview-
+ing, but not felt confident enough? Get in
+touch with Felix Science and we can help
+set you on your way. Contact us at science.
+felix@imperial.ac.uk
+Facebook facebook.com/Felixscience
+life123.com
+... it’s less ef-
+fective than
+using viruses,
+but can be
+used repeat-
+edly.
+NY: What’s diﬀerent about your ap-
+proach now?
+JD: We’re not using viruses to carry
+genes into the cells. Instead we’re
+using synthetic vectors based on li-
+posomes which fuse with the fatty cell
+wall and allow the new DNA to get
+into the nucleus. This process is al-
+most certainly less eﬃcient than using
+viruses, but you can do it repeatedly.
+NY: What’s the best case scenario
+after this trial?
+JD: The best case scenario would be a
+highly signiﬁcant increase in the lung
+function of those having undergone
+gene therapy. This would be the ﬁrst
+evidence that the approach works with
+CF and it would then be taken forward
+with a collaborating pharmaceutical
+partner to develop a treatment.
+NY: And the worst?
+JD: That it doesn’t work at all. While
+this would be disappointing, we do
+have a second wave using a diﬀerent
+approach, which in fact is a very unu-
+sual virus that can be given repeatedly.
+A negative trial certainly wouldn’t
+mean the end of gene therapy for CF.
+NY: What does the trial mean for
+people with CF?
+JD: Well I’m very careful not to use
+the word cure. Even if it is successful,
+it will still need to be given repeatedly
+and will only treat the lungs, not the
+other organs which are aﬀected. It
+could, however, be a major move for-
+ward and so there is a lot of optimism
+about it.
+Ned completed Ironman Wales back
+in September to raise money for the
+Cystic Fibrosis Trust. You can sponsor
+him online by visiting www.justgiving.
+com/NedsIronman or by text through
+JustTextGiving by sending ‘IRON66
+£(amount you’d like to give)’ to 70070.
+Anything you can spare is hugely ap-
+preciated!
+Clear, healthy lungs, left; cloudy, mucus-laden cystic fibrosis lungs, right.
+learningradiology.com
+

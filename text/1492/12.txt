@@ -1,0 +1,155 @@
+FELIX
+12
+Tips & Hacks
+TECHNOLOGY
+Technology Editor: Feroz Salam
+technology.felix@imperial.ac.uk
+Friday 10 june 2011
+Apple unveils iOS 5 at WWDC
+Unveiled at Apple’s WWDC keynote this week was
+iOS 5, the latest version of the operating system
+that powers iPhones and iPads. The latest iteration
+brings many features available on competing plat-
+forms to Apple devices. Notable among them are
+iMessage, a BBM-style messaging utility, an Android-
+esque notification capability and update over-the-air
+which should allow you to update your phone without
+having to plug it in to a desktop. Don’t hold on to any
+hopes of showing off to your Android and Blackberry
+toting friends in the near future though - the update
+is only going to be pushed to users in the fall. Apple
+will no doubt do a solid job in bringing their excellent
+interface design skills to the fore, but the update
+seems to be a small step rather than a giant stride.
+Wait for the iPhone 5 for bigger and better things.
+Facebook has apologised after yet another priva-
+cy-related furore this week. This time the uproar
+revolved around their roll-out of facial recognition
+features meant for use in tagging photographs. The
+biggest complaint about the new feature centred
+around the fact that it was opt-out and not opt-in:
+people were startled to discover that Facebook could
+now recognise their friends and family without hav-
+ing subscribed to such a service in the first place. In
+Facebook’s defense, the technology was merely sug-
+gesting possible tags for photos from your friends
+list and not tagging them automatically, using data it
+always has had access to. The intention behind the
+release seems to have been harmless, yet the im-
+plementation bears Facebook’s usual heavy-handed-
+ness. It’s clear that Zuckerburg and co. have some
+work to do before they win anyone over with their PR.
+Facebook in privacy row (again...)
+Launched in London last month was a new
+online game called Chromaroma. The game is
+played on the London transport network and
+utilises your Oyster travel card to gain infor-
+mation regarding your commuting. Players
+can get points by many different actions but
+each swipe of your card contributes to your
+team’s tally. You can go on personal missions
+to set record times between stations or venture
+to parts of London that you might not have vis-
+ited before.
+The developers of the game describe is as a
+“type of location-based top-trumps. You col-
+lect places, identities, modes of transport and
+passengers as you travel around the city; dis-
+cover and investigate mysteries attached to
+different locations and build alliances with fel-
+low passengers that share your journeys. It’s
+a game you can play on your own, or part of
+a team.”
+It sounds like an initiative by TFL to coerce
+the weary Londoner into increasing their Oys-
+ter card usage and decrease their bank account
+funds but it’s actually a new interactive form
+of gaming that has been taken up very quickly.
+Most games of this nature would require you
+to use your GPS smartphone to ‘check-in’ at
+certain locations (like Foursquare) but this
+game is based entirely online allowing anyone
+who owns an Oyster card or a Boris Bike key
+to get involved.
+“It’s like a bank, if you deposit money then
+you have the right to remove it and count it. If
+you create data then you have the right to take
+it out and look at it” says Toby Barnes who’s
+responsible for the development of the game.
+It’s the data that’s the fascinating part of the
+game and the biggest reason to sign up is to
+see your journeys round London visualised in
+an interesting and engaging way.
+The exciting part of the game arises when
+you align yourself with a certain group and
+try to take over stations. The game revolves in
+‘seasons’ (lasting a few months each) and the
+team with the most swipes of the season has
+ownership of that particular station. The busier
+stations: Victoria, Waterloo, Liverpool Street
+etc. all seem to change hands daily which
+opens up the game.
+The data used does raise some ethical ques-
+tions about tracking people’s whereabouts and
+creating a log of everywhere you’ve been. The
+game designers, Mudlark, get around this with
+a forty eight hour delay on your information
+being updated online. This does seem to re-
+move some of the immediacy of the game as
+you can’t always remember your whereabouts
+two days previous and if you’re involved in a
+vicious battle to takeover your home station
+then you’ll want to see your results straight
+away.
+But it’s not all about rushing between sta-
+tions to secure more points and records. The
+organisers say that they are looking to intro-
+duce new features to the game which might
+give you more points for getting off one stop
+early and walking. Using the Boris Bikes cur-
+rently scores you points but you may be re-
+warded with more points if you switch from
+the underground to the bikes. Mudlark are
+also considering sponsorship opportunities
+which would give users discounts to services
+along their favourite routes and players with
+more points might receive special offers from
+companies.
+It’s well worth a try, the visuals will keep
+you enticed more than anything else although
+I’m not sure the game has enough to keep peo-
+ple coming back for months.
+The game best played on the move
+Windows 8 preview promises app bonanza
+After weeks of speculation and leaks regarding
+the next version of Microsoft’s flagship soft-
+ware, Windows 8 was previewed this week at
+the Computex Expo.
+Most striking about the new operating sys-
+tem was the user interface, which has dropped
+the traditional Start menu and desktop combi-
+nation in favour of a Windows Phone 7 style
+tile layout. The interface has won plaudits
+from many reviewers of their mobile devices
+and Microsoft has obviously attempted to
+channel this into their desktop software.
+The OS is very touch-oriented, having ob-
+viously been designed keeping tablet compat-
+Jake Lea-Wilson
+Feroz Salam ibility in mind. With ARM based Windows 8
+tablets on preview as well, it’s clear that the
+company is betting on demand for touch tech-
+nologies at least equalling the market for de-
+vices with physical keyboards.
+The preview revealed very little about
+changes under the hood, however. While the
+majority of new programs (or ‘apps’ as we’re
+now meant to call them) will be designed for
+the new interface, all the traditional programs
+can still be opened in the old interface should
+you require it.
+Microsoft should be commended for mak-
+ing their first truly bold move in years, but it
+remains to see if their stodgy but vital business
+clientele appreciates it as much as they should.
+

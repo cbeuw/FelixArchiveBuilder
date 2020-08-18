@@ -1,0 +1,135 @@
+In thefirstofa hopefully-not-too-occasional series ofarticles on research
+being done here, at Imperial College, Professor Charles Rees of the
+Department of Chemistry describes his work on a subject that spans
+organic and inorganic chemistry. It could be described as chemistry with
+no loose ends—the chemistry of rings of atoms...
+Chemistry i n circles
+Organic chemistry, the chemistry of carbon
+compounds is the chemistry of life. Its unique and
+necessary feature for life is the limitless ability of
+carbon IC) atoms to form themselves into long and
+branched chains, rings and three dimensional
+networks. These carbon atom frameworks can then
+combine with most of the other chemical elements,
+though hydrogen (H), oxygen (0) and nitrogen (N) are
+the most common, generating an almost infinite
+number of possible structures.
+Although all organic compounds came originally,
+from nature, many more have now been made in
+chemical laboratories and most of the 9 million
+compounds described in the Chemical Abstracts
+Database are synthetic organic compounds. About
+half of these belong to one vast class called
+'heterocyclic'. These are rings of carbon atoms
+containing at least one other element, 0, N and
+sulphur (S) being the most common. There is a
+limitless number of such compounds: the rings can be
+of any size, from three membered upwards, and the
+non-carbon 'hetero' atoms can be chosen from most
+of the other elements.
+But why have millions of these compounds been
+produced? Why are new ones still being made, world-
+wide, at a rate of one every few minutes. There are
+several reasons: heterocyclic compounds are widely
+distributed throughout nature and are essential for life;
+they play a vital role in the metabolism of all living
+cells. The pyrimidine and purine bases of DNA and
+RNA, some of the essential amino acids, many
+vitamins, co-enzymes and hormones, and chlorophyll
+and haemoglobin are all heterocyclic compounds.
+They are extremely useful, and profitable. Many
+biologically active substances are heterocyclic,
+including natural products such as penicillin and
+morphine. Synthetic heterocyclic compounds range
+from anticancer drugs to solvents. Of the 10 biggest
+selling pharmaceuticals, all are cyclic and 7 are
+heterocyclic. Half of Glaxo's recently announced £1
+billion profit came from just one heterocyclic
+compound, the anti-ulcer agent Ranitidine.
+Heterocyclic compounds are important theoretically
+and their unlimited flexibility can produce compounds
+with almost any desired physical, chemical or
+biological property. We only need to be clever enough
+to design and construct the right sequence.
+Traditionally the design of heterocyclic compounds
+starts with and appropriate all-carbon ring, like
+benzene, and considers the effect of introducing
+heteroatoms into this, one at a time. This works
+surprisingly well for the first few heteroatoms but then
+starts to break down badly. The number of available,
+stable molecules rapidly drops when there is a large
+proportion of heteroatoms. So, in spite of the vast
+number of known heterocyclic compounds, there is
+a big gap in our knowledge of stable, and hence useful
+compounds. This is gap which we are trying to fill in
+C H 3
+CH
+^N
+_CHAX
+N 0 7
+C H 7
+.CH:
+C H 7
+H H
+Ranitidine: an heterocyclic anti-ulcer drug worth £1 million per day
+its manufacturers.
+the Hofmann Lab in the Chemistry Department at
+Imperial College.
+Our approach is the exact opposite of that described
+above. We start with stable rings composed wholly
+of heteroatoms and study the effects of introducing
+carbon atoms, one at a time. We hoped that if the
+starting rings were stable enough we could modify
+them in this way, producing organic compounds
+which would still be stable in spite of their unusual
+structure. This simple idea has proved to be very
+successful and, 8 Ph.D theses and 25 papers later,
+we have established the main ground rules in this new
+area of chemistry which straddles organic and
+inorganic.
+With this approach we could, in principle, start with
+cyclic structures from anywhere in the Periodic Table.
+We actually started with compounds of sulphur and
+nitrogen, two of the most important heteroatoms.
+Several such compounds are known, with a wide
+variety of ring sizes and shapes. Their (inorganic)
+chemistry has been well worked out and, fortunately,
+we have an expert in this field, Dr Derek Woolins, in
+the department. Many of these inorganic compounds
+have delocalised structures, structures in which the
+individual electrons have freed themselves from the
+atoms and are flowing around the rings. This promises
+well for compound stability and for many practical
+applications such as dyestuffs and pigments and,
+particularly, conductors. Indeed the ultimate
+delocalised structure in this area is a linear polymer
+of alternating sulphur and nitrogen atoms,
+polysulphur-nitride ((SN)n), a highly conducting
+anisotropic 'metal' which becomes superconducting
+at sufficiently low temperatures. One of the aims of
+our work is to improve on the properties of this
+polymer by incorporating the atomic framework into
+the much more stable heterocyclic rings that we have
+discovered whilst maintaining the totally delocalised
+electron structure.
+This is still for the future. What we have done so
+far is to establish chemical methods for opening the
+sulphur-nitrogen rings, inserting a carbon atom or two
+and snapping the ring shut again. We have discovered
+a range of fascinating 5 to 8 membered heterocyclic
+rings which are highly stable and beautifully coloured.
+They are quite unlike anything observed in nature, or
+the lab, before. Indeed one of the pleasures of being
+a research student working on synthetic chemistry is
+the opportunity to make entirely new materials and
+to be the first person to see and handle them - long
+before your supervisor!
+It now remains to be seen if our compounds will be
+as practically useful as they are theoretically novel.
+/ /
+: N
+: N
+Polysulphur-nitride: a highly reactive conducting 'metal' madefrom
+non-metals, adding heterocyclic rings may make it more stable.
+Page 6
+

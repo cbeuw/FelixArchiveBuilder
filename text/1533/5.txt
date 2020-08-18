@@ -1,0 +1,167 @@
+NEWS
+5
+FRIDAY 30 NOVEMBER
+News Editors: Aemun
+Reza, Nida Mahmud
+news.felix@imperial.ac.uk
+Prize winners
+More student cuts
+Men’s cuts £22 (normally £35)
+Women’s shampoo and cut and
+rough dry £28
+Women’s shampoo cut and sa-
+lon finish blow-dry £38 (normally
+£55)
+FRESH Hairdressers has been
+offering high quality, fashionable
+haircuts for over 20 years, all of
+our haircuts are by highly experi-
+enced stylists, NOT trainees.
+TO GET A GREAT HAIRCUT
+1) You don’t have to spend more
+money on expensive known High
+St. salons
+2) You don’t have to spend hours
+as a Guinea pig at a training school
+3) You don’t have to be butch-
+ered at some cheap Barbers who
+doesn’t know how to leave a little
+length
+Sponsored Editorial
+Discount haircuts for Imperial
+students at Fresh Hairdressers
+near South Kensington tube
+We use only the best products,
+Wella, Moroccan Oil, L’Oreal, and
+KMS and offer free coffee and
+herbal teas.
+Come to FRESH, ask for a student
+discount and bring your student ID
+we look forward to seeing you
+To book an appointment call 0207
+823 8968.
+Tuesday to Saturdays 9.30 to 5.30
+We are only 70 metres from South
+Kensington tube station
+and were the winners of the ‘Wat-
+erAid’ prize. They produced an inno-
+vative data visualization solution for
+WaterAid, which is a charity aiming to
+provide safe, clean water to the world’s
+poorest people.
+Mike Smith and Joe Downie from
+WaterAid commented saying: “The
+J.P. Morgan team created a fantastic
+opportunity to engage and challenge
+top university students for some really
+worthwhile causes – it was great being
+a part of it!”
+The other Imperial team, called ‘Re-
+curret’ included Julian Sutherland, Al-
+exandru Paunoiu, Razvan Marinescu,
+Shahin Mir and Niklas Hambuechen.
+They ﬁnished in the top 6 and created
+a sophisticated and highly engaging
+awareness raising solution for The Na-
+ture Conservancy, which is a charity
+that develops ecological-preservation
+solutions around the world.
+Andrew Courtney from The Nature
+Conservancy said: “Overall the week-
+end exceeded my expectations: the
+students were top-notch and came
+up with several creative solutions;
+the event itself was well designed and
+gave the students and charities plenty
+of opportunities to interact. The en-
+tire event was a great opportunity for
+TNC to work with highly talented stu-
+dents and rapidly prototype numer-
+ous solutions to an ongoing challenge
+we’ve faced. “
+Sandeep Saksena, Chief Invest-
+ment Oﬃcer of EMEA Markets Tech
+Strategies, stated that “J.P. Morgan
+has prided itself in being one of the
+top technology ﬁrms out there, and
+bringing together top students from
+our universities, directed by the so-
+cial responsibilities that we as a ﬁrm
+strongly believe in.”
+continued from the front page
+>>
+Clubs with Wordpress sites need
+to upgrade or be hacked... intense
+Tim Arbabzadah Editor-in-Chief
+Imperial clubs with old Wordpress
+sites are vulnerable to attack from
+hackers.
+A number of the Clubs and Socie-
+ties at Imperial College Union have
+been running outdated versions of
+Wordpress, which leaves them open to
+attack. The problem is easily ﬁxed by
+simply keeping installations up to date
+when asked to update (those annoying
+“UPDATE NOW OR ELSE” boxes).
+The actual number of clubs that have
+been attacked seems to be small. The
+Union Sys Admin, Philip Kent, said
+that they are “making sure everyone
+updates so it doesn’t happen again.” He
+added that all old Wordpress sites were
+not necessarily attacked. He added that
+Wordpress is not the “only expoitable
+pieve of software” saying that “other
+software has security holes too, but we
+are targeting Wordpress on the basis
+that it is widely used on club websites,
+and it has a poorer track record for be-
+ing secure [than other software]”.
+At the moment, it would appear that
+the content of the websites were al-
+tered but no sensitive information was
+compromised.
+The problem will be minimised by
+immediately turning oﬀ a Wordpress
+that is found to be outdated. It is only
+re-instated when it has been declared
+clean and the club has upgraded the
+software. Since starting the weekly no-
+tiﬁcations a large number of clubs have
+already upgraded their installations
+and Kent says the Union are “well on
+our way to fully resolving this prob-
+lem”.
+Kent said that they have “switched
+every site (except those which use cus-
+tom domains) over to use SSL for all
+access; which, while this will not stop
+these kinds of attacks, it will prevent
+some of the results of what is done
+to people’s websites. For example, on
+one website, the attackers modiﬁed
+the templates so that it displays what
+is called an iframe (embedding a web-
+site inside a website). Because we now
+run under SSL, unless the website in-
+side the iframe is also running under
+SSL, web browsers will often complain
+or refuse to show the contents of the
+frame, which may prevent showing of
+undesirable content. The same is true
+if they try to load external images or
+JavaScript.”
+They are also working on a way to
+make upgrading easier, but are yet to
+complete it. There is a guide on the
+SysAdmin website (http://union.ic.ac.
+uk/sysadmin), which describes how to
+upgrade
+Nah, I swear, Apple
+Maps will let me know
+where I am REALLY soon
+The IC Crowd and/
+or an amazing
+RomCom promo shot
+

@@ -1,0 +1,508 @@
+26 felix Friday 30 January 2009
+technology.felix@imperial.ac.uk
+Technology
+Technology Editor – Richard Lai
+Richard Lai
+Technology Editor
+F
+irst of all, I would like to
+apologise about the uninten-
+tional rotation of one of the
+pictures last week: somehow
+the image format converter
+decided to rotate the picture by itself
+and it managed to slip under our radar.
+All I can say is that shit happens once
+in a while but the image should have
+served its purpose anyway (the TV was
+still as thin!).
+Speaking of shit, it’s been a bad start
+to the year for many companies. Even
+large companies like Microsoft and
+Intel had announced that about 5,000
+of each of their employees would have
+to leave, although neither had reported
+any financial loss; ASUS and Sam-
+sung reported their first-ever quarter
+loss of about $100 million and $674
+million respectively but both had ex-
+pressed that there would be no layoffs;
+the worst sufferer of all was probably
+AMD, which reported a staggering
+$1.42 billion loss and has laid off 9% of
+its work force (1,100 jobs).
+So how will this affect us? For start-
+ers, we may experience a technol-
+ogy slowdown which means fewer new
+gadgets coming out this year.
+However this may also mean more
+effort will be concentrated on the
+fewer products. For instance, Palm
+had gone quiet for years until their an-
+nouncement of the Pre smartphone at
+the CES and many critics agreed that
+the Pre will be the company’s saviour.
+Expect to see it in stores in this half of
+the year.
+We are also expecting many other
+interesting technologies and gadgets
+to emerge at some point this year. To
+name a few; USB 3.0, SDXC memory
+cards, Windows 7 (which I have been
+playing with and frankly it’s stolen
+more features from Mac OS X), mind-
+controlled games (as mentioned in last
+week’s felix), more Android phones
+and more energy-efficient gadgets.
+Apart from these, I can’t really think of
+anything else. Do send me an e-mail if
+you feel that I have missed out some-
+thing very obvious.
+Apart from the obvious ones above,
+have you ever thought about what fic-
+tional technologies you would love to
+see becoming reality? The other day I
+thought of a reader that could convert
+your thoughts into a Powerpoint slide-
+show or Flash animation, thus saving
+you from those lonely hours in front of
+the computer screen.
+My second idea was a “drinkable
+sleep”: basically, if you’ve been up all
+night (which is what’s happening to
+me these days) yet you don’t have the
+time to recover in the middle of the
+week, you could drink a bottle of this
+goodness that gives the same effect
+as one night’s sleep. I would actually
+pay good money for this stuff because
+life’s too short with those wasted hours
+at night. A lot of the times I wished I
+could be watching Family Guy instead
+of sleeping.
+If you have had similar creative im-
+aginations, please do send them in at
+technology.felix@imperial.ac.uk
+Shit happens
+sometimes
+ASUS vs. Pegatron
+The Taiwanese requiem of Steve Jobs’ fight against Apple?
+I
+f you have never heard of Pega-
+tron, you should have at least
+heard of ASUS, the company
+behind the successful Eee PC
+netbook franchise. And why
+should you find this article interesting?
+Well, the story shares a similar back-
+ground with Apple’s rise and fall: recall
+the year 1985, when Apple stripped
+co-founder Steve Jobs of his manage-
+rial duties over a power-struggle with
+the then-CEO John Sculley and so Jobs
+resigned. In the same year he founded
+NeXT Computer, which went head-
+to-head against Apple with their own
+computers and software. Interestingly,
+by the end of 1996 the failing Apple ac-
+quired NeXT and six months later Jobs
+replaced Gil Amelio to become inter-
+im CEO (or more popularly known as
+“iCEO”). Today, Jobs is the permanent
+CEO of a healthy Apple Inc. which is
+worth $80 billion.
+Such fascinating story is about to be
+replicated on the Taiwanese soil. Steve
+Jobs’ counterpart is ASUS co-founder,
+Tung Tsu Hsien, who is now the chair-
+man of the one-year-old Pegatron. The
+origin of ASUS is quite interesting and
+not often talked about, so allow me to
+tell you how it all started, which should
+help you understand the potential im-
+pact of Pegatron;
+The year was 1989 and Taiwan had
+just finished celebrating Chinese New
+Year. Tung, along with Ted Hsu, Wayne
+Hsieh and Liao Min Hsiung, were Sen-
+ior Engineers at Acer and they all saw
+theopportunitiesofferedbythebloom-
+ing market of Intel’s 386 microproces-
+sor and Microsoft Windows. The four
+made final discussions over the public
+holiday and decided to resign, in order
+to start up their own motherboard de-
+velopment business. ASUS was thus
+born on 2nd
+April in the same year and
+rumour has it that such name (a trun-
+cated “Pegasus”) was specifically cho-
+sen so that Acer still lists alphabetically
+above ASUS – a noble homage to the
+founders’ ex-company.
+Even though opportunities seemed
+to be everywhere, the four bright en-
+gineers struggled to get attention for
+their young company, as hardly any-
+one saw the motherboard as a mon-
+eymaker. Eventually, ASUS decided to
+manufacture their own motherboards
+instead. This led to their first Intel 486
+prototype motherboard at the end of
+1989. Funnily enough, such develop-
+ment was made possible by Acer’s co-
+founder and General Manager, Jonney
+Shih, who provided generous funding.
+ASUS then took their 486 board to
+Intel to try their 486 prototype proces-
+sor on it (Intel Taiwan had the one and
+only engineering sample for Asia back
+then). While Tung and his team were
+waiting in a corner, they overheard
+that Intel’s own prototype mother-
+board went kaput, so they volunteered
+to have a look and – to Intel’s surprise
+– managed to fix it. It was this mira-
+cle that established the strong link be-
+tween ASUS and Intel today.
+So what has gone wrong with to-
+day’s ASUS? Jonney Shih is partly to
+be blamed. After Tung’s many years
+of begging, Shih left Acer and became
+chairman of ASUS in 1994. It was just
+over a year ago when he decided to
+split company into three units: ASUS,
+Pegatron and Unihan.
+Such restructuring was meant to let
+ASUS concentrate on the laptops and
+systems, with Pegatron taking care of
+motherboard and component manu-
+facturing, and Unihan handling sub-
+component and chassis production.
+Many thought that this was just a plot
+to reset all employee pensions (there is
+no Taiwanese law which states that all
+companies have to offer pension plans),
+but it appears that there is a darker side
+of this story.
+According to Taiwanese magazine
+Business Today, during the split an-
+nouncement meeting in 2007, Shih
+and Tung already showed signs of
+their icy relationship. The magazine
+claimed that Tung was forced to ac-
+cept the chairman role of Pegatron, a
+components company when his real
+passion was in the establishment of the
+ASUS brand. The reason for this oust-
+ing? So that Shih could let his brother-
+in-law, Jonathan Tsang, take up Tung’s
+ASUS vice-chairman role, thus leaving
+Tung out of any executive decisions
+over ASUS. Even though Tsang had
+also given financial aid to ASUS in
+the early days, Tung had many rough
+patches with Tsang as President of
+Marketing. Apparently he went against
+the wishes of several key staff over the
+laptop business and ended up with a
+few significant resignations; but there
+was nothing Tung could do about the
+board’s decision of his own ousting.
+Thankfully, Tung’s renowned friend-
+ly, caring management-style influenced
+a handful of loyal, talented ASUS staff
+to move to Pegatron. With some of
+these people he formed PEGA Design,
+which will take in orders for design-
+ing laptops, desktops, modems etc. for
+any companies, starting in February.
+With enough orders, Tung could then
+let Pegatron do the manufacturing as
+well so that they are not working just
+for ASUS. After all, this was how ASUS
+started before they released laptops
+under their own brand (for instance,
+they still manufacture MacBooks as
+well as doing R&D for Apple).
+We look forward to the day when
+Tung establishes his own brand again
+and hopefully overtakes ASUS, just like
+Steve Jobs did with NeXT and Apple.
+ASUS co-founder Tung Tsu Hsien and ASUS chairman Jonney Shih
+Original image from Business Today
+Which netbook?
+Since the launch of the Eee PC, other
+companies quicky followed ASUS’
+trend and released their own netbooks.
+Whilst most share similar specifica-
+tions, there are a couple of things that
+you should watch out for:
+Seeing is believing: make sure
+1.
+you check out the real thing in
+person, paying special attention
+to the keyboard, touchpad, heat
+dissipation and LCD.
+Brand reputation: after-sale
+2.
+service can vary from one coun-
+try to another for any company,
+so use Google to check your
+destination’s feedback!
+Warranty: obviously, the longer
+3.
+Acer Aspire One A150 HP Mini-note 2133 Advent 4490 ASUS Eee PC 901 MSI Wind U100
+Intel Atom N270 1.6GHz VIA C7-M ULV - 1.2GHz Intel Atom N270 1.6GHz Intel Atom N270 1.6GHz Intel Atom N270 1.6GHz
+120GB HDD, 1GB RAM 120GB HDD, 1GB RAM 120GB HDD, 1GB RAM 20GB SSD, 1GB RAM 120GB HDD, 1GB RAM
+Linpus Linux SuSe Linux Windows XP Home Xandros Linux Windows XP Home
+802.11b/g 802.11b/g, Bluetooth 802.11b/g, Bluetooth 802.11b/g/n, Bluetooth 802.11b/g, Bluetooth
+8.9” LCD, 0.3MP webcam 8.9” LCD, 0.3MP webcam 8.9” LCD, 0.3MP webcam 8.9” LCD, 1.3MP webcam 10” LCD, 1.3MP webcam
+3x USB, 5-in-1 card reader 2x USB, SD card reader 3x USB, 4-in-1 card reader 3x USB, SD card reader 3x USB, 4-in-1 card reader
+3-hour battery, 1.26kg 2-hour battery, 1.2kg 2.5-hour battery, 1.12kg 6-hour battery, 1.1kg 2-hour battery, 1.0kg
+1-year UK-only warranty 1-year UK-only warranty 1-year UK-only warranty 2-year UK-only warranty 2-year UK-only warranty
+£189.00 (Amazon) £199.99 (Misco.co.uk) £229.99 (PC World) £261.74 (Amazon) £278.48 (Amazon)
+the better, but sometimes you’ll
+have to pay a bit more (like the
+ASUS and MSI).
+I consider the netbooks on the right
+to be the best value. I won’t bother rat-
+ing them, as there is little physical dif-
+ference between them apart from HP’s
+weaker CPU; it is really down to your
+budget and your ergonomic preferenc-
+es. Value-wise the Advent 4490 does
+seem to beat the rest of the group, but
+then again the brand is only so-so, so
+do double-check with online feedback.
+If you have recently purchased a net-
+book, reviews are always welcome!
+Online Game oftheWeek
+Dogfight 2 - The Great War
+http://is.gd/hyW8
+Addictive games are often simple,
+which is why Dogfight 2 has won
+my heart. Your plane can fire bullets
+and drop bombs with bonus points
+awarded for special manoeuvres.
+Go try this beautiful game over the
+weekend!
+food.felix@imperial.ac.uk
+Food
+Food Editors – Afonso Campos & Rosie Grayburn
+Afonso Campos
+Food Editor
+Weddings, banks
+and you’re a liar
+Sachs campus presentation “for
+the food” or the Boston Consulting
+Group skills session because you
+heard “there’s a shitload of awesome
+food there dude”. While at the
+presentation however, you forget you
+even mentioned food and scribble away
+any religious word the HR rep standing
+10 feet from you spews out.
+The blasphemous use of food
+as an excuse to do something is a
+cowardly act that innervates me quite
+severely. There is nothing wrong with
+wanting to go to a stupid cousin’s
+wedding, becoming a banker or going
+to that nerdy Sci-Fi Society meeting or
+that perhaps overly hacky ePortfolio
+review. The food at these events is
+more often than not, undeniably good
+and available in copious quantities.
+As a foodie, this is something that is
+nigh on impossible to pass on. There
+is also the mini-food conundrum.
+It’s like a burger, only smaller and as
+a result, irresistible. Or small cocktail
+sausages. Or even tiny little banoffee
+pies. For some unbeknownst reason
+or other to anyone, as human beings
+we are genetically predisposed to
+fall madly in love with miniatures
+of mundane things, and in the world
+of gastronomy this is not any different.
+Our insanity levels are driven through
+the roof at the thought of a salmon and
+cream cheese finger sandwich the size
+of your thumbnail. Our eye is locked
+upon these heaven-sent little bits
+of paradise and our mind wanders.
+Becauseofthepurityofspiritinwhich
+such delicacies must be consumed
+I consider it to be completely
+disrespectful when one pretends to
+hate the environment in which they
+are to be eaten, in a feeble attempt to
+attract respect. Grow some balls and
+learn to feel proud of the things that
+you do genuinely enjoy and care about.
+Like I was told at a 22.5 mile cycle last
+Saturday, harden the fuck up.
+Maladies are not Malaysian
+more fun locked in a bamboo cage
+playing Russian Roulette with Christo-
+pher Walken; and although I am sure
+that genuine, authentic Chinese food
+holds many delights, the luminous
+orange gloop, gristly nuggets of meat
+and stodgy batter synonomous with
+migraine-inducing, MSG laden take-
+aways are definitely not one of them.
+Prawn crackers are not bad mind you.
+Anyway, being the oriental infidel that I
+am, it was with some trepidation that I
+made my way down the stairs of Melur,
+a restaurant solely concerned with the
+definitely unfamiliar fair of Malaysia.
+Turns out I needn’t have worried.
+The food was delicious. The owner
+Sam, a wonderfully warm native
+of Kuala Lumpur, had immediately
+settled my nerves with her talk of
+staying true to that what she knows and
+loves, sourcing, wherever she could,
+authentic ingredients and resolutely
+steering clear of that all too familiar
+scourge of modern cuisine – “fusion”.
+Her commendable philosophy is
+reflected in a reassuringly concise and
+wallet friendly menu, the pick of the
+Melur HHHHK
+175A Edgware Road
+Eat-in or take-away
+020 7706 8083
+Best: The grilled spicy mackerel
+Worst: Chicken and prawn noo-
+dles (yet, not that bad)
+Price: Under £20 per head
+starters being the chicken Satay. A dish
+I have always viewed with suspicion,
+this was a million miles away from the
+depressing super market guff I have
+previously been subjected too, with
+juicy chunks of marinated chicken,
+char-grilled and served alongside a
+bowl of wonderfully unctuous, freshly-
+made peanut sauce with hints of
+lemongrass and chilli. The spring rolls
+weren’t bad either.
+With the mains ranging from an
+apparently just-a-bit-too authentic
+fish-head curry (not one order
+received to date) to the more familiar
+noodles and curries one might expect,
+there is something here to suit just
+about everyone. For the veggies,
+the aubergines cooked in Sambal, a
+traditional chili sauce, are definitely
+worth a crack whilst for those slightly
+redder in tooth and claw, an aromatic
+bowl of chicken curry would certainly
+satisfy. The grilled spicy mackerel
+was my particular highlight, with its
+wonderful smokey flavour countered
+beautifully by the fish’s oily character.
+Only the chicken and prawn noodles
+left me somewhat underwhelmed, but
+even this was far from bland.
+A starter followed by a main,
+together with a rice dish and the Roti
+Canai (traditionally made layered flat
+bread with a curry dip) would be more
+than enough to silence even the most
+tenacious of appetites and probably
+still see you get the best part of a fiver’s
+change back from a twenty. However, if
+you are one of those always with room
+for dessert, you could certainly do a
+lot worse than go for the somewhat
+unusual but warmly soothing option of
+sweet potato, yam and sago cooked in
+coconut sauce.
+Casually appointed and, with most of
+the other diner’s conversations audibly
+academic in nature, Melur is most
+definitely student friendly and, with
+a fully licensed bar and the chance to
+win free meals and musical tickets in
+February and March, it is certainly
+worth a visit.
+Apart from the odd slither of raw fish
+and a dash of wasabi, my culinary
+worldliness tends not to stretch much
+further east than the Bay of Bengal.
+Not that I haven’t dipped my toe, so to
+speak. I mean, I have even travelled as
+far as Hong Kong, but if I recall cor-
+rectly, my gastronomic development
+was at a somewhat nascent stage at the
+time and I pretty much lived off fried
+chicken and cheeseburgers (I know, I
+know). Yes, I’ve eaten Thai food with
+its red and green shades of blandness
+and, as for my experience with Viet-
+namese, frankly, I think I’d have had
+David Wallis teleports us across the world to Kuala Lumpur
+T
+his is what will happen; I
+will give you a scenario,
+and you will play along
+with it and take it in your
+stride to gracefully accept
+any assumptions I might make about
+you. More likely than not, they will
+be correct and I can imagine it will be
+hard to accept that someone you never
+met (me) knows so much about you,
+based on perhaps only one criterion.
+It’s freaky, it’s deranged and it’s a hell of
+a lot like astrology, palm reading, tarot
+or the crystal ball. One thing is certain
+though, you will cringe at the thought
+of the person you have become.
+You didn’t use to be a cynic before
+coming to Imperial, but the thought
+that someone with 4 or 5 As at A-Level
+has a different opinion to you is enough
+to make you reformulate your entire
+belief system.
+Imagine someone starts
+slagging off Investment Bankers,
+financial institutions or making
+mention of how these destabilised
+a previously perfectly sound
+economy. This little situation, I
+am almost positive, is something
+you have experienced, given that
+Imperial seems to be full of wannabe
+communists loitering around hallways
+and aimlessly wandering around the
+Sherfield Building, pretending to not
+be interested in sneaking into the
+careers office to seek assistance in
+finding a high flying job in a world they
+supposedlyandoutwardlyhate.Yousee
+this happening around you and start
+feeling despondent and dejected about
+having sent 14,000 investment bank
+graduate applications. You feel even
+worse when you somehow get suckered
+into pretending you hate the industry
+or how you only went to the interview
+“for the food”. You find yourself actively
+and loudly proclaiming your (fake)
+abhorrence for finance, but again you
+supposedly only went to the Goldman
+I, science
+OUT NOW!!
+Get your copy
+from the Library
+The view of the restaurant from the bar
+27
+Friday 30 January 2009 felix
+

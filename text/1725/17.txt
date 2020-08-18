@@ -1,0 +1,361 @@
+ISSUE 1725
+FELIX
+23
+PUZZLES fsudoku@imperial.ac.uk
+      
+
+ 
+    
+
+  
+ 
+ 
+FUCWIT
+1 Trollheim 238
+2 DQ 234
+3 Yeet Infection 230
+4 Maxiane 222
+5 O1G 204
+6 Wooloomooloo 148
+7 Big H’s Boys 126
+8 Computer Magic 117
+9 Rock, Flag & Eagle 108
+10 S. B. S. 95
+11 Quizlamic extremists 87
+12 Luncheon Pals 85
+26 Katienoch 16
+Send your solutions to fsudoku@imperial.
+ac.uk before Wednesday midday to take
+part in the leaderboard!
+Points available
+Crossword			 6
+Minesweeper 4
+Sudoku 3
+Shikaku 2
+Nonogram 3
+Total 18
+Last week’s solutions
+ 
+       
+  
+   
+   
+   
+ 
+   
+ 
+    
+    
+  
+  
+ 
+  
+   
+  
+ 
+  
+  
+SUDOKU
+Fill all the boxes with a number between 1
+and 9. A number can only appear once in a
+row/colum, and only once in each sub-box.
+Across
+1. The windy city (7)
+5. Do this when house plants get too big (5)
+8. White beard on fruit and veg (5)
+9. Ceremonial tune (7)
+10. Belongs in museums (3)
+11. Thursday Instagram activity (9)
+12. 3D circle (6)
+14. Reason for an inhalator (6)
+18. So-called universal language (9)
+20. Cry loudly (3)
+21. Folded paper (7)
+22. Turns white light into rainbows (5)
+23. Turn into law (5)
+24. Firearm for ensuring hesitant weddings (7)
+Down
+1. Always points North (7)
+2. Inhabitants of the American Arctic (5)
+3. Checks business accounts (7)
+4. Home of a famous comma (6)
+5. Continue a contract (5)
+6. Top of the first ever pyramid scheme (7)
+7. Make small adjustments (5)
+13. Yummy orange spice (7)
+15. Born in October or November (7)
+16. Egg white (7)
+17. Slimy French delicacy (6)
+18. Chip away (5)
+19. Obey Newton’s third law (5)
+20. Child pendulum (5)
+MINESWEEPER
+The number in a cell represents the number of mines
+adjacent to that square (up/down, left/right, diagonal).
+Find and mark all of the mines to clear the board.
+  
+
+
+  
+ 
+ 
+ 
+ 
+
+  
+SHIKAKU
+Divide the square into rectangles, such that each rec-
+tangle contains exactly one number. The numbers
+given represent the area of the containing rectangle.
+       
+       
+       
+       
+       
+       
+       
+       
+       
+   
+  
+
+ 
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+ 
+    
+    
+

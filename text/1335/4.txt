@@ -1,0 +1,266 @@
+Joseph Weber, at the University of
+Maryland. He developed a detector
+essentially consisting of a large alu-
+minium bar suspended in a vacuum,
+which a gravitational wave would
+cause to oscillate almost impercep-
+tibly. The method was crude, and the
+sensitivity was a few notches below
+the target. Although Weber did pub-
+lish results claiming detections,
+they were never confirmed later
+on by more sensitive instruments.
+Nevertheless, his work opened up
+the whole new possibility of listening
+to the sky. “The analogy works rath-
+er well. Our ears are able to capture
+sounds coming from all directions
+without having to turn our heads,
+and so does a gravitational wave
+detector”, says Danzmann.
+Today, state-of-the-art detectors
+use high precision lasers to moni-
+tor minute shifts in the distance
+between two weights located per-
+pendicular to each other and free
+to move horizontally. An incoming
+gravitational wave will cause them
+to move a subatomic distance with
+respect to one another. They are
+kept in rooms whose atmosphere is
+cleaner than in hospital surgeries
+and inside the world’s largest vac-
+uum systems to ensure that stray
+gas molecules will not affect the
+measurements.
+The USA spent $365m over the
+last six years building two kilome-
+tre-sized detectors in Louisiana and
+Washington called LIGO (Laser
+Interferometery Gravitational Wave
+Observatory). They have been look-
+ing for gravitational waves since
+1999 and will soon be joined by two
+other detectors in Europe: GEO600
+(Germany) and VIRGO (Italy).
+Recently, a flurry of activity was
+reported in the Louisiana LIGO
+detector, but the hurricane Katrina
+is not exactly a gravitational wave.
+Two events within a short period of
+time on different facilities either in
+the USA or Europe will be required
+to confirm a clear detection because
+of spurious local effects that can
+affect the detectors such as torna-
+does or earthquakes.
+Once these waves are detected
+astronomers hope to be listening
+to a part of the universe they know
+very little about. “The part of the
+universe that is radiating gravita-
+tional waves is complementary to
+the one that is emitting light. All we
+know about the universe we know
+from light, electromagnetic waves,
+where matter is diluted and mov-
+ing slowly. Gravitational waves are
+emitted in regions where matter
+is extremely dense and moving at
+near-light speeds, and that’s a part
+of the universe that is not emitting
+light,” says Danzmann.
+The confirmation of one of
+Einstein’s predictions may well lead
+to the discovery of another. Black
+holes haven’t been detected yet
+because they emit no light; how-
+ever, they can be rather boister-
+ous emitters of gravitational waves.
+Also, gravitational waves have the
+advantage of not being absorbed like
+electromagnetic radiation. That will
+allow astronomers to look further
+into the past, beyond an era when
+the universe was so dense that no
+light from back then ever reached
+us. “With gravitational waves the
+universe is completely transparent,
+so in principle we will be able to look
+straight into the Big Bang”, says
+Danzmann.
+And of course, there’s the stuff
+we don’t know about. “We will really
+only know about sources of gravi-
+tational waves from gravitational
+waves, so who knows?”
+The optimism is such that scien-
+tists have already set their eyes, or
+better ears, on the future. The US
+Presidential budget to congress for
+2008 has already commissioned an
+update of the LIGO facilities for 15
+times more sensitivity – a fit that not
+even the Hubble telescope achieved
+– in a project called Advanced LIGO.
+And then in 2013 the gravitational
+wave detectors will be taken off to
+space on a mission called LISA.
+LISA’s sensitivity will be so large
+that the problem then will be dis-
+cerning gravitational wave sources
+from each other.
+By then, no matter what the out-
+come, there will be a detection. “By
+the time we reach Advanced LIGO, if
+we don’t detect anything, then we’ll
+start wondering whether there’s
+something wrong with our ideas.
+And if LISA doesn’t detect gravita-
+tional waves, that’s a detection in
+itself. It will clearly mean there’s
+something wrong with our models of
+the universe,” says Danzmann.
+science.felix@imperial.ac.uk
+Astronomers to start
+listening to the universe
+João Medeiros reports on advances in the quest for gravitational waves.
+science
+4
+felix
+www.felixonline.co.uk Thursday 17 October 2005
+A
+lthough they work in the
+night hours, astrono-
+mers crave for a little
+light from distant stars
+to learn about the uni-
+verse. That dependency is coming
+to an end. “For centuries we have
+been building better telescopes to
+look at the sky, but it’s time we
+listen to it as well,” says Karsten
+Danzmann, director of the Max
+Planck Institute for Gravitational
+Physics in Hannover. He believes
+the discovery of a new form of radia-
+tion – gravitational waves – is immi-
+nent.
+Gravitational waves are a predic-
+tion of Einstein’s 90-year-old theory
+of gravity. Unlike electromagnetic
+waves, which travel through the
+medium of space-time, gravitational
+waves are a distortion of space-
+time itself, a possibility that even
+Einstein didn’t believe.
+Astronomers are more trustful
+of Einstein’s equations these days.
+“Although there is still no direct
+evidence, no one really doubts that
+gravitational waves exist,” says
+Danzmann. The first indirect evi-
+dence for gravitational waves came
+in 1973 from two astronomers in
+Princeton, Russell Hulse and
+Joseph Taylor. They made obser-
+vations of a pair of neutron stars
+revolving around each other in
+short and fast orbits and were able
+to confirm that they were losing
+energy at exactly the same rate as
+predicted from gravitational waves.
+The significance of their discovery
+was awarded with a Nobel prize 20
+years later.
+However, direct evidence will
+require more than just telescopes.
+“If you look at a massive star explod-
+ing somewhere in our vicinity, not
+too far away but also not too close,
+the resulting gravitational waves
+will squeeze space by one part in
+1,000,000,000,000,000,000,000. This
+means that our detector of 1 km
+would be squeezed by 1/1000 of the
+proton diameter. And that unfortu-
+nately only takes a few milliseconds.
+So you really have to listen rather
+closely,” says Danzmann.
+The stringent requirement for
+sensitivity explains why scientists
+are only just now getting optimistic
+about the possibility of detecting
+this novel type of radiation. The
+enterprise started in the sixties with
+“‘For centuries we have
+been building better
+telescopes to look at
+the sky, but it’s time we
+listen to it as well,’ says
+Karsten Danzmann.”
+“Recently, a flurry of
+activity was reported in
+the Louisiana detector,
+but the hurricane
+Katrina is not exactly a
+gravitational wave.”
+Imperial
+News
+New TB test scoops top
+prize at Medical Futures
+competition
+The launch of the European
+An inexpensive and rapid test
+for tuberculosis (TB) which
+could be used in developing
+countries has won first place in
+the Best Innovation to Improve
+Global Healthcare category of
+the Medical Futures Innovation
+Awards. It also scooped the
+overall prize at the awards
+ceremony held last week in
+London.
+Dr David Moore, from
+Imperial College London, and
+the winner of the Award said:
+“This test can be carried out
+using cheap and readily availa-
+ble tools and requires relatively
+little training or expertise.
+This is particularly important
+in developing countries which
+may not have the infrastruc-
+ture we take for granted in the
+developed world.”
+Imperial academics win
+Leverhulme prizes
+Dr Molly Stevens, a Reader in
+the Department of Materials,
+and Dr Sebastian Uchitel, a
+Lecturer in the Department
+of Computing, have each been
+awarded Philip Leverhulme
+prizes worth £50,000.
+Dr Stevens’s team has been
+able to engineer large quanti-
+ties of bone, using a novel
+approach which uses the
+body as a “bioreactor”. The
+researchers hope this method
+could be used to generate new
+bone for transplantation into
+patients.
+Dr Uchitel’s work addresses
+the problems associated with
+designing large-scale com-
+plex software systems. His
+approach to the problem uses
+automated techniques for both
+building and analysing models
+in an incremental manner, to
+provide a powerful design tool.
+Gravitational waves are distortions of the fabric of space-time that will allow astronomers to study a
+previously unexplored part of the universe. Image credit: K Thorne (Caltech , T Carnahan (NASA GSFC)
+

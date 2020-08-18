@@ -1,0 +1,167 @@
+THE STUDENT PAPER OF IMPERIAL COLLEGE LONDON 11
+17.10.2014
+FELIX
+Science Editors James Bezer & Lauren Ratcliffe
+Science
+science.felix@imperial.ac.uk
+Imagine a condition that affects
+18 million people world-wide.
+Imagine a condition with a
+fatality rate of up to 60%. Imagine
+that 37,000 people a year die in this
+country because of it. There is no
+specific cure. What treatment there
+is can take weeks to come into effect
+and can often cause problems of its
+own. Every year, 100,000 people in
+the UK (and their families) don’t have
+to imagine this terrible scenario. The
+condition, sepsis, is very real and very
+deadly.
+Sometimes referred to as
+septicaemia, sepsis is a severe
+condition that results in more than
+100,000 people in the UK being
+hospitalised annually. Commonly
+known as blood poisoning, it occurs
+when microbes (usually bacteria)
+invade the bloodstream, causing
+inflammation and organ damage.
+It can quickly develop into septic
+shock, in which blood pressure drops
+to a dangerously low level. 60% of
+patients are likely to die.
+The most effective way to treat
+severe sepsis is using antibiotics
+specifically targeted against the
+bacteria in the blood. Unfortunately,
+it can take several days to determine
+the best drugs to use, and, with the
+patient’s condition deteriorating
+rapidly, treatment must begin
+immediately with less effective
+broad-spectrum antibiotics.
+Now imagine that sepsis had a
+seemingly miraculous cure. This too,
+is now becoming reality. This year,
+scientists from Wyss Institute for
+Biologically Inspired Engineering,
+Boston and Harvard Medical School
+have collaborated to produce ‘the
+bio-spleen’. Their design is simple; to
+employ magnets to remove the sepsis
+causing bacteria from the blood in
+just a few hours.
+Their inspiration came from
+within the body itself. The device
+acts as an artificial spleen, which can
+automatically remove toxins and
+pathogens from the blood without
+identifying the infection first.
+The artificial spleen’s design is as
+elegant as its concept. It works by
+attaching the device to the veins of
+the infected individual and taking
+the blood out of the body, much
+like a dialysis machine, then extra-
+corporeally mixing the blood of the
+infected individual with magnetic
+nanobeads coated with an engineered
+human opsonin-mannose-binding
+lectin (MBL).
+MBL recognizes carbohydrate
+patterns found on the surface of a
+large number of pathogenic micro-
+organisms, including bacteria,
+viruses, protozoa and fungi. When
+the offending toxins and pathogens
+have been captured they are removed
+from the blood by magnets, the
+‘clean’ blood is then returned to the
+patient’s body.
+In the group’s experiments,
+rats were infected with E.coli and
+Staphylococcus aureus. After the
+blood cleansing treatment, more
+than 90% of the bacteria had been
+removed. Furthermore, bacterial
+infiltration to the organs was also
+significantly reduced. The team has
+postulated that patient survival rates
+may improve in the event of a septic
+shock after a treatment of only 5
+hours.
+So far the biospleen has only been
+tested in animal models and in vitro
+samples of human blood. So what can
+we expect from the device in a clinical
+scenario?
+The scientists are clearly optimistic.
+In human blood models, the team
+controlled for various factors such
+The artificial 'biospleen' is designed to treat sepsis by filtering out pathogens using magnets. Photo: Wyss Institute
+Artificial spleen could treat blood poisoning
+Indira Mallik on how to clean blood using magnets
+as multiple infections, and found
+the removal rates were consistently
+above 90% after a single pass through
+the device. Sepsis develops so rapidly
+and is so devastating because of the
+huge pathogen loads involved. The
+biospleen acts to reduce that.
+Some patients may balk at the idea
+of being hooked up to a machine
+for 5 hours but currently there is no
+specific drug treatment since Xigris,
+the only targeted drug developed for
+sepsis, was taken off the market in
+2011.
+With further development, the
+biospleen could well provide a more
+effective treatment in the future.
+We are entering an era in medical
+science where antibiotic use,
+especially that of broad spectrum
+antibiotics is to be cautioned against
+because of a rise in antibiotic
+resistance. Broad spectrum
+antibiotics also have the nasty habit
+of producing severe side effects in
+already very unwell individuals.
+Many sepsis patients could
+benefit from such a device but it
+could prove life saving for those
+especially at risk those suffering
+from antibiotic-resistant infection,
+the immunosuppressed such as
+transplant patients, and babies
+suffering from fungal infections.
+Most importantly, from the patient’s
+perspective, the treatment is quick
+and relieves the patient from staying
+in intensive care units for days and
+suffering long term organ damage
+that may lead to dependence on
+dialysis machines.
+The biospleen may take some time
+to become available to the general
+public as in vivo trials still need to
+carried out. But one thing is certain:
+the chance of treatment won’t be
+a day too soon for the millions of
+patients that contract sepsis each
+year.
+DOI 10.1038/nm.3640
+Sepsis kills
+37,000
+people each
+year in the
+UK alone
+After the
+treatment,
+more than
+90% of the
+bacteria
+had been
+removed
+

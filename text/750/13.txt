@@ -1,0 +1,217 @@
+z
+elix FELIX, Friday October 17th 1986 13
+No More Bets Please
+Blackjack is THE -GAME for
+students of science and technology.
+It combines the subjects ofstatistics,
+computing, extra-sensory
+perception and personal
+psychology. No matter how many
+computers you've got attached to
+your left ankle. No matter how
+many yards of computer printout
+you've read from your personal
+Cray 1
+1 (which is constantly
+analysing Blackjack hands in your
+study bedroom) there is one
+powerful tip that I can give to all
+punters: if youfindyourselfhitting a
+bad losing streak - never chase your
+loss. Tomorrow is always another
+day. In the long term if you play
+Blackjack with the percentage in
+your favour - you must come out on
+top. The aim is to bet high when the
+percentage is in your favour and low
+(or not at all) when the percentage is
+against you. To be able to judge
+when the odds are in your favour it
+is essential to fully master the rules
+of the game.
+Four packs of cards are used and
+these are dealt from a shoe (a box
+that reduces the possibility of a
+'crooked' dealer manipulating the
+deck). Each player bets before
+seeing his two cards dealt face up by
+the dealer. The dealer also deals one
+card face up to herself.
+As in Pontoon, the object of the
+game is to get a total as near to 21 as
+possible without busting (getting a
+total of greater than 21). While a
+player's total is under 21, he may
+stand or draw a card. Players can
+split pairs, i.e. if the first two cards
+dealt to the player are the same then
+the player can can put in a bet equal
+to his initial stake and play two split
+hands. The only restrictions are that
+a player cannot split pairs of fours,
+fives and tens. If a player splits aces
+then only one more card is dealt to
+each ace.
+The other option is that a player
+may double his stake if on the initial
+two cards he is dealt a 'hard' 9,10,11
+i.e. say a hard eleven made up oi a
+six and five. If a player opts to
+double then he is only dealt one
+more card.
+A Blackjack is when the player or
+dealer gets a two card 21 made up of
+a ten and an ace. (A ten can be a
+Jack, Queen or King). If the player
+is dealt a Blackjack, he receives a
+bonus of half his stake i.e. if he bet
+£10, he gets £15 plus his £10 making
+£25. A player can ask for
+'insurance', if he holds a Blackjack
+and the dealer shows an ace. If a
+player takes insurance he loses his
+bonus and gets paid even money.
+At the end of each round, the
+players who have not bust compare
+their individual totals with that of
+the dealer. If their total is greater
+than the dealer's then they are paid
+even money. If their total equals the
+dealer's, it is a 'standoff and no
+money is lost or won on that-hand. If
+one's total is less than the dealer's
+then one has lost. If the dealer busts
+then all players who have not busted
+win!
+For readers who intend to write
+computer Blackjack simulation
+programs there are a couple of
+obscure details that will complete
+the picture.
+If a player splits a pair of aces and
+is dealt a ten to one or both aces -
+this is not classed as Blackjack but is
+a normal 21. If the dealer gets a
+Blackjack then the split bet is lost.
+A player can double on a hard
+two card 9,10 or 11 even after a split
+i.e. if a player splits a pair of eights
+and is dealt a three to thefirstand a
+two to the second 8, he can double
+on both hands (an outlay of four
+times his initial stake). If he splits
+eights and is dealt a 10 to thefirst8
+and a 3 to the second eight, he can
+still double his stake on the hand
+which is hard eleven.
+A Blackjack table is usually made
+up of seven boxes i.e. up to seven
+players can have individual hands (it
+is possible for players to share
+boxes). There is a rule that at least
+two boxes must be active - so if you
+are on your own at a Blackjack table
+you will have to play two hands.
+The minimum stake at Blackjack
+is normally £5 but there are tables
+which offer £1 or £3 minimum
+during the early evening (Casinos
+open from 2 pm to 4 am every day
+except Saturday night when they
+close at 2 am - an old tradition to
+allow punters to have time to get
+some sleep ready to go to church on
+Sunday).
+The final and perhaps most
+important point of all is that
+although four decks of cards are
+available - the last 30 cards in every
+shoe are "dead". A plastic marker is
+inserted at that point by the dealer.
+Once the marker has been reached,
+the final cards to complete the
+round are dealt and then all four
+decks are shuffled and a player is
+offered the chance to cut the decks
+with another plastic marker.
+Straight after the cut the cards are
+placed in the shoe ready for a new
+series of games.
+If you've read this far, you know
+how to play Blackjack. Now you
+need to know how to win. The path
+to fortune lies in knowing when the
+odds are in your favour, and also
+making the right decsions on
+whether to stand or draw,
+depending on the state of the decks.
+The number of high and low
+cards that are left to be dealt is the
+key to estimating whether the odds
+are in your favour or the dealer's. If
+there is a bias towards more high
+cards left then the dealer will bust
+more often - and the odds are with
+the player.
+If there is a bias towards more
+small cards left then the odds are
+with the dealer.
+A simple method of card
+counting is to start your count from
+zero at a new shoe and add 1 every
+time a 2, 3, 4, or 5 is dealt and
+subtract 1 every time a ten, Jack,
+Queen or King appears. Divide the
+current total by the approximate
+number of decks left in the shoe, i.e.
+say there have been 104 cards dealt
+(2 decks) and you have a current
+count of plus eight, the ratio is 8
+divided by 2, 4. Suprisingly even a
+small positive ratio can swing the
+odds dramatically in the player's
+favour.
+More sophisticated card counting
+can be employed but I have found,
+after several years of playing
+Blackjack, it is not important that
+one has an accurate card count-
+more a general feel of how the shoe
+is progressing (this saves a lot of
+work and improves one's enjoyment
+of the game). Also, hunches play an
+important part. If one is in tune with
+the cards then profits come quickly,
+if one is tired or distracted then
+profit can be difficult to obtain.
+A little bit of ESP and a lot of
+personal psychology is a bonus, for
+the player must recognise when he's
+tired or losing his sharpness.
+It's not too difficult to become a
+member of a London casino. Simply
+visit the casino of your choice (dress
+reasonably smart) and give the
+receptionist your particulars.
+Casinos aim to "elect ladies and
+gentlemen of good standing in
+society". The consider students as
+potential big money earners and
+seem to ignore the fact that the
+majority are carefully making their
+grant last the term. Why not form a
+syndicate-even if you don't gamble,
+the restaurants are very good and
+the atmosphere is worth
+experiencing. Membership is
+usually free. If elected to- the
+Sporting Club you will be able to
+gamble 48 hours after registration.
+Never risk more than you can
+afford-and if you do make a profit
+treat yourself to something
+special.
+by Colin Palmer
+(FELIX Editor 1979/80)
+A
+

@@ -1,0 +1,288 @@
+sudoku.felix@imperial.ac.uk Fun & Games
+The winner of Slitherlink 1,403 was
+Hringur Gretarsson yet again! Awe-
+some cheesecake with strawberry
+puree and a cinnamon biscuit base.
+We’ll give a prize out in the summer.
+The more entries, the better your
+chances.
+How to play:
+Crudely speaking, Slitherlink is simi-
+lar to Minesweeper mixed with a
+dash of Sudoku.
+The object of the game is to draw
+lines between the dots to create one
+long, and most importantly, looping
+line. It should have no start or finish;
+just like an elastic band.
+Each number indicates how many
+lines should be drawn around it, for
+example:
+Cells which don’t contain a number
+can be surrounded by any number of
+lines.
+Remember, the line must form a
+loop, so the line cannot branch. The
+following situations are not allowed:
+Squares are not allowed either. There
+are never cells containing the number
+4 in Slitherlink.
+So, where do you start? The most
+common place to start on a Slith-
+erlink grid is by drawing crosses
+around any zeros. Drawing crosses
+is purely done to so that you know
+where there can’t possibly be a line.
+So, take the pattern below as an ex-
+ample. Begin by drawing crosses,
+then by filling in some lines:
+Now the lines can only continue in
+the following directions:
+Slitherlink 1,404
+3
+2 2
+3
+0
+x
+x
+x
+x
+1,403 solution
+3
+0
+x
+x
+x
+x
+3
+3
+TEXT US! OR
+WE WON’T
+FEED THE CAT!
+07980 148 785
+This week’s texts:
+“ACP: Advanced Crap Physics,
+thats straight visualizable mechan-
+ics... My kind of thing - piece of
+piss, Get that 2:2, i can smack
+this bitch... Sit down, paper open,
+staring back, 3 jokes problem sheet
+questions... 3 jokes problem sheet
+questions, I caned out last night... 3
+jokes problem sheet questions, I did
+again this morning tight... Ive seen
+this shit too many times, Thought
+to myself 90%, thas right... Started
+banging out the shit, Line by line
+im actually raping it... 15min
+though, got that feeling, Why cant
+i remember from the morning...
+With the panic, ensuing, vicious
+circle i’m feeling... I’m chokin’ on
+one, I’m choking on two... Chokin’
+for 90minutes, I choked the whole
+lot...
+” [Read the rest next week!]
+Wordoku 1,404
+A
+Z
+Y
+M
+G
+O
+C
+T
+I
+C
+M
+T
+I
+Y
+Z
+A
+O
+G
+I
+G
+O
+T
+A
+C
+Z
+Y
+M
+Z
+Y
+G
+O
+M
+A
+T
+I
+C
+T
+C
+M
+G
+Z
+I
+Y
+A
+O
+O
+I
+A
+Y
+C
+T
+G
+M
+Z
+G
+O
+Z
+A
+T
+M
+I
+C
+Y
+M
+T
+C
+Z
+I
+Y
+O
+G
+A
+Y
+A
+I
+C
+O
+G
+M
+Z
+T
+1,403 Solution
+F
+M
+I
+A
+M
+T
+I
+E
+K
+S
+M
+K
+E
+H
+M
+T
+S
+E
+F
+A
+K
+S
+K
+E
+M
+F
+K
+K
+H
+E
+I
+Wordoku is identical to Sudoku;
+we’ve just replaced numbers with
+letters. Once you’ve completed
+the puzzle, there is a hidden word
+to find. Email answers to sudoku.
+felix@imperial.ac.uk.
+The winner of Wordoku 1,403
+was Sofia Vatti. Congratulations!
+The hidden word was:
+ZYGOMATIC. Keep those
+entries coming in.
+3
+3
+1
+2
+2
+2
+2
+2
+3 2
+2
+3
+2
+2
+3
+2
+3
+2
+0
+2
+2
+2
+2
+1
+1 2
+2
+2
+2
+2
+2
+3 3
+2
+29
+Friday 23 May 2008 felix
+www.tevong.co.uk
+Adlib by Tevong You
+2
+2
+2
+3
+2
+1
+3 2 3
+2
+2
+1 3
+1
+1
+1
+2
+2
+3
+2
+3
+2
+3
+3
+3
+0
+2
+1
+1
+3
+2 2
+2
+3
+1
+2
+3 3 3
+2
+1
+2
+3
+3
+3
+1
+2 1 3
+3 2
+

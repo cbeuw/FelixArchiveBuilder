@@ -1,0 +1,288 @@
+PAGE 12 PAGE 13
+felixonline.co.uk felixonline.co.uk
+THE STUDENT NEWSPAPER OF IMPERIAL COLLEGE LONDON FRIDAY 3rd
+JUNE 2016 FRIDAY 3rd
+JUNE 2016
+science.felix@imperial.ac.uk
+SCIENCE
+SCIENCE science.felix@imperial.ac.uk
+This week’s science picture
+Natasha Khaleeq
+Writer
+The Environmental Sample Processor being deployed in open water. Photo Credit: NOAA National Ocean service
+O
+ceanic toxin levels have
+increased due to harmful
+algal blooms (HABs)
+which plague shellfish
+and in turn affect the humans
+that consume them. Recently
+NOAA and partners deployed an
+underwater robot that measures
+toxicity. The robot, known as the
+Environmental Sample Processor
+(ESP), was made at the University
+of Washington, and will monitor
+cell and toxin concentrations of the
+HABs caused by Pseudo-nitzschia
+on the north-west coast. ESP can
+detect the toxin domoic acid which
+gives scientists a better assessment
+of the HABs’ toxicity levels. The
+data collected by the ESP will be
+sent to scientists, coastal managers
+and public health officials in near-
+real time so they can support
+decisions related to potential
+shellfish harvesting closures. This
+decision-making is critical for
+the coastal communities that will
+experience financial hardships due
+to the closure.
+A
+t Sh!t Sc!ence, we like to
+show how all science is
+special, a little bouncing
+1-UP that your character
+runs towards to let it continue
+through the game. This version
+of Sh!t Sc!ence is a little different.
+Because this week, I’m not going
+to be talking about research that
+sounds silly, or useless. This week,
+I’m talking about research that, to
+me, sounds so cool it makes my eyes
+water a little bit.
+To 30-year-old me, the game
+Super Mario Bros was the source
+of the happiest and saddest times a
+ten-year-old could ever experience.
+Two dimensions, 8-bit music, and a
+moustachioed plumber who could
+only do one thing: hop, meant
+hours and hours of game play fun.
+But game play in those days was
+hardcore. You got a set number of
+lives, and when you lost them, you
+were out. End of game. Mental
+Breakdown. You would always hear
+about that kid, the friend of a friend
+Itsame! Mario! Photo Credit: Sergey Galyonkin
+MARIANNE GUENOT
+Sh!t Sc!ence
+Reminiscent geeks confirm: Super Mario Bros is hard
+of a friend, who actually finished
+the game. The story of the kid who
+defeated Bowser would spread like
+an urban legend. But for you, it was:
+start all over again and die at the
+exact same place. Again.
+That unassailable sense of defeat
+has haunted me throughout the
+rest of my life, a tiny niggling
+reminder that no matter how hard
+I tried at that game, I always failed.
+But now the children of the 80s
+have grown up and are using
+mathematical proof to show
+that we weren’t all that stupid.
+In a paper that will be presented
+at the FUN16 conference, the
+8th
+International Conference
+on Fun with Algorithms,
+a group of mathematicians
+from MIT, the University of
+Ottawa, and Bard College at
+Simon’s Rock, will present their
+latest mathematical analysis
+breakthrough which proves,
+once and for all, that Super
+Mario Bros. is super super hard.
+They show that the problem
+of solving a level in Super
+Mario Brothers is as hard as
+the hardest problems in the
+“complexity class”,meaning that
+it’s even more complex than the
+travelling-salesman problem, or
+the problem of factoring large
+numbers, or any of the other
+hard problems belonging to the
+better-known complexity class:
+NP.
+That
+sense of
+defeat has
+haunted
+me
+Sophie Walsh
+Writer
+Mars under the magnifying glass Science
+& the City
+V
+ery few of us are here at
+Imperial because we’re
+interested in the inner
+machinations of the
+political beast. But as argued lately
+in FELIX, science and scientists
+need to wake up and start caring
+about science and policy. Besides
+being a way to sell ourselves better
+and increase funding from one of
+our largest donors (the government),
+gathering technical knowledge and
+transforming it into human wisdom
+requires prescience about how it will
+affect society. And one of the most
+powerful, overarching frameworks
+for societal influence is politics.
+In some fields, like theoretical
+mathematics, the link between
+science and policy is difficult to tease
+apart, but in others, such as climate
+studies, it’s quite obvious. Well
+known governments desperately
+need to start implementing policies
+to establish a future that’s adaptable
+to rapidly changing climate
+conditions. Science is one of the
+only tools through which we can
+predict what that future may look
+like. However, policy-makers in
+the UK and many other western
+countries are largely not trained in
+science,its technical language,or the
+implications of it.As a result,despite
+the existence of in-house policy
+translators, scientists themselves
+need to be already tweaking their
+messages for policy-makers.
+Professor Martin Siegert of
+Imperial recently co-authored a
+paper on the Totten Glacier of
+Antarctica, potentially predicting
+an additional three metres to on-
+going sea level rise. These types of
+stark scientific numbers can serve as
+powerful political forces, but need
+to be framed the right way to get
+the message across.
+Siegert argues that it’s important
+for the scientific community to
+“translate scientific research to
+decision-makers, wherever they are,
+as we have a loss of knowledge and
+expertise as we move from science
+to decisions”.
+While not all of us will be studying
+political sciences, we should always
+think just how our research can have
+policy impacts to benefit society,
+and be able to frame it accordingly.
+Ultimately, this may be some of the
+greatest meaning our work has.
+NAOMI STEWART
+UCL students love their geographic information systems so much, they have mapping parties. Photo Credit: Harry Wood
+Super resolution imaging technology gives us views of Mars that may not be
+breathtaking, but are most certainly very detailed. Photo Credit: Yu Tao and Jan-
+Peter Muller, UCL
+I
+get angry waiting for Google
+Maps to load on my iPhone
+and I tell this to Jan-Peter
+Muller, Professor of Image
+Understanding and Remote Sensing
+at the Department of Space and
+Climate Physics at UCL. He looks
+as if he’s experienced a similar thing.
+“If you think 3G or GPRS is bad,
+try processing an image of Mars”.
+It takes a 24 core, 96 GB ram
+machine three whole days to process
+a single image of Mars taken on
+a HiRISE camera, a camera so
+powerful it had to be downgraded
+by the US Military before being
+donated to science. Muller asserts
+that these are the highest resolution
+images ever seen by civilians from
+space. Using The Martian to invoke
+discussion on Mars is becoming
+rather clichéd a year on from its
+cinema release, however, if ever we
+had a chance to see Mark Watney
+waving to us from his hydroponic
+Martian garden, this would be it.
+The revolutionary new technique
+published in Planetary Space Science
+by Muller and his co-author Yu Tao
+in April is called super-resolution
+restoration (SRR). By stacking and
+matching up to eight telescopic
+images of the same area taken from
+different angles, resolution can be
+increased five times. So now each
+pixel represents 5cm compared to
+25cm,meaningthatinthisparticular
+case, we can tell why Beagle-2 failed
+from an orbit of 300km.
+There is no doubt that being able
+to image in this way will aid our
+understanding and planning in
+space exploration. Muller himself is
+in favour of human exploration and
+colonisation of other planets.
+“I am of the belief”, Muller says,
+“that if we don’t hurry up, then an
+asteroid will take us out and no one
+will ever know we existed”.
+So far, so Armageddon. But
+despite its “enormous implications”
+for solar system exploration, it is
+actually the implications for our
+own planet that excite Muller. High
+resolution imaging could herald
+developments in precision farming,
+urban planning, traffic control,
+virtual reality technology, citizen
+science and most pressingly,accurate
+assessment of environmental
+change.
+It takes a
+24 core,
+96 GB ram
+machine
+three whole
+days to
+process
+a single
+image of
+Mars
+How new super resolution imaging technology can help mankind
+reach for the stars
+“At this point, it’s a technology
+demonstration,” says Muller, “but
+the computing power is likely to get
+much better”.
+That does not mean he has eased
+off developments in space.
+“Next is the moon!” he says, to
+alleviate the concerns of the “flat
+earth people out there who still
+think we never went (there)! And
+we need to find Philae!”
+Maybe he can do that whilst he’s
+waiting for those images of Mars to
+process.
+If we don’t
+hurry up,
+then an
+asteroid will
+take us out
+and no one
+will ever
+know we
+existed
+

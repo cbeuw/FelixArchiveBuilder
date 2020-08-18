@@ -1,0 +1,446 @@
+ISSUE 1673
+FELIX
+TECH
+FRIDAY, 27TH
+OCTOBER, 2017 FELIX
+14 15
+tecfelix@imperial.ac.uk TECH tecfelix@imperial.ac.uk
+14
+Gene Drives –Atechnology capable of changing entire
+species
+An emerging technology may allow us to play God, but should we take the risk? More importantly, can we afford
+not to?
+TECH
+Xiuchen Xu
+Tech Writer
+G
+ene drive tech-
+nology allows
+humans to intro-
+duce genetical
+modifications to species
+that are always passed on
+to the next generation,
+which allows a character-
+istic to become prevalent
+in a species over very few
+generations. The technolo-
+gy is powerful enough to
+wipe out whole species,
+and has applications in
+eliminating invasive
+species, and controlling
+vector-borne diseases. The
+technology is showing
+promise, and it has at-
+tracted huge investments.
+Bill Gates, for example,
+has invested a total of $75
+million in Target Malaria,
+a consortium led by
+Imperial College aiming
+to control the spread of
+malaria. Gene drives are
+to be used for this purpose,
+specifically one to make
+female mosquitoes sterile
+to eliminate the mosquito
+population.
+Gene drives have been
+made possible by the
+development of CRISPR/
+Cas9, a powerful and
+precise genetic engineer-
+ing tool. So how does a
+gene drive work? A gene
+drive contains a guide
+RNA which directs it to
+the right place along the
+chromosome, then Cas9
+cuts the gene and the cell
+repairs the damage by
+copying the gene drive
+into the cut site. This
+means the gene drive is
+present in both copies of
+a gene (both will have
+the gene drive allele).
+with the gene drive in
+both copies of the gene.
+A desired characteristic
+can be encoded within the
+gene drive to be passed on.
+Gene drives can help
+solve a range of problems.
+As discussed earlier, they
+could stop a range of
+diseases such as malaria,
+dengue, and Lyme by
+altering insects. In the case
+of mosquitoes, the possible
+alterations include making
+mosquitoes resistant to the
+malaria parasite, making
+mosquitoes sterile, and
+making them less inter-
+ested in humans as prey.
+Gene drives could also
+help eliminate invasive
+species (such as carps,
+whose adaptability allows
+them to wreak havoc in
+ecosystems all around
+the world). Whole popu-
+lations can be eliminated
+if the gene drive encodes
+for gender (for example
+making all offspring
+male). Gene drives could
+also be used in weeds
+to reverse resistance to
+pesticides, which can help
+increase crop yields.
+Indeed, gene drives
+could save lives and
+improve ecosystems, but
+should this powerful piece
+of technology really be
+deployed? Gene drives
+have already been suc-
+cessfully created within
+laboratories, but their
+effect if released into the
+wild is yet unknown.
+The effect of releasing
+gene drives into ecosys-
+tems is not yet known,
+but they would likely
+seriously affect population
+dynamics. There is also
+the fear of an accidental
+release, which is why
+most labs take precau-
+tions. The risk is always
+there, however, and the
+fallout could be disas-
+trous. Furthermore, there
+is the existence of gene
+flow, which means that
+species may breed with
+neighbouring species. If
+gene flow happens then
+the gene drive may not
+be confined to only one
+species, the spread to
+other species will lead to
+unwanted consequences,
+and a more complicated
+situation. For the case of
+invasive species, the gene
+drive may spread away
+from the intended area,
+meaning that the whole
+species may be wiped out,
+instead of just the areas
+where they are invasive
+and don’t belong. Lastly,
+there is the fear of the use
+of gene drives for bioter-
+rorism, as gene drive tech-
+nology isn’t hard to use
+(although it takes a long
+time to identify specific
+genes and how to alter it to
+acquire the wanted char-
+acteristic). For example,
+terrorists could possibly
+add a toxin-making gene
+to mosquitoes, which
+would cause devastating
+damage on a large scale.
+Overall, there is a large
+amount of uncertainty
+Gene drives are a powerful tool that could wipe out entire species if not used correctly // SynBioWatch
+Gene drive technology could rid humanity of malaria // Wikimedia
+over what would happen if
+a gene drive were released
+into an environment. Gene
+drives have the potential
+to save millions of lives,
+but it could also have dev-
+astating consequences, so
+is it unethical to use gene
+drives, or is it unethical to
+not use them?
+The use of gene drives
+is a complex subject,
+and the regulation of
+this technology requires
+discussions on an interna-
+tional scale. In 2016 there
+was a United Nations
+biodiversity meeting
+discussing a gene drive
+moratorium which was
+ultimately rejected. Gene
+drives can change the
+world on an international
+scale, so in the future it
+is inevitable there will be
+disagreements on the use
+of different gene drives.
+In the meantime, scientists
+are continuing their work
+in this field, currently an
+obstacle that has emerged
+and needs to be overcome
+is the evolution of gene
+drive-resistant organisms.
+A lot of exciting research
+is happening, much of it in
+fact taking place over here
+at Imperial.
+“Gene drives
+could help
+stop a range of
+diseases, such
+as malaria or
+Lyme’s”
+As a result, the gene is
+certain to be passed on to
+the offspring. The gene
+drive will then repeat the
+same mechanism when
+passed down, resulting
+in homozygous offspring
+$999 and Pixel Pen will
+retail for $99. The two will
+be available in the US,
+Canada and the UK on the
+31st
+October 2017.
+Google Daydream
+The announcement of
+Google’s second version
+of its own VR headset,
+with minor improvements
+including a wider field
+of view, new colours:
+coral, chalk and charcoal
+(notice a pattern yet?) and
+Chromecast compatibility.
+Prices start from $99.
+Google PixelBuds
+Of course they did.
+Google released ear-
+phones, smart ones no
+less, with Google Assis-
+tant functionality (when
+paired with a Pixel 2).
+The PixelBuds come in
+three colours: Clearly
+White, Kinda Blue and
+Just Black. Included is a
+charging case that holds
+multiple charges, allowing
+users to get up to 24 hours
+of listening time. The
+PixelBuds allow you to
+tap to start and stop music,
+swipe forward and back
+to change volume and
+15
+The October 4th
+Google Event: Pixel 2 and More
+G
+oogle an-
+nounced a host
+of new products
+in San Francisco
+on the 4th
+of October
+this year. Everyone
+eagerly awaited the an-
+nouncement, particularly
+the unveiling of the com-
+pany’s second flagship
+smartphone, the Pixel 2.
+However, in true Google
+fashion, there were a few
+surprises in the announce-
+ment too. As always, Felix
+Tech gives you a round-up
+of what went down in
+San Francisco. From the
+outset, Google made it
+clear the focus was on
+Artificial Intelligence and
+Machine Learning – the
+idea of integrating clever
+software with great
+hardware.
+Google Home Mini
+Google started off
+proceedings with the an-
+nouncement of the Google
+Home range. Amongst
+the newcomers was the
+Google Home Mini. You
+guessed it, a mini version
+of its original bigger
+brother the Google Home.
+Powered by an even
+smarter version of Google
+Assistant, the Google
+Home Mini is designed
+to either blend in or stand
+out depending on your
+preference. The design is
+based on a small pebble,
+made from a fabric top
+and a plastic bottom, and
+comes in three colours;
+coral, charcoal and chalk.
+The device is designed to
+slot neatly in any space, no
+matter how big or small.
+The magic appears in the
+form of four LED lights
+under the fabric – they
+light up to show the device
+is listening or thinking. As
+with all things Google As-
+sistant, the Google Home
+Mini can be controlled
+by tapping or with your
+voice.
+Much like its big
+brother, the Google Home
+Mini can do a huge range
+of things, from answering
+random questions like
+“How many teeth do
+puppies have?”, giving
+you updates on weather,
+traffic and sports results
+to personalised schedules,
+reminders and news. The
+device also works with
+Chromecast – allowing
+you to stream shows
+directly to your TV or
+music to your favourite
+speakers. The Google
+Home Mini comes in at
+an attractive price point of
+£49, making it accessible
+to many more people!
+Google Home Max
+Google Home Max is
+Google’s first foray into
+the big speaker market.
+The speaker is the biggest
+in their current range and
+includes built-in machine
+learning and Google
+Assistant functionality.
+Google boasts the Max has
+a 20 times more powerful
+sound than the original
+Google Home. The use
+of machine learning has
+allowed the development
+of Smart Sound – the
+speaker adjusts its sound
+output automatically to the
+surroundings it is placed
+in using machine learning.
+This can include different
+physical environments
+all the way to different
+contexts. For example,
+the speaker will play more
+quietly in the mornings
+(for those who aren’t
+morning people) but play
+more loudly when there
+is a lot of background
+noise (like the dishwasher
+running). The design is
+a simple one, with two
+colours; chalk or charcoal
+and comes with a helpful
+magnetised foot stand
+– allowing for either hori-
+zontal or vertical use. At
+the moment, Google Home
+Max will only be available
+in the US in December for
+$399, but more countries
+are expected to be reached
+in 2018.
+Google PixelBook
+The next step in
+Google’s Chromebook
+series – a high perfor-
+mance version. The
+design looks very similar
+to Lenovo’s Yoga line, at
+10mm thick and 1kg in
+weight, with multiple form
+factors including a laptop
+and a tablet. The Pixel-
+Book boasts Core i5 or i7
+processors, up to 16GB
+of RAM and a QuadHD
+LCD display. Of course,
+it has Google Assistant
+built in (with a dedicated
+button) and an additional
+accessory for tablet use –
+the PixelBook Pen. Prices
+for the PixelBook start at
+of course tap to access
+Google Assistant when
+paired to your phone. The
+idea is that you can keep
+your phone in your pocket
+as the headphones can
+play music, send texts,
+give walking directions
+from Google Maps, alert
+to new notifications and
+read messages. Google
+also showcased the ability
+of the headphones to act
+as a translator – using
+machine learning and
+Google Translate to act
+as a real time translator
+in your ear. Google’s first
+earphones will be availa-
+ble from November and
+will start at $159.
+Google Clips
+This was definitely a
+surprise for many. Google
+Clips is effectively a mini
+camera that captures the
+important moments for
+you, meaning you can be
+in them and not staring at
+a screen trying to get the
+perfect candid shot. The
+first version is designed
+for parents and pet owners
+– when you don’t time
+to whip out the phone to
+capture the moment. The
+camera itself is hands-
+The Pixel Buds can translate in real time // Google
+TECH
+Ignatius-Roy
+Hillcoat-Nalletamby
+Tech Writer
+The Google Home Mini is a subtle, yet clever device // expertreviews.co.uk
+

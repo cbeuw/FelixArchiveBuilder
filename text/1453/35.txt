@@ -1,0 +1,229 @@
+35
+felix
+coffee.felix@imperial.ac.uk COFFEE BREAK
+FRIDAY 12 FEBRUARY 2010
+Best of lol catz
+How to play:
+Insert these numbers into the grid above, from
+left to right and top to bottom, in the shaded cells
+(produced by solving the ‘Nonogram’). Then pro-
+ceed as normal for a ‘Slitherlink’.
+It’s quite simple, all numbered cells must be sur-
+rounded with a corresponding number of edges.
+There may only be one continuous line. Any cells
+without a number can have any number of edges.
+Well done to GLT who won the points for both of
+last issue’s Slitherlink and Nonogram. Send your
+solutions to sudoku.felix@imperial.ac.uk.
+Nonolink?! 1,453
+Someone gave our
+Puzzle Commodore
+too much sugar and
+left him unattended.
+Consequently he got
+the Slitherlink and
+Nonogram drunk and let
+them into bed with one
+another. They got carried
+away and produced this
+freakish offspring of a
+puzzle.
+If you can work out how
+to solve it - get your
+solutions to sudoku.
+felix@imperial.ac.uk.
+Solving and submitting
+the Nonogram half only
+is acceptable; points will
+be awarded seperately.
+2
+2
+1
+2
+2
+2
+3
+2
+3
+1 1
+2
+3
+2
+2
+3
+2
+2 1 3
+2 2 2 1
+2
+2
+2
+1
+3 2
+2
+1
+3
+3
+3
+0 3
+2
+3
+FUCWIT
+The Felix University/College-Wide Invitational Tournament League is
+new and improved, with an iPod nano for both the team and the indi-
+vidual with the most points at the end of the year.
+5 points for the 1st correct answers for all puzzles on these pages,
+4 points for 2nd, 3 points for 3rd, 2 points for 4th and 1 point for 5th.
+Now then FUCWITs, answers to sudoku.felix@imperial.ac.uk. Go!
+The Cool Kids and Fergal 33 Points
+Harry Potter Trio 166 Points
+Sheryl 92 Points
+The Tough Brets 128 Points
+Kelvin Wong 52 Points
+Matthew Colvin 125 Points
+Individuals:
+Individuals:
+Teams:
+Teams:
+League Table
+Slithergram?! 1,453
+How to play:
+The numbers represent
+the size and order of
+blocks in each column
+and row. There must
+be at least one space
+between each block.
+See last issue’s solution
+below for more help.
+Don’t shade too heavily
+though; these cells are
+also the destination for
+the Slitherlink numbers
+below!
+Solutions 1452
+2
+2
+1 1
+1 2
+1
+1 1 3
+1 2
+2 4
+9
+9
+5 3
+2
+2
+4
+3 6 4
+2
+3 1
+1
+2
+1
+1
+2
+RAGWeek:2010,RideBigBen! felix
+felix
+07726 799
+424
+Love
+Lovestruck
+struck
+With RAG Week a mere three weeks
+away, we in the committee have been
+working hard to arrange a wicked line-
+up of events for you all.
+But alas, even the great ICU RAG
+committee needs your help this year!
+We have yet to schedule any events
+on the Monday and Tuesday of
+RAG Week (that’s the 1st
+and 2nd
+of March), and we’re look-
+ing for societies that would
+like to run any kind of
+fundraising event.
+Whether you’d
+like to put on a show, sell your wares,
+or anything else you can think of, no
+matter how crazy, we can help you
+make it happen. Especially since it’s all
+for charity, we can twist the Union’s
+arm, so if there’s something you’ve
+been dying to do for ages but haven’t
+been able to, RAG can help! If your so-
+ciety wants to take part, don’t hesitate
+to email us at rag@imperial.ac.uk
+So while Monday and Tuesday are
+still up in the air, we have a plethora of
+wonders already set up for you for the
+rest of the week.
+Wednesday sees the great annual
+RAG Raid, where you’ll be decked out
+in whatever costumes you can put to-
+gether and roam the streets of London,
+completing a list of tasks we’ll have set
+out for you, all while collecting money
+for charity, of course. Previous years
+have seen people swimming in the
+fountains at Trafalgar Square, serenad-
+ing Swedish tourists and even streak-
+ing through the Bank of England. So if
+you want to terrorise the capital, stay
+tuned, and we’ll have more informa-
+tion for you soon. Prizes will be given
+out for most tasks collected and most
+money collected, amongst others.
+On Saturday, we’ve got a football
+tournament at Ethos. If you can find
+a team of five to eight, drop us a line,
+and we can sign you up for only £40.
+We only have space for 16 teams, so
+get your friends together and sign up
+as soon as you can. There will be prizes
+at stake!
+So if you’re interested, email us at
+rag@imperial.ac.uk!
+1
+1
+2
+2
+5
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+4
+1
+1
+3
+1
+4
+2
+1
+1
+2
+1
+2
+3
+1 1 1 1
+1 1 1
+3 3
+7
+1 2 1
+2 2 1
+2 1 1 2
+2 1
+1 4
+2 1 2
+2 1 3 2 3 3 2 0 0 2 2 3 2
+2 1 2 2 2 2 2 3 3 3 1 1 2 2 2
+2 3 2 3 3 1 3 2 3 2 3 2 1
+

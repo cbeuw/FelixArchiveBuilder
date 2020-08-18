@@ -1,0 +1,265 @@
+Look outside! Global Warming!
+A solution to the world’s energy crisis, and global warming, brought to you by the letter H and the number 2
+As the weather gets weirder, news
+reports get gloomier, and even Dav-
+id Cameron decides to join in the
+fun, it seems that when it comes
+to fossil fuels and climate change,
+we’re pretty much screwed.
+Barring those who have had their
+heads buried firmly in the sand for
+the past 12 months, virtually eve-
+ryone has grasped by now that in
+order to avert the most serious ef-
+fects of global warming, it is time to
+reduce our carbon emissions, and
+fast.
+But for all the promises of a hy-
+drogen future, the majority of re-
+search has so far proved unfruitful,
+leaving us with an uneasy choice
+between traditional renewable en-
+ergy sources and nuclear power.
+Help may be at hand however, in
+the form of a collaboration between
+Professors Tsuchida and Komatsu
+from Waseda University, Japan,
+and Imperial College London.
+The scientists used the tools of
+synthetic biology to synthesise a
+large molecular complex, made
+of the blood protein albumin and
+haem component porphyrin, which
+can use solar energy to split wa-
+ter molecules into hydrogen and
+oxygen.
+At present, the most commonly
+discussed methods of producing hy-
+drogen to fuel a hydrogen economy
+are electrolysis, which is so energy-
+intensive as to make it economi-
+cally unviable, and extraction from
+natural gas. As natural gas is itself
+a fossil fuel, this process is also ulti-
+mately unsustainable.
+But by replacing the iron atom
+normally found at the centre of por-
+phyrin (involved with carrying oxy-
+gen around the body in the blood as
+a component of haemoglobin) with
+an atom of zinc, the team managed
+to modify the structure and chemi-
+cal behaviour of the molecule. On
+fusion with genetically modified
+albumin protein, the resulting com-
+plex was found to possess remark-
+able hydrogen-generating powers.
+“It’s very exciting to prove that we
+can use these biological structures
+as a conduit to harness solar energy
+Krystyna Larkham
+Science Editor
+With pressure constantly mounting to find sustainable energy, is this a sign of of the future?
+(It better be snowing outside otherwise that title is going to flop...)
+8 felix Friday 9 February 2007
+SCIENCE science.felix@imperial.ac.uk
+Polonium-210 was on the menu last
+Thursday evening at the Dana Cen-
+tre, with a panel of experts serving
+up the audience plenty of food for
+thought concerning this singularly
+unpalatable isotope, once again in
+the news as further claims in the
+Litvinenko case emerge.
+Yet who did what to whom was not
+at issue – indeed, one of the panel,
+Dr Michael Clark, the science
+spokesman for the Health Protec-
+tion Agency (HPA), was naturally
+very loathe to discuss these sorts of
+Dispelling the Po-210 myths
+details, as they related to an ongo-
+ing case of his. Instead, the aim was
+to elucidate the science of the case,
+from the source of the poison, how
+it affects the human body, to details
+of clean-up operation.
+Professor Dennis Henshawe
+(Bristol), started the presentations
+with a few basic facts about this iso-
+tope of Polonium. Although it has a
+short half-life (roughly 130 days) it’s
+maintained at a constant level in
+the environment, as it’s produced
+by the decay of uranium, which has
+a half life of 4.5 billion years. In fact,
+as uranium’s relatively common in
+the crust, at a few parts-per-million,
+polonium’s as ubiquitous as radon,
+and contributes to half of the back-
+ground radiation dose.
+Building on this introduction,
+Professor Nick Priest (Middlesex)
+continued to the effects on the body.
+He pointed out that since Po-210
+emits alpha particles, which have
+a very short range, it has to enter
+the body before it can do any real
+damage. Litvinenko seems to have
+taken it up in a cup of tea, a rather
+unlikely poisoned chalice.
+Yet this mode of entry was well-
+suited to Po-210: whereas other al-
+pha-emitters are relatively poorly
+absorbed in the gut (1 part in 10000
+for plutonium), as Po-210 passes
+through up to 60% is absorbed into
+the bloodstream. Once there, it cir-
+culates around the body, causing
+especial damage to parts which
+produce new cells, such as testes,
+hair, gut and skin cells.
+Litvinenko’s dose was so high
+much was concentrated in his liver,
+leading to jaundice too. Both Priest
+and Clark, who spoke later, high-
+lighted the difficulty in identifying
+poisoning by Po-210. The initial
+symptoms – feeling nauseous with-
+in hours – were far more likely to be
+due to gastroenteritis. Only as oth-
+er symptoms slowly emerged were
+other possibilities investigated.
+Po-210 was finally diagnosed due
+not to its emissions – the hospitals
+aren’t set up to detect the short-
+range alpha radiation – but due to
+the symptoms of Acute Radiation
+Syndrome (ARS) Litvinenko exhib-
+ited. Priest noted this was the first
+case of ARS from an alpha-emitter;
+the Curies had also died from expo-
+sure to alpha radiation, but years
+later.
+Numbers aplenty were provided
+by Dr Paddy Reagan (Surrey) whilst
+he examined provenance. He point-
+ed out that since the alpha particles
+are very energetic, compared to the
+chemical bonds they damage with-
+in cells, very few suffice to provide
+a lethal dose. A deadly 500 million
+Becquerel (decays per second) can
+come from a few microgrammes
+– an invisible speck. To create this,
+the most likely contender would be
+a high-flux nuclear reactor. Expos-
+ing a sample of (stable) bismuth-
+209 to 1014
+neutrons per second
+would convert a sufficient quantity
+to Bi-210, which decays to Po-210.
+This is relatively easy – even he’d
+made some with this method!
+A further advantage is that as only
+Bi and Po are present in the sam-
+ple, there wouldn’t be a geographic
+fingerprint; it would be impossible
+to pinpoint the source of the poison.
+These advantages would outweigh
+the difficulty in separating the Po-
+210 from the rest of the sample
+swiftly, before too much decays.
+Yet if creating it yielded difficul-
+ties, cleaning up after was fraught
+with even more, according to Mike
+Clark. Once police advisers had
+identified Po-210 as the culprit (us-
+ing methods he didn’t care to dis-
+cuss), the HPA found a trail of con-
+tamination in the hotel rooms, bars
+and offices Litvinenko had visited
+before being hospitalised. Large
+numbers of staff, including nurses
+at the hospital, had potentially been
+caught in this messy wake, and the
+problem of ensuring their safety
+was compounded by the lack of a
+standard monitoring procedure
+– almost no-one works with Po-210.
+In the ensuing discussion, he sin-
+gled out the HPA’s medics as play-
+ing a key role in interviewing the
+naturally concerned staff, and in
+getting them to provide crucial 24hr
+urine samples.
+It transpired those most affected,
+other than the victim, had been
+Litvinenko’s family and some of the
+bar staff. They’d received doses of
+10s of milliSieverts (a measure of
+radiation’s effect on the body), not
+an unusual dose. In fact it’s impos-
+sible to distinguish its health ef-
+fects as it’s equivalent to the accu-
+mulated dose from 10 years of living
+in southern England.
+But humans weren’t the HPA’s
+only responsibility. The trail had
+to be cleaned up by contractors,
+as affected materials, effectively
+low-level nuclear waste, need to be
+stored for a few years until they’re
+no longer a danger. Yet why was the
+trail so messy?
+It seems Po-210’s a keen traveller:
+not only does it spread by touch, but
+also by a process known as recoil. A
+glass of Po-210 in solution, though
+it initially seems inert, will swiftly
+contaminate a whole room through
+diffusion: the significant energies
+imparted to the solution as decay-
+ing nuclei recoil allows others to
+escape the glass too. This property,
+shared with tritium, means Po-210’s
+been used to practise training with
+difficult materials
+The discussion closed on a chilling
+note – although melatonin, used in
+treating jetlag, had been mentioned
+by the panel as a possible treat-
+ment (it’s an anti-oxidant capable
+of entering the cells and mopping
+up damaging free radicals created
+by the alpha particles) Litvinenko’s
+dose was far too high for this to be
+of any use; once in his gut, nothing
+could be done.
+And though Po-210’s messy trail
+makes it by no means a perfect
+murder weapon, it’s undoubtedly a
+nasty one, more than enough to put
+other dissidents off their lunch.
+to separate water out into hydrogen
+and oxygen,” says Dr Stephen Cur-
+ry, a structural biologist from the
+Division of Cell and Molecular Biol-
+ogy at Imperial College London. “In
+the long term, these synthetic mol-
+ecules may provide a more environ-
+mentally friendly way of producing
+hydrogen, which can be used as a
+‘green’ fuel.”
+Imperial College’s Alexander
+Fleming once changed the course
+of history with his little discovery,
+Penicillin. Could it be that we are
+about to do it all over again?
+Edmund Henley
+All the talk about Polonium-210 became rather intense
+A deadly 500
+million Becquerel
+can come from
+an invisible speck
+

@@ -1,0 +1,68 @@
+PUZZLES
+MONDAY, 9TH
+DECEMBER, 2019 FELIX
+48
+fsudoku@imperial.ac.uk
+HEXADECIMAL SUDOKU
+We have heard that some find our usual 9x9 a bit too easy - try a 16x16! Fill all the
+boxes with a character from 0-9 or a-f. A character can only appear once in a row/
+colum, and only once in each sub-box.
+       
+          
+     
+      
+          
+          
+             
+      
+          
+         
+           
+     
+        
+            
+         
+       
+         
+        
+        
+       
+    
+     
+   
+  
+    
+    
+    
+  
+      
+     
+   
+     
+     
+    
+MINESWEEPER
+The number in a cell represents the number of mines adjacent to that
+square (up/down, left/right, diagonal). Find and mark all of the mines to
+clear the board.
+  
+  
+ 
+SLITHERLINK
+The numbers represent the number of corners that are used to make a
+shape on this grid. Join up all the points with lines to make this shape!
+CLUES:
+FUNGI
+BENT
+FLAX
+QUARK
+SWIM
+PRANCE
+JOHN
+DEMIS
+EDGY
+VISOR
+GOGEN
+Fill in the grid with letters form A-Y to make the words given. Words can be
+formed by following any neighbouring letters!
+

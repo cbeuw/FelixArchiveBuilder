@@ -1,0 +1,222 @@
+Science
+"/A/ THE
+With America back in the space
+race, Russia about to launch 'her'
+space shuttle, and pollution a highly
+topical subject at the moment, most
+people are unaware of the
+enormous amount of 'space
+pollution' orbiting the Earth.
+The North American Air System
+(NORAD) currently have 6194
+trackable objects, tennis-ball size or
+above, on their computer system,
+and of these only about 300 are
+operating satellites! In addition to
+this, they estimate that there are
+another 40,000 golf-ball sized objects
+that are not trackable. The debris
+' ranges from paint flecks, nuts and
+bolts and fragments of exploded
+satellites to hand tools that have
+slipped from the gloves of
+astronauts!
+The majority of space debris
+comes from the explosion of space
+rocket stages and satellites.
+Approximately 80 explosions have
+been caused by the combustion of
+spent rocket casings and the
+deliberate explosions for space
+weapons testing.
+Unplanned explosions of rocket
+stages have occurred years after the
+launch; some fifteen Soviet Proton
+and US Delta and Titan rocket
+shrouds are known to have burst
+spontaneously in orbit. The thin
+casing that separates fuels corrodes
+in the harsh environment, the fuels
+mix and explode. Delta shrouds lay
+dormant for about three years, and
+in keeping with its performance on
+the ground, even Arianne has
+exploded after spending a year in
+orbit!
+Deliberate explosions in space
+have been occurring since the 1950s
+when the US exploded warheads in
+low orbits. Ballistic missile and
+antisatellite tests are thought to have
+injected 10 million pieces of debris
+into low and high orbits.
+On September 13, 1985, a
+functioning solar research satellite,
+Solwind, was destroyed by an
+experimental antisatellite missile.
+NORAD showed that the debris
+formed a 300-mile dust cloud
+containing 300 trackable pieces.
+After this test, Congress prohibited
+antisatellite tests against objects in
+space? however, in September 1986,
+two satellites were blown up as part
+of a SDI test.
+Even if no further refuse were
+generated intentionally or by
+accident, the flurry of fragments
+already in orbit might spawn more
+debris. NASA scientists believe that
+the large velocities at which space
+particles collide (about 8 to lOkm/s)
+could be destructive enough to
+generate hundreds or even
+thousands of additional particles.
+The proliferation of these particles
+could snowball into a chain reaction
+with other satellites or particles,
+with the result being a debris belt
+around the Earth. Should this debris
+tear into a discarded satellite still
+more debris would be generated,
+increasing the potential for
+destruction.
+The Soviets have dumped 3000
+pounds of old nuclear-powered
+satellites in a 600 mile orbit, 'A
+hyper velocity collision with a spent
+Soviet nuclear reactor may generate
+as many as one million particles of
+a diameter of one millimetre or
+more', says Nicholas Johnson of
+Teledyine-Brown Engineering.
+NASA has been particularly
+worried about the space debris
+1984 when Challenger astronauts
+retrieved the ailing Solar-Maximum
+Satellite. Detailed micro-
+photographs revealed that the
+aluminium casing was createred by
+thousands of impacts, the largest by
+miles a marble-sized object would
+take a year, at 500 miles, 30 years,
+and at 800 miles, a mission-
+threatening 300 years!
+'At 300 miles, the typical altitude
+for space stations, orbiting
+telescopes, and other satellites, you
+are definitely in a spece-debris
+environment', says Donald
+Kressler, NASA Orbital Debris
+specialist at Houston.
+Graphic evidence of the damage
+that can be done was discovered in
+a particle of at least 1mm diameter.
+From the density of cratering,
+scientists have estimated that the
+flux density of space debris is
+comparable to that of natural
+micrometeorites.
+The Hubble Space telescope,
+scheduled for launch next year, has
+a projected 17-year operational
+lifetime, but may not survive to
+carry out its full mission. Michael
+Sharva of the HST Institute in
+threat since June 1983, when a
+stamp-sized paint fleck cracked the
+wind shield of the space shuttle,
+Challenger; an impact equivalent to
+a ten pin bowling ball travelling at
+60 miles per hour! Other satellites
+believed to have been battered by
+debris include the Soviet Kosmos
+1275, the European GEOS-2 and a
+US balloon satellite.
+Contrary to popular belief, space
+is not self-cleaning, although
+atmospheric drag does eventually
+cause objects to re-enter the
+atmosphere. At an altitute of 180
+miles, debris can take from several
+days to 9 months to re-enter; at 300
+Maryland estimates a 1 per cent
+chance of being destroyed by debris
+during its lifetime. For a billion-
+dollar investment, such odds are not
+attractive. The Hubble Space
+Telescope will be put into a low
+Earth orbit, and its cross-section of
+172 square feet and lack of thrusters
+make it a very likely target. Sharva
+has calculated that there is a 0.1%
+chance of cillison with an object of
+above lm; NASA will know days in
+advance if debris will impact, and
+being unable to manoeuvre, will be
+able to do nothing about it!
+Even ground based astronomy
+has not escaped from the space
+debris threat. The atmosphere is a
+very poor optical medium; large
+objects such as MIR and the Space
+Shuttle are visible with the naked
+eye. Others are fainter, but easily
+detected by sensitive photographic
+emulsions used in
+astrophotography. Most space
+debris in low earth orbit is only
+visible for a few hours after dusk or
+before dawn, but pieces of spent
+rockets and broken satellites in
+geostationary orbit (22,300 miles
+above the Earth), pose a more
+difficult problem, because the clutter
+is visible for most of the time, and
+has an infinitely long decay period.
+Although Kressler estimates that the
+problem will not become serious for
+another 25 years, optical
+astronomers differ in their views of
+how the debris affeqfs their work.
+Radio astronomy, unaffected by
+the time of day, does not escape.
+Reflections from debris can wipe
+complete bands from the spectrum
+at a time. Astronomers were given
+a glimpse of this, when, in 1961, the
+USAF launched the 'Needles'
+project—releasing billions of copper
+needles into orbit to create a dipole
+belt around the Earth, to act as a
+mirror. These needles were
+supposed to re-enter in early 1966,
+although a few clumps are still
+thought to be in orbit.
+What then of the future? When
+will the first mission fail as a result
+of a collison with space debris—or
+will a clean-up operation be initiated
+before such a disaster occurs?
+Several 'space dustbins' have been
+proposed—the trash removal and
+satellite hauler 1 (TRASH 1)
+proposed by SpaceTech Inc, or a
+debris catcher with a huge scoop,
+miles in diameter are just two
+suggestions.
+But as with most problems,
+prevention is better than cure, and
+several ideas are being investigated.
+The airforce want to use more
+'disposable orbits' in low Earth
+orbits, which speed up re-entry
+times. Satellites are more modular,
+thus reducing the number of
+exterior nuts and bolts and a new
+NASA operational procedure
+ensures that all rocket fuel is burnt
+up eliminating the problem of
+exploding rocket casings.
+Page 10 FELIX November 11 1988
+

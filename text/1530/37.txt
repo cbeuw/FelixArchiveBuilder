@@ -1,0 +1,207 @@
+Arealistictakeonroguelikes
+Robin Thomas reminisces back to when times were hard
+popular mod on the PC
+gaming scene, as many
+of us will know, is DayZ,
+where you get one shot
+at survival on an island
+covered with zombies. It’s hailed for
+ﬁnally getting “survival” right, with at-
+mosphere, realism and diﬃculty – and
+it’s the diﬃculty that interests me.
+Games have been getting easier for
+years. DayZ doesn’t let you save and
+forces you to restart every time you
+die, however, if your character some-
+how survives long enough for you
+to quit the server, you pick up where
+you left oﬀ. The ﬁrst games to do per-
+madeath in a big way were ‘roguelikes’.
+We have to look very far back to ﬁnd
+their beginnings, as the ﬁrst crop ap-
+peared in the 1970s with games such
+as Adventure, Dungeon and, in 1980,
+Rogue, which the genre is named after.
+In simple, relatable terms, imagine
+Diablo, but really, really hard. The av-
+erage Roguelike has you make or ran-
+domly generate a character (with more
+choices than you could shake a wand
+of wishing at) and dumps it in a walled
+village with a staircase down to a dun-
+geon. Levels are randomly generated,
+usually simply a series of pitch black
+rooms and corridors riddled with se-
+cret passages, traps, creatures and loot,
+depending on how deep you’ve delved.
+Your character must gain experience
+from monsters, travel down as far as
+possible, and kill some impossible boss
+at the deepest limit. Combat is roughly
+like Dungeons & Dragons, so it is turn
+based and requires a rulebook to prop-
+erly understand. Oh, and most rogue-
+likes use ASCII graphics and don’t take
+mouse input, in case you thought the
+above sounded remotely accessible.
+There is much variance between dif-
+ferent versions, but the core game
+stays the same. Nethack, easily avail-
+able on smartphones, is a straight-
+into-the-dungeon job, and generously
+provides small sprite graphics. Larn
+features a time limit and if you win ,
+your subsequent characters get taxed.
+Brogue puts a lot of eﬀort into mak-
+ing ASCII dungeons more colourful.
+Moria spawned many child-variants
+based on Lord of the Rings lore. All of
+them are completely unforgiving.
+So what’s actually good about them?
+Variety and randomness. My half orc
+barbarian could take a sip from a water
+fountain on level one and be unlucky
+enough to get one-hit by the water de-
+mon that had a 1% chance of spawn-
+ing from it. My elven ranger, however,
+might make it down to the gnome and
+dwarf catacombs on level 5 thanks
+to his bow and come unstuck against
+some tricky spellcasters. You could
+start oﬀ as a wizard with a ring of in-
+visibility, only to die of hunger when
+paralyzed by a trap on level 19. You
+have to take some amount of enjoy-
+ment from the inevitable death of your
+character.
+Okay, ﬁne, you get what I’m saying,
+but games have moved on. We’re used
+to hammering quick save and quick
+load to get the perfect hit for maxi-
+mum experience, regular checkpoints,
+and having a player character that isn’t
+an ampersand or “@” symbol. Why
+don’t you just play Diablo and actually
+have fun rather than live in the past?
+I propose an alternate solution –
+choose the right variant, and cheat.
+Yeah, I’ve now been completely reject-
+ed by any hardcore roguelike players
+(who are still out there), but hear me
+out. Wizard mode is for “debugging”,
+but it allows you to simply respawn at
+the start of any area you die. Combine
+this with the variant ZangbandTK,
+based on Angband, full of LotR char-
+acters and items as well as other hi-
+larious easter eggs that become an
+integral part of the game, plus dizzy-
+ing character creation options. Most
+importantly, it’s got good sprite based
+graphics, so you won’t be squinting
+to see the diﬀerence between a wall
+(#) and a demonic quylthulg (%). The
+game now becomes an exercise to cre-
+ate the best possible character from a
+random system, mostly done through
+grinding quests with high level loot.
+Boy, that sounds familiar, doesn’t it?
+ZangbandTK is still brilliant fun if
+you don’t cheat, if not more. It’s sim-
+ply diﬃcult to bring this type of game
+to this generation. If you enjoy RPG
+games, or simply like to think you
+know a thing or two about the history
+of gaming, you owe it to yourself to
+experience this genre as it is meant to
+be. Even if you roll a gnome priest who
+dies at the hands of a lichen (yes, a li-
+chen) on the ﬁrst level of the dungeon,
+you’ll catch a glimpse at what some of
+today’s games are missing – a learning
+curve with balls.
+A When I level up, I want to be
+Chaos Bacon too! Sounds tasty.
+GAMES Games Editor: Ross Webster
+games.felix@imperial.ac.uk
+FRIDAY 09 NOVEMBER
+38
+Strike team sent to upset UCL. Mission successful.
+My Little Zergling DVD box set
+It’s been a question that has ﬂoated
+around Imperial College Union’s
+Gaming Club for years now – why
+don’t we play anyone else? This year,
+gears actually started moving.
+On Thursday evening, in a quiet area
+of UCL, pizza was delivered and the
+party started. The LAN party. League
+of Legends (LoL), Team Fortress 2
+(TF2) and Call of Duty: Modern War-
+fare 3 (CoD/MW3) were downstars,
+whilst the revellers upstairs Brawl-ed
+and kicked a ball around in FIFA 13.
+The event was well attended, even af-
+ter the free food had vanished (about
+5 minutes in) and then the games
+began. Kinda. One of the UCL Tech
+Soc’s new (I hesitate to say ‘shiny’ as
+it looked like it had been used to buﬀ
+a pavement) Xbox 360s had broken,
+resulting in some slightly awkward
+2v2s., rather than the planned 4v4s.
+Despite that, Imperial beat UCL in all
+CoD games played, bar one (as their
+best player had to leave after the ﬁrst
+game). LoL in the corner was domi-
+nated by the Imperial cohort, with
+the UCL team conceding (read: rage-
+quitting) in the middle of the second
+game, giving the Imperial team a 2-0
+match win. One stalwart Imperial
+student spent all day playing FIFA,
+winning 5 out of the 6 games played
+(and only losing when it came to pen-
+alties) bringing great success to the
+motherland.
+There wasn’t much success however,
+in the land of Super Smash Bros., with
+UCL wiping the ﬂoor with us. Finally,
+TF2 ﬁnished and the scores rolled in.
+However, all was not well in the land
+of inﬂatable unicorns and hats. The
+UCL view is that they slaughtered us,
+fair and square. The Imperial view is
+that they slaughtered us, but cheated
+by bringing in someone with banned
+weapons and so UCL should be dis-
+qualiﬁed.
+Regardless of the rivalry, everyone
+was still in high spirits at the end of
+the day and wonderfully, not a single
+shout of ‘n00b’ rang throughout the
+building.
+For the ﬁrst (of hopefully, many)
+tournament, things went surprisingly
+smoothly and when it’s time to host
+the next evening, on the home turf,
+we should have the food shortages,
+console shortages, UCL rage-quitting
+shortages and “Imperial won” short-
+ages ﬁxed.
+When the date and time are known,
+it’ll be posted up on the Imperial Col-
+lege Union Gaming Club’s Facebook
+group and you can put your name in
+for the Imperial team, for the games
+of your choice.
+Tl;dr: Imperial possibly beat UCL at
+a bunch of video games, with a score
+of 2-1 or 3-2. Or maybe we drew with
+2-2 - I don’t know. Just read the arti-
+cle.
+UCL players in a variety
+of stages of loser’s grief...
+.... and this is why. (No it wasn’t
+just him. We’re not that good.)
+

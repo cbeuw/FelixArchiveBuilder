@@ -1,0 +1,178 @@
+34 FRIDAY 07 FEB
+TECHNOLOGY
+Editor: Maximilian
+Eggl, Yong Wen
+Chua, Osama Awara
+technology.felix@imperial.
+ac.uk
+Return to paper?
+I hate wires. Every time I look at
+the back of my PC and I see the
+bunch of wires, my OCD kicks in.
+Luckily, I can usually sit at my desk
+and pretend the wires are not there.
+Not for the mobile phone. When
+you need to charge it, transfer data,
+or listen to music, you have to
+pluck some bloody cables into it. At
+least, you used to. I have managed
+to transition to using my mobile
+phone without needing any wires
+at all, and here’s how you could do
+the same. (Caveat: doesn’t work on
+all phones; I am using a Nexus 5.)
+Power is essential to the phone.
+Without juice, your phone might as
+well be a formidable piece of brick
+designed to kill someone and then
+commit seppuku afterwards by
+shattering into a million pieces of
+glass. The power cable gets the cut
+first via wireless charging. With a
+wireless charging device, you will
+no longer have to plug your phone
+to charge it. It’s as convenient as
+placing your phone on the charging
+device, usually in the form of a mat.
+There are two main standards for
+wireless charging: Qi (pronounced
+chee) and Powermat. Many high
+end phones such as the Nexus 5
+and some Nokia Lumia phones
+support wireless charging directly.
+Others require some kind of an add-
+on to allow for wireless charging.
+Unless you are one of those
+annoying people who likes to
+broadcast your music taste for the
+scrutiny of the others on public
+transport, you would probably be
+usingsomeearphonesorheadphones
+to listen to music on the go. Your
+wireless solution to this would be
+bluetooth headsets. The price range
+is vast, and essentially, you get what
+you pay for. If you are an audiophile,
+the Logitech UE 9000 is probably the
+best you can get at a hefty £300. If
+you are willing to take the plunge, I
+strongly recommend it. Otherwise,
+if you are unwilling to spend,
+but still want your audio quality,
+stick to your current earphones.
+One of the least used feature,
+albeit equally important, is the
+ability to transfer data to and from
+your phone. These can include files,
+or even stuff like contacts. Android
+phones fare the best in this category,
+arguably. Once you connect your
+phone to the mobile data network,
+or a WiFi network and sign in to your
+Google account, your contact details
+will automatically get synchronised
+to your phone. iOS users have iCloud
+and Windows Phone users will have
+Microsoft’s services. To transfer files,
+you can use cloud storage services
+like Dropbox, OneDrive (formely
+known as SkyDrive) or Google
+Drive. Android users have the
+option of using apps like AirDroid
+to transfer files on an ad-hoc basis.
+There are, however, some things
+that still need wires. They are
+however, arguably specialised.
+For example, if you want to use
+your phone as a remote control
+for your DSLR camera, you still
+need the USB on the go (OTG)
+cable. If you want to connect your
+phone to the TV, you still need
+Maximilian Eggl’s first thoughts on Facebook’s new app
+Y
+es, Facebook, has
+turned 10. Ten years
+this giant has been
+sucking out our souls,
+killing our times and
+generally trying to inject itself into
+every aspect of our lives. Now they
+have introduced their next strategy
+in their multi-pronged attack to make
+themselves virtually indispensible,
+a reader app named paper. Almost
+identical to Flipboard, it aims to
+deliver a new experience to browsing
+Facebook, and general news around
+the Internet.
+The quote I first read when I
+read about Paper was “This would
+be Facebook if it had been first
+created in 2014”. I cannot agree
+more. Doing away with the blue and
+somewhat out-dated style of the
+website and application, it replaces
+everything with individuals little
+stories on the bottom with one
+randomly selected story filling up
+the background. Furthermore this
+format is replicated throughout
+the entire app, e.g. Headlines,
+News etc. All in all everything
+looks really futuristic and smooth.
+In terms of actual Facebook use,
+it tends to everything quite well.
+Messages and notifications are
+almost the same (although the
+double notification of both the
+normal Facebook app and then paper
+did annoy me to the point that I did
+have to turn it off). You can post
+statuses, like and comment things
+etc. Furthermore the Facebook
+profiles just look really great.
+This app was billed as the death of
+the old Facebook app and looking at it
+I can understand why the bloggers of
+the Internet predict this. However for
+now I just believe it is too different,
+feels like it is lacking to many features
+to be a real killer. It does show that
+Facebook is ready to change things
+up and stay current, also it is a good
+alternative when you are too tired
+of seeing blue all the time though.
+The News Bubble
+Maximilian Eggl
+Yong Wen Chua
+Osama Awara
+Technology Editors
+Facebook has turned 10. However instead of celebrating any sort of
+achievemnt, the internet is awash with studies and blogs that seem
+to purport the end of the mighty social media site. However the tech
+team at Felix do believe that, while facebook has lost a lot of its “cool”
+factor, the end of FB is still a long way off. By the way, if you want to
+see something quite nifty, have a look at Facebook.com/lookback.
+General news from around the tech world, so you can keep up to date
+with the newest, wierdest and most futuristic things around
+Facebook turns 10
+After a month of speculation the new CEO of one of the biggest tech
+companies at the moment has been revealed. Satya Nadella, who
+was previously in charge of the cloud computing division of MS, will
+now take the helm, at what is seen as a crucial time for the company.
+Furthermore Bill Gates, the founder of MS, has stepped down as
+chairman instead taking the role of “technival advisor”, perhaps
+signifying a more hands-on approach to steering his company.
+the HDMI. Wireless bandwidth
+is just not fast enough for this yet.
+I can pretty much live without
+connecting my phone to any wire
+most of the time. As I mentioned,
+you still need wires for some
+things, but the list is diminishing
+as wireless bandwidth improves.
+Tired of all those Wires?
+Yong Wen Chua gives you some tips to avoid those pesky things
+New Microsoft CEO
+

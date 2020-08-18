@@ -1,0 +1,223 @@
+U N D E R T H E
+MICROSCOPE
+by Steve Black
+Chaos is a fascinating and fashionablefieldof research. Curiosity is driven
+by the question: how is it possible for a purely deterministic system to
+behave in a totally unpredictable manner? If you play around with the
+simple equation in the article then you may well catch the bug. Try it;
+it really is fascinating. Here is some further reading for those who are
+interested: Scientific American 245 pl6 (Nov 1981), Concepts of Modern
+Mathematics p307 Ian Stewart (published by Penguin 1981).
+Arnold's
+Cat brings
+chaos
+Pure mathematics is in trouble. Gone
+are those halcyon days when every
+result was guaranteed to be useless.
+Even number theory (where people
+waste their time trying to prove that
+x n + y n = z n has no whole number
+solutions for n greater than 2) has
+started to prove useful. Recently some
+deep (and, until now, utterly useless)
+results from algebraic number theory
+have just been used by t w o
+mathematicians at Queen Mary
+College, to make some simple kinds
+of chaos more understandable.
+It is worth taking some time for a
+quick introduction to chaos. Consider
+simple recursion relation x n + l = a x n
+( l - x n ) . This defines a sequence of
+numbers with each new number being
+fed back into the equation to give the
+next number. Different types of
+behaviour occur for different values
+of a (values of a between 0 and 4 and
+output of the function (that is x n + 1 )
+eventually settles on one number, but
+for a between 3 and 4, crazy things
+happen (go try out a few sequences
+on your calculator; y o u w i l l
+appreciate chaos much better if you
+do). For values of a near 4 the output
+of the function is completely chaotic;,
+that is, the output fluctuates wildly
+without apparent order, visiting every
+point between 0 and 1. The function
+typifies simple dynamical systems
+common in the real world, such as
+populations whose growth is
+constrained by a limited food supply.
+The latest discoveries concern
+certain two-dimensional discrete
+dynamical systems. These are
+described by functions like the simple
+equation given above, but with two
+variables. The trouble with these
+systems is that a great deal of their
+behaviour is chaotic and this makes
+mathematical analysis very difficult.
+However, some initial states evolve
+in a perfectly regular manner, but
+these are very difficult to find as they
+are completely surrounded by states
+which are effectively unpredictable.
+This is typical of chaos: the slightest
+uncertainty in the initial state
+produces complete uncertainty in the
+state after only a few cycles of the
+system.
+The system is studied by looking at
+the properties of its phase space (this
+is just a graph where a point sums up
+4
+all there is to know about the system,
+that is there is one axis for each
+variable, position, momentum, etc).
+In this case, the phase space is
+topologically equivalent to the surface
+of a doughnut. The dynamics of the
+system are described by a repeated
+mapping on the surface of the
+doughnut, called Arnold's cat (it was
+first illustrated by a drawing of a cat
+on the surface).
+Percival and Vivaldi (the two from
+Q M C ) realised that many of the
+questions about the system could be
+rephrased as questions about the
+arithmetic of some number relating to
+the mapping. These can be answered
+using some of the most useless
+concepts in pure maths (such as the
+quadratic reciprocity law, ideal
+classes, the classification of primes as
+ramified, split and inert..). Using
+such arcane devices, the two
+mathematicians were able to map out
+the regular point in the sea of chaos
+(which can be thought o f as the
+skeleton on which the chaos is hung).
+This is helping with an understanding
+of the depths of the chaotic regions
+of the system.
+The importance of this work lies in
+the number of chaotic systems in the
+real world. Almost any system with
+nonlinearity or feedback will exhibit
+chaotic behaviour at some point
+(biological systems are often based on
+feedback loops: for example, heart
+attacks have been modelled as
+transitions to chaos. A lot of physical
+systems are similarly chaotic (for
+example, the weather).
+The big question is this: can pure
+mathematics survive a l l this
+applicability? (Nature 329 p670 and
+391).
+Gas from
+the Earth
+If science can be measured by
+economic returns on investment, then
+Geology is a very successful science.
+The world's biggest and most
+profitable companies rely o n
+geologists to find the oil and gas
+deposits that create their profits.
+However, all the oil may have been
+found by applying an incorrect theory
+of its origin, at least according to a
+geologist called Thomas Gold (his
+book Gas From The Earth was
+published last mdnth).
+The new theory suggests that
+natural gas and oil are not derived
+from rotting primaeval rubbish, but
+come from the earth's core where
+they were trapped when the earth was
+formed. Gold, formerly of Cornell
+University, now at Cambridge, first
+proposed the idea several years ago.
+Gold's theory neatly explains some
+observed anomalies in the contents of
+gas and o i l deposits. The actual
+distribution and extent o f
+petrochemical reserves has always
+been something of a mystery, and it
+is often difficult to explain the
+reserves' origin in terms involving the
+decomposition of biological junk.
+Geologists usually propose that the oil
+was formed somewhere other than
+where it was found and then moved
+through porous rock until stopped by
+an impervious layer. But the oil
+should leak away faster than it has
+done i f it is as old as we think.
+There is also the problem of the
+relative composition of oil and gas.
+Basically there is too much hydrogen
+for a stricdy biological origin. Worse
+than that, there is the helium: some
+natural gas wells contain several per
+cent helium (in fact this is where all
+commercial helium comes from), and
+there is no way to explain the helium
+within conventional theories. Gold's
+theory neatly accounts for the helium,
+which was a common constituent of
+the early solar system (as was
+hydrogen). It is not difficult to
+imagine the trapping of gasses in a
+planet built by slow accretion of rocky
+bodies, as long as the whole body
+never becomes completely molten
+(and this is now the favoured theory
+anyway).
+It is, unfortunately, difficult to
+verify or refute such an idea easily.
+Gold can explain the circumstantial
+evidence for biological origin (the
+presence o f common plant-derived
+chemicals in oil) as the result of
+biological contamination of his
+primordial deposits. But there is a
+definitive test. If Gold is right, then
+we should be able to find
+hydrocarbons in areas where they
+could not possibly have had a
+biological origin. These areas of the
+earth's crust contain only very old
+rocks and no sedimentary deposits
+where biological waste could have
+gathered.
+Gold was able to persuade a team
+from the Swedish electricity industry
+to drill a deep hole in one such
+suitable area. Unfortunately, the
+money for the project has run out due
+to 'unforseen drilling problems', just
+as interesting results were coming in.
+No gas field has yet been found, but
+there is methane and helium and
+hydrogen in places where they should
+not be.
+Hopefully the project will restart,
+because if Gold is right then there is
+enough gas down there to keep the
+whole world well supplied for
+thousands of years. That is long
+enough for us to find a better way to
+become extinct than running out of
+energy.
+SCIENCE PAGE
+Articles, suggestions
+and complaints
+should be sent to
+Steve Black c/o
+FELIX Office or
+phone int 4642.
+Friday November 13th 1987 FELIX
+

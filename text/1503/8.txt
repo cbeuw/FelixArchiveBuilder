@@ -1,0 +1,199 @@
+SCIENCE
+In brief
+science.felix@imperial.ac.uk
+E
+uropa is the second innermost
+of Jupiter’s four large Galilean
+moons. Scientists believe that the
+Jovian satellite’s icy surface hides
+a liquid ocean that contains twice
+the water than can be found in all of Earth’s
+oceans combined. As such it is one of the
+most likely places in the solar system where
+extraterrestrial life could be found. However,
+given that it is widely believed that the upper
+crust of ice is on average 20 kilometres thick,
+probing for signs of life is likely to be difficult.
+But now a group of scientists lead by Britney
+Schmidt from the University of Texas has said
+that they believe that pockets of liquid water
+may form far nearer the surface of the moon.
+In a paper published last week in Nature, the
+team describe how they used ten year old data
+from the Galileo obiter, and observations of ice
+structures in the Arctic and Antarctic to explain
+the formation of previously mysterious struc-
+tures on the surface of Europa called “chaos ter-
+rain” – rough, vaguely circular regions which
+can tower more than a hundred metres above
+the surrounding ice. The team believes that the
+process of formation begins with the eruption
+of underwater volcanoes, similar to Iceland’s
+Grimsvotn. This heats the lower layer of pure
+ice in crust, which brings the heat up to higher
+layers of salt contaminated ice, which has a
+lower melting point. As this melts, the water
+forms a sub glacial lens shaped lake of brine.
+Since liquid water is denser than ice, a space
+is left above the lake, causing the ice above to
+sag in order to fill it. As the ice bends large
+cracks are formed, into which the brine is in-
+jected. Eventually pressure from the brine can
+cause the ice to split apart into blocks. A simi-
+lar process happens at the boundary between
+the Antarctic ice sheet and the ocean. Being
+so close to the surface, the brine eventually
+freezes again, pushing the blocks upwards as it
+expands in volume and turns into ice. The fro-
+zen brine itself forms so called ‘matrix domes’,
+which may themselves reach higher above the
+surrounding surface than ice blocks.
+As well as fully formed chaos terrains, such
+as the Conamara Chaos and Murias Chaos, the
+team believe that they have also found an area,
+called Thera Macula, that is halfway through
+this process. Galileo data shows that while it is
+in many ways similar to the Conamara Chaos
+its surface is dipped below rather than raised
+above the surrounding ice. This suggests that, if
+the team’s model is correct, liquid water of vol-
+ume equivalent to the Great Lakes could exist as
+little as 3km under surface of this region. While
+Shallow lakes on Europa
+Science Editors: Kelly Oakes
+Alexander Karapetian
+Europa’s ‘Great Lake’ – scientists speculate that many more exist throughout the moon
+Neutrinos still faster-than-light?
+In September, physicists working on the Opera ex-
+periment announced that they had observed some
+subatomic particles called neutrinos travelling fast-
+er than the speed of light. The neutrinos in question
+undertook a journey from CERN in Geneva, through
+the Earth, and finally ended up at the Gran Sasso
+laboratory deep underneath the mountain of the
+same name in Italy. But they arrived at Gran Sasso
+a few nanoseconds earlier than they should have
+done, had they been travelling at the speed of light,
+suggesting that they had in fact travelled faster.
+Opera published a pre-print paper of their results
+online on September 22 and held a press confer-
+ence the next day. Since then, physicists around
+the world have been poring over their results and
+publishing papers trying to either find a mistake or
+use new physics to explain what is going on.
+Carlo Contaldi, from Imperial College, suggested
+that differences in the force of gravity at Cern and
+Gran Sasso would make the clocks used to mea-
+sure the time of flight of the neutrinos tick at dif-
+ferent rates. This difference would reduce the sig-
+nificance of the result. Others have come up with
+different criticisms.
+Opera have since refined their experiment and re-
+ported last Friday that the neutrinos still appear to
+be travelling faster than light. In the new version of
+the experiment, the pulses of neutrinos sent from
+Cern were made thousands of times shorter than in
+the original experiment. Many scientists criticised
+the original long pulses because of the large errors
+they could introduce when measuring the exact ar-
+rival time of the particles at Gran Sasso.
+The shorter pulses allowed them to measure 20
+individual neutrinos, each one associated with a
+specific pulse leaving Cern. But all still appear to be
+arriving too early.
+This troubling result has the potential to overthrow
+Einstein’s theory of special relativity and mess with
+the principle of causality, which says that cause
+must come before effect.
+However, physicists working on the Icarus experi-
+ment, also at the Gran Sasso laboratory have cast
+doubt on Opera’s results. Their work is based on
+a recent paper by Boston University physicists An-
+drew Cohen and Sheldon Glashow, a Nobel laure-
+ate. Cohen and Glashow say that if the neutrinos
+had travelled faster than light, they should have
+lost energy through releasing pairs of electrons and
+positrons. The Icarus experiment looked for this
+predicted energy loss but did not find any evidence
+of it, suggesting that the neutrinos did not travel
+faster than light after all.
+We will not know for sure one way or the other
+until independent laboratories are able to conduct
+similar experiments.
+Jim Al-Khalili, a Professor of Physics at the Uni-
+versity of Surrey, who after the initial result said he
+would “eat his boxer shorts live on TV” if it was
+proved true, will surely welcome Icarus’ findings.
+Kelly Oakes
+the team believes that it will take the water up to
+a million years to freeze completely, the surface
+will have altered by enough the next time we
+send a probe to Europa to be able to see if the
+model is correct.
+If it is, and there is shallow liquid water under
+Thera Macula, this will not only give scientists a
+prime site where they can look for life but would
+also confirm that Europa is geologically active.
+This would be an extraordinary discovery given
+that so far the Earth, Jupiter’s moon Io and Sat-
+urn’s moon Enceladus are the only known geo-
+logically active bodies in the solar system.
+DOI: 10.1038/nature10608
+FELIX
+8 Friday 25 november 2011
+Maciej Matuszewski on the best evidence yet for water just below the surface
+Throughout the history of neuroscience, we
+have often been amazed by the brain’s capabil-
+ity and workings. Instances like the ability to
+read the jumbled headline above intrigue us –
+how is a mess of letters comprehensible?
+We have long known that skilled readers do
+not need to read individual letters, but until re-
+cently the mechanism behind this ‘scanning’
+method was not well known.
+This year in the annual meeting of the So-
+ciety for Neuroscience, Georgetown Univer-
+sity Medical Center (GUMC) neuroscientists
+reported their findings of a visual dictionary.
+One of the leading theories in word recogni-
+tion is that the brain simultaneously retrieves
+the sound and the visual perception of a word
+from the same area of the brain. Glezer et al.
+rebut this idea through their fMRI based study
+that allowed them to look at changes in neural
+activity in different areas of the brain.
+Glezer says, “What we found is that once
+we’ve learned a word, it is placed in a purely
+visual dictionary in the brain. Having a purely
+visual representation allows for the fast and
+efficient word recognition we see in skilled
+readers.” GUMC set out to prove this by test-
+ing word recognition for homonyms such as
+‘hare’ and ‘hair’. They found that different
+neurons were activated, much like different
+entries in a dictionary are required for the two
+words. If the notion of phonology and visual
+perception being interlinked held true, then the
+homonyms would activate the same or similar
+areas of the brain. “But this was not the case
+– ‘hair’ and ‘hare’ looked just as different as
+‘hair’ and ‘soup’” explains Glezer.
+While she admits that on initially encounter-
+ing a word we need to sound it out in order
+to encode the word and match it to the writ-
+ten word; subsequent presentations need no
+sounds and simply letters to correctly identify
+the word.
+While the relevance of this new knowledge
+is not immediately perceptible; Glezer outlines
+that these advancements hold exciting prog-
+ress in the understanding of reading disorders
+like dyslexia.
+“If people with dyslexia have a problem
+forming this visual dictionary, it may be that
+there could be ways of helping train children
+with dyslexia to form a more finely tuned vi-
+sual dictionary.”
+Cna yuo raed tihs snentece?
+Madhura Ghosh
+

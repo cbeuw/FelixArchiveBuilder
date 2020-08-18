@@ -1,0 +1,377 @@
+www.felixonline.co.uk
+Felix
+Thursday 9 December 2004 5
+SCIENCE science.felix@ic.ac.uk
+By Elena Lengthorn
+Science communication
+Wind energy – these seem
+to be dirty words at the
+moment! There has been so
+much press about the inad-
+equacies of wind energy as
+a power supply that a gen-
+eral feeling of negativity and
+doubt has descended over
+this renewable option.
+It is fairly easy to jump
+on the ‘wind = bad’ band
+wagon, what with turbines
+reaching 260 feet into the sky
+and being erected in tranquil
+rural settings. David Thomas
+of the Mail on Sunday sug-
+gests that townies (the likes
+of Imperial dwellers) should
+quit diverting our environ-
+mental guilt into schemes
+that the rural communities
+are being made to suffer. Mr
+Thomas suggests that there
+is no evidence that wind
+farms have any real benefits.
+Here I have to disagree,
+and argue that the concern
+should be with lack of take-up.
+Townies’ schemes are taking
+place in the countryside as
+that is where there is space
+available. I’m positive that
+few in the city would mind
+having a turbine attached to
+the roof of their office block
+or home if that were pos-
+sible!
+In 1991, the US Department
+of Energy published a
+National Wind Resource
+Inventory in which it point-
+ed out that between them,
+Kansas, North Dakota and
+Texas have enough harness-
+able wind power to serve the
+national electricity require-
+ments. This detail was writ-
+ten over a decade ago, when
+turbines were a meagre 120
+feet. The modern, taller, tur-
+bines operate at lower speeds
+more efficiently and are able
+to harness more reliable and
+larger wind regimes at high-
+er levels.
+Europe is the wind energy
+world leader, but the UK still
+seems reluctant to embrace
+its potential. Last year, the
+European Wind Energy
+Association projected that by
+2020 half the population of
+Western Europe’s electric-
+ity would be provide by wind
+energy. If the offshore poten-
+tial was utilised, it could
+provide all of the region’s
+residential electricity by the
+same time according to a 2004
+assessment by the Gerrad
+Hassan consulting group.
+The cost of wind-generated
+electricity has fallen with the
+kilowatt hour cost to its low-
+est ever, down by a factor of
+ten to 3¢ on some long supply
+US contracts. So wind power
+is now cheap, widely avail-
+able, clean and in abundance
+– and the weakness of irregu-
+larity is being overcome by
+using taller turbines and uti-
+lising the National grid.
+Gas-electric hybrid cars,
+such as the Toyota Prius,
+could also exploit wind
+resources. They drive 55
+miles to the gallon and Lester
+Brown of the Earth Policy
+Institute in Washington sug-
+gests that adding a second
+battery and a plug-in capac-
+ity could increase their elec-
+tricity storage ability. This
+would further reduce their
+gas intake another 20%, giv-
+ing an overall cutback of 70%.
+The plug-in hybrids could
+become part of the storage
+system for wind energy.
+There are still, according
+to Peter Odell, Professor
+Emeritus at Erasmus
+University Rotterdam,
+enough oil reserves remain-
+ing to be exploited to meet
+current demand for another
+40 years. Some of the exploi-
+tation methods will have to
+change, but these are tech-
+nologically possible. Demand
+for energy is going to con-
+tinue to rise steadily as it has
+been at 2% per year for the
+last 30 years – and after all
+the oil has been exploited,
+carbon could still be king
+with coal and then natural
+gas to dominate the global
+energy picture.
+For wind to rule, the
+Government and policy-mak-
+ers worldwide must show
+even more commitment to
+the principle of renewable
+energy, raise taxes on carbon
+fuels and subsidise the devel-
+opment of alternative power
+harnessing.
+My biased townie view is
+that is would be best to make
+wind king, the sooner the bet-
+ter all round.
+Surely wind energy is the perfect solution
+Wind farming: the cost has fallen to its lowest ever
+Different operating systems, different needs
+By Amadeus Stevenson
+Physics department
+When you buy a compu-
+ter, chances are it’s a PC,
+or to put it simply, it’s run-
+ning Microsoft Windows. You
+might even think that the def-
+inition of a home computer
+is a thing with a “Start” but-
+ton that crashes during your
+lab report write-up. However,
+there’s a lot more out there in
+computer never-never-land.
+As we’ve seen in previous
+articles, the operating system
+on a computer is the software
+(written in a programming
+language as source code)
+which interfaces between
+you, the user, and the elec-
+tronic hardware inside your
+computer. You want to play
+Cher’s Greatest Hits? Your
+operating system will contain
+software to read the MP3 and
+send the audio data in a form
+which your sound card will
+understand, through to your
+speakers. Your whole end
+user computer experience is
+based around your operating
+system, and there is fierce
+rivalry from different camps
+as to which operating system
+is the best. This week I’ll try
+to give you an idea about the
+main alternatives, and wheth-
+er they’re suited to what you
+want to do. It’s important to
+keep in mind the idiom: if it
+ain’t broke, why fix it?
+Pros
+Free, open source so gen-
+erally better security. Quite
+a large user base so lots of
+software available for free
+– alternatives to Microsoft
+Office are available, as well
+as all the tools you’d need for
+graphics, audio, maths and
+even games. Some distribu-
+tions are easy to install and
+use – trying to emulate the
+Windows ease of use factor.
+Make great web/email serv-
+ers. Will run fine on older
+machines which might not be
+able to cope with the require-
+ments of Windows. Users
+tend to be enthusastic so
+there’s lots of support (see
+Imperial Linux User group).
+Cons
+Won’t have all the hard-
+ware support that Windows
+has, although manufactur-
+ers are clueing up to the
+growing use of Linux – you
+only have to check the sys-
+tem requirements list on
+many computer items to
+see Linux listed underneath
+Windows and Mac. Can be a
+very large pain in the arse
+when you can’t find driv-
+ers for your printer and the
+monitor refuses to show in
+high resolution; not to men-
+tion the modem is unsup-
+ported and requires chang-
+ing. Depending on your
+distribution, may require
+copious amounts of writing
+commands on a black back-
+ground to get the mouse
+working etc.
+Conclusion
+Coding boffin? Get Linux on
+an old PC and you’ll be tink-
+ering for hours.
+Pros
+Easy to use. Once installed
+and set up, which is fairly
+painless to do in most cir-
+cumstances, it’s easy for peo-
+ple of almost any technical
+background to be able to surf
+the internet, write an email
+or letter and print it out after-
+wards. You can even print
+envelopes without too much
+difficulty. Being by far the
+most widely used operating
+system for home PC users,
+it has an enormously large
+choice of software, including
+games. For the same reason,
+hardwaremanufacturerswho
+make graphics cards, sound
+cards and all the bit and bobs
+you could want to use on your
+computer have this market in
+mind when producing items
+– so all of them will work on
+Windows (well, they’re sup-
+posed to).
+Cons
+Has the largest number of
+exploits, viruses and worms
+of any of the operating sys-
+tems listed here – partly due
+to its popularity, but also due
+to poor security. As many a
+disgruntled user will know,
+crashes can be frequent, and
+frequently reinstalling can
+be required. Tends to eat
+up system resources and is
+commercial software, so the
+inner workings are protect-
+ed by Microsoft. This is the
+opposite philosophy of “open
+source” software, which
+releases its source code to
+the community. This way you
+don’t know how the software
+is written, and hence can’t fix
+bugs easily or reliably. Also
+changing system settings can
+be tiresome, and sometimes
+you don’t know what the
+machine is really doing.
+Conclusion
+Standard essay writing/gen-
+eral school use? Get yourself
+a relatively cheap PC with
+Windows.
+Pros
+Extremely lightweight,
+not at all heavy on system
+resources. Very secure,
+has least amount of serious
+bugs. Generally good hard-
+ware support. Superb serv-
+ers. NetBSD, one particular
+type of BSD, has been ported
+or transferred to run on an
+incredible range of compu-
+ter architectures (over 50)
+including Playstation 2 and
+Dreamcast. As with Linux,
+if you want to change some-
+thing on your system, such
+as your IP address or what
+system services you have,
+you’ll just have to edit one
+or two files with a command
+line editor and you’re done!
+Cons
+It’s not GUI. Well not until
+you’ve installed it, the X
+Window graphical system,
+needing to know the syn-
+chronization frequencies
+of your monitor, got your
+mouse working, installed a
+window manager, installed
+linux emulation, java under
+linux emulation, then a bloat-
+ed office package to make
+your powerpoint presenta-
+tions at the risk of grinding
+your computer to a halt. It’s
+not ideal for game playing,
+although there are a few 3D
+games available, but BSD
+based machines make great
+servers.
+Conclusion
+Coding boffin: this is the
+OS for you. Others needn’t
+apply.
+There are 3 main types
+of BSD, all derived
+from Berkeley Software
+Distribution, a split from
+UNIX System V. It’s open
+source like Linux and
+has many similarities.
+Pros
+It’s really pretty. I mean real-
+ly. Very easy to use, less com-
+plicated than any of the other
+operating systems. Stunning
+graphics, a great range of
+software and major games
+are available. With Apple,
+design is everything, and this
+is true for their operating
+system. It’s uncluttered, easy
+and straightforward to use
+so there’s less to confuse a
+novice user.
+Cons
+Expensive. Very expensive.
+You’re looking upwards of
+£1000 for a desktop, but you
+get what you pay for.
+Conclusion
+Graphic design? Mac’s your
+best option, but a good PC
+with Windows will have the
+designing software you need.
+Unlike the other operating systems listed, MacOS X only runs on Apple’s com-
+puter systems. This means to use it you have to buy their systems, which are
+expensive. Their latest operating system is based on a BSD kernel, and has
+converted many users by its beauty and the fact that it works smoothly.
+According to market reports, Microsoft’s operating systems are used on
+over 90% of home users’ computers. The latest version is Windows XP
+which in most cases you’ll be using around college and will have pre-
+installed on any new computer you buy.
+Linux is the name of the kernel, or central part, of a free operating system
+developed from 1991 by Linus Torvalds and the internet community of open
+source developers.
+

@@ -1,0 +1,110 @@
+CCHI
+Boxing Match
+This week sees the return of Scaramouche
+(first years won't remember him), in the most
+unusual puzzle I have yet seen. But let him tell
+you about it:
+Scaramouche speaks: .
+Pinocchio's been letting you off rather lightly
+recently, so to remind you of the devious .
+difficulty of some of my puzzles, here's an
+offering based on the children's game of dots
+and boxes.
+As you're probably aware, two players start
+with a grid of dots and alternately draw in lines
+joining the dots in pairs. If a player's move
+completes the fourth side of a square cell, he
+initials it and plays again. Sometimes it is
+possible to complete two cells on a move; in
+this case the player initials both boxes, but
+only gets one extra turn. The winner is the
+player to initial most boxes.
+Sound simple? Child's play? All right, then,
+as a fairly straightforward example of devious
+play, look at the position in diagram 1. A has
+just won two boxes, and has been forced to
+start a chain of five for his opponent. If B is
+greedy and takes the whole chain, he will have
+to hand back the longer chain of nine to A, and
+so will lose 5-11. On the other hand if B takes
+three of the cells in the chain, but then seals off
+its other end by completing the horizontal line
+in the bottom left hand corner, he only gives
+two cells to A who is then compelled to open
+up the chain of nine to B, resulting in a 12-4 win
+for B.
+Complete analysis of the game is hard
+(pedantically it's NP-hard for those who know
+what that means) and there are lots of
+fascinating and difficult problems which arise
+from the strategy: Diagram 2 is a case in point;
+what is the (unique) winning move from this
+position?
+Solutions, comments, criticisms to me at the
+FELIX Office by Wednesday, 1:00pm. £5 from •
+Menda-Bike for a randomly selected entry.
+Last Weeks Solution
+Last week's puzzle was rather easy, and there
+were 31 entries. Leann Jones of Maths 2 was
+the winner, and can collect her prize from the
+FELIX Office on Monday. The solution is
+shown below. Two entries are worthy of
+mention; notably Andrew Lailhamson (I think
+that's how you spell it) was the youngest
+entrant at only 11, and James Aldridge of
+Physics 2, who entered all three of the
+competitions, and also won the Superkings-2
+puzzle (and can pick up his cheque from the
+FELIX Office etc.). The Superkings answer,
+10*10, is shown below. The code was won by
+Russell Jones of Elec Eng 2, and he can pick up
+his cheque etc., the solution to which is this:
+Take all the numbers between any two
+consecutive commas, square them and add
+them, and that will give the position of the
+letter in the alphabet,
+e.g. 23,12,1114,... goes to;
+22
++32
+, l2
++22
+, l2
++l2
++l2
++42
+,.
+13, 5, 19,... goes to;
+m, e, s,
+The answer was:
+Message follows in Latin.
+Ecce Edwardus ursus nunc
+tump occipite gradus pulsante
+tophorum Robinum descendens.
+...which is of course the first sentence of
+Winnie-the-Pooh translated into Latin. Thanks
+Perola!
+goes to;
+tump-tump-
+post Chris-
+(1 19 <> 9
+1 > I
+1 i 1
+> 1
+A
+i O
+A
+• 1 i 41 «v
+Diagram 1 Diagram 2 j
+; | 1
+W W H i -re
+• •
+:r •*
+Mjji
+# ij
+H
+...
+j j:
+taw WTO m m r w w / W W J
+FELIX is published by the Editor for and on behalf of Imperial College Union Publications Board, and is printed by the Union Print Unit, Prince Consort Road, London SW7 2BB
+Tel. 01-589 5111 Ext 1048 or Internal 2881. Editor: Martin S Taylor; Business Manager: Peter A Rodgers; Advertising Manager: Nick Thexton. Copyright FELIX 1983
+

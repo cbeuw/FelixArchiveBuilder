@@ -1,0 +1,225 @@
+22
+BUBBLE GUM
+QUAKE II
+id Software
+T
+hree weeks ago possibly one
+of the most important events
+in the computer gamers'
+diary passed without a whimper
+from the press. The Quake2 beta
+was posted on ID Software's (the
+darlings of the games industry) web
+site and was quickly mirrored
+around the world. After a suitable
+period of time to deliberate, cogi-
+tate and digest on this latest offer-
+ing, the Quake community now
+speaks.
+Wolfenstein, iD's first success-
+ful game, almost single-handed
+opened up a new genre of comput-
+er gaming. The 3d-1 st-person view
+gave a much greater feeling of free-
+dom and the not so politically cor-
+rect humour made for a fresh and
+exciting game. ID then ^
+followed up by the leg-
+endary Doom which «
+•
+shifted the setting from
+a Nazi Castle to a
+futuristic base,
+dropped in a load of
+genuinely scary nasties
+and gave you a meaty
+arsenal of weapons to
+destroy them with.
+What really kept Doom
+(And all it's sequels on
+various platforms)
+going was the ability to
+'Deathmatch', to play against other
+people and, as anyone who has
+more than a passing nod with mul-
+GAMES
+tiplayer games knows, it is so much
+more satisfying to blow up some-
+one living hundreds of miles away
+who you've never met, or even bet-
+ter, your friends. What also added
+to it's longevity was the fact that
+anyone with the inclination could
+create their own levels thus ensur-
+ing that iD could focus their atten-
+tion to their next project rather than
+diverting precious resources to
+providing support for the existing
+user base.
+When it was released, Quake
+inspired a new generation of fanat-
+ics, not least because of the
+enhanced multiplayer facility but
+also because, in addition to being
+able to create your own levels you
+could also completely change the
+source code allowing programmers
+to add extra weapons and change
+the rules of the Game.
+Despite it's commercial suc-
+cess, Quake did draw criticism for
+When Quake2 was started iD
+supremo, Jon Romero became fed
+up with this policy and left to form
+Ion Storm.
+Quake 2 improves on Quake in
+many ways, at least on paper. The
+monsters are more detailed and
+not having a plot. There was a short
+story posted explaining your
+motives but basically the premise
+was, run, shoot, kill, solve puzzles.
+better animated. They are also
+smarter and provide a more gen-
+uine challenge as opposed to the
+'pump as much lead into it before it
+kills you' mentality of the original.
+The cosmetics have been
+improved; there are more colours
+on screen and the water is trans-
+parent on all computers not just
+those running OpenGL graphics
+cards and there is dynamic,
+coloured lighting. There is also a
+story line of sorts, mostly seen by
+viewing animated cut-scenes
+through a window, and to aid this
+the levels have been designed to
+represent buildings rather than
+labyrinths where the only objective
+was to get from A to B alive.
+On the down side the game is
+7 November 1997
+slower, at least on low end
+machines, not only because the
+graphics engine has been beefed
+up but also because iD have taken
+the controversial step of optimising
+the routines for high-end PCs rather
+than those with more modest sys-
+tems. Modifications
+will also be more diffi-
+cult since the old,
+easy QuakeC has
+been replaced by the
+more powerful and
+flexible but ultimately
+more difficult to pro-
+gram DLLs (Dynamic
+| Linked Libraries).
+The general reac-
+tion has been mixed.
+| People have com-
+plained that it is too
+Duke Nukem-esque
+(Quake's main rival).
+Others have countered that this
+was only a compatability test, not
+meant to represent the final prod-
+uct, others have said that it has no-
+where near the amount of "WOW"
+factor that the original did. The
+debate will continue to rage until
+the final version is released and
+probably way on past that.
+Whichever way though you can
+make up your own mind by down-
+loading it from:
+www. idsoftware. com
+If you'd like things a little faster
+then try getting it from one of the
+mirrors sites on Sunsite in the
+Department of Computing. •
+Simon
+9' Wfed'V;;
+s
+Bitmap Brothers
+Z
+is one of those games that
+you're going to love or
+you're going to hate it. At
+first sight I personally hated it, but
+after experiencing 3 hours of solid
+'battle', I loved it. The story line
+behind this game is a straightfor-
+ward one: you are the commander
+of an robot army, and the objective
+is to kick the crap out of the enemy
+and eventually destroy your
+enemy's main fortification. During
+the process of 'ass kicking', you
+have to capture pieces of territory,
+in which are factories. These facto-
+ries can make more robots and
+other goodies such as guns, tanks,
+etc.
+At the beginning of each level
+the game play is pretty tense
+:
+;
+-
+:
+.
+.
+'
+.
+v
+, 'jl! j ,:.v.
+Lkor 1
+ill i
+$ | -
+' • •
+V -K, •
+V -K, •
+though eases off a little after you
+have a sufficient number of robots
+and military vehicles to defend
+yourself. The key to success in 'Z'
+seems to be having the correct
+weapons and troops at the correct
+position and at the right time. Since
+both robots and vehicles can only
+move at an incredible slow rate,
+you could find yourself having a
+dozen or two robots being blown to
+bits before your light infantry can
+rescue you from losing your entire
+robot army.
+In general the game is quite
+easy to play: it doesn't take long to
+get the hang of the controls even
+without using the manual (the man-
+ual is quite thin and not that
+wordy). The snap shots between
+levels are quite cool and fun to look
+at, however there are few variants.
+'Z' also has a large sense of
+humour: within the game when you
+are about to lose the battle, the
+commentator of the game would
+say 'you are crap', 'you are hope-
+less' just to give your morale a
+boast.
+If I have to make a comparison
+between this game other strategy
+games, 1 would say other strategy
+games such as 'Red Alert', 'Counter
+Strike' are the legends (just like Star
+Trek Next Generation) and Z would
+be a spin-off of such a strategy
+game (similar to Star Trek Deep
+Space Nine!!!). It is definitely worth
+thinking of buying but 1 wouldn't
+place your hopes too high. O
+Ivan Chan
+
