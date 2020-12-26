@@ -205,6 +205,7 @@ output_dir = sys.argv[2]
 def process_issue(issue):
     if not os.path.isdir(os.path.join(issues_root, issue)):
         return
+    print(f"processing Issue {issue}")
     issue_content = read_issue(issues_root, issue)
     with open(os.path.join(output_dir, issue + ".json"), 'w', encoding='utf-8') as f:
         json.dump(issue_content, f, indent=2)
@@ -224,11 +225,13 @@ if __name__ == "__main__":
                     # To store it as a DatePointField, we need to add in the time
                     dates[row['issue_no']] = parsed_date.date().isoformat() + "T00:00:00Z"
 
+    issues = os.listdir(issues_root)
+    issues = filter(lambda i: int(i) >= int(sys.argv[3]) and int(i) <= int(sys.argv[4]), issues)
     if platform.system() == "Linux" or platform.system() == "Darwin":
         # Unix
         # Unix's fork() behaviour allows us to share memory for objects like date, wordcost and
         # end_hyphon with little overhead and no need to for extra python code
-        Pool().map(process_issue, os.listdir(issues_root))
+        Pool().map(process_issue, issues)
     else:
         # Windows
         # Unfortunately Window's memory model means that we can't easily multithread this
@@ -237,4 +240,4 @@ if __name__ == "__main__":
               "like Windows Subsystem for Linux, or on a Linux or Mac machine."
               "If that's not available, considering running this script on a Just-in-Time Python compiler,"
               "such as PyPy, for better performance")
-        list(map(process_issue, os.listdir(issues_root)))
+        list(map(process_issue, issues))
