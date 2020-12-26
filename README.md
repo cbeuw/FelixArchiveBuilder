@@ -4,7 +4,7 @@ This repo contains scripts used to extract and clean up texts from Felix archive
 ## extract_text.sh
 ```
 Prerequisite: Have pdftotext from Xpdf command line tools installed
-Usage: extract_text.sh [directory containing pdfs] [output directory]
+Usage: extract_text.sh [first issue inclusive] [last issue inclusive] [directory containing pdfs] [output directory]
 ```
 This bash script extracts the OCRed text from Felix archive PDFs into text documents. 
 Each issue has its own folder, in which there are text files representing pages in that issue. 

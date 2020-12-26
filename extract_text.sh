@@ -9,12 +9,14 @@ function extract_issue() {
   fi
   dest="$output_dir/$1/"
   mkdir -p $dest
-  pdftotext -raw $issue_name.pdf $dest/$issue_name.txt
 
-  pushd $dest || exit
+  echo "extracting Issue $1"
+  pdftotext -raw "$pdf_root/$issue_name.pdf" "$dest/$issue_name.txt" || exit
+
+  cd $dest || exit
   awk '{i++}length {print > i".txt"}' RS='\f' $issue_name.txt
   rm -f $issue_name.txt
-  popd || exit
+  cd ~- || exit
 }
 
 function extract_range(){
@@ -25,7 +27,7 @@ function extract_range(){
   done
 }
 
-pdf_root="${1:-./}"
-output_dir="${2:-text/}"
+pdf_root="${3:-./}"
+output_dir="${4:-text/}"
 
-extract_range 1 1737
+extract_range $1 $2
