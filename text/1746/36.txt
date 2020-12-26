@@ -1,0 +1,274 @@
+SCIENCE
+FRIDAY, 6TH
+MARCH, 2020
+science.felix@imperial.ac.uk
+28
+FELIX
+It’s a New Dawn, it’s a New Day, it’s a New…Planet?
+How About Seventeen!
+The new set of seventeen exoplanets discovered by a PhD student at the University of British Columbia even
+includes a rare ‘Earth-like’ candidate
+SCIENCE
+Christine Parry
+Science Editor
+“An important
+result will
+be finding
+a terrestial
+habitable
+zone planet
+occurrence
+rate, explains
+Prof. Jaymie
+Matthews from
+the University
+of British
+Columbia ”
+N
+ot one, but
+seventeen new
+planets outside
+our solar
+system have been dis-
+covered by astronomy
+PhD student Michelle
+Kunimoto. Her find
+adds both a possible
+‘Goldilocks’ candidate
+to the current ‘exoplanet’
+catalogue, and one that
+claims the title of the 16th
+smallest on that 4126-long
+list.
+Capitalising on data
+gathered by NASA’s
+Keplar missions, which
+explore the universe,
+searching for planets
+outside of our solar
+system, Kunimoto
+analysed information
+spanning almost 200,000
+stars. She used the transit
+method to identify these
+exoplanets, a technique
+which monitors light
+patterns around stars to
+determine if they are
+interrupted by an orbiting
+body, such as a planetary
+candidate.
+“Every time a planet
+passes in front of a star,
+it blocks a portion of that
+star’s light and causes a
+temporary decrease in the
+star’s brightness,” said
+Kunimoto, who studies at
+the University of British
+Columbia in Canada. “By
+finding these dips, known
+as transits, you can start
+to piece together informa-
+tion about the planet, such
+as its size and how long it
+takes to orbit.”
+The transit discovery
+method is one of several
+that can be used to
+identify planets – and it
+is one of the most fruitful,
+with over 3,100 exoplan-
+ets confirmed using this
+approach alone. The next
+bountiful approach, the
+radial velocity method,
+can only claim around
+700 exoplanets, watching
+instead for a change in the
+starlight wavelength that
+orbiting planets cause.
+However, Kunimoto
+took a different approach
+to previous Kepler
+analyses. “My search
+looked for planets with
+slightly lower signal-
+to-noise-ratios - weaker
+indications of planets
+- than the Kepler team
+and many previous inde-
+pendent searches.” Unlike
+the Kepler analysis,
+Kunimoto applied a
+Box-Least Squares (BLS)
+algorithm to the Kepler
+data with an associated
+signal-to-noise (S/N)
+ratio to sift the significant
+results from background
+noise, rather than Kepler’s
+wavelength-based algo-
+rithm with its Multiple
+Event Statistics (MES)
+detection method. The
+BLS algorithm allowed
+her to lower the noise
+floor, set at an S/N value
+of > 6 compared with
+the Kepler MES ratio of
+7.1. “This improved my
+pipeline’s sensitivity to
+candidates that are both
+small and have long
+orbital periods.”
+And it paid off with
+the discovery of KIC-
+11350118c, which
+measures in at just slightly
+bigger than Mars and is
+one of the smallest to be
+identified – the sixteenth
+smallest identified from
+the Kepler data so far. But
+it wasn’t as easy as all that
+sounds; Kunimoto’s initial
+analysis found 130,312
+signals that met the S/N
+criteria, which needed to
+be whittled down to those
+final 17 planets, by sub-
+jecting them to a barrage
+of vetting procedures,
+digital and manual, to
+discard the false positives.
+Kunimoto also teamed
+up with a UBC alumni,
+Henry Ngo, to use
+Near InfraRed imaging
+captured by the Gemini
+North telescope in Hawaii
+on the stars of interest.
+By taking high-resolution
+adaptive optics images of
+the stars, Kunimoto had
+the resolution to differ-
+entiate between clusters
+of stars and individual
+light sources, something
+the Kepler data, taken
+with a lower resolution
+telescope, could not do.
+This allowed her to rule
+out false positive transit
+signals, like those from
+eclipsing binary stars
+– a set of two stars that
+appear, at low resolution,
+as a single point of light,
+but can eclipse each other
+and mistakenly be read as
+a transit signal like that of
+an orbiting planet.
+Something of a veteran
+planet hunter, Kunimoto
+has already notched up
+four planet discoveries in
+her undergraduate days.
+Bringing her total up to
+21, the findings, recently
+published in The Astro-
+nomical Journal, identify
+17 new exoplanets – and
+one of particular interest.
+Catchily named KIC-
+7340288b, it joins the
+handful of exoplanets
+discovered to date that
+tick the vital ‘Goldilocks’
+boxes; like Earth, based
+on its radius, it’s likely
+rocky instead of gaseous
+(like the gas giant Jupiter),
+and also sits within the
+habitable zone of its star,
+meaning temperatures
+that could allow liquid
+water at the surface. As
+Kunimoto describes it,
+“this is a really exciting
+find, since there have only
+been 15 small, confirmed
+planets in the habitable
+zone found in Kepler data
+so far.”
+About 1.5 times the
+size of Earth, KIC-
+7340288b sits 0.444
+astronomical units from
+its star (about the distance
+of Mercury from the Sun)
+and completes an orbit in
+just 142.5 Earth days. The
+largest of these 17 new ex-
+oplanets is eight times the
+size of the earth, while at
+the other end of the scale,
+five measure up smaller
+than Earth, rounding up
+with KIC-11350118c as
+the smallest.
+The Kepler mission
+was started primarily to
+identify more of these
+Goldilocks planets.
+Kunimoto and her PhD
+supervisor hope to
+continue using Kunimo-
+to’s approach to re-an-
+alyse the Kepler census
+of current exoplanets,
+adding a much-needed
+layer of confirmation. In
+the future, however, they
+want to start drilling into
+the data for more than just
+confirmation purposes.
+“We’ll be estimating
+how many planets are
+expected for stars with
+different temperatures.
+A particularly important
+result will be finding a
+terrestrial habitable zone
+planet occurrence rate.”,
+explains Professor Jaymie
+Matthews, Kunimoto’s
+PhD supervisor. “How
+many Earth-like planets
+are there?”
+With data like that,
+NASA can optimize
+future space surveying
+projects, and, importantly,
+plan a more targeted
+mission to gather data on a
+habitable zone exoplanet.
+As Kepler gathered data
+on very distant stars, once
+the occurrence rate for a
+habitable zone planet is
+known, NASA can judge
+the likelihood of finding
+one in a much nearer
+location – and plan for
+that rather than a mission
+to a planet thousands of
+light years away.
+With findings like
+these, that mission might
+not be all that far, far
+away after all.
+The 17 newly discovered planets, with Mars, Earth, and Neptune included for scale.
+The green planet is the habitable zone planet KIC-7340288b. // Michelle Kunimoto
+

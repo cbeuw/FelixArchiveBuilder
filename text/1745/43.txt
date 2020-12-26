@@ -1,0 +1,168 @@
+ISSUE 1745
+FELIX
+43
+PUZZLES fsudoku@imperial.ac.uk
+
+
+WORD PYRAMID
+Each row is an anagram of the previous, plus or minus
+one letter.
+Clues: When swings swing doubly (2) - Dahl’s Friendly
+Giant (3) - Slick (4) - Much o_____d (5) - Household rats
+(6) - One of 4 main archangels (7) - The ability to be
+reached by telephone (8) - That can be dismissed (9) -
+Original anagram of biregional (10) - Reflux (9) - System
+of beliefs (8) - Bubbling (7) - Start (6) - Crotch (5) - French
+black (4) - Charged part (3) - Input + output (2)
+   
+    
+    
+      
+  
+  
+      
+    
+    
+   
+SLITHERLINK
+The numbers represent
+the number of corners
+that are used to make a
+shape on this grid. Join up
+all the points with lines to
+make this shape!
+MASTERMIND
+Special thanks goes to DoC’s DuncanWhite, who has very kindly developed the code to generate
+Mastermind puzzles like these, along with their relevant graphics for us to use!
+Instructions:
+Try to guess a secret code of colours in a specific order.
+A black peg indicates a correct colour in the correct position. Of course, you are not told with
+position(s) contain the correct colour, simply how many positions contain the correct colour.
+A white peg indicates a misplaced colour - the correct colour but in a different position! A few
+guesses have already been given, leadinng to a unique solution!
+There are easier variations with more examples at:
+https://www.doc.ic.ac.uk/~dcw/Mastermind.pdf
+Possible colours := {Yellow, Pink, Blue, Green, Red}
+1
+2
+3
+4
+Y P B G B
+R G G G P
+R G R G Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ 
+
+NONOGRAM
+Colour in some of the squares to make a picture. Each number repre-
+sents a block of consecutive black squares within that row/column.
+Each block needs to be separated by at least one white square.
+

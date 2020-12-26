@@ -1,0 +1,260 @@
+ISSUE 1741
+FELIX
+5
+COMMENT comment.felix@imperial.ac.uk
+Should the UK allow Huawei to build our 5G
+infrastructure?
+Comment writer Andy Wang argues that giving Huawei a role in our telecoms infrastructure is
+not simple a question of national security but also a moral one
+COMMENT
+Andy Wang
+Comment Writer
+O
+n Tuesday
+Boris Johnson
+approved the
+use of Huawei
+equipment in “non-core”
+parts of UK’s brand new
+5G infrastructure, on the
+advice from British se-
+curity services that “all
+risks are manageable”.
+This makes the UK one
+of two Five-Eye coun-
+tries which didn’t issue a
+blanket ban on Huawei’s
+involvement in network
+infrastructure; it also
+aligned the UK with
+many EU countries, like
+France and Germany,
+who welcomed technical
+involvement from the
+Chinese telecommuni-
+cation giant.
+This decision came
+after intense lobbying by
+the US, urging the UK to
+ban Huawei from having
+a role in the development
+of its next generation 5G
+telecoms network . Trump
+used several different
+official channels to try
+to convince or threaten
+British officials to drop
+their plan of opening the
+doors to Huawei. Unlike
+American counterparts,
+UK security agencies
+have long been cautiously
+optimistic about Huawei’s
+involvement in the UK’s
+communication backbone.
+GCHQ, the British
+signals and communica-
+tions monitoring agency
+has audited Huawei’s
+products over the last
+several years. Reading
+their published annual
+report from 2019, one
+would think that Huawei
+is simultaneously Su-
+pervillain number one
+who epitomises the art
+of covert surveillance
+and utterly incompetent
+without the competency
+to hide any backdoor at
+all. The report lambasted
+Huawei’s code quality and
+questioned their “basic
+engineering competence”.
+In a single version of
+Huawei’s firmware, the
+auditors discovered 70
+duplicate copies of 4
+different versions of the
+same dependency library
+critical for cryptographic
+operations, OpenSSL,
+with the oldest one orig-
+inally written 20 years
+ago. In any case, GCHQ
+provided “limited assur-
+ance” that Huawei does
+Huawei’s 5G network
+devices aren’t capable of
+snooping on the content
+of private communica-
+tions over the internet.
+Ironically, all three past
+Home Secretaries have
+expressed a desire to ban
+end-to-end encryption
+because it “protects
+terrorists” – displaying a
+shocking lack of cyberse-
+curity knowledge.
+So, it’s all well and
+good and we can all
+enjoy the world’s most
+advanced 5G technology
+right? Absolutely not.
+Disappointingly, the
+spirited debate on Huawei
+has focused almost ex-
+clusively on the national
+security aspect, with
+ethical considerations
+tossed aside. When Face-
+book’s dodgy business
+with Cambridge Analyt-
+ica was exposed, Mark
+Zuckerberg became the
+pariah of the Internet and
+people were vocal about
+boycotting Facebook
+(how many actually did,
+of course, was a different
+story). While Huawei’s
+ethical deficit far exceeds
+what Facebook could
+ever have done, they have
+largely dodged the public
+spotlight.
+Several years ago,
+Cisco came under fire for
+providing network devices
+to a Chinese censorship
+programme. Now the
+Chinese government has
+sought cooperation from
+Huawei and the capability
+of the Great Firewall has
+increased rapidly over the
+last few years. It is now
+by far the world’s most
+sophisticated censorship
+and mass surveillance
+programme, monitoring
+all outbound internet
+traffic in real-time. As in-
+dicated in leaked Xinjiang
+documents obtained by
+International Consortium
+for International Journal-
+ists (ICIJ), visiting too
+many foreign websites is
+a sufficient transgression
+against the regime to be
+thrown into a re-education
+camp.
+Much like the Metro-
+politan Police recently,
+Huawei is also quite
+enthusiastic about the
+use of automated facial
+recognition. Huawei is a
+major provider both of the
+technology itself and the
+supporting network equip-
+ment for AFR cameras,
+which has been deployed
+across China. One of the
+possible uses for Huawei
+products advertised on
+their website is tracking
+people’s movements
+across multiple cameras
+in real-time, obtaining
+the subject’s identity and
+exactly where the person
+has been at precisely what
+time. With Huawei’s help,
+the Chinese dystopian
+reality may soon render
+Charlie Brooker’s Black
+Mirror fantasy into
+mundane thriller.
+More broadly, Huawei
+is just one of many pawns
+that willingly facilitated
+China’s moral race to the
+bottom since Xi’s rise to
+power. While perhaps at-
+titudes towards China are
+still positive relative to the
+international treatment of
+apartheid-era SouthAfrica
+that experienced sports
+boycotts, Olympics expul-
+sion and disinvestments,
+the CCP has gotten away
+with its behaviours too
+easily. Huawei’s success
+at gaining a foothold in
+the UK market is yet more
+material to be used by the
+CCP in the whitewashing
+and moral laundering of
+its way of governance.
+The British response
+should be an alarm bell,
+a loud and clear call that
+we are not fine with those
+who rub shoulders with
+repressive regimes.
+Code can be audited,
+vulnerability can
+be fixed, backdoors
+can be discovered,
+and hardware can be
+replaced; but you can’t
+patch a moral vacuum.
+The profit Huawei will
+make from the UK
+market will come out of
+the pockets of ordinary
+Brits, and much of it
+will be invested into
+surveillance, censorship
+and suppression. Cheap
+and fast 5G, as won-
+derful as it is, cannot
+justify the position
+we find ourselves in. I
+hope very much I’ll be
+proven wrong, but the
+government’s decision
+may well be one we’ll
+all come to regret.
+They do more than just phones // www.vpnsrus.com
+“Huawei is
+just one of
+many pawns
+that willingly
+facillitated
+China’s moral
+race to the
+bottom since
+Xi’s rise”
+not pose a serious security
+threat.
+Given the fact that
+Huawei’s software is full
+of vulnerable code, and
+that China is an “adver-
+sarial state actor”, it is
+difficult to ask the public
+to trust Huawei with their
+private information. The
+good news is: we don’t
+need to. Thanks to end-
+to-end encryption based
+on open standards, open
+source implementations
+and open collaborations,
+

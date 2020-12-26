@@ -1,0 +1,187 @@
+KEEP THE CAT FREE
+SCIENCE
+Science.felix@imperial.ac.uk Felixonline.co.uk
+12
+New NHS contact tracing app released
+- a hopeful second attempt
+After a partially failed first attempt
+back in June, the second NHS
+COVID-19 contact tracing app, re-
+leased on 24th September, has garnered
+over 10 million downloads.
+An automated contact tracing app pe-
+riodically monitors and registers a user’s
+contact with another individual (either
+known or unknown) by broadcasting
+and receiving a key code composed
+of a random set of characters through
+Bluetooth Low Energy. This key code
+is changed regularly to maintain the
+anonymity of the user, and a list of past
+key codes is stored locally. Additionally,
+an encounter list tracks the codes of
+registered contacts. Users can log their
+COVID-19 test results in the app, and
+if the result indicates a positive, then
+an alert is generated for those on the
+encounter list, who are then instructed
+to self-isolate to limit transmission.
+The new NHS app takes a decentral-
+ised approach and uses the Exposure
+Notification API, a toolkit collabora-
+tively developed by Apple and Google.
+This approach aims to prioritise
+user privacy and anonymity
+by processing user in-
+formation locally
+to generate
+exposure
+alerts.
+In con-
+trast, the first
+attempt took
+a centralised ap-
+proach where user
+data is uploaded to
+and processed by a cen-
+tral NHS server. While
+this allows the NHS to
+accumulate a rich dataset
+that could be analysed by ep-
+idemiologists, privacy concerns
+and security vulnerabilities were
+felt to outweigh the benefits. Inter-
+estingly, the first app has been shown
+to work on a greater number of older
+devices and is more accurate in measur-
+ing the contact distance. However, the
+app was forced to circumvent Apple’s
+privacy measures to avoid background
+Bluetooth activity, but even this custom
+solution had a few bugs. Considering
+Apple’s strict App Store policies,
+this app was at a high risk of being
+rejected for publication regard-
+less, so the UK government set
+to work on the development
+of the second application
+in parallel that used
+the Apple-Google
+toolkit.
+Accuracy
+while respect-
+ing privacy
+is the main
+aim of
+decen-
+tralised
+contact
+trac-
+ing apps.
+However, recent
+reports have shown the
+app to sacrifice the accura-
+cy aspect with false readings of close
+contact and disappearing exposure
+notifications caused by bugs in the Ap-
+ple-Google API.
+The effectiveness of this second appli-
+cation in slowing the pace of the virus is
+yet to become clear. Experts have mixed
+opinions on how automated contact
+tracing can help reduce transmission.
+For example, a study from Oxford
+indicates that even low levels of app
+adoption would help save lives, whereas
+one from UCL found that large scale
+adoption of the app and integration
+with a public health response is crucial
+for any significant impact. However,
+both studies agree that automated
+contact tracing can indeed complement
+manual contact tracing.
+Despite an unsuccessful first at
+tempt, it is commendable that the NHS
+immediately began work on a second
+app in parallel with instead of in oppo-
+sition to technology giants. If it were
+the latter, it could’ve potentially led to
+a much worse situation. With COV-
+ID-19 cases on the rise in the UK we
+can only hope that this new app will
+make a significant difference.
+In order to put an end to the glob-
+al coronavirus pandemic, researchers
+around the world are working tire-
+lessly to develop a vaccine to protect
+against COVID-19. While vaccine
+production usually takes multiple
+years, a coronavirus vaccine is hoped
+tobedevelopedwithin12-18months.
+Vaccine testing can be split into 5
+stages:
+Pre-clinical – animal testing to see
+whether the vaccine elicits an immune
+response.
+Phase I – healthy human volunteers
+to determine safety and evaluate im-
+mune response.
+Phase II – hundreds of volunteers to
+identify correct dosage.
+Phase III – thousands of volunteers
+to confirm safety and efficacy vs. a
+placebo.
+PhaseIV–studiesonadverseeffects,
+long-termmmunityandvaccineusage
+following the approval and licensing
+of the vaccine.
+The WHO is currently tracking the
+progress of over 170 candidate vac-
+cines; at Felix, we’ve chosen 5 of the
+most promising candidates to follow,
+so watch this space!
+New Update: Last week, new results
+of the Pfizer/BioNTech vaccine clin-
+ical trial were published in Nature,
+showing that the vaccine can induce a
+robust immune response.
+COVID-19 VACCINE TRACKER: Felix Edition
+Julia Dabrowska Science Editor
+Sudarshan Sreeram Tech Editor tively developed by Apple and Google.
+This approach aims to prioritise
+user privacy and anonymity
+by processing user in-
+formation locally
+to generate
+exposure
+trast, the first
+a centralised ap-
+proach where user
+and processed by a cen-
+tral NHS server. While
+idemiologists, privacy concerns
+felt to outweigh the benefits. Inter-
+estingly, the first app has been shown
+privacy measures to avoid background
+Bluetooth activity, but even this custom
+solution had a few bugs. Considering
+Apple’s strict App Store policies,
+this app was at a high risk of being
+rejected for publication regard-
+less, so the UK government set
+to work on the development
+of the second application
+in parallel that used
+aim of
+decen-
+tralised
+contact
+trac-
+ing apps.
+However, recent
+reports have shown the
+app to sacrifice the accura-
+cy aspect with false readings of close
+contact and disappearing exposure
+Photo credits: NHS/Sudarshan Sreeram
+

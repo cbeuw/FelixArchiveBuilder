@@ -1,0 +1,361 @@
+Mild cZeus
+16
++
+720
+×
+72
+×
+840
+×
+504
+×
+294
+×
+2401
+×
+294
+×
+18
+×
+288
+×
+36
+×
+8
+×
+36
+×
+36
+×
+360
+×
+36
+×
+63
+×
+63
+×
+378
+×
+150
+×
+6
+×
+30
+×
+210
+×
+42
+×
+42
+×
+360
+×
+15
+×
+28
+×
+25
+×
+48
+×
+6
+×
+45
+×
+8
+×
+8
+×
+32
+×
+16
+×
+2
+×
+Medium cZeus Hot cZeus
+Last Week’s Answers
+Gogen
+Write letters into each circle to form the listed words.
+Letters can be linked by moving between adjacent cells
+horizontally, vertically or diagonally in any direction. You
+may use each letter in the alphabet only once.
+Rules
+cZeus is a mathematical
+puzzle formed of four
+simple rules - follow
+this QR code for an
+explanation of how it
+works.
+Felix is proud to announce a new type of puzzle. Never before seen in a newspaper in
+the world, cZeus was developed by the Mathematical Games company and provided to
+Felix.
+M Y V
+J A H
+P C Q
+Rules
+Clues
+COAXINGLY - ELBOW - FJORD - LAKE -
+PROBLEM - SHINGLE - SQUAB - VIADUCTS
+- VILE
+A
+F
+R
+I
+C
+A
+N
+B
+L
+U
+N
+T
+D
+E
+I
+I
+R
+N
+E
+V
+E
+N
+U
+S
+G
+R
+I
+S
+T
+L
+E
+E
+T
+H
+T
+I
+N
+M
+E
+A
+T
+B
+A
+L
+L
+A
+T
+F
+M
+N
+L
+N
+U
+N
+R
+I
+P
+E
+U
+N
+B
+E
+N
+D
+R
+A
+I
+I
+D
+R
+E
+C
+A
+R
+D
+I
+G
+A
+N
+O
+T
+I
+D
+S
+G
+P
+A
+U
+N
+C
+H
+Y
+R
+A
+L
+L
+Y
+E
+R
+A
+L
+O
+O
+N
+W
+H
+E
+E
+L
+L
+O
+T
+T
+E
+R
+Y
+6 1
+1 1
+1 3
+288
+×
+16
+×
+30
+×
+6 8
+8 2
+2 5
+26
++
+28
++
+3 9
+9 9
+9 5
+13
++
+13
++
+9
+×
+63
+×
+63
+×
+180
+×
+3 7
+7 4
+4 1
+H T X J M
+D A N I U
+V G R C Q
+Y P L E K
+S F B O W
+KEEP THE CAT FREE
+PUZZLES
+fsudoku@imperial.ac.uk Felixonline.com
+34
+8 1
+1 4
+4 6
+16
+×
+96
+×
+72
+×
+48
+×
+2 6
+6 3
+3 8
+15
++
+162
+×
+3 9
+9 1
+1 7
+9
+×
+70
+×
+3 10
++
+7
+7 12
++
+5
+5 2
+1 6
+×
+6
+6 2
+2 10
+×
+5
+144
+×
+192
+×
+60
+×
+3 8
+8 2
+2 3
+9
++
+24
++
+378
+×
+21
+×
+6 5
+5 9
+9 7
+10
++
+9
++
+9
++
+25
++
+4 4
+4 32
+×
+8
+8 8
+×
+1
+8 1 5 9 4 7 2 3 6
+4 7 6 8 3 2 9 1 5
+2 9 3 6 1 5 8 4 7
+3 6 2 4 7 9 1 5 8
+9 8 7 1 5 3 6 2 4
+1 5 4 2 6 8 7 9 3
+6 4 8 5 2 1 3 7 9
+7 2 9 3 8 4 5 6 1
+5 3 1 7 9 6 4 8 2
+6 7 3 9 1 5 8 2 4
+5 8 4 2 7 3 1 9 6
+2 9 1 8 4 6 7 5 3
+7 3 9 4 5 2 6 1 8
+4 5 6 3 8 1 9 7 2
+8 1 2 6 9 7 3 4 5
+3 6 5 1 2 9 4 8 7
+1 2 8 7 3 4 5 6 9
+9 4 7 5 6 8 2 3 1
+9 5 1 6 7 4 3 8 2
+2 3 8 9 5 1 4 6 7
+4 7 6 2 8 3 5 9 1
+7 1 9 3 6 8 2 5 4
+3 6 5 4 9 2 7 1 8
+8 4 2 5 1 7 9 3 6
+5 8 3 7 4 6 1 2 9
+1 2 4 8 3 9 6 7 5
+6 9 7 1 2 5 8 4 3
+

@@ -1,0 +1,249 @@
+ISSUE 1740
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+37
+It’s Alive! Make Way for The Frobots As Robotics
+Comes to Life
+Scared of robots taking over their creators and destroying the world? With frog cells used to make the first
+living robots, your nightmare may be one step closer to reality
+SCIENCE
+Julia Dabrowska
+Science Editor
+“[the
+xenobots] are
+able to survive
+for days or
+weeks without
+any additional
+nutrients”
+S
+tem cells have ex-
+ponentially risen
+in popularity for
+a variety of uses,
+predominantly in the field
+of regenerative medicine.
+Harnessed to treat dis-
+eases including macular
+degeneration, spinal cord
+injury, diabetes, rheuma-
+toid arthritis, and skin
+damage, amongst others,
+the incredible potential
+of these cells comes from
+their ability to self-renew
+and differentiate into
+specific cell types. While
+most types of adult cells,
+once damaged, cannot
+regenerate, or can do so
+only in fixed states and
+conditions, stem cells can
+give rise to many other
+cell types and can promote
+the repair responses of
+diseased or injured tissue.
+However, it now seems
+that stem cells have
+broader applications than
+traditional regenerative
+medicine. Last week, re-
+searchers at the University
+of Vermont and the Allen
+Discovery Center of Tufts
+University revealed their
+use of stem cells, taken
+from African clawed
+frogs, to create the first
+living robots. The paper,
+published in the Pro-
+ceedings of the National
+Academy of Sciences,
+names these xenobots
+after the species they are
+made from (Xenopus
+laevis). While robots are
+usually made from metal
+or plastic for strength,
+resistance, and durability,
+these materials also carry
+drawbacks, including
+harmful ecological and
+health-related side effects.
+Lacking these same draw-
+backs, living robots also
+possess multiple other
+benefits: in addition to
+self-renewal, and healing
+their own wounds, they
+also disintegrate upon
+completion of their
+programmed task. Much
+like any other natural
+organism, these xenobots
+will die and decay at the
+end of their lifespan.
+In the future, applica-
+tions of these robots may
+include drug delivery,
+clearance of arterial
+plaques, location and
+digestion of toxic or
+radioactive materials,
+and even removal of mi-
+croscopic-sized pollution
+from oceans.
+“These are entirely
+new lifeforms. They have
+never before existed on
+Earth,” said Michael
+Levin, the director of the
+Allen Discovery Center
+at Tufts University in
+Medford, Massachusetts,
+to the Guardian. “They
+are living, programmable
+organisms.”
+The robots are largely
+designed by an algo-
+rithm, highlighting the
+prevalence and utility of
+computational techniques
+in biology. A computer
+program generates
+random 3D configurations
+of 500 to 1000 passive
+skin cells, and active, con-
+tracting heart cells, which
+are then tested virtually
+for properties such as their
+ability to move and propel
+forwards in a certain di-
+rection, aggregate around
+foreign objects, displace
+objects, or a combination
+of these.
+The heart cells in this
+cell mixture act like min-
+iature engines, driving the
+robots along for up to ten
+days before death, while
+the skin cells provide the
+formation of an organ-
+ised structure. The most
+promising candidates are
+then shortlisted, and used
+to make more similar
+designs, with the process
+repeating for 100 genera-
+tions, until only a selected
+few remain. These tiny
+robots, of <1mm, are then
+finally constructed in the
+lab, using skin and heart
+cells from the embryos of
+the African clawed frogs.
+Scientists’ ability to
+create novel lifeforms is
+currently limited to genet-
+ically modifying existing
+organisms, or performing
+tissue engineering in
+vitro. Although syn-
+thetic organoids and 3D
+bioengineered scaffolds
+are the most promising
+endeavours, it is difficult
+to predict the behav-
+ioural impacts of these
+arbitrary constructions.
+Therefore, the creation
+of these robots opens up
+new avenues: while the
+robots are currently very
+small, the ultimate plan is
+to scale them up and use
+them as the first step in
+designing bespoke living
+organisms. Moreover, at
+present, to keep the frog
+cells alive, the robots need
+to be placed in dishes of
+water, they are then able
+to survive in these con-
+ditions for days or weeks
+without additional nutri-
+ents. By building these
+xenobots out of mamma-
+lian cells instead, it would
+be possible for them to
+survive on dry land, and
+they could be built using
+blood vessels, nervous
+systems and sensory cells
+(to form basic eyes), in-
+creasing their complexity
+and hence applicability.
+As do all experiments
+relating to stem cells,
+this research raises
+ethical concerns relating
+to their use, but also the
+fact that future variants
+of the xenobots may
+have nervous systems,
+and thus be selected for
+cognitive capability.
+Questions about at which
+point moral consideration
+should be given to these
+beings also arise – should
+they be classified as living
+creatures, or machines?
+However, despite the
+initial thought one may
+have (or may have had
+following the subhead-
+ing…), it is unlikely that
+these xenobots will pose
+a threat to humankind any
+time soon, as although
+they demonstrate novel
+functions, they are little
+more than simply an
+aggregates of cells, with
+no capabilities of repro-
+duction or evolution.
+In addition to the
+previously mentioned
+applications, the work
+also intends to utilise the
+xenobots in helping sci-
+entists understand human
+life. “The aim is to under-
+stand the software of life,”
+Levin told the Guardian.
+“If you think about birth
+defects, cancer, age-relat-
+ed diseases, all of these
+things could be solved
+if we knew how to make
+biological structures, to
+have ultimate control over
+growth and form.”
+And, who knows?
+Maybe, despite the horror
+stories of world domina-
+tion, rather than destroy,
+robots will save human-
+kind after all.
+Embryonic frog stem cells used to make the xenobots // NY Post
+“(...) the
+ultimate plan
+is to scale
+them up as
+the first step
+in designing
+bespoke living
+organisms”
+

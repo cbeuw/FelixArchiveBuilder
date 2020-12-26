@@ -1,0 +1,197 @@
+SCIENCE
+FRIDAY, 28TH
+FEBRUARY, 2020 FELIX
+science.felix@imperial.ac.uk
+28
+Artificial Intelligence: The First Step to Tackling
+Antibiotic Resistance?
+Artificial it may be, but the benefits of AI are definitely real, as researchers from MIT have identified a powerful
+new antibiotic using machine learning
+SCIENCE
+Julia Dabrowska
+Science Editor
+“[...] increasing
+numbers of
+pathogenic
+bacterial
+strains develop
+resistance to
+not only one,
+but even all,
+antibiotics”
+A
+rtificial intel-
+ligence (AI) is
+widely used in
+a multitude of
+technological, scientific
+and business applications,
+including automation,
+natural language process-
+ing and data analytics
+to list a few. However,
+while it is currently being
+used for the analysis of
+relationships between
+prevention, diagnosis
+or treatment techniques
+and patient outcomes,
+the potential of AI in
+medicine has an expanse
+of directions in which it
+can further develop.
+Only last week, re-
+searchers from Massachu-
+setts Institute of Technol-
+ogy (MIT) revealed they
+had harnessed the powers
+of machine learning to
+identify a promising new
+antibiotic compound
+that can kill many of the
+world’s most problematic
+disease-causing bacteria.
+Importantly, tested in the
+laboratory and in two
+different mouse models,
+the new compound also
+worked against those
+resistant to all currently
+known antibiotics.
+The computer model
+used in their research, pub-
+lished in Cell, can screen
+more than 100 million
+chemical compounds
+in just a few days, and
+was designed to identify
+potential candidates for
+antibiotics that would kill
+bacteria using different
+mechanisms than those of
+existing drugs.
+“We wanted to develop
+a platform that would
+allow us to harness the
+power of artificial intel-
+ligence to usher in a new
+age of antibiotic drug
+discovery,” says James
+Collins, the Termeer
+Professor of Medical
+Engineering and Science
+in MIT’s Institute for
+Medical Engineering and
+Science and Department
+of Biological Engineer-
+ing.
+Over the past few
+decades, development
+of new antibiotics has
+stagnated, with most new
+treatments being simply
+altered variants of existing
+drugs. Moreover, the
+development of new anti-
+biotics is extremely costly
+and time consuming, so
+the rising capabilities of
+AI could significantly
+improve drug discovery.
+The importance of this
+is even greater in the
+emerging era of antibiotic
+resistance, as increasing
+numbers of pathogenic
+bacterial strains develop
+resistance to not only one,
+but multiple, and in some
+cases even all, antibiotics.
+The concept of usingAI
+for this is not new – due
+to insufficient accuracy,
+earlier AI methods were
+not appropriate for use for
+in silico drug discovery. In
+this study, the researchers
+focused on targeting E.
+coli, training the model on
+around 2,500 molecules,
+including around 1,700
+FDA-approved drugs
+with diverse structure and
+function, and tested it on
+a library of over 6000
+compounds. The molecule
+chosen for its strong anti-
+bacterial activity, novel
+structure and low toxicity
+was named halicin, and
+was shown to be effective
+against virtually every
+species tested (including
+commonly resistant C.
+difficile, and M. tuber-
+culosis), bar one lung
+pathogen, in laboratory
+tests. It was also success-
+ful in mice infected with
+A. baumanii, a bacterial
+strain resistant to all
+known antibiotics.
+The mechanism by
+which halicin is thought
+to kill bacteria is through
+disruption of the electro-
+chemical gradient across
+the cell membrane, inhib-
+iting adenosine triphos-
+phate (ATP) production,
+the molecule responsible
+for providing vital energy
+in cells, thus inducing cell
+death. This is difficult to
+develop resistance to as
+it would require multiple
+mutations to combat,
+and likely need sustained
+evolutionary change, thus
+highlighting an area for
+further exploration.
+In the future, the team
+want to examine halicin
+further, with hopes of
+collaborating with a phar-
+maceutical company for
+potential use in humans.
+The team also identified
+eight other promising anti-
+bacterial candidates using
+this AI model, which will
+be tested further in the
+future, as well as develop-
+ing other functionalities of
+the model, such as more
+precise targeting of path-
+ogenic, but not beneficial,
+bacteria in the patients.
+It is also hoped that it
+will be able to design
+new drugs, based on
+what it has learned about
+the common chemical
+structures within drugs
+and the effects they have.
+Ultimately, it is clear that
+AI has come a long way
+from playing checkers
+and chess to combatting
+antibacterial resistance –
+and we’re one step closer
+to finally catching up.
+Bacterial cultures on a Petri dish // Medical News Today
+We want you – yes, you!We’re looking for writers, photographers, editors, illustrators, reporters, computer experts
+and grammar nerds to join our team. No experience needed – we’ll teach you everything you need to know. If
+you’re interested, send us an email on felix@ic.ac.uk
+Felix is recruiting!
+

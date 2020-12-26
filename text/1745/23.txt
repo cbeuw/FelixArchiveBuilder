@@ -1,0 +1,329 @@
+ISSUE 1745
+FELIX
+TECH technology.felix@imperial.ac.uk
+23
+Building Your Own Computer, Part 1
+Join the Editor-in-Chief in a weekly mini-series through his first build and what pitfalls to look out for ...
+TECH
+Henry Alman
+Editor-in-Chief
+B
+uilding my
+own PC has
+been in the
+back of my
+mind for a while now,
+but it was always
+rather daunting. I think
+a few people reading
+this – being far more
+tech-savvy than myself,
+I am sure – might find
+that a little amusing,
+but I also think a lot of
+people feel the same
+way. It’s a relatively
+complex thing, filled
+with reams of jargon,
+compatibility issues, and
+of course the perceived
+risk of making a mistake
+and frying your new
+expensive hardware.
+I think that penulti-
+mate word – ‘expensive’
+– is part of what scares
+people away, rather than
+the complexity. It’s the
+same reason I’ve never
+really learned to cook
+a steak properly. It’s
+not that it’s enormously
+complicated, but that the
+financial cost of failure
+is high if I burn it to hell.
+I’d rather take the risk
+of ruining something
+cheap, and learning to
+cook that.
+However, as I’m
+learning, if you’re
+careful and systematic
+about the way you
+approach your build, it’s
+not that bad – and you
+can save yourself more
+than a couple of quid if
+you buy parts yourself,
+rather than getting
+something customised
+online or, God forbid,
+buying a premade.
+Now there are a
+couple of caveats here.
+You won’t have tech-
+nical support should
+something go wrong,
+for example, and your
+warranty coverage is
+somewhat more limited,
+as it will only address
+failures of individual
+components. For uni
+components, from ebay
+to Facebook market-
+place to Gumtree. While
+you can find some
+great deals, there is an
+obvious risk: you have
+no guarantee the items
+will work, or whether
+they are on their last
+legs.
+For this reason,
+there are a few parts
+to only ever buy new,
+and they’re those that
+(should they get a bit
+wobbly) are more likely
+to damage your system
+as a whole. Namely, the
+power supply and moth-
+erboard. I’d also advise
+getting your data storage
+new, especially if it is a
+mechanical harddrive,
+as often a good deal
+on used drives implies
+they’ve been thrashed
+pretty hard in some
+server setup. Lastly, if
+you’re going to buy used
+parts, make sure you
+have an opportunity to
+test them – ask the seller
+if they can set it up for
+you so you can run some
+benchmarks. Failing
+that, go to ebay, where
+they have a 30-day mon-
+ey-back guarantee on
+items that don’t match
+their description.
+Now there’s a good
+word – ‘benchmarks’.
+Best explain that, too.
+Benchmarking is
+the practice of using
+software suites to
+test the performance
+of your system, or of
+individual components.
+They’re often the best
+way, realistically, to
+tell what components
+are ‘good’ in terms of
+performance and which
+are not. Online databas-
+es of benchmarks can
+be used to compare and
+contrast components
+and systems.
+Which benchmarks
+you use will depend
+on both what you want
+to test, and what your
+system is designed for.
+Some popular examples
+for gaming benchmarks
+include the 3DMark
+suite, which conducts
+test on the graphical per-
+formance and physics
+calculations of your
+computer, or Cinebench,
+which is a CPU-oriented
+test that examines how
+quickly your computer
+can render a hyper-re-
+alistic image. Another
+is Prime95, which is
+designed essentially
+to test the stability of
+your system and the
+effectiveness of your
+cooling by performing
+a ‘torture test’ on your
+CPU – in other words,
+putting it under full load
+and seeing how high it
+can crank up your tem-
+peratures.
+T e m p e r a t u r e s ,
+voltages, and so on of
+your components can
+be monitored using
+free software like
+HWiNFO64. If it’s not
+clear – high tempera-
+tures are bad, as they
+can damage components
+or, failing that, cause
+your system to throttle
+the performance of your
+components so as to
+avoid damage.
+Another type of
+benchmark are ‘re-
+al-life’ ones. For gaming
+especially, there is an
+abundance of YouTube
+videos and online
+articles that directly test
+the frames-per-second
+in various games of dif-
+ferent components and
+systems.
+Lastly, I want to
+discuss budget vs.
+performance. This is
+always hard to weigh-up
+– is adding £20 to
+your budget to get that
+slightly better processor
+worth it?
+The best way to look at
+it, I think, is in terms of:
+● What you need from
+your system. Build to the
+minimum that you need,
+or rather the minimum
+you are likely to need in
+the next couple of years.
+Don’t spend on perfor-
+mance you won’t actually
+utilise – if you’re a gamer
+but all you play is graph-
+ically-unintensive titles
+like League of Legends,
+don’t buy a £500 graphics
+card. Equally, don’t skimp
+out on spending an extra
+£50 if it means your
+computer actually does
+what you need it to – or,
+alternately, if it would
+mean saving £300 on an
+upgrade a year later. This
+hardware and software but
+has no longevity, is smart
+and saves you a lot in the
+long run.
+● How much you
+have to spend, and how
+flexible you are in that.
+If you have a hard limit,
+you might have to make
+hard choices, and focus
+on optimisation of price
+vs. performance. You can
+even phrase it as a ratio
+– take a benchmark that
+reflects your usage, for
+example the frames-per-
+second in your favourite
+game, and divide that by
+the price of a component
+to get maximal efficiency
+above some minimum
+performance threshold
+(e.g. 40 frames per second
+in most single-player
+games, 60 for competitive
+ones.)
+● Spend on compo-
+nents that last. Look for
+good warranties on items
+you’re buying new. A
+good power supply, for
+example, can last you the
+better part of a decade,
+and can be switched
+between systems when
+upgrading very easily. The
+TX650M I just bought has
+a seven-year warranty. By
+contrast, other compo-
+nents, such as processors
+or graphics cards, are ri-
+diculously outdated seven
+years down the line – for
+reference, a graphics card
+from seven years ago can
+just about run modern-ish
+games at 15-20fps on
+lowest settings at 720p,
+and that’s it.
+I’ll be back next week
+to start breaking down
+what individual compo-
+nents you’ll need, and
+how to best assess the
+performance and compat-
+ibility of each one!
+“If you’re
+careful and
+systematic
+about the way
+you approach
+your build, it’s
+not that bad”
+work, the fear of having
+a catastrophic meltdown
+right before a deadline
+is enough for most of
+us to want that reliable
+support.
+But, if you’re looking
+to build a gaming or
+editing rig for your
+own hobbies, this might
+be the way to go. One
+noticeable benefit
+for a hobbyist is that
+you can swap out or
+upgrade parts freely
+without worrying about
+voiding the warranty for
+anything else in your
+system, which is usually
+not the case if you buy a
+prebuilt.
+Before I dive into the
+components breakdown
+next week, there’s a few
+more things to discuss.
+Firstly, the dilemma
+of buying used vs. new
+parts. There is a thriving
+online market for
+second-hand computer
+“There’s an
+obvious risk:
+you have no
+guarantee
+the items
+will work, or
+whether they
+are on their
+last legs.”
+often ties into compati-
+bility – buying a slightly
+newer component that is
+likely to be compatible
+with next year’s releases,
+rather than an old one
+that can deal with today’s
+Interested in writing and / or editing for the TECH section?
+Please drop us an e-mail at technology.felix@imperial.ac.uk
+

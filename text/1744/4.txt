@@ -1,0 +1,248 @@
+FRIDAY, 21ST
+FEBRUARY, 2020 FELIX
+4
+NEWS news.felix@imperial.ac.uk
+Coronavirus Researchers
+NEWS
+Henry Alman
+Editor-in-Chief
+S
+everal Imperial
+r e s e a r c h e r s
+based at the
+J-IDEA and
+MRC Centre for Global
+Infectious Disease Anal-
+ysis in White City – a
+world-leading institute
+– have been using data
+science to track and
+calculate transmission
+and fatality rates for the
+coronavirus outbreak
+currently spreading
+internationally.
+The head of the J-IDEA
+institute, Neil Ferguson,
+additionally ran a pres-
+entation and Q+A session
+with the World Economic
+Forum, detailing their
+findings thus far.
+Thus far, the data track-
+ing shows that the fatality
+rate is approximately
+1%, with a transmission
+ratio of between 2 and
+3 – making the virus more
+transmissible than pan-
+demic influenza viruses.
+Professor Ferguson
+further detailed some of
+the issues with obtaining
+reliable data. Reported
+cases in China are typical-
+ly only the most severe,
+often only once pneumo-
+nia has developed, while
+internationally more mild
+cases – which are the
+vast majority – are being
+tracked. Furthermore,
+China’s strict control
+measures targeted multi-
+ple causes of transmission
+– for example, banning
+people from attending
+work or school, whilst
+also banning travel, and
+so on. It is then hard to
+identify what measure
+was actually effective.
+Additionally, the
+virus can incubate for
+weeks between infection
+and the development of
+symptoms. This can make
+determining number of in-
+fections and transmissiv-
+ity challenging, with one
+example given of a patient
+who died in France likely
+having been infected a
+month beforehand.
+This has led to drastic
+revisions of initial esti-
+mates for the total number
+of cases – from an estimate
+of 4000 on 18th January to
+107,000 on 3rd February.
+During the presentation,
+Professor Ferguson said
+that it is likely that the
+outbreak has caused up to
+ten times more infections
+than have been detected
+and reported.
+It also appears that
+the virus is significantly
+more deadly to the elderly
+– however, while respira-
+tory illnesses are also
+often a danger to children,
+bans on attending school
+in China have limited the
+number of young cases.
+A tentative estimate on
+the fatality rate for those
+who have already reached
+the stage of pneumonia is
+18%.
+There is a concern that
+should the virus break
+out in pandemic-scale in
+other countries, it could
+put severe stress on
+healthcare systems; but
+with forewarning, this is
+already being planned for
+as a contingency.
+Simultaneously, a team
+of academics based in St.
+Mary’s, in the Department
+of Infectious Disease,
+have been part of a global
+race to develop a vaccine,
+led by Robin Shattock.
+Professor Shattock
+spoke to Ryan O’Hare in
+an Imperial podcast. He
+outlined the differences
+between this coronavirus
+and a previous one called
+SARS – namely that
+SARS, while more fatal,
+was not transmissible
+until symptoms showed,
+meaning that effectively
+quarantining patients was
+significantly easier and
+more effective. Physical
+controls are thus less
+useful, hence its rapid
+spread.
+However, a core differ-
+ence between the SARS
+outbreak and this one is
+the rapidity with which it
+has been reported, and the
+advancement of technol-
+ogy since. With accurate
+gene sequencing available
+quickly, it took just weeks
+to get a novel RNA-based
+vaccine attempt going in
+the lab. This is by contrast
+to a typical progression,
+with five years in the dis-
+covery phase and a further
+two to manufacture and
+do clinical trials.
+The vaccine developed
+by Professor Shattock
+and his team has already
+entered animal testing –
+with the possibility for
+human trials to begin
+as early as summer.
+However, he warns that
+a full vaccine will not
+be widely available until
+next year, at the absolute
+earliest. In the meantime,
+antivirals are being used
+in China to try to combat
+badly affected patients,
+which may provide a
+stopgap solution.
+See Felix Science.
+Imperial academics based at St. Mary’s have been
+searching for a coronavirus vaccine, while at the J-IDEA
+and MRC Centre for Global Infectious Disease Analysis
+they have been using data science to track coronavirus
+transmission and mortality parameters
+Socially Responsible
+InvestmentWorkingGroup
+Reports back to College
+NEWS
+Henry Alman
+Editor-in-Chief
+T
+he Socially
+R e s p o n s i b l e
+I n v e s t m e n t
+W o r k i n g
+Group has completed
+its consultation period
+and reported back to
+the College Council on
+February 14th.
+The College Council
+has reportedly accepted
+the suggestions of the
+report with only minor
+amendments, which are
+being finalised now and
+will be made public on
+March 2nd – alongside
+an amended policy for
+investment. More spe-
+cifically, the Terms of
+Reference for the Endow-
+ment Board – who control
+the College’s investment
+assets – will be changed
+to reflect the new policy.
+For this reason, the
+policy was initially
+proposed to the En-
+dowment Board on 3rd
+February, before it went
+to College Council.
+The SRI Working
+Group was initially set up
+in response to a paper pre-
+sented to College Council
+in November by the
+Union President, Abhijay
+Sood, Deputy President
+(Finance and Services,
+Fifi Henry, and Ethics
+and Environment Officer,
+Francesca Siracusa.
+The paper called for an
+assessment of Imperial’s
+investment habits. This
+followed from the reveal
+in 2018 that the College
+had heavy investment in
+fossil fuel companies, as
+well as other fields with
+questionable ethics such
+as the arms industry or
+pharmaceuticals.
+The Group then spent
+thesubsequenttwomonths
+generating feedback from
+the College community as
+well as external experts
+from both sides of the
+debate, including offering
+the chance for open
+submissions for consider-
+ation.
+Felix will follow up
+with a report on the Policy
+when it is revealed on
+March 2nd.
+

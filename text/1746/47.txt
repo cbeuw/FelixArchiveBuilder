@@ -1,0 +1,171 @@
+ISSUE 1746
+FELIX
+39
+PUZZLES fsudoku@imperial.ac.uk
+     
+      
+ 
+      
+ 
+       
+   
+   
+   
+     
+    
+   
+      
+  
+1
+2
+3
+Y P R G B
+Y G G R R
+R G B Y P
+ 
+
+
+ 
+
+  
+
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+   
+    
+     
+      
+       
+       
+        
+       
+      
+     
+    
+   
+  
+ 
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+R Y G G R
+CRYPTOGRAM
+The letters of the alphabet have been scrambled and numbered
+0 to 25. A quote has been hidden for you to decode, and a grid
+has been provided to help you out.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+   
+ 
+   
+
+  
+ 
+
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ .
+10 19 25 20 6 22 19 0 20 3 23 17 4 5 20 4 17 24 5 12 1 17 8 10 12 17 3 20 15 12 17 25 6 2 20 24 3 20 17 1 19 10 .
+MASTERMIND
+Special thanks goes to DoC’s Duncan White, who has very kindly developed the code to gener-
+ate Mastermind puzzles like these, along with their relevant graphics for us to use!
+Try to guess a secret code of colours in a specific order.
+A black peg indicates a correct colour in the correct position. Of course, you are not told with
+position(s) contain the correct colour, simply how many positions contain the correct colour.
+A white peg indicates a misplaced colour - the correct colour but in a different position! A few
+guesses have already been given, leadinng to a unique solution!
+There are easier variations with more examples at:
+https://www.doc.ic.ac.uk/~dcw/Mastermind.pdf
+Here are the colours available:
+Last week’s solutions
+SHIKAKU
+Divide the square into rectangles, such that each
+rectangle contains exactly one number. The num-
+bers given represent the area of the containing rec-
+tangle.
+MINESWEEPER
+The number in a cell represents the number of mines adjacent to
+that square (up/down, left/right, diagonal). Find and mark all of the
+mines to clear the board.
+It would be very helpful if you could also tell us how long it took for you to complete this puzzle!
+

@@ -1,0 +1,276 @@
+FELIX
+FRIDAY, 21ST
+FEBRUARY, 2020
+SCIENCE science.felix@imperial.ac.uk
+34
+Not Quite A Long Shot Afterall
+Imperial researchers design a prototype vaccine for COVID-19 using cutting edge RNA vaccination technology –
+ready for animal tests after just two months, it’s the fastest vaccine development pathway to date
+SCIENCE
+Christine Parry
+Science Editor
+D
+o you remem-
+ber the Zika
+outbreak in
+2015, which
+cast a cloud over the
+Brazil 2016 Olympics?
+What about the Ebola
+epidemic the year before
+in 2014? Can you think
+back to 2009 when Swine
+Flu broke out, or the bird
+flu scare just before? Even
+if we’re just talking novel
+coronaviruses, we’ve
+faced the SARS outbreaks
+of the early noughties,
+and MERS in 2012. The
+most recent coronavirus,
+COVID-19, is the third of
+its kind since the turn of
+the century.
+COVID-19 has made
+global headlines for a
+number of reasons: apart
+from being a new disease,
+unlike its predecessors,
+SARS and MERS, it’s
+infectious without the
+presence of symptoms
+– not to mention the
+alarming death toll it’s
+racking up. But what is
+truly frightening about
+COVID-19 is that it is
+simply one of a number
+of infectious diseases that
+have epidemic potential.
+With a view towards
+an increasingly globalised
+world, in 2014, the World
+Health Organisation
+(WHO) chose 11 infec-
+tious diseases that posed
+a high global health risk.
+They set up the Coalition
+of Epidemic Preparedness
+Innovations to oversee
+vaccine development for
+these handpicked threats.
+However, a recent cost
+analysis published in The
+Lancet found that to bring
+vaccines for these 11
+diseases to clinical trials
+faced a cost of up to £3.85
+billion for each successful
+candidate.
+And on top of pro-
+hibitive costs, or the
+difficulty of identifying a
+good vaccine candidate,
+they can take almost a
+decade to go from bench
+to bedside. Professor
+Robert Shattock, Head
+of Mucosal Infection
+and Immunity within the
+Department of Medicine
+at Imperial, explains.
+“Most vaccines would
+take, you know, maybe
+5 years in the discovery
+phase, and at least 1-2
+years to manufacture and
+get to clinical trials.
+This is partly because
+vaccine development
+has to follow a lengthy
+pathway involving set
+preclinical and clinical
+checkpoints to test its
+safety and efficacy – and
+the challenges start almost
+immediately. Vaccine
+candidate selection can
+take several different
+approaches. Traditional
+vaccines, like the flu jab,
+may use dead versions of
+the infectious pathogen
+to elicit an immune
+response, or like the
+measles, mumps and
+rubella (MMR) vaccine,
+use inactivated, albeit
+live, pathogens. Newer
+vaccinations identify a
+specific part of the path-
+ogen, such as a protein
+subunit, or a toxin the
+pathogen produces, that
+can be used instead of the
+whole pathogen and will
+still generate an immune
+response. Deciding which
+approach to take requires
+some understanding of the
+behaviour of the pathogen
+and its interaction with
+our immune system;
+knowledge that is in
+short supply when facing
+sudden, novel epidemics.
+Luckily, with COVID-
+19, we wouldn’t be setting
+off blind. COVID-19
+may be the name of the
+disease, but the virus has
+been given the title SARS-
+CoV-2 – a new strain of
+SARS. And, as Professor
+Shattock describes, this
+means we have some
+clues. “Because this new
+coronavirus is related to
+SARS, and with SARS
+we know which part of
+the virus was targeted
+effectively by the immune
+system, we’re immediate-
+ly able to identify the only
+protein that’s expressed on
+the surface of the virus.”
+So, once the vaccine
+candidate is selected,
+what next? Well, quite
+a lot, actually. First,
+this needs to actually be
+made into a prototype –
+overcoming issues like a
+protein forming the wrong
+3D structure in isolation
+or stabilising the vaccine
+outside of its natural envi-
+ronment. Only whenthese
+issues are resolved can
+preclinical tests in animals
+be conducted to check its
+safety profile.
+If given the all-clear,
+the vaccine can be taken
+forward to clinical tests
+– but these are still not
+straightforward. Clinical
+tests are divided into
+Phases I to IV, each mon-
+itoring different aspects.
+Phase I trials confirm
+the animal test results
+by checking it is safe in
+humans. Phase II involves
+slightly larger trials, eval-
+uating the efficacy of the
+vaccine against artificial
+infection, while Phase III
+follows this up with larger
+scale trials in natural dis-
+ease conditions. Phase IV
+trials finish the pipeline by
+monitoring the long-term
+safety and efficacy of the
+vaccine.
+So, looking down the
+syringe barrel, vaccina-
+tion doesn’t sound like
+much use in emergencies
+like COVID-19. Or is it?
+Professor Shattock and
+his team are working on
+something new that could
+be the answer – RNA
+vaccination.
+“We’ve got the kind
+of technology to be able
+to generate a vaccine
+with a speed that’s never
+been realised before,” he
+explains. “We’ve made
+our first prototype vac-
+cines… and within two
+weeks we’ll have them
+in our first animal exper-
+iments.” This vaccine
+has the potential to be in
+human trials shortly after
+– slashing that lengthy
+process to four months.
+If successful, this will be
+the first time a vaccine
+has ever been brought to
+market so quickly.
+RNA vaccination goes
+one step further than
+even the latest technique
+in vaccinology, DNA
+vaccination.
+DNA vaccinations are
+a relatively new concept
+– direct injection of DNA
+sequences that code for
+a pathogen antigen – it
+works by causing our cells
+to uptake the DNA, read
+Imperial researchers in the race for COVID-19 vaccine // tOrange.biz (CC BY 4.0)
+“Most vaccines
+would take
+maybe 5
+years in the
+discovery
+phase, and
+at least 1-2
+years to
+manufacture
+and get to
+clinical trials”
+“COVID-19 is
+simply one
+of a number
+of infectious
+diseases that
+have epidemic
+potential”
+the sequence, and gener-
+ate the protein themselves.
+This is quickly recognised
+as foreign and an immune
+response is kick-started.
+RNA vaccination aims
+to cut out the middleman
+by injecting RNA, from
+which a protein can be
+directly built – and with
+much less risk, as our
+DNA remains untouched.
+With this technique,
+Professor Shattock and his
+team estimate there could
+be a vaccine manufactured
+and ready for widespread
+use early next year.
+He concludes, remark-
+ing: “This is definitely
+the future for these kinds
+of viral outbreaks (…)
+We would hope that
+this ability to synthesise
+vaccines could quickly
+be established in every
+country across the world,
+so as soon as there’s
+an outbreak, everyone,
+everywhere could access
+the vaccine.”
+

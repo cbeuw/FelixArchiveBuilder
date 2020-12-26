@@ -1,0 +1,172 @@
+KEEP THE CAT FREE
+SCIENCE
+Science.felix@imperial.ac.uk Felixonline.co.uk
+12
+Police given
+access to test &
+trace data
+The world waits with bated breath
+for a return to normality, with
+many hopes hinged on a coronavirus
+vaccine. However, despite current
+estimates of a vaccine being approved
+by early 2021, distribution can take
+months meaning restrictions may not
+end until late next year. So why exactly
+are we in it for the long haul?
+The goal of vaccination is to achieve a
+state of herd immunity: where enough
+people have gained immunity to a
+disease that the disease cannot spread
+anymore, and it will eventually die off.
+Herd immunity also protects those who
+can’t get vaccinated by making it diffi-
+cult for a disease to even reach them in
+the first place. The proportion of people
+that require immunisation for the entire
+population to have herd immunity
+depends on how effectively a disease
+spreads; with COVID-19, this thresh-
+old is estimated to be around 60%.
+60% of the world’s population is
+almost 5 billion people. Getting this
+many people vaccinated takes time and
+is made even more difficult with many
+planes grounded due to lack of passen-
+ger air travel, which is one of the main
+networks utilised for pharmaceutical
+distribution. This is complicated further
+by the requirement for the ‘cold chain’:
+the logistics network for items that
+require refrigeration or freezing. While
+the leading vaccine candidate from the
+University of Oxford and AstraZeneca
+is expected to require simple refriger-
+ation, other leading candidates
+have higher demands.
+Both Pfizer and Mod-
+erna are working on vac-
+cines that will require
+sub-zero storage,
+with Pfizer’s
+vaccine requir-
+ing temper-
+atures of
+below
+-68°C.
+This
+has logis-
+tical conse-
+quences; the
+transport and
+storage of these
+vaccines at such low temperatures
+is costly and requires specialised
+equipment and facilities. Capacity is
+lacking not just in the global south, but
+also in developed countries like the US
+and UK - which are ironically faring
+worse in response to the disease than
+many countries in the global south.
+To this end, private logistics compa-
+nies such as DHL and UPS have been
+investing in their cold chain capacity,
+building high capacity freezer farms in
+major cities around the world to house
+vaccines for distribution. Meanwhile,
+Pfizer have taken it upon themselves
+to create a custom transport solution
+with cold storage boxes that can
+keep up to 5,000 vaccine doses
+at the required temperature for
+10 days without requiring external
+cooling, meaning that regular
+distribution networks can be
+utilised. This custom solution has
+a major advantage: while big cities may
+have the necessary cold storage facili-
+ties to store tens of thousands of doses,
+smaller towns and villages do not. The
+challenge then is for those smaller set-
+tlements to be able to make use of the
+doses quickly before the timer runs out.
+It is estimated that while a vaccine
+may be approved by early 2021, due to
+these logistical challenges the vaccina-
+tion program could take several months
+to a year. Further investments need to
+be made in order to ensure we have the
+capability to quickly and safely vacci-
+nate the population so we can finally
+put this pandemic behind us.
+The logistics of vaccine distribution
+The effectiveness of contact trac-
+ing apps is starting to show, and
+it isn’t looking positive. Each week,
+the percentage of individuals notified
+about a confirmed positive contact has
+decreased, which is brings into question
+the accuracy of the test and trace sys-
+tem. This failure to reach notifications
+causes a risk of further transmission
+due to a lack of self-isolation. Further,
+it defeats the purpose of maintaining
+an automated contact tracing scheme in
+the first place.
+To this end, test and trace informa-
+tion has been (on a case-by-case basis)
+provided to the police. The belief is
+that they would help ensure that those
+legally required to self-isolate are indeed
+doing so. Failure to meet this legal ob-
+ligation may see an individual charged
+anywhere from £1000 to £10,000.
+Some suggest that this move to hand
+data over to the Police might discourage
+those looking to take a test, with MPs
+raising concerns over how police have
+access to the data while local councils
+do not.
+Sudarshan Sreeram Tech Editor
+Ansh Bhatnagar Science Editor
+In order to put an end to the glob-
+al coronavirus pandemic, researchers
+around the world are working tire-
+lessly to develop a vaccine to protect
+against COVID-19. While vaccine
+production usually takes multiple
+years, a coronavirus vaccine is hoped
+tobedevelopedwithin12-18months.
+Vaccine testing can be split into 5
+stages:
+Pre-clinical – animal testing to see
+whether the vaccine elicits an immune
+response.
+Phase I – healthy human volunteers
+to determine safety and evaluate im-
+mune response.
+Phase II – hundreds of volunteers to
+identify correct dosage.
+Phase III – thousands of volunteers
+to confirm safety and efficacy vs. a
+placebo.
+PhaseIV–studiesonadverseeffects,
+long-term mmunity and vaccine us-
+age following the approval and licens-
+ing of the vaccine.
+The WHO is currently tracking the
+progress of over 170 candidate vac-
+cines; at Felix, we’ve chosen 5 of the
+most promising candidates to follow,
+so watch this space!
+New Update: In January, Imperial
+College London will be starting hu-
+man challenge trials, in which young,
+healthy volunteers are deliberately
+infected with COVID-19 in order to
+assist with the vaccine discovery pro-
+cess. AstraZeneca are getting ready to
+resrart their US Phase III trial.
+COVID-19 VACCINE TRACKER: Felix Edition
+Julia Dabrowska Science Editor
+

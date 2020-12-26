@@ -1,0 +1,271 @@
+FELIX
+FRIDAY, 31ST
+JANUARY, 2020
+SCIENCE science.felix@imperial.ac.uk
+30
+Kraken Cracked
+The long-unknown mystery of the deep, the Giant Squid, finally gets its genetic code unravelled
+SCIENCE
+Christine Parry
+Science Editor
+Giant squid
+stats: 2.7
+billion DNA
+base pairs
+and 33,406
+protein-coding
+genes.
+W
+hether it
+be Cthulu,
+the Kraken,
+the Dragon
+of the Deep, or even the
+nice, friendly one living
+in Hogwarts’ Great
+Lake; the giant squid has
+fascinated the human
+mind for centuries. Now
+a team at Copenhagen
+University, together with
+Caroline Albertin at the
+United States’ Marine
+Biology Laboratory, has
+sequenced its genome in a
+bid to unpick the science
+behind its secrets. How
+did it evolve to be so
+big? Why did it develop
+the biggest brain of any
+invertebrate alive today?
+First sighted in 1848 by
+the crew of the Daedalus
+in the waters just off the
+Cape of Good Hope, the
+giant squid took its first
+tentative strokes out of
+folklore; although the
+scientific world was not
+yet ready to be convinced.
+Danish zoologist Japetus
+Steenstrup took up the
+challenge, drawing on
+biological knowledge –
+only a few washed up,
+oversized squid ‘beaks
+and pieces’ in evidence
+– to propose a believable
+giant squid-like animal
+truly existing behind the
+legends. He gave the
+animal the name Archi-
+teuthis dux, and by the
+1880s, after the discovery
+of several dead specimens
+across the world’s oceans,
+the giant squid stepped
+out of fiction and became
+fact.
+However, the giant
+squid is hardly much
+more understood today
+than in those first, early
+days of discovery in the
+1800s. It wasn’t until
+2004 that the first photos
+were taken; and 2006
+when video footage of one
+floating near the surface
+was first recorded. It took
+until 2012 for substantial
+footage of the beast in
+action to be shot, and it
+was only last year that the
+second footage of a giant
+squid in the ocean depths
+was filmed, a fleeting
+glimpse of graceful tenta-
+cles snatching at a lure.
+Science has added
+a few more titillating
+facts to our knowledge
+of the giant squid than
+just photographic
+evidence; we know that
+it has three hearts, a blue,
+copper-based blood, a
+doughnut-shaped brain,
+the largest eyes of any
+living animal, and a jet
+propulsion system that
+can propel itself forwards
+and backwards. But, fun-
+damental questions still
+remain.
+The giant squid has
+“many complex and
+elaborate features”, as
+Dr Albertin, the MBL
+member of the team, puts
+it, but “they are thought
+to have evolved inde-
+pendently of vertebrates.”
+So, the Copenhagen Uni-
+versity-led team hoped
+that its genome could
+provide some answers;
+it would be the biggest
+advance in genetic infor-
+mation on the giant squid
+since it was discovered
+in 2013 that all giant
+squids (from those that
+roam the polar seas to
+those inhabiting tropical
+oceans) belong to the
+same species.
+There was only one
+problem – fresh DNA
+samples from a species
+that spends its time in the
+deepest, darkest depths
+are not easy to come by.
+So, instead, the team had
+to use tissue samples from
+dead specimens, which
+can lower the integrity of
+the available DNA and
+lead to an incomplete
+dataset. To combat this,
+the team also isolated
+the proteins in the tissue
+sample, so that by working
+forwards from the DNA
+and backwards from the
+end-product proteins, the
+holes in the dataset were
+easier to patch up.
+As a result, we can
+now add to our small
+repository of giant squid
+stats that these creatures
+have a genome around
+90% the size of ours; 2.7
+billion DNA base pairs
+against our 3 billion, and
+consisting of 33,406 pro-
+tein-coding genes.
+It was within these
+coding sequences that the
+first answers were found.
+The giant squid’s brain,
+that doughnut shaped ring
+far more sophisticated
+than those other inverte-
+brates possess, may now
+make more evolutionary
+sense following the
+team’s discovery of 135
+protocadherin genes in its
+genome.
+“Protocadherins are
+thought to be important
+in wiring up a compli-
+cated brain correctly,” Dr
+Albertin says. “They were
+thought to be a vertebrate
+innovation, so we were
+really surprised when
+we found more than 100
+of them in the octopus
+genome, in 2015. That
+seemed like a smoking
+gun to how you make a
+complicated brain. And
+we have found a similar
+expansion of protocadher-
+ins in the giant squid, as
+well.”
+And the brain is not
+the only rarity bordering
+on the impossible when it
+comes to the giant squid.
+Thought to be relative-
+ly short-lived with just
+a five-year lifespan, the
+creature is not only big,
+but must grow rapidly to
+achieve its infamous size.
+By analysing certain DNA
+sequences responsible for
+development and growth
+that are well-conserved
+across animal life, clues
+about this speedy growth
+spurt were hoped to be un-
+covered. Intriguingly, the
+team were able to discount
+one possibility of how the
+creature got its name – the
+evidence showed that the
+giant squid has only one
+copy of these important
+sequences, the Wnt and
+Hox genes, which ruled
+out whole genome dupli-
+cation. Whole genome
+duplication is a method
+which increases genome
+complexity through du-
+plicating it in its entirety.
+Spare copies allow for
+mutations and therefore
+spur on substantial evolu-
+tionary changes – such as
+a dramatic growth pattern.
+The Kraken, drawn from sailor reports in 1801 //
+Pierre Dénys de Montfort
+“The giant
+squid is hardly
+much more
+understood
+today than
+in those first,
+early days of
+discovery in
+the 1800s”
+The genome did,
+however, have a high
+proportion of transpos-
+able elements – sections
+of genetic code that are
+able to move within the
+genome, introducing
+instability and therefore
+another major contributor
+to evolutionary change.
+By analysing the extent
+of genetic change in
+the transposed gene
+compared to its starting
+sequence, the team found
+suggestions of a recent
+burst of activity in these
+elements, comparative
+to related squid species.
+But to connect this
+activity directly to the
+giant squid’s size requires
+further unpicking.
+So, is the giant squid
+a mystery no more? Has
+the enigma of the Kraken
+been cracked? Although
+the genome sequence and
+protein library begin to
+fill in the blanks, it seems
+there is still plenty left to
+catch our curiosity – and
+our imagination.
+The giant squid // Karen Kay, Museum of Natural History, (CC BY 2.0)
+

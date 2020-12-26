@@ -1,0 +1,286 @@
+Riot has Revealed Further Details of ‘Project A’ –
+Valorant – Including Release Date!
+During Riot Games’ 10 Year Anniversary broadcast, they shocked the gaming sphere by announcing a litany of
+new games under development – and one might be coming sooner than we thought
+GAMES
+Henry Alman
+Editor-in-Chief
+I
+’m a massive League
+of Legends nerd,
+and so was extraor-
+dinarily excited
+when Riot revealed a
+myriad of games during
+their 10th anniversary
+broadcast a few months
+back – splurging two
+whole pages of fanboyism
+into this Games section as
+a result. So, imagine the
+paroxysms of joy I fell
+into when they revealed
+this week that the previ-
+ously mysterious ‘Project
+A’ would be coming this
+summer already.
+With a newly-revealed
+title, Valorant looks to be
+an exciting addition to
+a genre of games which
+often seems over-saturat-
+ed: first person shooters.
+They are perhaps the
+most popular format for
+triple-A gaming releases,
+due to their high-octane
+action, relatively intuitive
+control schemes, ease of
+execution on both console
+and PC, and – above all –
+their variety in tone from
+ultra-competitive esports
+titles to single-player
+casual experiences.
+From the information
+revealed this week,
+Valorant seems to lean
+towards the former. Riot
+has taken strong cues from
+bothCounterstrike:Global
+Offensive (CS:GO) – the
+oldschool tactical shooter
+that maintains one of the
+world’s biggest esports
+scenes – and from Over-
+watch (OW), the 2017
+hero-shooter title which,
+despite recent fall-offs and
+glaring mistakes made by
+developers Blizzard, was
+still hugely impactful on
+the industry as a whole.
+They seem to be pri-
+oritising the tight-knit,
+high-precision gunplay of
+CS:GO in terms of core
+gameplay, stressing over
+and over that a clean,
+competitive style was
+their focus. Although the
+player does pick a ‘hero’
+character with abilities
+– each distinct from one
+another – abilities (as
+well as weapons) have
+to be ‘bought’ with an
+economy system, similar-
+ly to CS:GO’s economy
+mechanics. So while
+on a surface level the
+hero-shooter element is
+more reminiscent of OW,
+the mechanics of how it
+works – the way they’ve
+executed the concept –
+still leans closer to CS:GO
+in this regard. The abilities
+“Riot has taken
+strong cues
+from CS:GO,
+prioritising
+tight-knit
+high-precision
+gunplay”
+themselves are relatively
+low-power, more similar
+to buying equipment such
+as smoke grenades than to
+the flashy and explosive
+ults that define OW or
+LoL.
+This also reflects in
+the big industry names
+they’ve been consulting
+with – rumours are
+abound that high-profile
+streamers and esports pros
+from the shooter scene,
+such as Shroud, have been
+invited to Riot’s studios
+for feedback sessions.
+They’ve taken other
+lessons from their success
+with LoL, however,
+including the importance
+of resource-unintensive
+design – in other words,
+you can run this game on
+a freaking toaster. Where
+their experience devel-
+oping the world’s most
+popular competitive game
+really shines, however,
+is in their dedication to
+behind-the-scenes devel-
+opment.
+As you can tell from
+the above, Valorant’s core
+gameplay cycles are not
+highly original. It’s easy
+to draw comparisons to
+other games, meaning it
+fits neatly into a unique
+niche that nonetheless is
+sandwiched by industry
+giants. What is truly
+exceptional is this behind-
+the-scenes stuff. So let’s
+dive into what separates
+Valorant from its stiff
+competition.
+For starters, it will run
+on a 128-tickrate server.
+In simple terms, that
+means the server speaks to
+your computer 128 times a
+second. This is double that
+of its closest competitors,
+CS: GO and Rainbow Six:
+Siege (RSS), and up to six
+times that of other games
+such as Apex Legends.
+It’s clear why this is
+beneficial to any gamer
+– the more regularly in-
+formation is being shared
+between different players’
+computers and the server,
+the less ‘lag’ there will be
+between different inputs
+and outputs (such as you,
+or an enemy, shooting at
+and killing eachother.)
+Of course, this is
+expensive to run. You
+flat-out need more and
+better servers to handle it.
+Lucky, then, that Riot is –
+and I quote some random
+on Reddit – “rich af” from
+developing and peddling
+LoL for a solid decade.
+Another piggyback
+from their LoL experience
+is that Valorant will also
+use the internet infrastruc-
+ture set up by Riot for
+their LoL servers. Without
+delving into detail, Riot
+has cut lots of deals with
+ISPs to prioritise their
+internet traffic, ensuring
+lower ping for players.
+Ping describes the
+length of time it takes a
+packet of information to
+get from your computer
+to the server and back.
+The higher your ping,
+the laggier the game.
+Reducing it, then, is
+essential to competitive
+integrity.
+This also has a huge
+affect on ‘peeker’s advan-
+tage’– and I reference you
+to PC Gamer’s “Riot is
+on a crusade to eradicate
+‘peeker’s advantage’ in its
+new FPS Valorant” article
+here to get a good expla-
+nation of how that works.
+In short, due to the lag in
+information between your
+computer, which transfers
+to the server, which then
+transfers to an opposing
+player’s computer, often
+the first player to move
+into the line of sight
+of another has a strong
+advantage over that other
+player. This has been a
+nightmare for shooter
+players for years.
+That aforementioned
+term – ‘competitive in-
+tegrity’ - really seems to
+be Riot’s ultimate priority
+here, and is the basis on
+which they hope to steal
+market share from com-
+petitors which have his-
+torically been plagued by
+dodgy servers… or, more
+nefariously, by h4x0rz.
+Hax. Hacks.
+This is where things
+get really sweet. Riot
+have designed their own
+anti-cheat systems right
+into the code of the game.
+I’ll borrow an example
+from a PC Gamer article
+I referenced while writing
+this up:
+Wallhacks – where
+players trick the game
+into letting them see
+through walls and thus
+knowing where everyone
+on the map is at all times
+– have been targeted by
+implementing a ‘fog of
+war’ system, which is
+another borrow from
+LoL. In that game, you
+can’t see enemies until
+they’re a certain distance
+from you or a friendly
+unit. While that isn’t the
+case in Valorant – don’t
+worry, you can still camp
+sniper alley – what they
+have done is make it so
+the server doesn’t even
+tell your computer where
+enemies are until just
+before they’re visible
+to you. Even if you can
+see through walls, it
+won’t help, because your
+computer won’t know
+where anyone is.
+Sick stuff.
+We’ll have to wait and
+see whether just having a
+fairer, more competitive
+game will be enough to
+distinguish Valorant from
+its rivals – rivals which
+are deeply established
+in the gaming industry
+and community. The
+gameplay itself, I fear,
+will not be unique enough
+– but despite that, I’m
+keen to try it out in just a
+few months.
+Valorant drops this Summer, a CS:GO + OW hybrid with better netcode // Riot Games
+FELIX
+FRIDAY, 6TH
+MARCH, 2020
+GAMES games.felix@imperial.ac.uk
+26
+

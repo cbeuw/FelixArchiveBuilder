@@ -1,0 +1,203 @@
+FRIDAY 16TH OCTOBER 2020
+SCIENCE
+9
+Science.felix@imperial.ac.uk Felixonline.co.uk
+Lockdowns have negative socio-eco-
+nomic effects, such as with mental
+health, domestic abuse, lack of access
+to education... the list goes on. The first
+lockdown was a sacrifice by the people
+to give this Government time to boost
+our historically underfunded healthcare
+system and to build a world leading test
+and trace system so that any new infec-
+tions can be isolated before they spread
+far, ideally keeping R below 1 and seeing
+domestic transmission come to an end.
+Yet the Government failed, outsourc-
+ing this by handing over £10 billion
+in contracts to private firms such as
+Deloitte and Serco who have produced
+a system that, according to the Govern-
+ment’s own experts on SAGE, is experi-
+encing delays so severe that the system
+is having only a “marginal impact” on
+transmission. The system was telling
+many residents to drive hundreds of
+miles to get a test, leaving those with
+symptoms to either not get a test or to
+get tested privately, further exacerbating
+the class divide caused by this pandemic.
+The app that was released only a cou-
+ple weeks ago has also had a variety of is-
+sues reported, from false alerts to a lack
+of information about local restrictions.
+It isn’t supported on older iPhones,
+although this is more due to how Apple
+and Google designed the API that facili-
+tates the contact tracking.
+In the end, despite massive amounts
+of goodwill from the public and health-
+care workers, the Government has wast-
+ed billions from the public purse on a
+dysfunctional test and trace system, and
+we are back at square one, staring down
+the barrel of a second wave.
+Three weeks ago, SAGE recommend-
+ed that universities move to online
+teaching where possible. Yet the Gov-
+ernment ignored this and universities,
+including Imperial, continued to tell
+students about “mixed learning”. Stu-
+dents moved into halls believing that
+they would get some level of in-person
+teaching as well, and in the past couple
+weeks we have seen the largest outbreaks
+take place in student halls. Official case
+numbers have now overtaken those of
+the first wave, and statistics imply that
+these are being driven particularly by the
+16-29 age group.
+In response, the Government has
+instituted a localised three tier system
+of restrictions, with the Liverpool city
+region being placed under the highest
+tier of restrictions. Yet experts, both
+independent and on SAGE, say these
+measures do not go far enough. They,
+along with the Leader of the Opposi-
+tion, have demanded a national “circuit
+breaker” lockdown to stop the epidemic
+spiralling out of control.
+A second lockdown was not inevi-
+table. It could’ve been avoided with a
+functioning test and trace system. Yet
+the Government’s failure to learn from
+the lessons of the first wave means that
+it is the only option left to us in order
+to save lives. Except this time, when we
+emerge from the other side of lockdown,
+we need to have test and trace.
+CONTINUED
+Elon Musk’s Starlink “mega-constellation” and
+the impact of the commercial use of space Photo credits: Starlink
+Photo credits: John D. and Catherine T. MacArthur Foundation
+Living in London, it is hard to
+imagine a world without internet
+connection. Most of us groan at the
+rare sight of our mobile data switching
+from 4G to 3G, and we even have Wi-Fi
+at our tube stations. But in 2018, the
+Global System for Mobile Communica-
+tions reported that 10% of the world’s
+population lived beyond the reach of a
+mobile network, and an additional 3%
+do not have access to adequate broad-
+band speeds. That translates to around
+1 billion people living without adequate
+internet coverage.
+This is a problem in our increas-
+ingly online world, where more of us
+are working from home than ever and
+many children require internet access
+to complete their schoolwork. In 2017,
+the Imperial Business School published
+a study showing that a 10% increase in
+mobile broadband leads to an increase
+in GDP of 0.6-2.8%.
+So a network of potentially 42,000
+mini satellites providing high-speed
+internet to the entire planet sounds
+like a great idea, right? That is the end
+goal of Elon Musk’s SpaceX Starlink
+programme, which began in May 2019
+with the launch of 60 small satellites
+from a single rocket. As of right now,
+there are almost 800 Starlink satellites
+orbiting the Earth.
+There are several issues with this
+ambitious plan. For starters, the
+internet coverage will come at a cost
+to users. Depending on the cost, it is
+likely that this will limit the num-
+ber of additional internet users
+that the programme can actually
+bring in, as areas without proper
+internet access are generally in
+less privileged communities.
+On top of this, satellites do
+not last forever, and we are
+facing an increasing prob-
+lem of “space junk” as more
+satellites become non-op-
+erational. Even if SpaceX’s
+satellites last for
+centuries, their
+“mega-constel-
+lation” will still be
+leaving future gener-
+ations with an additional
+42,000 pieces of space junk to
+deal with.
+Many astronomers have also ex-
+pressed great concern about the impact
+that the programme will
+have on astronomy
+research. At the
+moment, if you
+spend a few hours
+looking at the night
+sky, you will see sev-
+eral satellites moving
+amongst the many stars.
+But the stars we can
+see with the naked eye
+currently significantly
+outnumber satellites, and
+astronomers researching our
+universe can correct for the
+marks left by a satellite or
+two in their images and data.
+Removing thousands of
+satellites from a set of data is
+less easy, and a lot more time
+consuming. You only have to
+look at images that have been
+interrupted by the Starlink
+satellites already orbiting to under-
+stand the potential disruption that
+tens of thousands of satellites could
+cause to research.
+Radioastronomers have also voiced
+concerns about Starlink satellites. The
+Square Kilometre Array (SKA), an in-
+ternational telescope project which will
+become the world’s largest radio obser-
+vatory once complete, has highlighted
+the issue that these satellites will require
+the use of a wider range of frequencies.
+This will reduce the bandwidth available
+to radioastronomers studying the sky.
+The band that Starlink uses takes up
+frequencies of 10.7 to 12.7 gigahertz,
+within a range known as band 5b. This
+is one of the seven bands SKA’s satellite
+dishes aim to target. This is based on
+SKA analysis which calculated the im-
+pact of 6400 satellites, so it is likely that
+the planned 42,000 Starlink satellites
+could have an even worse impact.
+And it is not just researchers who will
+be impacted. Those of us who do not
+have access to a telescope might soon be
+looking up at a sky dominated by satel-
+lites rather than stars. The reflection of
+sunlight from the satellites will increase
+light pollution and reduce the number
+of stars visible to the naked eye. The
+night sky, a near constant throughout
+human history, might never be the same
+again.
+Lily Shepherd Science Writer
+ROUND TWO
+

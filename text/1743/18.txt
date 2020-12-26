@@ -1,0 +1,303 @@
+FELIX
+FRIDAY, 14TH
+FEBRUARY, 2020
+SCIENCE science.felix@imperial.ac.uk
+18
+My Heart is an Open (Text)Book…
+…and now scientists are thumbing through it for new insights into health than we’ve ever known.
+SCIENCE
+Christine Parry
+Science Editor
+A
+re our hearts
+o v e r r a t e d ?
+They seemed
+to be, at least,
+until recently; our ability
+to interpret our heart rate
+as an indicator of health
+issues was restricted to a
+comparison against the
+population average of 60
+to 100 beats per minute
+(bpm).
+Now, scientists at
+the Scripps Research
+Translational Institute
+have taken advantage of
+the growing trend towards
+individual monitoring of
+healthcare data – the rise
+of the ‘quantified self’ –
+and have analysed heart
+rate data recorded by
+Fitbits from across the
+United States of America.
+Spanning two years,
+involving nearly 100,000
+people, and totalling over
+32 million days’ worth
+of data, the scope of this
+study, recently published
+in PLOS ONE, is huge.
+Resting heart rates
+are usually taken as an
+isolated data point and
+compared against the pop-
+ulation average. But the
+data collected in this study
+over a longer timeframe
+(known as longitudinal
+data) allows for a more
+nuanced understanding of
+intra- and inter-individual
+differences.
+Dr Giorgio Quer, part
+of the research team, con-
+siders this a rich source
+of information; obtaining
+longitudinal data not only
+allows individuals to
+have an insight into their
+own health parameters,
+but when collated across
+populations, it can help
+scientists to refine their
+understanding of diseases,
+support earlier diagnoses,
+spot infections quicker,
+or eventually, determine
+the effects of longer-term
+factors such as environ-
+mental changes.
+He describes one of
+their major findings on in-
+ter-individual differences.
+“It was exciting to observe
+that the resting heart rate
+of different individuals
+varies widely – what is
+normal for you, may be
+unusual for someone else,
+and suggest an illness.”
+The team found that our
+heart rate can actually
+vary by up to 70 bpm from
+person to person, from as
+low as 40 to as high as 109
+bpm.
+But, surprisingly, age
+and sex, two common
+culprits for population
+differences, were only
+minimally associated with
+this difference. Resting
+heart rate was found to
+vary according to age
+(increasing to the age of
+50, then declining with
+advancing age) and sex
+(women’s heart rates
+were, on average, 2-3 bpm
+higher than men’s), but
+together, they accounted
+for only 6% of this var-
+iation. Even when the
+team included Body Mass
+Index (BMI) and sleep du-
+ration, no more than 10%
+of the difference could be
+explained.
+Intra-individual var-
+iations also uncovered
+intriguing findings. The
+greatest variability in any
+individual data was found
+in women of child-bearing
+age,whichDrQuerandthe
+team believe could help
+support our understanding
+of reproductive health.
+In fact, current fertility
+applications incorporate
+resting heart rate
+data to help iden-
+tify stages of the
+menstrual cycle.
+“Wealsofound
+a surprising sea-
+sonal variation
+in heart rate that
+was lowest in
+July, and peaked
+after the holidays
+at the end of the
+year.”
+The team spec-
+ulate this may be
+due to changing
+exercise habits
+throughout the
+Seasonal average resting
+heart rate pattern// PLOS
+ONE (CC BY 4.0)
+A
+lzheimer’s
+disease (AD) is
+the most prev-
+alent form of
+dementia, characterised
+by a progressive decline
+of cognitive skills, asso-
+ciated with a build-up of
+toxic amyloid molecules
+forming plaques, and an
+increase in the activat-
+ed form of tau protein.
+Changes in specific brain
+patterns, called gamma
+brainwaves, have now
+been linked to AD.
+Researchers from
+MIT found that artificial
+induction of these gam-
+ma brainwaves, which
+Gamma Brainwaves: Hoax or New Therapeutic
+Avenue?
+have a frequency of
+~40Hz, by sound, as well
+as combined light and
+sound stimuli, decreased
+negative pathological
+features of AD, such as
+amyloid build-up, while
+simultaneously increasing
+the presence of microglia,
+the brain’s immune cells,
+in mice models. An im-
+provement in the region
+responsible for memory
+consolidation and spatial
+memory was also ob-
+served.
+Previously, the team
+demonstrated that light
+flickering at 40Hz was
+able to artificially induce
+gamma brainwaves in
+mice, which reduced the
+amount of amyloid while
+increasing the amount
+of microglia within the
+brain. Now, the authors
+tested whether these
+brainwaves can also be
+induced by sound stim-
+ulation. In addition to
+improvement of memory
+consolidation and spatial
+memory, a drop in amy-
+loid levels and amyloid
+plaques was seen within
+various brain regions.
+Microglia, which are
+responsible for amyloid
+clearance, increased in
+both number and size,
+and co-localised with
+amyloid within the brain,
+suggesting increased
+amyloid uptake. A larger
+blood vessel diameter
+in the brain was also
+observed; since amyloid
+clearance can also occur
+via blood vessels, this
+suggests more potential
+for waste clearance.
+Next, the researchers
+tested the combination of
+light and sound stimula-
+tion together, which again
+successfully resulted
+in induction of gamma
+brainwaves in multiple
+brain regions. Amyloid
+levels were reduced,
+while microglia increased
+– the same as with
+sound stimulation alone.
+However, the combined
+stimuli also increased the
+number of microglia per
+plaque, and the microglia
+surrounded the amyloid
+deposits, rather than sim-
+ply being present nearby.
+These effects occurred
+not just in the brain
+regions specific to visual
+and auditory responses,
+but also in brain areas re-
+sponsible for higher-order
+brain functions, in par-
+ticular short-term memo-
+ry and executive function
+– importantly, effects here
+were not seen with either
+stimulus alone.
+The question that re-
+mains is how these effects
+occur: are the combined
+effects a result of one
+stimulus influencing
+the other, or simply an
+addition of both bene-
+fits? Lead author Chin-
+nakkaruppan Adaikkan
+stated, “While we know it
+affects pathology in mice,
+we want to understand
+how because that will
+help us understand and
+refine potential treat-
+ment.”
+Simple light or sound
+stimulation can induce
+effects in multiple cell
+types and different brain
+areas, decreasing the
+harmful features of AD
+and improving brain
+function in genetical-
+ly engineered mouse
+models. This is even
+more widespread when
+both stimulation types are
+combined, highlighting
+the potential of something
+so simple to treat a very
+complex disease. Howev-
+er, further research is re-
+quired to understand how
+this artificial stimulation
+can be related to naturally
+occurring brainwaves,
+and whether this could be
+extended to humans.
+But, while it might
+not be transferrable for
+human AD treatment
+anytime soon, listening
+to those gamma wave-in-
+ducing Spotify playlists
+surely can’t hurt.
+SCIENCE
+Julia Dabrowska
+Science Editor
+year (read: we are lazier at
+Christmas) but also want
+to investigate the effect of
+climate and latitude on our
+heart rates in the future.
+

@@ -1,0 +1,179 @@
+KEEP THE CAT FREE
+SCIENCE
+Science.felix@imperial.ac.uk Felixonline.co.uk
+8
+The decision to institute a national
+lockdown in the UK in response to
+the coronavirus pandemic, announced
+via televised address on the 23rd March,
+came far too late.
+Pandemics spread exponentially; as
+more people get infected with a virus,
+there is an even greater number of
+people that the virus can infect, and if
+that larger pool gets infected as well,
+there is in turn an even bigger group
+that the virus has access to. This expo-
+nential growth is characterised by R, the
+effective reproduction number. When
+R is above 1, the pandemic is growing
+exponentially. When it is below 1, it is
+decaying exponentially. At a time where
+R is above 1, decisions must be taken
+proactively and decisively, because every
+day the threat becomes substantially
+greater than before.
+Neil Ferguson, Imperial’s lead epide-
+miologist who advised the government
+in the early days of the pandemic, told
+MPs on the Science and Technology
+select committee that if the lockdown
+had been instituted a week earlier, it
+could’ve halved the death toll. The key
+assumption for this estimate was based
+on analysis that the epidemic was dou-
+bling every three to four days – locking
+down a week earlier would’ve been at a
+time when infection rates were about
+four times smaller than they were on
+the day of lockdown. Unfortunately, a
+lot of time was wasted on a faulty ‘herd
+immunity’ strategy in the critical days of
+the pandemic, as covered in last week’s
+piece.
+Care homes look after some of the
+most vulnerable in our society, par-
+ticularly those most at risk from COV-
+ID-19 – the elderly, and particularly
+those with dementia who may struggle
+to adhere to new public health advice
+through no fault of their own. In July,
+statistics from the Office of National
+Statistics (ONS) showed that 30,000
+excess deaths took place in care homes
+during the pandemic up to that point,
+with COVID-19 being responsible for
+two thirds of these. Previous work from
+the ONS suggested that many of the
+cases in the remaining third could also
+be due to coronavirus.
+But the government did little to
+prevent it. In fact, their policies actively
+encouraged it; in June it emerged that
+until mid-April, NHS policy was to
+discharge patients back into care homes
+without needing a negative COV-
+ID-19 test. This meant that many of
+the patients discharged back could have
+been carrying the virus straight into the
+enclosed spaces where some of the
+most vulnerable people live.
+This was nothing less than
+an extraordinary derelic-
+tion of duty that was not
+rectified until the peak of
+the first wave.
+As care homes are pri-
+vatised, care home com-
+panies have responsibil-
+ity to procure adequate
+personal protective
+equipment (PPE) for
+their staff. Shortages
+of PPE in care homes
+meant that both
+staff and
+resi-
+dents
+were
+put at
+increased risk of in-
+fection. However, these companies
+often shirked responsibility; the
+youngest MP, Nadia Whittome,
+spoke out about the shortage of
+PPE at the care home she worked
+at as a second job. She was promptly
+sacked and accused of spreading misin-
+formation by the care home, a claim that
+proved false months later as the care
+home admitted that they did indeed
+have a shortage of PPE at the time.
+While lockdown came too late, it’s
+also possible that it lifted too early.
+Experts, such as those from the Govern-
+ment’s own Scientific Advisory Group
+for Emergencies (SAGE), and those in a
+letter published
+by the British
+Medical
+Journal,
+called for
+lockdown
+to be eased
+much more
+gradually,
+coupled
+with an
+effective test and trace system. Profes-
+sor Michael Baker of the University of
+Otago, who advised on New Zealand’s
+world renowned COVID response, also
+echoed the same message.
+Yet the Government was adamant
+to see children returning to school in
+June/July, despite it being the end of
+the academic year, a period where not
+much learning takes place anyway. The
+Government also encouraged people
+to return the office, despite there being
+no need to do this for companies that
+had adapted to operating remotely. This
+encouragement further put workers
+at risk, many of whom, particularly in
+densely populated London, take public
+transport to go to work.
+Even more bizarrely, the Govern-
+ment were quick to open pubs, and
+their popular Eat Out to Help Out
+scheme applied only to dine-in meals.
+This incentivised people to crowd into
+restaurants, many of which were not
+even observing proper social distancing.
+Queues formed outside of restaurants
+in August as Britons flocked to get
+half price discounts. Was the dine-in
+stipulation really necessary for this
+scheme? Surely the same restau-
+rants could’ve gathered even
+more profit if the Government
+allowed the offer on takeaways,
+reducing the burden on wait-
+ing staff?
+Public health
+experts are gen-
+erally unified
+on the same
+message: we
+cannot rely on lock-
+downs, the best way out of this
+is to have an effective testing and trac-
+ing system. That’s how New Zealand
+and Vietnam have less coronavirus
+cases than the White House, while
+also experiencing a degree of return
+to normality.
+Ansh Bhatnagar Science Editor
+How (not) to respond to a pandemic -
+Part Two Photo credits: Simon Walker/HM
+A LATE LOCKDOWN
+CARE HOMES AND
+PPE
+A SUMMER OF
+SPREADING
+30k excess deaths in
+care homes
+THE TEST
+AND TRACE
+TRAVESTY
+

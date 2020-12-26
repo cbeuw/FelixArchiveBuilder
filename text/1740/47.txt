@@ -1,0 +1,47 @@
+ISSUE 1740
+FELIX
+47
+PUZZLES fsudoku@imperial.ac.uk
+SHIKAKU
+Divide up the square into smaller rectangles such that each
+rectangle has one number exactly, and that number is the
+area of the rectangle.
+Gogen
+Fill in the grid with letters A-Y such that the
+words below can be made by connecting
+letters next to, above, or diagonal to each
+other.
+Clues:
+Last week’s solutions
+Cryptogram
+“If you don’t know where you want to go, then it
+doesn’t matter which path you take.”
+-- The Cheshire Cat
+BOTCH
+CLANK
+FOB
+INKY
+JIVE
+KNAVE
+MINX
+MOVING
+NAG
+PEND
+SQUANDER
+TOUCAN
+WANE
+MINESWEEPER
+The number in a cell represents the number of mines adjacent to that
+square (up/down, left/right, diagonal). Find and mark all of the mines to
+clear the board.
+Hello puzzlers!
+Two weeks into term means 2 pages of puzzles (please don’t
+expect 3 pages in the next issue, it isn’t happening), and we’re
+just that bit closer to doom.
+Shout out to crauswords.com (as always) for helping us pro-
+duce Sudoku, Shikaku and Minesweeper, and to Quiz Society
+for their long awaited trivia. They will be going back to a fort-
+nightly schedule, so keep an eye out!
+Gogen, too, makes a return - I’ve made it a bit tricky, so have
+fun. Try creating some of your own and submitting!
+

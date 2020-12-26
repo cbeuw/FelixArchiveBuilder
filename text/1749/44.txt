@@ -1,0 +1,129 @@
+KEEP THE CAT FREE
+PUZZLES
+fsudoku@imperial.ac.uk Felixonline.co.uk
+46
+MIld cZeus
+14
++
+25
++
+26
++
+18
+×
+18
+×
+81
+×
+17
++
+31
++
+21
++
+4
+×
+16
++
+140
+×
+21
++
+140
+×
+4
+×
+4
+×
+16
+×
+18
++
+21
+×
+10
+×
+24
+×
+18
++
+19
++
+25
+×
+25
+×
+14
++
+16
++
+42
+×
+15
+×
+15
+×
+105
+×
+168
+×
+21
+×
+49
+×
+5
+×
+5
+×
+240
+×
+63
+×
+40
+×
+14
+×
+64
+×
+18
+×
+32
+×
+Medium cZeus Hot cZeus
+Shikaku
+Gogen
+Write letters into each circle to form the listed words.
+Letters can be linked by moving between adjacent cells
+horizontally, vertically or diagonally in any direction. You
+may use each letter in the alphabet only once.
+Rules
+cZeus is a mathematical
+puzzle formed of four
+simple rules - follow
+this QR code for an
+explanation of how it
+works.
+Felix is proud to announce a new type of puzzle. Never before seen in a
+newspaper in the world, cZeus was developed by the Mathematical Games
+company and provided to Felix.
+Rules
+Divide the square into rectangles, such that each rectangle contains exactly
+one number. The numbers given represent the area of the containing rectangle.
+4 6
+2 3
+27 16 3 2 10
+4 4
+7 5 30
+5
+6 10 5
+5
+5 8 21
+4 4
+S B X
+Y J F
+G D P
+Rules
+Clues
+CUT - EXHAlING - FAIRY - JUTE - PLATE -
+SQUID - TOMB - TOY - VIAL - WEAK
+

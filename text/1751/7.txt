@@ -1,0 +1,176 @@
+FRIDAY 16TH OCTOBER 2020
+SCIENCE
+7
+Science.felix@imperial.ac.uk Felixonline.co.uk
+SCIENCE
+Genetically driven diseases encom-
+pass a wide variety of illnesses
+and, in addition to genetic disorders,
+include some of the world’s most lethal
+killers, such as diabetes or cancer. These
+occur when a specific region of DNA
+is deleted, replicated, or exchanged,
+leading to mutations and faulty protein
+production. While these mutations are
+frequently inherited, they can also arise
+spontaneously later in life, such as in
+most types of cancer.
+Advanced therapies, including gene
+therapies, aim to treat or prevent ge-
+netic diseases by addressing the un-
+derlying cause: faulty DNA code. For
+example, gene-based therapeutics can
+be introduced to inactivate or ‘silence’
+faulty genes, or conversely to stimulate
+expression of correctly functioning ones
+to amplify their effect. Genes can also
+be modified or reprogrammed, either
+within the patient or in vitro, to provide
+correctly functioning proteins.
+The type of appropriate therapy will
+depend on the individual’s genetic com-
+position and stage at which the genetic
+mutation occurs, and so is highly tai-
+lored to the patient. This illustrates the
+concept of personalised medicine - and
+signals a move away from the current,
+more generalised, medication approach.
+RNA, despite being known primarily
+for its role in protein synthesis, is a par-
+ticularly effective gene therapeutic. Due
+to its diverse biological functions, if
+engineered correctly, it encounters sig-
+nificantly less obstacles when entering
+our cells than synthetic drugs, and has
+less potential for toxic side-effects than,
+for example, viral vectors, which can
+risk unwanted mutations or immune
+hyper-reactions. Moreover, small nu-
+cleotide changes can be easily made to
+adjust the RNA’s functions within the
+cell, simultaneously achieving a more
+targeted and versatile mode of action
+than currently used treatments. It is also
+increasingly easier and cost-effective to
+manufacture than more complicated
+alternatives, such as immunotherapies.
+A currently popular method which
+employs RNA is CRISPR-Cas9, where
+a pre-designed targeting guide RNA
+(gRNA) sequence is embedded with-
+in a longer RNA strand (yes, it is this
+mechanism which was the basis of this
+year’s Nobel Prize in Chemistry!). The
+CRISPR-Cas9 complex, guided by
+the gRNA, binds to a specific DNA
+sequence inside the patient’s cells, and
+the Cas 9 enzyme acts to cut the DNA
+at this location. This triggers the cell
+to recognise that DNA damage has
+occurred and activate its own repair
+machinery to add, replace, or delete a
+gene fragment - such as a piece of faulty
+genetic code. CRISPR itself is extreme-
+ly versatile and has high potential for
+a plethora of genetic diseases, but it is
+not yet widespread for human use, as
+off-target effects and other limitations
+are still being eliminated via early-stage
+studies. However, one current experi-
+mental focus is attempting to cure Hun-
+tington’s disease in humans, a genetic
+disease classified by additional, repeated
+segments of genetic code that cause
+deformation of the subsequently gener-
+ated protein, which disrupts the func-
+tioning of neuron cells. Use of CRISPR
+gene editing tools aim to remove the
+surplus repeats to prevent escalation of
+the disease.
+Although the most high-profile, RNA
+gene therapies are not limited to CRIS-
+PR tools. A type of RNA known as
+mRNA (messenger RNA) can be used,
+focusing on replacing a patient’s faulty
+mRNA, such as in cystic fibrosis, a
+disease that occurs as a result of the mu-
+tated CFTR protein. mRNA is a form
+of RNA which acts as the connection
+between protein expression and raw
+DNA code, and so delivering healthy
+mRNA to the patient could correct an
+underlying genetic disorder. Candidate
+drugs of this type involving inhalation
+of nanoparticles containing healthy
+mRNA to help replace the faulty CFTR
+protein are currently being developed
+by TranslateBio and Moderna Thera-
+peutics, among others.
+mRNA can also be used to develop
+vaccines; one of the leading vaccines
+being developed against COVID-19 is
+of this type and is being developed by
+Moderna Therapeutics. Injected mRNA
+can be translated into proteins by our
+own cell machinery to stimulate the
+immune system to produce a specific re-
+sponse against a pathogen such against
+the flu, Zika or rabies viruses. Specific
+cancer biomarkers, called neoepitopes,
+can also be targeted using mRNA, such
+as for melanoma treatment.
+Finally, an RNA therapy focused
+on degrading faulty proteins, termed
+antisense therapy, is on the rise and
+is currently more prominent than
+mRNA due to its ease of manufacture.
+This primarily uses a type of RNA
+known as interfering RNA (RNAi, or
+siRNA - short interfering RNA), and
+was the basis of the 2006 Nobel Prize
+in Physiology/Medicine. These short
+RNAs carry instructions for the cell
+to destroy particular malfunctioning
+mRNAs within itself. Again, this is
+gaining traction with therapies to
+treat haemophilia and improve kidney
+transplant outcomes, which are already
+being used, while multiple others are in
+clinical trials. In 2018, Alnylam Phar-
+maceuticals launched the first approved
+siRNA drug to treat a rare degenerative
+disorder called hereditary ATTR amy-
+loidosis. Their drug, patisiran, is either
+injected or administered intravenously,
+and exhibits its effects in the liver; as
+do most candidate drugs at this point
+in time. Since then, however, only one
+other siRNA drug has been approved;
+but several others are showing promise
+in late-stage clinical trials.
+RNA-based therapies hold immense
+potential, but the answer to the key
+limitation - the lack of efficient drug
+delivery systems which can target or-
+gans other than the liver - is the primary
+focus in the field. With further research
+and investment into the sector, RNA-
+based therapies appear to be the basis of
+the next pharmaceutical revolution, and
+a solid step towards curing what was
+once thought to be the incurable.
+Why RNA may be the answer to curing
+genetic (and other) diseases
+Julia Dabrowska Science Editor
+Microscope image of the mRNA vaccine candidate being developed by Moderna Therapeutics
+Photo credits: Flickr.
+RNA THERAPIES
+SIMULTANEOUSLY
+ACHIEVE A MORE
+TARGETED AND
+VERSATILE MODE
+OF ACTION THAN
+CURRENTLY-USED
+TREATMENTS
+“
+

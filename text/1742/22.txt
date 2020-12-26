@@ -1,0 +1,252 @@
+FELIX
+FRIDAY, 7TH
+FEBRUARY, 2020
+TECH technology.felix@imperial.ac.uk
+22
+Tech Headlines
+Your Weekly Tech News In Short Snippets
+TECH
+Sudarshan Sreeram
+Tech Writer
+Sony Playstation 5 &
+The Future of Con-
+sole Gaming
+S
+ony teased its
+Playstation 5
+console last
+month at CES
+by unveiling its official
+logo and announcing that
+it was set for a holiday
+2020 release; Microsoft’s
+Xbox Series X is also set
+to be launched in a similar
+timeframe. However,
+unlike Microsoft, Sony
+didn’t reveal the actual
+console. Rather, it’s
+rumoured that Sony is set
+to reveal it at a special
+event later this month or
+early next month. Since
+the teaser, fans have been
+speculating the price,
+design, launch titles, and
+specifications of the high-
+ly-anticipated device.
+It’s also rumoured
+that Sony would wait for
+Microsoft to launch the
+Series X first and then
+determine the price of the
+PS5. Although, Microsoft
+doesn’t seem too worried
+about Sony or Nintendo;
+in a recent interview,
+Xbox head Phil Spencer
+said that “Amazon and
+Google are Xbox’s real
+competition.” Microsoft
+is trying to push Xbox
+over to the cloud with
+its Azure cloud infra-
+structure through Project
+xCloud. Thus, Microsoft
+is, in essence, directly
+competing with other
+companies that have
+world-class cloud infra-
+structures and a focus on
+gaming; these companies
+include Google, Amazon,
+and even Apple.
+Sony and Nintendo,
+on the other hand, are
+more traditional com-
+panies, focusing on
+creating products rather
+than shifting to services.
+Coming back to the PS5,
+it looks to have great
+backwards compatibility
+with the PS4 and highly
+new galaxy foldable - the
+Galaxy Z flip - have all
+been leaked both through
+Samsung themselves as
+well as through other
+sources. At this point,
+it looks like the idea of
+having an event about
+the devices seems pretty
+insignificant considering
+that almost everything
+has been leaked about
+the devices, down to their
+prices and even colours.
+Anyways, the Z Flip is
+set to be a direct compet-
+itor to the Motorola Razr
+and features a tall 6.7”
+foldable display. From the
+rumours and leaks, it looks
+like Samsung has learned
+from its experience with
+the Galaxy Fold as the
+new device promises to
+be much more durable
+and reliable in the long
+run. Further, it is set to be
+priced lower than the Fold
+and higher than the S20
+series. One disadvantage
+with a foldable, though,
+is that you’re paying for
+the form factor rather than
+for the specifications.
+The Z flip would run
+on the older Snapdragon
+855+ processor, not have
+a 5G variant, have a
+battery capacity of 3300
+mAh, and only possess a
+mAh and 5000 mAh,
+and feature rectangular
+camera modules (similar
+to those on the iPhone
+11 series and the Pixel 4
+series) with around 3 to
+4 cameras. Furthermore,
+these phones are rumoured
+to have a buttery-smooth
+120 Hz OLED displays
+with an Infinity-O cutout.
+The S20 line, in general,
+would resemble the
+the Note 10 series. The
+Galaxy Unpacked event is
+less than a week away, so
+get ready for a rather fresh
+dose of android flagships.
+Oculus Quest Gains
+Hand Tracking Fea-
+ture
+Late last year, Oculus’s
+Quest VR headset
+received a software update
+that enables the device to
+track its wearer’s hands.
+This experimental feature
+makes use of the onboard
+cameras to track the
+user’s hands for a more
+natural, immersive, and
+controller-free gaming ex-
+perience. A recent update
+makes the experience
+much better for end-users;
+however, there isn’t really
+much to do with the hand
+In an effort to encour-
+age people to switch to
+electric vehicles, the UK
+government has planned
+to ban the sale of gasoline
+cars and hybrids by 2035,
+five years earlier than
+planned. Prime Minister
+Boris Johnson said that
+“There can be no greater
+responsibility than
+protecting our planet.”
+This shows commitment
+towards a positive change
+that may influence other
+countries and would cer-
+tainly benefit our planet
+environmentally. These
+cars can still be sold on the
+used market, but you can
+expect heavy road taxes
+and fuel charges. With
+Norway, Netherlands,
+France, and even India on
+a similar track, it’s only a
+matter of time before the
+rest of the world follow
+suit.
+“Amazon and
+Google are
+Xbox’s real
+competiton”
+impressive performance
+upgrades. The console’s
+processor is based on
+AMD’s Ryzen architec-
+ture and its graphics would
+be powered by a custom
+AMD Navi GPU. Like the
+Xbox Series X, the PS5
+would ditch hard-drives
+for solid-state-drives;
+games would now launch
+much faster and load
+times would reduce sig-
+nificantly. Furthermore,
+the PS5 is confirmed to
+be backwards compatible
+with the PS4, meaning
+that most of your old PS4
+games would still run on
+the PS5. In addition, most
+of the games released
+in the next year would
+be cross-generational,
+meaning that they would
+still run on both genera-
+tions of consoles.
+Samsung Galaxy Z
+Flip & S20 Series
+Samsung seems to
+have been facing a lot of
+problems with containing
+the excitement for it’s
+next range of flagships.
+The Galaxy S20 series
+of phones as well as the
+Oculus Quest Hand Tracking // Oculus
+“A natural,
+immersive,
+controller-free
+experience”
+tracking apart from nav-
+igating the user interface
+and using it to control the
+device’s built-in, native
+applications. Also, there
+aren’t any games on the
+Oculus Store that current-
+ly support this feature,
+though it’s interesting
+to see where Oculus and
+game developers would
+take this feature in the
+future.
+UK To Ban Gaso-
+lines & Hybrids By
+2035
+“You’re paying
+for the form
+factor rather
+than for the
+specifications”
+dual camera module. The
+S20 on the other hand,
+would have a 5G variant,
+run on the Exynos 990
+processor, possess battery
+capacities between 4500
+Interested in writing and / or editing for the TECH section?
+Please drop us an e-mail at technology.felix@imperial.ac.uk
+

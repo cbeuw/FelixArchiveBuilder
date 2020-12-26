@@ -1,0 +1,180 @@
+Googling into Extinction
+T
+he terminology
+associated with
+the internet
+always seems to
+paint a picture of a benign
+and magical service that
+transports data across
+the planet without any
+physical trace. Accessing
+data instantaneously from
+every corner of the earth,
+we rely on the ethereal
+bank of information in
+most aspects of our day to
+day lives, but the ‘cloud’
+as we know it can have a
+much more damaging and
+visible impact than we
+have been led to believe.
+Every action that uses
+the internet, be it web
+browsing, sending/receiv-
+ing emails or using apps
+that require WiFi invokes
+the use of a server to
+transmit data to the device
+you’re using. These online
+requests are sustained by
+physical servers, large
+electronic structures
+which form a global
+network held together
+by miles and miles of
+undersea cables, switches
+and other gizmos. It’s not
+surprising to hear that this
+infrastructure requires an
+immeasurable amount of
+electricity, wherein lies
+our problem: 80% of all
+data centers are powered
+by energy derived from
+fossil fuel consuming
+power stations. A study
+from 2015 estimates that
+CO2 emissions from
+internet activity are com-
+parable to that of the entire
+global aviation industry,
+and others suggest that
+the communications
+industry could constitute
+20% of all global electric-
+ity output by 2025, which
+could severely hinder
+attempts to meet global
+climate goals, such as
+those outlined in the Paris
+Agreement.
+The sites with some
+of the biggest request
+inﬂuxes are unfortunately
+not doing enough. Despite
+making data servers
+more energy efﬁcient and
+SUSTAINABILITY
+At Ecosia, searches are powered by renewable energy // Ecosia
+SUSTAINABILITY
+FELIX ISSUE 1738
+sustainability.felix@imperial.ac.uk
+“A study
+from 2015
+estimates that
+CO2 emissions
+from internet
+activity are
+comparable
+to that of the
+entire global
+aviation
+industry”
+Dario Mongiardi
+Imperial Ecosia
+Ambassador
+Felix Sustainabili-
+ty was founded to
+create a platform
+for discussion about
+environmental is-
+sues and sustainable
+development. We are
+open to articles from
+all points of view.
+Please get in touch
+if you would like to
+write for us using the
+email address in the
+header.
+attempting to source more
+of their electricity from
+renewables, Google’s
+claim of carbon neutrality
+since 2007 simply doesn’t
+cut it: the US internet titan
+is responsible for 40%
+of the internet’s carbon
+footprint stemming from
+the 3.5 billion searches it
+processes a day. Facebook
+also has a role to play, in
+that its data centres and
+business operations led
+to an output of 718,000
+metric tons of CO2 in
+2016. The usage of the
+internet isn’t going to
+slow down anytime soon
+either; more and more
+daily activities are being
+substituted by WiFi
+powered data storage and
+transfer, so clearly some-
+“Ecosia is a
+non-profit
+search engine
+which uses
+revenue from
+adverts to fund
+ecological
+campaigns”
+thing has to give.
+One powerful initiative
+with the aim of reducing
+this wave of ‘digital pollu-
+tion’is Ecosia, a non-proﬁt
+search engine which uses
+revenue it generates from
+advertisements to fund
+ecological campaigns,
+most notably reforesta-
+tion. Its ethos is simple:
+the company pledges to
+plant a tree for every 45
+searches, it publishes its
+monthly ﬁnancial reports
+which demonstrate how
+80% of all revenue goes
+towards its environmental
+projects, it doesn’t sell
+your data (tut tut Google)
+and importantly, all
+searches are powered by
+100% renewable energy.
+Imperial on Ecosia is a
+campaignaimingtoimple-
+ment Ecosia as the default
+search engine instead
+of Google at Imperial.
+With more than 65,000
+searches and already 445
+trees planted by Imperial
+supporters, Imperial has
+the potential to make
+transformative impacts on
+ecosystems, biodiversity
+and livelihoods across
+the world by making
+this simple change. Take
+part in this campaign
+by spreading the word
+and making Ecosia your
+default search engine
+using the Imperial link on
+our Facebook page.
+Ecosia plants a tree for every 45 searches //Pixabay
+How our web usage has damaging effects on the environment and what you can do to make a positive change
+17
+

@@ -1,0 +1,232 @@
+INVESTMENT
+FRIDAY, 10TH
+JANUARY, 2020
+20
+icu.investmentsociety@imperial.ac.uk
+INVESTMENT icu.investmentsociety@imperial.ac.uk
+INVESTMENT
+Jinay Patel
+ICIS
+Investment Co-Editor
+H
+ello again to all
+of you budding
+future bankers.
+By the end of
+this article you’re going to
+be experts on quants. Sort
+of. More like moderately
+informed.
+What are quants?
+They’re people who can
+Computer Geeks who earn more than you: Quants
+understand and build
+complicated mathemat-
+ical models that will in
+some way be used to
+make more money and
+perhaps mitigate risk.
+Those who work directly
+with the traders are front
+office quants and those
+who sit in the dusty room
+in the basement are back
+office quants. There are,
+of course, different sub-
+categories such algorith-
+mic trading quants, risk
+management quants and
+others, but by and large
+these guys are fundamen-
+tally quite similar.
+As you can imagine,
+the pay for these positions
+tend to be quite high.
+Those working in front
+office positions are better
+compensated than their
+peers in back office, but
+have more stressful and
+demanding roles.
+For example, someone
+working as a back office
+quant will probably have
+the title quantitative re-
+searcher. Their job could
+be to validate statistical
+models and analytics
+programs or to research
+and analyse market trends
+among other things. Being
+in the back office may
+sound quite dull to some
+but it is essential to a bank.
+The more exciting role is
+working as a front office
+quant, typically termed
+quantitative trader. Here
+you’ll be working directly
+with colleagues on the
+trading floor coming up
+with some fancy pants
+algorithm that’s going to
+make the trader a lot of
+money. As you move up
+the ranks, you’ll usually
+specialise in a particular
+area – derivatives pricing,
+quantitative investment
+strategies, algo trading
+etc.
+Becoming a Quant
+To be a quant you need
+to have Big Brain, but that
+doesn’t mean everyone
+who can do it should do it.
+The sort of problems you
+face and the work you do
+is quite narrowly focused.
+You’re not going to meet
+with management or talk
+to shareholders and there
+FELIX
+“... you’ll
+be working
+directly with
+colleagues on
+the trading
+floor coming
+up with some
+fancy pants
+algorithm
+that’s going
+to make the
+trader a lot of
+money. ”
+isn’t much opportunity to
+move to positions where
+you manage people. This
+is however compensat-
+ed for with very large
+salaries. If you’re serious
+about becoming a quant,
+be sure that you actually
+like the work that it entails
+and aren’t doing it for the
+money. That being said,
+how do you become a
+quant?
+Typically, they have
+an extensive background
+in statistics, computer
+science, or something
+closely related. PhD’s
+among quants are not
+uncommon. If you’re
+looking to get ahead of the
+competition, you might
+want to consider further
+studies. Some quants
+tend to focus more on the
+mathematical side of their
+work whilst others lean
+towards the data model-
+ling and programming
+side.
+Banks prefer that all
+future quants have some
+background or at least
+familiarity with program-
+ming, according to the
+Goldman Sachs strat who
+rejected me. Not bitter
+about it. I swear. A ‘strat’
+is a mixture of someone
+who works in structuring,
+quantitative finance and
+engineering in a bank.
+Perhaps there’ll be an
+“With the aid
+of Python...
+making
+some quants
+obsolete. It’s
+the ones who
+only push out
+20 lines of
+code in a day
+that Barclays
+are looking to
+axe”
+“To be a
+quant you
+need to have
+Big Brain ....
+PhD’s among
+quants are not
+uncommon”
+article on this at some
+point in the future.
+The future of Quants
+There seems to be a
+lot of discussion about the
+future of quants. They’re
+hot right now but that
+could easily change in the
+future. Go back 3 decades
+when Microsoft Excel was
+introduced into banks. The
+traders no longer needed
+to send a ton of numbers
+to the guy in the back
+room to crunch because
+they could do it them-
+selves. This resulted in a
+decrease of the number
+of back and middle office
+employees as they were
+now obsolete. Apply the
+same sort of scenario to
+the modern day. Take a
+cash equities project for
+example, traders used to
+have to ask quants to do
+basic post trade analysis
+for them. With the aid of
+Python, traders can do this
+themselves in turn making
+some quants obsolete.
+This is exactly what’s
+happening at Barclays. Of
+course, most quants have
+significant amounts of
+other, more complex work
+to do and these guys will
+probably be around for a
+while. It’s the ones who
+only push out 20 lines of
+code in a day that Barclays
+are looking to axe.
+The best quant jobs are
+probably not in banks but
+on the buy-side. So if this
+article has inspired you to
+become a quant well then
+you should look to work
+in a quantitative fund like
+Two Sigma or Citadel.
+Here, there’s much
+more of an opportunity
+for you develop as a quant
+and they pay astronomical
+amounts. These roles
+however, are ridiculously
+competitive but we go to
+Imperial so we must be
+able to get any job we
+want right? Right..?
+Felix is recruiting!
+We want you – yes, you!We’re looking for writers, photographers, editors, illustrators, reporters, computer experts
+and grammar nerds to join our team. No experience needed – we’ll teach you everything you need to know. If
+you’re interested, send us an email on felix@ic.ac.uk
+

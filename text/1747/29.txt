@@ -1,0 +1,346 @@
+FELIX
+29
+INVESTMENT icu.investmentsociety@imperial.ac.uk
+ISSUE 1747
+A closer look: Inflation and the money machine.
+INVESTMENT
+Pavan Singh Gill
+ICIS
+Investment Co-Editor
+T
+he layman
+definition of
+inflation refers
+to the increase in
+the cost of goods and ser-
+vices. Another definition
+would be the reduction
+of purchasing power due
+to the loss of the intrinsic
+value of money relative
+to the cost of goods and
+services. This provides
+two perspectives, the
+first being the goods and
+services have a greater
+perceived value and the
+second that money has
+lost its intrinsic value.
+Both are somewhat
+logical and relevant.
+Why do I say that?
+Let us begin by stating
+that money has lost its
+value. And we shall first
+establish that money is a
+representation of work.
+The more valuable the
+work done is perceived
+to be, the more money it
+receives as compensation.
+If we have a situation
+that more and more
+individuals have greater
+compensation for work
+done, more individuals
+will be able to purchase
+more goods and services.
+However, if the goods and
+services are limited, the
+demand will be greater
+than the supply of goods
+and services increasing
+prices and hence money
+would be deemed to have
+lost its value. Such situa-
+tions bring up comments
+like “back in my day this
+used to cost… but now it’s
+so expensive”. That is an
+example of inflation. The
+same is true when we say
+the goods and services
+have greater perceived
+value, we are referring to
+the demand for goods and
+services concerning the
+money supply.
+Some of you may have
+noticed the use of the
+word “perceived” in my
+sentence above and the
+reason is that in general
+the cost associated with a
+particular good or service,
+logically should have gone
+down with the advance-
+ment in technology and
+the global supply chain.
+However, that is not the
+case, so this must mean
+that there are other factors
+at play. One such factor
+is the perceived value of
+goods and services.
+Perceived Value
+It is the customers’ val-
+uation of the product and
+its value. For example,
+a product might cost 50
+pounds to manufacture,
+but be sold for much more
+because consumers have a
+higher perceived value of
+the product. If the product
+was sold for less then its
+perceived value; consum-
+ers might not purchase it,
+for fear that it is inferior.
+The common scenario is
+when we discuss brands
+and how that adds a
+premium to the product
+cost. Other scenarios
+worth exploring is the
+cost of similar products or
+products that came before
+it. The logical thought
+process is that with an ad-
+vancement in manufactur-
+ing, cost of manufacturing
+has gone down, yet we see
+that newer products are
+more expensive. While
+they might have more
+complex features, but if
+the cost of producing the
+newer product is lower
+then its predecessor, then
+the factor at play is more
+psychological. And it is
+due to the consumers’
+perceived value of the
+product. Another factor
+is the increase in money
+supply in the market.
+Money Supply
+The money supply in
+the market in most cases
+is controlled by a central
+bank. The central banks
+have several instruments
+to do this. First being able
+to set interest rates, which
+determines the cost of
+borrowing. This cost of
+borrowingisnotforclients
+of private and commercial
+banks. It is the cost of
+borrowing money from
+the central bank by private
+and commercial banks.
+And banks use this infor-
+mation to set their interest
+rates (usually higher)
+for their clients. So why
+would the banks borrow
+money from the central
+bank? Short answer, they
+usually don’t, because
+and within themselves.
+The banks have what we
+call an interbank rate.
+Which is more favourable
+then open market rates
+(the rates that you and I
+see when getting a loan)
+but usually higher than
+central bank rates. Why
+do they need to borrow?
+One reason is to satisfy
+the reserve requirement
+or reserve ratio, which we
+will explore next.
+Another tool central
+banks use is reserve
+requirement or reserve
+ratio. It is the amount of
+money banks must keep
+as a ratio/percentage of
+their total holdings. The
+next question you might
+have is “I thought the
+bank keeps my money, so
+I don’t have to stuff it in
+my mattress”. Well, that’s
+not the case, this is where
+the magic happens. The
+bank takes your money
+and lends a portion of it
+as loans. However, the
+money that you place in
+the bank, on paper, is still
+in your account. This does
+two things it provides an
+income to banks in the
+formofloansand“creates”
+new money. This is where
+the on-paper definition is
+important. Imagine you
+have 100 pounds in your
+bank account. Now what
+happens, is your bank
+will take a portion of that
+according to the reserve
+requirement and loan
+it out. And it loans out
+90 pounds. The person
+it loans the 90 pounds
+to, places that money
+in their bank account.
+Now assuming that both
+accounts are held by the
+bank. The bank has a total
+of 190 pounds on paper
+in its holdings. And with
+that, the bank takes that
+190 pounds and loans
+out a portion of that. This
+process becomes a cycle
+and “creates” money. And
+the bank has a growth in
+the amount of money on
+paper in its holdings and
+the money supply in the
+economy increases. At
+the same time, it creates
+multiple streams of
+income through multiple
+loans.Thebanks,however,
+must ensure that it must
+physically have money
+in its vaults to satisfy the
+reserve requirements.
+When the loans are paid,
+the money is “destroyed”;
+not actually because it
+was credit (debt) to being
+with, i.e. it did not exist.
+The money supply would
+then decrease. You will
+notice that banks pay you
+a small interest rate to
+keep the money in your
+account and that most
+likely comes from the
+revenue generated from
+the loans they issued and
+it is an incentive to keep
+your money with the bank.
+Take note
+Different systems
+manage the money supply,
+like in the European Union
+for example, which has a
+system of multiple central
+banks and the American
+Federal Reserve (FED)
+and the treasury. The FED
+has recently decreased its
+rate, making it cheaper to
+borrow and introducing
+more money (in the form
+of credit) into the market
+to stimulate the economy,
+amidst the coronavirus
+outbreak around the
+world.
+The reserve require-
+“If the product
+was sold for
+less then its
+perceived
+value;
+consumers
+might not
+purchase it, for
+fear that it is
+inferior”
+ment is not something
+central banks typically
+change, but it is done in
+China by the People’s
+Bank of China (China’s
+central bank), to control
+its money supply. And
+if you read my earlier ar
+ticle on trade, I briefly
+touched on why some
+currencies are worth more
+than others. (hint: it’s
+demand and supply but
+with the desired currency
+as the good that you are
+buying with your coun-
+try’s currency).
+Further readings
+Consumer price index
+(CPI), is the weighted
+average of prices of
+consumer goods and
+services and it is used in
+the calculation of infla-
+“I thought the
+bank keeps
+my money, so
+I don’t have to
+stuff it in my
+mattress [...]
+The bank takes
+your money
+and lends a
+portion of it as
+loans”
+“The reserve
+requirement is
+not something
+central banks
+typically
+change, but
+it is done in
+China by the
+People’s Bank
+of China”
+it implies that they are
+facing financal difficulty
+and might lead to an in-
+vestigation into the bank.
+In the event they require
+money, the banks would
+borrow from each other
+“The banks,
+however,
+must ensure
+that it must
+physically
+have money
+in its vaults
+to satisfy
+the reserve
+requirements”
+tion. Arguably not the best
+measure of inflation on an
+induvial level, due to dif-
+ferent consumer spending
+habits. For example, if
+the products you have
+been purchasing has not
+gone up in price for years
+compared to someone else
+who has seen an increase
+in cost for their purchases.
+Then one could almost
+say that inflation is differ-
+ent for you as compared to
+someone else.
+

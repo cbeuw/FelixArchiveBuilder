@@ -1,0 +1,283 @@
+SCIENCE
+ISSUE 1739
+science.felix@imperial.ac.uk
+FELIX
+SCIENCE science.felix@imperial.ac.uk
+31
+Imagine a world where all you need to do to stay healthy is eat certain foods - with the new research trend in
+hyperfoods, food may someday become the new medicine
+SCIENCE
+Mery Shanin
+Science Writer
+“The Imperial
+scientists
+analysed
+7962 food
+molecules
+to discover
+nearly 110
+potential
+candidates
+for the fight
+against
+cancer”
+W
+ith the
+s t e a d y
+rise in
+average life
+expectancy, we are facing
+unprecedented levels of
+chronic diseases such as
+cancer, cardiovascular,
+metabolic and neuro-
+degenerative disorders.
+The lack of available
+treatments or definitive
+cures for most of these
+illnesses has shifted the
+public discourse from
+therapy and palliative care
+to prevention, searching
+for ways to avoid such
+diseases altogether. As the
+single biggest modifiable
+aspect of an individual’s
+health, diet has become
+a major focus for disease
+prevention, with research
+showing that up to 40% of
+cancers can be prevented
+by minor nutrition and
+lifestyle alterations.
+Recent advances in
+artificial intelligence tech-
+nologies and the growth of
+databases on food, drugs
+and diseases have made it
+possible to identify mole-
+cules within food that can
+prevent or combat diseas-
+es and their symptoms. A
+set of such molecules has
+already been discovered
+by examining structural
+similarities between food
+molecules and existing
+therapeutics. A team
+of Imperial College
+London researchers
+have further developed a
+novel machine-learning
+strategy to predict can-
+cer-beating molecules,
+which influence the same
+cellular processes targeted
+by current clinical ther-
+apies. These molecules
+regulate cell growth and
+inflammation, therefore
+suppressing cancer cell
+survival, proliferation
+and spread. The Imperial
+scientists analysed 7962
+food molecules to dis-
+cover nearly 110 potential
+candidates for the fight
+against cancer which are
+predominantly found in
+plant-based foods, such
+as tea, carrots, celery,
+orange, grape, coriander,
+cabbage and dill. Their
+machine-learning strategy
+is not limited to cancer
+research but can also be
+used to pinpoint general
+health-promoting food
+molecules or those appli-
+cable to other diseases.
+The ultimate goal of
+such research is to gen-
+erate a database of food
+ingredients, rich in dis-
+ease-fighting molecules,
+that can later be used to
+design “hyperfoods”.
+Hyperfoods are envisaged
+to have health-promoting
+or therapeutic effects, to
+improve disease treatment
+outcomes and decrease
+the overall healthcare
+burden. They are a mul-
+ti-disciplinary endeavour,
+requiring not only
+scientific and technologi-
+cal expertise, but culinary
+optimisation (improving
+aesthetic features, such
+as colour, shape, and
+texture, and sensory char-
+acteristics, such as taste,
+smell, mouthfeel) and
+large-scale industrial pro-
+duction. Indeed, in 2018
+an international group of
+academics, chefs and local
+food producers signed a
+Manifesto on the Future of
+Computing & Food with
+the aim to revolutionise
+the production, distribu-
+tion, and consumption
+of food. The manifesto
+pledges to educate people
+about the impact of their
+diet on their health and
+wellbeing, to enable da-
+ta-driven informed food
+policy decision making
+and to ensure transparency
+on the origin and heritage
+of food.
+Hyperfoods are thus
+paving the future to
+gastronomic medicine,
+an unusual kind of
+personalised medicine
+with “food passports”
+that provide tailored and
+therapeutically functional
+foods for each individual.
+Currently, there are some
+obvious limitations to this
+preventative approach. It
+is unclear whether any of
+the identified molecules
+are present in sufficient
+concentrations within
+food items to perform
+their proposed health-pro-
+moting functions. It also
+remains to be established
+whether the molecules
+can retain their biologi-
+cally beneficial properties
+through the process of
+cultivation, preparation,
+cooking and storage. So,
+despite structurally re-
+sembling drugs or acting
+on the same cellular
+processes as current ther-
+apies, the health effects of
+the predicted hyperfoods
+are yet to be validated and
+quantified.
+In that sense, hyper-
+foods are quite similar
+to the widely popular su-
+perfoods. Superfoods
+are marketed as nutrient
+dense and beneficial
+to our health - they are
+supposed to be full of
+antioxidants to fight off
+cancer, healthy fats to
+prevent heart disease, and
+fibre to keep the digestive
+system in check. Popular
+superfoods include
+blueberries, kale, pome-
+granates, goji berries and
+chia seeds among others.
+There are, however, no set
+criteria for determining
+what makes food “super”
+and there is no scientific
+support for the superior
+health-promoting effects
+of superfoods.
+Pomegranates, for
+instance, are suggested
+to reduce arterial damage
+caused by cholesterol and
+decrease the progress of
+prostate tumours, but the
+evidence behind these
+claims is either incon-
+clusive or incomplete.
+Similarly, goji berries
+have been used in tradi-
+tional Chinese medicine
+for thousands of years,
+boasting cancer curing
+and preventative abilities.
+Fine tuning of consciousness // Ivu.org, Thigala shri
+is chia seeds. They are
+highly rich in omega-3
+fats, which are a staple
+of the notoriously healthy
+Mediterranean diet.
+However, the omega-3s
+in chia seeds are disparate
+from the health-promoting
+omega-3s in fish, and our
+bodies are very inefficient
+in processing the former
+into the latter. While fish
+is widely accepted to pro-
+tect against heart diseases,
+chia seeds have shown no
+significant effects with
+the regards to risk from
+cardiovascular disorders.
+Bombarded with su-
+perfoods in supermarket
+aisles and wellness trends
+on social media, we are
+more health conscious
+today than ever before.
+But the high pace of
+everyday life is not always
+compatible with a healthy
+lifestyle – homecooked
+5-a-day meals and regular
+exercise. So, naturally, we
+seek little cheats such as
+superfoods - obviously it
+is comforting to believe
+that eating a kale salad for
+lunch or drinking charcoal
+shots for breakfast can
+help us avoid the horrors
+of being chronically or
+terminally ill. But, it is
+only a small leap from
+superfoods to hyperfoods.
+As scientists are trying to
+identify and extract the
+best health-promoting
+molecules from all food in
+order to create a hyperfood
+meal that can alleviate our
+health concerns, it appears
+that wellness and medi-
+cine might finally meet.
+“Hyperfoods
+are paving
+the future to
+gastronomic
+medicine”
+From Superfoods to Hyperfoods
+However, clinical studies
+have failed to validate
+the healing properties of
+goji berries, and in terms
+of nutrients, goji berries
+do not outperform other
+berries or fruit. Another
+case of misleadingly
+advertised superfoods
+

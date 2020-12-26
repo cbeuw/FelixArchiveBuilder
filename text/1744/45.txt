@@ -1,0 +1,70 @@
+ISSUE 1744
+FELIX
+45
+PUZZLES fsudoku@imperial.ac.uk
+WORD PYRAMID
+Each row is an anagram of the previous, plus or minus
+one letter. Clues: Wifi giver (2) - Tasteful mathematical
+constant (3) - What you want your fruit to be, ideally (4) -
+When the only factors that matter are you and your 1 (5)
+- Exam worth less than the one in June (6) - To put at risk
+of harm (7) - Grim place to study, if ICE is to be believed (8)
+- To pierce with a sharpened stake thrust up through the
+body (7) - Original (6) - Month of jokes and hayfever (5) -
+The link between H2S, Sothwestern and Tube (4) - Beset
+(3) - The kind of fancy dents you want in your pasta (2)
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ ,
+11 13 24 17 4 11 12 12 11 24 9 14 17 11 4 5 21 15 ,
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ . ~ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+11 13 24 17 19 13 12 12 11 16 11 14 4 16 16 23 9 . ~ 14 18 10 24 9 16 18 11 24 16 12 9 4 4 15 17 11 4
+MASTERMIND
+Special thanks goes to DoC’s Duncan White, who has very kindly developed the
+code to generate Mastermind puzzles like these, along with their relevant graph-
+ics for us to use!
+Try to guess a secret code of colours in a specific order.
+A black peg indicates a correct colour in the correct position. Of course, you are
+not told with position(s) contain the correct colour, simply how many positions
+contain the correct colour.
+A white peg indicates a misplaced colour - the correct colour but in a different
+position! A few guesses have already been given, leadinng to a unique solution!
+There are easier variations with more examples at:
+https://www.doc.ic.ac.uk/~dcw/Mastermind.pdf
+The 4-hole puzzle involves the colours RGBY (Red, Green, Blue, Yellow).
+The 5-hole puzzle involves the colours BPG (Blue, Pink, Green).
+We’ve solved an example to help you out!
+In this example, the first guess involves 3 out of the 4 colours, Red, Blue, and
+Green. This guess scores zero pegs, and this would force the solution to the
+the only remaining colour; Yellow. Hence, the solution has to be YYYY!
+CRYPTOGRAM
+The letters of the alphabet have been scrambled and numbered
+0 to 25. A quote has been hidden for you to decode, and a grid
+has been provided to help you out.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+SHIKAKU
+CLUES:
+BIND
+DEUX
+FRENCH
+HOG
+JUSTICE
+QUIT
+REX
+UNSTACK
+WANDERLUST
+WAVY
+WISP
+GOGEN
+Fill in the grid with letters from A-Y to make the words given.Words
+can be formed by following any neighbouring letters!
+Try it yourself (this is a 5-hole, 3-colour puzzle)!
+Hello, Puzzlers!
+Special thanks to crauswords.
+com for our Sudoku, Mine-
+sweeper and Shikaku, and Dun-
+can White for our Mastermind!
+Thank you once again for all of
+your submissions, and have a
+great week. We are looking for
+contributions of Easter egg de-
+signs (more details next week).
+

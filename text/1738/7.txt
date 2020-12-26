@@ -1,0 +1,225 @@
+ISSUE 1738
+FELIX
+7
+COMMENT comment.felix@imperial.ac.uk
+ThinkingofWorkingforDominicCummings?
+Think Again.
+The PM’s Special Adviser’s call for scientists, software developers, weirdos, and misfits seems
+well suited to Imperial students. But Cummings’ venture may be doomed to fail.
+COMMENT
+Lloyd James
+Comment Writer
+I
+t’snotyourtypicaljob
+posting. 2,900 words
+long, and prefaced
+with quotes from var-
+ious intellectuals, the blog
+post recently authored by
+Dominic Cummins calls
+for applications from “un-
+usual” mathematicians,
+physicists, economists,
+computer scientists and
+data scientists, along with
+“super-talented weirdos”
+with “odd skills” (no
+doubt the pool of potential
+applicants at Imperial is
+rather large). Cummins,
+current Chief Special
+Advisor to PM Johnson,
+intends to deploy this elite
+team of misfits to address
+certain “profound prob-
+lems at the core of how
+the British state makes de-
+cisions” through big data,
+artificial intelligence, and
+advanced mathematics.
+I confess that my first
+reaction to skimming the
+post was a positive one.
+The general thrust of
+what Cummings is trying
+to do here is absolutely
+correct. He has previously
+discussed his frustrations
+with trying to get anything
+done within ‘the blob’that
+is the civil service, full of
+“Oxbridge English gradu-
+ates who chat about Lacan
+at dinner parties.” At the
+same time, British univer-
+sities are producing many
+talented problem solvers
+from STEM backgrounds
+who can rarely apply their
+skills for the betterment of
+society. Instead, they are
+caught by corporations
+who have them nudge
+around numbers to make
+the wealthy wealthier,
+or apply bleeding-edge
+data science techniques
+to optimising the number
+of chicken sandwiches
+stocked on a trans-At-
+lantic flight. While large
+companies have realised
+that acquiring this kind
+of talent is essential to
+remaining competitive,
+Her Majesty’s Govern-
+ment seems to be lagging
+desperately far behind.
+Given all this,
+Cummings’ new initiative
+seems like a step in the
+right direction. But if
+you consider the posting
+in more detail, and read
+published responses to the
+posting from academics, it
+is clear that this approach
+is fatally flawed.
+On the surface,
+Cummings seems to
+have insight on how sci-
+entific and mathematical
+ideas can be applied to
+understanding society.
+In his blog post, he lists
+several technical papers
+that an applicant would
+be expected to understand
+and discuss. But impres-
+sive as this list may seem,
+it has been pointed out
+that many of these scien-
+tific concepts have been
+around for a long time,
+and their links to social
+phenomena, while well
+explored, are ultimately
+very tenuous. Indeed, as
+commented by science
+writer Philip Ball in a
+piece for The Article: to
+those familiar with these
+concepts, Cummings’
+text is reminiscent of a
+“rookie postgrad spouting
+a breathless stream of
+buzzwords and random
+citations, devoid of depth
+or context, in the hope of
+convincing his supervisor
+that he knows his stuff.”
+Without a broad vision
+for how these disparate
+concepts from statistical
+mechanics and machine
+learning will fit together
+to produce new under-
+standing, this initiative
+would be starting on
+shaky ground.
+But, let’s give
+Cummings the benefit
+of the doubt and assume
+that he knows his stuff. Is
+he right to think that the
+application of these ideas
+to social problems will
+yield the “low hanging
+fruit — trillion-dollar bills
+lying on the street” that he
+describes? It’s taken as an
+article of faith in certain
+circles (most notably,
+tech companies) than any
+problem is soluble if you
+have: a sufficiently com-
+plicated algorithm, a suffi-
+ciently voluminous hoard
+of data, or a sprinkling
+of the magical pixie dust
+called ‘machine learning’
+(whatever that means).
+Johnson’s Conservative
+Party, I struggle to believe
+those goals will serve
+to improve the lives of
+ordinary people.
+I’ve not addressed
+certain other ‘deficiencies
+of appeal’ the job itself
+has: the posting advertises
+that “you will not have
+weekday date nights,
+you will sacrifice many
+weekends — frankly it
+will hard having a boy/
+girlfriend at all” and “I’ll
+bin you within weeks if
+you don’t fit.” Plus, you
+would be working for a
+man who, in the same
+blog post, claims that
+Westminster does not
+need more “drivel” about
+Brexit is Cummings’God child that brought him to prominence //Pixabay
+But if you keep abreast
+of tech news, you’ll know
+that algorithms can be
+racist, and data collection
+can be downright Or-
+wellian. These things are
+powerful tools, but they
+can backfire, and they can
+be applied to nefarious
+purposes just as easily as
+admirable ones. What’s
+really missing from
+Cummings’ 2,900 words
+is any sense of moral
+direction. There’s no
+indication at all of the sort
+of policies these technol-
+ogies would be deployed
+in aid of. ‘Solving the
+nation’s problems’ is
+by no means an objec-
+tive goal, and when an
+organisation is free to
+define its own metrics of
+success, it should come
+as no surprise when those
+metrics happen to align
+with the interests of its
+masters. And under Boris
+gender identity diversity.
+But ultimately, anyone
+still considering applying
+for this job has to ask
+themselves whether they
+really believe that joining
+Cummings’ basket of
+oddballs will see their
+labour contribute to the
+betterment of society. And
+if not, do they care?
+“What’s really
+missing from
+Cummings’
+2900 words is a
+sense of moral
+direction, with
+no indication
+of what
+policies will be
+supported”
+

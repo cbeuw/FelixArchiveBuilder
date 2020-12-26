@@ -1,0 +1,231 @@
+FRIDAY 9TH OCTOBER 2020
+SCIENCE
+11
+Science.felix@imperial.ac.uk Felixonline.co.uk
+Earth.” stressed Dr Clements. “It’s also
+way drier – 20 times drier than the Ata-
+cama Desert, which is the driest place on
+Earth, and water is by and large thought
+to be an essential component for life to
+operate.So–howdoes[anypossiblelife]
+cope with that? We don’t know.”
+“There is no reason to assume that
+something that evolved separately on a
+different body is going to use the same
+biochemistry that we have – that it’s go-
+ing to use DNA, RNA, the Krebs cycle
+for metabolism... So that’s why it’s sur-
+prising. We need to know whether that’s
+the case, because if it does turn out to
+have DNA then the chances are that life
+evolved once in the Solar System and
+spread to other planets through asteroid
+impacts... But if it turns out to be a sepa-
+rate origin of life,
+then you’ve got
+two planets, bang
+next door to each
+other, and life has
+happened twice,
+entirely inde-
+pendently. What
+does that say
+about the distri-
+bution of life in
+the universe? It
+means it’s going
+to be really com-
+mon.”
+On the possi-
+bility of there being a biological origin
+forthephosphine,DrClementssaidthat
+his co-author Dr William Bains “still
+thinks there’s a 90% chance that this is
+just chemistry that
+we haven’t found –
+some strange photo-
+chemistry that the
+weird environment
+of Venus was able to
+do.”
+“Obviously, we
+would all love for it
+to be biological, but
+if there’s a particular
+result that you would
+like to be the case,
+you have to be that
+result’s worst enemy.
+That’s how responsi-
+ble science is done. But I still really want
+it to be life.”
+So what next? The paper concludes
+that next steps would be to conduct in
+situ measurements or to do aerosol re-
+turn, i.e. sending a probe to Venus to
+study a sample. Mission concepts to visit
+the Venusian clouds are being discussed
+at NASA but space missions notoriously
+take years to launch. However, Dr Mu-
+eller-Wodarg remains optimistic: “Some-
+times surprises happen, like the Venus
+Express mission. It was developed over
+the course of two years because it was
+made from flight spares from several oth-
+er missions, so a Venus mission is doable
+over a shorter amount of time.”
+He chuckled. “Maybe this is the clos-
+est we’ll ever get to a Nobel Prize – how
+about that?”
+CONTINUED
+“
+IF THERE’S A
+PARTICULAR
+RESULT YOU
+WANT, YOU HAVE
+TO BE THAT
+RESULT’S WORST
+ENEMY.
+Trump treated with experimental
+antibody cocktail
+Donald Trump, adept science denier
+and alternative facts authority, has
+become an unwitting participant in the
+scientific method.
+After testing positive for COVID-19
+on early Friday morning, President
+Trump was flown to Walter Reed
+National Military Medical Centre as a
+“precautionary measure”. Disclosed in a
+public memo, the President’s treatment
+included the prescription of an 8g dose
+of experimental polyclonal antibody
+drug, REGN-COV2.
+Developed by Regeneron Pharma-
+ceuticals, REGN-COV2 is currently
+undergoing clinical trials after showing
+promising results in reducing levels of
+viral particles and improving symptoms
+in those infected. The drug combines
+two potent monoclonal antibodies:
+man-made proteins like those produced
+naturally by the immune system that
+bind to specific protein sites on vi-
+ruses. As antibodies are so exactly
+specified, any change to the pro-
+tein through a viral mutation will
+render the antibody ineffective.
+This is called ‘viral escape’ and it is
+this mechanism that REGN-COV2
+acts against. The drug’s antibodies bind
+to two distinct sites on the SARS-CoV2
+spike protein – in turn meaning that
+two simultaneous viral mutations of
+the protein would be required for viral
+escape. In this way, when the drug is
+administered, the likelihood of
+‘escape mutants’ and thus
+the infectivity of the
+virus is reduced.
+While allergic
+reactions to for-
+eign antibodies are
+typical of similar
+treatments, any
+potential side-ef-
+fects of REGN-
+COV2 are
+yet to
+be
+confirmed.
+It’s early days for this new drug, but
+with $450 million to support clinical
+development, signs of great promise in
+pre-clinical trials, and the chance of a
+ringing presidential endorsement, the
+future looks hopeful for REGN-
+COV2 and the patients it
+could treat.
+Editor’s note: Since this
+article was written, the
+President was discharged
+from Walter Reed on
+Monday.
+Legacy system
+causes 16,000
+unreported
+coronavirus cases
+Over 16,000 coronavirus test cases
+between September 25th and Oc-
+tober 2nd went unreported due to the
+Public Health England’s (PHE) use of a
+13-year-old Microsoft Excel document
+format (.xls) to store data.
+This format, which dates back to
+1987, has a fixed capacity of 65,536
+rows, whereas the new one (.xlsx) re-
+leased in 2007 supports up to 1,480,576
+rows. Test results were initially popu-
+lated in a CSV file (which has no fixed
+size limit) and then automatically fed
+into an Excel template file. During this
+automated process, the number of rows
+reached the maximum limit, leaving the
+remaining data ignored. A temporary
+fix to this problem has been issued,
+which involves splitting up the data into
+smaller batches, and several people are
+calling for a replacement. However, it is
+a source of national embarrassment that
+such critical data, used by the NHS test
+and trace system and the PHE reporting
+dashboard, is managed through an Excel
+spreadsheet.
+William Carter Science Writer
+Sudarshan Sreeram Tech Editor
+Photo credits: Alex Brandon/AP
+on early Friday morning, President
+Trump was flown to Walter Reed
+National Military Medical Centre as a
+“precautionary measure”. Disclosed in a
+public memo, the President’s treatment
+included the prescription of an 8g dose
+of experimental polyclonal antibody
+drug, REGN-COV2.
+Developed by Regeneron Pharma-
+ceuticals, REGN-COV2 is currently
+undergoing clinical trials after showing
+promising results in reducing levels of
+viral particles and improving symptoms
+in those infected. The drug combines
+two potent monoclonal antibodies:
+man-made proteins like those produced
+naturally by the immune system that
+bind to specific protein sites on vi-
+ruses. As antibodies are so exactly
+specified, any change to the pro-
+tein through a viral mutation will
+render the antibody ineffective.
+This is called ‘viral escape’ and it is
+this mechanism that REGN-COV2
+acts against. The drug’s antibodies bind
+the infectivity of the
+virus is reduced.
+While allergic
+reactions to for-
+eign antibodies are
+typical of similar
+treatments, any
+potential side-ef-
+fects of REGN-
+COV2 are
+yet to
+be
+COV2 and the patients it
+could treat.
+Editor’s note: Since this
+article was written, the
+President was discharged
+from Walter Reed on
+Monday.
+

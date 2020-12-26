@@ -1,0 +1,126 @@
+KEEP THE CAT FREE
+SCIENCE
+Science.felix@imperial.ac.uk Felixonline.co.uk
+6
+Professor Sir Martin Hairer, Chair in
+Probability and Stochastic Analysis
+at Imperial College London, has just
+been awarded the $3m 2021 Break-
+through Prize for contributions to the
+mathematical field of stochastic analy-
+sis.
+The Breakthrough Prize was founded
+by billionaire philanthropists such as
+Sergey Brin of Google and Mark Zuck-
+erberg of Facebook. First awarded in
+2012, it aims to “honour the most pro-
+found and transformative discoveries”
+and counts Stephen Hawking amongst
+its laureates.
+Sir Martin Hairer has previously
+been awarded the prestigious Fields
+Medal and joined the maths depart-
+ment at Imperial in 2017.
+Felix sat down with Sir Martin Hair-
+er (over Microsoft Teams, of course) to
+discuss his research and what it’s like to
+win a $3m prize.
+Felix: Firstly, congratulations on
+winning the Breakthrough Prize!
+How did you feel when you heard you
+had won?
+MH: Surprised! I was first told by
+the head of the selection committee,
+Terence Tao. I didn’t expect that at all
+- he sent me an email asking if we could
+have a chat on Skype, and we were both
+involved in the organisation of the next
+Congress of Mathematics, so I just
+thought it was something about that.
+But obviously I was extremely happy
+and honoured that they selected my
+work for that prize.
+Felix: Has there been a ceremony?
+MH: Not yet - the ceremony was
+meant to be in November, but because
+of the whole COVID situation that’s
+notworkingout.Soit’sbeenpostponed
+to the end of March. We’ll see how that
+turns out.
+Felix: You’ve been recognised for
+your work in stochastic partial differ-
+ential equations. How would you de-
+scribe this field?
+MH: So first I should start by ex-
+plaining what a differential equation is.
+These equations are used to describe,
+for example, the movement of celestial
+bodies. In that case, you have a physical
+law that tells you how their position,
+which is a function, changes instanta-
+neously with time. Now, partial dif-
+ferential equations are a similar type
+of equation, but where you could have
+a function dependent on two or more
+variables – so before we had time, and
+now space can join the game as well.
+These can describe the motion of a
+fluid, and the function would be the
+velocity of the fluid at every point de-
+pendent on density, maybe tempera-
+ture and other parameters as well. So it
+would vary not just in time, but also in
+space, and the partial differential equa-
+tions that describe this system will also
+involve both time and space.
+Stochastic partial differential equa-
+tions consider the randomness of the
+system. There’s some random influ-
+ence that acts on
+your system,
+and there would
+be an addition-
+al term in the
+equation to de-
+scribe that. So
+for our fluid ex-
+ample, random-
+ness could be
+thermal fluctu-
+ations, or wind
+blowing on the surface of the water.
+One example I’ve used several times is
+stirring a cup of tea – the motion of the
+spoon might be modelled by a random
+term. These are the type of equations I
+am interested in.
+More specifically, the chunk of work
+I got the prize for was for analysing a
+class of such equations where the solu-
+tions are extremely irregular, and the
+randomness acts in such a way that the
+solutions vary rap-
+idly in space. They
+become so irregu-
+lar that when you
+write down an
+equation, it’s not
+even clear how to
+interpret the equa-
+tion from a math-
+ematical point of
+view.
+Felix: So these solutions are not
+even analytical then?
+MH: No, not at all, in some cases
+The Imperial mathematician who won
+the $3m Breakthrough Prize
+Ansh Bhatnagar Science Editor
+Professor Sir Martin Hairer, Fields Medallist and winner of the 2021 Breakthrough Prize in Mathematics
+Photo credits: Imperial College London
+IT’S ABOUT TRYING
+TO UNDERSTAND
+THE PHENOMENON
+OF UNIVERSALITY.
+“
+
