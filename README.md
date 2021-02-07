@@ -41,4 +41,4 @@ json files.
 ## configsets/felix_archive
 This is the solr schema. It has 5 fields: id, date, issue, page, content.
 This should be copied to `[solr_root]/sever/solr/configsets` so that a new solr core
-can be created with this schema using `bin/solr create -c [core name] -n felix_archive`
+can be created with this schema using `bin/solr create -c [core name] -d felix_archive`
