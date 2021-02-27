@@ -20,6 +20,15 @@ Usage: python3 extract_date.py [directory containing output of extract_text.sh] 
 This Python script attempts to extract the issue date from the text of each issue. **The result requires manual validation**.
 A manually validated (although not error-free) mapping between issue number and issue dates is in `felix_dates.csv`
 
+## configsets/felix_archive
+```
+Prerequisite: Apache Solr
+Usage: cp -r configsets/felix_archive [solr_root]/sever/solr/configsets
+```
+This is the solr schema. It has 5 fields: id, date, issue, page, content.
+This should be copied to `[solr_root]/sever/solr/configsets` so that a new solr core
+can be created with this schema using `bin/solr create -c [core name] -d felix_archive`
+
 ## solrify.py
 ```
 Prerequisite: Python 3.8 or above, dateutil package, Unix-like OS preferred
@@ -38,7 +47,5 @@ json files.
 
 `output` folder contains the output of this script
 
-## configsets/felix_archive
-This is the solr schema. It has 5 fields: id, date, issue, page, content.
-This should be copied to `[solr_root]/sever/solr/configsets` so that a new solr core
-can be created with this schema using `bin/solr create -c [core name] -d felix_archive`
+## missing_issues.txt
+This text file lists the issue numbers that are missing from the archive we have
