@@ -186,7 +186,6 @@ def read_issue(issues_root: str, issue_no: str) -> List[dict]:
         page_no: str = page.split(".txt")[0]
         document["id"] = issue_no + "p" + page_no
         if dates[issue_no] == "":
-            print("Warning: Issue {} has no date".format(issue_no))
             document["date"] = "0001-01-01T00:00:00Z"
         else:
             document["date"] = dates[issue_no]
@@ -198,14 +197,18 @@ def read_issue(issues_root: str, issue_no: str) -> List[dict]:
     return documents
 
 
-issues_root = sys.argv[1]
-output_dir = sys.argv[2]
+min_issue = int(sys.argv[1]) if len(sys.argv) > 1 else 1
+max_issue = int(sys.argv[2]) if len(sys.argv) > 2 else 9999  # good for a few centuries
+issues_root = sys.argv[3] if len(sys.argv) > 3 else "text"
+output_dir = sys.argv[4] if len(sys.argv) > 4 else "output"
 
 
 def process_issue(issue):
     if not os.path.isdir(os.path.join(issues_root, issue)):
         return
     print(f"processing Issue {issue}")
+    if dates[issue] == "":
+        print("Warning: Issue {} has no date".format(issue))
     issue_content = read_issue(issues_root, issue)
     with open(os.path.join(output_dir, issue + ".json"), 'w', encoding='utf-8') as f:
         json.dump(issue_content, f, indent=2)
@@ -226,7 +229,7 @@ if __name__ == "__main__":
                     dates[row['issue_no']] = parsed_date.date().isoformat() + "T00:00:00Z"
 
     issues = os.listdir(issues_root)
-    issues = filter(lambda i: int(i) >= int(sys.argv[3]) and int(i) <= int(sys.argv[4]), issues)
+    issues = filter(lambda i: min_issue <= int(i) <= max_issue, issues)
     if platform.system() == "Linux" or platform.system() == "Darwin":
         # Unix
         # Unix's fork() behaviour allows us to share memory for objects like date, wordcost and

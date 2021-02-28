@@ -4,7 +4,7 @@ This repo contains scripts used to extract and clean up texts from Felix archive
 ## extract_text.sh
 ```
 Prerequisite: Have pdftotext from Xpdf command line tools installed
-Usage: extract_text.sh [first issue inclusive] [last issue inclusive] [directory containing pdfs] [output directory]
+Usage: extract_text.sh [first issue inclusive] [last issue inclusive] [directory containing pdfs (default ".")] [output directory (default "text")]
 ```
 This bash script extracts the OCRed text from Felix archive PDFs into text documents. 
 Each issue has its own folder, in which there are text files representing pages in that issue. 
@@ -32,7 +32,7 @@ can be created with this schema using `bin/solr create -c [core name] -d felix_a
 ## solrify.py
 ```
 Prerequisite: Python 3.8 or above, dateutil package, Unix-like OS preferred
-Usage: python3 solrify.py [directory containing output of extract_text.sh] [output directory]
+Usage: python3 solrify.py [first issue inclusive] [last issue inclusive] [directory containing output of extract_text.sh (default "text")] [output directory (default "output")]
 ```
 This Python script reads the OCRed archive content, performs a cleanup and output json files ready to be imported into solr. 
 The cleanup involves mainly two things:

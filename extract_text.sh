@@ -27,7 +27,7 @@ function extract_range(){
   done
 }
 
-pdf_root="${1:-./}"
-output_dir="${2:-text/}"
+pdf_root="${3:-./}"
+output_dir="${4:-text/}"
 
-extract_range $3 $4
+extract_range $1 $2
