@@ -1,0 +1,216 @@
+In this week’s issue, we take a closer
+look at how major stock indexes have
+been affected worldwide due to a variety
+of drivers, in particular with what is go-
+ing on in the European and US markets
+but we also have an opinion on Chinese
+indexes following suspension of the
+Ant Group IPO, due to have been the
+record-breaking IPO with $37 billion
+USD raised from institutional investors.
+Here is a look at technology in global
+markets through the lens of stock indi-
+ces.
+Europe
+As for some recent especially recent
+news, STOXX Europe 600 (a European
+stock index) fell almost 6% this week.
+This pushed the index to its lowest point
+since May this year. We can likely attrib-
+ute this to the fact that investors reacted
+to the further lockdown measures being
+announced due to the second wave of
+COVID-19 in countries like Spain and
+Italy, and now also the England national
+lockdown, as well as the upcoming pres-
+idential election.
+The negative impact to European
+markets was especially prominent in the
+software giant’s, SAP SE’s, 20% drop in
+share price last week. This cloud based
+business operations company saw a far
+worse-than-expected
+third-quarter earn-
+ings update. Its shift
+from license software
+(with a one-time up-
+front payment) to
+the more typical sub-
+scription based cloud
+infrastructure means
+that profits will flow
+in less quickly. Furthermore, the Ger-
+man company said “Lockdowns have
+been reintroduced in some regions,
+recovery is uneven and companies are
+facing more business uncertainty.” Its
+mid-sized (businesses) clients were, as a
+result of COVID-19, moving towards
+cloud causing a need to improve on
+their services. Christian Klein, one of
+the two new CEOs of the firm, said “We
+will speed up the modernisation of our
+cloud delivery infrastructure,
+this will require additional in-
+vestments in 2021 and 2022,
+but it sets us up for a cloud cost
+margin of approximately 80
+percent by 2025.” This added
+investment into the software
+combined with the reduced
+revenues shot down SAP’s
+share price. However, Jefferies
+analysts say that the subscrip-
+tion services could make up to
+85% of turnover by 2025; so it’s
+not all doom and gloom!
+The reason we dive into SAP SE is that
+it is Europe’s largest software company,
+and the STOXX Europe 600 Technol-
+ogy Index (an analog of NASDAQ for
+Europe) fell 10.5% over the past week.
+Looking at the companies and contrib-
+utors of a stock index can help us more
+easily understand the movements of the
+index itself as these trends can often ap-
+ply to similar companies.
+US
+Again looking at technology, the US-
+based tech heavy NASDAQ index was
+down 5.5% this week despite the big
+tech companies doing well after reveal-
+ing their Q3 earnings reports. As I men-
+tioned above, it is important to look at
+the actual companies which contribute
+to a stock index; 49% of the NASDAQ
+100 is governed
+by Apple, Mi-
+crosoft, Ama-
+zon, Facebook,
+Alphabet (AKA
+Google), and
+Tesla. These
+companies have
+been through a
+lot over the past
+2 weeks, from growing pains related to
+the pandemic, to antitrust issues, the
+Section 230 hearing and electoral poli-
+tics. Despite this, they are booming due
+to the rising market for online advertis-
+ing and the obvious increase in screen
+time. “All of these companies have just
+returned an absolute killer of a quarter,”
+said Youssef Squali, an internet analyst
+at Truist. “The recovery curve is just a lot
+sharper than any of us expected. Online
+is taking a tonne of market share from
+offline.”
+The contentious hearing on Wednesday
+was truly a roller coaster. Roger Wicker,
+a Republican senator, opened the hear-
+ing by accusing Twitter and the other
+platforms of “selective censorship...in
+the midst of the 2020 election cycle”.
+(continued on the next page)
+This is because a New York Post tweet
+wastakendownasitlookedlikeahacked
+tweet. On the other hand, Tammy Bald-
+win, Wisconsin Democrat senator, said
+“I believe the Republicans have called
+this hearing in order to support a false
+narrative fabricated by the president to
+help his re-election prospects, the tech
+companies here today need to take more
+action, not less.” Outside of political de-
+bate, the hearing served as an evaluation
+of Section 230 of the 1996 Communica-
+tions Decency Act, a law that gives tech
+platforms immunity from being sued
+over user-generated content. Speaking
+to Section 230, Mark Zuckerberg called
+on Congress to “update the law to make
+sure it’s working as intended”. On the
+other hand Jack Dorsey said that erod-
+ing the foundation of Section 230 could
+collapse how we communicate on the
+internet, leaving only a small number
+of giant and well-funded technology
+companies.” This would be a terrible sit-
+uation for tech companies worldwide if
+not dealt with carefully. Furthermore,
+the hearing could result in additional
+pressure on companies to more careful-
+ly censor political ads which could have
+an impact on the election. However, the
+latest polling average puts Biden ahead
+of Trrrrrrrrump nationally but again this
+does not guarantee a Democrat victory.
+1. Shopify will ring its e-commence to
+TikTok
+2. AMD looks to buy chip peer Xilinx
+for $35 billion in data centre push
+3. Dunkin’ Brands shocked investors
+this week as talks overtaking it rose
+4. The Google parent company was
+the star of the evening after crushing
+expectations with revenue of $46.17
+billion and EPS of $16.40
+5. The world’s largest e-commerce
+platform posted sales growth of 37%
+to $96.15 billion, with earnings per
+share smashing expectations at $12.37
+versus the $7.41 estimate
+6. The Australian firm topped analyst
+estimates with earnings of $0.30 per
+share on revenue of $459.5 million
+7. Everyone wants a pickup according
+to Ford’s blowout Q3 earnings, which
+saw EPS come in at a whopping $0.65
+versus $0.19 expected, on revenue of
+$34.71 billion versus $33.51 billion
+8. The American sports equipment
+company topped expectations today,
+reporting revenue of $1.43 billion
+versus the $1.16 billion expected.
+EPS rose to $0.26
+9. Despite strong Mac and iPad sales,
+Apple’s earnings disappointed as iP-
+hone revenue of $26.44 billion missed
+estimates, while EPS of $0.73 on
+overall revenue of $64.7 billion barely
+beat the Street
+10. Microsoft got the ball rolling for
+Big Tech on Tuesday after reporting
+expectation-beating earnings of $1.82
+on revenue of $37.15 billion. Howev-
+er, guidance for the current quarter
+disappointed at between $39.5 and
+$40.4 billion, causing shares to fall on
+Wednesday
+11. The virus showed us yet again this
+week that it’s in charge. Global yields
+had only just started climbing, with
+polls suggesting Democrats have a
+shot at a clean sweep of the White
+House and Congress and an unfet-
+tered decision on a large spending
+package
+12. Christine Lagardedidn’t mince
+words in Thursday’s European Cen-
+tral
+Market Summary
+A deep dive on tech Credits: Photos Hobby
+MARKET INDEXES
+HAVE SEEN
+INCREASE IN FEAR
+“
+Technology continues to rise in the 2020s.
+Nikhil Narayanan Investment writer
+Geoff Sang Investment editor
+Riccardo Pierre Investment writer
+FRIDAY 6TH NOVEMBER 2020
+INVESTMENT
+19
+Investment.felix@imperial.ac.uk Felixonline.com
+

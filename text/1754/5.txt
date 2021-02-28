@@ -1,0 +1,149 @@
+The UK’s latest £55m nuclear
+fusion experiment switched on
+last Thursday (October 29th) after a
+seven-year build.
+Located at the Culham Centre for
+Fusion Energy in Oxfordshire, the
+Mega Ampere Spherical Tokamak
+(MAST) Upgrade is a successor exper-
+iment to the original MAST, which
+operated from 1999 to 2013.
+What makes MAST Upgrade
+unusual is its shape; while more well-
+known fusion experiments such as
+France’s ITER are tokamaks based on a
+torus (essentially, a doughnut), MAST
+Upgrade is a spherical tokamak, which
+has a shape more akin to a cored apple.
+Both designs operate on the same
+principle: confine a super-hot hydro-
+gen plasma in the shape of a torus
+using strong magnetic fields, sustain-
+ing a steady rate of fusion reactions.
+However, the ‘cored apple’ shape of
+the spherical tokamak is expected
+to give multiple advantages over the
+torus shape of the traditional tokamak,
+namely mak-
+ing it more
+compact and
+able to use
+magnetic
+fields more
+efficiently.
+The MAST
+Upgrade
+experiment
+aims to shed
+new light on
+the practical-
+ity of the spherical tokamak design for
+compact power plants.
+MAST Upgrade is also the first
+fusion reactor to make use of the ‘Su-
+per-X divertor’, which is a system that
+aims to expel spent plasma by cooling
+it more than commonly used exhaust
+systems. With cooler material going
+through the divertor, materials used
+on divertor surfaces should be able to
+last longer before needing replacement.
+The Culham Centre for Fusion Energy
+believe that this system, if shown to
+work successfully, will be a key design
+for commercial fusion reactors.
+In a Government press release,
+Science Minister Amanda Solloway
+looked forward to the future: “We
+want the UK to be a world leader in
+fusion energy and to capitalise on its
+amazing potential as a clean energy
+source that could last for hundreds of
+years. Backed by £55 million of gov-
+ernment funding... [MAST Upgrade]
+takes us another step closer towards
+our goal of building the
+UK’s first fusion power
+plant by 2040.”
+However, the Govern-
+ment’s commitment to
+the UK being a world
+leader in fusion remains
+in doubt. Despite calls
+from scientists for the
+UK to remain part of the
+European Atomic Energy
+Community (Euratom),
+the UK has not yet re-
+solved this in the ongoing
+Brexit negotiations and is
+thus not currently party
+to the ITER programme,
+which aims to construct
+the world’s largest tokam-
+ak and demonstrate that
+fusion is indeed a viable
+energy source.
+UK’s latest fusion reactor, MAST
+Upgrade, boots up
+2040
+UK Govern-
+ment target
+for first fusion
+power plant
+Figure 1: Binding energy per nucleon (MeV) against atomic mass number.
+Picture credits: James Provost/AAAS
+What is nuclear
+fusion?
+Nuclear fusion is a promising
+energy source for the future. Where
+nuclear fission splits heavy atoms in
+a chain reaction, fusion joins light
+atoms together. Both these pro-
+cesses release energy despite being
+opposites to one another: this is
+due to a quantity called the bind-
+ing energy per nucleon. A graph of
+this quantity against atomic mass
+can be seen in Figure 1. This curve
+shows that it is energetically favour-
+able for lighter elements to fuse
+to become heavier elements, and
+for very heavy elements to split to
+become lighter elements.
+This is a powerful graph; not
+only does it show us that fusion re-
+leases a lot more energy than fission
+for the same mass of fuel, it also
+shows that iron is in a sense the
+most stable nucleus; it is not ener-
+getically favourable for it to split
+or fuse. This is why stars can only
+make elements up to and including
+iron.
+Fusion requires two nuclei to
+overcome their electrostatic repul-
+sion by getting close enough so
+that the strong force kicks in. This
+initial repulsion is strong; stars
+manage to get hydrogen nuclei
+close due to immense pressure and
+temperatures at their centres thanks
+to gravity, however these condi-
+tions are difficult to replicate on
+Earth without huge inefficiencies.
+Due to these inefficiencies, fusion
+experiments currently take in more
+energy than they give back. In
+order for fusion energy to become
+a practical source of clean and safe
+power, these inefficiencies must be
+reduced.
+Ansh Bhatnagar Science Editor
+Toroidal tokamaks vs spherical tokamaks: which is the future for fusion?
+Picture credits: OpemStax University Physics
+FRIDAY 6TH NOVEMBER 2020
+SCIENCE
+5
+Science.felix@imperial.ac.uk Felixonline.co.uk
+

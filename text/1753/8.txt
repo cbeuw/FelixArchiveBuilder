@@ -1,0 +1,155 @@
+KEEP THE CAT FREE
+SCIENCE
+Science.felix@imperial.ac.uk Felixonline.com
+8
+Research shows that in certain in-
+dividuals, COVID symptoms can
+last longer than the typical 3-10 days
+one would expect from a respiratory
+illness, dramatically altering their daily
+lives through a condition known as ‘long
+COVID’.
+For some people, long COVID is a pro-
+longeddiseasestate,includingsymptoms
+such as lasting loss of sense of taste and
+smell, breathlessness, and chronic pain.
+Others may experience resurgences of
+more ‘typical’ COVID symptoms, such
+asafeverorcough.Suchresurgencesmay
+be mistaken for reinfections, but current
+knowledge suggests that these are ex-
+tremely unlikely in such a relatively short
+time period. Overwhelmingly, however,
+the most common symptom is debilitat-
+ing fatigue.
+It is estimated that one in 20 people
+infected with COVID-19 are ill for a
+minimum of 8 weeks, with many people
+being affected for many months. A study
+conducted in 143 people in Rome found
+that 87% of hospital patients had a min-
+imum of one symptom almost 2 months
+from the date of discharge. However,
+long COVID does not only affect those
+who have undergone intensive care; pa-
+tients with relatively mild infections may
+also experience this syndrome.
+A recent study performed by scientists at
+King’s College London aims to identify
+possible individual cases of long COVID
+early on, subsequently allowing health
+services to plan for additional care of
+earlier, more intensive treatment. Here,
+computational techniques were used to
+analyse symptomatic and test result data
+inputted by individuals into the ‘Covid
+Symptom Study’ app and predict which
+of those would go on to experience long
+COVID. However, despite the mod-
+el correctly identifying 69% of people
+who experienced long COVID, around
+a quarter of results were false positives
+(i.e. were predicted to have long COV-
+ID, but in reality, underwent a speedy
+recovery). Therefore, further research is
+required to perfect and adapt the model
+for improved detection efficiency.
+Nevertheless, being female, overweight
+and having underlying respiratory con-
+ditions, such as asthma or lung disease,
+were all shown to increase the risk of
+long COVID - the former of which may
+appear surprising given that men gener-
+ally seem to be at higher risk of severe
+disease and death from COVID. Per-
+haps less surprisingly, risk was also found
+to increase with age. Dr Claire Steves, a
+scientist involved in the King’s College
+London study, adds: “Having more than
+five different symptoms in the first week
+was one of the key risk factors.”
+While this is yet to be definitively con-
+firmed, numerous hypotheses exist. One
+oftheseisthatdespitebeingclearedfrom
+most of the body, the coronavirus still
+lingers in small spaces or areas. Alterna-
+tively, since the virus triggers an intensive
+immuneresponse,anotherideaisthatthe
+immune system does not fully return to
+its normal state, so overactive function-
+ing causes further health problems and
+damage. The WHO has cautioned that
+widespread inflammation in post-COV-
+ID patients leads to a higher risk of heart
+diseases at a younger age. Furthermore,
+some unexpected organs may be affect-
+ed in the long term: COVID is thought
+to alter human metabolism, resulting in
+post-COVID diabetes or lipid process-
+ing, cause abnormal clotting and prema-
+ture ageing of blood vessels, and perhaps
+even cause changes in brain structure.
+Overall, while curbing the immediate
+spread of the pandemic remains the pri-
+mary goal worldwide, discovering the
+causes behind and treating long COVID
+will nonetheless yield multiple benefits.
+Recognising this, the NHS has recently
+announcedtheprovisionofa£10million
+package to fund long COVID clinics
+around the country. Despite time being a
+crucial component of such investigation,
+with the copious amounts of further re-
+search currently being performed, with
+every publication we are one step closer
+to tackling this unexpected pandemic.
+Long COVID: What do we know?
+Julia Dabrowska Science Editor
+In order to put an end to the glob-
+al coronavirus pandemic, researchers
+around the world are working tire-
+lessly to develop a vaccine to protect
+against COVID-19. While vaccine
+production usually takes multiple
+years, a coronavirus vaccine is hoped
+tobedevelopedwithin12-18months.
+Vaccine testing can be split into 5
+stages:
+Pre-clinical – animal testing to see
+whether the vaccine elicits an immune
+response.
+Phase I – healthy human volunteers
+to determine safety and evaluate im-
+mune response.
+Phase II – hundreds of volunteers to
+identify correct dosage.
+Phase III – thousands of volunteers
+toconfirmsafetyandefficacyvs.apla-
+cebo.
+Phase IV – studies on adverse effects,
+long-termmmunityandvaccineusage
+following the approval and licensing
+of the vaccine.
+The WHO is currently tracking the
+progress of over 170 candidate vac-
+cines; at Felix, we’ve chosen 5 of the
+most promising candidates to follow,
+so watch this space!
+New Update: This week, the Oxford/
+AstraZeneca vaccine candidate was
+reported to have effectiveness in both
+youngandolderadults,whichwasone
+of the greatest prior concerns. More
+detailed results from the Phaase II
+study are to be published in a peer-re-
+viewed journal.
+COVID-19 VACCINE TRACKER: Felix Edition
+Julia Dabrowska Science Editor
+WHAT IS LONG
+COVID?
+WHAT FACTORS IN-
+CREASE THE RISK?
+WHAT IS THE BIO-
+LOGICAL BASIS OF
+LONG COVID?
+

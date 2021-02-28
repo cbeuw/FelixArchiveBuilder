@@ -1,0 +1,206 @@
+Europe is not particularly well known
+for its tech companies, with the entire
+industry being valued at less than half
+of Apple alone. Local companies have
+stagnated or been acquired, leading to
+this side of the Atlantic having an almost
+complete dependence on the US for
+some of the most important things in
+modern society. There is one exception
+to this trend, however – ARM. ARM as
+a company is not very well known to the
+public but is hugely influential in daily
+life. With over 180 billion processors
+based on its designs shipped – including
+in almost every smartphone ever made
+– it may be the technology we interact
+with most. The company operates on a
+different model to most others; instead
+of selling its own products, ARM devel-
+ops intellectual property which it licens-
+es to others, receiving a small royalty on
+every product shipped that uses its tech-
+nology.
+This business model has become the
+driver behind
+its massive
+s u c c e s s .
+Known as
+the “Swit-
+zerland of
+the semi-
+conductor
+industry”,
+A R M ’ s
+willingness
+to license
+its IP to
+anyone and
+ever yone
+has meant
+companies
+have been
+confident
+enough to spend billions on R&D un-
+derpinning their businesses with ARM
+technology – with Apple, for example,
+moving all of its products to ARM based
+designs in the coming years. This neu-
+trality is something that is threatened by
+the proposed $40 billion acquisition of
+ARM by Nvidia, a company best known
+for its GPUs. This proposal, in my opin-
+ion, is not only detrimental to ARM,
+but also to the European tech industry
+and possibly even national security.
+To be clear, ARM has not technically
+been independent in recent times - af-
+ter a $32 billion acquisition by Japanese
+conglomerate Softbank in 2016, the
+company was removed from the LSE
+and NASDAQ. Despite Nvidia offering
+the same promises as Softbank made in
+its deal – such as keeping the company
+headquarters in the UK, with the UK’s
+most powerful supercomputer thrown
+in as a sweetener – there are some key
+differences between the two companies.
+Softbank, despite its massive $100
+billion “Vision Fund” for investing in
+technology, is not a player in the semi-
+conductor industry, meaning it is in its
+best interests to make ARM as open to
+licensing as possible. Nvidia, on the oth-
+er hand, operates in the same markets
+as many of the companies that license
+ARM technologies, such as Samsung
+and AMD. Nvidia could very easily re-
+strict what licensees could do
+with their future ARM based
+products, raising prices and
+stifling innovation – and
+with a reputation for an-
+ti-competitive behaviour,
+this is not inconceivable.
+Without any legally bind-
+ingguarantees,Nvidia’s
+promises that it will
+do the right thing are
+meaningless.
+The second issue
+with Nvidia taking
+ownership of ARM
+is the fact that it is head-
+quartered in the USA. The
+Trump Administration has
+increasingly embraced pro-
+tectionism,placingsomeforeigncompa-
+nies, such as Huawei, on what is known
+as the Entity List. Whether these sanc-
+tions are justified or not is beyond the
+scope of this article – what this means,
+however, is that all US-based companies
+are barred from trading with the mem-
+bers of the Entity List. The restrictions
+do not stop there; any foreign compa-
+nies are also barred from trading with
+the companies
+on the Entity
+List if they
+utilise any
+technology
+of US origin
+– however
+little – in
+their prod-
+ucts. Being
+a UK-based
+c o m p a n y,
+ARM is im-
+mune to this
+legislation,
+allowing it
+to continue
+to trade with whoever it wishes to. This
+is a very powerful ability to have – im-
+munity from US sanctions is something
+countries spend billions developing, for
+example through Russia, China, and the
+EU’s independent satellite navigation
+systems. Throwing away this influence is
+a clear detriment to national security.
+Softbank is not selling because it wants
+to – it is selling because it needs to.
+Through some bad investments such as
+WeWork and
+the impact
+of the
+coronavirus
+pandemic, the
+conglomerate
+is in desperate
+need of cash,
+and as such is
+selling off one of
+its jewels in a last-ditch attempt
+for some liquidity. One avenue to be
+pursued – favoured by ARM cofounder
+Dr Hermann Hauser – is for ARM to go
+public again, with the possibility of the
+UK Government taking a stake in the
+company.AlthoughtheGovernmenthas
+shown an appetite for such
+deals recently – investing
+$500 million for a stake
+in satellite communica-
+tions company OneWeb
+– the technological illit-
+eracy of our politicians
+means the importance
+of ARM is probably go-
+ing to fly right over their
+heads, instead viewing
+the deal as another pawn
+in the post Brexit trade
+deal negotiations. Other
+options are likely to be
+equally as problematic
+as the one proposed by
+Nvidia – the kind of organisations with
+this kind of money tend to be American
+tech companies or state backed invest-
+mentfunds.Thefinal,mostlikelyoption
+is for the acquisition to be approved,
+with regulators negotiating legally bind-
+ing agreements to get around some of
+the issues with the deal. Unfortunate-
+ly, it looks as if we will see yet another
+promising European technology com-
+pany swallowed up for a
+fraction of its potential
+value.
+Shrey Bohra Tech Writer
+Why Nvidia’s ARM Acquisition
+Should Be Blocked
+THIS PROPOSAL
+IS DETRIMENTAL
+NOT ONLY TO
+ARM, BUT ALSO
+THE EUROPEAN
+TECH INDUSTRY
+AND NATIONAL
+SECURITY
+“
+NVIDIA COULD
+VERY EASILY
+RESTRICT WHAT
+LICENSEES DO
+WITH THEIR
+FUTURE ARM-
+BASED PRODUCTS
+“
+KEEP THE CAT FREE
+SCIENCE
+Science.felix@imperial.ac.uk Felixonline.com
+8
+
