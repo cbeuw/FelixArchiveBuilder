@@ -208,7 +208,7 @@ def process_issue(issue):
         return
     print(f"processing Issue {issue}")
     if dates[issue] == "":
-        print("Warning: Issue {} has no date".format(issue))
+        print(f"Warning: Issue {issue} has no date")
     issue_content = read_issue(issues_root, issue)
     with open(os.path.join(output_dir, issue + ".json"), 'w', encoding='utf-8') as f:
         json.dump(issue_content, f, indent=2)
